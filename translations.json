@@ -14220,8 +14220,8 @@
  },
  "src.txt::src.txt_2034": {
   "source": "Best score:",
-  "target": "Best score:",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -64034,8 +64034,8 @@
  },
  "src.txt::src.txt_2033": {
   "source": "BERRIES picked:",
-  "target": "BERRIES picked:",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
