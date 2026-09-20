@@ -37181,7 +37181,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1789921123.143556,
+  "updated": 1789921134.1254406,
   "touched": true
  },
  "datatext.txt::datatext.txt_963": {
@@ -52559,7 +52559,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1789921115.1560397,
+  "updated": 1789921142.192984,
   "touched": true
  },
  "data maps.txt::data maps.txt_517": {
@@ -76694,7 +76694,10 @@
   "target": "ZAPISUJĘ…\\nNIE WYŁĄCZAJ ZASILANIA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1789921132.1410475,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1180": {
   "source": "JUGGLER",
