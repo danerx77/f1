@@ -1,0 +1,2967 @@
+<<< FILE: src/battle_anim_status_effects.c >>>
+TASK OVER\nタスクがオ-バ-しました
+<<< FILE: src/battle_main.c >>>
+ヌケニン
+NORMAL
+FIGHT
+FLYING
+POISON
+GROUND
+ROCK
+BUG
+GHOST
+STEEL
+???
+FIRE
+WATER
+GRASS
+ELECTR
+PSYCHC
+ICE
+DRAGON
+DARK
+どく$$$$$
+ねむり$$$$
+まひ$$$$$
+やけど$$$$
+こおり$$$$
+こんらん$$$
+メロメロ$$$
+<<< FILE: src/battle_message.c >>>
+{B_TRAINER1_LOSE_TEXT}
+{B_TRAINER2_LOSE_TEXT}
+{B_TRAINER1_NAME}: {B_OPPONENT_MON1_NAME}, come back!
+{B_TRAINER1_WIN_TEXT}
+{B_TRAINER1_NAME}: {B_OPPONENT_MON2_NAME}, come back!
+{B_TRAINER1_NAME}: {B_OPPONENT_MON1_NAME} and\n{B_OPPONENT_MON2_NAME}, come back!
+{B_TRAINER2_WIN_TEXT}
+{B_BUFF1} gained{B_BUFF2}\n{B_BUFF3} EXP. Points!\p
+ a boosted
+{B_BUFF1} grew to\nLV. {B_BUFF2}!{WAIT_SE}\p
+{B_BUFF1} learned\n{B_BUFF2}!{WAIT_SE}\p
+{B_BUFF1} is trying to\nlearn {B_BUFF2}.\p
+But, {B_BUFF1} can't learn\nmore than four moves.\p
+Delete a move to make\nroom for {B_BUFF2}?
+{B_BUFF1} forgot\n{B_BUFF2}.\p
+{PAUSE 32}Stop learning\n{B_BUFF2}?
+{B_BUFF1} did not learn\n{B_BUFF2}.\p
+Use next POKéMON?
+{B_ATK_NAME_WITH_PREFIX}'s\nattack missed!
+{B_DEF_NAME_WITH_PREFIX}\nprotected itself!
+{B_DEF_NAME_WITH_PREFIX} avoided\ndamage with {B_DEF_ABILITY}!
+{B_DEF_NAME_WITH_PREFIX} makes GROUND\nmoves miss with {B_DEF_ABILITY}!
+{B_DEF_NAME_WITH_PREFIX} avoided\nthe attack!
+It doesn't affect\n{B_DEF_NAME_WITH_PREFIX}…
+{B_ATK_NAME_WITH_PREFIX}\nfainted!\p
+{B_DEF_NAME_WITH_PREFIX}\nfainted!\p
+{B_PLAYER_NAME} got ¥{B_BUFF1}\nfor winning!\p
+{B_PLAYER_NAME} is out of\nusable POKéMON!\p
+{B_PLAYER_NAME} panicked and lost ¥{B_BUFF1}…\p… … … …\p{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}
+{B_PLAYER_NAME} is out of\nusable POKéMON!\pPlayer lost against\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!{PAUSE_UNTIL_PRESS}
+{B_PLAYER_NAME} paid ¥{B_BUFF1} as the prize\nmoney…\p… … … …\p{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}
+{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}
+{B_SCR_ACTIVE_NAME_WITH_PREFIX} prevents\nescape with {B_SCR_ACTIVE_ABILITY}!\p
+Can't escape!\p
+{B_ATK_NAME_WITH_PREFIX} can't escape!
+Hit {B_BUFF1} time(s)!
+{B_EFF_NAME_WITH_PREFIX}\nfell asleep!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nmade {B_EFF_NAME_WITH_PREFIX} sleep!
+{B_DEF_NAME_WITH_PREFIX} is\nalready asleep!
+{B_ATK_NAME_WITH_PREFIX} is\nalready asleep!
+{B_DEF_NAME_WITH_PREFIX}\nwasn't affected!
+{B_EFF_NAME_WITH_PREFIX}\nwas poisoned!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\npoisoned {B_EFF_NAME_WITH_PREFIX}!
+{B_ATK_NAME_WITH_PREFIX} is hurt\nby poison!
+{B_DEF_NAME_WITH_PREFIX} is already\npoisoned.
+{B_EFF_NAME_WITH_PREFIX} is badly\npoisoned!
+{B_DEF_NAME_WITH_PREFIX} had its\nenergy drained!
+{B_EFF_NAME_WITH_PREFIX} was burned!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nburned {B_EFF_NAME_WITH_PREFIX}!
+{B_ATK_NAME_WITH_PREFIX} is hurt\nby its burn!
+{B_DEF_NAME_WITH_PREFIX} already\nhas a burn.
+{B_EFF_NAME_WITH_PREFIX} was\nfrozen solid!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nfroze {B_EFF_NAME_WITH_PREFIX} solid!
+{B_ATK_NAME_WITH_PREFIX} is\nfrozen solid!
+{B_DEF_NAME_WITH_PREFIX} was\ndefrosted!
+{B_ATK_NAME_WITH_PREFIX} was\ndefrosted!
+{B_ATK_NAME_WITH_PREFIX} was\ndefrosted by {B_CURRENT_MOVE}!
+{B_EFF_NAME_WITH_PREFIX} is paralyzed!\nIt may be unable to move!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nparalyzed {B_EFF_NAME_WITH_PREFIX}!\lIt may be unable to move!
+{B_ATK_NAME_WITH_PREFIX} is paralyzed!\nIt can't move!
+{B_DEF_NAME_WITH_PREFIX} is\nalready paralyzed!
+{B_DEF_NAME_WITH_PREFIX} was\nhealed of paralysis!
+{B_DEF_NAME_WITH_PREFIX}'s\ndream was eaten!
+{B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1}\nwon't go higher!
+{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\nwon't go lower!
+Your team's {B_BUFF1}\nstopped working!
+The foe's {B_BUFF1}\nstopped working!
+{B_ATK_NAME_WITH_PREFIX} is\nconfused!
+{B_ATK_NAME_WITH_PREFIX} snapped\nout of confusion!
+{B_EFF_NAME_WITH_PREFIX} became\nconfused!
+{B_DEF_NAME_WITH_PREFIX} is\nalready confused!
+{B_DEF_NAME_WITH_PREFIX}\nfell in love!
+{B_ATK_NAME_WITH_PREFIX} is in love\nwith {B_SCR_ACTIVE_NAME_WITH_PREFIX}!
+{B_ATK_NAME_WITH_PREFIX} is\nimmobilized by love!
+{B_DEF_NAME_WITH_PREFIX} was\nblown away!
+{B_ATK_NAME_WITH_PREFIX} transformed\ninto the {B_BUFF1} type!
+{B_ATK_NAME_WITH_PREFIX} flinched!
+{B_DEF_NAME_WITH_PREFIX} regained\nhealth!
+{B_DEF_NAME_WITH_PREFIX}'s\nHP is full!
+{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\nraised SP. DEF!
+{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\nraised SP. DEF a little!
+{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\nraised DEFENSE!
+{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\nraised DEFENSE a little!
+{B_ATK_PREFIX2}'s party is covered\nby a veil!
+{B_DEF_NAME_WITH_PREFIX}'s party is protected\nby SAFEGUARD!
+{B_ATK_PREFIX3}'s party is no longer\nprotected by SAFEGUARD!
+{B_ATK_NAME_WITH_PREFIX} went\nto sleep!
+{B_ATK_NAME_WITH_PREFIX} slept and\nbecame healthy!
+{B_ATK_NAME_WITH_PREFIX} whipped\nup a whirlwind!
+{B_ATK_NAME_WITH_PREFIX} took\nin sunlight!
+{B_ATK_NAME_WITH_PREFIX} lowered\nits head!
+{B_ATK_NAME_WITH_PREFIX} is glowing!
+{B_ATK_NAME_WITH_PREFIX} flew\nup high!
+{B_ATK_NAME_WITH_PREFIX} dug a hole!
+{B_ATK_NAME_WITH_PREFIX} hid\nunderwater!
+{B_ATK_NAME_WITH_PREFIX} sprang up!
+{B_DEF_NAME_WITH_PREFIX} was squeezed by\n{B_ATK_NAME_WITH_PREFIX}'s BIND!
+{B_DEF_NAME_WITH_PREFIX} was trapped\nin the vortex!
+{B_DEF_NAME_WITH_PREFIX} was trapped\nby SAND TOMB!
+{B_DEF_NAME_WITH_PREFIX} was WRAPPED by\n{B_ATK_NAME_WITH_PREFIX}!
+{B_ATK_NAME_WITH_PREFIX} CLAMPED\n{B_DEF_NAME_WITH_PREFIX}!
+{B_ATK_NAME_WITH_PREFIX} is hurt\nby {B_BUFF1}!
+{B_ATK_NAME_WITH_PREFIX} was freed\nfrom {B_BUFF1}!
+{B_ATK_NAME_WITH_PREFIX} kept going\nand crashed!
+{B_ATK_PREFIX2} became\nshrouded in MIST!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX} is protected\nby MIST!
+{B_ATK_NAME_WITH_PREFIX} is getting\npumped!
+{B_ATK_NAME_WITH_PREFIX} is hit\nwith recoil!
+{B_ATK_NAME_WITH_PREFIX} protected\nitself!
+{B_ATK_NAME_WITH_PREFIX} is buffeted\nby the sandstorm!
+{B_ATK_NAME_WITH_PREFIX} is pelted\nby HAIL!
+{B_ATK_PREFIX1}'s {B_BUFF1}\nwore off!
+{B_DEF_NAME_WITH_PREFIX} was seeded!
+{B_DEF_NAME_WITH_PREFIX} evaded\nthe attack!
+{B_ATK_NAME_WITH_PREFIX}'s health is\nsapped by LEECH SEED!
+{B_ATK_NAME_WITH_PREFIX} is fast\nasleep.
+{B_ATK_NAME_WITH_PREFIX} woke up!
+But {B_SCR_ACTIVE_NAME_WITH_PREFIX}'s UPROAR\nkept it awake!
+{B_ATK_NAME_WITH_PREFIX} woke up\nin the UPROAR!
+{B_ATK_NAME_WITH_PREFIX} caused\nan UPROAR!
+{B_ATK_NAME_WITH_PREFIX} is making\nan UPROAR!
+{B_ATK_NAME_WITH_PREFIX} calmed down.
+But {B_DEF_NAME_WITH_PREFIX} can't\nsleep in an UPROAR!
+{B_ATK_NAME_WITH_PREFIX} STOCKPILED\n{B_BUFF1}!
+{B_ATK_NAME_WITH_PREFIX} can't\nSTOCKPILE any more!
+But {B_DEF_NAME_WITH_PREFIX} can't\nsleep in an UPROAR!
+But the UPROAR kept\n{B_DEF_NAME_WITH_PREFIX} awake!
+{B_DEF_NAME_WITH_PREFIX} stayed awake\nusing its {B_DEF_ABILITY}!
+{B_ATK_NAME_WITH_PREFIX} is storing\nenergy!
+{B_ATK_NAME_WITH_PREFIX} unleashed\nenergy!
+{B_ATK_NAME_WITH_PREFIX} became\nconfused due to fatigue!
+{B_PLAYER_NAME} picked up\n¥{B_BUFF1}!\p
+{B_DEF_NAME_WITH_PREFIX} is\nunaffected!
+{B_ATK_NAME_WITH_PREFIX} transformed\ninto {B_BUFF1}!
+{B_ATK_NAME_WITH_PREFIX} made\na SUBSTITUTE!
+{B_ATK_NAME_WITH_PREFIX} already\nhas a SUBSTITUTE!
+The SUBSTITUTE took damage\nfor {B_DEF_NAME_WITH_PREFIX}!\p
+{B_DEF_NAME_WITH_PREFIX}'s\nSUBSTITUTE faded!\p
+{B_ATK_NAME_WITH_PREFIX} must\nrecharge!
+{B_DEF_NAME_WITH_PREFIX}'s RAGE\nis building!
+{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\nwas disabled!
+{B_ATK_NAME_WITH_PREFIX} is disabled\nno more!
+{B_DEF_NAME_WITH_PREFIX} got\nan ENCORE!
+{B_ATK_NAME_WITH_PREFIX}'s ENCORE\nended!
+{B_ATK_NAME_WITH_PREFIX} took aim\nat {B_DEF_NAME_WITH_PREFIX}!
+{B_ATK_NAME_WITH_PREFIX} SKETCHED\n{B_BUFF1}!
+{B_ATK_NAME_WITH_PREFIX} is trying\nto take its foe with it!
+{B_DEF_NAME_WITH_PREFIX} took\n{B_ATK_NAME_WITH_PREFIX} with it!
+Reduced {B_DEF_NAME_WITH_PREFIX}'s\n{B_BUFF1} by {B_BUFF2}!
+{B_ATK_NAME_WITH_PREFIX} stole\n{B_DEF_NAME_WITH_PREFIX}'s {B_LAST_ITEM}!
+{B_DEF_NAME_WITH_PREFIX} can't\nescape now!
+{B_DEF_NAME_WITH_PREFIX} fell into\na NIGHTMARE!
+{B_ATK_NAME_WITH_PREFIX} is locked\nin a NIGHTMARE!
+{B_ATK_NAME_WITH_PREFIX} cut its own HP and\nlaid a CURSE on {B_DEF_NAME_WITH_PREFIX}!
+{B_ATK_NAME_WITH_PREFIX} is afflicted\nby the CURSE!
+SPIKES were scattered all around\nthe opponent's side!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX} is hurt\nby SPIKES!
+{B_ATK_NAME_WITH_PREFIX} identified\n{B_DEF_NAME_WITH_PREFIX}!
+{B_ATK_NAME_WITH_PREFIX}'s PERISH count\nfell to {B_BUFF1}!
+{B_ATK_NAME_WITH_PREFIX} braced\nitself!
+{B_DEF_NAME_WITH_PREFIX} ENDURED\nthe hit!
+MAGNITUDE {B_BUFF1}!
+{B_ATK_NAME_WITH_PREFIX} cut its own HP\nand maximized ATTACK!
+{B_ATK_NAME_WITH_PREFIX} copied\n{B_DEF_NAME_WITH_PREFIX}'s stat changes!
+{B_ATK_NAME_WITH_PREFIX} got free of\n{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}!
+{B_ATK_NAME_WITH_PREFIX} shed\nLEECH SEED!
+{B_ATK_NAME_WITH_PREFIX} blew away\nSPIKES!
+{B_ATK_NAME_WITH_PREFIX} fled from\nbattle!
+{B_ATK_NAME_WITH_PREFIX} foresaw\nan attack!
+{B_DEF_NAME_WITH_PREFIX} took the\n{B_BUFF1} attack!
+{B_ATK_NAME_WITH_PREFIX} chose\n{B_CURRENT_MOVE} as its destiny!
+{B_BUFF1}'s attack!
+{B_ATK_NAME_WITH_PREFIX} became the\ncenter of attention!
+{B_ATK_NAME_WITH_PREFIX} began\ncharging power!
+NATURE POWER turned into\n{B_CURRENT_MOVE}!
+{B_ATK_NAME_WITH_PREFIX}'s status\nreturned to normal!
+{B_DEF_NAME_WITH_PREFIX} was subjected\nto TORMENT!
+{B_ATK_NAME_WITH_PREFIX} is tightening\nits focus!
+{B_DEF_NAME_WITH_PREFIX} fell for\nthe TAUNT!
+{B_ATK_NAME_WITH_PREFIX} is ready to\nhelp {B_DEF_NAME_WITH_PREFIX}!
+{B_ATK_NAME_WITH_PREFIX} switched\nitems with its opponent!
+{B_ATK_NAME_WITH_PREFIX} obtained\n{B_BUFF1}.
+{B_DEF_NAME_WITH_PREFIX} obtained\n{B_BUFF2}.
+{B_ATK_NAME_WITH_PREFIX} obtained\n{B_BUFF1}.\p{B_DEF_NAME_WITH_PREFIX} obtained\n{B_BUFF2}.
+{B_ATK_NAME_WITH_PREFIX} copied\n{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}!
+{B_ATK_NAME_WITH_PREFIX} made a WISH!
+{B_BUFF1}'s WISH\ncame true!
+{B_ATK_NAME_WITH_PREFIX} planted its roots!
+{B_ATK_NAME_WITH_PREFIX} absorbed\nnutrients with its roots!
+{B_DEF_NAME_WITH_PREFIX} anchored\nitself with its roots!
+{B_ATK_NAME_WITH_PREFIX} made\n{B_DEF_NAME_WITH_PREFIX} drowsy!
+{B_ATK_NAME_WITH_PREFIX} knocked off\n{B_DEF_NAME_WITH_PREFIX}'s {B_LAST_ITEM}!
+{B_ATK_NAME_WITH_PREFIX} swapped abilities\nwith its opponent!
+{B_ATK_NAME_WITH_PREFIX} sealed the\nopponent's move(s)!
+{B_ATK_NAME_WITH_PREFIX} wants the\nopponent to bear a GRUDGE!
+{B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1} lost\nall its PP due to the GRUDGE!
+{B_ATK_NAME_WITH_PREFIX} shrouded\nitself in {B_CURRENT_MOVE}!
+{B_ATK_NAME_WITH_PREFIX}'s {B_CURRENT_MOVE}\nwas bounced back by MAGIC COAT!
+{B_ATK_NAME_WITH_PREFIX} waits for its foe\nto make a move!
+{B_DEF_NAME_WITH_PREFIX} SNATCHED\n{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s move!
+Electricity's power was\nweakened!
+Fire's power was\nweakened!
+{B_ATK_NAME_WITH_PREFIX} found\none {B_LAST_ITEM}!
+A soothing aroma wafted\nthrough the area!
+Items can't be used now.{PAUSE 64}
+For {B_SCR_ACTIVE_NAME_WITH_PREFIX},\n{B_LAST_ITEM} {B_BUFF1}
+{B_SCR_ACTIVE_NAME_WITH_PREFIX} used\n{B_LAST_ITEM} to hustle!
+{B_ATK_NAME_WITH_PREFIX} lost its\nfocus and couldn't move!
+{B_DEF_NAME_WITH_PREFIX} was\ndragged out!\p
+The wall shattered!
+But it had no effect!
+{B_ACTIVE_NAME_WITH_PREFIX} has no\nmoves left!\p
+{B_ACTIVE_NAME_WITH_PREFIX}'s {B_CURRENT_MOVE}\nis disabled!\p
+{B_ACTIVE_NAME_WITH_PREFIX} can't use the same\nmove in a row due to the TORMENT!\p
+{B_ACTIVE_NAME_WITH_PREFIX} can't use\n{B_CURRENT_MOVE} after the TAUNT!\p
+{B_ACTIVE_NAME_WITH_PREFIX} can't use the\nsealed {B_CURRENT_MOVE}!\p
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nmade it rain!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nraised its SPEED!
+{B_DEF_NAME_WITH_PREFIX} was protected\nby {B_DEF_ABILITY}!
+{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevents {B_ATK_NAME_WITH_PREFIX}\lfrom using {B_CURRENT_MOVE}!
+{B_DEF_NAME_WITH_PREFIX} restored HP\nusing its {B_DEF_ABILITY}!
+{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nmade {B_CURRENT_MOVE} useless!
+{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nmade it the {B_BUFF1} type!
+{B_EFF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevents paralysis!
+{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevents romance!
+{B_EFF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevents poisoning!
+{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevents confusion!
+{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nraised its FIRE power!
+{B_DEF_NAME_WITH_PREFIX} anchors\nitself with {B_DEF_ABILITY}!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\ncuts {B_DEF_NAME_WITH_PREFIX}'s ATTACK!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nprevents stat loss!
+{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nhurt {B_ATK_NAME_WITH_PREFIX}!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX} TRACED\n{B_BUFF1}'s {B_BUFF2}!
+{B_EFF_NAME_WITH_PREFIX}'s {B_EFF_ABILITY}\nprevents burns!
+{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nblocks {B_CURRENT_MOVE}!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nblocks {B_CURRENT_MOVE}!
+{B_ATK_NAME_WITH_PREFIX}'s {B_ATK_ABILITY}\nrestored its HP a little!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nwhipped up a sandstorm!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nintensified the sun's rays!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nprevents {B_BUFF1} loss!
+{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\ninfatuated {B_ATK_NAME_WITH_PREFIX}!
+{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nmade {B_CURRENT_MOVE} ineffective!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\ncured its {B_BUFF1} problem!
+It sucked up the\nLIQUID OOZE!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX} transformed!
+{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\ntook the attack!
+{B_BUFF1}'s {B_LAST_ABILITY}\nprevents switching!\p
+{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevented {B_SCR_ACTIVE_NAME_WITH_PREFIX}'s\l{B_BUFF1} from working!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nmade it ineffective!
+{B_EFF_NAME_WITH_PREFIX}'s {B_EFF_ABILITY}\nprevents flinching!
+{B_ATK_NAME_WITH_PREFIX}'s {B_ATK_ABILITY}\nprevents {B_DEF_NAME_WITH_PREFIX}'s\l{B_DEF_ABILITY} from working!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\ncured its {B_BUFF1} problem!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nhad no effect on {B_EFF_NAME_WITH_PREFIX}!
+{B_ATK_NAME_WITH_PREFIX} is too scared to move!
+GHOST: Get out…… Get out……
+sharply 
+rose!
+harshly 
+fell!
+{B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1}\n{B_BUFF2}
+{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\n{B_BUFF2}
+Using {B_LAST_ITEM}, the {B_BUFF1}\nof {B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_BUFF2}
+{B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1}\n{B_BUFF2}
+{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\n{B_BUFF2}
+{B_ATK_NAME_WITH_PREFIX}'s stats won't\ngo any higher!
+{B_DEF_NAME_WITH_PREFIX}'s stats won't\ngo any lower!
+A critical hit!
+It's a one-hit KO!
+{PAUSE 32}1, {PAUSE 15}2, and{PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\p
+And…\p
+HM moves can't be\nforgotten now.\p
+It's not very effective…
+It's super effective!
+{PLAY_SE SE_FLEE}Got away safely!\p
+{PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} fled\nusing its {B_LAST_ITEM}!\p
+{PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} fled\nusing {B_ATK_ABILITY}!\p
+{PLAY_SE SE_FLEE}Wild {B_BUFF1} fled!
+Player defeated\n{B_LINK_OPPONENT1_NAME}!
+Player beat {B_LINK_OPPONENT1_NAME}\nand {B_LINK_OPPONENT2_NAME}!
+Player lost against\n{B_LINK_OPPONENT1_NAME}!
+Player lost to {B_LINK_OPPONENT1_NAME}\nand {B_LINK_OPPONENT2_NAME}!
+Player battled to a draw against\n{B_LINK_OPPONENT1_NAME}!
+Player battled to a draw against\n{B_LINK_OPPONENT1_NAME} and {B_LINK_OPPONENT2_NAME}!
+{PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} fled!
+{PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} and\n{B_LINK_OPPONENT2_NAME} fled!
+No! There's no running\nfrom a TRAINER battle!\p
+Can't escape!\p
+But nothing happened!
+But it failed!
+It hurt itself in its\nconfusion!
+The MIRROR MOVE failed!
+It started to rain!
+A downpour started!
+Rain continues to fall.
+The downpour continues.
+The rain stopped.
+A sandstorm brewed!
+The sandstorm rages.
+The sandstorm subsided.
+The sunlight got bright!
+The sunlight is strong.
+The sunlight faded.
+It started to hail!
+Hail continues to fall.
+The hail stopped.
+But it failed to SPIT UP\na thing!
+But it failed to SWALLOW\na thing!
+The wind turned into a\nHEAT WAVE!
+All stat changes were\neliminated!
+Coins scattered everywhere!
+It was too weak to make\na SUBSTITUTE!
+The battlers shared\ntheir pain!
+A bell chimed!
+All affected POKéMON will\nfaint in three turns!
+There's no PP left for\nthis move!\p
+But there was no PP left\nfor the move!
+{B_ATK_NAME_WITH_PREFIX} ignored\norders while asleep!
+{B_ATK_NAME_WITH_PREFIX} ignored\norders!
+{B_ATK_NAME_WITH_PREFIX} began to nap!
+{B_ATK_NAME_WITH_PREFIX} is\nloafing around!
+{B_ATK_NAME_WITH_PREFIX} won't\nobey!
+{B_ATK_NAME_WITH_PREFIX} turned away!
+{B_ATK_NAME_WITH_PREFIX} pretended\nnot to notice!
+{B_TRAINER1_CLASS} {B_TRAINER1_NAME} is\nabout to use {B_BUFF2}.\pWill {B_PLAYER_NAME} change\nPOKéMON?
+{B_ATK_NAME_WITH_PREFIX} learned\n{B_BUFF1}!
+Player defeated\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!\p
+{B_PLAYER_NAME} threw a ROCK\nat the {B_OPPONENT_MON1_NAME}!
+{B_PLAYER_NAME} threw some BAIT\nat the {B_OPPONENT_MON1_NAME}!
+{B_OPPONENT_MON1_NAME} is watching\ncarefully!
+{B_OPPONENT_MON1_NAME} is angry!
+{B_OPPONENT_MON1_NAME} is eating!
+{PLAY_SE SE_DING_DONG}ANNOUNCER: You're out of\nSAFARI BALLS! Game over!\p
+Wild {B_OPPONENT_MON1_NAME} appeared!\p
+Wild {B_OPPONENT_MON1_NAME} appeared!\p
+Wild {B_OPPONENT_MON1_NAME} appeared!{PAUSE 127}
+Wild {B_OPPONENT_MON1_NAME} and\n{B_OPPONENT_MON2_NAME} appeared!\p
+The GHOST appeared!\pDarn!\nThe GHOST can't be ID'd!\p
+The GHOST appeared!\p
+SILPH SCOPE unveiled the GHOST's\nidentity!
+The GHOST was MAROWAK!\p\n
+{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\nwould like to battle!\p
+{B_LINK_OPPONENT1_NAME}\nwants to battle!
+{B_LINK_OPPONENT1_NAME} and {B_LINK_OPPONENT2_NAME}\nwant to battle!
+{B_TRAINER1_CLASS} {B_TRAINER1_NAME} sent\nout {B_OPPONENT_MON1_NAME}!{PAUSE 60}
+{B_TRAINER1_CLASS} {B_TRAINER1_NAME} sent\nout {B_OPPONENT_MON1_NAME} and {B_OPPONENT_MON2_NAME}!{PAUSE 60}
+{B_TRAINER1_CLASS} {B_TRAINER1_NAME} sent\nout {B_BUFF1}!
+{B_LINK_OPPONENT1_NAME} sent out\n{B_OPPONENT_MON1_NAME}!
+{B_LINK_OPPONENT1_NAME} sent out\n{B_OPPONENT_MON1_NAME} and {B_OPPONENT_MON2_NAME}!
+{B_LINK_OPPONENT1_NAME} sent out {B_LINK_OPPONENT_MON1_NAME}!\n{B_LINK_OPPONENT2_NAME} sent out {B_LINK_OPPONENT_MON2_NAME}!
+{B_LINK_OPPONENT1_NAME} sent out\n{B_BUFF1}!
+{B_LINK_SCR_TRAINER_NAME} sent out\n{B_BUFF1}!
+Go! {B_PLAYER_MON1_NAME}!
+Go! {B_PLAYER_MON1_NAME} and\n{B_PLAYER_MON2_NAME}!
+Go! {B_BUFF1}!
+Do it! {B_BUFF1}!
+Go for it, {B_BUFF1}!
+Your foe's weak!\nGet 'em, {B_BUFF1}!
+{B_LINK_PARTNER_NAME} sent out {B_LINK_PLAYER_MON2_NAME}!\nGo! {B_LINK_PLAYER_MON1_NAME}!
+{B_BUFF1}, that's enough!\nCome back!
+{B_BUFF1}, come back!
+{B_BUFF1}, OK!\nCome back!
+{B_BUFF1}, good!\nCome back!
+{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\nwithdrew {B_BUFF1}!
+{B_LINK_OPPONENT1_NAME} withdrew\n{B_BUFF1}!
+{B_LINK_SCR_TRAINER_NAME} withdrew\n{B_BUFF1}!
+Wild 
+Foe 
+Foe
+Ally
+Foe
+Ally
+Foe
+Ally
+{B_ATK_NAME_WITH_PREFIX} used\n{B_BUFF2}
+!
+!
+!
+!
+!
+HP
+ATTACK
+DEFENSE
+SPEED
+SP. ATK
+SP. DEF
+accuracy
+evasiveness
+was too spicy!
+was too dry!
+was too sweet!
+was too bitter!
+was too sour!
+{B_PLAYER_NAME} used\n{B_LAST_ITEM}!
+The old man used\n{B_LAST_ITEM}!
+The POKé DUDE used\n{B_LAST_ITEM}!
+{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\nused {B_LAST_ITEM}!
+The TRAINER blocked the BALL!
+Don't be a thief!
+It dodged the thrown BALL!\nThis POKéMON can't be caught!
+You missed the POKéMON!
+Oh, no!\nThe POKéMON broke free!
+Aww!\nIt appeared to be caught!
+Aargh!\nAlmost had it!
+Shoot!\nIt was so close, too!
+よけられた!\nこいつは つかまりそうにないぞ!
+Gotcha!\n{B_OPPONENT_MON1_NAME} was caught!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}\p
+Gotcha!\n{B_OPPONENT_MON1_NAME} was caught!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}{PAUSE 127}
+Give a nickname to the\ncaptured {B_OPPONENT_MON1_NAME}?
+{B_OPPONENT_MON1_NAME} was sent to\n{B_PC_CREATOR_NAME} PC.
+someone's
+BILL's
+{B_OPPONENT_MON1_NAME}'s data was\nadded to the POKéDEX.\p
+It is raining.
+A sandstorm is raging.
+The BOX is full!\nYou can't catch any more!\p
+ENIGMA BERRY
+ BERRY
+ナゾ
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\ncured paralysis!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\ncured poison!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nhealed its burn!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\ndefrosted it!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nwoke it from its sleep!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nsnapped it out of confusion!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\ncured its {B_BUFF1} problem!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nnormalized its status!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nrestored health!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nrestored {B_BUFF1}'s PP!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nrestored its status!
+{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nrestored its HP a little!
+{B_LAST_ITEM}'s effect allows only\n{B_CURRENT_MOVE} to be used!\p
+{B_DEF_NAME_WITH_PREFIX} hung on\nusing its {B_LAST_ITEM}!
+{B_PLAYER_NAME} played the {B_LAST_ITEM}.\pNow, that's a catchy tune!
+{B_PLAYER_NAME} played the\n{B_LAST_ITEM}.
+The POKéMON hearing the FLUTE\nawoke!
+You throw a BALL now, right?\nI… I'll do my best!
+OAK: Oh, for Pete's sake…\nSo pushy, as always.\p{B_PLAYER_NAME}.\pYou've never had a POKéMON battle\nbefore, have you?\pA POKéMON battle is when TRAINERS\npit their POKéMON against each\lother.\p
+The TRAINER that makes the other\nTRAINER's POKéMON faint by lowering\ltheir HP to “0,” wins.\p
+But rather than talking about it,\nyou'll learn more from experience.\pTry battling and see for yourself.\p
+OAK: Inflicting damage on the foe\nis the key to any battle.\p
+OAK: Lowering the foe's stats\nwill put you at an advantage.\p
+OAK: Keep your eyes on your\nPOKéMON's HP.\pIt will faint if the HP drops to\n“0.”\p
+OAK: No! There's no running away\nfrom a TRAINER POKéMON battle!\p
+OAK: Hm! Excellent!\pIf you win, you earn prize money,\nand your POKéMON will grow!\pBattle other TRAINERS and make\nyour POKéMON strong!\p
+OAK: Hm…\nHow disappointing…\pIf you win, you earn prize money,\nand your POKéMON grow.\pBut if you lose, {B_PLAYER_NAME}, you end\nup paying prize money…\pHowever, since you had no warning\nthis time, I'll pay for you.\pBut things won't be this way once\nyou step outside these doors.\pThat's why you must strengthen your\nPOKéMON by battling wild POKéMON.\p
+What?\n{STR_VAR_1} is evolving!
+Congratulations! Your {STR_VAR_1}\nevolved into {STR_VAR_2}!{WAIT_SE}\p
+Huh? {STR_VAR_1}\nstopped evolving!\p
+……?\p
+What will\n{B_ACTIVE_NAME_WITH_PREFIX} do?
+What will {B_PLAYER_NAME}\nthrow?
+What will the\nold man do?
+{PAUSE 16}Link standby…
+{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}FIGHT{CLEAR_TO 56}BAG\nPOKéMON{CLEAR_TO 56}RUN
+{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}BALL{CLEAR_TO 56}BAIT\nROCK{CLEAR_TO 56}RUN
+PP 
+TYPE/
+{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}
+{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}どの わざを\nわすれさせたい?
+{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}Yes\nNo
+{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}Switch\nwhich?
+{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}
+{RIGHT_ARROW_2}
+{PLUS}
+-
+{FONT_SMALL}Max{FONT_NORMAL} HP
+ATTACK 
+DEFENSE
+SP. ATK
+SP. DEF
+{HIGHLIGHT 2}SAFARI BALLS
+{HIGHLIGHT 2}Left: 
+{HIGHLIGHT 2}
+sleep
+poison
+burn
+paralysis
+ice
+confusion
+love
+\n
+\n
+ is
+ is
+Bad EGG
+ミツル
+{HIGHLIGHT 0}Win
+{HIGHLIGHT 0}Loss
+{HIGHLIGHT 0}Draw
+ is
+'s
+a NORMAL move
+a FIGHTING move
+a FLYING move
+a POISON move
+a GROUND move
+a ROCK move
+a BUG move
+a GHOST move
+a STEEL move
+a ??? move
+a FIRE move
+a WATER move
+a GRASS move
+an ELECTRIC move
+a PSYCHIC move
+an ICE move
+a DRAGON move
+a DARK move
+TIME BOARD
+CLEAR TIME
+{STR_VAR_1}MIN. {STR_VAR_2}.{STR_VAR_3}SEC.
+1F
+2F
+3F
+4F
+5F
+6F
+7F
+8F
+{PLAY_SE SE_FLEE}{B_TRAINER1_CLASS} {B_TRAINER1_NAME} fled!
+Player lost against\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!
+Player battled to a draw against\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!
+$$$$$$$
+<<< FILE: src/berry.c >>>
+とても かわいい はなが さく.
+まっかな みは とても からい.
+そとの かわの ぶぶんも なかみも すべてが
+かたい. どこを たべても しぶい.
+とても あまくて おいしい.
+やわらかいので はこぶときは ちゅうい.
+はっぱの ぶぶんが ながく まるまっていると
+みが とても にがく なるらしい.
+かたい みの なかには すいぶんが とても
+おおく ふくまれている. かなり すっぱい.
+クラボなどに くらべて すこし そだつのが
+おそい. みが ちいさいほど おいしい.
+いろいろな あじが まざった ふしぎな み.
+みを つけるのに はんにち かかる.
+たいようが だいすき. ひに あたると
+どんどん いろが あざやかに なる.
+そだつのに じかんが かかるが たいせつに
+そだてると みが 2つ つくことも ある.
+オレンとは きょうだいの ような そんざい.
+おおきくて あじも ととのっている.
+たべられた あとのような かたちの なかには
+からい せいぶんが つまっている.
+まわりに ついている イボイボは ポケモンが
+もちやすいように できたと いわれている.
+おおきく なれば なるほど みが まがる.
+まがるほど あまくて おいしい.
+ちいさい サイズの はなで しかも ひかりを
+ひつようと しない めずらしい きのみ.
+とても おおきな すっぱい きのみ.
+そだてるには みじかくても 1にち かかる.
+あかい みは たべると ちょっぴり からい.
+そだつのが はやく 4じかんで みを つける
+そとがわは あおいいろだが たべると
+くちの なかが まっくろに なる.
+せかいで 7ばんめに はっけん されたので
+ナナという せつが ゆうりょく. あまい.
+ちいさな しろい はなが さく. にがさと
+すっぱさが まざりあった びみょうな あじ.
+かぜに よわく さむさにも よわい.
+みの なかが からく そとがわが すっぱい.
+どんなに みずを あげても えいようが
+あっても 6つの み しか つけない.
+ねっこの ような かたちの めずらしい
+しゅるい. とても おおきな はなが さく.
+みずが だいすき. ずっと あめが ふる
+ばしょでも しっかりと そだつ.
+とても こうかで なかなか めに することが
+できない きのみ. とても おいしい.
+やわらかさと まるい かたちからは
+そうぞうが できないほど すっぱい.
+くちびるが まがって しまうほど からい.
+そだてるにも じかんが かかる.
+おおむかしから はえていた. たくさん
+うえないと みが つかないときも ある.
+とても あじの バランスが よいと
+ひょうばんの きのみ.
+たくさんの けが はえている めずらしい
+しゅるい. かなり にがい.
+かなり すっぱい. 1くち たべると
+3にちかん ほかの あじが しなくなる.
+まっかになった みは とてつもなく からい.
+イボからも からい せいぶんが でている.
+どこからともなく うみを ただよってくる.
+せかいの どこかで そだっている らしい.
+とても おおきく 50センチを こえるものも
+はっけん された. ものすごく あまい.
+みただけで にがい. あまりにも にがいので
+そのままで たべたひとは だれもいない.
+つるつるとして おいしそうだが とてつもなく
+すっぱい. そだてるにも じかんが かかる.
+なぞのタネ. チイラのみには うみの
+ちからが やどるという うわさが ある.
+なぞのタネ. リュガのみには りくの
+ちからが やどるという うわさが ある.
+なぞのタネ. カムラのみには そらの
+ちからが やどるという うわさが ある.
+なぞのタネ. ヤタピのみには すべての
+いきものの ちからが やどると いわれている
+ふしぎな ふしぎな きのみ. なにが
+おこるのか なにが できるのか わからない.
+でんせつのみ と いわれている. この みを
+もつと とても しあわせに なるらしい.
+あまりにも ちからが つよすぎるため
+せかいの はてに すてた まぼろしのみ.
+しょうたい ふめいの きのみ.
+ほしの ちからを もっている らしい.
+CHERI
+CHESTO
+PECHA
+RAWST
+ASPEAR
+LEPPA
+ORAN
+PERSIM
+LUM
+SITRUS
+FIGY
+WIKI
+MAGO
+AGUAV
+IAPAPA
+RAZZ
+BLUK
+NANAB
+WEPEAR
+PINAP
+POMEG
+KELPSY
+QUALOT
+HONDEW
+GREPA
+TAMATO
+CORNN
+MAGOST
+RABUTA
+NOMEL
+SPELON
+PAMTRE
+WATMEL
+DURIN
+BELUE
+LIECHI
+GANLON
+SALAC
+PETAYA
+APICOT
+LANSAT
+STARF
+ENIGMA
+<<< FILE: src/move_descriptions.c >>>
+A physical attack\ndelivered with a\nlong tail or a\nforeleg, etc.
+The foe is attacked\nwith a sharp chop.\nIt has a high\ncritical-hit ratio.
+The foe is slapped\nrepeatedly, back\nand forth, two to\nfive times.
+The foe is hit with\na flurry of punches\nthat strike two to\nfive times.
+The foe is slugged\nby a punch thrown\nwith muscle-packed\npower.
+Numerous coins are\nhurled at the foe.\nMoney is earned\nafter battle.
+The foe is punched\nwith a fiery fist.\nIt may leave the\nfoe with a burn.
+The foe is punched\nwith an icy fist.\nIt may leave the\nfoe frozen.
+The foe is punched\nwith an electrified\nfist. It may leave\nthe foe paralyzed.
+Hard, pointed, and\nsharp claws rake\nthe foe.
+Huge, impressive\npincers grip and\nsqueeze the foe.
+A vicious tearing\nattack with pincers.\nThe foe will faint\nif it hits.
+Blades of wind hit\nthe foe on the 2nd\nturn. It has a high\ncritical-hit ratio.
+A frenetic dance of\nfighting. It sharply\nraises the ATTACK\nstat.
+A basic attack.\nIt can be used to\ncut down thin trees\nand grass.
+Strikes the foe\nwith a gust of wind\nwhipped up by\nwings.
+The foe is struck\nwith large, imposing\nwings spread wide.
+The foe is made to\nswitch out with an\nally. In the wild,\nthe battle ends.
+A 2-turn move that\nhits on the 2nd\nturn. Use it to fly\nto any known town.
+A long body or\ntentacles are used\nto bind the foe for\ntwo to five turns.
+The foe is struck\nwith a long tail,\nvines, etc.
+The foe is struck\nwith slender, whip-\nlike vines.
+The foe is stomped\nwith a big foot.\nIt may make the\nfoe flinch.
+Two legs are used\nto quickly kick the\nfoe twice in one\nturn.
+The foe is attacked\nby a kick fired\nwith muscle-packed\npower.
+The user jumps up\nhigh, then kicks.\nIf it misses, the\nuser hurts itself.
+A quick kick from a\nrolling spin.\nIt may make the\nfoe flinch.
+A lot of sand is\nhurled in the foe's\nface, reducing its\naccuracy.
+The user sticks its\nhead out and rams.\nIt may make the\nfoe flinch.
+The foe is jabbed\nwith a sharply\npointed horn to\ninflict damage.
+The foe is jabbed\nrepeatedly with a\nhorn or beak two to\nfive times.
+The horn is rotated\nlike a drill to ram.\nThe foe will faint\nif it hits.
+A physical attack\nin which the user\ncharges, full body,\ninto the foe.
+The user drops its\nfull body on the\nfoe. It may leave\nthe foe paralyzed.
+A long body or\nvines are used to\nwrap the foe for\ntwo to five turns.
+A reckless, full-\nbody charge attack\nthat also hurts the\nuser a little.
+The user rampages\nabout for two to\nthree turns, then\nbecomes confused.
+A reckless, life-\nrisking tackle that\nalso hurts the user\na little.
+The user wags its\ntail cutely, making\nthe foe lower its\nDEFENSE stat.
+The foe is stabbed\nwith a toxic barb,\netc. It may poison\nthe foe.
+The foe is stabbed\ntwice with foreleg\nstingers. It may\npoison the foe.
+Sharp pins are shot\nat the foe and hit\ntwo to five times\nat once.
+The foe is given an\nintimidating look\nthat lowers its\nDEFENSE stat.
+The user bites with\nvicious fangs.\nIt may make the\nfoe flinch.
+The user growls in\na cute way, making\nthe foe lower its\nATTACK stat.
+The foe is made to\nswitch out with an\nally. In the wild,\nthe battle ends.
+A soothing song\nin a calming voice\nlulls the foe into\na deep slumber.
+The user generates\nodd sound waves.\nIt may confuse the\nfoe.
+The foe is hit with\na shock wave that\nalways inflicts 20-\nHP damage.
+For a few turns,\nit prevents the foe\nfrom using the move\nit last used.
+The foe is sprayed\nwith a harsh, hide-\nmelting acid that\nmay lower DEFENSE.
+The foe is attacked\nwith small flames.\nThe foe may suffer\na burn.
+The foe is scorched\nwith intense flames.\nThe foe may suffer\na burn.
+The ally party is\nprotected by a\nmist that prevents\nstat reductions.
+The foe is struck\nwith a lot of water\nexpelled forcibly\nfrom the mouth.
+A high volume of\nwater is blasted at\nthe foe under great\npressure.
+A big wave crashes\ndown on the foe.\nCan also be used\nfor crossing water.
+The foe is struck\nwith an icy beam.\nIt may freeze the\nfoe solid.
+The foe is blasted\nwith a blizzard.\nIt may freeze the\nfoe solid.
+A peculiar ray is\nshot at the foe.\nIt may leave the\nfoe confused.
+A spray of bubbles\nstrikes the foe.\nIt may lower the\nfoe's SPEED stat.
+A rainbow-colored\nattack beam.\nIt may lower the\nfoe's ATTACK stat.
+A severely damaging\nattack that makes\nthe user rest on\nthe next turn.
+The foe is jabbed\nwith a sharply\npointed beak or\nhorn.
+A corkscrewing\nattack with the\nsharp beak acting\nas a drill.
+A reckless, full-\nbody throw attack\nthat also hurts the\nuser a little.
+A low, tripping kick\nthat inflicts more\ndamage on heavier\nfoes.
+A retaliation move\nthat counters any\nphysical hit with\ndouble the damage.
+A gravity-fed throw\nthat causes damage\nmatching the user's\nlevel.
+The foe is slugged\nat maximum power.\nCan also be used\nto move boulders.
+An attack that\nabsorbs half the\ndamage it inflicted\nto restore HP.
+A tough attack that\ndrains half the\ndamage it inflicted\nto restore HP.
+A seed is planted\non the foe to steal\nsome HP for the \nuser on every turn.
+The user's body is\nforced to grow,\nraising the SP.\nATK stat.
+The foe is hit with\na cutting leaf.\nIt has a high\ncritical-hit ratio.
+A 2-turn move that\nblasts the foe with\nabsorbed energy in\nthe 2nd turn.
+A cloud of toxic\ndust is scattered.\nIt may poison the\nfoe.
+Paralyzing dust is\nscattered wildly.\nIt may paralyze\nthe foe.
+A sleep-inducing\ndust is scattered\nin high volume\naround a foe.
+The user attacks\nwith petals for two\nto three turns,\nthen gets confused.
+The foe is bound\nwith strings shot\nfrom the mouth to\nreduce its SPEED.
+The foe is hit with\na shock wave that\nalways inflicts 40-\nHP damage.
+The foe is trapped\nin an intense spiral\nof fire that rages\ntwo to five turns.
+An electric shock\nattack that may\nalso leave the foe\nparalyzed.
+A strong electrical\nattack that may\nalso leave the foe\nparalyzed.
+A weak electric\nshock that is sure\nto cause paralysis\nif it hits.
+A brutal lightning\nattack that may\nalso leave the foe\nparalyzed.
+The foe is attacked\nwith a shower of\nsmall, easily\nthrown rocks.
+An earthquake that\nstrikes all POKéMON\nin battle excluding\nthe user.
+The foe is dropped\ninto a fissure.\nThe foe faints if it\nhits.
+An attack that hits\non the 2nd turn.\nCan also be used\nto exit dungeons.
+A move that badly\npoisons the foe.\nIts poison damage\nworsens every turn.
+A weak telekinetic\nattack that may\nalso leave the foe\nconfused.
+A strong telekinetic\nattack. It may also\nlower the foe's\nSP. DEF stat.
+Hypnotic suggestion\nis used to make the\nfoe fall into a\ndeep sleep.
+The user meditates\nto awaken its power\nand raise its\nATTACK stat.
+The user relaxes\nand lightens its\nbody to sharply\nboost its SPEED.
+An almost invisibly\nfast attack that\nis certain to strike\nfirst.
+An attack that\nbecomes stronger\neach time the user\nis hit in battle.
+Use it to flee from\nany wild POKéMON.\nAlso warps to the\nlast POKé CENTER.
+An attack with a\nmirage that inflicts\ndamage matching\nthe user's level.
+The user copies the\nmove last used by\nthe foe for the\nrest of the battle.
+An ear-splitting\nscreech is emitted\nto sharply reduce\nthe foe's DEFENSE.
+The user creates\nillusory copies of\nitself to raise its\nevasiveness.
+A self-healing move\nthat restores HP by\nup to half of the\nuser's maximum HP.
+The user stiffens\nall the muscles in\nits body to raise\nits DEFENSE stat.
+The user compresses\nall the cells in its\nbody to raise its\nevasiveness.
+An obscuring cloud\nof smoke or ink\nreduces the foe's\naccuracy.
+The foe is exposed\nto a sinister ray\nthat triggers\nconfusion.
+The user withdraws\nits body in its hard\nshell, raising its\nDEFENSE stat.
+The user curls up\nto conceal weak\nspots and raise its\nDEFENSE stat.
+The user creates a\nsturdy wall that\nsharply raises its\nDEFENSE stat.
+A wall of light\ncuts damage from\nSP. ATK attacks\nfor five turns.
+Eliminates all stat\nchanges among all\nPOKéMON engaged in\nbattle.
+A wall of light\ncuts damage from\nphysical attacks\nfor five turns.
+The user takes a\ndeep breath and\nfocuses to raise its\ncritical-hit ratio.
+The user endures\nattacks for two\nturns, then strikes\nback double.
+Waggles a finger\nand stimulates the\nbrain into using any\nmove at random.
+The user counters\nthe move last used\nby the foe with the\nsame move.
+The user blows up\nto inflict severe\ndamage, even\nmaking itself faint.
+A large egg is\nhurled with great\nforce at the foe to\ninflict damage.
+The foe is licked\nand hit with a long\ntongue. It may\nalso paralyze.
+The foe is attacked\nwith exhaust gases.\nIt may also poison\nthe foe.
+Toxic sludge is\nhurled at the foe.\nIt may poison the\ntarget.
+The foe is clubbed\nwith a bone held in\nhand. It may make\nthe foe flinch.
+The foe is hit with\nan intense flame.\nIt may leave the\ntarget with a burn.
+A powerful charge\nattack. It can also\nbe used to climb\na waterfall.
+The foe is clamped\nand squeezed by\nthe user's shell for\ntwo to five turns.
+Star-shaped rays\nthat never miss are\nfired at all foes in\nbattle.
+The user raises its\nDEFENSE in the 1st\nturn, then attacks\nin the 2nd turn.
+Sharp spikes are\nfired at the foe to\nstrike two to five\ntimes.
+The foe is attacked\nwith long tentacles\nor vines. It may\nlower SPEED.
+Forgets about\nsomething and\nsharply raises\nSP. DEF.
+The user distracts\nthe foe by bending\na spoon. It may\nlower accuracy.
+Heals the user by\nup to half its full\nHP. It can be used\nto heal an ally.
+A strong jumping\nknee kick. If it\nmisses, the user is\nhurt.
+The user intimidates\nthe foe with the\ndesign on its belly\nto cause paralysis.
+Absorbs half the\ndamage it inflicted\non a sleeping foe\nto restore HP.
+The foe is sprayed\nwith a cloud of\ntoxic gas that may\npoison the foe.
+Round objects are\nhurled at the foe\nto strike two to\nfive times.
+An attack that\nabsorbs half the\ndamage it inflicted\nto restore HP.
+The user forces a\nkiss on the foe\nwith a scary face\nthat induces sleep.
+A 2nd-turn attack\nmove with a high\ncritical-hit ratio.\nThe foe may flinch.
+The user transforms\ninto a copy of the\nfoe with even the\nsame move set.
+A spray of bubbles\nhits the foe.\nIt may lower the\nfoe's SPEED stat.
+The foe is hit with\na rhythmic punch\nthat may leave it\nconfused.
+The user scatters\nbursts of fine\nspores that induce\nsleep.
+A blast of light\nthat cuts the foe's\naccuracy. It also\nilluminates caves.
+The foe is attacked\nwith an odd, hot\nenergy wave that\nvaries in intensity.
+The user just flops\nand splashes around\nwithout having any\neffect.
+The user alters its\ncells to liquefy\nitself and sharply\nraise DEFENSE.
+A large pincer is\nused to hammer the\nfoe. It has a high\ncritical-hit ratio.
+The user explodes\nto inflict terrible\ndamage even while\nfainting itself.
+The foe is raked\nwith sharp claws or\nscythes two to five\ntimes.
+The user throws a\nbone that hits the\nfoe once, then once\nagain on return.
+The user sleeps for\ntwo turns to fully\nrestore HP and heal\nany status problem.
+Large boulders are\nhurled at the foe.\nIt may make the\nfoe flinch.
+The foe is attacked\nwith sharp fangs.\nIt may make the\nfoe flinch.
+The user reduces\nits polygon count\nto sharpen edges\nand raise ATTACK.
+The user changes\nits type to match\nthe type of one of\nits moves.
+A simultaneous\n3-beam attack that\nmay paralyze, burn,\nor freeze the foe.
+The user attacks\nwith sharp fangs\nand halves the\nfoe's HP.
+The foe is slashed\nwith claws, etc.\nIt has a high\ncritical-hit ratio.
+The user creates a\ndecoy using one-\nquarter of its full\nHP.
+An attack that is\nused only if there\nis no PP. It also\nhurts the user.
+This move copies\nthe move last used\nby the foe, then\ndisappears.
+A 3-kick attack\nthat becomes more\npowerful with each\nsuccessive hit.
+An attack that may\ntake the foe's held\nitem if the user\nisn't holding one.
+Ensnares the foe \nwith sticky string\nso it doesn't flee\nor switch out.
+The user predicts\nthe foe's action to\nensure its next\nattack hits.
+A sleeping foe is\nshown a nightmare\nthat inflicts some\ndamage every turn.
+The user makes a\nfiery charge at the\nfoe. It may cause\na burn.
+An attack that can\nbe used only while\nasleep. It may\ncause flinching.
+A move that works\ndifferently for the\nGHOST-type and all\nthe other types.
+A desperate attack\nthat becomes more\npowerful the less\nHP the user has.
+The user changes\ntype to make itself\nresistant to the\nlast attack it took.
+A vortex of air is\nshot at the foe.\nIt has a high\ncritical-hit ratio.
+Cotton-like spores\ncling to the foe,\nsharply reducing\nits SPEED stat.
+An all-out attack\nthat becomes more\npowerful the less\nHP the user has.
+A move that cuts\n2 to 5 PP from the\nmove last used by\nthe foe.
+Blasts the foe with\na snowy gust.\nIt may cause\nfreezing.
+Enables the user to\nevade all attacks.\nIt may fail if used\nin succession.
+A punch thrown at\nblinding speed.\nIt is certain to\nstrike first.
+Frightens the foe\nwith a scary face\nto sharply reduce\nits SPEED.
+The user draws up\nclose to the foe\ndisarmingly, then\nhits without fail.
+The user kisses\nthe foe with sweet\ncuteness that\ncauses confusion.
+The user maximizes\nits ATTACK stat at\nthe cost of half\nits full HP.
+Filthy sludge is\nhurled at the foe.\nIt may poison the\ntarget.
+Mud is hurled in\nthe foe's face to\ninflict damage and\nlower its accuracy.
+Ink is blasted in\nthe foe's face or\neyes to damage and\nlower accuracy.
+A trap of spikes is\nlaid around the\nfoe's party to hurt\nfoes switching in.
+An electric blast is\nfired like a cannon\nto inflict damage\nand paralyze.
+Completely negates\nthe foe's efforts to\nheighten its ability\nto evade.
+If the user faints,\nthe foe delivering\nthe final hit also\nfaints.
+Any battler that\nhears this faints\nin three turns\nunless it switches.
+A chilling wind is\nused to attack.\nIt also lowers the\nSPEED stat.
+Enables the user to\nevade all attacks.\nIt may fail if used\nin succession.
+The user strikes\nthe foe with a bone\nin hand two to five\ntimes.
+The user locks on\nto the foe, making\nthe next move sure\nto hit.
+The user thrashes\nabout for two to\nthree turns, then\nbecomes confused.
+A 5-turn sandstorm\nthat damages all\ntypes except ROCK,\nGROUND, and STEEL.
+A harsh attack that\nabsorbs half the\ndamage it inflicted\nto restore HP.
+The user endures\nany hit with 1 HP\nleft. It may fail if\nused in succession.
+The foe is charmed\nby the user's cute\nappeals, sharply\ncutting its ATTACK.
+A 5-turn rolling\nattack that becomes\nstronger each time\nit hits.
+A restrained attack\nthat always leaves\nthe foe with at\nleast 1 HP.
+A move that makes\nthe foe confused,\nbut also sharply\nraises its ATTACK.
+Heals the user by\nup to half its full\nHP. It can be used\nto heal an ally.
+An electrically\ncharged tackle that\nmay also paralyze\nthe foe.
+An attack that\ngrows stronger on\neach successive\nhit.
+The foe is hit with\nwings of steel.\nIt may also raise\nthe user's DEFENSE.
+The foe is fixed\nwith a mean look\nthat prevents it\nfrom escaping.
+If it is the other\ngender, the foe is\nmade infatuated and\nunlikely to attack.
+While asleep, the\nuser randomly uses\none of the moves it\nknows.
+A soothing bell\nchimes to heal the\nstatus problems of\nall allies.
+This attack move\ngrows more powerful\nthe more the user\nlikes its TRAINER.
+The foe is given a\nbooby-trapped gift.\nIt restores HP\nsometimes, however.
+This attack move\ngrows more powerful\nthe less the user\nlikes its TRAINER.
+It protects the\nuser's party from\nall status problems\nfor five turns.
+The user adds its\nHP to the foe's HP,\nthen equally shares\nthe total HP.
+A mystical and\npowerful fire\nattack that may\ninflict a burn.
+A ground-shaking\nattack against all\nstanding POKéMON.\nIts power varies.
+The foe is punched\nwith the user's full\npower. It confuses\nthe foe if it hits.
+A brutal ramming\nattack delivered\nwith a tough and\nimpressive horn.
+The foe is hit with\nan incredible blast\nof breath that may\nalso paralyze.
+The user switches\nout, passing along\nany stat changes\nto the new battler.
+Makes the foe use\nthe move it last\nused repeatedly for\ntwo to six turns.
+An attack move that\nworks especially\nwell on a foe that\nis switching out.
+An attack that\nfrees the user from\nBIND, WRAP, LEECH\nSEED, and SPIKES.
+Allures the foe to\nreduce evasiveness.\nIt also attracts\nwild POKéMON.
+An attack with a\nsteel-hard tail.\nIt may lower the\nfoe's DEFENSE stat.
+The foe is attacked\nwith steel claws.\nIt may also raise\nthe user's ATTACK.
+Makes the user\nattack after the\nfoe. In return,\nit will not miss.
+Restores the user's\nHP. The amount of\nHP regained varies\nwith the weather.
+Restores the user's\nHP. The amount of\nHP regained varies\nwith the weather.
+Restores the user's\nHP. The amount of\nHP regained varies\nwith the weather.
+An attack that\nvaries in type and\nintensity depending\non the user.
+The foe is hit with\ndouble chops.\nIt has a high\ncritical-hit ratio.
+A vicious twister\nattacks the foe.\nIt may make the\nfoe flinch.
+A heavy rain falls\nfor five turns,\npowering up WATER-\ntype moves.
+The sun blazes for\nfive turns, powering\nup FIRE-type\nmoves.
+The foe is crunched\nwith sharp fangs.\nIt may lower the\nfoe's SP. DEF.
+A retaliation move\nthat pays back the\nfoe's special attack\ndouble.
+The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.
+A blindingly speedy\ncharge attack that\nalways goes before\nany other.
+An ancient power is\nused to attack. It\nmay also raise all\nthe user's stats.
+A shadowy blob is\nhurled at the foe.\nMay also lower the\nfoe's SP. DEF.
+Two turns after\nthis move is used,\nthe foe is attacked\npsychically.
+An attack that may\nalso cut DEFENSE.\nIt can also smash\ncracked boulders.
+The foe is trapped\nin a fast, vicious\nwhirlpool for two\nto five turns.
+All party POKéMON\njoin in the attack.\nThe more allies,\nthe more damage.
+An attack that hits\nfirst and causes\nflinching. Usable\nonly on 1st turn.
+The user attacks in\nan uproar that\nprevents sleep for\ntwo to five turns.
+The user charges\nup power for use\nlater. It can be\nused three times.
+The power built\nusing STOCKPILE is\nreleased at once\nfor attack.
+The energy it built\nusing STOCKPILE is\nabsorbed to restore\nHP.
+The user exhales a\nheated breath to\nattack. It may also\ninflict a burn.
+A hailstorm lasting\nfive turns damages\nall POKéMON except\nthe ICE-type.
+It enrages the foe,\nmaking it incapable\nof using the same\nmove successively.
+Flattery is used to\nconfuse the foe,\nbut its SP. ATK\nalso rises.
+A sinister, bluish\nwhite flame is shot\nat the foe to\ninflict a burn.
+The user faints,\nbut sharply lowers\nthe foe's ATTACK\nand SP. ATK.
+An attack that is\nboosted if user is\nburned, poisoned,\nor paralyzed.
+An attack that is\nexecuted last.\nThe user flinches\nif hit beforehand.
+Doubly effective on\na paralyzed foe,\nbut it also cures\nthe foe's paralysis.
+The user draws\nattention to itself,\nmaking foes attack\nonly the user.
+An attack that\nchanges type\ndepending on the\nuser's location.
+The user charges\npower to boost the\nELECTRIC move it\nuses next.
+The foe is taunted\ninto a rage that\nallows it to use\nonly attack moves.
+A move that boosts\nthe power of the\nally's attack in a\nbattle.
+A move that tricks\nthe foe into\ntrading held items\nwith the user.
+The user mimics the\nfoe completely and\ncopies the foe's\nability.
+A self-healing move\nthat restores half\nthe full HP on the\nnext turn.
+The user randomly\npicks and uses a\nmove of an allied\nPOKéMON.
+The user lays roots\nthat restore HP on\nevery turn.\nIt can't switch out.
+A powerful attack,\nbut it also lowers\nthe user's ATTACK\nand DEFENSE stats.
+Reflects back the\nfoe's LEECH SEED\nand any status-\ndamaging move.
+A move that\nrecycles a used\nitem for use once\nmore.
+An attack move that\ngains in intensity if\nthe target has hurt\nthe user.
+An attack that also\nbreaks any barrier\nlike LIGHT SCREEN\nand REFLECT.
+A huge yawn lulls\nthe foe into falling\nasleep on the next\nturn.
+Knocks down the\nfoe's held item to\nprevent its use\nduring the battle.
+Gains power the\nfewer HP the user\nhas compared with\nthe foe.
+The higher the\nuser's HP, the more\npowerful this\nattack becomes.
+The user employs\nits psychic power\nto swap abilities\nwith the foe.
+Prevents foes from\nusing any move\nthat is also known\nby the user.
+A self-healing move\nthat cures the user\nof a poisoning,\nburn, or paralysis.
+If the user faints,\nthis move deletes\nthe PP of the move\nthat finished it.
+Steals the effects\nof the foe's\nhealing or status-\nchanging move.
+An attack that may\nhave an additional\neffect that varies\nwith the terrain.
+The user dives\nunderwater on the\nfirst turn and\nstrikes next turn.
+A quick flurry of\nstraight-arm\npunches that hit\ntwo to five times.
+Alters the user's\ntype depending on\nthe location's\nterrain.
+The user flashes a\nlight that sharply\nraises its SP. ATK\nstat.
+A burst of light\ninjures the foe. It\nmay also lower the\nfoe's SP. DEF.
+A flurry of down\nhits the foe. It\nmay also lower the\nfoe's SP. ATK.
+The foe is covered\nwith a mass of down\nthat sharply cuts\nthe ATTACK stat.
+A wobbly dance\nthat confuses all\nthe POKéMON in\nbattle.
+A fiery kick with a\nhigh critical-hit\nratio. It may also\nburn the foe.
+Weakens ELECTRIC-\ntype attacks while\nthe user is in the\nbattle.
+A 5-turn rolling\nattack that becomes\nstronger each time\nit rolls.
+An attack using\nthorny arms.\nIt may make the\nfoe flinch.
+The user slacks off\nand restores its HP\nby half its full\nHP.
+The user lets loose\na horribly loud\nshout with the\npower to damage.
+The foe is bitten\nwith toxic fangs.\nIt may also badly\npoison the foe.
+The foe is attacked\nwith sharp claws.\nIt may also lower\nthe foe's DEFENSE.
+The foe is hit with\na huge explosion.\nThe user can't move\non the next turn.
+The foe is hit with\na watery cannon.\nThe user can't move\non the next turn.
+The foe is hit with\na hard, fast punch.\nIt may also raise\nthe user's ATTACK.
+An attack using a\nstartling shout.\nIt also may make\nthe foe flinch.
+An attack that\nvaries in power and\ntype depending on\nthe weather.
+A soothing scent is\nreleased to heal\nall status problems\nin the user's party.
+The user feigns\ncrying to sharply\nlower the foe's\nSP. DEF stat.
+The foe is hit with\nrazor-like wind.\nIt has a high\ncritical-hit ratio.
+An intense attack\nthat also sharply\nreduces the user's\nSP. ATK stat.
+Completely negates\nthe foe's efforts to\nheighten its ability\nto evade.
+Boulders are hurled\nat the foe. It also\nlowers the foe's\nSPEED if it hits.
+The foe is attacked\nwith a silver dust.\nIt may raise all\nthe user's stats.
+A horrible metallic\nscreech is used to\nsharply lower the\nfoe's SP. DEF.
+A pleasant melody\nis played to lull\nthe foe into a deep\nsleep.
+The foe is made to\nlaugh, reducing its\nATTACK and DEFENSE\nstats.
+The user absorbs a\nmystic power to\nraise its DEFENSE\nand SP. DEF.
+The higher the\nuser's HP, the more\npowerful this\nattack becomes.
+The foe is hit with\na flashing beam\nthat may also\ncause confusion.
+The user throws a\npunch from the\nshadows. It cannot\nbe evaded.
+The user attacks\nwith an odd power\nthat may make the\nfoe flinch.
+The user attacks\nwith an uppercut\nthrown skywards\nwith force.
+The foe is trapped\ninside a painful\nsandstorm for two\nto five turns.
+The foe is attacked\nwith ultimate cold\nthat causes fainting\nif it hits.
+The user attacks\nwith muddy water.\nIt may also lower\nthe foe's accuracy.
+The user shoots\nseeds at the foe.\nTwo to five seeds\nare shot at once.
+An extremely fast\nattack against one\ntarget. It can't be\nevaded.
+Sharp icicles are\nfired at the foe.\nIt strikes two to\nfive times.
+The user hardens\nits body's surface\nto sharply raise its\nDEFENSE stat.
+The user blocks the\nfoe's way with arms\nspread wide to\nprevent escape.
+The user howls to\nraise its spirit and\nboost its ATTACK\nstat.
+Sharp, huge claws\nhook and slash the\nfoe quickly and\nwith great power.
+The foe is hit with\nan enormous branch.\nThe user can't move\non the next turn.
+The user bulks up\nits body to boost\nboth its ATTACK and\nDEFENSE stats.
+The user bounces\non the foe on the\n2nd turn. It may\nparalyze the foe.
+The user attacks by\nhurling mud.\nIt also reduces the\nfoe's SPEED.
+An attack with a\nhigh critical-hit\nratio. It may also\npoison the foe.
+A cutely executed\nattack that also\nsteals the foe's\nhold item.
+The user throws an\nelectrified tackle.\nIt hurts the user\na little.
+The foe is attacked\nwith a strange leaf\nthat cannot be\nevaded.
+Weakens FIRE-type\nattacks while the\nuser is in the\nbattle.
+The user focuses\nits mind to raise\nthe SP. ATK and\nSP. DEF stats.
+The foe is slashed\nwith a sharp leaf.\nIt has a high\ncritical-hit ratio.
+A mystic, powerful\ndance that boosts\nthe user's ATTACK\nand SPEED stats.
+The user hurls two\nto five hard rocks\nat the foe to\nattack.
+A rapid jolt of\nelectricity strikes\nthe foe. It can't\nbe evaded.
+An attack with a\npulsing blast of\nwater. It may also\nconfuse the foe.
+A move that attacks\nthe foe with a\nblast of light two\nturns after use.
+An intense attack\nthat also sharply\nreduces the user's\nSP. ATK stat.
+<<< FILE: src/mystery_event_msg.c >>>
+Obtained a {STR_VAR_2} BERRY!\nDad has it at PETALBURG GYM.
+The {STR_VAR_1} BERRY transformed into\none {STR_VAR_2} BERRY.
+The {STR_VAR_1} BERRY has already been\nobtained.
+A special RIBBON was awarded to\nyour party POKéMON.
+The POKéDEX has been upgraded\nwith the NATIONAL MODE.
+A rare word has been added.
+{STR_VAR_1} was sent over!
+Your party is full.\n{STR_VAR_1} could not be sent over.
+A new TRAINER has arrived in\nHOENN.
+バトルタワーに　あらたな\nたいせんしゃが　あらわれた！
+This data can't be used in\nthis version.
+<<< FILE: src/mystery_gift_scripts.c >>>
+You have collected all STAMPs!\nWant to input a CARD as a prize?
+<<< FILE: src/strings.c >>>
+SAPPHIRE
+RUBY
+AQUA
+MAGMA
+ARCHIE
+MAXIE
+KYOGRE
+GROUDON
+RED
+GREEN
+EGG
+POKéMON
+NEW GAME
+CONTINUE
+せっていを かえる
+MYSTERY GIFT
+MYSTERY GIFT
+The Wireless Adapter is not\nconnected.
+MYSTERY GIFT can't be used while\nthe Wireless Adapter is attached.
+がいぶデ-タにより レポ-トを こうしんします\nしばらく おまちください
+レポ-トが こうしんされました!
+レポ-トが こうしんされました!\pこれいじょう\nレポ-トが かききれないので\lバックアップカ-トリッジを\lこうかんしてください!\pくわしくは\nにんてんどう サ-ビスセンタ- まで\lおといあわせ ください
+レポ-トの こうしんは\nしっぱいしました!\pバックアップカ-トリッジを\nこうかんしてください!\pくわしくは\nにんてんどう サ-ビスセンタ- まで\lおといあわせ ください
+The save file is corrupted.\pThe previous save file will be\nloaded.
+The save file has been\ndeleted...
+The 1M sub-circuit board is\nnot installed.
+でんちぎれの ために\nとけいが うごかなくなりました\pとけいに かんけいする できごとは おきませんが\nゲ-ムを つづけて あそぶことは できます
+しゅじんこう
+ポケモンずかん
+TIME
+もっているバッジ
+Aボタン
+Bボタン
+Rボタン
+Lボタン
+スタ-トボタン
+セレクトボタン
+じゅうじボタン
+Lボタン Rボタン
+CONTROLS
+{DPAD_UPDOWN}えらぶ {A_BUTTON}けってい
+{A_BUTTON}NEXT
+{A_BUTTON}NEXT {B_BUTTON}BACK
+{DPAD_UPDOWN}PICK {A_BUTTON}NEXT {B_BUTTON}CANCEL
+{DPAD_UPDOWN}PICK {A_BUTTON}{B_BUTTON}CANCEL
+{A_BUTTON}EXIT
+BOY
+GIRL
+POKéDEX   TABLE OF CONTENTS
+{DPAD_UPDOWN}PICK {A_BUTTON}OK
+Seen:
+Owned:
+KANTO
+NATIONAL
+{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}POKéMON HABITATS
+Grassland POKéMON
+Forest POKéMON
+Water's-edge POKéMON
+Sea POKéMON
+Cave POKéMON
+Mountain POKéMON
+Rough-terrain POKéMON
+Urban POKéMON
+Rare POKéMON
+{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}SEARCH
+NUMERICAL MODE
+A TO Z MODE
+{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}OTHER
+ずかんの つかいかた
+CLOSE POKéDEX
+TYPE MODE
+LIGHTEST MODE
+SMALLEST MODE
+{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}POKéMON LIST
+NUMERICAL MODE: KANTO
+NUMERICAL MODE: NATIONAL
+POKéMON LIST
+SEARCH
+{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}CANCEL
+-----
+{DPAD_LEFTRIGHT}PICK{PLUS}FLIP PAGE {A_BUTTON}CHECK {B_BUTTON}CANCEL
+ POKéMON
+HT
+WT
+”
+lbs.
+ポケモンデ-タ
+{START_BUTTON}CRY
+{A_BUTTON}NEXT DATA {B_BUTTON}CANCEL
+{A_BUTTON}NEXT
+{A_BUTTON}CANCEL {B_BUTTON}PREVIOUS DATA
+AREA
+SIZE
+AREA UNKNOWN
+{NO}
+PAGE
+Welcome to the HALL OF FAME!
+みつけた ポケモン {STR_VAR_1}!\nつかまえた ポケモン {STR_VAR_2}!\pオダマキはかせの\nポケモンずかん ひょうか!\pオダマキ“どれどれ\p
+ここまでの レポ-トを かきしるしています!\nでんげんを きらないでください
+The HALL OF FAME data is\ncorrupted.
+HALL OF FAME No. {STR_VAR_1}
+LEAGUE CHAMPION!\nCONGRATULATIONS!
+No. 
+Lv. 
+NAME
+IDNo.
+{HIGHLIGHT DYNAMIC_COLOR6}{COLOR WHITE}オダマキはかせが ピンチだ!\nポケモンを だして たすけてあげよう!
+{HIGHLIGHT DYNAMIC_COLOR6}{COLOR WHITE}このポケモンにしますか?
+ポケモン
+Save error.\pPlease exchange the\nbackup memory.
+PLAYER
+BADGES
+POKéDEX
+TIME
+どこへ とびますか?
+USE
+TOSS
+REGISTER
+GIVE
+けってい
+WALK
+CANCEL
+EXIT
+キャンセル
+ITEM
+MAIL
+TAKE
+STORE
+CHECK
+NONE
+OPEN
+DESELECT
+???
+?????
+/
+-
+--
+---
+-------
+♂
+♀
+{LV_2}
+{NO}{CLEAR 0x01}
+{PLUS}
+{ESCAPE 0x03}
+{ID}{NO}
+{PP}
+▶
+YES\nNO
+Go back to the\nprevious menu.
+What would you like to do?
+POKéDEX
+BAG
+ポケナビ
+{PLAYER}
+SAVE
+OPTION
+EXIT
+RETIRE
+{STR_VAR_1}/{STR_VAR_2}\nBALLS  {STR_VAR_3}
+×{STR_VAR_1}
+ BERRY
+{STR_VAR_1} COINS
+ITEMS
+POKé BALLS
+KEY ITEMS
+DEPOSIT ITEM
+CLOSE BAG
+{STR_VAR_1} is\nselected.
+You can't write\nMAIL here.
+There is no\nPOKéMON.
+Where should the {STR_VAR_1}\nbe placed?
+The {STR_VAR_1} can't be held.
+The {STR_VAR_1} can't be held\nhere.
+Deposit how many\n{STR_VAR_1}(s)?
+Deposited {STR_VAR_2}\n{STR_VAR_1}(s).
+There's no room to\nstore items.
+Toss out how many\n{STR_VAR_1}(s)?
+Threw away {STR_VAR_2}\n{STR_VAR_1}(s).
+Throw away {STR_VAR_2} of\nthis item?
+OAK: {PLAYER}!\nThis isn't the time to use that!{PAUSE_UNTIL_PRESS}
+You can't dismount your BIKE here.{PAUSE_UNTIL_PRESS}
+Huh?\nThe ITEMFINDER's responding!\pThere's an item buried around here!{PAUSE_UNTIL_PRESS}
+Oh!\nThe ITEMFINDER's shaking wildly!\pThere's an item buried underfoot!\p‥ ‥ ‥ ‥ ‥ ‥{PAUSE_UNTIL_PRESS}
+‥ ‥ ‥ ‥Nope!\nThere's no response.{PAUSE_UNTIL_PRESS}
+Your COINS:\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}
+わざマシンを きどうした!
+ひでんマシンを きどうした!
+なかには {STR_VAR_1}が\nきろくされていた!\p{STR_VAR_1}を\nポケモンに おぼえさせますか?
+{PLAYER} used the\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}
+But the effects of a REPEL\nlingered from earlier.{PAUSE_UNTIL_PRESS}
+{PLAYER} used the\n{STR_VAR_2}.\pWild POKéMON will be lured.{PAUSE_UNTIL_PRESS}
+{PLAYER} used the\n{STR_VAR_2}.\pWild POKéMON will be repelled.{PAUSE_UNTIL_PRESS}
+The BOX is full.{PAUSE_UNTIL_PRESS}
+POWDER QTY: {STR_VAR_1}{PAUSE_UNTIL_PRESS}
+POWDER
+Played the POKé FLUTE.\pNow, that's a catchy tune!{PAUSE_UNTIL_PRESS}
+Played the POKé FLUTE.
+The POKé FLUTE awakened sleeping\nPOKéMON.{PAUSE_UNTIL_PRESS}
+TM CASE
+CLOSE
+The TM CASE will be\nput away.
+{FONT_SMALL}
+{FONT_NORMAL}
+BERRY POUCH
+The BERRY POUCH will be\nput away.
+BUY
+SELL
+SEE YA!
+IN BAG:{FONT_SMALL} {STR_VAR_1}
+Quit shopping.
+{STR_VAR_1}? Certainly.\nHow many would you like?
+{STR_VAR_1}, and you want {STR_VAR_2}.\nThat will be ¥{STR_VAR_3}. Okay?
+{STR_VAR_1} だね!\n{STR_VAR_2}¥ だけど かうかい?
+{STR_VAR_1} ですね!\n{STR_VAR_2}¥ だけど かいますか?
+Here you are!\nThank you!
+どうも ありがとう!\nじたくの パソコンに おくって おきますね!
+どうも ありがとう!\nじたくの パソコンに おくって おくね!
+You don't have enough money.{PAUSE_UNTIL_PRESS}
+You have no more room for this\nitem.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1}を\nいれる ばしょが いっぱいです{PAUSE_UNTIL_PRESS}
+Is there anything else I can do?
+その ほかに\nなにか ちからに なれることは?
+プレミアボ-ル 1コ\nおまけ しておきますね!{PAUSE_UNTIL_PRESS}
+{STR_VAR_1}? Oh, no.\nI can't buy that.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1}?\nHow many would you like to sell?
+I can pay ¥{STR_VAR_3}.\nWould that be okay?
+Turned over the {STR_VAR_1}シSス\nworth ¥{STR_VAR_3}.
+¥{STR_VAR_1}
+SHIFT
+SEND OUT
+SWITCH
+SUMMARY
+つかえるわざ
+ENTER
+NO ENTRY
+TAKE
+READ
+TRADE
+HP
+SP. ATK
+SP. DEF
+OK
+{PAUSE_UNTIL_PRESS}
+It won't have any effect.{PAUSE_UNTIL_PRESS}
+This can't be used on\nthat POKéMON.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} can't be switched\nout!{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} is already\nin battle!{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} has already been\nselected.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} has no energy\nleft to battle!{PAUSE_UNTIL_PRESS}
+You can't switch {STR_VAR_1}'s\nPOKéMON with one of yours!{PAUSE_UNTIL_PRESS}
+An EGG can't battle!{PAUSE_UNTIL_PRESS}
+This can't be used until a new\nBADGE is obtained.{PAUSE_UNTIL_PRESS}
+No more than three POKéMON\nmay enter.{PAUSE_UNTIL_PRESS}
+No more than two POKéMON\nmay enter.{PAUSE_UNTIL_PRESS}
+Send the removed MAIL to\nyour PC?
+The MAIL was sent to your PC.{PAUSE_UNTIL_PRESS}
+Your PC's MAILBOX is full.{PAUSE_UNTIL_PRESS}
+If the MAIL is removed, the\nmessage will be lost. Okay?
+MAIL must be removed before\nholding an item.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} was given the\n{STR_VAR_2} to hold.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} is already holding\none {STR_VAR_2}.\pWould you like to switch the\ntwo items?
+{STR_VAR_1} isn't holding\nanything.{PAUSE_UNTIL_PRESS}
+Received the {STR_VAR_2}\nfrom {STR_VAR_1}.{PAUSE_UNTIL_PRESS}
+MAIL was taken from the\nPOKéMON.{PAUSE_UNTIL_PRESS}
+The {STR_VAR_2} was taken and\nreplaced with the {STR_VAR_1}.{PAUSE_UNTIL_PRESS}
+This POKéMON is holding an\nitem. It cannot hold MAIL.{PAUSE_UNTIL_PRESS}
+MAIL was transferred from\nthe MAILBOX.{PAUSE_UNTIL_PRESS}
+The {STR_VAR_1} is full. The POKéMON's\nitem could not be removed.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} learned\n{STR_VAR_2}!
+{STR_VAR_1} and {STR_VAR_2}\nare not compatible.\p{STR_VAR_2} can't be\nlearned.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} wants to learn the\nmove {STR_VAR_2}.\pHowever, {STR_VAR_1} already\nknows four moves.\pShould a move be deleted and\nreplaced with {STR_VAR_2}?
+Stop trying to teach\n{STR_VAR_2}?
+{STR_VAR_1} did not learn the\nmove {STR_VAR_2}.{PAUSE_UNTIL_PRESS}
+Which move should be forgotten?{PAUSE_UNTIL_PRESS}
+1, {PAUSE 0x0F}2, and{PAUSE 0x0F}‥ {PAUSE 0x0F}‥ {PAUSE 0x0F}‥ {PAUSE 0x0F}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\p{STR_VAR_1} forgot how to\nuse {STR_VAR_2}.\pAnd...{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} already knows\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1}'s HP was restored\nby {STR_VAR_2} point(s).{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} was cured of its\npoisoning.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} was cured of\nparalysis.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} woke up.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1}'s burn was healed.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} was thawed out.{PAUSE_UNTIL_PRESS}
+PP was restored.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1}は\nげんきを とりもどした!{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} became healthy.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1}'s PP increased.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} was elevated to\nLv. {STR_VAR_2}.
+{STR_VAR_1}'s base {STR_VAR_2}\nstat was raised.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} snapped out of its\nconfusion.{PAUSE_UNTIL_PRESS}
+{STR_VAR_1} got over its\ninfatuation.{PAUSE_UNTIL_PRESS}
+That's your only\nPOKéMON for battle.
+That POKéMON can't be traded\nnow.
+An EGG can't be traded now.
+The other TRAINER's POKéMON\ncan't be traded now.
+The other TRAINER can't accept\nthat POKéMON now.
+You can't trade with that\nTRAINER now.
+That isn't the type of POKéMON\nthat the other TRAINER wants.
+That isn't an EGG.
+Choose a POKéMON.
+Move to where?
+Teach which POKéMON?
+Use on which POKéMON?
+Give to which POKéMON?
+Do what with this {PKMN}?
+There's nothing to CUT.
+No SURFING here!
+You're already SURFING.
+Can't use that here.
+Restore which move?
+Boost PP of which?
+Do what with an item?
+No battling this way!
+Choose a POKéMON.
+Not enough HP‥
+Three {PKMN} are needed.
+{PKMN} can't be the same.
+No same hold items!
+The current is much too fast!
+Do what with the MAIL?
+Choose POKéMON or CANCEL.
+Choose POKéMON and confirm.
+Two POKéMON are needed.
+Let's enjoy cycling!
+This is in use already.
+No use.
+ABLE
+FIRST
+SECOND
+THIRD
+ABLE
+NOT ABLE
+ABLE!
+NOT ABLE!
+LEARNED
+OAK: It's important to get to know\nyour POKéMON thoroughly.\p
+This is a list of your POKéMON,\n{PLAYER}.\pOpen this to check the skills\nand moves of your POKéMON.\pYou also choose POKéMON here if\nyou want to use an item on one.{PAUSE_UNTIL_PRESS}
+Cut a tree or grass.
+Fly to a known town.
+Travel on water.
+Move heavy boulders.
+Light up darkness.
+Shatter a cracked rock.
+Climb a waterfall.
+すいちゅうに もぐる
+Escape from here.
+Lure wild POKéMON.
+Share HP.
+Return to a healing spot.
+Want to escape from here and return\nto {STR_VAR_1}?
+Want to return to the healing spot\nused last in {STR_VAR_1}?
+ATTACK
+DEFENSE
+とくこう
+とくぼう
+SPEED
+HP
+That POKéMON can't participate.{PAUSE_UNTIL_PRESS}
+Cancel participation?
+Cancel the battle?
+TURN OFF
+もようがえ
+ITEM STORAGE
+MAILBOX
+DEPOSIT ITEM
+WITHDRAW ITEM
+どうぐを すてる
+Store items in the PC.
+Take out items from the PC.
+パソコンに あずけている\nどうぐを すてます
+There are no items.{PAUSE_UNTIL_PRESS}
+There is no more\nroom in the BAG.
+Withdraw how many\n{STR_VAR_1}(s)?
+Withdrew {STR_VAR_2}\n{STR_VAR_1}(s).
+READ
+MOVE TO BAG
+GIVE
+There's no MAIL here.{PAUSE_UNTIL_PRESS}
+What would you like to do with\n{STR_VAR_1}'s MAIL?
+The message will be lost.\nIs that okay?
+The BAG is full.{PAUSE_UNTIL_PRESS}
+The MAIL was returned to the BAG\nwith its message erased.{PAUSE_UNTIL_PRESS}
+WITHDRAW\nITEM
+WITHDRAW
+Return to the PC.
+LT. SURGE
+KOGA
+さんか する
+INFO
+EGGS
+HALL OF FAME
+VICTORIES
+QUIT
+PSN
+PAR
+SLP
+BRN
+FRZ
+TOXIC
+OK
+QUIT
+みました
+これから
+YES
+NO
+せつめい
+SINGLE BATTLE
+DOUBLE BATTLE
+MULTI BATTLE
+Make a challenge.
+INFO
+FRESH WATER{CLEAR_TO 0x57}{FONT_SMALL}¥200
+SODA POP{CLEAR_TO 0x57}{FONT_SMALL}¥300
+LEMONADE{CLEAR_TO 0x57}{FONT_SMALL}¥350
+{FONT_SMALL} 50 COINS{CLEAR_TO 0x45}¥1,000
+{FONT_SMALL}500 COINS{CLEAR_TO 0x40}¥10,000
+Excellent
+Not so bad
+RED SHARD
+YELLOW SHARD
+BLUE SHARD
+GREEN SHARD
+バトルタワ-
+Right
+Left
+TM13{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS
+TM23{CLEAR_TO 0x48}{FONT_SMALL}3,500 COINS
+TM24{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS
+TM30{CLEAR_TO 0x48}{FONT_SMALL}4,500 COINS
+TM35{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS
+1F
+2F
+3F
+4F
+5F
+COOL
+BEAUTY
+CUTE
+SMART
+TOUGH
+NORMAL
+BLACK
+PINK
+SEPIA
+COOL
+BEAUTY
+CUTE
+SMART
+TOUGH
+ITEMS
+KEY ITEMS
+POKé BALLS
+TMs & HMs
+BERRIES
+BOULDERBADGE
+CASCADEBADGE
+THUNDERBADGE
+RAINBOWBADGE
+SOULBADGE
+MARSHBADGE
+VOLCANOBADGE
+EARTHBADGE
+SOMEONE'S PC
+BILL'S PC
+{PLAYER}'s PC
+HALL OF FAME
+LOG OFF
+PROF. OAK's PC
+EEVEE
+FLAREON
+JOLTEON
+VAPOREON
+Quit looking.
+FRESH WATER
+SODA POP
+LEMONADE
+COINS
+BICYCLE{CLEAR_TO 0x49}{FONT_SMALL}¥1,000,000
+NO THANKS
+ABRA{CLEAR_TO 0x55}{FONT_SMALL} 180 COINS
+CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 500 COINS
+DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 2,800 COINS
+SCYTHER{CLEAR_TO 0x4B}{FONT_SMALL} 5,500 COINS
+PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 9,999 COINS
+ABRA{CLEAR_TO 0x55}{FONT_SMALL} 120 COINS
+CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 750 COINS
+PINSIR{CLEAR_TO 0x4B}{FONT_SMALL} 2,500 COINS
+DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 4,600 COINS
+PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 6,500 COINS
+NO THANKS
+HELIX FOSSIL
+DOME FOSSIL
+OLD AMBER
+TRADE CENTER
+COLOSSEUM
+Game Link cable
+Wireless
+ITEMS POCKET
+KEY ITEMS POCKET
+POKé BALLS POCKET
+TM CASE
+BERRY POUCH
+OTHER
+ONE ISLAND
+TWO ISLAND
+THREE ISLAND
+FOUR ISLAND
+FIVE ISLAND
+SIX ISLAND
+SEVEN ISLAND
+VERMILION
+COLOSSEUM
+BERRY CRUSH
+せつめいを きく
+POKéMON JUMP
+DODRIO BERRY-PICKING
+2 TINYMUSHROOMS
+1 BIG MUSHROOM
+SEVII ISLANDS
+NAVEL ROCK
+BIRTH ISLAND
+MIRACLE SEED{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS
+CHARCOAL{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS
+MYSTIC WATER{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS
+YELLOW FLUTE{CLEAR_TO 0x50}{FONT_SMALL}1,600 COINS
+SMOKE BALL{CLEAR_TO 0x5A}{FONT_SMALL}800 COINS
+BECOME LEADER
+JOIN GROUP
+SINGLE
+DOUBLE
+KNOCKOUT
+MIXED
+99かい いじょう
+1ぷん いじょう
+びょう
+かい
+.
+Big guy
+Big girl
+son
+daughter
+BOULDERBADGE
+CASCADEBADGE
+THUNDERBADGE
+RAINBOWBADGE
+SOULBADGE
+MARSHBADGE
+VOLCANOBADGE
+EARTHBADGE
+1F
+2F
+3F
+4F
+5F
+6F
+7F
+8F
+9F
+10F
+11F
+B1F
+B2F
+B3F
+B4F
+ROOFTOP
+Now on:
+LINKED GAME PLAY
+DIRECT CORNER
+UNION ROOM
+ENERGYPOWDER{CLEAR_TO 0x74}{FONT_SMALL}50
+ENERGY ROOT{CLEAR_TO 0x74}{FONT_SMALL}80
+HEAL POWDER{CLEAR_TO 0x74}{FONT_SMALL}50
+REVIVAL HERB{CLEAR_TO 0x6F}{FONT_SMALL}300
+PROTEIN{CLEAR_TO 0x65}{FONT_SMALL}1,000
+IRON{CLEAR_TO 0x65}{FONT_SMALL}1,000
+CARBOS{CLEAR_TO 0x65}{FONT_SMALL}1,000
+CALCIUM{CLEAR_TO 0x65}{FONT_SMALL}1,000
+ZINC{CLEAR_TO 0x65}{FONT_SMALL}1,000
+HP UP{CLEAR_TO 0x65}{FONT_SMALL}1,000
+PP UP{CLEAR_TO 0x65}{FONT_SMALL}3,000
+{PLAYER}'s BATTLE RESULTS
+TOTAL RECORD W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}
+WIN{CLEAR_TO 0x30}LOSE{CLEAR_TO 0x60}DRAW
+-------
+----
+The FAME CHECKER will be closed.
+\n                              
+やめる
+Exit from the BOX.
+What do you want to do?
+Please pick a theme.
+Pick the wallpaper.
+{DYNAMIC 0x00} is selected.
+Jump to which BOX?
+Deposit in which BOX?
+{DYNAMIC 0x00} was deposited.
+The BOX is full.
+Release this POKéMON?
+{DYNAMIC 0x00} was released.
+Bye-bye, {DYNAMIC 0x00}!
+Mark your POKéMON.
+That's your last POKéMON!
+Your party's full!
+You're holding a POKéMON!
+Which one will you take?
+You can't release an EGG.
+Continue BOX operations?
+{DYNAMIC 0x00} came back!
+Was it worried about you?
+‥ ‥ ‥ ‥ ‥!
+Please remove the MAIL.
+GIVE to a POKéMON?
+Placed item in the BAG.
+The BAG is full.
+Put this item in the BAG?
+{DYNAMIC 0x00} is now held.
+Changed to {DYNAMIC 0x00}.
+MAIL can't be stored!
+CANCEL
+STORE
+WITHDRAW
+SHIFT
+MOVE
+PLACE
+SUMMARY
+RELEASE
+MARK
+NAME
+JUMP
+WALLPAPER
+TAKE
+GIVE
+SWITCH
+BAG
+INFO
+SCENERY 1
+SCENERY 2
+SCENERY 3
+ETCETERA
+FOREST
+CITY
+DESERT
+SAVANNA
+CRAG
+VOLCANO
+SNOW
+CAVE
+BEACH
+SEAFLOOR
+RIVER
+SKY
+STARS
+POKéCENTER
+TILES
+SIMPLE
+なにを しますか?
+WITHDRAW POKéMON
+DEPOSIT POKéMON
+MOVE POKéMON
+MOVE ITEMS
+SEE YA!
+You can withdraw a POKéMON if you\nhave any in a BOX.
+You can deposit your party\nPOKéMON in any BOX.
+You can move POKéMON that are\nstored in any BOX.
+You can move items held by any\nPOKéMON in a BOX or your party.
+See you later!
+Can't deposit the last POKéMON!
+Can't take any more POKéMON.
+BOX
+Combine four words or phrases
+and make your profile.
+Make a message of six phrases.
+Max two 12-letter phrases/line.
+Find words that describe your
+feelings right now.
+4つの ことばで
+Combine nine words or phrases
+and make a message.
+Change just one word or phrase
+and improve the BARD's song.
+and fill out the questionnaire.
+Your profile
+Your feeling at the battle's start
+What you say if you win a battle
+What you say if you lose a battle
+The answer
+The MAIL message
+はがきに のせる あいさつは
+The new song
+Combine two words or phrases
+and make a trendy saying.
+The trendy saying
+is as shown. Okay?
+2つの ことばを くみあわせて
+いい ことばを おしえてあげよう!
+All the text being edited will
+be deleted. Is that okay?
+なにか ことばを いれてください!
+ことばを ぜんぶ けすことは できません!
+かえられる ことばは 1つ までです!
+うたを もとに もどします!
+それは もう はやっています!
+2つの ことばを くみあわせてください!
+Quit editing?
+Stop giving the POKéMON MAIL?
+へんしゅうした ことばは ほぞん
+されませんが いいですか?
+PROFILE
+At the battle's start:
+Upon winning a battle:
+Upon losing a battle:
+The BARD's Song
+What's hip and happening?
+Interview
+いい ことば
+QUESTIONNAIRE
+ きれい だよね-
+ かわいい よね-
+ のんびり だよね-
+ ぽっかぽか だよね-
+ あこがれる よね-
+ ドキドキ するよね-
+ おもしろい よね-
+ ふしぎ だよね-
+って
+\nそう おもわない?
+たびに でたいな-\nどこか いい ところ しらない?
+120しょくの クレヨン かったんだ-\nいいでしょう?
+しゃぼんだまに のって とべるように\nならないかな-
+すなはまに かいた もじは\nすぐに きえちゃうのが かなしいよね-
+うみの そこって どうなってるのかな-\nいちどで いいから みて みたいな-
+ゆうやけを みると\nウチに かえりたく ならない?
+みどりの しばで ねころがると\nきもちいいよね-
+ひみつきち って いいよね!\nなんか わくわく してこない?
+ポケモン リ-グ
+POKéMON CENTER
+に ポロックを あげますか?
+かっこよさ
+うつくしさ
+かわいさ
+かしこさ
+たくましさ
+に みがきが かかった!
+なにも かわらなかった!
+もう これいじょう たべない みたい‥
+Save failed.\nChecking the backup memory‥\nPlease wait.\n“Time required:\nabout 1 minute”
+The backup memory is damaged or\nthe game's battery has run dry.\nThe game can be played, but its\nprogress cannot be saved.\n“Please press the A Button.”
+{COLOR DARK_GRAY}“このまま ぼうけんをつづけることは できません\nタイトルに もどります”
+けんさが しゅうりょうしました!\nもういちど レポ-トを かきこみます\nしばらくおまちください
+レポ-トの かきこみは しゅうりょうしました\n{COLOR DARK_GRAY}“このまま ぼうけんをつづけることは できません\nタイトルに もどります”
+Save completed.\n“Please press the A Button.”
+れんらくせん
+ひみつきち
+アジト
+YOUR NAME?
+BOX NAME?
+'s nickname?
+RIVAL's NAME?
+{DPAD_ANY}MOVE {A_BUTTON}OK {B_BUTTON}BACK
+{A_BUTTON}GUIDE
+{A_BUTTON}CANCEL
+{A_BUTTON}CANCEL
+{A_BUTTON}SWITCH
+{A_BUTTON}OK
+{DPAD_ANY}MOVE
+{DPAD_UPDOWN}PICK
+No data
+A deep and sprawling forest that\nextends around VIRIDIAN CITY.\nA natural maze, many people\nbecome lost inside.
+A mystical mountain that is known\nfor its frequent meteor falls.\nThe shards of stars that fall\nhere are known as MOON STONES.
+A seemingly plain tunnel that was\ndug by wild DIGLETT.\nIt is famous for connecting\nROUTES 2 and 11.
+A tunnel situated on ROUTE 23.\nIt earned its name because it\nmust be traveled by all TRAINERS\naiming for the top.
+A decrepit, burned-down mansion\non CINNABAR ISLAND.\nIt got its name because a famous\nPOKéMON researcher lived there.
+An amusement park outside FUCHSIA\nCITY where many rare POKéMON can\nbe observed in the wild.\nCatch them in a popular game!
+A naturally formed underground\ntunnel. Because it has not been\ndeveloped, it is inky dark inside.\nA light is needed to get through.
+A pair of islands that is situated\non ROUTE 20.\nThe two islands are shaped the\nsame, as if they were twins.
+A tower that houses the graves of\ncountless POKéMON.\nMany people visit it daily to pay\ntheir respects to the fallen.
+A mysterious cave that is filled\nwith terribly tough POKéMON.\nIt is so dangerous, the POKéMON\nLEAGUE is in charge of it.
+A power plant that was abandoned\nyears ago, though some of the\nmachines still work. It is infested\nwith electric POKéMON.
+Supposedly an inactive volcano.\nHowever, there are persistent\nreports that the peak blazes\nwith fire at night.
+A forest on a small islet off the\ncoast of THREE ISLAND. BERRIES\ngrow wildly in profusion, quickly\nreplenishing those that fall off.
+A cave which is covered by water\nand ice on FOUR ISLAND.\nIt seems like the end of the cave\nis connected to the ocean.
+A bewildering cave off the coast\nof RESORT GORGEOUS.\nSome curious thrill seekers have\nnever emerged from it.
+An ancient ruin that is rumored to\nbe home to a peculiar POKéMON.\nHowever, so far, the POKéMON\nremains an unconfirmed rumor.
+This island has been known by this\nname since the distant past.\nNo one today knows where it got\nthis name, however.
+A lush and bush-like area. \nIn it are patterns where no grass\ngrows. Some study it in the belief\nthat a secret is concealed.
+A mysterious, just-discovered\nruin from an ancient time.\nIt got its name from the six dots\non its door.
+{DYNAMIC 0x00} nature.\nMet in a trade.
+{DYNAMIC 0x00} nature.\nMet in a trade.
+{DYNAMIC 0x00} nature.\nMet in a fateful encounter when\nat {LV_2} {DYNAMIC 0x01}.
+{DYNAMIC 0x00} nature.\nMet in a fateful encounter when\nat {LV_2} {DYNAMIC 0x01}.
+{DYNAMIC 0x00} nature.\nMet in {DYNAMIC 0x02} at {LV_2} {DYNAMIC 0x01}.
+{DYNAMIC 0x00} nature.\nMet in {DYNAMIC 0x02} at {LV_2} {DYNAMIC 0x01}.
+{DYNAMIC 0x00} nature.\nApparently met in {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}.
+{DYNAMIC 0x00} nature.\nApparently met in {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}.
+{DYNAMIC 0x00} nature.\nHatched: {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}.
+{DYNAMIC 0x00} nature.\nHatched: {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}.
+{DYNAMIC 0x00}なせいかく {LV_2}{DYNAMIC 0x01}のとき\n{DYNAMIC 0x02}で かえった ようだ
+{DYNAMIC 0x00}せいかく {LV_2}{DYNAMIC 0x01}のとき\n{DYNAMIC 0x02}で かえった ようだ
+{DYNAMIC 0x00} nature. Met in a fateful\nencounter (hatched: {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}).
+{DYNAMIC 0x00} nature. Met in a fateful\nencounter (hatched: {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}).
+{DYNAMIC 0x00} nature. Apparently met in\na fateful encounter (hatched:\n{DYNAMIC 0x02} at {LV_2} {DYNAMIC 0x01}).
+{DYNAMIC 0x00} nature. Apparently met in\na fateful encounter (hatched:\n{DYNAMIC 0x02} at {LV_2} {DYNAMIC 0x01}).
+An odd POKéMON EGG found by the\nDAY-CARE couple.
+An odd POKéMON EGG obtained from\nthe traveling man.
+A wondrously peculiar POKéMON EGG\nobtained at a nice place.
+An odd POKéMON EGG obtained from\nan old woman at the SPA.
+A peculiar POKéMON EGG obtained\nin a trade.
+It looks like this\nEGG will take a\nlong time to hatch.
+What will hatch\nfrom this? It will\ntake some time.
+It occasionally\nmoves. It should\nhatch soon.
+It's making sounds.\nIt's almost ready\nto hatch!
+a trade
+Somewhere
+POKéMON INFO
+POKéMON SKILLS
+KNOWN MOVES
+No data
+EXP. POINTS
+NEXT LV.
+{DPAD_RIGHT}PAGE {A_BUTTON}CANCEL
+{A_BUTTON}CANCEL
+{DPAD_LEFTRIGHT}PAGE
+{DPAD_LEFT}PAGE {A_BUTTON}DETAIL
+{DPAD_UPDOWN}PICK {A_BUTTON}SWITCH
+{DPAD_UPDOWN}PICK
+{DPAD_UPDOWN}PICK {A_BUTTON}DELETE
+HM moves can't be\nforgotten now.
+NAME: 
+IDNo.
+MONEY
+¥
+POKéDEX
+:
+てん
+TIME
+ゲ-ムポイント
+'s TRAINER CARD
+HALL OF FAME DEBUT  
+LINK BATTLES
+LINK CABLE BATTLES
+W:{CLEAR_TO 0x30}L:
+POKéMON TRADES
+UNION TRADES & BATTLES
+BERRY CRUSH
+Waiting for the other TRAINER to\nfinish reading your TRAINER CARD.
+OPTION
+TEXT SPEED
+BATTLE SCENE
+BATTLE STYLE
+SOUND
+BUTTON MODE
+FRAME
+CANCEL
+SLOW
+MID
+FAST
+ON
+OFF
+SHIFT
+SET
+MONO
+STEREO
+タイプ
+HELP
+L=A
+LR
+TYPE
+{DPAD_UPDOWN}PICK {DPAD_LEFTRIGHT}SWITCH {A_BUTTON}{B_BUTTON}CANCEL
+RTCを リセットします\nAで けってい Bで キャンセル
+げんざいの ゲ-ムない じかん
+ぜんかいの ゲ-ムない じかん
+じかんを さいせってい してください
+じかんを さいせってい しました!\nレポ-トを かいています おまちください
+レポ-トを かきこみました!
+レポ-トの かきこみに\nしっぱい しました‥
+レポ-トが ないので\nじかんの せっていは できません!
+ゲ-ムない じかんの しゅうせい システムが\nつかえる ように なりました!
+SAVING…\nDON'T TURN OFF THE POWER.
+A device that records POKéMON secrets\nupon meeting or catching them.
+Check and organize POKéMON that are\ntraveling with you in your party.
+Equipped with pockets for storing items\nyou bought, received, or found.
+Check your money and other game data.
+Save your game with a complete record\nof your progress to take a break.
+Adjust various game settings such as text\nspeed, game rules, etc.
+Close this MENU window.
+Retire from the SAFARI GAME and return to\nthe registration counter.
+ was used on\n
+.
+'s level rose to\n
+.
+{FONT_SMALL}MAX.{FONT_NORMAL} HP
+ATTACK
+DEFENSE
+SPEED
+SP. ATK
+SP. DEF
+{FONT_SMALL}{PLUS}{FONT_NORMAL}
+{FONT_SMALL}-{FONT_NORMAL}
+1, 
+2, and ‥ ‥ ‥ 
+Poof!\p
+{DYNAMIC 0x00} forgot\n{DYNAMIC 0x01}.\p
+And‥\p
+Machine set!\p
+Huh?
+{DYNAMIC 0x00} learned\n{DYNAMIC 0x01}!
+UPPER
+lower
+OTHERS
+SYMBOLS
+REGISTER
+EXIT
+Quit chatting?
+Register text where?
+Register text here?
+Input text.
+{DYNAMIC 0x00} joined the chat!
+{DYNAMIC 0x00} left the chat.
+{DYNAMIC 0x00}の{DYNAMIC 0x01}ひきめ:
+{DYNAMIC 0x00}の{DYNAMIC 0x01}ひきめは いません
+Exiting the chat‥
+The LEADER, {DYNAMIC 0x00}, has\nleft, ending the chat.
+The registered text has been changed.\nIs it okay to save the game?
+There is already a saved file.\nIs it okay to overwrite it?
+SAVING‥\nDON'T TURN OFF THE POWER.
+{DYNAMIC 0x00} saved the game.
+If the LEADER leaves, the chat\nwill end. Is that okay?
+HELLO
+POKéMON
+TRADE
+BATTLE
+LET'S
+OK!
+SORRY
+YAY{EMOJI_BIGSMILE}
+THANK YOU
+BYE-BYE!
+{PLAYER} scurried to a POKéMON CENTER,\nprotecting the exhausted and fainted\nPOKéMON from further harm‥\p
+{PLAYER} scurried back home, protecting\nthe exhausted and fainted POKéMON from\nfurther harm‥\p
+PLAYER: {DYNAMIC 0x00}
+This document is issued in\nrecognition of your magnificent\nachievement - the completion of\nthe {DYNAMIC 0x01} POKéDEX.
+GAME FREAK
+NATIONAL
+KANTO
+Clear all save data areas?
+Clearing data‥\nPlease wait.
+PLAYER
+TIME
+:
+POKéDEX
+BADGES
+REGISTER
+{STR_VAR_1} hatched from the EGG!
+Would you like to nickname the newly\nhatched {STR_VAR_1}?
+You've run out of COINS.\nGame over!
+Quit playing?
+{DPAD_LEFTRIGHT}COMBOS {DPAD_DOWN}WAGER {A_BUTTON}STOP {B_BUTTON}EXIT
+おしえテレビ
+おしまい
+BILL
+SOMEONE
+HELP
+{CLEAR_TO 8}
+ points
+ time(s)
+POKéMON JUMP RECORDS
+Jumps in a row:
+Best score:
+EXCELLENTS in a row:
+Awesome score! You've\nwon {DYNAMIC 01} {DYNAMIC 00}!
+There's no room left now.
+You can't hold any more!
+Want to play again?
+Somebody dropped out.\nThe link will be canceled.
+SAVING…\nDON'T TURN OFF THE POWER.
+Communication standby…
+SAVING...\nDON'T TURN OFF THE POWER.
+DODRIO BERRY-PICKING RECORDS
+BERRIES picked:
+Best score:
+BERRIES picked in a row with\nfive players:
+Announcing BERRY-PICKING results!
+10P     30P     50P     {EMOJI_MINUS}50P
+Announcing rankings!
+Announcing prizes!
+1:
+2:
+3:
+4:
+5:
+The first-place winner gets\nthis {DYNAMIC 00}!
+You can't hold any more...
+It filled its storage space.
+Want to play again?
+Somebody dropped out.\nThe link will be canceled.
+ points
+Communication standby…
+Are you ready to BERRY-CRUSH?\nPlease pick a BERRY for use.\p
+Please wait while each member\nchooses a BERRY.
+{PAUSE_MUSIC}{PLAY_BGM MUS_LEVEL_UP}You ended up with {STR_VAR_1} units of\nsilky-smooth BERRY POWDER.{RESUME_MUSIC}\pYour total amount of BERRY POWDER\nis {STR_VAR_2}.\p
+Recording your game results in the\nsave file.\nPlease wait.
+Want to play BERRY CRUSH again?
+You have no BERRIES.\nThe game will be canceled.
+A member dropped out.\nThe game will be canceled.
+Time's up.\pGood BERRY POWDER could not be\nmade…\p
+Communication standby…
+1. {COLOR BLUE}{SHADOW LIGHT_BLUE}{DYNAMIC 0x00}
+1. {DYNAMIC 0x00}
+ times
+{STR_VAR_1}.{STR_VAR_2}
+{STR_VAR_1} BERRY
+Time:
+Pressing Speed:
+Silkiness:
+{STR_VAR_1}
+min.
+{STR_VAR_1}.{STR_VAR_2}
+sec.
+{STR_VAR_1}.{STR_VAR_2}
+Times/sec.
+{STR_VAR_1}%
+No. of Presses Rankings
+Crushing Results
+Neatness Rankings
+Cooperative Rankings
+Pressing-Power Rankings
+BERRY CRUSH
+Pressing-Speed Rankings
+{STR_VAR_1} PLAYERS
+GHOST
+A POKéMON's on the hook!{PAUSE_UNTIL_PRESS}
+Not even a nibble‥{PAUSE_UNTIL_PRESS}
+It got away‥{PAUSE_UNTIL_PRESS}
+ROOFTOP
+Pokémon FireRed Version\nStaff
+Pokémon LeafGreen Version\nStaff
+\n\nDirector\n\n\n\n
+\n\n\nJunichi Masuda\n\n\n
+\nArt Director\n\nBattle Director\n\n\n
+\n\nKen Sugimori\n\nShigeki Morimoto\n\n
+Program Leader\n\nPlanning Leader\n\nGraphic Design Leader\n\n
+\nTetsuya Watanabe\n\nKoji Nishino\n\nTakao Unno\n
+Programmers\n\n\n\n\n
+\nHiroyuki Nakamura\nMasao Taya\nSatoshi Nohara\nMiyuki Iwasawa\nDaisuke Goto\n
+System Programmers\n\n\n\n\n\n
+\nTetsuya Watanabe\nAkito Mori\nHisashi Sogabe\nSousuke Tamada\n\n
+Graphic Designers\n\n\n\n\n\n
+\nTakao Unno\nAsuka Iwashita\nKanako Eo\nHiroki Fuchino\n\n
+\nGraphic Designers\n\n\n\n\n
+\n\nKen Sugimori\nHironobu Yoshida\n\n\n
+\nMusic Composition\n\n\n\n\n
+\n\nGo Ichinose\nJunichi Masuda\n\n\n
+\n\nSound Effects\n\n\n\n
+\n\n\nGo Ichinose\n\n\n
+\nGame Designers\n\n\n\n\n
+\n\nJunichi Masuda\nKoji Nishino\nTetsuji Ohta\n\n
+\nGame Designers\n\n\n\n\n
+\n\nHitomi Sato\nShigeru Ohmori\nTadashi Takahashi\n\n
+\nGame Scenario\n\n\n\n\n
+\n\nHitomi Sato\nSatoshi Tajiri\n\n\n
+\nScript Designer\n\nMap Designer\n\n\n
+\n\nSatoshi Nohara\n\nShigeru Ohmori\n\n
+\nParametric Designers\n\n\n\n\n
+\n\nKoji Nishino\nTetsuji Ohta\nShigeki Morimoto\n\n
+\n\nPOKéDEX Text\n\n\n\n
+\n\n\nKenji Matsushima\n\n\n
+POKéMON Designers\n\n\n\n\n\n
+\nKen Sugimori\nMotofumi Fujiwara\nShigeki Morimoto\nHironobu Yoshida\n\n
+POKéMON Designers\n\n\n\n\n\n
+\nSatoshi Ohta\nAsuka Iwashita\nTakao Unno\nKanako Eo\nAimi Tomita\n
+POKéMON Designers\n\n\n\n\n\n
+\nAtsuko Nishida\nMuneo Saito\nRena Yoshikawa\nJun Okutani\n\n
+Supporting Programmers\n\n\n\n
+\nTeruyuki Yoshioka\nTakao Nakano\n\nSatoshi Mitsuhara\nDaisuke Hoshino\n
+\n\nNCL Product Testing\n\n\n\n
+\n\n\nNCL Super Mario Club\n\n\n
+Special Thanks\n\n\n\n\n\n
+\nHiro Nakamura\nHiroyuki Uesugi\nTeruki Murakawa\n\nKazuya Suyama\n
+Special Thanks\n\n\n\n\n\n
+\nKenji Tominaga\n\nKenjiro Ito\nTomotaka Komura\nMichiko Takizawa\n
+Special Thanks\n\n\n\n\n\n
+\nMakiko Takada\nMikiko Ohashi\nShusaku Egami\nTakanao Kondo\nRui Kawaguchi\n
+\n\nBraille Code Check\n\n\n\n
+\n\n\nJapan Braille Library\n\n\n
+Information Supervisors\n\n\n\n\n\n
+\nHiroki Enomoto\nKazuyuki Terada\nYuri Sakurai\nYumi Funasaka\nNaoko Yanase\n
+Coordinators\n\n\n\n\n\n
+\nAzusa Tajima\nAkira Kinashi\nKazuki Yoshihara\n\nRetsuji Nomoto\n
+\nTask Managers\n\n\n\n\n
+\n\nHitoshi Yamagami\nGakuji Nomoto\n\n\n
+\nProducers\n\n\n\n\n
+\n\nHiroyuki Jinnai\nTakehiro Izushi\nHiroaki Tsuru\n\n
+\n\nExecutive Director\n\n\n\n
+\n\n\nSatoshi Tajiri\n\n\n
+\n\nExecutive Producer\n\n\n\n
+\n\n\nSatoru Iwata\n\n\n
+\n\nExecutive Producer\n\n\n\n
+\n\n\nTsunekaz Ishihara\n\n\n
+\nEnglish Version Coordinators\n\n\n\n\n
+\n\nHiro Nakamura\nSeth McMahill\n\n\n
+\nTranslator\n\nText Editor\n\n\n
+\n\nNob Ogasawara\n\nTeresa Lillygren\n\n
+Programmers\n\n\n\n\n\n
+\nTeruki Murakawa\nSouichi Yamamoto\nYuichiro Ito\nAkira Kinashi\n\n
+\nEnvironment & Tool Programmers\n\n\n\n\n
+\n\nTeruki Murakawa\nSouichi Yamamoto\nKimiko Nakamichi\n\n
+NOA Product Testing\n\n\n\n\n\n
+\nThomas Hertzog\nKathy Huguenard\nMika Kurosawa\n\n\n
+Braille Code Check\n\n\n\n\n\n
+\nNational Federation\n{CLEAR_TO 0x13}of the Blind\nPatricia A. Maurer\nJapan Braille Library\nEuropean Blind Union\n
+\nBraille Code Check\n\n\n\n\n
+\n\nNational Information Library\n{CLEAR_TO 0x2D}Service\nMargaret Campion\n\n
+Special Thanks\n\n\n\n\n\n
+\nTakehiro Izushi\nMotoyasu Tojima\nHitoshi Yamagami\nHiroyuki Uesugi\n\n
+Special Thanks\n\n\n\n\n\n
+\nNicola Pratt-Barlow\nShellie Dow\nAnthony Howitt\nNaoko Saeki\nKyoko Onishi\n
+\nBraille Code Check\n\n\n\n\n
+\n\nThe Royal New Zealand\nFoundation of the Blind\nGreg Moran\n\n
+\n\nGraphic Designer\n\n\n\n
+\n\n\nAkira Kinashi\n\n\n
+カ-ドeリ-ダ-{PLUS}の ‘つうしん'を\nえらんで Aボタンを おしてください
+カ-ドeリ-ダ-{PLUS}と\nつうしん できません
+Communication error…\nPlease check all connections,\nthen turn the power OFF and ON.
+Communication error…
+Move closer to your link partner(s).\nAvoid obstacles between partners.
+A Button: Registration Counter
+A Button: Title Screen
+{STR_VAR_1}P LINK
+BRONZE
+COPPER
+SILVER
+GOLD
+{A_BUTTON}NEXT
+{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}END
+{A_BUTTON}{B_BUTTON}CANCEL
+{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}CANCEL
+POKéMON
+TRAINER
+STATUS
+BATTLE
+GREETINGS
+PEOPLE
+VOICES
+SPEECH
+ENDINGS
+FEELINGS
+CONDITIONS
+ACTIONS
+LIFESTYLE
+HOBBIES
+TIME
+MISC.
+ADJECTIVES
+EVENTS
+MOVE 1
+MOVE 2
+TRENDY SAYING
+POKéMON2
+???
+Lv
+---
+????
+Is this trade okay?
+CANCEL
+Choose a POKéMON.
+SUMMARY
+TRADE
+Cancel trade?
+Press the B Button to exit.
+SUMMARY
+TRADE
+{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Communication standby…\nPlease wait.
+{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}The trade has been canceled.
+{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}That's your only POKéMON\nfor battle.
+{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Waiting for your friend\nto finish…
+Your friend wants\nto trade POKéMON.
+{STR_VAR_2} will be\nsent to {STR_VAR_1}.
+Bye-bye, {STR_VAR_2}!
+{STR_VAR_1} sent over {STR_VAR_3}.
+Take good care of {STR_VAR_3}!
+From 
+Wireless Communication Status
+People trading:
+People battling:
+People in the UNION ROOM:
+People communicating:
+{DYNAMIC 0x00} players
+{DYNAMIC 0x01} player
+{DYNAMIC 0x02} players
+{DYNAMIC 0x03} players
+{DPAD_ANY}えらぶ:{A_BUTTON}けってい
+{B_BUTTON}CANCEL
+{COLOR RED}{SHADOW LIGHT_RED}   たいせんの くみあわせ\n{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}じぶんの ばしょをきめて ください
+{ID}
+Communication standby…
+The two seem to get along\nvery well.
+The two seem to get along.
+The two don't seem to like\neach other much.
+The two prefer to play with other\nPOKéMON than each other.
+Teach which move to {STR_VAR_1}?
+Teach {STR_VAR_2}?
+{STR_VAR_1} learned\n{STR_VAR_2}.
+{STR_VAR_1} is trying to learn\n{STR_VAR_2}.\pBut {STR_VAR_1} can't learn more\nthan four moves.\pDelete an older move to make\nroom for {STR_VAR_2}?
+Stop learning {STR_VAR_2}?
+{PAUSE 0x20}1, {PAUSE 0x0F}2, and {PAUSE 0x0F}‥ {PAUSE 0x0F}‥ {PAUSE 0x0F}‥ {PAUSE 0x0F}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\p
+{STR_VAR_1} forgot {STR_VAR_3}.\pAnd‥\p{STR_VAR_1}\nlearned {STR_VAR_2}.
+Give up trying to teach a new\nmove to {STR_VAR_1}?
+Which move should be forgotten?\p
+----------
+Communication standby‥\nAwaiting another player to choose.
+The battle was refused.{PAUSE 0x3C}
+Refused the battle.{PAUSE 0x3C}
+{START_BUTTON}PICK {DPAD_UPDOWN}SELECT {A_BUTTON}OK
+{START_BUTTON}PICK {DPAD_UPDOWN}SELECT {B_BUTTON}CANCEL
+{DPAD_ANY}PICK {A_BUTTON}READ {B_BUTTON}CANCEL
+OAK
+DAISY
+BILL
+FUJI
+A variety of events will be imported\nover Wireless Communication.
+Read the WONDER CARDS in your\npossession.
+Read the NEWS that arrived.
+Return to the title screen.
+You don't have a WONDER CARD,\nso a new CARD will be input.
+You don't have any WONDER NEWS,\nso new NEWS will be input.
+Where should the WONDER CARD\nbe accessed?
+Where should the WONDER NEWS\nbe accessed?
+Link standby...\n... ... B Button: Cancel
+Communicating…
+Communication completed.
+Communication error.
+Communication has been canceled.
+Throw away the WONDER CARD\nand input a new CARD?
+You haven't received the CARD's gift\nyet. Input a new CARD anyway?
+A WONDER CARD has been received\nfrom {STR_VAR_1}.
+A WONDER NEWS item has been\nreceived from {STR_VAR_1}.
+A new WONDER CARD has been\nreceived.
+A new WONDER NEWS item has been\nreceived.
+A new STAMP has been received.
+A new TRAINER has arrived.
+You already had that\nWONDER CARD.
+You already had that\nWONDER NEWS item.
+You already had that\nSTAMP.
+There's no more room for adding\nSTAMPS.
+Your record has been uploaded via\nWIRELESS COMMUNICATION.
+You can't accept a WONDER CARD\nfrom this TRAINER.
+You can't accept WONDER NEWS\nfrom this TRAINER.
+Nothing was sent over…
+What would you like to do\nwith the WONDER CARDS?
+What would you like to do\nwith the WONDER NEWS?
+Sending your WONDER CARD…
+Sending your WONDER NEWS item…
+Your WONDER CARD has been sent\nto {STR_VAR_1}.
+Your WONDER NEWS item has been\nsent to {STR_VAR_1}.
+A STAMP has been sent to {STR_VAR_1}.
+A GIFT has been sent to {STR_VAR_1}.
+The other TRAINER has the same\nWONDER CARD already.
+The other TRAINER has the same\nWONDER NEWS already.
+The other TRAINER has the same\nSTAMP already.
+The other TRAINER canceled\ncommunication.
+You can't send a MYSTERY GIFT to\nthis TRAINER.
+If you throw away the CARD,\nits event won't happen. Okay?
+Is it okay to discard this\nNEWS item?
+You haven't received the\nGIFT. Is it okay to discard?
+Data will be saved.\nPlease wait.
+Save completed.\nPlease press the A Button.
+The WONDER CARD was thrown away.
+The WONDER NEWS was thrown away.
+MYSTERY GIFT
+{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}EXIT
+WONDER CARDS
+WONDER NEWS
+WIRELESS COMMUNICATION
+FRIEND
+EXIT
+RECEIVE
+SEND
+TOSS
+DEL. ALL{CLEAR_TO 0x57}CANCEL{CLEAR_TO 0xA4}OK
+<<< FILE: src/trainer_tower_sets.c >>>
+$$$$$$$$$$
+COLE
+RATICATE
+MAGMAR
+MAGCARGO
+PRIMEAPE
+GOLBAT
+SLOWBRO
+JAC
+MEOWTH
+FLAREON
+PORYGON
+CHANSEY
+FARFETCH'D
+MR. MIME
+MILY
+CHANSEY
+CLEFABLE
+TOGETIC
+TOGETIC
+CHANSEY
+CLEFABLE
+JOS & ANNE
+RAPIDASH
+NINETALES
+MISDREAVUS
+ALAKAZAM
+BLISSEY
+CROBAT
+JOS & ANNE
+HOUNDOOM
+AERODACTYL
+ARCANINE
+WEEZING
+CHARIZARD
+GENGAR
+EMY & ALEK
+TAUROS
+KANGASKHAN
+FEAROW
+TOGETIC
+PIDGEOT
+URSARING
+EMY & ALEK
+LICKITUNG
+NOCTOWL
+FURRET
+RATICATE
+WIGGLYTUFF
+PORYGON2
+JO & HALEY
+SNEASEL
+ALAKAZAM
+HITMONTOP
+GIRAFARIG
+XATU
+MR. MIME
+JO & HALEY
+HYPNO
+HITMONCHAN
+MACHAMP
+HOUNDOOM
+PRIMEAPE
+HERACROSS
+JORDY
+MAGBY
+CLEFFA
+IGGLYBUFF
+SMOOCHUM
+TOGEPI
+PICHU
+ERNEST
+CLEFFA
+MAGBY
+TOGEPI
+SMOOCHUM
+IGGLYBUFF
+PICHU
+GABRIEL
+PICHU
+TOGEPI
+CLEFFA
+IGGLYBUFF
+SMOOCHUM
+MAGBY
+MIKE
+PINSIR
+CHARIZARD
+RHYDON
+ARCANINE
+GOLEM
+HOUNDOOM
+REBECCA
+SANDSLASH
+DRAGONAIR
+RAPIDASH
+FLAREON
+NIDOQUEEN
+PERSIAN
+NICOLAS
+HITMONLEE
+SCYTHER
+MAGMAR
+MACHAMP
+PRIMEAPE
+POLIWRATH
+JOEY
+MURKROW
+TAUROS
+SLOWBRO
+ARBOK
+NIDOKING
+RAPIDASH
+LILY
+CLEFAIRY
+TOGEPI
+MEOWTH
+JIGGLYPUFF
+SNORLAX
+SNUBBULL
+BRANDON
+BUTTERFREE
+BEEDRILL
+PARASECT
+YANMA
+SHUCKLE
+FORRETRESS
+RIC & RENE
+HITMONLEE
+RHYDON
+GOLEM
+MAGMAR
+HERACROSS
+POLIWRATH
+RIC & RENE
+MACHAMP
+PINSIR
+MAROWAK
+HITMONCHAN
+ELECTABUZZ
+POLIWRATH
+JEN & KIRA
+JOLTEON
+ESPEON
+FLAREON
+VAPOREON
+EEVEE
+UMBREON
+JEN & KIRA
+JOLTEON
+ESPEON
+FLAREON
+VAPOREON
+EEVEE
+UMBREON
+ISAC & MAG
+NIDOKING
+GLIGAR
+QUAGSIRE
+PILOSWINE
+GOLEM
+STEELIX
+ISAC & MAG
+SKARMORY
+MANTINE
+JUMPLUFF
+GENGAR
+CROBAT
+XATU
+CHELSEA
+VILEPLUME
+STARMIE
+URSARING
+NOCTOWL
+NINETALES
+LEDIAN
+TRENTON
+GYARADOS
+VICTREEBEL
+DONPHAN
+FEAROW
+ARCANINE
+ARIADOS
+ALBERT
+KINGDRA
+GOLEM
+DRAGONITE
+TYRANITAR
+AMPHAROS
+VENUSAUR
+CAMRYN
+MURKROW
+RAPIDASH
+MILTANK
+GOLDUCK
+SANDSLASH
+NIDOQUEEN
+NATALIA
+BELLOSSOM
+VICTREEBEL
+PARASECT
+VILEPLUME
+VENUSAUR
+MEGANIUM
+KATHLEEN
+MAROWAK
+LAPRAS
+ARCANINE
+RAICHU
+TOGETIC
+SNORLAX
+BRADEN
+VAPOREON
+SLOWBRO
+POLITOED
+TENTACRUEL
+RATICATE
+DUNSPARCE
+ALLYSON
+STARMIE
+BLASTOISE
+KINGDRA
+QUAGSIRE
+LAPRAS
+DRAGONITE
+ALBERTO
+FERALIGATR
+POLIWRATH
+KANGASKHAN
+MILTANK
+GOLDUCK
+GRANBULL
+KAT & KIPP
+SNEASEL
+OMASTAR
+DEWGONG
+QUAGSIRE
+CORSOLA
+SANDSLASH
+KAT & KIPP
+FURRET
+AZUMARILL
+KINGLER
+CLOYSTER
+QUAGSIRE
+KABUTOPS
+GEB&MEGAN
+POLITOED
+GYARADOS
+LAPRAS
+NIDOQUEEN
+JYNX
+GIRAFARIG
+GEB&MEGAN
+MAROWAK
+URSARING
+SLOWKING
+ALAKAZAM
+NIDOKING
+RHYDON
+LISA&LEAH
+POLIWAG
+SQUIRTLE
+CHINCHOU
+NIDORAN♀
+CLEFAIRY
+HORSEA
+LISA&LEAH
+WOOPER
+PSYDUCK
+SNUBBULL
+JIGGLYPUFF
+NIDORAN♂
+TOTODILE
+PRISCILLA
+GOLDEEN
+SEAKING
+LANTURN
+LANTURN
+GOLDEEN
+SEAKING
+CHARLOTTE
+OCTILLERY
+QWILFISH
+REMORAID
+REMORAID
+OCTILLERY
+QWILFISH
+SHANIA
+MANTINE
+MAGIKARP
+MANTINE
+GYARADOS
+MAGIKARP
+GYARADOS
+BRENNAN
+LAPRAS
+KINGDRA
+MACHAMP
+CHANSEY
+TAUROS
+SNORLAX
+KADEN
+CHINCHOU
+DRATINI
+SLOWPOKE
+MAGIKARP
+SEAKING
+TENTACRUEL
+EMANUEL
+VAPOREON
+ESPEON
+BLISSEY
+STARMIE
+PERSIAN
+AZUMARILL
+JARRETT
+ELECTRODE
+VOLTORB
+WEEZING
+GOLEM
+EXEGGCUTE
+FORRETRESS
+OWEN
+MAGNETON
+PIKACHU
+JOLTEON
+BLISSEY
+PORYGON2
+PORYGON
+LORENZO
+MR. MIME
+HYPNO
+ALAKAZAM
+GENGAR
+GIRAFARIG
+STARMIE
+NIA & CARL
+MUK
+GENGAR
+ALAKAZAM
+JOLTEON
+ELECTRODE
+RAICHU
+NIA & CARL
+KANGASKHAN
+TAUROS
+MILTANK
+RHYDON
+DRAGONITE
+LAPRAS
+AXE & REN
+LANTURN
+MANTINE
+DEWGONG
+CLOYSTER
+TENTACRUEL
+GYARADOS
+AXE & REN
+ELECTABUZZ
+MAGNETON
+PORYGON
+DRAGONAIR
+PERSIAN
+STARMIE
+KATI & GEB
+FLAAFFY
+QUAGSIRE
+PIKACHU
+ELECTABUZZ
+TOGETIC
+GOLDUCK
+KATI & GEB
+PICHU
+ELEKID
+TOGEPI
+PSYDUCK
+MAREEP
+WOOPER
+BEN
+ELECTRODE
+ELECTABUZZ
+LANTURN
+MAGNETON
+RAICHU
+AMPHAROS
+CAMDEN
+GRANBULL
+PERSIAN
+LICKITUNG
+RATICATE
+PRIMEAPE
+KANGASKHAN
+ZACKERY
+WEEZING
+MUK
+GENGAR
+MISDREAVUS
+CROBAT
+HAUNTER
+MAURA
+PICHU
+MAREEP
+IGGLYBUFF
+CLEFFA
+NIDORAN♀
+NIDORAN♂
+MIKAELA
+NIDORINO
+NIDORINA
+PIKACHU
+FLAAFFY
+JIGGLYPUFF
+CLEFAIRY
+FLINT
+WIGGLYTUFF
+CLEFABLE
+NIDOQUEEN
+NIDOKING
+RAICHU
+AMPHAROS
+<<< FILE: src/union_room_message.c >>>
+:
+{ID}
+Please start over from the beginning.
+The WIRELESS COMMUNICATION\nSYSTEM search has been canceled.
+ともだちからの れんらくを\nまっています
+{STR_VAR_1}! Awaiting\ncommunication from another player.
+{STR_VAR_1}! Awaiting link!\nPress START when everyone's ready.
+シングルバトルを かいさいする
+ダブルバトルを かいさいする
+マルチバトルを かいさいする
+ポケモンこうかんを かいさいする
+チャットを かいさいする
+ふしぎなカードをくばる
+ふしぎなニュースをくばる
+ふしぎなできごとを かいさいする
+なわとびを かいさいする
+きのみマッシャーを かいさいする
+きのみどりを かいさいする
+ぐるぐるこうかんを かいさいする
+ぐるぐるショップを かいさいする
+1 player\nneeded.
+2 players\nneeded.
+3 players\nneeded.
+あと4にん\nひつよう
+2-PLAYER\nMODE
+3-PLAYER\nMODE
+4-PLAYER\nMODE
+5-PLAYER\nMODE
+{B_BUTTON}CANCEL
+ため\nさんかしゃ ぼしゅうちゅう です！
+{STR_VAR_2} contacted you for\n{STR_VAR_1}. Accept?
+{STR_VAR_2} contacted you.\nWill you share {STR_VAR_1}?
+{STR_VAR_2} contacted you.\nAdd to the members?
+{STR_VAR_1}!\nAre these members OK?
+Cancel {STR_VAR_1} MODE\nwith these members?
+An “OK” was sent\nto {STR_VAR_1}.
+The other TRAINER doesn't appear\nto be available now…\p
+You can't transmit with a TRAINER\nwho is too far away.\p
+The other TRAINER(S) is/are not\nready yet.\p
+The {STR_VAR_1} MODE with\nthese members will be canceled.{PAUSE 90}
+There is a member who can no\nlonger remain available.\p
+The other TRAINER appears\nunavailable…\p
+{STR_VAR_1} sent back an “OK”!
+{STR_VAR_1} OK'd your registration as\na member.
+{STR_VAR_1} replied, “No…”\p
+{STR_VAR_1}!\nAwaiting other members!
+Quit being a member?
+You stopped being a member.\p
+The WIRELESS COMMUNICATION\nSYSTEM link has been established.
+The WIRELESS COMMUNICATION\nSYSTEM link has been dropped…
+The link with your friend has been\ndropped…
+{STR_VAR_1} replied, “No…”
+Do you want the {STR_VAR_2}\nMODE?
+Do you want the {STR_VAR_2}\nMODE?
+はなしかけています…\nしょうしょう おまちください
+Awaiting {STR_VAR_1}'s response about\nthe trade…
+Communicating{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.
+Communicating with {STR_VAR_1}{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.
+Please wait a while{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.
+Hiya! Is there something that you\nwanted to do?
+Hello!\nWould you like to do something?
+{STR_VAR_1}: Hiya, we meet again!\nWhat are you up for this time?
+{STR_VAR_1}: Oh! {PLAYER}, hello!\nWould you like to do something?
+Want to do something?
+Would you like to do something?
+{STR_VAR_1}: What would you like to\ndo now?
+{STR_VAR_1}‘また なにかする？
+Somebody has contacted you.{PAUSE 60}
+{STR_VAR_1} has contacted you.{PAUSE 60}
+Awaiting a response from\nthe other TRAINER…
+Awaiting a response from\n{STR_VAR_1}…
+あいての ていあんを まっています\nビーボタンで キャンセル
+The other TRAINER showed\nyou their TRAINER CARD.\pWould you like to show your\nTRAINER CARD?
+The other TRAINER challenges you\nto battle.\pWill you accept the battle\nchallenge?
+The other TRAINER invites you\nto chat.\pWill you accept the chat\ninvitation?
+There is an offer to trade your\nregistered Lv. {DYNAMIC 0} {DYNAMIC 1}\pin exchange for a\nLv. {DYNAMIC 2} {DYNAMIC 3}.\pWill you accept this trade\noffer?
+There is an offer to trade your\nregistered EGG.\lWill you accept this trade offer?
+The chat has been dropped.\p
+You declined the offer.\p
+You declined the offer.\p
+The chat was ended.\p
+Oh, hey! We're in a chat right now.\nWant to join us?
+{STR_VAR_1}: Hey, {PLAYER}!\nWe're having a chat right now.\lWant to join us?
+Oh, hi! We're having a chat now.\nWould you like to join us?
+{STR_VAR_1}: Oh, hi, {PLAYER}!\nWe're having a chat now.\lWould you like to join us?
+……\nThe TRAINER appears to be busy…\p
+A battle, huh?\nAll right, just give me some time.
+You want to chat, huh?\nSure, just wait a little.
+Sure thing! As my “Greetings,”\nhere's my TRAINER CARD.
+A battle? Of course, but I need\ntime to get ready.
+Did you want to chat?\nOkay, but please wait a moment.
+As my introduction, I'll show you\nmy TRAINER CARD.
+チャットだね！\nわかった ちょっと まってて！
+Thanks for waiting!\nLet's get our battle started!{PAUSE 60}
+All right!\nLet's chat!{PAUSE 60}
+Sorry I made you wait!\nLet's get started!{PAUSE 60}
+Sorry I made you wait!\nLet's chat.{PAUSE 60}
+The trade will be started.{PAUSE 60}
+The battle will be started.{PAUSE 60}
+Entering the chat…{PAUSE 60}
+Sorry! My POKéMON don't seem to\nbe feeling too well right now.\lLet me battle you another time.\p
+I'm terribly sorry, but my POKéMON\naren't feeling well…\pLet's battle another time.\p
+Huh? My TRAINER CARD…\nWhere'd it go now?\lSorry! I'll show you another time!\p
+Oh? Now where did I put my\nTRAINER CARD?…\lSorry! I'll show you later!\p
+If you want to do something with\nme, just give me a shout!\p
+If you want to do something with\nme, don't be shy.\p
+Whoops! Sorry, but I have to do\nsomething else.\lAnother time, okay?\p
+If you want to battle, you need\ntwo POKéMON that are below\lLv. 30.\p
+For a battle, you need two\nPOKéMON that are below Lv. 30.\p
+Oh, all right.\nCome see me anytime, okay?\p
+Oh…\nPlease come by anytime.\p
+Oh, sorry!\nI just can't right this instant.\lLet's chat another time.\p
+Oh, I'm sorry.\nI have too much to do right now.\lLet's chat some other time.\p
+Whoa!\nI can tell you're pretty tough!\p
+You used that move?\nThat's good strategy!\p
+Way to go!\nThat was an eye-opener!\p
+Oh! How could you use that\nPOKéMON in that situation?\p
+That POKéMON…\nIt's been raised really well!\p
+That's it!\nThis is the right move now!\p
+That's awesome!\nYou can battle that way?\p
+You have exquisite timing for\nswitching POKéMON!\p
+Oh, I see!\nThis is educational!\p
+Don't say anything funny anymore!\nI'm sore from laughing!\p
+Oh?\nSomething like that happened.\p
+Hmhm… What?\nSo is this what you're saying?\p
+Is that right?\nI didn't know that.\p
+Ahaha!\nWhat is that about?\p
+Yes, that's exactly it!\nThat's what I meant.\p
+In other words…\nYes! That's right!\p
+I'm just showing my TRAINER CARD\nas my way of greeting.\p
+I hope I get to know you better!\p
+We're showing each other our\nTRAINER CARDS to get acquainted.\p
+Glad to meet you.\nPlease don't be a stranger!\p
+Yeahah!\nI really wanted this POKéMON!\p
+Finally, a trade got me that\nPOKéMON I'd wanted a long time.\p
+I'm trading POKéMON right now.\p
+I finally got that POKéMON I\nwanted in a trade!\p
+{STR_VAR_1} checked the\nTRADING BOARD.\p
+Welcome to the TRADING BOARD.\pYou may register your POKéMON\nand offer it up for a trade.\pWould you like to register one of\nyour POKéMON?
+こうかんけいじばん の とうろくが\nかんりょう しました\pごりよう ありがとう\nございました！\p
+けいじばんに だれも ポケモンを\nとうろく していません\p\n
+Please choose the type of POKéMON\nthat you would like in the trade.\n
+Which of your party POKéMON will\nyou offer in trade?\p
+Registration has been canceled.\p
+Registration has been completed.\p
+The trade has been canceled.\p
+Cancel the registration of your\nLv. {STR_VAR_2} {STR_VAR_1}?
+Cancel the registration of your\nEGG?
+The registration has been canceled.\p
+こうかんを きぼうしているひとを\nひょうじします
+こうかん したい トレーナーを\nえらんで ください
+Would you like to ask {STR_VAR_1} to\nmake a trade?
+……\nあいての へんじを まっています
+あなたが こうかんにだす\nポケモンが とうろくされていません\p
+You don't have a {STR_VAR_2}-type\nPOKéMON that {STR_VAR_1} wants.\p
+You don't have an EGG that\n{STR_VAR_1} wants.\p
+{STR_VAR_1} can't make a trade for\nyour POKéMON right now.\p
+You can't make a trade for\n{STR_VAR_1}'s POKéMON right now.\p
+Your trade offer was rejected.\p
+EGG TRADE
+{DPAD_UPDOWN}CHOOSE  {A_BUTTON}JOIN  {B_BUTTON}CANCEL
+Please choose a TRAINER.
+Please choose a TRAINER for\na SINGLE BATTLE.
+Please choose a TRAINER for\na DOUBLE BATTLE.
+Please choose the LEADER\nfor a MULTI BATTLE.
+Please choose the TRAINER to\ntrade with.
+Please choose the TRAINER who is\nsharing WONDER CARDS.
+Please choose the TRAINER who is\nsharing WONDER NEWS.
+Jump with mini POKéMON!\nPlease choose the LEADER.
+BERRY CRUSH!\nPlease choose the LEADER.
+DODRIO BERRY-PICKING!\nPlease choose the LEADER.
+Searching for a WIRELESS\nCOMMUNICATION SYSTEM. Wait...
+ダブルバトルでは 2ひき いじょうの\nポケモンが ひつようです\p
+Awaiting {STR_VAR_1}'s response…
+{STR_VAR_1} has been asked to register\nyou as a member. Please wait.
+Awaiting a response from the\nWIRELESS COMMUNICATION SYSTEM.
+ほかの さんかしゃが そろうまで\nしょうしょう おまちください
+No CARDS appear to be shared \nright now.
+No NEWS appears to be shared\nright now.
+BATTLE
+CHAT
+GREETINGS
+EXIT
+EXIT
+INFO
+NAME{CLEAR_TO 0x3C}WANTED{CLEAR_TO 0x6E}OFFER{CLEAR_TO 0xC6}LV.
+SINGLE BATTLE
+DOUBLE BATTLE
+MULTI BATTLE
+POKéMON TRADES
+CHAT
+CARDS
+WONDER CARDS
+WONDER NEWS
+POKéMON JUMP
+BERRY CRUSH
+BERRY-PICKING
+SEARCH
+ぐるぐるこうかん
+アイテムトレード
+It's a NORMAL CARD.
+It's a BRONZE CARD!
+It's a COPPER CARD!
+It's a SILVER CARD!
+It's a GOLD CARD!
+This is {DYNAMIC 0} {DYNAMIC 1}'s\nTRAINER CARD…\l{DYNAMIC 2}\pPOKéDEX: {DYNAMIC 3}\nTIME:    {DYNAMIC 4}:{DYNAMIC 5}\p
+BATTLES: {DYNAMIC 0} WINS  {DYNAMIC 2} LOSSES\nTRADES:  {DYNAMIC 3} TIMES\p“{DYNAMIC 4} {DYNAMIC 5}\n{DYNAMIC 6} {DYNAMIC 7}”\p
+{DYNAMIC 1}: Glad to have met you!{PAUSE 60}
+{DYNAMIC 1}: Glad to meet you!{PAUSE 60}
+Finished checking {DYNAMIC 1}'s\nTRAINER CARD.{PAUSE 60}
+Canceled reading the Card.

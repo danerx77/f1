@@ -1,0 +1,2674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20260829T222345Z"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en"><seg>Let's see…\nUh-oh! You have caught only\l{STR_VAR_3} kinds of POKéMON!\pYou need {STR_VAR_1} kinds\nif you want the {STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zobaczymy...\nO nie! Złapałeś tylko\l{STR_VAR_3} gatunków POKéMONÓW!\pPotrzebujesz {STR_VAR_1} gatunków\njeśli chcesz {STR_VAR_2}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>…Oh. I see.\pWhen you get {STR_VAR_1} kinds of POKéMON,\ncome back for the {STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>...Och. Rozumiem.\pWpadnij po {STR_VAR_1}, gdy\nzdobędziesz już {STR_VAR_2} gatunków!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh! I see you don't have any\nroom for the {STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och! Nie widzę miejsca, gdzie\nzmieścisz {STR_VAR_2}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm the DAY-CARE MAN.\pI help take care of the precious\nPOKéMON of TRAINERS.\pIf you'd like me to raise your\nPOKéMON, have a word with my wife.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem OPIEKUNEM.\pPomagam zająć się cennymi POKéMONAMI\nich TRENEROM.\pJeśli chcesz, bym wytrenował\ntwoje POKéMONY, zamień słówko z\pmoją żoną.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ah, it's you!\pWe were raising your POKéMON, and\nmy goodness, were we surprised!\pYour POKéMON had an EGG!\pWe don't know how it got there,\nbut your POKéMON had it.\pYou do want it, yes?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ach, to ty!\pTrenowaliśmy twoje POKéMONY, a tu\nnagle, zaskoczenie!\pJeden z twoich POKéMONÓW\nwysiadywał JAJO!\pNie wiemy skąd się tu wzięło,\nale miał je twój POKéMON.\pChcesz je, prawda?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ah, it's you! Good to see you.\nYour {STR_VAR_1}'s doing fine.</seg></tuv>
+      <tuv xml:lang="pl"><seg>A, to ty! Dobrze cię widzieć.\nTwój {STR_VAR_1} ma się super.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Well then, I'll keep it.\nThanks!</seg></tuv>
+      <tuv xml:lang="pl"><seg>No to je zatrzymam.\nDziękuję!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You have no room for it…\nCome back when you've made room.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie masz na to miejsca…\nWróć, gdy zrobisz na to miejsce.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} received the EGG from\nthe DAY-CARE MAN.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} dostaje JAJO od\nOPIEKUNA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Take good care of it.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zajmij się nim.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ah, it's you! Your {STR_VAR_1} and\n{STR_VAR_2} are doing fine.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ach, to ty! Twoje {STR_VAR_1} i\n{STR_VAR_2} mają się świetnie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I really will keep it.\nYou do want this, yes?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Naprawdę je zatrzymam.\nChcesz je, prawda?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm the DAY-CARE LADY.\pWe can raise POKéMON for you.\pWould you like us to raise one?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem OPIEKUNKĄ.\pMożemy wytrenować twe POKéMONY.\pCzy chcesz, byśmy je wytrenowali?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Which POKéMON should we raise for\nyou?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Który POKéMON miałby być\nwytrenowany?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Fine, we'll raise your {STR_VAR_1}\nfor a while.\pCome back for it later.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Świetnie, zajmiemy się twoim\n{STR_VAR_1}.\pPrzyjdź po niego później.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>We can raise two of your POKéMON.\pWould you like us to raise one\nmore POKéMON for you?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Możemy wytrenować dwa twoje\nPOKéMONY.\pChcesz wytrenować jeszcze\njednego POKéMONA?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My husband was looking for you.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mój mąż cię szukał.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, fine, then.\nCome again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, dobrze.\nDo zobaczenia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You don't have enough money…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Masz za mało pieniędzy…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Will you take back the other one,\ntoo?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy chcesz też odzyskać tego\ndrugiego?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Fine.\nCome again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Do zobaczenia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ah, it's you!\nGood to see you.\pYour POKéMON can only be doing\ngood!</seg></tuv>
+      <tuv xml:lang="pl"><seg>A, to ty!\nDobrze cię widzieć..\pTwoje POKéMONY świetnie sobie\nradzą!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>By level, your {STR_VAR_1} has\ngrown by {STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Poziomami twój {STR_VAR_1}\nurósł o {STR_VAR_2}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Your POKéMON party is full.\nMake room, then come see me.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Twoja drużyna POKéMON jest pełna.\nZrób miejsce i wróć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If you want your {STR_VAR_1} back,\nit will cost ¥{STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jeśli chcesz odzyskać\n{STR_VAR_1} musisz wpłacić\n¥{STR_VAR_2}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Perfect!\nHere's your POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Świetnie!\nOto twój POKéMON.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} took back {STR_VAR_1} from\nthe DAY-CARE LADY.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} odebiera {STR_VAR_1} od\nOPIEKUNKI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh? But you have just one\nPOKéMON.\pCome back another time.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och? Ale masz tylko jednego\nPOKéMONA.\pZapraszamy ponownie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Will you take your POKéMON back?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy chcesz odebrać POKéMONA?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If you leave me that POKéMON,\nwhat will you battle with?\pCome back another time.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jeśli zostawisz mi tego\nPOKéMONA, czym będziesz walczył?\pMusisz mieć chociaż 2.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Huh?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}OAK POKéMON RESEARCH LAB</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}LABORATOR. BADAWCZE OAKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}To make a complete guide on all\nthe POKéMON in the world…\pThat was my dream!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Stworzyć kompletny przewodnik\npo świecie POKéMONÓW…\pTo było moim marzeniem!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK may not look like much,\nbut he's the authority on POKéMON.\pMany POKéMON TRAINERS hold him in\nhigh regard.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Może nie wygląda, ale PROF. OAK to\nautorytet w dziedzinie POKéMONÓW.\pWielu TRENERÓW ma do niego wielki\nszacunek.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I hear OAK's taken a lot of\ninterest in you, child.\pThat old duff was once tough and\nhandsome.\pBut that was decades ago.\nHe's a shadow of his former self.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Podobno OAK bardzo się\ntobą zainteresował.\pTen stary dureń był kiedyś silny i\nprzystojny.\pAle to było wieki temu. Teraz\njest tylko cieniem samego siebie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK is going to have his own\nradio show soon.\pThe program will be called PROF.\nOAK'S POKéMON SEMINAR.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK będzie miał swój własny\nprogram w radiu.\pBędzie się nazywał KONWERSATORIUM\nPOKéMON OAKA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}If you show DAISY your POKéMON,\nshe can tell how much it likes you.\pOccasionally, she will even groom\na POKéMON for you.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Przy okazji, wiesz, o\nDAISY?\pJeśli pokażesz jej swoje POKéMONY,\npowie ci, jak bardzo cię lubią.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}But the person who is most liked by\nPOKéMON is DAISY, I think.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ale osobą, którą najbardziej lubi \nPOKéMONY jest pewnie DAISY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}She was gently grooming POKéMON…\nShe was a little angel.\pThat little girl's name…\nI think it was DAISY.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Była jak słodki POKéMONEK...\nMalutki aniołek.\pImię tej małej dziewczynki...\nNazywała się chyba DAISY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}A girl from PALLET TOWN, DAISY,\nshe enjoys TEA every day.\pShe visits the CELADON DEPT. STORE\nto buy some TEA.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Dziewczynka z PALLET TOWN, DAISY,\ncodziennie piję HERBATKĘ.\pCzasami odwiedza DOM TOWAROWY\nCELADON, by ją kupić.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PEWTER CITY POKéMON GYM\nLEADER: BROCK\lThe Rock-Solid POKéMON TRAINER!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON PEWTER CITY\nLIDER: BROCK\lTRENER POKéMON twardy jak głaz!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}There aren't many serious POKéMON\nTRAINERS here.\pThey're all like BUG CATCHERS,\nyou know, just hobbyists.\pBut PEWTER GYM's BROCK isn't like\nthat, not one bit.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nie ma tu żadnych poważnych\nTRENERÓW POKéMONÓW.\pWszyscy są ŁAPACZAMI ROBAKÓW,\nwiesz, zwykłymi hobbistami.\pAle BROCK z SALI w PEWTER jest\nzupełnie inny.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BROCK is cool. He's not just tough.\nPeople like and respect him.\pI want to become a GYM LEADER\nlike him.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BROCK jest świetny. Nie tylko silny.\nLudzie lubią go i szanują.\pChciałbym zostać LIDEREM SALI, tak\njak on.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Hi, I'm excavating for fossils here\nunder MT. MOON.\pSometimes, BROCK of PEWTER GYM\nlends me a hand.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Witam, prowadzę wykopaliska w celu\nodnalezienia tu skamielin.\pCzasem pomaga mi\nBROCK z PEWTER CITY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CERULEAN CITY POKéMON GYM\nLEADER: MISTY\lThe Tomboyish Mermaid!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON CERULEAN CITY\nLIDER: MISTY\lSyrenka Chłopczyca!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My policy is an all-out offensive\nwith WATER-type POKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Moja taktyka, to ostry atak\nPOKéMONAMI typu WODNEGO!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}MISTY is a TRAINER who's going to\nkeep improving.\pShe won't lose to someone like you!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}MISTY to TRENERKA, która staje się\nciągle lepsza.\pNie masz szansz z kimś jej pokroju!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Strong TRAINERS and WATER POKéMON\nare common sights in these parts.\pThey say that MISTY of the\nCERULEAN GYM trains here.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}W tych rejonach łatwo spotkać\nSilnych TRENERÓW i WODNE POKéMONY.\pPodobno MISTY z CERULEAN CITY\njest tu częstym gościem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}This cape is a famous date spot.\pMISTY, the GYM LEADER, has high\nhopes about this place.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ta chatka to znane miejsce\nspotkań randkowiczów.\pMISTY, LIDER SALI, często\nje odwiedza.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}VERMILION CITY POKéMON GYM\nLEADER: LT. SURGE\lThe Lightning American!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON VERMILION CITY\nLIDER: POR.SURGE\lElektryczny Amerykanin!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I tell you, kid, electric POKéMON\nsaved me during the war!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mówię ci, mały, elektryczne\nPOKéMONY uratowały mnie na wojnie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}When I was in the Army, LT. SURGE\nwas my strict CO.\pHe was a hard taskmaster.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Gdy byłem w Armii, POR. SURGE był\nmoim przełożonym.\pByło bardzo ciężko.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}LT. SURGE was always famous for\nhis cautious nature in the Army.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}POR. SURGE zawsze słynął w Armii ze\nswojej ostrożności.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}LT. SURGE installed the traps in\nthe GYM himself.\pHe set up double locks everywhere.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}POR. SURGE sam zainstalował\npułapki w tej SALI.\pZainstalował wszędzie podwójne zamki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CELADON CITY POKéMON GYM\nLEADER: ERIKA\lThe Nature-Loving Princess!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON CELADON CITY\nLIDER: ERIKA\lNaturalna Księżniczka!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am a student of the art of\nflower arranging.\pMy POKéMON are solely of the\nGRASS type.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Jestem studentką sztuki\naranżacji kwiatów.\pMoje POKéMONY są wyłącznie typu\nTRAWIASTEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Our LEADER ERIKA might be quiet,\nbut she's famous around here.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nasza LIDERKA ERIKA może być\nspokojna, ale jest tutaj sławna!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}We only use GRASS-type POKéMON at\nour GYM.\pWhy? We also use them for making\nflower arrangements!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}W tej SALI używamy tylko\nPOKéMONÓW TRAWIASTYCH.\pCzemu? Bo używamy ich też to\nukładania kwiatów!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I would never collect POKéMON if\nthey were unattractive.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nigdy nie zbierałabym\nbrzydkich POKéMONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}FUCHSIA CITY POKéMON GYM\nLEADER: KOGA\lThe Poisonous Ninja Master</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON FUCHSIA CITY\nLIDER: KOGA\lTrujący Ninja</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Despair to the creeping horror of\nPOISON-type POKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Kłaniaj się przed potęgą\nTRUJĄCYCH POKéMONÓW!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Even though I've lost, I will keep\ntraining according to the teachings\lof KOGA, my ninja master.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mimo, iż przegrałem, nadal będę\ntrenował według wskazań mojego\lmistrza ninja, KOGI!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My father is the GYM LEADER of\nthis town.\pI'm training to use POISON POKéMON\nas well as my father.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mój tata jest LIDEREM w tym\nmieście.\pTrenuję, by używać TRUJĄCYCH POKéMONÓW\ntak dobrze jak on.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The SAFARI ZONE's huge, wouldn't\nyou say?\pFUCHSIA's GYM LEADER, KOGA, \npatrols the grounds every so often.\pThanks to him, we can play here\nknowing that we're safe.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}STREFA SAFARI jest wielka,\nco nie?\pLIDER SALI w FUCHSIA - KOGA,\npatroluje ten teren, gdy tylko może.\pDzięki temu, możemy się bawić\nwiedząc, że jesteśmy bezpieczni.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SAFFRON CITY POKéMON GYM\nLEADER: SABRINA\lThe Master of PSYCHIC POKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON SAFFRON CITY\nLIDER: SABRINA\lMistrzyni PSYCHO POKéMONÓW!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}You know about a girl GYM LEADER\nin SAFFRON CITY?\pShe uses PSYCHIC-type POKéMON,\nright?</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Słyszałeś o tej dziewczynie,\nLIDERCE z SAFFRON CITY?\pUżywa PSYCHICZNYCH POKéMONÓW,\ntak?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I have had psychic powers since\nI was a child.\pIt started when a spoon I\ncarelessly tossed, bent.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mam psychiczne moce\nod dziecka.\pWszystko zaczęło się od\nwygięcia się rzuconej łyżki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I dislike battling, but if you wish,\nI will show you my powers!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nie lubię walczyć, ale jeśli chcesz\npokażę ci co umiem!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SABRINA just wiped out the KARATE\nMASTER next door.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SABRINA skopała przed chwilą\nMISTRZA KARATE.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CINNABAR ISLAND POKéMON GYM\nLEADER: BLAINE\lThe Hotheaded Quiz Master!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON WYSPY CINNABAR\nLIDER: BLAINE\lGorący Mistrz Quizów!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My fiery POKéMON are all rough\nand ready with intense heat!\pThey incinerate all challengers!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Moje ogniste POKéMONY są twarde i\ngotowe na gorący pojedynek!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Our LEADER, BLAINE, became lost\nin the mountains but good.\pNight fell when a fiery bird\nPOKéMON appeared.\pIts light allowed BLAINE to find\nhis way down safely.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nasz LIDER, BLAINE, zgubił się\nkiedyś w górach.\pGdy zapadła noc, pojawił się ognisty\nptasi POKéMON.\pJego światło pozwoliło BLAINE'OWI\nodnaleźć drogę na dół.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CINNABAR GYM's BLAINE is quite the\nodd fellow.\pHe's lived on the island since way\nbefore the LAB was built.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BLAINE z SALI CINNABAR to stary\nkoleś.\pŻył na tej wyspie już wtedy, gdy nie\nbyło tu jeszcze LABORATORIUM.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}It's a photo of BLAINE and\nMR. FUJI.\pThey're standing shoulder to\nshoulder with big grins.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}To zdjęcie BLAINE'A i\nPANA FUJI.\pStoją ramie w ramie. Promieniują\nszczerymi uśmiechami.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am LORELEI of the ELITE FOUR.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nazywam się LORELEI z\nELITARNEJ CZWÓRKI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}No one can best me when it comes\nto icy POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nikt nie pobije moich lodowych\nPOKéMONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Where was this person born?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}We've had a great and powerful\nTRAINER grow up on this island.\pI bet even you'd know her.\nIt's LORELEI of the ELITE FOUR!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Where was this person born?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Wychowaliśmy na tej wyspie\nwspaniałego i potężnego TRENERA.\pNa pewno ją znasz.\nTo LORELEI z ELITARNEJ CZWÓRKI!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Did you know that LORELEI has lots\nand lots of stuffed dolls?\pEvery time she comes back to\nFOUR ISLAND, her collection grows!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Wiedziałeś, że LORELEI ma barzdo\ndużo wypchanych lalek?\pZa każdym razem, gdy wraca z\nWYSPY FOUR, jej kolekcja powiększa\psię!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The LAPRAS she has, I imagine it\nto be the one she met as a child.\pI believe it was in ICEFALL CAVE\nthat she caught it.\pPerhaps that POKéMON has been with\nher ever since.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}LAPRAS z którym przybyła, to chyba\nten sam, którego spotkała jako dziecko.\pSądzę, że złapała go w\nJASKINI LODOSPADU.\pPewnie ten POKéMON żyje z nią od\ntamtych czasów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am BRUNO of the ELITE FOUR!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Jestem BRUNO z ELITARNEJ CZWÓRKI!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I've lived and trained with my\nfighting POKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Żyłem i trenowałem z\nwalczącymi POKéMONAMI!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BRUNO, who's a senior ahead of me,\nvisits the SPA on occasion.\pHe comes to rehab injuries, both\nhis own and his POKéMON's.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BRUNO, znany wojownik, odwiedza\nSPA, gdy chce się zrelaksować.\pPrzyjeżdża tu leczyć obrażenia,\nswoje i swoich POKéMONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}He's one of the ELITE FOUR.\nHis name is BRUNO.\pHe went away disappointed when he\nfound out that they were all sold\lout of Rage Candybars.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Jest członkiem ELITARNEJ CZWÓRKI.\nNazywa się BRUNO.\pOdszedł bardzo zawiedzony, gdy\ndowiedział się, że sprzedali wszystkie\lWsciekle Batoniki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Even BRUNO…\nHe trained with a fellow by the\lname of BRAWLY before.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nawet BRUNO…\nKiedyś trenował z kolesiem zwanym\lBRAWLY, czy jakoś tak.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am AGATHA of the ELITE FOUR.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Jestem AGATHA z ELITARNEJ CZWÓRKI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}AGATHA's GHOST-type POKéMON are\nhorrifically terrifying in toughness.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Siła POKéMONÓW DUCHÓW AGATHY\njest wręcz przerażająca.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}That old lady's also got a really\nshort fuse, too.\pIt doesn't take anything to get\nthat scary lady hollering.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ta staruszka, sama w sobie jest\nteż jak bomba.\pNie trzeba szczególnego powodu\nżeby wybuchła krzykiem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Take AGATHA, for example.\pShe set a record for being the\noldest-ever ELITE FOUR member.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Weź za przykład AGATHĘ.\pMa rekord będąc najstarszą\nczłonkinią ELITARNEJ CZWÓRKI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I lead the ELITE FOUR.\pYou can call me LANCE the dragon\nTRAINER.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Prowadzę ELITARNĄ CZWÓRKĘ.\pMożesz mnie nazywać LANCE,\nTRENER smoków.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}You know that dragons are\nmythical POKéMON.\pThey're hard to catch and raise,\nbut their powers are superior.\pThey're virtually indestructible.\nThere's no being clever with them.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Wiesz, że smoki to mityczne\nPOKéMONY.\pSą trudne do złapania i trenowania,\nale drzemie w nich wielka siła.\pSą praktycznie niezniszczalne.\nNie można ich pokonać sprytem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}He stands for justice!\nHe's cool, and yet passionate!\lHe's the greatest, LANCE!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Jest za sprawiedliwością!\nJest świetny i ma swoje cele!\lLANCE! Jesteś najlepszy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}We have a customer, LANCE, who\noccasionally comes.\pHe always buys capes.\pI wonder… Does he have many\nidentical capes at home?</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mamy klienta, LANCE'a. Zjawia\nsię tu czasami.\pZawsze kupuje peleryny.\pCiekawe… Po co mu w domu tyle\nidentycznych peleryn?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}From what I've heard, LANCE has\na cousin who's a GYM LEADER\lsomewhere far away.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Słyszałem, że LANCE jest\nkuzynem kogoś, kto jest LIDEREM\lSALI gdzieś daleko.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL has lots of POKéMON!\nHe collects rare ones, too!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL ma wiele POKéMONÓW!\nZbiera też te rzadkie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}He's my grandson!\pHe always liked collecting things,\neven as a child!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}To mój wnuczek!\pOd dziecka uwielbiał tworzyć\nnajróżniejsze kolekcje!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL is a POKéMANIAC, so he loves\nevery kind.\pApparently, the first one he caught\nwas an ABRA.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL to POKéMANIAK, dlatego kocha\nwszystkie typy.\pAle pierwszy, którego złapał\nbył ABRA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL's hometown is GOLDENROD CITY,\nwhere his folks still live.\pI've heard that it's quite the\nfestive, bustling city.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL pochodzi z GOLDENROD CITY w\nJOHTO, gdzie mieszka jego rodzina.\pSłyszałem, że to wielkie i\nhuczliwe miasto.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Apparently, BILL simply can't\nstomach milk at all.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Prawda jest taka, że BILL\nzwyczajnie nie znosi mleka.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}He's really kind.\pHe looks after abandoned and\norphaned POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Jest bardzo miły.\pTroszczy się samotnymi i\nosieroconymi POKéMONAMI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}This old guy marched right up to\nour HIDEOUT.\pThen, he starts ranting about how\nTEAM ROCKET's abusing POKéMON.\pSo, we're just talking it over as\nadults.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ten dziadek poleciał do naszej\nKRYJÓWKI!\pPotem zaczął jęczeć jak to\nniby ZESPÓŁ R wykorzystuje POKéMONY.\pWięc porozmawialiśmy jak prawdziwi\ndorośli.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}POKéMON FAN MAGAZINE\nMonthly Grand Prize Drawing!\pThe application form is…\pGone! It's been clipped out.\nSomeone must have applied already.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}POKéMON FAN MAGAZINE\nComiesięczne Losowanie Nagród!\pKupon zgłoszeniowy…\pZniknął! Został wycięty.\nPewnie ktoś inny chciał wziąć udział.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I hear that MR. FUJI's not from\nthese parts originally, either.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Podobno PAN FUJI też nie pochodzi\nz tych stron.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}TEAM ROCKET captures POKéMON from\naround the world.\pThey're important tools for keeping\nour criminal enterprise going.\pI am the leader, GIOVANNI!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ZESPÓŁ R łapie POKéMONY z całego\nświata.\pSą ważnymi narzędziami nakręcającymi\nnasz przestępczy interes.\pJestem przywódcą grupy, GIOVANNI!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Those thugs that took over our\nbuilding…\pTheir BOSS said he was looking for\nstrong POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Te złodziejaszki, które przejęły\nbudynek…\pIch SZEF szukał jakichś silnych\nPOKéMONÓW.\pMam nadzieję, że nasz PREZES uniknął\nkłopotów…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}TEAM ROCKET's BOSS is terribly\ncruel!\pTo him, POKéMON are just tools to\nbe used.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SZEF ZESPOŁU R jest niesamowicie\nokrutny!\pDla niego POKéMONY są tylko\nnarzędziami.\pCo będzie, jeśli ten tyran\nprzejmie naszą firmę…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Welcome to my hideout!\pIt shall be so until I can restore\nTEAM ROCKET to its former glory.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Witaj w mojej kryjówce!\pBędę tu przebywał dopóki nie\nprzywrócę potęgi ZESPOŁOWI R!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Blow me away! GIOVANNI was the\nGYM LEADER of VIRIDIAN?</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ja cię kręcę! GIOVANNI był\nLIDEREM SALI w VIRIDIAN?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}You… You're not GIOVANNI's kid,\nare you?\pNo, that can't be right.\nGIOVANNI's kid has red hair.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ty… Nie jesteś dzieciakiem\nGIOVANNIEGO, co?\pNie, to nie możesz być ty!\nTen mały miał czerwone włosy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}MR. FUJI</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}PAN FUJI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RESEARCH LAB</seg></tuv>
+      <tuv xml:lang="pl"><seg>LABORATORIUM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON LEAGUE</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIGA POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WATER LABYRINTH</seg></tuv>
+      <tuv xml:lang="pl"><seg>WODNY LABIRYNT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CELADON MANSION</seg></tuv>
+      <tuv xml:lang="pl"><seg>DWÓR CELADON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FOUR ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA FOUR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 4</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MT. MOON</seg></tuv>
+      <tuv xml:lang="pl"><seg>GÓRAMOON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PEWTER MUSEUM</seg></tuv>
+      <tuv xml:lang="pl"><seg>PEWTER MUZEUM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SEAFOAM ISLANDS</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPY SEAFOAM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SAFARI ZONE</seg></tuv>
+      <tuv xml:lang="pl"><seg>STR. SAFARI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THREE ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA THREE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CINNABAR ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA CINNABAR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RESORT GORGEOUS</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚWIETNY OŚRODEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FIVE ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA FIVE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EMBER SPA</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻAROWESPA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TWO ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA TWO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SEVAULT CANYON</seg></tuv>
+      <tuv xml:lang="pl"><seg>KANION SEVAULT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>INDIGO PLATEAU</seg></tuv>
+      <tuv xml:lang="pl"><seg>BŁĘKITNY PŁAS.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SEVEN ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA SEVEN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SIX ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA SIX</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CELADON DEPT.</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOM TOWAROWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ONE ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA ONE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON TOWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIEŻA POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCKET HIDEOUT</seg></tuv>
+      <tuv xml:lang="pl"><seg>KWATERA RACKET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCKET WAREHOUSE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKŁAD ZESPOŁU R</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SIGN</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZNAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OLD LADY</seg></tuv>
+      <tuv xml:lang="pl"><seg>PANNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DAME</seg></tuv>
+      <tuv xml:lang="pl"><seg>DAMA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LT. SURGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>POR.SURGE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PHOTO</seg></tuv>
+      <tuv xml:lang="pl"><seg>FOTKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OLD MAN</seg></tuv>
+      <tuv xml:lang="pl"><seg>STARZEC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CRUSHER</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁAMACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TEAM ROCKET</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZESPÓŁ R</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAGAZINE</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAGAZYN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SCIENTIST</seg></tuv>
+      <tuv xml:lang="pl"><seg>NAUKOWIEC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's crammed full of POKéMON\nbooks.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zawalone książkami o\nPOKéMONACH.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A TOWN MAP.</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAPA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Wow!\nTons of POKéMON stuff!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Łał!\nKupa POKéGADŻETÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Dishes and plates are neatly\nlined up.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Równo ułożone naczynia i\ntalerze.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It smells delicious!\nSomebody's been cooking here.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wspaniale pachnie!\nKtoś musiał tu coś gotować!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's a nicely made dresser.\nIt will hold a lot of stuff.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ładnie wykonana szafka.\nZmieści się w niej dużo rzeczy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There's a pile of snacks here.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kupa przysmaków.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All your item needs fulfilled!\nPOKéMON MART</seg></tuv>
+      <tuv xml:lang="pl"><seg>Spełniamy twoje wymagania!\nPOKéMON MART</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Heal Your POKéMON!\nPOKéMON CENTER</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wylecz POKéMONY!\nCENTRUM POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>INDIGO PLATEAU\pThe ultimate goal of TRAINERS!\nPOKéMON LEAGUE HQ</seg></tuv>
+      <tuv xml:lang="pl"><seg>BŁĘKITNY PŁASKOWYŻ\pGłówny cel TRENERÓW!\nLIGA POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>INDIGO PLATEAU\pThe highest POKéMON authority!\nPOKéMON LEAGUE HQ</seg></tuv>
+      <tuv xml:lang="pl"><seg>BŁĘKITNY PŁASKOWYŻ\pNajwiększy autorytet POKéMON!\nLIGA POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It should be packed with all kinds\nof delicious things to eat.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Powinno być pełne różnymi\nsmakołykami.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's a blueprint of some sort.\nIt's filled with diagrams and text.</seg></tuv>
+      <tuv xml:lang="pl"><seg>To jakiś plan. Pełen jest\ndziwnych diagramów i napisów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's a pretty picture of a POKéMON.\nIt looks like it's feeling good.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ładny obrazek przedstawiający\nPOKéMONA. Wygląda na szczęśliwego.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What could this machine be?\nBetter not mess around with it!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Do czego to może służyć?\nLepiej się tym nie bawić!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's a telephone.\nBetter not use it.</seg></tuv>
+      <tuv xml:lang="pl"><seg>To telefon.\nNie służy do zabawy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's all complicated words and\nnumbers that make no sense…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jakieś skomplikowane słowa i\ncyfry nie mające sensu…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's an advertising poster about\nall kinds of products.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Plakat reklamujący różnego\nrodzaju produkty.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, that smells tasty!\nIt might get the stomach growling!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, świetnie pachnie!\nAż zaczyna burczeć w brzuchu!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Inside this…\n……\pThere's nothing here!</seg></tuv>
+      <tuv xml:lang="pl"><seg>W środku…\n……\pNie ma zupełnie nic!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's a cup with a POKéMON mark\non it.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Puchar ze znakiem POKéMON.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The window is very well polished.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dokładnie wypolerowane okno.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Outside the window…\pThe sky looks fantastically\nbeautiful.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Na dworze…\pNiebo jest niesamowice piękne.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Lights in different colors are\nflashing on and off.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Różnokolorowe lampki mrugają\ncały czas.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All sorts of tools are lined up\nneatly.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Równo ułożone narzędzia różnego\ntypu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's a machine of some sort.\nIt sure is impressive.</seg></tuv>
+      <tuv xml:lang="pl"><seg>To jakaś maszyna.\nRobi wrażenie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's the latest video game!\nIt sure looks fun!</seg></tuv>
+      <tuv xml:lang="pl"><seg>To najnowsza gra wideo!\nNa pewno jest zabawna!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are obvious signs of burglary\nhere…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Widać tu wyraźne ślady\nwłamania…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There's a POKéMON on TV!\nIt looks like it's having fun.</seg></tuv>
+      <tuv xml:lang="pl"><seg>W telewizji jest POKéMON!\nChyba świetnie się bawi.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What should I do in this situation?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co mam zrobić w tej sytuacji?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>How do I do this?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jak to zrobić?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What does this term mean?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co znaczy to pojęcie?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>About this game</seg></tuv>
+      <tuv xml:lang="pl"><seg>O tej grze</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Type Matchup List</seg></tuv>
+      <tuv xml:lang="pl"><seg>Porównanie Typów</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EXIT</seg></tuv>
+      <tuv xml:lang="pl"><seg>WRÓĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CANCEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>ANULUJ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Select to obtain hints for getting\nover challenging situations.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wybierz, by uzyskać porady dotyczące\ntwoich problemów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Detailed instructions are given for\nvarious operations.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dokładne instrukcje dotyczące\nróżnych operacji.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Detailed descriptions are given for\nterms that appear in the game.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dokładne opisy dotyczące pojęć,\nktóre pojawiają się w trakcie gry.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Detailed descriptions are given\nabout this game.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dokładne opisy dotyczące\ntej gry.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Select to exit the HELP System.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyjście z Systemu POMOCY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Greetings! This is the HELP System.\nCall me up whenever and wherever you\lneed by pressing the L or R Button.\lThe help messages change to suit the\lsituation, so check them often, please.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witaj! Jestem Systemem POMOCY.\nPrzywołaj mnie, gdy tylko potrzebował\lbędziesz pomocy wciskając L lub R.\lTeksty zmieniają się wraz z sytuacją\lwięc prosimy o częste kontrole pytań.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm playing for the first time. Help!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Gram po raz pierwszy. POMOCY!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What should I be doing?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co powinienem robić?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I can't get out of a room!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie mogę wyjść z pokoju!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I can't find the person I want.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie mogę znaleźć pewnej osoby.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I've talked to everyone. Now what?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Rozmawiałem ze wszystkimi. I co?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There's someone blocking my way!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ktoś blokuje moje przejście!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I can't go on!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie mogę iść!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm out of things to do.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie mam już co robić.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What happened to the item I got?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Gdzie jest mój nowy przedmiot?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What are the basics of my adventure?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jakie są podstawy mojej przygody?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>How are roads and forests different?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czym różnią się drogi i lasy?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>How are caves different?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czym różnią się jaskinie</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>How do I progress?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jak się rozwijać?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When can I use items?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jak użyć przedmiotów?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What's a battle?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co to walka?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>How do I prepare for battle?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jak szykować się do walki?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What is a POKéMON's vitality?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co to witalność POKéMONA?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My POKéMON are hurt!</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMON jest ranny!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What is a status problem?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co to jest zmiana stanu?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What happens if all my POKéMON faint?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co, gdy wszystkie POKéMONY zemdleją?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I can't catch POKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jak złapać POKéMONA?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I ran out of POTIONS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie mam już MISKTUR!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Can I buy POKé BALLS?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jak kupić POKé BALLE?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What's a TRAINER?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kto to TRENER?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>How do I win against a TRAINER?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jak wygrać z TRENEREM?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Where do POKéMON appear?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Gdzie znaleźć POKéMONY?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What are POKéMON moves?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czym są ruchy POKéMONÓW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What are HIDDEN moves?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czym są UKRYTE ruchy?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What moves should I use?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jakich ruchów mam użyć?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I want to add more moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chcę mieć więcej ruchów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I want to make my POKéMON stronger.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chcę mieć silniejsze POKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The foe POKéMON are too strong!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wrogie POKéMONY są za silne!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What do I do in a cave?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co zrobić w jaskini?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There's nothing that I want to know!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie ma nic, co chciałbym wiedzieć!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What's a POKéMON CENTER?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co to CENTRUM POKéMON?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What's a POKéMON MART?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co to POKéMON MART?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I want to end the game.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chcę skończyć grę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What's a POKéMON?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co to POKéMON?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What is that person like?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jaka jest ta osoba?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What does a HIDDEN move do?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co robi UKRYTY ruch?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What do I do in a SAFARI GAME?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co robić w GRZE SAFARI?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What are the SAFARI GAME rules?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jakie są zasady GRY SAFARI?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I want to end this SAFARI GAME!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chcę skończyć GRE SAFARI!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What is a GYM?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co to SALA?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You become the main character,\nexploring the world of POKéMON.\lBy talking to people and solving\lmysteries, new paths will open to you.\lStrive for the goal together with your\lwonderful POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Stajesz się głównym bohaterem,\nzwiedzającym świat POKéMONÓW.\lRozmawiając z ludźmi i rozwiązując\lzagadki, nowe ścieżki otwierają się.\lDąż do celu wraz ze swoimi cudownymi\lPOKéMONAMI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When you come across another person,\ngo up to them and press the A Button.\lThat will get them to talk and interact\lwith your character. You may also\lexamine various items and objects in\lthe same way. Talk to people and check\lthings often to obtain information.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Gdy napotkasz inną osobę, podejdź\ndo niej i naciśnij przycisk A.\lSpowoduje to, że zaczną się interakcje\lz twoją postacią. Możesz też w ten sam\lsposób badać różnego rodzaju\lrzeczy. Prowadź częste konwersacje i\lbadaj rzeczy, by znaleźć informacje.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>On the stairs or the exits of a\nbuilding is a red mat. Move your\lcharacter to stand on top of the\lred mat. Press the {PLUS} Control Pad \ltoward the stairs or the exit to\ladvance.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Na schodach, bądź wyjściach z\nbudynku znajduje się czerwona mata.\lRusz swojego bohatera, aby\lstanął na niej. Wciśnij {PLUS} w kierunku\lschodów lub wyjścia, by przejść\ldalej.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This isn't something you should worry\nabout too much.\lTalk to other people, check signs,\lcheck things, and so on.\lSometimes, you may need to just move\lto a new town or place.</seg></tuv>
+      <tuv xml:lang="pl"><seg>To nic, czym powinieneś się zbytnio\nprzejmować.\lPorozmawiaj z innymi ludźmi, spójrz na\lznaki, poszukaj rzeczy itd.\lCzasami może wystarczy przejść tylko\ldo nowego miasta.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Try moving on to a new road, town, or\nplace.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Spróbuj znaleźć nową drogę, miasto itd.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There could be something in the town\nor inside a building that is the cause.\lTry talking to the people in the area\lagain. If there is a problem that they\lneed solved, you may have to help.\lAfterwards, try talking to the person\lblocking your way again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Może przyczyną jest coś w mieście\nlub budynku..\lSpróbuj porozmawiać jeszcze raz z\lludźmi na tym obszarze..\lJeżeli mają problem, który trzeba.\lrozwiązać, być może będziesz musiał.\lpomóc..\lNastępnie, spróbuj podejść jeszcze raz do.\losoby blokującą drogę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Try talking to people by going up to\nthem and pressing the A Button.\lAlso, try checking things like odd trees\land strange rocks with the A Button.\lPress the {PLUS} Control Pad and try going\lto places that look impassable, too.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Spróbuj porozmawiać z ludźmi\npodchodząc do nich i naciskając A.\lMożesz też spróbować oglądać rzeczy\lwciskając przy nich przycisk A.\lWciskając {PLUS} możesz też spróbować\lprzejść przez miesjca wyglądające na\lnie do przejścia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Try going to places where you \nhaven't visited yet.\lAlso, check everything that looks\lsuspicious by pressing the A Button.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Spróbuj odwiedzić miejsca w\nktórych jeszcze nie byłeś.\lSpróbuj obejrzeć też wszystko,\lco wydaje się podejrzane.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Any item that you are given by another\ncharacter goes in your BAG.\lThe item is automatically sorted and\lplaced in one of three pockets.\lFor instructions on the BAG's use,\lplease refer to the HELP System's\l“How do I do this?” heading.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Każdy przedmiot otrzymany od innej\npostaci przenoszony jest do TORBY.\lPrzedmiot zostaje automatycznie\lsortowany i umiejscowiony w kieszeni.\lDodatkowe instrukcje do obsługi\lTORBY znajdziesz w dziale\l“Jak to zrobić?” Systemu POMOCY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If POKéMON are hurt in battle,\ntake them to a POKéMON CENTER and\lhave them healed by the staff.\lGet in the habit of saving your\lgame and recording your progress.\lStock up on healing items at\lPOKéMON MARTS before traveling far.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jeśli POKéMONY zranią się w walce,\nzanieś je do CENTRUM POKéMON i\lpozwól je wyleczyć przez obsługę.\lPostaraj się, by w nawyk weszło\lci częste zapisywanie gry.\lZakupuj lecznicze przedmioty w\lPOKéMON MART przed podróżami.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Forests are basically the same as\nroads but they can be like mazes.\lAll forests have a way out, so don't\lgive up if you get lost.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lasy są właściwie tym samym czym\ndrogi, chociaż są bardziej jak\llabirynty.\lWszystkie lasy mają wyjścia,\lwięc nie poddawaj się!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Caves are dark and dangerous. Wild\nPOKéMON can appear anywhere in them.\lIf there is an emergency, rush to a\lPOKéMON CENTER or use items.\lNew towns await discovery beyond some\lcaves, so don't give up.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jaskinie są mroczne i niebezpieczne.\nZawsze mogą tam pojawić się dzikie\lPOKéMONY.\lW razie niebezpieczeństwa\lgoń do CENTRUM POKéMON lub użyj\lprzedmiotu. Za niektórymi jaskiniami\lczekają nowe miasta.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The object of the game is to train\nyour POKéMON and move forward.\lYou must collect info and solve\lproblems. For example, what do you\lneed to get around an obstacle?\lWhat would get that impeding\lperson out of the way?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Celem gry jest wytrenowanie swoich\nPOKéMONÓW i rozwijanie fabuły.\lMusisz zbierać informacje i rozwiązywać\lproblemy. Przykładowo, co\lpotrzebne jest by ominą przeszkodę?\lCo przesunie z drogi\lprzeszkadzającą ci osobę?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are several kinds of items.\nSome can be used only on the field.\lSome are only for use during battle.\lSome can be used anytime.\lTry using an item - if it can't be used,\lyou will be alerted.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jest kilka rodzajów przedmiotów.\nNiektóre mogą być używane tylko\lna polu. Inne w trakcie walki.\lNiektórych można używać zawsze.\lSpróbuj użyć przdmiotu - jeżeli się nie uda,\ldowiesz się o tym.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In a battle, POKéMON try to reduce\none another's vitality, expressed as\lHP. If a POKéMON's HP falls to zero,\lit faints, and the other POKéMON\lwins. By winning a battle, POKéMON\learn EXP. Points, which help them\llevel up (grow stronger).</seg></tuv>
+      <tuv xml:lang="pl"><seg>W walce, POKéMONY próbują zredukować\nwitalność przeciwnika, wyrażaną w\lHP. Jeśli HP POKéMONA spadnie do zera,\lmdleje, a drugi POKéMON wygrywa.\lZwyciężając walkę, POKéMON zdobywa\lPunkty EXP., pomagające mu\lpoziomować (rozwijać się).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using a PC</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył PC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “{STR_VAR_1}'S PC”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “{STR_VAR_1} PC”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “{PLAYER}'s PC”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “{PLAYER} PC”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “PROF. OAK'S PC”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “PROF. OAK'S PC”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EXP. {LEFT_PAREN}EXP. Points{RIGHT_PAREN}</seg></tuv>
+      <tuv xml:lang="pl"><seg>EXP. {LEFT_PAREN}Punkty EXP.{RIGHT_PAREN}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MOVES</seg></tuv>
+      <tuv xml:lang="pl"><seg>RUCHY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ATTACK</seg></tuv>
+      <tuv xml:lang="pl"><seg>ATAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DEFENSE</seg></tuv>
+      <tuv xml:lang="pl"><seg>OBRONA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SP. DEF</seg></tuv>
+      <tuv xml:lang="pl"><seg>SP. OBR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SPEED</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZYBK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TYPE</seg></tuv>
+      <tuv xml:lang="pl"><seg>TYP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ABILITY</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZDOLNOŚ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MONEY</seg></tuv>
+      <tuv xml:lang="pl"><seg>FORSA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MOVE TYPE</seg></tuv>
+      <tuv xml:lang="pl"><seg>TYP RUCHU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NATURE</seg></tuv>
+      <tuv xml:lang="pl"><seg>NATURA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ID No.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nr ID</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>SIŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ACCURACY</seg></tuv>
+      <tuv xml:lang="pl"><seg>CELNOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ITEMS</seg></tuv>
+      <tuv xml:lang="pl"><seg>RZECZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>KEY ITEMS</seg></tuv>
+      <tuv xml:lang="pl"><seg>KLUCZOWE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKé BALLS</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKé BALLE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PLAY TIME</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZAS GRY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BADGES</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODZNAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TEXT SPEED</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZYB. TEXT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BATTLE SCENE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SCENA WALKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BATTLE STYLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>STYL WALKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SOUND</seg></tuv>
+      <tuv xml:lang="pl"><seg>DŹWI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BUTTON MODE</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRZYCISKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FRAME</seg></tuv>
+      <tuv xml:lang="pl"><seg>RAMKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HM MOVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>RUCH HM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EVOLUTION</seg></tuv>
+      <tuv xml:lang="pl"><seg>EWOLUCJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STATUS PROBLEM</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZMIANY STANU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What are POKéMON?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co to POKéMON?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You become the main character to\nexplore the world of POKéMON!\lBy talking to people and solving\lmysteries, new paths will open to you.\lStrive for the goal together with your\lwonderful POKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Stajesz się głównym bohaterem,\nzwiedzającym świat POKéMONÓW.\lRozmawiając z ludźmi i rozwiązując\lzagadki, nowe ścieżki otwierają się.\lDąż do celu wraz ze swoimi cudownymi\lPOKéMONAMI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using the Type Matchup List</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył Porównanie Typów</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm looking for the POKéMON\n{STR_VAR_1}!\pWanna trade one for my\n{STR_VAR_2}?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szukam POKéMONA\n{STR_VAR_1}\pCzy chcesz wymienić go\nza {STR_VAR_2}?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Awww!\nOh, well…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ałłł!\nNo dobra…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What?\nThat's no {STR_VAR_1}!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co?\nTo nie jest {STR_VAR_1}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey, thanks!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hej, dzięki!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Isn't my old {STR_VAR_2} great?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy {STR_VAR_2} nie jest super?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hello, there! Do you happen to\nhave a {STR_VAR_1}?\pWould you agree to a trade for\nmy {STR_VAR_2}?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witaj! Czy nie masz przypadkiem\nmoże {STR_VAR_1}?\pCzy zgodziłbyś się wymienić go\nza {STR_VAR_2}?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Well, if you don't want to…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Cóż, jeżeli nie chcesz…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hmmm?\nThis isn't a {STR_VAR_1}.\pThink of me if you get one.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hmmm?\nTo nie jest {STR_VAR_1}.\pWpadnij, gdy go zdobędziesz.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thanks!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dzięki!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The {STR_VAR_2} that I traded you,\nhas it grown stronger?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy mój {STR_VAR_2} stał się dużo\nsilniejszy?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hi!\nDo you have a {STR_VAR_1}?\pWant to trade it for my\n{STR_VAR_2}?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Cześć!\nCzy masz {STR_VAR_1}?\pChcesz wymienić się na\n{STR_VAR_2}?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>That's too bad.</seg></tuv>
+      <tuv xml:lang="pl"><seg>No to szkoda.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>…This is no {STR_VAR_1}.\pIf you get one, trade it with me.</seg></tuv>
+      <tuv xml:lang="pl"><seg>…To nie {STR_VAR_1}.\pWymień się, gdy go zdobędziesz.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thanks, you're a pal!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dzięki, jesteś super!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>How is my old {STR_VAR_2}?\nMy {STR_VAR_1} is doing great!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jak tam mój {STR_VAR_2}?\n{STR_VAR_1} jest wspaniały!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} dug up one {STR_VAR_2}\nfrom deep in the ground.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} wykopuje {STR_VAR_2}\nz głębi ziemii.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NEW NAME</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZMIEŃ…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The various buttons will be explained in\nthe order of their importance.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wytłumaczymy tu działanie przycisków\nw kolejności ich użyteczności.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Moves the main character.\nAlso used to choose various data\nheadings.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Porusza bohatera. Używany\nteż do wybierania nagłówków\ndanych.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Used to confirm a choice, check\nthings, chat, and scroll text.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Używany do wybierania\nprzedmiotów, prowadzenia rozmów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Used to exit, cancel a choice,\nand cancel a mode.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Używany do anulowania wyboru,\nbądź trybu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Press this button to open the\nMENU.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ten przycisk wywołuje okno\nMENU.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Used to shift items and to use\na registered item.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Rusza przedmioty i używa\nfunkcji rejestrowanych.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If you need help playing the\ngame, or on how to do things,\npress the L or R Button.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jeśli potrzebujesz pomocy,\nbądź porad, wciśnij przycisk\nL, a następnie R.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Now tell me. Are you a boy?\nOr are you a girl?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Powiedz mi. Jesteś chłopcem,\nczy dziewczynką?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In the world which you are about to\nenter, you will embark on a grand\nadventure with you as the hero.\n\nSpeak to people and check things\nwherever you go, be it towns, roads,\nor caves. Gather information and\nhints from every source.</seg></tuv>
+      <tuv xml:lang="pl"><seg>W świecie, do którego masz zamiar\nzaraz wkroczyć, czeka cię wielka\nprzygoda z tobą w roli głównej.\n\nRozmawiaj z ludźmi, szukaj sekretów,\ngdziekolwiek się nie znajdziesz.\nZbieraj informacje i podpowiedzi\nz każdego źródła.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>New paths will open to you by helping\npeople in need, overcoming challenges,\nand solving mysteries.\n\nAt times, you will be challenged by\nothers and attacked by wild creatures.\nBe brave and keep pushing on.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nowe ścieżki otworzą się, gdy pomożesz\nludziom w potrzebie, pokonasz\nprzeszkody i rozwikłasz tajemnice.\n\nCzasami na pojedynek wyzwą cię inni\ngracze i zaatakują dzikie stworzenia.\nOdwagi! Nie poddawaj się.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Through your adventure, we hope\nthat you will interact with all sorts\nof people and achieve personal growth.\nThat is our biggest objective.\n\nPress the A Button, and let your\nadventure begin!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mamy nadzieję, że w trakcie\npodróży nawiążesz kontakty z nowymi\nprzyjaciółmi, a na twej twarzy pojawi\nsię uśmiech.\nTo nasz główny cel.\n\nNaciśnij A, a rozpocznie się twoja\nwielka przygoda!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hello, there!\nGlad to meet you!\pWelcome to the world of POKéMON!\pMy name is OAK.\pPeople affectionately refer to me\nas the POKéMON PROFESSOR.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Cześć!\nMiło mi cię poznać!\pWitaj w świecie POKéMONÓW!\pNazywam się OAK.\pChociaż często ludzie nazywają mnie\nPROFESOREM POKéMON.\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This world…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ten świat…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>…is inhabited far and wide by\ncreatures called POKéMON.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>…zamieszkiwany jest przez\nstworzenia zwane POKéMONAMI.\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For some people, POKéMON are pets.\nOthers use them for battling.\pAs for myself…\pI study POKéMON as a profession.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Niektórzy traktują je jak przyjaciół.\nInni, toczą nimi walki.\pJa sam…\pzawodowo studiuję życie POKéMONÓW.\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>But first, tell me a little about\nyourself.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie ważne, opowiedz mi\nlepiej coś o sobie.\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Let's begin with your name.\nWhat is it?\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>No więc na początek,\njak się nazywasz\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Right…\nSo your name is {PLAYER}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Racja…\nWięc jesteś {PLAYER}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is my grandson.\pHe's been your rival since you both\nwere babies.\p…Erm, what was his name now?</seg></tuv>
+      <tuv xml:lang="pl"><seg>To jest mój wnuczek.\pJest twoim rywalem od czasów,\ngdy byliście dziećmi.\p…Erm, jak miał na imię?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Your rival's name, what was it now?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Imię twojego rywala, jak ono brzmi?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>…Er, was it {RIVAL}?</seg></tuv>
+      <tuv xml:lang="pl"><seg>…Er, czy to {RIVAL}?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>That's right! I remember now!\nHis name is {RIVAL}!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Właśnie! Już pamiętam!\nMa na imię {RIVAL}!\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER}!\pYour very own POKéMON legend is\nabout to unfold!\pA world of dreams and adventures\nwith POKéMON awaits! Let's go!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER}!\pTwoja własna POKéMONOWA legenda\nwłaśnie się rozpoczyna!\pŚwiat marzeń i przygód z POKéMONAMI\nczeka! Ruszaj więc!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Obtained the {STR_VAR_2}!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} dostaje {STR_VAR_2}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The BAG is full…</seg></tuv>
+      <tuv xml:lang="pl"><seg>TORBA pełna…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} put the {STR_VAR_2}\nin the {STR_VAR_3}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} wkłada {STR_VAR_2} do\n{STR_VAR_3}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} found one {STR_VAR_2}!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} znajduje {STR_VAR_2}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Too bad!\nThe BAG is full…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szkoda!\nTORBA jest pełna…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} found\n{STR_VAR_1} {STR_VAR_2}!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} znajduje\n{STR_VAR_1} {STR_VAR_2}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} put the COINS away in\nthe COIN CASE.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} wkłada ŻETONY do\nETUI NA ŻETONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Too bad!\nThe COIN CASE is full…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szkoda!\nETUI jest już pełne…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Too bad!\nThere's nothing to put them in…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szkoda!\nNie ma gdzie tego włożyć…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} found\n{STR_VAR_1} {STR_VAR_2}(s)!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} znajduje\n {STR_VAR_1} {STR_VAR_2}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Too bad! There's no room left for\nanother {STR_VAR_2}…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szkoda! Nie ma już miejsca\nna następne {STR_VAR_2}…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The {STR_VAR_2} was transferred\nto the PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_2} został przeniesiony\ndo PC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} booted up the PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} uruchamia PC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Which PC should be accessed?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Do którego PC się podpiąć?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Accessed Someone's PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Połączono z Czyimś PC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON Storage System opened.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Otwarto POKéMON Storage System</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Accessed {PLAYER}'s PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Połączono z PC {PLAYER}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Accessed BILL's PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Połączono z PC BILL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_2} was transferred to\nSomeone's PC.\pIt was placed in \nBOX “{STR_VAR_1}.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_2} przeniesiony do\nCzyjegoś PC.\pUmieszczono go w\nBOKSIE “{STR_VAR_1}.”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_2} was transferred to\nBILL'S PC.\pIt was placed in \nBOX “{STR_VAR_1}.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_2}  przeniesiony do\nPC BILLA.\pUmieszczono go w\nBOKSIE “{STR_VAR_1}.”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BOX “{STR_VAR_3}” on\nSomeone's PC was full.\p{STR_VAR_2} was transferred to\nBOX “{STR_VAR_1}.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>BOX  “{STR_VAR_3}”  na\nCzyimś PC jest pełny..\p{STR_VAR_2}został wysłany do\nBOXU “{STR_VAR_1}.”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BOX “{STR_VAR_3}” on\nBILL'S PC was full.\p{STR_VAR_2} was transferred to\nBOX “{STR_VAR_1}.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>BOKS “{STR_VAR_3}”  na\nPC BILLA jest pełny..\p{STR_VAR_2} wysłany do\nBOKSU “{STR_VAR_1}.”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} obtained\nthe {STR_VAR_1}!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} dostaje\n{STR_VAR_1}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There's no more room for POKéMON!\pThe POKéMON BOXES are full and\ncan't accept any more!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie ma już miesjca na POKéMONY!\pBOKSY są już pełne i nie przyjmą\nwięcej POKéMONÓW!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OAK: Good to see you!\nHow is your POKéDEX coming along?\pHere, let me take a look.</seg></tuv>
+      <tuv xml:lang="pl"><seg>OAK: Miło mi cię widzieć!\nJak postępy twojego POKéDEKSU?\pPozwól, że rzucę okiem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The amount of progress you've made\non your POKéDEX is:\p{STR_VAR_1} POKéMON seen and\n{STR_VAR_2} POKéMON owned.\p{FONT_NORMAL}PROF. OAK's rating:</seg></tuv>
+      <tuv xml:lang="pl"><seg>Stopień postępu podczas\npracy nad POKéDEKSEM to:\p{STR_VAR_1} POKéMONÓW widzianych i\n{STR_VAR_2} posiadanych.\p{FONT_NORMAL}Ocena PROF. OAKA:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You still have lots to do.\pGo into every patch of grass you\nsee and look for POKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nadal masz wiele do zrobienia.\pDokładnie przeszukuj trawę i\nznajduj nowe POKéMONY!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It looks as if you're getting on\nthe right track!\pI've given one of my AIDES a FLASH\nHM. Make sure you go get it!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygląda na to, że zaczynasz\nłapać o co chodzi!\pDałem mojemu POMOCNIKOWI HM\nz BŁYSKEM. Lepiej go znajdź!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Your POKéDEX could use a bit more\nvolume still!\pTry to catch other species of\nPOKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Twój POKéDEX mógły się jeszcze\ntroszkę wypełnić!\pStaraj łapać się też inne\ngatunki!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Good, it's apparent that you're\ntrying hard!\pI've given one of my AIDES an\nITEMFINDER. Be sure to collect it!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dobrze, widać, że bardzo się\nstarasz!\pDałem POMOCNIKOWI\nRZECZOSZUKACZ. Nie zapomnij go odebrać!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Your POKéDEX is coming along quite\nwell!\pI've given one of my AIDES an\nAMULET COIN. Be sure to get it!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Twój POKéDEX zaczyna tworzyć\nspójną całość!\pIDałem POMOCNIKOWI MONETĘ\nAMULET. Spróbuj go znaleźć!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ah, you've finally topped 50\nspecies!\pI've given one of my AIDES an EXP.\nSHARE. Be sure to go get it!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ach, wreszcie złapałeś\n50 gatunków!\pDałem mojemu POMOCNIKOWI\nROZDZIELACZ. Postaraj się go zdobyć!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hoho! This is turning into quite the\nrespectable POKéDEX!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hoho! Zaczyna się robić coraz\nciekawiej!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Very good!\pI think you'll collect even more\nPOKéMON by going fishing!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bardzo dobrze!\pMyśle, że zebrałbyś więcej\nPOKéMONÓW łowiąc ryby.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Wonderful! Let me guess… You\nlike to collect things, don't you?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Świetnie! Niech zgadnę… Lubisz\nzbierać rzeczy, prawda?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm impressed!\nIt must have been difficult to do!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem pod wrażeniem!\nTo musiało być trudne!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You've finally hit 100 species!\nI can't believe how good you are!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wreszcie zdobyłeś 100 gatunków!\nNie mogę uwierzyć, że to prawda!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You even have the evolved forms\nof POKéMON! Super!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Świetnie! Masz nawet rozwinięte\nformy POKéMONÓW!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Excellent! Trade with friends to\nget some more!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Cudownie! Może powymieniaj się z\nkumplami?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Outstanding!\nYou've become a real pro at this!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Genialnie!\nStałeś się prawdziwym mistrzem!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I have nothing left to say!\nYou're the POKéMON PROFESSOR now!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie mam nic do powiedzenia!\nJesteś teraz PROFESOREM POKéMONÓW!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Your POKéDEX is entirely complete!\nCongratulations!!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Twój POKéDEX jest już kompletny!\nGratulacje!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>And your NATIONAL POKéDEX is:\p{STR_VAR_1} POKéMON seen and\n{STR_VAR_2} POKéMON owned.</seg></tuv>
+      <tuv xml:lang="pl"><seg>A twój NARODOWY POKéDEX:\p{STR_VAR_1} POKéMONÓW widzianych i\n{STR_VAR_2} posiadanych.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'll be looking forward to seeing\nyou fill the NATIONAL POKéDEX!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mam nadzieję, że wkrótce wypełnisz\nswój NARODOWY POKéDEX!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Finally…\pYou've finally completed the\nPOKéDEX!\pIt's magnificent!\nTruly, this is a fantastic feat!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nareszcie…\pNareszcie uzupełniłeś\nPOKéDEX!\pTo niesamowite!\nNaprawdę, to niesamowite wydarzenie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thank you, {PLAYER}!\nSincerely, thank you!\lYou've made my dream a reality!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dziękuję, {PLAYER}!\nSzczerze ci dziękuję!\lSpełniłeś moje marzenia!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OAK: Ah, welcome!\pTell me, how is your POKéDEX\ncoming along?\pWahaha!\pActually, I know how it is, but I\nlove seeing it anyway!\pLet's see…</seg></tuv>
+      <tuv xml:lang="pl"><seg>OAK: A, witaj!\pPowiedz, jak sprawuje się\ntwój POKéDEXE?\pŁahahaha!\pTak, wiem jaki jest jego\nstan, ale kocham go oglądać!\pNo to zobaczmy…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKé DUDE: The speedier of the\nbattlers gets to attack first.</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKé GOŚĆ: Szybszy z walczących\nmoże atakować jako pierwszy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It looks like my RATTATA was\nfaster than the PIDGEY.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygląda na to, że RATTATA\njest szybszy od PIDGEYA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The battlers take turns attacking\nand reducing each other's HP.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Walczący zużywają tury atakując i\nredukując swoje HP.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My RATTATA reduced the foe's HP\nto zero, so it wins!\pThe POKéMON that took part in the\nbattle get EXP. Points.\pWhen a POKéMON collects enough\nEXP. Points, it levels up.\pLeveling up makes your POKéMON\nstronger than before.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mój RATTATA zredukował HP wroga\ndo zera, więc wygrywa!\pPOKéMONY biorące udział w walce,\nzdobywają Punkty Exp.\pGdy POKéMON zbierze odpowiednią\nilość EXP, zdobywa poziom.\pZdobywając poziom twój POKéMON\nstaje się silniejszy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKé DUDE: Uh-oh…\nMy RATTATA has been poisoned…\pIf a POKéMON is poisoned, it loses\nHP steadily.</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKé GOŚĆ: Uch-och…\nZatruto mojego RATTATĘ…\pJeżeli POKéMON zatruje się, traci\nrównomiernie HP.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If a POKéMON develops a status\nproblem, heal it right away.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Gdy problemem POKéMONA stają\nsię zmiany stanu, wylecz go.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using an item on a POKéMON uses\nup one turn, though.\pNow, it's the opponent's turn!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Używając przedmiotu na\nPOKéMONIE, zużywa się turę.\pWięc teraz czas na turę wroga!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Yay!\nWe managed to win!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jupi!\nWygraliśmy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKé DUDE: The move BUBBLE is\na WATER-type attack.\pThe targeted ODDISH is a\nGRASS/POISON-type POKéMON.\pThe WATER-type attack is absorbed\nby the GRASS-type POKéMON…\pAs a result, the move becomes not\nvery effective, and inflicts only\lhalf the usual damage.</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKé GOŚĆ: Ruch BABELKI\njest atakiem WODNYM.\pODDISH, który jest atakowany,\njest typem TRAWA/TRUCIZNA.\pAtaki typu WODNEGO absorbowane są\nprzez POKéMONY TRAWIASTE…\pW rezultacie, atak staje się\nnieefektywny i zadaje tylko\lpołowę zwykłych obrażeń.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Uh-oh, this is not good!\pThe ABSORB attack you just saw\nis a GRASS-type move.\pPOLIWAG is a WATER-type POKéMON.\pSo, ABSORB becomes super\neffective, doubling the damage.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie dobrze!\pAtak ABSORPCJA, którego byłeś\nświadkiem to atak TRAWIASTY.\pPOLIWAG jest POKéMONEM WODNYM.\pWięc, ABSORPCJA staje się\nsuperefektywna, podwajając obrażnia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's not going to be easy to win\nwith this matchup…\pLet's try shifting POKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie będzie łatwo wygrać w takim\npojedynku…\pSpróbujmy więc zmienić POKéMONA!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Shifting POKéMON in and out uses\nup one turn.\pNow, it's the opponent's turn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zmiana POKéMONA zużyła naszą\nturę.\pTeraz jest więc tura\nprzeciwnika.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BUTTERFREE is a BUG/FLYING-type\nPOKéMON.\pAgainst this POKéMON, a GRASS-\ntype attack…\p…inflicts only half the usual\ndamage on a BUG-type POKéMON…\p…And, it also causes only half the\ndamage on a FLYING-type POKéMON.\pTherefore, BUTTERFREE, being a\nBUG/FLYING POKéMON, only takes\lone quarter of the usual damage.</seg></tuv>
+      <tuv xml:lang="pl"><seg>BUTTERFREE jest POKéMONEM typu\nROBAK/LOT.\pPrzeciwko niemu, ataki typu\nTRAWIASTEGO…\p…zadają tylko połowę normalnych\nobrażeń POKéMONOM ROBAKOM…\p…I zadaje też połowę obrażeń\nPOKéMONOM typu LATAJĄCEGO.\pWynika z tego, że BUTTERFREE,\njako LATAJĄCY ROBAK, otrzymuje\ltylko ćwiartkę zwykłych obrażeń.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ODDISH is a GRASS/POISON-type\nPOKéMON.\pA FLYING- or PSYCHIC-type attack\nis super effective against it.\pOne of those types of attacks will\ninflict double the usual damage.\pOkay, here we go!</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODDISH jest POKéMONEM typu\nTRAWA/TRUCIZNA.\pAtaki typu LOT i PSYCHO są\nsuperfeketywne w walce z nim.\pAtaki tego typu zadawać będą\npodwójne obrażenia.\pDobra, zaczynamy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Yeah!\nWe won!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygraliśmy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKé DUDE: When you're trying to\ncatch a POKéMON, don't throw any\lPOKé BALLS right away.\pFirst, you need to weaken it by\nreducing its HP.</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKé GOŚĆ: Gdy próbujesz łapać\nPOKéMONY, nie rzucaj od razu\lbezsensownie POKé BALLI.\pNajpierw, musisz je osłabić\nredukując ich HP.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Okay, that should be good enough.\pBut, if it's possible, it would be\nbest if the target has a status\lproblem.\pFor instance, it would be easier\nto catch if it were asleep or\lparalyzed.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Okej, to powinno wystarczyć.\pAle, jeśli to możliwe, najlepiej\nwyposażyć przeciwnika dodatkowo\pw jakąś zmianę stanu.\pNa przykład, łatwiej złapać\nśpiącego lub sparaliżowanego\lPOKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This will make the POKéMON a lot\neasier to catch!\pOh, yes. If you paralyze a\nPOKéMON, you can't make it fall\lasleep on top of paralysis.\pIn other words, you can't double\nup status problems, okay?</seg></tuv>
+      <tuv xml:lang="pl"><seg>To znacznie ułatwi nam złapanie\ntego POKéMONA!\pOch, tak. Jeżeli sparaliżujesz\nPOKéMONA, nie możesz go jeszcze\ldodatkowo uśpić.\pInnymi słowy, POKéMON nie może mieć\ndwóch zmian stanu na raz.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Okay!\nLet me throw my POKé BALL!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Okej!\nRzucę teraz POKé BALL!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Before you throw a POKé BALL,\nconsider the condition and the\ltype of POKéMON, and pick the kind\lof BALL that would work best.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zanim rzucisz POKé BALL, zwróć\nuwagę na stan i typ POKéMONA,\lktórego chcesz złapać i wybierz\lKULĘ, która będzie najlepsza.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hi, there!\nMay I help you?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Cześć!\nMogę w czymś pomóc?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There is a questionnaire.\nWould you like to fill it out?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jakiś kwestionariusz.\nCzy masz ochotę go wypełnić?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thank you for taking the time to\nfill out our questionnaire.\pYour feedback will be used for\nfuture reference.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dziękujemy za zainteresowanie\nsię naszym kwestionaruszem.\pTwoje uwagi pomogą nam\nnam nasze usługi.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, hello!\nYou know those words?\pThat means you must know about\nthe MYSTERY GIFT.\pFrom now on, you should be\nreceiving MYSTERY GIFTS!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, witam!\nZnasz te słowa?\pTo znaczy, że wiesz pewnie o\nMYSTERY GIFT.\pOd tej pory otrzymywać będziesz\nMYSTERY GIFTY!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Once you save your game, you can\naccess the MYSTERY GIFT.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Gdy zapiszesz grę, będziesz mieć\ndostęp do MYSTERY GIFT.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thank you for accessing the\nMYSTERY GIFT System.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Only truly skilled TRAINERS are\nallowed through.\pYou don't have the {STR_VAR_1}\nyet!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przejść mogą tylko doświadczeni\nTRENERZY.\pNie masz jeszcze {STR_VAR_1}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Rules are rules.\nI can't let you pass.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zasady to zasady.\nNie puszczę cię.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh! That is the {STR_VAR_1}!\nGo right ahead.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och! To {STR_VAR_1}!\nProszę przejść.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You can pass here only if you have\nthe {STR_VAR_1}.\pYou don't have the {STR_VAR_1}\nyet.\pYou have to have it to get to\nthe POKéMON LEAGUE.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Możesz przejść tylko jeśli masz\n{STR_VAR_1}.\pNie masz jeszcze {STR_VAR_1}.\pMusisz ją zdobyć, by móć wkroczyć\ndo LIGI POKéMONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You can pass here only if you have\nthe {STR_VAR_1}.\pOh! That is the {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\pOkay, then.\nPlease, go right ahead.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Możesz przejść tylko jeśli\nzdobyłeś już {STR_VAR_1}.\pOch! To jest {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\pOkej!\nW takim razie proszę przejść.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Would you like to exit the SAFARI\nZONE right now?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy chcesz już opuścić\nSTREFĘ SAFARI?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PA: Ding-dong!\pTime's up!\pPA: Your SAFARI GAME is over!</seg></tuv>
+      <tuv xml:lang="pl"><seg>PA: Ding-dong!\pCzas minął!\pTo koniec twojej GRY SAFARI!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PA: Ding-dong!\pYou are out of SAFARI BALLS!\pPA: Your SAFARI GAME is over!</seg></tuv>
+      <tuv xml:lang="pl"><seg>PA: Ding-dong!\pSkończyły ci się SAFARI BALLE!\pTo koniec twojej GRY SAFARI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Excuse me!\nYour PC BOX is full.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Twój BOKS jest pełny!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Would you like to save the game?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy chcesz zapisać grę?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There is already a saved file.\nIs it okay to overwrite it?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Plik zapisu już istnieje.\nCzy chcesz go nadpisać?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SAVING…\nDON'T TURN OFF THE POWER.</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZAPISUJĘ…\nNIE WYŁĄCZAJ ZASILANIA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} saved the game.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} zapisuje grę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WARNING!\pThere is a different game file that\nis already saved.\pIf you save now, the other file's\nadventure, including items and\lPOKéMON, will be entirely lost.\pAre you sure you want to save now\nand overwrite the other save file?</seg></tuv>
+      <tuv xml:lang="pl"><seg>UWAGA!\pIstnieje już inna gra zapisana\nna tym dysku.\pJeżeli zapiszesz, poprzednia przygoda,\nw tym przedmioty i POKéMONY\lzostaną nieodwracalnie utracone.\pCzy na pewno chcesz zapisać i\nnadpisać istniejący plik zapisu?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All right!\nAll aboard SEAGALLOP HI-SPEED {STR_VAR_1}!</seg></tuv>
+      <tuv xml:lang="pl"><seg>OK! Wszyscy\nna pokład SEAGALLOP HI-SPEED {STR_VAR_1}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hmm…\nIs that right…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hmm…\nCzy to prawda…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh!\nLook, look!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och!\nSpójrz!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Read it, read it!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przeczytaj!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRAINER TIPS\pPress START to open the MENU!</seg></tuv>
+      <tuv xml:lang="pl"><seg>PORADA\pNaciśnij START, aby uruchomić MENU!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Signs are useful, aren't they?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Znaki są użyteczne, czyż nie?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Look, look!\pI copied what it said on one of\nthose TRAINER TIPS signs!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Spójrz!\pSkopiowałam to, co pisało na\njednym z tych znaką</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRAINER TIPS!\pPress START to open the MENU!</seg></tuv>
+      <tuv xml:lang="pl"><seg>PORADA\pNaciśnij START, aby uruchomić MENU!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The water is dyed a deep blue…\nWould you like to SURF?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Woda jest tu spokojna i błękitna…\nCzy użyć SURFOWANIA?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used SURF!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} SURFUJE!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The current is much too fast!\nSURF can't be used here…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jest tu zbyt silny prąd wody!\nNie można tu SURFOWAĆ…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The battery isn't charged enough.\pNo. of steps required to fully\ncharge the battery: {STR_VAR_1}{PAUSE_UNTIL_PRESS}</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bateria nie jest jeszcze\nwystarczająco naładowana.\pPotrzeba jeszcze {STR_VAR_1} kroków!{PAUSE_UNTIL_PRESS}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are no TRAINERS within range\nwho can battle…\pThe VS SEEKER was turned off.{PAUSE_UNTIL_PRESS}</seg></tuv>
+      <tuv xml:lang="pl"><seg>W zasięgu nie ma TRENERÓW chcących\nwalczyć…\pTRENEROSZUKACZ został\nwyłączony.    {PAUSE_UNTIL_PRESS}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The other TRAINERS don't appear\nto be ready for battle.\pLet's wait till later.{PAUSE_UNTIL_PRESS}</seg></tuv>
+      <tuv xml:lang="pl"><seg>Inni TRENERZY nie są gotowi\nna walkę.\pSpróbuj później.{PAUSE_UNTIL_PRESS}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey!\nI saw you in VIRIDIAN FOREST!</seg></tuv>
+      <tuv xml:lang="pl"><seg>O!\nWidziałem cię w LESIE VIRIDIAN!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hi! I like shorts!\nThey're comfy and easy to wear!\pYou should be wearing shorts, too!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Cześć! Lubię szorty!\nSą wygodne i łatwe do noszenia!\pPowinieneś też nosić szorty!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Excuse me!\nYou keep looking at me, don't you?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wybacz mi!\nPatrzysz na mnie, czy to prawda?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You're a TRAINER, aren't you?\nLet's get with it right away!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jesteś TRENEREM, czy to prawda?\nZróbmy to od razu!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>That look you give me…\nIt intrigues me so!</seg></tuv>
+      <tuv xml:lang="pl"><seg>To spojrzenie…\nStrasznie intrygujące!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey! What's wrong with you?\nYou're still not wearing shorts!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co jest z tobą nie tak?\nNadal nie masz na sobie szortów!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'll battle you with the POKéMON\nI started raising.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Będę walczył POKéMONAMI!\nZacząłem się podnosić.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Eek!\nDid you push me?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Eek!\nPopchnąłeś mnie?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I always catch mushroom POKéMON\non MT. MOON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zawsze łapie POKéMONY grzyby\nna GÓRZE MOON.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh! You're that nosy kid who\neavesdropped on us!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och! Jesteś tym dzieckiem, który\nnas podsłuchał!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Excuse me! Didn't I tell you that\nthis is a private conversation?\pYou shouldn't be listening in,\nyou uncouth person!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wybacz mi! Czy nie powiedziałam\nci, że to jest prywatna rozmowa?\pNie powinieneś słuchać, co\nza nieokrzesana osoba!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm trying to find something good\nthat's not a BUG POKéMON, but…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Próbuje znaleźć coś dobrego, co\nnie jest POKéMONEM ROBAKIEM…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Huh?\nYou want to go with me again?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co?\nChcesz jeszcze raz powalczyć?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Me?\nWell, okay. I'll play this once.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ja?\nCóż, okej. Powalcze tym razem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey, long time!\nHave you gotten better?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hej, długo czekałem!\nStałeś się lepszy?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You are good at POKéMON, but how\nis your chemistry grade?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jesteś dobry w POKéMONY, ale jak\noceniasz swoją chemię?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All right!\nLet's play another game!</seg></tuv>
+      <tuv xml:lang="pl"><seg>W porządku!\nZagrajmy jeszcze raz!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You need strategy to win at\nbattling.\pAre you following my advice?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Potrzebujesz strategii, aby\nwygrać w walce.\pPodążasz za moją radą?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I've collected many NIDORAN.\nI don't want them to evolve, but…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zebrałam wiele NIDORANÓW.\nNie chcę, żeby się rozwijały, ale…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>School is fun, but I still think\nPOKéMON are fun, too.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szkoła jest fajna, ale uważam,\nże POKéMONY też są.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MEOWTH and PERSIAN are so cute,\nmeow, meow, meow!</seg></tuv>
+      <tuv xml:lang="pl"><seg>MEOWTH i PERSIAN są słodcy,\nmiał, miał, miał!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>We may look silly standing here\nlike this, but I can still battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Możemy wyglądać głupio tak jak\ntutaj, ale wciąż mogę walczyć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm a rambling, gaming dude!\nI'm on a winning streak!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem gburowatym kolegą z gier!\nMam świetną passę!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What's a cute, round, and fluffy\nPOKéMON?\pYou already know, don't you?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co jest słodkie, okrągłe i\npuchate?\pPrzecież to wiesz, czyż nie?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My bike's still acting up, man.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mój rower nadal działa, koleś.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Okay, kid!\nDon't expect mercy this time!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Okej!\nTym razem nie oczekuj litości!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ELI: Our twin power became even\nbetter!</seg></tuv>
+      <tuv xml:lang="pl"><seg>ELI: Nasza bliźniacza moc jest\nlepsza!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ANNE: Our twin power powered up!</seg></tuv>
+      <tuv xml:lang="pl"><seg>ANNE: Bliźniacza moc mocniejsza!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>We're to battle again?\nThis time, you're mine!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Powalczymy jeszcze raz?\nTo czas, jesteś mój!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I haven't forgotten you were with\nthose good-looking POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie zapomniałem, że tutaj byłeś\nz tymi ładnymi POKéMONAMI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm taking ROCK TUNNEL to go to\nLAVENDER…\pBut I keep getting stopped by\neveryone along the way…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zabieram się do TUNELU SKAŁ, aby\nudać się do LAVENDER…\pAle po drodze zatrzymują\nmnie wszyscy…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Don't you dare patronize me today!\nWe're playing for keeps!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie waż się mnie dziś tak traktować!\nGramy na zawsze!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Bwahaha!\nGreat! I was bored again, eh!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Błahaha!\nŚwietnie! Nudziłem się znowu!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hahaha!\nA little toughie, as always!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hahaha!\nMaludki pakerek, jak zawsze!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I got up early every day to train\nmy POKéMON from cocoons!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wstaję codziennie wcześnie rano,\nby trenować moje kokony!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hahahaha!\nI'll win this time!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hahahaha!\nWygram tym razem!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Go win, my super BUG POKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygrajcie, moje super ROBAKI!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Wow, you came here again?\nMaybe you're a POKéMANIAC, too?\lWant to see my collection?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przybyłeś tu ponownie?\nMoże też jesteś POKéMANIAKIEM?\lChcesz zobaczyć moją kolekcję?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ha-hahah-ah-ha!\nI can't stop sneezing!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ha-hahah-ah-ha!\nNie mogę przestać!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hi, kid!\nDid I show you my POKéMON?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Cześć!\nCzy pokażesz mi POKéMONY?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I went out to a POKéMON GYM again.\p…But I lost as usual.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Poszłam znów do SALI POKéMON.\p…Ale jak zwykle porażka.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ah!\nThis mountain air is delicious!\lIt's so good, I can't leave!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ach!\nGórskie powietrze jest pyszne!\lTakie dobre, nie może wyjść!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My head is starting to spin.\nI've been hiking for too long…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Moja głowa zaczyna się kręcić.\nJeżdże tutaj zbyt długo…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Win, lose, or draw!\nNow for our rematch!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygrana, przegrana!\nTeraz nasz rewanż!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Competing is the ultimate thrill.\nI still can't get enough!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Konkurowanie to dreszczyk emocji.\nWciąż niewystarczająco!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You know, right?\nLet's go, but don't cheat!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wiesz, prawda?\nChodźmy, ale nie oszukuj!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hi, there!\pBut be careful!\nI'm still laying down some cables!</seg></tuv>
+      <tuv xml:lang="pl"><seg>No witaj!\pAle proszę bądź ostrożny!\nNadal kładę tutaj kable!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I became a TRAINER a while ago.\nBut, I think I can win.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Niedawno zostałem TRENEREM.\nAle myślę, że mogę wygrać.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Fwahaha!\nI have never lost!\p…And if I did, I've forgotten all\nabout it!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Łahaha!\nNigdy nie przegrałem!\pA jeśli tak, zapomniałem o\ntym wszystkim!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I have never won before…\pPerhaps I am destined to remain\nthat way…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nigdy wcześniej nie wygrałem…\pByć może zamierzam tak\npozostać…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm the best in my class.\nI train every morning and night!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem najlepszy w klasie.\nTrenuję każdego ranka i nocy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Keep your eyes out for live wires!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Miej oczy na żywe przewody!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I raised my POKéMON carefully.\nThey should be ready by now.\lThis time, they should win, too.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Trenowałem ostrożnie moje\nPOKéMONY. Powinny już być gotowe.\lTym razem powinni wygrać.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Yeah!\nI got a bite, here!\lTh-this might be the real thing!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Tak!\nCoś mnie tutaj gryzie!\lT-to może być prawdziwe!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You're finally here.\nFishing is a waiting game.</seg></tuv>
+      <tuv xml:lang="pl"><seg>W końcu tu jesteś.\nWędkowanie to skokojna gra.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Still can't find a MOON STONE…\nHave you found one?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nadal nie mam KAMIEN KSIĘŻYCA…\nCzy masz jeden?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Electricity has always been my\nspecialty.\pI don't know a thing about POKéMON\nof the sea, though.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Elektryczność zawsze była moją\nspecjalnością.\pJednak nie wiem nic o\nmorskich POKéMONACH.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The FISHING FOOL vs. POKéMON KID!\nAnother round, fight!</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁOWIĄCY GŁUPEK kontra\nDZIECIAK! Kolejna runda, bitwa!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I love fishing, don't get me wrong.\nBut, I wish I had more work…\l…It's hard to give up fishing!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lubię łowić, nie zrozum mnie źle.\nAle chce mieć więcej pracy…\l…Cieżko zrezygnować z wędkowania!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What's catching?\pYou'll never know unless you beat\nme!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co łapie?\pNie dowiesz się, chyba że\nmnie pokonasz!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>JES: I'll win here today and\npropose to my GIA.</seg></tuv>
+      <tuv xml:lang="pl"><seg>JES: Dzisiaj wygram tutaj\ni wyjdę za moją GIA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GIA: Hey, JES…\nI've been waiting a long time now.\pIf we win today, I'll marry you!</seg></tuv>
+      <tuv xml:lang="pl"><seg>GIA: Hej, JES…\nDługo czekałam na ten moment.\pJeśli wygramy, wyjdę za ciebie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My bird POKéMON remember you!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mój POKéMON ptak pamięta cię!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I want to be the best TRAINER \nwhile I'm a kid!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chcę być najlepsza, kiedy\njestem dzieckiem!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Wow!\nYou got more cool BADGES!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Łał!\nMasz więcej ODZNAK! Cool!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My cutely grown POKéMON wish to\nbecome reacquainted with you.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Moje piękne POKéMONY chciałby\nsię z tobą ponownie zapoznać.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I cleaned out my savings and\nbought more CARBOS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zmyłam swoje oszczędności\ni kupiłam WĘGLOWODANY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm not going to lose this time.\nThe wind's blowing my way!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Tym razem nie przegram.\nWiatr wieje w moją stronę!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, you're back?\pSure, I'll play again with you,\nsweetie.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, wróciłeś?\pNo pewnie, że powalcze z tobą,\nkochanie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Can't you forget that you battled\nwith me?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie możesz zapomnieć, że\nwalczyłeś ze mną?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What're you starin' at?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Na co się tak gapisz?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I always go with bird POKéMON.\nI've dedicated myself to them.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zawsze chodzę z POKéMONAMI ptakami.\nPoświęciłem się dla nich.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I used TMs to teach good moves\nto my POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Używam TM, by nauczyć ruchów\nmoje POKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My bird POKéMON should be ready\nfor battle this time.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Moje ptaki POKéMON powinny być\nteraz gotowe do bitwy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Are you using TMs on POKéMON?\nJust holding them is useless.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Używasz TMy na POKéMONACH?\nTrzymanie ich jest bezużyteczne.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Have you taught your bird POKéMON\nhow to FLY?\pYou'll be able to soar with it into\nthe sky! Give it a try.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy nauczyłeś swojego ptaka\nPOKéMONA jak latać?\pBędziesz mógł wznieść się w\nniebo! Weź spróbuj.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The legend of the winged mirages…\nYou've heard it, right?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Legenda o uskrzydlonych mirażach…\nSłyszałeś to, prawda?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm really not into it, but okay.\nLet's go!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie jestem w tym dobry, ale OK.\nWalczmy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey!\nI remember you!\pC'mon, c'mon.\nLet's go, let's go, let's go!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hej!\nPamiętam cię!!\pNo dalej, dalej.\nChodźmy, chodźmy, chodźmy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You're here again, huh?\nShut up and battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jesteś tu znowu, co?\nZamknij się i walcz.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>We've been riding here because of\nthe wide-open spaces.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jeździmy tutaj z powodu szeroko\notwartych przestrzeni.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON battle, right?\nCool! Rumble!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bitwa POKéMON, racja?\nSuper! Huczę!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>KIRI: JAN, I hope we win today.</seg></tuv>
+      <tuv xml:lang="pl"><seg>KIRI: JAN, chyba dziś wygramy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>JAN: KIRI, here we go!\nLet's win for sure this time!</seg></tuv>
+      <tuv xml:lang="pl"><seg>JAN: KIRI, zaczynamy!\nTym razem na pewno wygramy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm going to keep battling with the\nPOKéMON I got in trades.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Będę walczyła z moimi POKéMONAMI,\nktóre dostałam w wymianie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You look gentle, so I think I can\nbeat you.\pI'll give it one more go!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyglądasz łagodnie, więc myślę,\nże cię pokonam.\pDam ci jeszcze raz!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When I whistle, bird POKéMON\ngather around.\pThey're amazingly cute!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy gwizdam, zbiera się\nptak POKéMON.\pSą niesamowicie urocze!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hmm? My birds are shivering!\nWait, aren't you that TRAINER…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hmm? Moje ptaki drżą! Czekaj,\nczy nie jesteś tym TRENEREM…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, you're a little cutie!\nSo like a darling POKéMON!\lI remember you now!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jesteś małym słodziakiem!\nTak jak kochany POKéMON!\lPamiętam cię, wiesz!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I raise POKéMON for protection\nbecause I live alone.\pThat hasn't changed.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Trenuje POKéMONY dla ochrony,\nponieważ mieszkam sam.\pTo się nie zmieniło.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey, kid! C'mon!\nI got these off some loser!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hej! Dawaj!\nMam ich od jakiegoś przegranego!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Fork over all your cash when you\nlose to me, kid!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Oddasz mi wsystkie pieniądze,\njeśli przegrasz!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What's cool and happening?\nTrading POKéMON, of course.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co jest fajne i dzieje się?\nWymiana POKéMONÓW, o tak.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Want to play with my POKéMON\nagain?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chcesz znowu walczyć ze mną?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MYA: Hi, we keep meeting,\ndon't we?\pHelp me train my little brother\nagain?</seg></tuv>
+      <tuv xml:lang="pl"><seg>MYA: Cześć, znowu sie spotykamy,\nprawda?\pPomóż mi trenować mojego\nbrata?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RON: My sister's gotten more\npowerful…</seg></tuv>
+      <tuv xml:lang="pl"><seg>RON: Moja siostra stała się\nlepsza…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What do you want?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czego chcesz?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Nice BIKE!\nHand it over quick!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Niezły ROWER!\nDaj mi go, już!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Come out and play, little mouse.\nI'll treat you right!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chodź się pobawić, mała myszko.\nNaprawię cię dobrze!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey, wait a second!\nDon't call me and then run away!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Poczekaj chwile!\nNie dzwoń do mnie, a potem uciekaj!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm feeling hungry and mean!\nI really need a punching bag!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czuję się głodny i złośliwy!\nPotrzebuje worek treningowy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey, there!\nWe'll have ourselves a good time!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hej, tam!\nBędziemy się dobrze bawić!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>JED: Are you here to see our\nlove, which knows no bounds?</seg></tuv>
+      <tuv xml:lang="pl"><seg>JED: Czy jesteś tu, aby\nzobaczyć naszą miłość bez granic?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LEA: Sometimes, the intensity of\nour love scares me.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LEA: Czasami, przearaża mnie\nsiła mojej miłości.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I told you, there's no getting rich\nquick in battling kids.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mówiłem, nie ma szybko wzbogacania\nsię w walce z dziećmi.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm mighty proud of my bod, kiddo.\nCome on!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem dumny z mojej postury, mały.\nDawaj!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You out for a stroll?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jesteś na spacerze?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>We're BIKERS!\nWe rule the roads, man!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jesteśmy MOTOCYKLISTAMI!\nPanujemy tu!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VOLTORB's going to seriously\nelectrify you today!</seg></tuv>
+      <tuv xml:lang="pl"><seg>VOLTORB zamierza cię dzisiaj\nnaelektryzować!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I leveled up my POKéMON, but it\nabsolutely won't evolve. Why?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Poziomowałem POKéMONA, ale\nabsolutnie nie ewoluuje. Dlaczego?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Gaah! I really need to exercise\nand seriously trim some flab!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Gach! Naprawdę muszę ćwiczyć i\npoważnie przycinać jakiś cios!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Be a rebel!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Rebeliant!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Yep, that's a nice BIKE!\nHow's it handle?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Tak, to niezły ROWER!\nJak sobie radzisz?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Get lost, kid!\nI'm bushed!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Spadaj, mały!\nMam dość!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I've been checking every grassy\narea for new POKéMON.\pBut it's not always easy…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Sprawdzałem każdy trawiasty\nteren dla nowego POKéMONA.\pAle to nie zawsze łatwe…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Koorukukukoo!\nIs my birdcall getting better?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Koorukukukoo!\nCzy moje gdakanie jest lepsze?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I warned you before, this is my\nturf!\pI don't want you coming around.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ostrzegałem cię wcześniej, to\njest dar!\pNie chce, żebyś przychodził.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm almost warmed up to go\nout for a swim.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem prawie rozgrzany, żeby\npopływać.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Wait! Slow down!\nWhat if you have a heart attack?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Poczekaj! Zwolnij!\nA co jeśli masz zawał serca?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I love swimming!\nI guess you're the surfing type.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kocham pływać!\nDomyślam się, że lubisz surfować.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What's beyond the horizon?\nHave you seen?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co jest poza horyzontem?\nCzy widziałeś?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I tried diving for POKéMON again,\nbut it was a no-go like before.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Próbowałem nurkować na POKéMONIE,\nale nie było tak jak wcześniej.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I look at the sea to forget all\nthe bad things that happened.\p…Like losing to you the last time!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Patrzę na morze, aby zapomnieć\no złych rzeczach, które były.\p…Tak jak straciłeś ostatni raz!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You always get to ride your\nPOKéMON…\pIt looks so relaxing.\nCan I have it if I win?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zawsze jeździsz na swoim\nPOKéMONIE…\pWygląda to relaksująco.\nJeśli wygram, mogę go?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Swimming's great!\nSunburns aren't!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pływanie panuje!\nUdary nie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>These waters are treacherous!\nYou shouldn't come back here!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Te wody są zdradliwe!\nNie powinieneś tutaj wracać!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I swam here with my friends…\nI'm tired…\lMust we really battle again?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pływałem tu z przyjaciółmi…\nJestem zmęczony…\lMusimy znowu walczyć?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LIA: You know my brother just\nbecame a TRAINER, right?\pI want to make him better, so I\nneed your help again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIA: Wiesz, że mój brat właśnie\nzostał TRENEREM, prawda?\pChcę go trenować, więc\npotrzebuję twojej pomocy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LUC: My big sis taught me all\nabout POKéMON.\pI wonder if I'm better?</seg></tuv>
+      <tuv xml:lang="pl"><seg>LUC: Moja starsza siostra\nnauczyła mnie o POKéMONACH.\pJestem lepszy?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The water is shallow here.\nThere are many people swimming.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Woda jest tu płytka.\nWiele ludzi przychodzi tu pływać.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Are you jealous that I'm\nvacationing on SEAFOAM?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jesteś zazdrosny, że\nspędzam wakacje na SEAFOAM?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I love floating with the fishes\nhere among the waves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kocham pływać sobie z rybkami\npomiędzy falami.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Were you on vacation, too?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy byłeś na wakacjach?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Check out my physique!\pIt's even more buff than ever\nbefore!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zobacz moją sylwetkę!\pJest lepiej wysportowana\nniż przedtem!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Why are you riding a POKéMON?\nHaven't you learned to swim yet?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czemu jeździsz na POKéMONIE?\nJeszcze nie nauczyłeś się pływać?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I rode my bird POKéMON here.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem tu z moimi POKéMONAMI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My boyfriend gave me big pearls.\nAnd, they've grown bigger!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mój chłopak dał mi wielkie perły.\nI powiększyły się!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I swam here from CINNABAR ISLAND.\nIt wasn't easy, like I said.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przypłynołem tu z WYSPY CINNABAR.\nTo nie łatwe, jak mówiłem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CINNABAR, in the west, has a LAB\nfor POKéMON.\pMy daddy works there.</seg></tuv>
+      <tuv xml:lang="pl"><seg>CINNABAR, na zachodzie, ma\nLABORATORIUM.\pPracuje tam mój tatuś!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You want to know if the fish are\nbiting?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chcesz wiedzieć, czy łapią\nryby?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I got a big haul again!\nWanna go for it once more?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Znów dostałem wielki łup!\nChcesz znowu walczyć?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The sea cleanses my body and soul!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Morze oczyszcza me ciało i duszę!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I caught my POKéMON at sea.\nAnd that's where I train them.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Złapałem moje POKéMONY na morzu.\nI tam ich trenuje.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Right now, I'm in another triathlon\nmeet!</seg></tuv>
+      <tuv xml:lang="pl"><seg>W tej chwili jestem na innym\ntriatlonie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ahh!\nFeel the sun and the wind!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ach!\nPoczuj słońce i wiatr!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey, cut it out already.\nYou always scare away the fish!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hej, wynoś się stąd.\nZawsze przestraszysz mi rybę!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Keep me company till I get a hit.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dotrzymaj mi towarzystwa, co?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LIL: Huh? A battle again?\nIAN, can't you do it alone?</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIL: Co? Znowu bitwa?\nIAN, nie możesz walczyć sam?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>IAN: My sis is still a slob.\nHelp me get her into shape!</seg></tuv>
+      <tuv xml:lang="pl"><seg>IAN: Moje siostra jest pluchą.\nPomóż mi ją kształtować!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I won't lose while I'm here!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie przegram póki tu jestem!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Dad took me to a great party on\nthe S.S. ANNE at VERMILION CITY.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Tata wziął mnie na wielką\nimprezę na S.S. ANNA w VERMILION!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm a cool guy.\nI've got a girlfriend!\pI'll show her how cool I am for\nsure this time!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem super gość.\nI mam dziewczynę!\pPokaże jej, jak jestem super,\ntym razem na pewno!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hi!\nMy boyfriend is cool!\lMy conditioning's good today!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Heja!\nMój chłopak jest super!\lMoja kondycja jest dobra!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I had this feeling…\nI knew I had to battle you again!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Miałem to uczucie…\nZnowu będę musiał walczyć z tobą!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My friend has many cute POKéMON.\nI'm so jealous!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mój przyjaciel ma wiele słodkich\nPOKéMONÓW!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I just trained up on MT. MOON,\nbut I've still got gas in the tank!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Właśnie trenowałem na GÓRZE MOON,\nale wciąż mam benzynę w sobie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A POKéMANIAC lives on the cape.\nHave you seen his collection?</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMANIAK mieszka na przylądku.\nWidziałeś jego kolekcję?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You're going to see BILL again?\nFirst, we battle!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Znowu idziesz zobaczyć BILLA?\nNajpierw, walczmy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I saw your feat from the grass!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Widziałem twój tułów w trawie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Okay!\nI'll stomp you!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Okej!\nUduszę cię!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You always look so busy…\nAren't you getting tired?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zawsze wyglądasz na zajętego…\nNie czujesz się źle?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You really must love coming to\nNUGGET BRIDGE.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Naprawdę kochasz przyjść\nna MOST SAMORODKA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The time we battled…\pEven though I was the second in\nline, I was the best, wasn't I?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czas, w którym walczyliśmy…\pChociaż byłam druga w kolejce,\nbyłam najlepsza, prawda?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>People call this the NUGGET\nBRIDGE!\pYou've already beaten us, so you're\nnot allowed to take the challenge…\p…But, you're welcome to battle with\nus again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ludzie nazywają to MOSTEM\nSAMORODKA!\pJuż nas pokonałeś, więc nie\nmożesz już podjąć wyzwania…\p…Ale możesz ponownie\nwalczyć z nami i nas pokonać.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Lying back, rocked by the waves…\nI don't notice time slipping by…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Leżąc z tyłu, kołysany falami…\nNie zauważam, że czas płynie…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The weather's gorgeous!\nI'll try not to spoil it.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pogoda jest wspaniała!\nSpróbuję tego nie zepsuć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My sunburn is starting to hurt…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Moja opalenizna zaczyna boleć…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The fire bird's mountain casts\na huge shadow…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Góra ognistego ptaka rzuca\nogromny cień…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I have this strong feeling that\nI can win this time!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mam silne przeczucie, że mogę\nwygrać tym razem!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Wait! Wait a second!\nI'm sure I've hooked a big one!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Stój! Stój chwilę!\nJestem pewien, że złapałem dużą!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You'll help me out with my\ntraining again?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pomożesz mi ponownie z\nmoim treningem?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>We haven't missed a single day of\ntraining yet!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie opuściliśmy ani jednego dnia\ntreningu!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Every morning, before breakfast,\nI swim around this island…\lThree times!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Każego ranka, przed śniadaniem,\npływam po tej wyspie…\lTrzy razy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Dress appropriately for battle!\nLose that frivolous outfit, I said!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ubierz się odpowiednio do bitwy!\nStrać ten niepoważny strój!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You know, everything tastes great\nwhen you're out in the wild.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wiesz, wszystko smakuje świetnie,\ngdy głodujesz w dziczy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I ate too much again, so will you\nbattle us for some exercise?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Znowu zjadłem, więc walczysz z\nnami o jakieś ćwiczenia?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>KIA: My big brother and I make\nan awesome combination!\pWe won't lose this time!</seg></tuv>
+      <tuv xml:lang="pl"><seg>KIA: Mój brat i ja tworzymy\nniesamowitą kombinacje!\pNie stracimy tego czasu!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MIK: Together with KIA, we're\nafraid of nothing!\pWe'll prove it to you this time!</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIK: Razem z KIĄ, nie boimy\nsię absolutnie niczego!\pTym razem ci to udowodnimy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Are we to battle again?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chcesz znowu powalczyć?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>From where have you come, and\nwhere are you bound?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Skąd przyszliście i gdzie\njeśtescie związani?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I want to swim without my float\nring soon.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chce wkrótce wypłynąć bez\nmojego koła.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Yay, yay!\nPOKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jej, jej!\nPOKéMON!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, no, didn't I tell you already?\nPlease, stay away from me!</seg></tuv>
+      <tuv xml:lang="pl"><seg>O, nie, czy już ci nie mówiłem?\nProszę, trzymaj się z daleka!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>JOY: We've gotten stronger!\nLots and lots!</seg></tuv>
+      <tuv xml:lang="pl"><seg>JOY: Staliśmy się silniejsi!\nWiele, wiele!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MEG: You can't beat us today!</seg></tuv>
+      <tuv xml:lang="pl"><seg>MEG: Nie możesz nas pokonać!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, hello!\pAre you raising your POKéMON in a\ngood environment?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, witaj!\pCzy trenujesz swoje POKéMONY w\ndobrym otoczeniu?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>With these hands, I will create\nmy victory today.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Z tymi rękami, stworzę dzisiaj\nmoje zwycięstwo.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Must I repeat myself?\nI'm trying to paint.\lPlease keep out of my sight!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy muszę się powtarzać?\nPróbuje malować.\lProszę, nie dotykaj mnie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I haven't made any progress…\nI still can't get the right angle…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie zrobiłem żadnego postępu…\nNadal nie mogę uzyskać kąta…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, you will give me another\nopportunity to match wits with you?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, dasz mi kolejną okazję, aby\ndopasować do ciebie spryt?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They're almost finished making the\npool for my POKéMON.\pYou must drop in for a visit.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Już prawie skończyli robić basen\ndla mojego POKéMONA.\pMusisz wpaść na wizytę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm a good runner.\nI've gotten even faster!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem biegaczem.\nJestem jeszcze szybszy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I say, friend!\nLet us enjoy our time together!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mówię, przyjacielu!\nCieszmy się razem!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm the eldest of the BIRD\nBROTHERS. Remember me?\pThat's right, I'm the one who loves\nbirds for their beaks!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem nastarszym z PTASICH\nBRACI. Pamiętasz mnie?\pZgadza się, to ja kocham ptaki\nza ich dzioby!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm the middle kid of the BIRD\nBROTHERS.\pI'm the one that loves wings.\nLet's battle again!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem średnim dzieckiem z\nPTASICH BRACI.\pJestem tym, który kocha skrzydła.\nWalczmy znowu!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm the youngest of the BIRD\nBROTHERS.\pI love birds for their down.\nI didn't think I'd see you again!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jestem najmłodszym z\nPTASICH BRACI.\pKocham ptaki za ich upadek.\nNie myślałem, że cię znowu zobaczę!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm still having no luck at all.\nA battle'd be a change of pace!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wciąż nie mam szczęścia.\nTa bitwa będzie zmnianą tempa!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Gasp… Gasp…\pI swam here from SIX ISLAND's port\nin one go again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Gasp… Gasp…\pPrzypłynąłem tu z portu WYSPY SIX\nza jednym razem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You always come along while I'm\nswimming.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zawsze przychodzisz podczas\npływania.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AVA: Let's have another\ntwo-on-two marine battle today!</seg></tuv>
+      <tuv xml:lang="pl"><seg>AVA: Miejmy dzią kolejną\npodwójną bitwe morską!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GEB: My big sister and I are way\ntougher than before!</seg></tuv>
+      <tuv xml:lang="pl"><seg>GEB: Moja starsza siostra i ja\njesteśmy dużo lepsi!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>…Huh?\pI envision my house, but TELEPORT\nalways brings me here!</seg></tuv>
+      <tuv xml:lang="pl"><seg>…Co?\pWyobrażam sobie mój dom, ale\nTELEPORT mnie tu sprowadza!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, hello.\nA pleasant breeze is blowing again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, witaj.\nPonownie wiał przyjemny wietrzyk.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hehehe, I'm practicing in secret\nagain.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hehehe, trenuję w tajemnicy\nponownie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What, you're sick of seeing\nSWIMMERS like me?\pAww, don't be hatin'!\nBattle with me again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co, masz dość widziąć\nPŁYWAKÓW takich jak ja?\pAł, bez nienawiści!\nBitwa znowu ze mną.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sigh…\nMy boyfriend's busy again…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ech…\nMój chłopak jest zajęty…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Come on, tell me, where are the\nmountains around these parts?</seg></tuv>
+      <tuv xml:lang="pl"><seg>No dalej, powiedz mi, gdzie są\ngóry wokół tych części?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MIU: Hello, POKéMON!\nIt's time to play again!</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIU: Witaj, POKéMONIE!\nTo znowu czas na grę!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MIA: Hello, POKéMON!\nIt's time to battle again!</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIA: Witaj, POKéMONIE!\nTo znowu czas na bitwę!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There appear to be many secrets\nstill unsolved in this world.</seg></tuv>
+      <tuv xml:lang="pl"><seg>W tym świecie wydaje się być\nwiele nierozwikłanych tajemnic.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hi, didn't we meet before?\nWhat compelled you to come back?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hej, nie spotkaliśmy się dawno?\nCo zmusiło cię do powrotu?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's been said that there are\nmysterious stones on this island.\pHave you discovered anything since\nwe last met?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mówi się, że na tej wyspie są\njakieś tajemnicze kamienie.\pCzy odkryłeś coś, odkąd się\nostatnio poznaliśmy?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A rematch with you, so high up!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Rewanż z tobą, więc tak wysoko!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm pretty familiar with the land\naround these parts.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dobrze znam te tereny, wychowałem\nsię tutaj.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I sensed your approach.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyczułem to spotkanie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Somewhere on this island, peculiar\nPOKéMON are sleeping.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Gdzieś na tej wyspie, śpią\nspecyficzne POKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Kyahaha!\pComing back won't change a thing.\nI'll flick you away effortlessly!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kjachacha!\pPowrót nie zmieni niczego.\nOdprowadzę cię bez wysiłku!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Howdy! You're a member of my\nfan club, isn't that right?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czesc! Czy jesteś członkiem\nmojego fanklubu, prawda?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This island is too spread out…\nPatrolling the place is a drag…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ta wyspa jest rozproszona…\nPatrolowanie tego miejsca to opór…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I don't forgive people who abuse\nPOKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie wybaczam tym, co nadużywają\nPOKéMONY!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EVE: I'll team up with JON and\nbattle together again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>EVE: Połączę się z JONEM i\nznowu zbiorę się.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>JON: When I'm with EVE, it feels\nlike we could never lose, not ever.</seg></tuv>
+      <tuv xml:lang="pl"><seg>JON: Kiedy jestem z EVE, wydaje\nsię, że nigdy nie stracimy, nigdy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Let's have another battle.\nMy conditioning's in top form!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Rozegrajmy kolejną bitwę.\nMoja kondykcja jest w formie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It doesn't matter if you happen to\nhave the strongest POKéMON…\pIt doesn't mean a thing if you don't\nknow how to use them properly!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie ważne, czy masz najsilniejsze\nPOKéMONY…\pTo nie ma najmniejszego znaczenia,\njeśli nie wiesz jak powinno się ich\pużywać!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I work to protect the environment.\nIn turn, nature protects me!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pracuję dla ochrony środowiska.\nW zamian, natura chroni i mnie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Every time we meet, you have those\nsnazzy shoes on.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Za każdym razem, kiedy się\nspotykamy, masz te buty.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You must have gotten tougher.\nLet me battle you, please!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Musiałeś być ostrzejszy.\nPozwól mi walczyć z tobą!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I was given the best possible\neducation to become this strong.\pI won't lose this time.\nAbsolutely not!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Otrzymałem najlepszą możliwą\nedukację, by stać się tak silnym.\pTym razem nie przegram.\nAbsolutnie nie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LEX: My darling NYA, together\nwe will win for certain!</seg></tuv>
+      <tuv xml:lang="pl"><seg>LEX: Moja kochana NYA, razem\nwygramy na pewno!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NYA: I won't drag down my mentor\nLEX! We're going to win!</seg></tuv>
+      <tuv xml:lang="pl"><seg>NYA: Nie powlokę mojego mentora\nLEXA! Tym razem wygramy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Have you discovered anything about\nthis stone chamber?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy udało ci się odkryć coś o tej\nkamiennej komnacie?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A mystic POKéMON is said to sleep\ninside here.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Podobno wewnątrz śpi jakiś\nmistyczny POKéMON.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My teacher is showing me how to\npaint some more.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mój nauczyciel pokazuje mi,\njak malować więcej.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Today, in addition to our lesson,\nwe came to see the chamber again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dzisiaj, oprócz naszej lekcji,\nponownie odwiedziliśmy komnatę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's a POKéMON PRINTER!\pIt can put a print of your POKéMON\non the back of your TRAINER CARD.\pIt costs only ¥50.\nWould you like to try it?</seg></tuv>
+      <tuv xml:lang="pl"><seg>To DRUKARKA POKéMON!\pMoże umieścić obrazki twoich POKéMONÓW\nz tyłu twojej KARTY TRENERSKIEJ.\pNadruk kosztuje ¥50.\nChcesz spróbować?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You don't have enough money.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Masz za mało pieniędzy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please choose the print type.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Proszę wybrać rodzaj nadruku.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A big smile for the photo, please!\nThree… Two… One…\pFlash!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Prosimy o uśmiech do obiektywu!\nTrzy… Dwa… Jeden…\pPstryk!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Your POKéMON print is ready!\nCheck your TRAINER CARD.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Twój nadruk jest gotowy!\nSprawdź swoją KARTĘ TRENERA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>First, you should restore your\nPOKéMON to full health.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Najpierw powinieneś wyleczyć\nwszystkie swoje POKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Your POKéMON have been healed\nto perfect health.\pIf your POKéMON's energy, HP,\nis down, please come see us.\pIf you're planning to go far in the\nfield, you should buy some POTIONS\lat the POKéMON MART.\pWe hope you excel!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Twoje POKéMONY zostały w\npełni wyleczone.\pJeśli HP twoich POKéMONÓW spadnie\nponownie, odwiedź nas znowu.\pJeśli planujesz daleką podróż,\ndobrze jest kupić MIKSTURY w\lPOKéMON MART.\pMamy nadzieję, że\nsobie poradzisz!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Your POKéMON have been healed\nto perfect health.\pWe hope you excel!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Twoje POKéMONY zostały wyleczone\ndo pełni zdrowia.\pDo zobaczenia!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MOM: {PLAYER}!\nWelcome home.\pIt sounds like you had quite\nan experience.\pMaybe you should take a quick\nrest.</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAMA: {PLAYER}!\nWitaj w domu.\pMiałeś pewnie pełno\nprzygód, co?\pPowinieneś odpocząć sobie przez\nchwilkę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MOM: Oh, good! You and your\nPOKéMON are looking great.\pI just heard from PROF. OAK.\pHe said that POKéMON's energy is\nmeasured in HP.\pIf your POKéMON lose their HP,\nyou can restore them at any\lPOKéMON CENTER.\pIf you're going to travel far away,\nthe smart TRAINER stocks up on\lPOTIONS at the POKéMON MART.\pMake me proud, honey!\pTake care!</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAMA: Dobrze! Ty i twoje\nPOKéMONY wyglądacie świetnie.\pSłyszałam od PROFESORA OAKA,\pże energia POKéMONÓW mierzona\njest w HP.\pGdy twoje POKéMONY stracą HP, możesz\nwyleczyć je w najbliższym\lCENTRUM POKéMON.\pJeśli wybierasz się gdzieś dalej,\lmądry TRENER kupuje zawsze\lMIKSTURY w lokalnym POKéMON MART.\pJestem z ciebie dumna, złotko!\pPapa!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} is out of usable\nPOKéMON!\p{PLAYER} panicked and lost ¥{STR_VAR_1}…\p… … … …\p{PLAYER} whited out!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} nie ma już\nPOKéMONÓW!{PLAYER} panikuje i traci ¥{STR_VAR_1}…\p… … … …\p{PLAYER} przegrywa!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} is out of usable\nPOKéMON!\p{PLAYER} whited out!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} nie ma już\nPOKéMONÓW!\p{PLAYER} przegrywa!</seg></tuv>
+    </tu>
+  </body>
+</tmx>

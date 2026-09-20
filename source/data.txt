@@ -1,0 +1,62 @@
+<<< FILE: event_scripts.s >>>
+Would you like to mix records with\nother TRAINERS?
+We hope to see you again!
+Welcome to the POKéMON CABLE CLUB\nTRADE CENTER.
+Welcome to the POKéMON CABLE CLUB\nCOLOSSEUM.
+Welcome to the POKéMON CABLE CLUB\nTIME CAPSULE.
+Please come again!
+Welcome!\pWe're having a discount sale today!
+{PLAYER}{KUN}, welcome!\pWhat can I do for you?
+じゅんびちゅうです！
+Which floor do you want?
+An item in the BAG can be\nregistered to SELECT for easy use.
+パソコンに\nポケモン　トレーナー　こうざの\lメールが　きている！\p‥‥　‥‥　‥‥\pポケモンが　おぼえられる　わざは　4つ！\pどんな　わざを　おぼえさせるかで\nトレーナーの　じつりょくが　とわれます！\p‥‥　‥‥　‥‥
+{PLAYER} booted up the PC.
+つうしんは　キャンセルされました
+Want to give a nickname to the\n{STR_VAR_2} you received?
+{STR_VAR_1} fainted…\p
+Welcome to our POKéMON CENTER!\pWould you like me to heal your\nPOKéMON back to perfect health?
+Okay, I'll take your POKéMON for a\nfew seconds.
+We hope to see you again!
+Thank you for waiting.\nWe've restored your POKéMON to\lfull health.
+どこか　とおくの　とびらが\nひらいたような　おとだ‥‥
+かべに\nおおきな　あなが　あいている！
+I'm terribly sorry.\nThe POKéMON WIRELESS CLUB is\lundergoing adjustments now.
+It appears to be undergoing\nadjustments…
+{PLAYER} handed over the\n{STR_VAR_1}.
+Do you want to give a nickname to\nthis {STR_VAR_1}?
+Bingo!\nThe CARD KEY opened the door!
+No!\nIt needs a CARD KEY!
+Accessed PROF. OAK's PC…\pAccessed the POKéDEX Rating\nSystem…
+Would you like to have your\nPOKéDEX rated?
+Closed link to PROF. OAK's PC.
+Someone's voice rang out,\n“Don't run away!”
+えっとー\n{STR_VAR_2}が　みてみたいなー\pそれも　{STR_VAR_1}{STR_VAR_3}\n{STR_VAR_2}が　みてみたいなー
+わぁー　すごい！\n{STR_VAR_1}{STR_VAR_3}{STR_VAR_2}だー！\pありがとー\nまた　よろしくねー！
+それっ　ちがうよー！
+そっか‥
+ドアは　しまっている‥
+The door is open…
+The {STR_VAR_1} flew away!
+ベッドが　ある‥‥\nやすんでいこう
+{PLAYER} found a {STR_VAR_2}!\nIt contains {STR_VAR_1}.
+Gyaoo!
+This move can be learned only\nonce. Is that okay?
+テストよう　メッセージです！\nポケモンの　せかいへ　ようこそ！
+<<< FILE: mystery_event_msg.s >>>
+Thank you for using the STAMP CARD\nSystem.\pYou have {STR_VAR_1} more to collect to\nfill your STAMP CARD.
+Thank you for using the MYSTERY\nGIFT System.\pFrom the POKéMON CENTER we\nhave a gift - a POKéMON EGG!\pPlease raise it with love and\nkindness.
+Oh, your party appears to be full.\pPlease come see me after storing\na POKéMON on a PC.
+Thank you for using the MYSTERY\nGIFT System.\pBy holding this WONDER CARD, you\nmay take part in a survey at a\lPOKéMON MART.\pUse these surveys to invite\nTRAINERS to the SEVII ISLANDS.\p…Let me give you a secret\npassword for a survey:\p“GIVE ME\nAWESOME TRAINER”\pWrite that in on a survey and send\nit to the WIRELESS\lCOMMUNICATION SYSTEM.
+Thank you for using the MYSTERY\nGIFT System.\pA TRAINER has arrived in the SEVII\nISLANDS looking for you.\pWe hope you will enjoy\nbattling the visiting TRAINER.\pYou may invite other TRAINERS by\nentering other passwords.\pTry looking for other passwords\nthat may work.
+Thank you for using the MYSTERY\nGIFT System.\pYour BATTLE COUNT CARD keeps\ntrack of your battle record against\lTRAINERS with the same CARD.\pLook for and battle TRAINERS who\nhave the same CARD as you.\pYou may check the overall rankings\nby reading the NEWS.\pPlease do give it a try!
+Thank you for using the MYSTERY\nGIFT System.\pCongratulations!\pYou have won a prize for winning\nthree battles!\pWe hope you will be inspired to\nbattle some more.
+Thank you for using the MYSTERY\nGIFT System.\pYou must be {PLAYER}.\nThere is a ticket here for you.
+It appears to be for use at the\nVERMILION CITY port.\pWhy not give it a try and see what\nit is about?
+Thank you for using the MYSTERY\nGIFT System.
+Oh, I'm sorry, {PLAYER}. Your BAG's\nKEY ITEMS POCKET is full.\pPlease store something on your PC,\nthen come back for this.
+Thank you for using the MYSTERY\nGIFT System.\pYou must be {PLAYER}.\nThere is a ticket here for you.
+It appears to be for use at the\nVERMILION CITY port.\pWhy not give it a try and see what\nit is about?
+Thank you for using the MYSTERY\nGIFT System.
+Oh, I'm sorry, {PLAYER}. Your BAG's\nKEY ITEMS POCKET is full.\pPlease store something on your PC,\nthen come back for this.
+Thank you for using the MYSTERY\nGIFT System.\pRecently, there have been rumors\nof rare POKéMON appearances.\pThe rumors are about ALTERING\nCAVE on OUTCAST ISLAND.\pWhy not visit there and check if\nthe rumors are indeed true?

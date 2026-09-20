@@ -1,0 +1,2074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20260829T222910Z"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en"><seg>The best BALL with the ultimate\\nperformance. It will catch any wild\\nPOKéMON without fail.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Najlepsza KULA z niesamowitą\\njakością działania. Złapie każdego\\ndzikiego POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A very high-grade BALL that offers\\na higher POKéMON catch rate than\\na GREAT BALL.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wysokiej jakości KULA oferująca\\nwyższe szanse złapania POKéMONA\\nniż GREAT BALL.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A good, quality BALL that offers\\na higher POKéMON catch rate than\\na standard POKé BALL.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dobrej jakości KULA oferująca\\ncałkiem duże szanse na złapanie\\ndzikiego POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A BALL thrown to catch a wild\\nPOKéMON. It is designed in a\\ncapsule style.</seg></tuv>
+      <tuv xml:lang="pl"><seg>KULA służąca do łapania dzikich\\nPOKéMONÓW. Zaprojektowana\\nw stylu kapsuły.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A special BALL that is used only in\\nthe SAFARI ZONE. It is finished in\\na camouflage pattern.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Specjalna KULA używana tylko w\\nSTREFIE SAFARI. Pomalowania\\nw wzorki przypominające kamuflaż.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A somewhat different BALL that\\nworks especially well on WATER- and\\nBUG-type POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szczególna KULA działająca\\nwyjątkowo dobrze na POKéMONY WODNE i\\nROBACZE.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A somewhat different BALL that\\nworks especially well on POKéMON\\ndeep in the sea.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szczególna KULA działająca\\nwyjątkowo dobrze na POKéMONY\\ngłęboko w morzu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A somewhat different BALL that\\nworks especially well on weaker\\nPOKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szczególna KULA działająca\\nwyjątkowo dobrze na słabsze\\nPOKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A somewhat different BALL that\\nworks especially well on POKéMON\\ncaught before.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szczególna KULA działająca\\nwyjątkowo dobrze na POKéMONY złapane\\njuż wcześniej.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A somewhat different BALL that\\nbecomes progressively better the\\nmore turns there are in a battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szczególna KULA, która staje się\\ntym lepsza, im więcej tur minęło\\njuż w walce.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A comfortable BALL that makes a\\ncaptured wild POKéMON quickly grow\\nfriendly.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygodna KULA, która powoduje, że\\nzłapany POKéMON staje się\\nprzyjazny.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A rare BALL that has been\\nspecially made to commemorate an\\nevent of some sort.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Rzadka KULA przygotowana\\nspecjalnie jako pamiątka\\nszczególnego wydarzenia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POTION</seg></tuv>
+      <tuv xml:lang="pl"><seg>MISKTURA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A spray-type wound medicine.\\nIt restores the HP of one POKéMON\\nby 20 points.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lek w formie sprayu.\\nPrzywraca zdrowie POKéMONA o 20\\npunktów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ANTIDOTE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ANTIDOTUM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A spray-type medicine.\\nIt heals one POKéMON from a\\npoisoning.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lek w formie sprayu.\\nLeczy jednego POKéMONA ze stanu\\notrucia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BURN HEAL</seg></tuv>
+      <tuv xml:lang="pl"><seg>LEK OPARZEŃ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A spray-type medicine.\\nIt heals one POKéMON of a burn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lek w formie sprayu.\\nLeczy jednego POKéMONA z poparzeń.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ICE HEAL</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODMRAŻACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A spray-type medicine.\\nIt defrosts a frozen POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lek w formie sprayu.\\nRozmraża jednego z POKéMONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AWAKENING</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRZEBUDZACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A spray-type medicine.\\nIt awakens a sleeping POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lek w formie sprayu.\\nBudzi śpiącego POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PARLYZ HEAL</seg></tuv>
+      <tuv xml:lang="pl"><seg>LEK PARALIŻU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A spray-type medicine.\\nIt heals one POKéMON from\\nparalysis.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lek w formie sprayu.\\nLeczy jednego z POKéMONÓW z\\nparaliżu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FULL RESTORE</seg></tuv>
+      <tuv xml:lang="pl"><seg>PEŁNA ODNOWA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A medicine that fully restores the\\nHP and heals any status problems\\nof one POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lek przywracający pełne zdrowie\\ni leczący wszelkie zmiany stanu\\njednego POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAX POTION</seg></tuv>
+      <tuv xml:lang="pl"><seg>M. MIKSTURA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A spray-type wound medicine.\\nIt fully restores the HP of one\\nPOKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lek w formie sprayu.\\nW pełni przywraca HP jednemu\\nz POKéMONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HYPER POTION</seg></tuv>
+      <tuv xml:lang="pl"><seg>H. MIKSTURA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A spray-type wound medicine.\\nIt restores the HP of one POKéMON\\nby 200 points.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lek w formie sprayu.\\nPrzywraca zdrowie POKéMONA o 200\\npunktów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SUPER POTION</seg></tuv>
+      <tuv xml:lang="pl"><seg>S. MISKTURA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A spray-type wound medicine.\\nIt restores the HP of one POKéMON\\nby 50 points.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lek w formie sprayu.\\nPrzywraca zdrowie POKéMONA o 50\\npunktów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FULL HEAL</seg></tuv>
+      <tuv xml:lang="pl"><seg>UZDROWIENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A spray-type medicine.\\nIt heals all the status problems of\\none POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lek w formie sprayu.\\nLeczy wszystkie zmiany stanu\\njednego POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>REVIVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>OCUCACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A medicine that revives a fainted\\nPOKéMON, restoring HP by half the\\nmaximum amount.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lek w formie sprayu.\\nLeczy wszystkie zmiany stanu\\njednego POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAX REVIVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAKS. OCUCACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A medicine that revives a fainted\\nPOKéMON, restoring HP fully.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Lekarstwo pobudzające omdlałego\\nPOKéMONA. Przywraca całe HP.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FRESH WATER</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚWIEŻA WODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Water with a high mineral content.\\nIt restores the HP of one POKéMON\\nby 50 points.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Woda z dużą zawartością minerałów.\\nPrzywraca HP jednego POKéMONA\\no 50 punktów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A fizzy soda drink.\\nIt restores the HP of one POKéMON\\nby 60 points.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Napój z bąbelkami.\\nPrzywraca HP jednego z POKéMONÓW\\no 60 punktów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LEMONADE</seg></tuv>
+      <tuv xml:lang="pl"><seg>LEMONIADA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A very sweet drink.\\nIt restores the HP of one POKéMON\\nby 80 points.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Słodki napój.\\nPrzywraca HP jednego z POKéMONÓW \\no 80 punktów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MOOMOO MILK</seg></tuv>
+      <tuv xml:lang="pl"><seg>MLEKO MOOMOO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Highly nutritious milk.\\nIt restores the HP of one POKéMON\\nby 100 points.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wysokoodżywcze mleko.\\nPrzywraca HP jednego z POKéMONÓW\\no 100 punktów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ENERGYPOWDER</seg></tuv>
+      <tuv xml:lang="pl"><seg>PROCHENERGII</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A very bitter medicine powder.\\nIt restores the HP of one POKéMON\\nby 50 points.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bardzo gorzki proszek leczniczy.\\nPrzywraca HP jednego POKéMONA\\no 50 punktów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ENERGY ROOT</seg></tuv>
+      <tuv xml:lang="pl"><seg>KORZEŃENERGII</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A very bitter root.\\nIt restores the HP of one POKéMON\\nby 200 points.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Gorzki korzeń.\\nPrzywraca HP jednego z POKéMONÓW\\no 200 punktów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HEAL POWDER</seg></tuv>
+      <tuv xml:lang="pl"><seg>LECZĄCYPROCH</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A very bitter medicine powder.\\nIt heals all the status problems of\\none POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bardzo gorzki proszek leczniczy.\\nLeczy wszystkie zmiany statusu\\nPOKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>REVIVAL HERB</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZIELE OCUCANIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A very bitter medicinal herb.\\nIt revives a fainted POKéMON,\\nrestoring HP fully.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bardzo gorzkie zioło lecznicze.\\nPobudza zemdlonego POKéMONA.\\nPrzywraca całe HP.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ETHER</seg></tuv>
+      <tuv xml:lang="pl"><seg>ETER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Restores a selected move's PP by\\n10 points for one POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przywraca PP wybranego ruchu o\\n10 punktów POKéMONOWI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAX ETHER</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAKS. ETER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Fully restores a selected move's PP\\nfor one POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>W pełni przywraca PP ruchu jednemu\\nz POKéMONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ELIXIR</seg></tuv>
+      <tuv xml:lang="pl"><seg>ELIKSIR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Restores the PP of all moves for\\none POKéMON by 10 points each.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przywraca PP wszystkich ruchów\\njednego POKéMONA o 10 PP każdy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAX ELIXIR</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAKS. ELIKSIR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Fully restores the PP of all moves\\nfor one POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>W pełni przywraca PP wszystkich\\nruchów POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LAVA COOKIE</seg></tuv>
+      <tuv xml:lang="pl"><seg>CIASTKOLAWOWE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LAVARIDGE TOWN's local specialty.\\nIt heals all the status problems of\\none POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Specjalność miasta LAVARIDGE.\\nLeczy wszystkie zmiany stanu\\njednego POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLUE FLUTE</seg></tuv>
+      <tuv xml:lang="pl"><seg>NIEBIESKI FLET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A blue glass flute that awakens\\na sleeping POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Niebieski, szklany flet budzący\\nśpiącego POKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>YELLOW FLUTE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻÓŁTY FLET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A yellow glass flute that snaps one\\nPOKéMON out of confusion.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Żółty, szklany flet otrząsający\\nPOKéMONA z oszołomienia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RED FLUTE</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZERWONY FLET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A red glass flute that snaps one\\nPOKéMON out of infatuation.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czerwony, szklany flet wyciągający\\nPOKéMONA z zauroczenia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLACK FLUTE</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZARNY FLET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A black glass flute.\\nWhen blown, it makes wild POKéMON\\nless likely to appear.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czarny, szklany flet.\\nPowoduje, że dzikie POKéMONY\\npojawiają się rzadziej.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WHITE FLUTE</seg></tuv>
+      <tuv xml:lang="pl"><seg>BIAŁY FLET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A white glass flute.\\nWhen blown, it makes wild POKéMON\\nmore likely to appear.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Biały, szklany flet.\\nPowoduje, że dzikie POKéMONY\\npojawiają się częściej.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BERRY JUICE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SOK JAGODOWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A 100% pure juice.\\nIt restores the HP of one POKéMON\\nby 20 points.</seg></tuv>
+      <tuv xml:lang="pl"><seg>100% czystego soku.\\nPrzywraca HP jednego POKéMONA\\no 20 punktów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SACRED ASH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚWIĘTY POPIÓŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Revives all fainted POKéMON,\\nrestoring HP fully.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pobudza wszystkie POKéMONY\\nprzywracając całe HP.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHOAL SALT</seg></tuv>
+      <tuv xml:lang="pl"><seg>SÓL ŁAWICZNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Pure salt obtained from deep inside\\nthe SHOAL CAVE. It is extremely\\nsalty.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czysta sól znaleziona w głębi\\nŁAWICZNEJ JASKINI.\\n\\nJest nieziemsko słona.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHOAL SHELL</seg></tuv>
+      <tuv xml:lang="pl"><seg>MUSZLAŁAWICZN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A pretty seashell found deep inside\\nthe SHOAL CAVE. It is striped in\\nblue and white.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Piękna muszla znaleziona w głębi\\nŁAWICZNEJ JASKINI. Pokryta\\n\\nniebieskimi i białymi paskami.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RED SHARD</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZER. ODŁAMEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A small red shard.\\nIt appears to be from some sort of\\na tool made long ago.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mała czerwona skorupa.\\nWydaje się być częścią jakiegoś\\ndawnego narzędzia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLUE SHARD</seg></tuv>
+      <tuv xml:lang="pl"><seg>NIEB. ODŁAMEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A small blue shard.\\nIt appears to be from some sort of\\na tool made long ago.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mała niebieska skorupa.\\nWydaje się być częścią jakiegoś\\ndawnego narzędzia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>YELLOW SHARD</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻÓŁTY ODŁAMEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A small yellow shard.\\nIt appears to be from some sort of\\na tool made long ago.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mała żółta skorupa.\\nWydaje się być częścią jakiegoś\\ndawnego narzędzia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GREEN SHARD</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZIEL. ODŁAMEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A small green shard.\\nIt appears to be from some sort of\\na tool made long ago.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mała zielona skorupa.\\nWydaje się być częścią jakiegoś\\ndawnego narzędzia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HP UP</seg></tuv>
+      <tuv xml:lang="pl"><seg>WZROST HP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A nutritious drink for POKéMON.\\nIt raises the base HP of one\\nPOKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Odżywczy napój dla POKéMONA.\\nZwiększa podstawowe HP jednego\\nPOKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PROTEIN</seg></tuv>
+      <tuv xml:lang="pl"><seg>BIAŁKO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A nutritious drink for POKéMON.\\nIt raises the base ATTACK stat of\\none POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Odżywczy napój dla POKéMONA.\\nZwiększa statystykę ATAKU\\njednego POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>IRON</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻELAZO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A nutritious drink for POKéMON.\\nIt raises the base DEFENSE stat of\\none POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Odżywczy napój dla POKéMONA.\\nZwiększa statystykę ATAKU\\njednego POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CARBOS</seg></tuv>
+      <tuv xml:lang="pl"><seg>WĘGLOWODANY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A nutritious drink for POKéMON.\\nIt raises the base SPEED stat of\\none POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Odżywczy napój dla POKéMONA.\\nZwiększa statystykę ATAKU\\njednego POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CALCIUM</seg></tuv>
+      <tuv xml:lang="pl"><seg>WAPŃ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A nutritious drink for POKéMON.\\nIt raises the base SP. ATK stat\\nof one POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Odżywczy napój dla POKéMONA.\\nZwiększa SP. ATAK jednego\\nz POKéMONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RARE CANDY</seg></tuv>
+      <tuv xml:lang="pl"><seg>CUKIEREK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A candy that is packed with energy.\\nIt raises the level of a POKéMON\\nby one.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Cukierek wypełniony energią.\\nZwiększa poziom jednego POKéMONA\\no jeden.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PP UP</seg></tuv>
+      <tuv xml:lang="pl"><seg>WZROST PP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Slightly raises the maximum PP of\\na selected move for one POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nieznacznie zwiększa maksymalne PP\\nwybranego ruchu POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ZINC</seg></tuv>
+      <tuv xml:lang="pl"><seg>CYNK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A nutritious drink for POKéMON.\\nIt raises the base SP. DEF stat\\nof one POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Odżywczy napój dla POKéMONA.\\nZwiększa SP. ATAK jednego\\nz POKéMONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PP MAX</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAKSYMALNE PP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Raises the PP of a selected move\\nto its maximum level for one\\nPOKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwiększa PP wybranego ruchu\\ndo maksymalnego stanu\\njednego POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GUARD SPEC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>OCHRONASPEC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item that prevents stat reduction\\namong party POKéMON for five turns\\nafter use.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot nie pozwalający obniżyć\\nstatystyki POKéMONÓW w drużynie\\nprzez pięć tur.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DIRE HIT</seg></tuv>
+      <tuv xml:lang="pl"><seg>POTĘŻNY CIOS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Raises the critical-hit ratio of\\nPOKéMON in battle. Wears off if the\\nPOKéMON is withdrawn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwiększa szansę krytycznego\\ntrafienia w walce. Przestaje działać\\nprzy wycofaniu POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>X ATTACK</seg></tuv>
+      <tuv xml:lang="pl"><seg>X ATAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Raises the ATTACK stat of POKéMON\\nin battle. Wears off if the POKéMON\\nis withdrawn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwiększa ATAK POKéMONA\\nw walce. Przestaje działać, gdy\\nPOKéMON zostanie wycofany.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>X DEFEND</seg></tuv>
+      <tuv xml:lang="pl"><seg>X OBRONA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Raises the DEFENSE stat of POKéMON\\nin battle. Wears off if the POKéMON\\nis withdrawn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwiększa ATAK POKéMONA\\nw walce. Przestaje działać, gdy\\nPOKéMON zostanie wycofany.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>X SPEED</seg></tuv>
+      <tuv xml:lang="pl"><seg>X SZYBKOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Raises the SPEED stat of POKéMON\\nin battle. Wears off if the POKéMON\\nis withdrawn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwiększa ATAK POKéMONA\\nw walce. Przestaje działać, gdy\\nPOKéMON zostanie wycofany.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>X ACCURACY</seg></tuv>
+      <tuv xml:lang="pl"><seg>X CELNOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Raises the accuracy stat of\\nPOKéMON in battle. Wears off if the\\nPOKéMON is withdrawn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwiększa CELNOŚĆ POKéMONA\\nw walce. Przestaje działać, gdy\\nPOKéMON zostaje wycofany.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>X SPECIAL</seg></tuv>
+      <tuv xml:lang="pl"><seg>X SPECJALNE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Raises the SP. ATK stat of\\nPOKéMON in battle. Wears off if the\\nPOKéMON is withdrawn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwiększa SP. ATAK POKéMONA\\nw walce. Przestaje działać, gdy\\nPOKéMON zostaje wycofany.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POK\u00e9 DOLL</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKÉ\u00e9 LALKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An attractive doll.\\nUse it to flee from any battle with\\na wild POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przyciągająca lalka.\\nUżywana, by uciec z walki z dzikim\\nPOKéMONEM.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FLUFFY TAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>PUSZYSTY OGON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An attractive item.\\nUse it to flee from any battle with\\na wild POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przyciągająca lalka.\\nUżywana, by uciec z walki z dzikim\\nPOKéMONEM.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SUPER REPEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>S. ODGANIACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Prevents weak wild POKéMON from\\nappearing for 200 steps.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Słabe, dzikie POKéMONY nie atakują\\nprzez 200 kroków.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAX REPEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>M. ODGANIACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Prevents weak wild POKéMON from\\nappearing for 250 steps.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Słabe, dzikie POKéMONY nie atakują\\nprzez 250 kroków.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ESCAPE ROPE</seg></tuv>
+      <tuv xml:lang="pl"><seg>LINAUCIECZKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A long, durable rope.\\nUse it to escape instantly from a\\ncave or a dungeon.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Długa, trwała lina.\\nUżywana, by uciec natychmiast\\nz lochu lub jaskini.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>REPEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODGANIACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Prevents weak wild POKéMON from\\nappearing for 100 steps.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Słabe, dzikie POKéMONY nie atakują\\nprzez 100 kroków.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SUN STONE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KAMIEŃ SŁOŃCA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is as red as the sun.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szczególny kamień powodujący, że\\nniektóre POKéMONY ewoluują.\\nJest czerwony jak słońce.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MOON STONE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KAMIEŃ KSIĘŻ.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is as black as the night sky.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szczególny kamień powodujący, że\\nniektóre POKéMONY ewoluują.\\nJest czarny jak nocne niebo.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FIRE STONE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KAMIEŃ OGNIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is colored orange.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szczególny kamień powodujący, że\\nniektóre POKéMONY ewoluują.\\nJest pomarańczowy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THUNDERSTONE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KAMIEŃ GROMU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt has a thunderbolt pattern.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szczególny kamień powodujący, że\\nniektóre POKéMONY ewoluują.\\nMa na sobie symbol błyskaiwcy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WATER STONE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KAMIEŃ WODY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is a clear light blue.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szczególny kamień powodujący, że\\nniektóre POKéMONY ewoluują.\\nJest jasnobłękitny.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LEAF STONE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KAMIEŃLIŚCIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt has a leaf pattern.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szczególny kamień powodujący, że\\nniektóre POKéMONY ewoluują.\\nMa na sobie symbol błyskaiwcy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TINYMUSHROOM</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAŁY MUCHOMOR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A small and rare mushroom.\\nIt is quite popular among certain\\npeople.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mały i rzadki muchomor.\\nJest dość popularny wśrą{38} niektórych\\nludzi.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BIG MUSHROOM</seg></tuv>
+      <tuv xml:lang="pl"><seg>DUŻY MUCHOMOR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A large and rare mushroom.\\nIt is very popular among certain\\npeople.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wielki, rzadki muchomor.\\nJest popularny wśród niektórych\\nludzi.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PEARL</seg></tuv>
+      <tuv xml:lang="pl"><seg>PERŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A relatively small pearl that\\nsparkles in a pretty silver color.\\nIt can be sold cheaply.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mała perła świecąca pięknym,\\nsrebrnym blaskiem. Można ją\\nsprzedać za skromną sumkę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BIG PEARL</seg></tuv>
+      <tuv xml:lang="pl"><seg>DUŻA PERŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A quite-large pearl that sparkles\\nin a pretty silver color.\\nIt can be sold at a high price.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dość duża perła świecąca pięknym,\\nsrebrnym blaskiem. Można ją\\nsprzedać za skromną sumkę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STARDUST</seg></tuv>
+      <tuv xml:lang="pl"><seg>GWIEZDNY PYŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A pretty red sand with a loose,\\nsilky feel.\\nIt can be sold at a high price.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Piękny, czerwony piasek.\\nJedwabny w dotyku. Można\\ngo drogo sprzedać.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STAR PIECE</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZĘŚĆ GWIAZDY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A shard of a pretty gem that\\nsparkles in a red color.\\nIt can be sold at a high price.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Skorupa pięknego klejnotu\\nbłyszcząca na czerwono.\\nMożna ją drogo sprzedać.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NUGGET</seg></tuv>
+      <tuv xml:lang="pl"><seg>SAMORODEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A nugget of pure gold that gives\\noff a lustrous gleam.\\nIt can be sold at a high price.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Samorodek ze szczerego złota.\\nBłyszczy na złoto.\\nMożna go bardzo drogo sprzedać.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HEART SCALE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SERCOWA ŁUSKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A pretty, heart-shaped scale that\\nis extremely rare. It glows faintly\\nin the colors of a rainbow.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Piękna łuska w kształcie serca.\\nNiezwykle rzadka. Delikatnie mieni\\nsię kolorami tęczy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ORANGE MAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>ORANŻOWY LIST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A piece of MAIL featuring a cute\\nZIGZAGOON print.\\nIt is to be held by a POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST zawierający nadruk z\\nZIGZAGOONEM. Daje się go\\ndo trzymania POKéMONOWI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HARBOR MAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>PORTOWY LIST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A piece of MAIL featuring a cute\\nWINGULL print.\\nIt is to be held by a POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST zawierający nadruk z\\nWINGULLEM. Daje się go\\ndo trzymania POKéMONOWI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GLITTER MAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚWIECĄCY LIST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A piece of MAIL featuring a cute\\nPIKACHU print.\\nIt is to be held by a POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST zawierający nadruk ze\\nsłodkim PIKACHU.\\nMoże być trzymany przez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MECH MAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>STALOWY LIST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A piece of MAIL featuring a cute\\nMAGNEMITE print.\\nIt is to be held by a POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST zawierający nadruk z\\nMAGNEMITEM.\\nMoże być trzymany przez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WOOD MAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>DREWNIANY LIST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A piece of MAIL featuring a cute\\nSLAKOTH print.\\nIt is to be held by a POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST zawierający nadruk ze\\nSLAKOTHEM.\\nMoże być trzymany przez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WAVE MAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>MORSKI LIST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A piece of MAIL featuring a cute\\nWAILMER print.\\nIt is to be held by a POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST zawierający nadruk z\\nWAILMEREM.\\nMoże być trzymany przez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BEAD MAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>KORALOWY LIST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A piece of MAIL to be held by a\\nPOKéMON. It will bear the print of\\nthe POKéMON holding it.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST który może być trzymany\\nprzez POKéMONA. Nadrukiem jest\\nobrazek POKéMONA trzymającego.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHADOW MAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST CIENIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A piece of MAIL featuring a cute\\nDUSKULL print.\\nIt is to be held by a POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST zawierający nadruk z\\nDUSKULLEM.\\nMoże być trzymany przez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TROPIC MAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>TROPIKOWY LIST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A piece of MAIL featuring a cute\\nBELLOSSOM print.\\nIt is to be held by a POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST zawierający nadruk z\\nBELLOSSOMEM.\\nMoże być trzymany przez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DREAM MAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST MARZEŃ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FAB MAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>ELEGANCKI LIST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A piece of MAIL featuring a\\ngorgeous, extravagant print.\\nIt is to be held by a POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST zawierający niesamowicie\\npiękny nadruk.\\nMoże być trzymany przez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RETRO MAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST WSPOMNIEŃ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A piece of MAIL featuring a print\\nof three cute POKéMON.\\nIt is to be held by a POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST zawierający nadruk z trzema\\nsłodkimi POKéMONAMI.\\nMoże być trzymany przez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CHERI BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>CHERIJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it will be\\nused in battle to heal paralysis.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy trzymana przez POKéMONA,\\nleczy go z paraliżu w trakcie walki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CHESTO BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>CHESTOJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it will be\\nused in battle to wake up.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy trzymana przez POKéMONA,\\nobudzi go w trakcie walki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PECHA BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>PECHAJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it will be\\nused in battle to cure poison.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy trzymana przez POKéMONA,\\nodtruje go w trakcie walki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RAWST BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>RAWSTJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it will be\\nused in battle to heal a burn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy trzymana przez POKéMONA,\\nukoi poparzenia w trakcie walki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ASPEAR BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>ASPEARJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it will be\\nused in battle for defrosting.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy trzymana przez POKéMONA,\\nrozmrozi go w trakcie walki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LEPPA BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>LEPPAJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it will be\\nused in battle to restore 10 PP.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy trzymana przez POKéMONA,\\nprzywróci mu 10 PP w trakcie walki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ORAN BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>ORANJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it will be\\nused in battle to restore 10 HP.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy trzymana przez POKéMONA,\\nprzywróci mu 10 PP w trakcie walki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PERSIM BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>PERSIMJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it will be\\nused in battle to lift confusion.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy trzymana przez POKéMONA,\\nzniweluje oszołomienie w walce.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LUM BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>LUMJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it will be\\nused in battle to heal any problem.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy trzymana przez POKéMONA,\\nwyleczy każdą zmianę stanu w walce.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SITRUS BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>SITRUSJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it will be\\nused in battle to restore 30 HP.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy trzymana przez POKéMONA,\\nprzywróci mu 30 PP w trakcie walki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FIGY BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>FIGYJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A hold item that restores HP but\\nmay cause confusion when used.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania. Przywraca\\nHP, ale może oszołomić.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WIKI BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIKIJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAGO BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAGOJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AGUAV BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>AGUAVJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>IAPAPA BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>IAPAPAJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RAZZ BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>RAZZJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Can be ground up into a powder as\\nan ingredient for medicine.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Może zostać zmielona na proszek\\njako składnik do lekarstwa.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLUK BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>BLUKJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NANAB BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>NANABJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WEPEAR BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>WEPEARJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PINAP BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>PINAPJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POMEG BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>POMEGJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>KELPSY BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KELPSYJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>QUALOT BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>QUALOTJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HONDEW BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>HONDEWJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GREPA BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>GREPAJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TAMATO BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>TAMATOJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CORNN BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>CORNNJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAGOST BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAGOSTJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RABUTA BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>RABUTAJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NOMEL BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>NOMELJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SPELON BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>SPELONJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PAMTRE BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>PAMTREJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WATMEL BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>WATMELJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DURIN BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>DURINJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BELUE BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>BELUEJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LIECHI BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIECHIJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it raises\\nthe ATTACK stat in a pinch.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwiększa lekko ATAK, gdy trzymana\\nprzez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GANLON BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>GANLONJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it raises\\nthe DEFENSE stat in a pinch.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwiększa lekko OBRONĘ, gdy trzymana\\nprzez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SALAC BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>SALACJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it raises\\nthe SPEED stat in a pinch.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwiększa lekko SZYBKOŚĆ, gdy\\ntrzymana przez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PETAYA BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>PETAYAJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it raises\\nthe SP. ATK stat in a pinch.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwiększa lekko SP. ATAK, gdy\\ntrzymana przez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>APICOT BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>APICOTJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it raises\\nthe SP. DEF stat in a pinch.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwiększa lekko SP. OBR, gdy\\ntrzymana przez POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LANSAT BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>LANSATJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it raises\\nthe critical-hit ratio in a pinch.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy trzymana przez POKéMONA,\\nzwiększa lekko częstotliwość ciosów krytyczych.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STARF BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>STARFJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When held by a POKéMON, it sharply\\nraises one stat in a pinch.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy trzymana przez POKéMONA\\nzwiększa lekko jedną ze statystyk.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ENIGMA BERRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>ENIGMAJAGODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BRIGHTPOWDER</seg></tuv>
+      <tuv xml:lang="pl"><seg>JASNY PROSZEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt casts a tricky glare that lowers\\nthe opponent's accuracy.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nOślepia wroga blaskiem obniżającym jego\\ncelność.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WHITE HERB</seg></tuv>
+      <tuv xml:lang="pl"><seg>BIAŁE ZIELE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt restores any lowered stat in\\nbattle. It can be used only once.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nPrzywraca każdą obniżoną w walce statystykę.\\nDo jednorazowego użytku.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MACHO BRACE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KLAMRA MACZO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt promotes strong growth but\\nlowers SPEED while it is held.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nZwiększa przyrost masy mięśniowej,\\nobniżając SZYBKOŚĆ.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EXP. SHARE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ROZDZIELACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nThe holder gets a share of EXP.\\npoints without having to battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nTrzymający otrzymuje punkty EXP.\\nbez potrzeby udziału w walce.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>QUICK CLAW</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZYBKI PAZUR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA light and sharp claw. The holder\\nmay be able to strike first.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nJasny i ostry pazur. Trzymający ma większą\\nszansę na pierwszy atak.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SOOTHE BELL</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOJĄCY DZWONEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA bell with a comforting chime that\\nmakes the holder calm and friendly.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nDelikatnie brzmiący dzwoneczek.\\nUspakaja POKéMONA, któremu został założony.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MENTAL HERB</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZIELE UMYSŁU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt snaps the holder out of\\ninfatuation. It can be used once.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nOtrząsa trzymającego z zauroczenia.\\nDo jednorazowego użytku.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CHOICE BAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>OPASKA WYBORU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt powers up one move, which\\nbecomes the only usable one.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nZwiększa siłę jednego ataku, staje się\\non jedynym używalnym ruchem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>KING'S ROCK</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKAŁA KRÓLA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt may cause the foe to flinch\\nupon taking damage.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nWrogi POKéMON zadający obrażenia\\nmoże się potknąć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SILVERPOWDER</seg></tuv>
+      <tuv xml:lang="pl"><seg>PROSZEK SREBRA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA shiny silver powder that boosts\\nthe power of BUG-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nŚwiecący, srebrny proszek zwiększający siłę\\nataków typu ROBACZEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AMULET COIN</seg></tuv>
+      <tuv xml:lang="pl"><seg>MONETA AMULET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt doubles the battle money if the\\nholding POKéMON takes part.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nZwiększa dwukrotnie przychód z walk, w\\nktórych brał udział trzymający.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CLEANSE TAG</seg></tuv>
+      <tuv xml:lang="pl"><seg>NALEPKAOBRONY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt repels wild POKéMON if the\\nholder is first in the party.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nOdpędza dzikie POKéMONY, jeśli\\ntrzymający jest pierwszy w drużynie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SOUL DEW</seg></tuv>
+      <tuv xml:lang="pl"><seg>ROSA DUSZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An orb to be held by a LATIOS or\\nLATIAS. It raises the SP. ATK\\nand SP. DEF stats.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kula do trzymania przez LATIOSA\\nlub LATIASA. Zwiększa SP. ATK\\ni SP. OBR.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DEEPSEATOOTH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZĄB GŁĘBI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA fang that gleams a sharp silver.\\nIt raises the SP. ATK stat.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nPazur błyszczący srebrnym blaskiem.\\nZwiększa statystykę SP. ATAKU.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DEEPSEASCALE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁUSKA GŁĘBIN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA scale that shines a faint pink.\\nIt raises the SP. DEF stat.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nKamień mieniący się łagodnym różowym kolorem.\\nZwiększa SP. OBRONĘ.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SMOKE BALL</seg></tuv>
+      <tuv xml:lang="pl"><seg>KULA DYMNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nThe holding POKéMON can flee from\\nany wild POKéMON for sure.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nTrzymający POKéMON może uciec przed\\nkażdym dzikim POKéMONEM.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EVERSTONE</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIECZNYKAMIEŃ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nThe holding POKéMON is prevented\\nfrom evolving.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nTrzymający POKéMON nie może\\nprzejść ewolucji.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FOCUS BAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>OPASKA SKUP.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nThe holding POKéMON may endure an\\nattack, leaving just 1 HP.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nTrzymający POKéMON może stłumić atak,\\npozostawiając sobie choć 1 HP.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LUCKY EGG</seg></tuv>
+      <tuv xml:lang="pl"><seg>JAJO SZCZĘŚCIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nAn egg filled with happiness that\\nearns extra EXP. points in battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nJajo wypełnione szczęściem, pozwala\\nzarobić dodatkowe EXP. w walce.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SCOPE LENS</seg></tuv>
+      <tuv xml:lang="pl"><seg>SOCZEWKA CELU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA lens that boosts the critical-hit\\nratio of the holding POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nSoczewki podbijające szanse na krytyczne\\nciosy trzymającego POKéMONA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>METAL COAT</seg></tuv>
+      <tuv xml:lang="pl"><seg>POWŁOKA METALU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA special metallic film that boosts\\nthe power of STEEL-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nSpecjalna metaliczna powłoka\\nZwiększa moc STALOWYCH ruchów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LEFTOVERS</seg></tuv>
+      <tuv xml:lang="pl"><seg>RESZTKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nThe holding POKéMON gradually\\nregains HP during battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nTrzymający POKéMON stopniowo odzyskuje\\nutracone HP w walce.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DRAGON SCALE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SMOCZA ŁUSKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A thick and tough scale.\\nA DRAGON-type POKéMON may be\\nholding it.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Gruba i twarda łuska.\\nMoże być trzymana przez POKéMONA\\nSMOKA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LIGHT BALL</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚWIETLNA KULA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An orb to be held by a PIKACHU\\nthat raises the SP. ATK stat.\\nTouching it may cause a shock.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kula do trzymania przez PIKACHU,\\nzwiększająca SP. ATK.\\nDotknięcie jej grozi porażeniem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SOFT SAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIĘKKI PIASEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA loose, silky sand that boosts the\\npower of GROUND-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nDelikatny, jedwabisty piasek zwiększający\\nsiłę ataków typu ZIEMNEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HARD STONE</seg></tuv>
+      <tuv xml:lang="pl"><seg>TWARDY KAMIEŃ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nAn unbreakable stone that boosts\\nthe power of ROCK-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nNiezniszczalny kamień zwiększający siłę\\nataków typu KAMIENNEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MIRACLE SEED</seg></tuv>
+      <tuv xml:lang="pl"><seg>NASIONO CUDU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA seed imbued with life that boosts\\nthe power of GRASS-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nNasienie przesycone życiem, zwiększający\\nsiłę ataków TRAWIASTYCH.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLACKGLASSES</seg></tuv>
+      <tuv xml:lang="pl"><seg>CIEMNE OKULARY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA shady-looking pair of glasses\\nthat boosts DARK-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nPrzyciemnione okulary zwiększające\\nsiłę ataków typu MROCZNEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLACK BELT</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZARNY PAS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA belt that boosts determination\\nand FIGHTING-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nPas zwiększający zawzięcie i siłę\\nataków typu WALCZĄCEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAGNET</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAGNES</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA powerful magnet that boosts the\\npower of ELECTRIC-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nPotężny magnes zwiększający siłę\\nataków typu ELEKTRYCZNEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MYSTIC WATER</seg></tuv>
+      <tuv xml:lang="pl"><seg>MISTYCZNAWODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA teardrop-shaped gem that boosts\\nthe power of WATER-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nKlejnot w kształcie łzy zwiększający siłę\\nataków typu WODNEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHARP BEAK</seg></tuv>
+      <tuv xml:lang="pl"><seg>OSTRY DZIÓB</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA long, sharp beak that boosts the\\npower of FLYING-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nDługi, ostry dziób zwiększający siłę\\nataków typu LATAJĄCEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POISON BARB</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRUJĄCY KOLEC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA small, poisonous barb that boosts\\nthe power of POISON-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nMały, trujący kolec zwiększający siłę\\nataków typu TRUJĄCEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NEVERMELTICE</seg></tuv>
+      <tuv xml:lang="pl"><seg>NIETOPLIWYLÓD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA piece of ice that repels heat\\nand boosts ICE-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nKawałek lodu pochłaniający ciepło.\\nZwiększa siłę LODOWYCH ataków.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SPELL TAG</seg></tuv>
+      <tuv xml:lang="pl"><seg>NALEPKA KLĄTWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA sinister, eerie tag that boosts\\nGHOST-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nZłowieszcza, zła etykieta.\\nZwiększa siłę ataków DUCHÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TWISTEDSPOON</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYGIĘTA ŁYŻKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA spoon imbued with telekinetic\\npower boosts PSYCHIC-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nŁyżka wygięta mocami telekinetycznymi.\\nZwiększa siłę ataków PSYCHICZNYCH.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CHARCOAL</seg></tuv>
+      <tuv xml:lang="pl"><seg>WĘGIEL DRZEWNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA combustible fuel that boosts the\\npower of FIRE-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nMateriał opałowy zwiększający siłę\\nataków typu OGNISTEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DRAGON FANG</seg></tuv>
+      <tuv xml:lang="pl"><seg>SMOCZY KIEŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA hard and sharp fang that boosts\\nthe power of DRAGON-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nTwardy i ostry pazur, zwiększający\\nsiłę ataków typu SMOCZEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SILK SCARF</seg></tuv>
+      <tuv xml:lang="pl"><seg>JEDWABNY SZAL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nA sumptuous scarf that boosts the\\npower of NORMAL-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nWystawna chustka zwiększająca siłę\\nataków typu NORMALNEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>UP-GRADE</seg></tuv>
+      <tuv xml:lang="pl"><seg>AKTUALIZACJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A transparent device filled with all\\nsorts of data.\\nIt is made by SILPH CO.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przezroczyste urządzenie wypełnione\\ndanymi.\\nWyprodukowane przez SILPH CO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHELL BELL</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZWONEK-MUSZLA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nThe holding POKéMON regains some\\nHP upon striking the foe.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nTrzymający POKéMON odzyskuje trochę HP\\npodczas ataku na wroga.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SEA INCENSE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KAD. MORZA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt slightly boosts the power of\\nWATER-type moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nLekko zwiększa siłę ataków typu\\nWODNEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LAX INCENSE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KADZ. SPOKOJU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIts tricky aroma slightly reduces\\nthe foe's accuracy.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nJego niecodzienny zapach zmniejsza lekko\\ncelność wroga.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LUCKY PUNCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>CIOS SZCZĘŚCIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A glove to be held by a CHANSEY.\\nIt raises CHANSEY's critical-hit\\nratio.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Rękawica do trzymania dla\\nCHANSEY.\\nZwiększa szansę na cios krytyczny.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>METAL POWDER</seg></tuv>
+      <tuv xml:lang="pl"><seg>PROSZEKMETALU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A fine, hard powder to be held by\\na DITTO.\\nIt raises DITTO's DEFENSE stat.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Solidny, szorstki proszek do\\ntrzymania przez DITTO.\\nZwiększa jego OBRONĘ.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THICK CLUB</seg></tuv>
+      <tuv xml:lang="pl"><seg>GRUBA KOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A hard bone of some sort to be\\nheld by a CUBONE or MAROWAK.\\nIt raises the ATTACK stat.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Twarda kość do trzymania dla\\nCUBONE'A bądź MAROWAKA.\\nZwiększa ich statystykę ATAKU.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STICK</seg></tuv>
+      <tuv xml:lang="pl"><seg>PATYK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A stick of leek to be held by a\\nFARFETCH'D. It raises FARFETCH'D's\\ncritical-hit ratio.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Liść pora do trzymania przez\\nFARFETCH'DA. Zwiększa szanse na\\nzadanie ciosu krytycznego.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RED SCARF</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZER. SZALIK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nCOOL condition in CONTESTS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nZwiększa stan COOL POKéMONA\\nw czasie KONKURSÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLUE SCARF</seg></tuv>
+      <tuv xml:lang="pl"><seg>NIEB. SZALIK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nBEAUTY condition in CONTESTS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nZwiększa stan COOL POKéMONA\\nw czasie KONKURSÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PINK SCARF</seg></tuv>
+      <tuv xml:lang="pl"><seg>RÓŻOWY SZALIK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nCUTE condition in CONTESTS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nZwiększa stan COOL POKéMONA\\nw czasie KONKURSÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GREEN SCARF</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZIEL. SZALIK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nSMART condition in CONTESTS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nZwiększa stan COOL POKéMONA\\nw czasie KONKURSÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>YELLOW SCARF</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻÓŁTY SZALIK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nTOUGH condition in CONTESTS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot do trzymania.\\nZwiększa stan COOL POKéMONA\\nw czasie KONKURSÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MACH BIKE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOLARKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A folding bicycle that is at least\\ntwice as fast as walking.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Składany rower poruszający się\\ndwa razy szybciej niż pieszy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COIN CASE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ETUINAŻETONY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A case for holding COINS obtained\\nat the GAME CORNER.\\nIt holds up to 9,999 COINS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pokrowiec na ŻETONY otrzymany w\\nSALONIE GIER.\\nMoże przechować do 9,999 ŻETONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ITEMFINDER</seg></tuv>
+      <tuv xml:lang="pl"><seg>RZECZOSZUKACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A device used for finding items.\\nIf there is a hidden item nearby\\nwhen it is used, it emits a signal.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Urządzenie służące do szukania\\nprzedmiotów. Emituje sygnał, gdy\\nw pobliżu ukryty jest przedmiot.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OLD ROD</seg></tuv>
+      <tuv xml:lang="pl"><seg>STARA WĘDKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An old and beat-up fishing rod.\\nUse it by any body of water to \\nfish for wild POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Stara, zużyta wędka.\\nUżyj jej przy dowolnej tafli wody, by\\nłowić dzikie POKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GOOD ROD</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOBRA WĘDKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A new, good-quality fishing rod.\\nUse it by any body of water to \\nfish for wild POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wysokiej jakości wędka.\\nUżyj jej przy dowolnej tafli wody,\\nby łowić dzikie POKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SUPER ROD</seg></tuv>
+      <tuv xml:lang="pl"><seg>SUPER WĘDKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An awesome, high-tech fishing rod.\\nUse it by any body of water to fish\\nfor wild POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Świetna, nowoczesna wędka.\\nUżyj jej przy dowolnej tafli wody, by\\nłowić dzikie POKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>S.S. TICKET</seg></tuv>
+      <tuv xml:lang="pl"><seg>BILET NA PROM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The ticket required for sailing on\\nthe ferry S.S. ANNE.\\nIt has a drawing of a ship on it.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bilet wymagany, by dostać się\\nna pokład promu S.S. ANNA.\\nMa na sobie rysunek statku.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CONTEST PASS</seg></tuv>
+      <tuv xml:lang="pl"><seg>BILETNAPOKAZY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The pass required for entering\\nPOKéMON CONTESTS. It has a\\ndrawing of an award ribbon on it.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przepustka wymagana do wzięcia\\nudziału w KONKURSACH. Ma na\\nsobie rysunek wstęgi.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WAILMER PAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>WAILMER-NEWKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A nifty watering pail.\\nUse it to promote strong growth in\\nBERRIES planted in soft soil.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wydajna konewka.\\nUżywana, by zwiększyć prędkość wzrostu\\nJAGÓD zasianych w glebie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DEVON GOODS</seg></tuv>
+      <tuv xml:lang="pl"><seg>TOWARY DEVON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A package that contains mechanical\\nparts of some sort made by the\\nDEVON CORPORATION.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Paczka zawierająca mechaniczne\\nczęści stworzone przez\\nKORPORACJE DEVON.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SOOT SACK</seg></tuv>
+      <tuv xml:lang="pl"><seg>TORBA NA PYŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A sack used to collect volcanic\\nash automatically during walks\\nover deep ash.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wór używany do automatycznego\\nzbierania pyłu wulkanicznego\\nw trakcie podróży.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BASEMENT KEY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KLUCZ WATTSON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The key to NEW MAUVILLE, which\\nwas constructed beneath MAUVILLE\\nCITY.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Klucz do NEW MAUVILLE, budowanego\\nprzy MAUVILLE CITY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ACRO BIKE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ROWER BMX</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A folding bicycle that is capable\\nof stunts like jumps and wheelies.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Składany rower umożliwiający\\nwykonywanie różnych sztuczek.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A case for holding {POKEBLOCK}S made\\nwith a BERRY BLENDER. It releases\\none {POKEBLOCK} when shaken.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pojemnik na {POKEBLOCK}I przygotowane\\nw BERRY BLENDER. Wypuszcza\\njeden {POKEBLOCK} gdy jest wstrząśnięty.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LETTER</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An extremely important letter to\\nSTEVEN from the PRESIDENT of the\\nDEVON CORPORATION.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Niesamowicie ważny list od\\nSTEVENA dla PREZESA KORPORACJI\\nDEVON.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EON TICKET</seg></tuv>
+      <tuv xml:lang="pl"><seg>BILET EON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The ticket required for sailing on a\\nferry to a distant southern island.\\nIt features a drawing of an island.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bilet wymagany do podróży promem na\\nodległą południową wyspę.\\nNarysowana jest na nim wyspa.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RED ORB</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZERWONA KULA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An orb that glows red.\\nIt is said to contain an incredible\\npower from ancient times.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kula świecąca się na czerwono.\\nPodobno zawiera niesamowitą moc\\npradawnych czasów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLUE ORB</seg></tuv>
+      <tuv xml:lang="pl"><seg>NIEBIESKA KUL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An orb that glows blue.\\nIt is said to contain an incredible\\npower from ancient times.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kula świecąca się na niebiesko.\\nPodobno zawiera niesamowitą moc\\npradawnych czasów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SCANNER</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKANER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A device used to search for\\nlife-forms in water.\\nIt looks too difficult to use.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Urządzenie używane do\\nwyszukiwania życia pod wodą.\\nZbyt skomplikowane, aby używać.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GO-GOGGLES</seg></tuv>
+      <tuv xml:lang="pl"><seg>GO-GOGLE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A pair of protective goggles.\\nThey enable a TRAINER to travel\\nthrough even desert sandstorms.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Para ochronnych goggli.\\nPozwalają trenerowi podróżować nawet\\nprzez burzę piaskową.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>METEORITE</seg></tuv>
+      <tuv xml:lang="pl"><seg>METEORYT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A meteorite that fell from space\\nonto MT. MOON long ago.\\nIt is very lumpy and hard.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Meteoryt, który spadł dawno temu\\nna KSIĘŻYCOWĄ GÓRĘ.\\nJest bryłowaty i twardy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RM. 1 KEY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KLUCZ DO P. 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A key that opens the door to Room\\n1 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Klucz otwierający drzwi do Pokoju\\nnr 1 wewnątrz OPUSZCZONEGO STATKU.\\nJest stary i łamliwy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RM. 2 KEY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KLUCZ DO P. 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A key that opens the door to Room\\n2 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Klucz otwierający drzwi do Pokoju\\nnr 2 wewnątrz OPUSZCZONEGO STATKU.\\nJest stary i łamliwy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RM. 4 KEY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KLUCZ DO P. 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A key that opens the door to Room\\n4 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Klucz otwierający drzwi do Pokoju\\nnr 4 wewnątrz OPUSZCZONEGO STATKU.\\nJest stary i łamliwy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RM. 6 KEY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KLUCZ DO P. 6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A key that opens the door to Room\\n6 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Klucz otwierający drzwi do Pokoju\\nnr 6 wewnątrz OPUSZCZONEGO STATKU.\\nJest stary i łamliwy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STORAGE KEY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KLUCZDOŁADOWN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A key that opens the storage hold\\ninside the ABANDONED SHIP.\\nIt is old and looks easily broken.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Klucz otwierający składzik\\nwewnątrz OPUSZCZONEGO STATKU.\\nJest stary i łamliwy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROOT FOSSIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKAM. KORZEN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a plant root.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Skamielina pradawnego, podmorskiego\\nPOKéMONA. Wydaje się być częścią\\nkorzenia rośliny.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CLAW FOSSIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKAM. PAZUR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a claw.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Skamielina pradawnego, podmorskiego\\nPOKéMONA. Wydaje się być częścią\\npazura.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DEVON SCOPE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKANER DEVON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A scope that signals the presence\\nof any unseeable POKéMON.\\nIt is made by the DEVON CORP.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Urządzenie sygnalizujące obecność\\nniewidocznego POKéMONA.\\nStworzone przez KORPORACJĘ DEVON.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An extremely powerful attack.\\nHowever, if the user is hit before\\nusing the move, they will flinch.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Niesamowicie potężny atak.\\nJednak, jeżeli użytkownik zostanie\\ntrafiony przed użyciem, potknie się.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sharp, huge claws hook and slash\\nthe foe quickly and with great\\npower.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ostre, wielkie pazury rozcinają\\ni szatkują wroga z wielką\\nmocą.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The foe is hit with a pulsing blast\\nof water. It may also confuse the\\ntarget.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wróg trafiony jest potężnym ciosem\\nwodnym. Oszałamia też\\nprzeciwnika.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The user calms its spirit and\\nfocuses its mind to raise its\\nSP. ATK and SP. DEF stats.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użytkownik\\nkoncentruje umysł\\nna podniesieniu SP.\\nATAKU i SP. OBR.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A savage roar that causes the foe\\nto switch out of battle. In the\\nwild, ROAR ends the battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Oponent zmuszony\\njest do zmiany z\\nsojusznikiem. Dzika\\nwalka kończy się.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A move that leaves the foe badly\\npoisoned. Its poison damage worsens\\nevery turn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ruch ostro zatruwający\\nprzeciwnika.\\nObrażenia z trucizny\\nrosną co turę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Summons a hailstorm that lasts for\\nfive turns. The hailstorm damages\\nall types except the ICE type.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Burza gradu trwająca\\npięć tur uszkadza\\nPOKéMONY oprcz\\ntypu LODOWEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The user tightens all its muscles\\nand bulks up, boosting both its\\nATTACK and DEFENSE stats.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użytkownik podnosi\\nswoje ciało, aby\\nzwiększyć stat.\\nATAKU i OBRONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The user shoots seeds at the foe\\nin rapid succession. Two to five\\nseeds are shot at once.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użytkownik strzela\\ndo wrogw. Dwa\\ndo pięciu nasion\\njest strzelanych.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A variable move that changes type\\nand power depending on the POKéMON\\nusing it.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Atak zmieniający\\nsię pod względem\\nintensywności\\nużytkownika.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The weather is turned sunny for\\nfive turns. Over that time, FIRE-\\ntype moves are powered up.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Słońce świeci\\nprzez pięć tur,\\nzmacniając ruchy\\nOGNISTE.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A taunted foe may become enraged.\\nIt will then only be able to use\\nattack moves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wróg jest wyśmiewany\\nwe wściekłość, ktra\\npozwala mu używać\\nruch ataku.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An icy-cold beam is shot at the\\nfoe. It may leave the target\\nfrozen.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wróg zaatakowany\\njest lodowym\\npromieniem. Może\\nzamrozić wroga.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A vicious snow-and-wind attack that\\nstrikes all foes in battle. It may\\ncause freezing.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wróg miotany jest\\nprzez zamieć.\\nMoże zamrozić\\nwroga.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A harsh attack that inflicts severe\\ndamage on the foe. However, the\\nuser must rest the next turn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dotkliwie rażący\\natak zmuszający\\nwroga do tury\\nodpoczynku.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A wall of light is created over\\nfive turns. It reduces damage from\\nSP. ATK attacks.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Snop światła\\nzmniejsza obrażenia\\nz atakw typu SP. ATK\\nna 5 tur.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The user is completely protected\\nfrom attack in the turn it is used.\\nIt may fail if used in succession.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Umożliwia unikanie\\natakw. Może się\\npowieść, jeśli jest\\nużywany kolejno.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A heavy rain is summoned for five\\nturns. Over that time, WATER-type\\nmoves are powered up.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ciężki deszcz pada\\nprzez pięć tur,\\nzmacniając ruchy\\ntypu WODNEGO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The user strikes the foe with\\ntentacles or roots, stealing the\\ntarget's HP and healing itself.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ostry atak, ktróy\\npochłania połowę \\nzadanych obrażeń,\\naby odzyskać HP.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Protects the party with a shield\\nagainst all status problems over\\nfive turns.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chroni strone\\nużytkownika przed\\nwszystkimi statusami\\nprzez pięć tur.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This attack move grows more\\npowerful the more the POKéMON\\ndislikes its TRAINER.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ten atak staje się\\ncoraz silniejszy, im\\nmniej użytkownik\\nlubi TRENERA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A 2-turn attack that uses the first\\nturn for absorbing sunlight, then\\nblasting the foe in the next turn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dwuturowy ruch, który\\nsponiewiera wroga\\nabsorbowaną energią\\nw 2 turze.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The foe is slammed with a sturdy\\ntail of steel. It may lower the\\ntarget's DEFENSE stat.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Atak z twardym jak\\nstal ogonem. Może\\nobniżyć statystykę\\nobrony wroga.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A massive jolt of electricity is\\nlaunched at the foe. It may cause\\nparalysis.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Potężny atak\\nelektryczny, który\\nmoże też sparaliżować\\nwroga.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Strikes the foe with a huge\\nthunderbolt. It may cause\\nparalysis.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Brutalny atak\\npiorunem, który\\nmoże dodatkowo\\nsparaliżować wroga.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Causes an earthquake that strikes\\nall POKéMON in battle, excluding\\nthe user.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Trzęsienie ziemi\\ntrafia wszystkie\\nPOKéMONY w walce\\nprócz użytkownika.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This attack move grows more\\npowerful the more the POKéMON\\nlikes its TRAINER.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ten atak staje się\\ncoraz silniejszy, im\\nmniej użytkownik\\nlubi TRENERA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A 2-turn attack in which the user\\ndigs underground, then strikes.\\nIt can be used to exit dungeons.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Atak trafiający\\nw drugiej turze.\\nMoże być użyty,\\ndo wyjścia z jaskiń.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A powerful blast of telekinetic\\nenergy strikes the foe. It may\\nlower the target's SP. DEF stat.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Silny atak kinetyczny\\nmogący obniżyć\\nSP. OBR przeciwnika.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The foe is attacked with a shadowy\\nlump. It may lower the target's\\nSP. DEF stat.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mroczna kula jest\\nrzucana we wroga.\\nMoże obniżyć SP.\\nOBRONĘ wroga.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Strikes the foe with a rock-hard\\nfist, etc. It shatters barriers such\\nas REFLECT and LIGHT SCREEN.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Atak, który\\nprzełamuje każdą\\nbarierę taką jak\\nEKRAN ŚWIATŁA itp.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The user begins moving so quickly\\nthat it creates illusory copies to\\nraise its evasiveness.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użytkownik tworzy\\niluzje samego siebie,\\nby łatwiej unikać\\nataków.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A tough barrier is put up over five\\nturns. It reduces damage from\\nphysical attacks over that time.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ściana światła\\nzmniejsza obrażenia\\natakw fizycznych\\nprzez 5 tur.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A rapid jolt of electricity strikes\\nthe foe. This attack is impossible\\nto evade.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Szybki atak\\nelektryczności\\nuderza wroga. Nie\\nmożna tego uniknąć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The foe is roasted with a heavy\\nblast of fire. It may leave the\\ntarget with a burn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wróg parzony jest\\nintensywnymi\\npłomieniami. Może\\ndoznać poparzeń.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Toxic sludge is hurled at the foe\\nwith great force. It may also\\npoison the target.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Brudny szlam jest\\nrzucany we wroga.\\nMoże też zatruć\\ncel.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Summons a sandstorm that lasts for\\nfive turns. It damages all types\\nexcept ROCK, GROUND, and STEEL.</seg></tuv>
+      <tuv xml:lang="pl"><seg>5-turowa burza\\npiaskowa, rani\\nkażdy typ oprcz\\nKAMIENIA, ZIEMI i STALI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The foe is incinerated with an\\nintense flame. It may leave the\\ntarget with a burn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wróg trafiony zostaje\\nwielkim płomieniem.\\nMoże spowodować\\npoparzenia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Boulders are hurled at the foe.\\nIt also lowers the target's SPEED\\nstat if it hits.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Głazy są rzucane\\nna wroga. Obniża\\ntakże SZYBKOŚĆ\\nwroga, jeśli trafi.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An extremely fast attack against\\none target. It is impossible to\\nevade.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Niezwykle szybki\\natak na jeden cel.\\nNie można tego\\nuniknąć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If enraged by this move, the target\\nbecomes incapable of using the same\\nmove twice in a row.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Rozgniewa wroga,\\nprzez co nie jest\\nw stanie używać\\ntego samego ruchu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An attack move that becomes very\\npowerful if the user is poisoned,\\nburned, or paralyzed.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Atak, który zostanie\\nwzmocniony, jeśli\\nużytkownik będzie\\nzatruty itp.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An attack move that may have an\\nadditional effect depending on the\\nbattle terrain.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Atak, który może\\nmieć dodatkowy\\nefekt, który zależy\\nod danego terenu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A move that makes the user fall\\nasleep over two turns to restore HP\\nand heal any status problems.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użytkownik śpi dwie\\ntury, by w pełni\\nprzywrcić HP i\\nuleczyć zmiany stanu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The foe, if it is the opposite\\ngender as the user, becomes\\ninfatuated and may not attack.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jeśli jest innej płci,\\nwróg jest zauroczony\\ni mało prawdopodobny\\ndo ataku.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An attack that gives the user an\\nopportunity to steal the foe's hold\\nitem.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Atak mogący ukraść\\ntrzymany przedmiot\\nwroga, gdy\\nużywający nic nie trzyma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The foe is struck with steel-hard\\nwings. It may also raise the user's\\nDEFENSE stat.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wróg trafiony jest\\nskrzydłami ze stali.\\nMoże rwnież\\nzwiększyć OBRONĘ.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A special power is transmitted to\\nthe foe, causing it to switch\\nabilities with the user.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użytkownik wykorzysta\\nswoją moc, aby\\nzamienić zdolności\\nz wrogiem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A move that steals the effects of\\nany status-changing or healing move\\nthat the foe tries to use.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kradnie efekty\\nleczenia wroga\\nlub zmiany dowolnego\\nstatusu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A maximum-power attack of great\\nferocity, but one that also sharply\\nreduces the user's SP. ATK stat.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Intensywny atak,\\nktóry rwnież\\nznacznie zmiejsza\\nSP. ATK użytkownika.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Attacks the foe with sharp blades\\nor claws. It can also cut down thin\\ntrees and grass outside of battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Podstawowy atak.\\nMożna nim ściąć\\nmałe drzewka oraz\\ntrawę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The user flies up on the first turn,\\nthen attacks next turn. It can be\\nused to fly to any known town.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dwuturowy ruch,\\ntrafiający w 2 turze.\\nUżywany by latać\\ndo znanych miejsc.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Creates a huge wave, then crashes\\nit down on the foe. It can be used\\nfor traveling on water.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wielka fala spada\\nna wroga. Służy też\\ndo podrżowania\\npo wodzie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The user builds enormous power,\\nthen slams the foe. It can be used\\nfor moving large, round boulders.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wróg atakowany\\nzostaje z pełną siłą.\\nMoże też przesuwać\\ncięzkie głazy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Looses a powerful blast of light\\nthat reduces the foe's accuracy.\\nIt also lights up dark caves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Promień światła zmniejsza celność\\nwroga. Oświetla\\nteż jaskinie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hits the foe with a rock-crushingly\\ntough attack. It can smash cracked\\nboulders.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Atak, który może\\nspowodować obniżenie\\nOBRONY. Może\\nrwnież rozbić skały.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A powerful charge attack. It can\\nbe used for climbing a torrential\\nwaterfall.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Potężny atak\\nszarżą. Może zostać\\nużyty, by wspiąć\\nsię na wodospad.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A 2-turn attack in which the user\\ndives underwater on the first turn,\\nthen strikes in the next turn.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użytkownik nurkuje\\npod wodą w pierwszej\\nturze i uderza w\\ndrugiej.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OAK'S PARCEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>PACZKA OAKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A parcel to be delivered to PROF.\\nOAK from VIRIDIAN CITY's POKéMON\\nMART.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Paczka dla PROFESORA OAKA\\notrzymana w POKéMON MART w\\nVIRIDIAN CITY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POK\u00e9 FLUTE</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKÉ\u00e9 FLET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A flute that is said to instantly\\nawaken any POKéMON. It has a\\nlovely tone.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Flet, który podobno ma moc\\nprzebudzenia każdego POKéMONA.\\nPięknie gra.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SECRET KEY</seg></tuv>
+      <tuv xml:lang="pl"><seg>TAJEMNY KLUCZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The key to CINNABAR ISLAND GYM's\\nfront door. It is colored red and\\ndecorated.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Klucz do drzwi SALI na WYSPIE\\nCINNABAR. Jest czerwony i pokryty\\nzdobieniami.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BIKE VOUCHER</seg></tuv>
+      <tuv xml:lang="pl"><seg>KUPON NA ROWER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Take this voucher to the BIKE SHOP\\nin CERULEAN CITY and exchange it\\nfor a bicycle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zanieś ten kupon do SKLEPU\\nROWEROWEGO w CERULEAN CITY i\\nwymień na rower.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GOLD TEETH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZŁOTE ZĘBY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A set of false teeth lost by the\\nSAFARI ZONE'S WARDEN. It makes his\\nsmile sparkle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Sztuczna szczęka zgubiona przez\\nDYREKTORA STREFY SAFARI.\\nRozświetla jego uśmiech.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OLD AMBER</seg></tuv>
+      <tuv xml:lang="pl"><seg>STARYBURSZTYN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A piece of amber that contains\\nthe genes of an ancient POKéMON.\\nIt is clear with a reddish tint.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kawałek bursztynu zawierający\\ngeny pradawnego POKéMONA.\\nPrzejrzysty w czerwonawym odcieniu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CARD KEY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KARTA WSTĘPU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A card-type key that unlocks doors\\nin SILPH CO.'s HEAD OFFICE in\\nSAFFRON CITY.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Klucz w formie karty otwierający\\ndrzwi do BIURA SILPH CO.\\nw SAFFRON CITY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LIFT KEY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KLUCZDOWINDY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A key that operates the elevator\\nin TEAM ROCKET's HIDEOUT.\\nIt bears the TEAM ROCKET logo.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Klucz obsługujący windę w\\nKWATERZE ZESPOŁU R.\\nNosi na sobie logo ZESPOŁU R.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HELIX FOSSIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKAM. ŚLIMAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a seashell.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Skamielina pradawnego, podmorskiego\\nPOKéMONA. Wydaje się być częścią\\nskorupy morskiej.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DOME FOSSIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKAM. SKORUPA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a shell.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Skamielina prawdawnego, podmorskiego\\nPOKéMONA. Wydaje się być częścią\\nmuszli.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SILPH SCOPE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKANER SILPH</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A scope that makes unseeable\\nPOKéMON visible.\\nIt is made by SILPH CO.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Urządzenie ujawniające\\nniewidoczne POKéMONY.\\nStworzone przez SILPH CO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BICYCLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ROWER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A folding bicycle that allows\\nfaster movement than the RUNNING\\nSHOES.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Składany rower pozwalający\\nporuszać się szybciej niż\\nw trakcie biegu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TOWN MAP</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAPA REGIONU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A very convenient map that can be\\nviewed anytime. It even shows your \\npresent location.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bardzo wygodna w użyciu mapa\\nregionu KANTO. Pokazuje nawet\\ntwoje aktualne położenie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VS SEEKER</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRENERSZUKACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A device that indicates TRAINERS\\nwho want to battle. The battery\\ncharges while traveling.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Urządzenie wskazujące TRENERÓW\\nchcących walczyć. Bateria\\nładuje się w czasie podróży.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FAME CHECKER</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRZYPOMINACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A device that enables you to\\nrecall what you've heard and seen\\nabout famous people.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Urządzenie pozwalające\\nprzypomnieć sobie to, co usłyszałeś\\no sławnych osobach.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TM CASE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ETUI TM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A case that holds TMs and HMs.\\nIt is attached to the BAG's\\ncompartment for important items.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Etui przechowujące TMy i HMy.\\nZnajduje się w komorze TORBY\\nprzeznaczonej na ważne przedmioty.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BERRY POUCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>WOREKNAJAGODY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A pouch for carrying BERRIES.\\nIt is attached to the BAG's\\ncompartment for important items.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Woreczek na JAGODY.\\nZnajduje się w komorze TORBY\\nprzeznaczonej na ważne przedmioty.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TEACHY TV</seg></tuv>
+      <tuv xml:lang="pl"><seg>TELEWIZOREK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A television set that is tuned to\\na program with useful tips for\\nnovice TRAINERS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Telewizor nastawiony na kanał\\ndający rady początkującym\\nTRENEROM POKéMONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRI-PASS</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRÓJ-BILET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A pass for ferries between ONE,\\nTWO, and THREE ISLAND.\\nIt has a drawing of three islands.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przepustka na promy na WYSPY od\\nPIERWSZEJ do TRZECIEJ.\\nZawiera rysunek z trzema wyspami.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RAINBOW PASS</seg></tuv>
+      <tuv xml:lang="pl"><seg>TĘCZOWY BILET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A pass for ferries between\\nVERMILION and the SEVII ISLANDS.\\nIt features a drawing of a rainbow.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przepustka na kursy między\\nVERMILION a WYSPAMI SEVII. Zawiera\\nnadruk przedstawiający tęczę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TEA</seg></tuv>
+      <tuv xml:lang="pl"><seg>HERBATA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An aromatic tea prepared by an old\\nlady. It will slake even the worst\\nthirst.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Herbata przygotowana\\nprzez staruszkę. Zaspokoi nawet\\nnajwiększe pragnienie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MYSTICTICKET</seg></tuv>
+      <tuv xml:lang="pl"><seg>TAJEMNY BILET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A ticket required to board the ship\\nto NAVEL ROCK.\\nIt glows with a mystic light.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bilet wymagany by dostać się na\\nSKAŁĘ PĘPKA.\\nEmituje tajemnicze światło.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AURORATICKET</seg></tuv>
+      <tuv xml:lang="pl"><seg>BILET ZORZY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A ticket required to board the ship\\nto BIRTH ISLAND.\\nIt glows beautifully.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bilet wymagany by dostać się na\\nWYSPE NARODZIN.\\nEmituje piękne światło.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POWDER JAR</seg></tuv>
+      <tuv xml:lang="pl"><seg>SŁÓJNAPROSZE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A jar for storing BERRY POWDER\\nmade using a BERRY CRUSHER.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Słoik przeznaczony na JAGODOWY\\nPROSZEK z BERRY CRUSHERA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RUBY</seg></tuv>
+      <tuv xml:lang="pl"><seg>RUBIN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An exquisitely beautiful gem that\\nhas a red glow.\\nIt symbolizes passion.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyśmienity, piękny klejnot\\nemitujący czerwony blask.\\nSymbol zaciekłości.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SAPPHIRE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZAFIR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An exquisitely beautiful gem that\\nhas a blue glow.\\nIt symbolizes honesty.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyśmienity, piękny klejnot\\nemitujący niebieski blask.\\nSymbol szczerości.</seg></tuv>
+    </tu>
+  </body>
+</tmx>

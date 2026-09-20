@@ -1,0 +1,2102 @@
+<<< FILE: src/data/ingame_trades.h >>>
+MIMIEN
+REYLEY
+ZYNX
+DONTAE
+MS. NIDO
+SAIGE
+MR. NIDO
+SAIGE
+CH'DING
+ELYSSA
+NINA
+TURNER
+NINO
+TURNER
+MARC
+HADEN
+ESPHERE
+CLIFTON
+TANGENY
+NORMA
+SEELOR
+GARETT
+<<< FILE: src/data/items.h >>>
+The best BALL with the ultimate\nperformance. It will catch any wild\nPOKéMON without fail.
+A very high-grade BALL that offers\na higher POKéMON catch rate than\na GREAT BALL.
+A good, quality BALL that offers\na higher POKéMON catch rate than\na standard POKé BALL.
+A BALL thrown to catch a wild\nPOKéMON. It is designed in a\ncapsule style.
+A special BALL that is used only in\nthe SAFARI ZONE. It is finished in\na camouflage pattern.
+A somewhat different BALL that\nworks especially well on WATER- and\nBUG-type POKéMON.
+A somewhat different BALL that\nworks especially well on POKéMON\ndeep in the sea.
+A somewhat different BALL that\nworks especially well on weaker\nPOKéMON.
+A somewhat different BALL that\nworks especially well on POKéMON\ncaught before.
+A somewhat different BALL that\nbecomes progressively better the\nmore turns there are in a battle.
+A comfortable BALL that makes a\ncaptured wild POKéMON quickly grow\nfriendly.
+A rare BALL that has been\nspecially made to commemorate an\nevent of some sort.
+A spray-type wound medicine.\nIt restores the HP of one POKéMON\nby 20 points.
+A spray-type medicine.\nIt heals one POKéMON from a\npoisoning.
+A spray-type medicine.\nIt heals one POKéMON of a burn.
+A spray-type medicine.\nIt defrosts a frozen POKéMON.
+A spray-type medicine.\nIt awakens a sleeping POKéMON.
+A spray-type medicine.\nIt heals one POKéMON from\nparalysis.
+A medicine that fully restores the\nHP and heals any status problems\nof one POKéMON.
+A spray-type wound medicine.\nIt fully restores the HP of one\nPOKéMON.
+A spray-type wound medicine.\nIt restores the HP of one POKéMON\nby 200 points.
+A spray-type wound medicine.\nIt restores the HP of one POKéMON\nby 50 points.
+A spray-type medicine.\nIt heals all the status problems of\none POKéMON.
+A medicine that revives a fainted\nPOKéMON, restoring HP by half the\nmaximum amount.
+A medicine that revives a fainted\nPOKéMON, restoring HP fully.
+Water with a high mineral content.\nIt restores the HP of one POKéMON\nby 50 points.
+A fizzy soda drink.\nIt restores the HP of one POKéMON\nby 60 points.
+A very sweet drink.\nIt restores the HP of one POKéMON\nby 80 points.
+Highly nutritious milk.\nIt restores the HP of one POKéMON\nby 100 points.
+A very bitter medicine powder.\nIt restores the HP of one POKéMON\nby 50 points.
+A very bitter root.\nIt restores the HP of one POKéMON\nby 200 points.
+A very bitter medicine powder.\nIt heals all the status problems of\none POKéMON.
+A very bitter medicinal herb.\nIt revives a fainted POKéMON,\nrestoring HP fully.
+Restores a selected move's PP by\n10 points for one POKéMON.
+Fully restores a selected move's PP\nfor one POKéMON.
+Restores the PP of all moves for\none POKéMON by 10 points each.
+Fully restores the PP of all moves\nfor one POKéMON.
+LAVARIDGE TOWN's local specialty.\nIt heals all the status problems of\none POKéMON.
+A blue glass flute that awakens\na sleeping POKéMON.
+A yellow glass flute that snaps one\nPOKéMON out of confusion.
+A red glass flute that snaps one\nPOKéMON out of infatuation.
+A black glass flute.\nWhen blown, it makes wild POKéMON\nless likely to appear.
+A white glass flute.\nWhen blown, it makes wild POKéMON\nmore likely to appear.
+A 100% pure juice.\nIt restores the HP of one POKéMON\nby 20 points.
+Revives all fainted POKéMON,\nrestoring HP fully.
+Pure salt obtained from deep inside\nthe SHOAL CAVE. It is extremely\nsalty.
+A pretty seashell found deep inside\nthe SHOAL CAVE. It is striped in\nblue and white.
+A small red shard.\nIt appears to be from some sort of\na tool made long ago.
+A small blue shard.\nIt appears to be from some sort of\na tool made long ago.
+A small yellow shard.\nIt appears to be from some sort of\na tool made long ago.
+A small green shard.\nIt appears to be from some sort of\na tool made long ago.
+A nutritious drink for POKéMON.\nIt raises the base HP of one\nPOKéMON.
+A nutritious drink for POKéMON.\nIt raises the base ATTACK stat of\none POKéMON.
+A nutritious drink for POKéMON.\nIt raises the base DEFENSE stat of\none POKéMON.
+A nutritious drink for POKéMON.\nIt raises the base SPEED stat of\none POKéMON.
+A nutritious drink for POKéMON.\nIt raises the base SP. ATK stat\nof one POKéMON.
+A candy that is packed with energy.\nIt raises the level of a POKéMON\nby one.
+Slightly raises the maximum PP of\na selected move for one POKéMON.
+A nutritious drink for POKéMON.\nIt raises the base SP. DEF stat\nof one POKéMON.
+Raises the PP of a selected move\nto its maximum level for one\nPOKéMON.
+An item that prevents stat reduction\namong party POKéMON for five turns\nafter use.
+Raises the critical-hit ratio of\nPOKéMON in battle. Wears off if the\nPOKéMON is withdrawn.
+Raises the ATTACK stat of POKéMON\nin battle. Wears off if the POKéMON\nis withdrawn.
+Raises the DEFENSE stat of POKéMON\nin battle. Wears off if the POKéMON\nis withdrawn.
+Raises the SPEED stat of POKéMON\nin battle. Wears off if the POKéMON\nis withdrawn.
+Raises the accuracy stat of\nPOKéMON in battle. Wears off if the\nPOKéMON is withdrawn.
+Raises the SP. ATK stat of\nPOKéMON in battle. Wears off if the\nPOKéMON is withdrawn.
+An attractive doll.\nUse it to flee from any battle with\na wild POKéMON.
+An attractive item.\nUse it to flee from any battle with\na wild POKéMON.
+Prevents weak wild POKéMON from\nappearing for 200 steps.
+Prevents weak wild POKéMON from\nappearing for 250 steps.
+A long, durable rope.\nUse it to escape instantly from a\ncave or a dungeon.
+Prevents weak wild POKéMON from\nappearing for 100 steps.
+A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt is as red as the sun.
+A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt is as black as the night sky.
+A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt is colored orange.
+A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt has a thunderbolt pattern.
+A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt is a clear light blue.
+A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt has a leaf pattern.
+A small and rare mushroom.\nIt is quite popular among certain\npeople.
+A large and rare mushroom.\nIt is very popular among certain\npeople.
+A relatively small pearl that\nsparkles in a pretty silver color.\nIt can be sold cheaply.
+A quite-large pearl that sparkles\nin a pretty silver color.\nIt can be sold at a high price.
+A pretty red sand with a loose,\nsilky feel.\nIt can be sold at a high price.
+A shard of a pretty gem that\nsparkles in a red color.\nIt can be sold at a high price.
+A nugget of pure gold that gives\noff a lustrous gleam.\nIt can be sold at a high price.
+A pretty, heart-shaped scale that\nis extremely rare. It glows faintly\nin the colors of a rainbow.
+A piece of MAIL featuring a cute\nZIGZAGOON print.\nIt is to be held by a POKéMON.
+A piece of MAIL featuring a cute\nWINGULL print.\nIt is to be held by a POKéMON.
+A piece of MAIL featuring a cute\nPIKACHU print.\nIt is to be held by a POKéMON.
+A piece of MAIL featuring a cute\nMAGNEMITE print.\nIt is to be held by a POKéMON.
+A piece of MAIL featuring a cute\nSLAKOTH print.\nIt is to be held by a POKéMON.
+A piece of MAIL featuring a cute\nWAILMER print.\nIt is to be held by a POKéMON.
+A piece of MAIL to be held by a\nPOKéMON. It will bear the print of\nthe POKéMON holding it.
+A piece of MAIL featuring a cute\nDUSKULL print.\nIt is to be held by a POKéMON.
+A piece of MAIL featuring a cute\nBELLOSSOM print.\nIt is to be held by a POKéMON.
+A piece of MAIL to be held by a\nPOKéMON. It will bear the print of\nthe POKéMON holding it.
+A piece of MAIL featuring a\ngorgeous, extravagant print.\nIt is to be held by a POKéMON.
+A piece of MAIL featuring a print\nof three cute POKéMON.\nIt is to be held by a POKéMON.
+When held by a POKéMON, it will be\nused in battle to heal paralysis.
+When held by a POKéMON, it will be\nused in battle to wake up.
+When held by a POKéMON, it will be\nused in battle to cure poison.
+When held by a POKéMON, it will be\nused in battle to heal a burn.
+When held by a POKéMON, it will be\nused in battle for defrosting.
+When held by a POKéMON, it will be\nused in battle to restore 10 PP.
+When held by a POKéMON, it will be\nused in battle to restore 10 HP.
+When held by a POKéMON, it will be\nused in battle to lift confusion.
+When held by a POKéMON, it will be\nused in battle to heal any problem.
+When held by a POKéMON, it will be\nused in battle to restore 30 HP.
+A hold item that restores HP but\nmay cause confusion when used.
+A hold item that restores HP but\nmay cause confusion when used.
+A hold item that restores HP but\nmay cause confusion when used.
+A hold item that restores HP but\nmay cause confusion when used.
+A hold item that restores HP but\nmay cause confusion when used.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+Can be ground up into a powder as\nan ingredient for medicine.
+When held by a POKéMON, it raises\nthe ATTACK stat in a pinch.
+When held by a POKéMON, it raises\nthe DEFENSE stat in a pinch.
+When held by a POKéMON, it raises\nthe SPEED stat in a pinch.
+When held by a POKéMON, it raises\nthe SP. ATK stat in a pinch.
+When held by a POKéMON, it raises\nthe SP. DEF stat in a pinch.
+When held by a POKéMON, it raises\nthe critical-hit ratio in a pinch.
+When held by a POKéMON, it sharply\nraises one stat in a pinch.
+Can be ground up into a powder as\nan ingredient for medicine.
+An item to be held by a POKéMON.\nIt casts a tricky glare that lowers\nthe opponent's accuracy.
+An item to be held by a POKéMON.\nIt restores any lowered stat in\nbattle. It can be used only once.
+An item to be held by a POKéMON.\nIt promotes strong growth but\nlowers SPEED while it is held.
+An item to be held by a POKéMON.\nThe holder gets a share of EXP.\npoints without having to battle.
+An item to be held by a POKéMON.\nA light and sharp claw. The holder\nmay be able to strike first.
+An item to be held by a POKéMON.\nA bell with a comforting chime that\nmakes the holder calm and friendly.
+An item to be held by a POKéMON.\nIt snaps the holder out of\ninfatuation. It can be used once.
+An item to be held by a POKéMON.\nIt powers up one move, which\nbecomes the only usable one.
+An item to be held by a POKéMON.\nIt may cause the foe to flinch\nupon taking damage.
+An item to be held by a POKéMON.\nA shiny silver powder that boosts\nthe power of BUG-type moves.
+An item to be held by a POKéMON.\nIt doubles the battle money if the\nholding POKéMON takes part.
+An item to be held by a POKéMON.\nIt repels wild POKéMON if the\nholder is first in the party.
+An orb to be held by a LATIOS or\nLATIAS. It raises the SP. ATK\nand SP. DEF stats.
+An item to be held by a POKéMON.\nA fang that gleams a sharp silver.\nIt raises the SP. ATK stat.
+An item to be held by a POKéMON.\nA scale that shines a faint pink.\nIt raises the SP. DEF stat.
+An item to be held by a POKéMON.\nThe holding POKéMON can flee from\nany wild POKéMON for sure.
+An item to be held by a POKéMON.\nThe holding POKéMON is prevented\nfrom evolving.
+An item to be held by a POKéMON.\nThe holding POKéMON may endure an\nattack, leaving just 1 HP.
+An item to be held by a POKéMON.\nAn egg filled with happiness that\nearns extra EXP. points in battle.
+An item to be held by a POKéMON.\nA lens that boosts the critical-hit\nratio of the holding POKéMON.
+An item to be held by a POKéMON.\nA special metallic film that boosts\nthe power of STEEL-type moves.
+An item to be held by a POKéMON.\nThe holding POKéMON gradually\nregains HP during battle.
+A thick and tough scale.\nA DRAGON-type POKéMON may be\nholding it.
+An orb to be held by a PIKACHU\nthat raises the SP. ATK stat.\nTouching it may cause a shock.
+An item to be held by a POKéMON.\nA loose, silky sand that boosts the\npower of GROUND-type moves.
+An item to be held by a POKéMON.\nAn unbreakable stone that boosts\nthe power of ROCK-type moves.
+An item to be held by a POKéMON.\nA seed imbued with life that boosts\nthe power of GRASS-type moves.
+An item to be held by a POKéMON.\nA shady-looking pair of glasses\nthat boosts DARK-type moves.
+An item to be held by a POKéMON.\nA belt that boosts determination\nand FIGHTING-type moves.
+An item to be held by a POKéMON.\nA powerful magnet that boosts the\npower of ELECTRIC-type moves.
+An item to be held by a POKéMON.\nA teardrop-shaped gem that boosts\nthe power of WATER-type moves.
+An item to be held by a POKéMON.\nA long, sharp beak that boosts the\npower of FLYING-type moves.
+An item to be held by a POKéMON.\nA small, poisonous barb that boosts\nthe power of POISON-type moves.
+An item to be held by a POKéMON.\nA piece of ice that repels heat\nand boosts ICE-type moves.
+An item to be held by a POKéMON.\nA sinister, eerie tag that boosts\nGHOST-type moves.
+An item to be held by a POKéMON.\nA spoon imbued with telekinetic\npower boosts PSYCHIC-type moves.
+An item to be held by a POKéMON.\nA combustible fuel that boosts the\npower of FIRE-type moves.
+An item to be held by a POKéMON.\nA hard and sharp fang that boosts\nthe power of DRAGON-type moves.
+An item to be held by a POKéMON.\nA sumptuous scarf that boosts the\npower of NORMAL-type moves.
+A transparent device filled with all\nsorts of data.\nIt is made by SILPH CO.
+An item to be held by a POKéMON.\nThe holding POKéMON regains some\nHP upon striking the foe.
+An item to be held by a POKéMON.\nIt slightly boosts the power of\nWATER-type moves.
+An item to be held by a POKéMON.\nIts tricky aroma slightly reduces\nthe foe's accuracy.
+A glove to be held by a CHANSEY.\nIt raises CHANSEY's critical-hit\nratio.
+A fine, hard powder to be held by\na DITTO.\nIt raises DITTO's DEFENSE stat.
+A hard bone of some sort to be\nheld by a CUBONE or MAROWAK.\nIt raises the ATTACK stat.
+A stick of leek to be held by a\nFARFETCH'D. It raises FARFETCH'D's\ncritical-hit ratio.
+An item to be held by a POKéMON.\nIt boosts the holding POKéMON's\nCOOL condition in CONTESTS.
+An item to be held by a POKéMON.\nIt boosts the holding POKéMON's\nBEAUTY condition in CONTESTS.
+An item to be held by a POKéMON.\nIt boosts the holding POKéMON's\nCUTE condition in CONTESTS.
+An item to be held by a POKéMON.\nIt boosts the holding POKéMON's\nSMART condition in CONTESTS.
+An item to be held by a POKéMON.\nIt boosts the holding POKéMON's\nTOUGH condition in CONTESTS.
+A folding bicycle that is at least\ntwice as fast as walking.
+A case for holding COINS obtained\nat the GAME CORNER.\nIt holds up to 9,999 COINS.
+A device used for finding items.\nIf there is a hidden item nearby\nwhen it is used, it emits a signal.
+An old and beat-up fishing rod.\nUse it by any body of water to \nfish for wild POKéMON.
+A new, good-quality fishing rod.\nUse it by any body of water to \nfish for wild POKéMON.
+An awesome, high-tech fishing rod.\nUse it by any body of water to fish\nfor wild POKéMON.
+The ticket required for sailing on\nthe ferry S.S. ANNE.\nIt has a drawing of a ship on it.
+The pass required for entering\nPOKéMON CONTESTS. It has a\ndrawing of an award ribbon on it.
+A nifty watering pail.\nUse it to promote strong growth in\nBERRIES planted in soft soil.
+A package that contains mechanical\nparts of some sort made by the\nDEVON CORPORATION.
+A sack used to collect volcanic\nash automatically during walks\nover deep ash.
+The key to NEW MAUVILLE, which\nwas constructed beneath MAUVILLE\nCITY.
+A folding bicycle that is capable\nof stunts like jumps and wheelies.
+A case for holding {POKEBLOCK}S made\nwith a BERRY BLENDER. It releases\none {POKEBLOCK} when shaken.
+An extremely important letter to\nSTEVEN from the PRESIDENT of the\nDEVON CORPORATION.
+The ticket required for sailing on a\nferry to a distant southern island.\nIt features a drawing of an island.
+An orb that glows red.\nIt is said to contain an incredible\npower from ancient times.
+An orb that glows blue.\nIt is said to contain an incredible\npower from ancient times.
+A device used to search for\nlife-forms in water.\nIt looks too difficult to use.
+A pair of protective goggles.\nThey enable a TRAINER to travel\nthrough even desert sandstorms.
+A meteorite that fell from space\nonto MT. MOON long ago.\nIt is very lumpy and hard.
+A key that opens the door to Room\n1 inside the ABANDONED SHIP.\nIt is old and looks easily broken.
+A key that opens the door to Room\n2 inside the ABANDONED SHIP.\nIt is old and looks easily broken.
+A key that opens the door to Room\n4 inside the ABANDONED SHIP.\nIt is old and looks easily broken.
+A key that opens the door to Room\n6 inside the ABANDONED SHIP.\nIt is old and looks easily broken.
+A key that opens the storage hold\ninside the ABANDONED SHIP.\nIt is old and looks easily broken.
+A fossil of an ancient, seafloor-\ndwelling POKéMON. It appears to be\npart of a plant root.
+A fossil of an ancient, seafloor-\ndwelling POKéMON. It appears to be\npart of a claw.
+A scope that signals the presence\nof any unseeable POKéMON.\nIt is made by the DEVON CORP.
+An extremely powerful attack.\nHowever, if the user is hit before\nusing the move, they will flinch.
+Sharp, huge claws hook and slash\nthe foe quickly and with great\npower.
+The foe is hit with a pulsing blast\nof water. It may also confuse the\ntarget.
+The user calms its spirit and\nfocuses its mind to raise its\nSP. ATK and SP. DEF stats.
+A savage roar that causes the foe\nto switch out of battle. In the\nwild, ROAR ends the battle.
+A move that leaves the foe badly\npoisoned. Its poison damage worsens\nevery turn.
+Summons a hailstorm that lasts for\nfive turns. The hailstorm damages\nall types except the ICE type.
+The user tightens all its muscles\nand bulks up, boosting both its\nATTACK and DEFENSE stats.
+The user shoots seeds at the foe\nin rapid succession. Two to five\nseeds are shot at once.
+A variable move that changes type\nand power depending on the POKéMON\nusing it.
+The weather is turned sunny for\nfive turns. Over that time, FIRE-\ntype moves are powered up.
+A taunted foe may become enraged.\nIt will then only be able to use\nattack moves.
+An icy-cold beam is shot at the\nfoe. It may leave the target\nfrozen.
+A vicious snow-and-wind attack that\nstrikes all foes in battle. It may\ncause freezing.
+A harsh attack that inflicts severe\ndamage on the foe. However, the\nuser must rest the next turn.
+A wall of light is created over\nfive turns. It reduces damage from\nSP. ATK attacks.
+The user is completely protected\nfrom attack in the turn it is used.\nIt may fail if used in succession.
+A heavy rain is summoned for five\nturns. Over that time, WATER-type\nmoves are powered up.
+The user strikes the foe with\ntentacles or roots, stealing the\ntarget's HP and healing itself.
+Protects the party with a shield\nagainst all status problems over\nfive turns.
+This attack move grows more\npowerful the more the POKéMON\ndislikes its TRAINER.
+A 2-turn attack that uses the first\nturn for absorbing sunlight, then\nblasting the foe in the next turn.
+The foe is slammed with a sturdy\ntail of steel. It may lower the\ntarget's DEFENSE stat.
+A massive jolt of electricity is\nlaunched at the foe. It may cause\nparalysis.
+Strikes the foe with a huge\nthunderbolt. It may cause\nparalysis.
+Causes an earthquake that strikes\nall POKéMON in battle, excluding\nthe user.
+This attack move grows more\npowerful the more the POKéMON\nlikes its TRAINER.
+A 2-turn attack in which the user\ndigs underground, then strikes.\nIt can be used to exit dungeons.
+A powerful blast of telekinetic\nenergy strikes the foe. It may\nlower the target's SP. DEF stat.
+The foe is attacked with a shadowy\nlump. It may lower the target's\nSP. DEF stat.
+Strikes the foe with a rock-hard\nfist, etc. It shatters barriers such\nas REFLECT and LIGHT SCREEN.
+The user begins moving so quickly\nthat it creates illusory copies to\nraise its evasiveness.
+A tough barrier is put up over five\nturns. It reduces damage from\nphysical attacks over that time.
+A rapid jolt of electricity strikes\nthe foe. This attack is impossible\nto evade.
+The foe is roasted with a heavy\nblast of fire. It may leave the\ntarget with a burn.
+Toxic sludge is hurled at the foe\nwith great force. It may also\npoison the target.
+Summons a sandstorm that lasts for\nfive turns. It damages all types\nexcept ROCK, GROUND, and STEEL.
+The foe is incinerated with an\nintense flame. It may leave the\ntarget with a burn.
+Boulders are hurled at the foe.\nIt also lowers the target's SPEED\nstat if it hits.
+An extremely fast attack against\none target. It is impossible to\nevade.
+If enraged by this move, the target\nbecomes incapable of using the same\nmove twice in a row.
+An attack move that becomes very\npowerful if the user is poisoned,\nburned, or paralyzed.
+An attack move that may have an\nadditional effect depending on the\nbattle terrain.
+A move that makes the user fall\nasleep over two turns to restore HP\nand heal any status problems.
+The foe, if it is the opposite\ngender as the user, becomes\ninfatuated and may not attack.
+An attack that gives the user an\nopportunity to steal the foe's hold\nitem.
+The foe is struck with steel-hard\nwings. It may also raise the user's\nDEFENSE stat.
+A special power is transmitted to\nthe foe, causing it to switch\nabilities with the user.
+A move that steals the effects of\nany status-changing or healing move\nthat the foe tries to use.
+A maximum-power attack of great\nferocity, but one that also sharply\nreduces the user's SP. ATK stat.
+Attacks the foe with sharp blades\nor claws. It can also cut down thin\ntrees and grass outside of battle.
+The user flies up on the first turn,\nthen attacks next turn. It can be\nused to fly to any known town.
+Creates a huge wave, then crashes\nit down on the foe. It can be used\nfor traveling on water.
+The user builds enormous power,\nthen slams the foe. It can be used\nfor moving large, round boulders.
+Looses a powerful blast of light\nthat reduces the foe's accuracy.\nIt also lights up dark caves.
+Hits the foe with a rock-crushingly\ntough attack. It can smash cracked\nboulders.
+A powerful charge attack. It can\nbe used for climbing a torrential\nwaterfall.
+A 2-turn attack in which the user\ndives underwater on the first turn,\nthen strikes in the next turn.
+A parcel to be delivered to PROF.\nOAK from VIRIDIAN CITY's POKéMON\nMART.
+A flute that is said to instantly\nawaken any POKéMON. It has a\nlovely tone.
+The key to CINNABAR ISLAND GYM's\nfront door. It is colored red and\ndecorated.
+Take this voucher to the BIKE SHOP\nin CERULEAN CITY and exchange it\nfor a bicycle.
+A set of false teeth lost by the\nSAFARI ZONE'S WARDEN. It makes his\nsmile sparkle.
+A piece of amber that contains\nthe genes of an ancient POKéMON.\nIt is clear with a reddish tint.
+A card-type key that unlocks doors\nin SILPH CO.'s HEAD OFFICE in\nSAFFRON CITY.
+A key that operates the elevator\nin TEAM ROCKET's HIDEOUT.\nIt bears the TEAM ROCKET logo.
+A fossil of an ancient, seafloor-\ndwelling POKéMON. It appears to be\npart of a seashell.
+A fossil of an ancient, seafloor-\ndwelling POKéMON. It appears to be\npart of a shell.
+A scope that makes unseeable\nPOKéMON visible.\nIt is made by SILPH CO.
+A folding bicycle that allows\nfaster movement than the RUNNING\nSHOES.
+A very convenient map that can be\nviewed anytime. It even shows your \npresent location.
+A device that indicates TRAINERS\nwho want to battle. The battery\ncharges while traveling.
+A device that enables you to\nrecall what you've heard and seen\nabout famous people.
+A case that holds TMs and HMs.\nIt is attached to the BAG's\ncompartment for important items.
+A pouch for carrying BERRIES.\nIt is attached to the BAG's\ncompartment for important items.
+A television set that is tuned to\na program with useful tips for\nnovice TRAINERS.
+A pass for ferries between ONE,\nTWO, and THREE ISLAND.\nIt has a drawing of three islands.
+A pass for ferries between\nVERMILION and the SEVII ISLANDS.\nIt features a drawing of a rainbow.
+An aromatic tea prepared by an old\nlady. It will slake even the worst\nthirst.
+A ticket required to board the ship\nto NAVEL ROCK.\nIt glows with a mystic light.
+A ticket required to board the ship\nto BIRTH ISLAND.\nIt glows beautifully.
+A jar for storing BERRY POWDER\nmade using a BERRY CRUSHER.
+An exquisitely beautiful gem that\nhas a red glow.\nIt symbolizes passion.
+An exquisitely beautiful gem that\nhas a blue glow.\nIt symbolizes honesty.
+?????
+????????
+MASTER BALL
+ULTRA BALL
+GREAT BALL
+POKé BALL
+SAFARI BALL
+NET BALL
+DIVE BALL
+NEST BALL
+REPEAT BALL
+TIMER BALL
+LUXURY BALL
+PREMIER BALL
+POTION
+ANTIDOTE
+BURN HEAL
+ICE HEAL
+AWAKENING
+PARLYZ HEAL
+FULL RESTORE
+MAX POTION
+HYPER POTION
+SUPER POTION
+FULL HEAL
+REVIVE
+MAX REVIVE
+FRESH WATER
+SODA POP
+LEMONADE
+MOOMOO MILK
+ENERGYPOWDER
+ENERGY ROOT
+HEAL POWDER
+REVIVAL HERB
+ETHER
+MAX ETHER
+ELIXIR
+MAX ELIXIR
+LAVA COOKIE
+BLUE FLUTE
+YELLOW FLUTE
+RED FLUTE
+BLACK FLUTE
+WHITE FLUTE
+BERRY JUICE
+SACRED ASH
+SHOAL SALT
+SHOAL SHELL
+RED SHARD
+BLUE SHARD
+YELLOW SHARD
+GREEN SHARD
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+HP UP
+PROTEIN
+IRON
+CARBOS
+CALCIUM
+RARE CANDY
+PP UP
+ZINC
+PP MAX
+????????
+GUARD SPEC.
+DIRE HIT
+X ATTACK
+X DEFEND
+X SPEED
+X ACCURACY
+X SPECIAL
+POKé DOLL
+FLUFFY TAIL
+????????
+SUPER REPEL
+MAX REPEL
+ESCAPE ROPE
+REPEL
+????????
+????????
+????????
+????????
+????????
+????????
+SUN STONE
+MOON STONE
+FIRE STONE
+THUNDERSTONE
+WATER STONE
+LEAF STONE
+????????
+????????
+????????
+????????
+TINYMUSHROOM
+BIG MUSHROOM
+????????
+PEARL
+BIG PEARL
+STARDUST
+STAR PIECE
+NUGGET
+HEART SCALE
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+ORANGE MAIL
+HARBOR MAIL
+GLITTER MAIL
+MECH MAIL
+WOOD MAIL
+WAVE MAIL
+BEAD MAIL
+SHADOW MAIL
+TROPIC MAIL
+DREAM MAIL
+FAB MAIL
+RETRO MAIL
+CHERI BERRY
+CHESTO BERRY
+PECHA BERRY
+RAWST BERRY
+ASPEAR BERRY
+LEPPA BERRY
+ORAN BERRY
+PERSIM BERRY
+LUM BERRY
+SITRUS BERRY
+FIGY BERRY
+WIKI BERRY
+MAGO BERRY
+AGUAV BERRY
+IAPAPA BERRY
+RAZZ BERRY
+BLUK BERRY
+NANAB BERRY
+WEPEAR BERRY
+PINAP BERRY
+POMEG BERRY
+KELPSY BERRY
+QUALOT BERRY
+HONDEW BERRY
+GREPA BERRY
+TAMATO BERRY
+CORNN BERRY
+MAGOST BERRY
+RABUTA BERRY
+NOMEL BERRY
+SPELON BERRY
+PAMTRE BERRY
+WATMEL BERRY
+DURIN BERRY
+BELUE BERRY
+LIECHI BERRY
+GANLON BERRY
+SALAC BERRY
+PETAYA BERRY
+APICOT BERRY
+LANSAT BERRY
+STARF BERRY
+ENIGMA BERRY
+????????
+????????
+????????
+BRIGHTPOWDER
+WHITE HERB
+MACHO BRACE
+EXP. SHARE
+QUICK CLAW
+SOOTHE BELL
+MENTAL HERB
+CHOICE BAND
+KING'S ROCK
+SILVERPOWDER
+AMULET COIN
+CLEANSE TAG
+SOUL DEW
+DEEPSEATOOTH
+DEEPSEASCALE
+SMOKE BALL
+EVERSTONE
+FOCUS BAND
+LUCKY EGG
+SCOPE LENS
+METAL COAT
+LEFTOVERS
+DRAGON SCALE
+LIGHT BALL
+SOFT SAND
+HARD STONE
+MIRACLE SEED
+BLACKGLASSES
+BLACK BELT
+MAGNET
+MYSTIC WATER
+SHARP BEAK
+POISON BARB
+NEVERMELTICE
+SPELL TAG
+TWISTEDSPOON
+CHARCOAL
+DRAGON FANG
+SILK SCARF
+UP-GRADE
+SHELL BELL
+SEA INCENSE
+LAX INCENSE
+LUCKY PUNCH
+METAL POWDER
+THICK CLUB
+STICK
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+RED SCARF
+BLUE SCARF
+PINK SCARF
+GREEN SCARF
+YELLOW SCARF
+MACH BIKE
+COIN CASE
+ITEMFINDER
+OLD ROD
+GOOD ROD
+SUPER ROD
+S.S. TICKET
+CONTEST PASS
+????????
+WAILMER PAIL
+DEVON GOODS
+SOOT SACK
+BASEMENT KEY
+ACRO BIKE
+{POKEBLOCK} CASE
+LETTER
+EON TICKET
+RED ORB
+BLUE ORB
+SCANNER
+GO-GOGGLES
+METEORITE
+RM. 1 KEY
+RM. 2 KEY
+RM. 4 KEY
+RM. 6 KEY
+STORAGE KEY
+ROOT FOSSIL
+CLAW FOSSIL
+DEVON SCOPE
+TM01
+TM02
+TM03
+TM04
+TM05
+TM06
+TM07
+TM08
+TM09
+TM10
+TM11
+TM12
+TM13
+TM14
+TM15
+TM16
+TM17
+TM18
+TM19
+TM20
+TM21
+TM22
+TM23
+TM24
+TM25
+TM26
+TM27
+TM28
+TM29
+TM30
+TM31
+TM32
+TM33
+TM34
+TM35
+TM36
+TM37
+TM38
+TM39
+TM40
+TM41
+TM42
+TM43
+TM44
+TM45
+TM46
+TM47
+TM48
+TM49
+TM50
+HM01
+HM02
+HM03
+HM04
+HM05
+HM06
+HM07
+HM08
+????????
+????????
+OAK'S PARCEL
+POKé FLUTE
+SECRET KEY
+BIKE VOUCHER
+GOLD TEETH
+OLD AMBER
+CARD KEY
+LIFT KEY
+HELIX FOSSIL
+DOME FOSSIL
+SILPH SCOPE
+BICYCLE
+TOWN MAP
+VS SEEKER
+FAME CHECKER
+TM CASE
+BERRY POUCH
+TEACHY TV
+TRI-PASS
+RAINBOW PASS
+TEA
+MYSTICTICKET
+AURORATICKET
+POWDER JAR
+RUBY
+SAPPHIRE
+<<< FILE: src/data/items.json >>>
+????????
+?????
+MASTER BALL
+The best BALL with the ultimate\\nperformance. It will catch any wild\\nPOKéMON without fail.
+ULTRA BALL
+A very high-grade BALL that offers\\na higher POKéMON catch rate than\\na GREAT BALL.
+GREAT BALL
+A good, quality BALL that offers\\na higher POKéMON catch rate than\\na standard POKé BALL.
+POK\u00e9 BALL
+A BALL thrown to catch a wild\\nPOKéMON. It is designed in a\\ncapsule style.
+SAFARI BALL
+A special BALL that is used only in\\nthe SAFARI ZONE. It is finished in\\na camouflage pattern.
+NET BALL
+A somewhat different BALL that\\nworks especially well on WATER- and\\nBUG-type POKéMON.
+DIVE BALL
+A somewhat different BALL that\\nworks especially well on POKéMON\\ndeep in the sea.
+NEST BALL
+A somewhat different BALL that\\nworks especially well on weaker\\nPOKéMON.
+REPEAT BALL
+A somewhat different BALL that\\nworks especially well on POKéMON\\ncaught before.
+TIMER BALL
+A somewhat different BALL that\\nbecomes progressively better the\\nmore turns there are in a battle.
+LUXURY BALL
+A comfortable BALL that makes a\\ncaptured wild POKéMON quickly grow\\nfriendly.
+PREMIER BALL
+A rare BALL that has been\\nspecially made to commemorate an\\nevent of some sort.
+POTION
+A spray-type wound medicine.\\nIt restores the HP of one POKéMON\\nby 20 points.
+ANTIDOTE
+A spray-type medicine.\\nIt heals one POKéMON from a\\npoisoning.
+BURN HEAL
+A spray-type medicine.\\nIt heals one POKéMON of a burn.
+ICE HEAL
+A spray-type medicine.\\nIt defrosts a frozen POKéMON.
+AWAKENING
+A spray-type medicine.\\nIt awakens a sleeping POKéMON.
+PARLYZ HEAL
+A spray-type medicine.\\nIt heals one POKéMON from\\nparalysis.
+FULL RESTORE
+A medicine that fully restores the\\nHP and heals any status problems\\nof one POKéMON.
+MAX POTION
+A spray-type wound medicine.\\nIt fully restores the HP of one\\nPOKéMON.
+HYPER POTION
+A spray-type wound medicine.\\nIt restores the HP of one POKéMON\\nby 200 points.
+SUPER POTION
+A spray-type wound medicine.\\nIt restores the HP of one POKéMON\\nby 50 points.
+FULL HEAL
+A spray-type medicine.\\nIt heals all the status problems of\\none POKéMON.
+REVIVE
+A medicine that revives a fainted\\nPOKéMON, restoring HP by half the\\nmaximum amount.
+MAX REVIVE
+A medicine that revives a fainted\\nPOKéMON, restoring HP fully.
+FRESH WATER
+Water with a high mineral content.\\nIt restores the HP of one POKéMON\\nby 50 points.
+SODA POP
+A fizzy soda drink.\\nIt restores the HP of one POKéMON\\nby 60 points.
+LEMONADE
+A very sweet drink.\\nIt restores the HP of one POKéMON\\nby 80 points.
+MOOMOO MILK
+Highly nutritious milk.\\nIt restores the HP of one POKéMON\\nby 100 points.
+ENERGYPOWDER
+A very bitter medicine powder.\\nIt restores the HP of one POKéMON\\nby 50 points.
+ENERGY ROOT
+A very bitter root.\\nIt restores the HP of one POKéMON\\nby 200 points.
+HEAL POWDER
+A very bitter medicine powder.\\nIt heals all the status problems of\\none POKéMON.
+REVIVAL HERB
+A very bitter medicinal herb.\\nIt revives a fainted POKéMON,\\nrestoring HP fully.
+ETHER
+Restores a selected move's PP by\\n10 points for one POKéMON.
+MAX ETHER
+Fully restores a selected move's PP\\nfor one POKéMON.
+ELIXIR
+Restores the PP of all moves for\\none POKéMON by 10 points each.
+MAX ELIXIR
+Fully restores the PP of all moves\\nfor one POKéMON.
+LAVA COOKIE
+LAVARIDGE TOWN's local specialty.\\nIt heals all the status problems of\\none POKéMON.
+BLUE FLUTE
+A blue glass flute that awakens\\na sleeping POKéMON.
+YELLOW FLUTE
+A yellow glass flute that snaps one\\nPOKéMON out of confusion.
+RED FLUTE
+A red glass flute that snaps one\\nPOKéMON out of infatuation.
+BLACK FLUTE
+A black glass flute.\\nWhen blown, it makes wild POKéMON\\nless likely to appear.
+WHITE FLUTE
+A white glass flute.\\nWhen blown, it makes wild POKéMON\\nmore likely to appear.
+BERRY JUICE
+A 100% pure juice.\\nIt restores the HP of one POKéMON\\nby 20 points.
+SACRED ASH
+Revives all fainted POKéMON,\\nrestoring HP fully.
+SHOAL SALT
+Pure salt obtained from deep inside\\nthe SHOAL CAVE. It is extremely\\nsalty.
+SHOAL SHELL
+A pretty seashell found deep inside\\nthe SHOAL CAVE. It is striped in\\nblue and white.
+RED SHARD
+A small red shard.\\nIt appears to be from some sort of\\na tool made long ago.
+BLUE SHARD
+A small blue shard.\\nIt appears to be from some sort of\\na tool made long ago.
+YELLOW SHARD
+A small yellow shard.\\nIt appears to be from some sort of\\na tool made long ago.
+GREEN SHARD
+A small green shard.\\nIt appears to be from some sort of\\na tool made long ago.
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+HP UP
+A nutritious drink for POKéMON.\\nIt raises the base HP of one\\nPOKéMON.
+PROTEIN
+A nutritious drink for POKéMON.\\nIt raises the base ATTACK stat of\\none POKéMON.
+IRON
+A nutritious drink for POKéMON.\\nIt raises the base DEFENSE stat of\\none POKéMON.
+CARBOS
+A nutritious drink for POKéMON.\\nIt raises the base SPEED stat of\\none POKéMON.
+CALCIUM
+A nutritious drink for POKéMON.\\nIt raises the base SP. ATK stat\\nof one POKéMON.
+RARE CANDY
+A candy that is packed with energy.\\nIt raises the level of a POKéMON\\nby one.
+PP UP
+Slightly raises the maximum PP of\\na selected move for one POKéMON.
+ZINC
+A nutritious drink for POKéMON.\\nIt raises the base SP. DEF stat\\nof one POKéMON.
+PP MAX
+Raises the PP of a selected move\\nto its maximum level for one\\nPOKéMON.
+????????
+?????
+GUARD SPEC.
+An item that prevents stat reduction\\namong party POKéMON for five turns\\nafter use.
+DIRE HIT
+Raises the critical-hit ratio of\\nPOKéMON in battle. Wears off if the\\nPOKéMON is withdrawn.
+X ATTACK
+Raises the ATTACK stat of POKéMON\\nin battle. Wears off if the POKéMON\\nis withdrawn.
+X DEFEND
+Raises the DEFENSE stat of POKéMON\\nin battle. Wears off if the POKéMON\\nis withdrawn.
+X SPEED
+Raises the SPEED stat of POKéMON\\nin battle. Wears off if the POKéMON\\nis withdrawn.
+X ACCURACY
+Raises the accuracy stat of\\nPOKéMON in battle. Wears off if the\\nPOKéMON is withdrawn.
+X SPECIAL
+Raises the SP. ATK stat of\\nPOKéMON in battle. Wears off if the\\nPOKéMON is withdrawn.
+POK\u00e9 DOLL
+An attractive doll.\\nUse it to flee from any battle with\\na wild POKéMON.
+FLUFFY TAIL
+An attractive item.\\nUse it to flee from any battle with\\na wild POKéMON.
+????????
+?????
+SUPER REPEL
+Prevents weak wild POKéMON from\\nappearing for 200 steps.
+MAX REPEL
+Prevents weak wild POKéMON from\\nappearing for 250 steps.
+ESCAPE ROPE
+A long, durable rope.\\nUse it to escape instantly from a\\ncave or a dungeon.
+REPEL
+Prevents weak wild POKéMON from\\nappearing for 100 steps.
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+SUN STONE
+A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is as red as the sun.
+MOON STONE
+A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is as black as the night sky.
+FIRE STONE
+A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is colored orange.
+THUNDERSTONE
+A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt has a thunderbolt pattern.
+WATER STONE
+A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is a clear light blue.
+LEAF STONE
+A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt has a leaf pattern.
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+TINYMUSHROOM
+A small and rare mushroom.\\nIt is quite popular among certain\\npeople.
+BIG MUSHROOM
+A large and rare mushroom.\\nIt is very popular among certain\\npeople.
+????????
+?????
+PEARL
+A relatively small pearl that\\nsparkles in a pretty silver color.\\nIt can be sold cheaply.
+BIG PEARL
+A quite-large pearl that sparkles\\nin a pretty silver color.\\nIt can be sold at a high price.
+STARDUST
+A pretty red sand with a loose,\\nsilky feel.\\nIt can be sold at a high price.
+STAR PIECE
+A shard of a pretty gem that\\nsparkles in a red color.\\nIt can be sold at a high price.
+NUGGET
+A nugget of pure gold that gives\\noff a lustrous gleam.\\nIt can be sold at a high price.
+HEART SCALE
+A pretty, heart-shaped scale that\\nis extremely rare. It glows faintly\\nin the colors of a rainbow.
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+ORANGE MAIL
+A piece of MAIL featuring a cute\\nZIGZAGOON print.\\nIt is to be held by a POKéMON.
+HARBOR MAIL
+A piece of MAIL featuring a cute\\nWINGULL print.\\nIt is to be held by a POKéMON.
+GLITTER MAIL
+A piece of MAIL featuring a cute\\nPIKACHU print.\\nIt is to be held by a POKéMON.
+MECH MAIL
+A piece of MAIL featuring a cute\\nMAGNEMITE print.\\nIt is to be held by a POKéMON.
+WOOD MAIL
+A piece of MAIL featuring a cute\\nSLAKOTH print.\\nIt is to be held by a POKéMON.
+WAVE MAIL
+A piece of MAIL featuring a cute\\nWAILMER print.\\nIt is to be held by a POKéMON.
+BEAD MAIL
+A piece of MAIL to be held by a\\nPOKéMON. It will bear the print of\\nthe POKéMON holding it.
+SHADOW MAIL
+A piece of MAIL featuring a cute\\nDUSKULL print.\\nIt is to be held by a POKéMON.
+TROPIC MAIL
+A piece of MAIL featuring a cute\\nBELLOSSOM print.\\nIt is to be held by a POKéMON.
+DREAM MAIL
+A piece of MAIL to be held by a\\nPOKéMON. It will bear the print of\\nthe POKéMON holding it.
+FAB MAIL
+A piece of MAIL featuring a\\ngorgeous, extravagant print.\\nIt is to be held by a POKéMON.
+RETRO MAIL
+A piece of MAIL featuring a print\\nof three cute POKéMON.\\nIt is to be held by a POKéMON.
+CHERI BERRY
+When held by a POKéMON, it will be\\nused in battle to heal paralysis.
+CHESTO BERRY
+When held by a POKéMON, it will be\\nused in battle to wake up.
+PECHA BERRY
+When held by a POKéMON, it will be\\nused in battle to cure poison.
+RAWST BERRY
+When held by a POKéMON, it will be\\nused in battle to heal a burn.
+ASPEAR BERRY
+When held by a POKéMON, it will be\\nused in battle for defrosting.
+LEPPA BERRY
+When held by a POKéMON, it will be\\nused in battle to restore 10 PP.
+ORAN BERRY
+When held by a POKéMON, it will be\\nused in battle to restore 10 HP.
+PERSIM BERRY
+When held by a POKéMON, it will be\\nused in battle to lift confusion.
+LUM BERRY
+When held by a POKéMON, it will be\\nused in battle to heal any problem.
+SITRUS BERRY
+When held by a POKéMON, it will be\\nused in battle to restore 30 HP.
+FIGY BERRY
+A hold item that restores HP but\\nmay cause confusion when used.
+WIKI BERRY
+A hold item that restores HP but\\nmay cause confusion when used.
+MAGO BERRY
+A hold item that restores HP but\\nmay cause confusion when used.
+AGUAV BERRY
+A hold item that restores HP but\\nmay cause confusion when used.
+IAPAPA BERRY
+A hold item that restores HP but\\nmay cause confusion when used.
+RAZZ BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+BLUK BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+NANAB BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+WEPEAR BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+PINAP BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+POMEG BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+KELPSY BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+QUALOT BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+HONDEW BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+GREPA BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+TAMATO BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+CORNN BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+MAGOST BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+RABUTA BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+NOMEL BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+SPELON BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+PAMTRE BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+WATMEL BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+DURIN BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+BELUE BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+LIECHI BERRY
+When held by a POKéMON, it raises\\nthe ATTACK stat in a pinch.
+GANLON BERRY
+When held by a POKéMON, it raises\\nthe DEFENSE stat in a pinch.
+SALAC BERRY
+When held by a POKéMON, it raises\\nthe SPEED stat in a pinch.
+PETAYA BERRY
+When held by a POKéMON, it raises\\nthe SP. ATK stat in a pinch.
+APICOT BERRY
+When held by a POKéMON, it raises\\nthe SP. DEF stat in a pinch.
+LANSAT BERRY
+When held by a POKéMON, it raises\\nthe critical-hit ratio in a pinch.
+STARF BERRY
+When held by a POKéMON, it sharply\\nraises one stat in a pinch.
+ENIGMA BERRY
+Can be ground up into a powder as\\nan ingredient for medicine.
+????????
+?????
+????????
+?????
+????????
+?????
+BRIGHTPOWDER
+An item to be held by a POKéMON.\\nIt casts a tricky glare that lowers\\nthe opponent's accuracy.
+WHITE HERB
+An item to be held by a POKéMON.\\nIt restores any lowered stat in\\nbattle. It can be used only once.
+MACHO BRACE
+An item to be held by a POKéMON.\\nIt promotes strong growth but\\nlowers SPEED while it is held.
+EXP. SHARE
+An item to be held by a POKéMON.\\nThe holder gets a share of EXP.\\npoints without having to battle.
+QUICK CLAW
+An item to be held by a POKéMON.\\nA light and sharp claw. The holder\\nmay be able to strike first.
+SOOTHE BELL
+An item to be held by a POKéMON.\\nA bell with a comforting chime that\\nmakes the holder calm and friendly.
+MENTAL HERB
+An item to be held by a POKéMON.\\nIt snaps the holder out of\\ninfatuation. It can be used once.
+CHOICE BAND
+An item to be held by a POKéMON.\\nIt powers up one move, which\\nbecomes the only usable one.
+KING'S ROCK
+An item to be held by a POKéMON.\\nIt may cause the foe to flinch\\nupon taking damage.
+SILVERPOWDER
+An item to be held by a POKéMON.\\nA shiny silver powder that boosts\\nthe power of BUG-type moves.
+AMULET COIN
+An item to be held by a POKéMON.\\nIt doubles the battle money if the\\nholding POKéMON takes part.
+CLEANSE TAG
+An item to be held by a POKéMON.\\nIt repels wild POKéMON if the\\nholder is first in the party.
+SOUL DEW
+An orb to be held by a LATIOS or\\nLATIAS. It raises the SP. ATK\\nand SP. DEF stats.
+DEEPSEATOOTH
+An item to be held by a POKéMON.\\nA fang that gleams a sharp silver.\\nIt raises the SP. ATK stat.
+DEEPSEASCALE
+An item to be held by a POKéMON.\\nA scale that shines a faint pink.\\nIt raises the SP. DEF stat.
+SMOKE BALL
+An item to be held by a POKéMON.\\nThe holding POKéMON can flee from\\nany wild POKéMON for sure.
+EVERSTONE
+An item to be held by a POKéMON.\\nThe holding POKéMON is prevented\\nfrom evolving.
+FOCUS BAND
+An item to be held by a POKéMON.\\nThe holding POKéMON may endure an\\nattack, leaving just 1 HP.
+LUCKY EGG
+An item to be held by a POKéMON.\\nAn egg filled with happiness that\\nearns extra EXP. points in battle.
+SCOPE LENS
+An item to be held by a POKéMON.\\nA lens that boosts the critical-hit\\nratio of the holding POKéMON.
+METAL COAT
+An item to be held by a POKéMON.\\nA special metallic film that boosts\\nthe power of STEEL-type moves.
+LEFTOVERS
+An item to be held by a POKéMON.\\nThe holding POKéMON gradually\\nregains HP during battle.
+DRAGON SCALE
+A thick and tough scale.\\nA DRAGON-type POKéMON may be\\nholding it.
+LIGHT BALL
+An orb to be held by a PIKACHU\\nthat raises the SP. ATK stat.\\nTouching it may cause a shock.
+SOFT SAND
+An item to be held by a POKéMON.\\nA loose, silky sand that boosts the\\npower of GROUND-type moves.
+HARD STONE
+An item to be held by a POKéMON.\\nAn unbreakable stone that boosts\\nthe power of ROCK-type moves.
+MIRACLE SEED
+An item to be held by a POKéMON.\\nA seed imbued with life that boosts\\nthe power of GRASS-type moves.
+BLACKGLASSES
+An item to be held by a POKéMON.\\nA shady-looking pair of glasses\\nthat boosts DARK-type moves.
+BLACK BELT
+An item to be held by a POKéMON.\\nA belt that boosts determination\\nand FIGHTING-type moves.
+MAGNET
+An item to be held by a POKéMON.\\nA powerful magnet that boosts the\\npower of ELECTRIC-type moves.
+MYSTIC WATER
+An item to be held by a POKéMON.\\nA teardrop-shaped gem that boosts\\nthe power of WATER-type moves.
+SHARP BEAK
+An item to be held by a POKéMON.\\nA long, sharp beak that boosts the\\npower of FLYING-type moves.
+POISON BARB
+An item to be held by a POKéMON.\\nA small, poisonous barb that boosts\\nthe power of POISON-type moves.
+NEVERMELTICE
+An item to be held by a POKéMON.\\nA piece of ice that repels heat\\nand boosts ICE-type moves.
+SPELL TAG
+An item to be held by a POKéMON.\\nA sinister, eerie tag that boosts\\nGHOST-type moves.
+TWISTEDSPOON
+An item to be held by a POKéMON.\\nA spoon imbued with telekinetic\\npower boosts PSYCHIC-type moves.
+CHARCOAL
+An item to be held by a POKéMON.\\nA combustible fuel that boosts the\\npower of FIRE-type moves.
+DRAGON FANG
+An item to be held by a POKéMON.\\nA hard and sharp fang that boosts\\nthe power of DRAGON-type moves.
+SILK SCARF
+An item to be held by a POKéMON.\\nA sumptuous scarf that boosts the\\npower of NORMAL-type moves.
+UP-GRADE
+A transparent device filled with all\\nsorts of data.\\nIt is made by SILPH CO.
+SHELL BELL
+An item to be held by a POKéMON.\\nThe holding POKéMON regains some\\nHP upon striking the foe.
+SEA INCENSE
+An item to be held by a POKéMON.\\nIt slightly boosts the power of\\nWATER-type moves.
+LAX INCENSE
+An item to be held by a POKéMON.\\nIts tricky aroma slightly reduces\\nthe foe's accuracy.
+LUCKY PUNCH
+A glove to be held by a CHANSEY.\\nIt raises CHANSEY's critical-hit\\nratio.
+METAL POWDER
+A fine, hard powder to be held by\\na DITTO.\\nIt raises DITTO's DEFENSE stat.
+THICK CLUB
+A hard bone of some sort to be\\nheld by a CUBONE or MAROWAK.\\nIt raises the ATTACK stat.
+STICK
+A stick of leek to be held by a\\nFARFETCH'D. It raises FARFETCH'D's\\ncritical-hit ratio.
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+RED SCARF
+An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nCOOL condition in CONTESTS.
+BLUE SCARF
+An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nBEAUTY condition in CONTESTS.
+PINK SCARF
+An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nCUTE condition in CONTESTS.
+GREEN SCARF
+An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nSMART condition in CONTESTS.
+YELLOW SCARF
+An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nTOUGH condition in CONTESTS.
+MACH BIKE
+A folding bicycle that is at least\\ntwice as fast as walking.
+COIN CASE
+A case for holding COINS obtained\\nat the GAME CORNER.\\nIt holds up to 9,999 COINS.
+ITEMFINDER
+A device used for finding items.\\nIf there is a hidden item nearby\\nwhen it is used, it emits a signal.
+OLD ROD
+An old and beat-up fishing rod.\\nUse it by any body of water to \\nfish for wild POKéMON.
+GOOD ROD
+A new, good-quality fishing rod.\\nUse it by any body of water to \\nfish for wild POKéMON.
+SUPER ROD
+An awesome, high-tech fishing rod.\\nUse it by any body of water to fish\\nfor wild POKéMON.
+S.S. TICKET
+The ticket required for sailing on\\nthe ferry S.S. ANNE.\\nIt has a drawing of a ship on it.
+CONTEST PASS
+The pass required for entering\\nPOKéMON CONTESTS. It has a\\ndrawing of an award ribbon on it.
+????????
+?????
+WAILMER PAIL
+A nifty watering pail.\\nUse it to promote strong growth in\\nBERRIES planted in soft soil.
+DEVON GOODS
+A package that contains mechanical\\nparts of some sort made by the\\nDEVON CORPORATION.
+SOOT SACK
+A sack used to collect volcanic\\nash automatically during walks\\nover deep ash.
+BASEMENT KEY
+The key to NEW MAUVILLE, which\\nwas constructed beneath MAUVILLE\\nCITY.
+ACRO BIKE
+A folding bicycle that is capable\\nof stunts like jumps and wheelies.
+{POKEBLOCK} CASE
+A case for holding {POKEBLOCK}S made\\nwith a BERRY BLENDER. It releases\\none {POKEBLOCK} when shaken.
+LETTER
+An extremely important letter to\\nSTEVEN from the PRESIDENT of the\\nDEVON CORPORATION.
+EON TICKET
+The ticket required for sailing on a\\nferry to a distant southern island.\\nIt features a drawing of an island.
+RED ORB
+An orb that glows red.\\nIt is said to contain an incredible\\npower from ancient times.
+BLUE ORB
+An orb that glows blue.\\nIt is said to contain an incredible\\npower from ancient times.
+SCANNER
+A device used to search for\\nlife-forms in water.\\nIt looks too difficult to use.
+GO-GOGGLES
+A pair of protective goggles.\\nThey enable a TRAINER to travel\\nthrough even desert sandstorms.
+METEORITE
+A meteorite that fell from space\\nonto MT. MOON long ago.\\nIt is very lumpy and hard.
+RM. 1 KEY
+A key that opens the door to Room\\n1 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.
+RM. 2 KEY
+A key that opens the door to Room\\n2 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.
+RM. 4 KEY
+A key that opens the door to Room\\n4 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.
+RM. 6 KEY
+A key that opens the door to Room\\n6 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.
+STORAGE KEY
+A key that opens the storage hold\\ninside the ABANDONED SHIP.\\nIt is old and looks easily broken.
+ROOT FOSSIL
+A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a plant root.
+CLAW FOSSIL
+A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a claw.
+DEVON SCOPE
+A scope that signals the presence\\nof any unseeable POKéMON.\\nIt is made by the DEVON CORP.
+TM01
+An extremely powerful attack.\\nHowever, if the user is hit before\\nusing the move, they will flinch.
+TM02
+Sharp, huge claws hook and slash\\nthe foe quickly and with great\\npower.
+TM03
+The foe is hit with a pulsing blast\\nof water. It may also confuse the\\ntarget.
+TM04
+The user calms its spirit and\\nfocuses its mind to raise its\\nSP. ATK and SP. DEF stats.
+TM05
+A savage roar that causes the foe\\nto switch out of battle. In the\\nwild, ROAR ends the battle.
+TM06
+A move that leaves the foe badly\\npoisoned. Its poison damage worsens\\nevery turn.
+TM07
+Summons a hailstorm that lasts for\\nfive turns. The hailstorm damages\\nall types except the ICE type.
+TM08
+The user tightens all its muscles\\nand bulks up, boosting both its\\nATTACK and DEFENSE stats.
+TM09
+The user shoots seeds at the foe\\nin rapid succession. Two to five\\nseeds are shot at once.
+TM10
+A variable move that changes type\\nand power depending on the POKéMON\\nusing it.
+TM11
+The weather is turned sunny for\\nfive turns. Over that time, FIRE-\\ntype moves are powered up.
+TM12
+A taunted foe may become enraged.\\nIt will then only be able to use\\nattack moves.
+TM13
+An icy-cold beam is shot at the\\nfoe. It may leave the target\\nfrozen.
+TM14
+A vicious snow-and-wind attack that\\nstrikes all foes in battle. It may\\ncause freezing.
+TM15
+A harsh attack that inflicts severe\\ndamage on the foe. However, the\\nuser must rest the next turn.
+TM16
+A wall of light is created over\\nfive turns. It reduces damage from\\nSP. ATK attacks.
+TM17
+The user is completely protected\\nfrom attack in the turn it is used.\\nIt may fail if used in succession.
+TM18
+A heavy rain is summoned for five\\nturns. Over that time, WATER-type\\nmoves are powered up.
+TM19
+The user strikes the foe with\\ntentacles or roots, stealing the\\ntarget's HP and healing itself.
+TM20
+Protects the party with a shield\\nagainst all status problems over\\nfive turns.
+TM21
+This attack move grows more\\npowerful the more the POKéMON\\ndislikes its TRAINER.
+TM22
+A 2-turn attack that uses the first\\nturn for absorbing sunlight, then\\nblasting the foe in the next turn.
+TM23
+The foe is slammed with a sturdy\\ntail of steel. It may lower the\\ntarget's DEFENSE stat.
+TM24
+A massive jolt of electricity is\\nlaunched at the foe. It may cause\\nparalysis.
+TM25
+Strikes the foe with a huge\\nthunderbolt. It may cause\\nparalysis.
+TM26
+Causes an earthquake that strikes\\nall POKéMON in battle, excluding\\nthe user.
+TM27
+This attack move grows more\\npowerful the more the POKéMON\\nlikes its TRAINER.
+TM28
+A 2-turn attack in which the user\\ndigs underground, then strikes.\\nIt can be used to exit dungeons.
+TM29
+A powerful blast of telekinetic\\nenergy strikes the foe. It may\\nlower the target's SP. DEF stat.
+TM30
+The foe is attacked with a shadowy\\nlump. It may lower the target's\\nSP. DEF stat.
+TM31
+Strikes the foe with a rock-hard\\nfist, etc. It shatters barriers such\\nas REFLECT and LIGHT SCREEN.
+TM32
+The user begins moving so quickly\\nthat it creates illusory copies to\\nraise its evasiveness.
+TM33
+A tough barrier is put up over five\\nturns. It reduces damage from\\nphysical attacks over that time.
+TM34
+A rapid jolt of electricity strikes\\nthe foe. This attack is impossible\\nto evade.
+TM35
+The foe is roasted with a heavy\\nblast of fire. It may leave the\\ntarget with a burn.
+TM36
+Toxic sludge is hurled at the foe\\nwith great force. It may also\\npoison the target.
+TM37
+Summons a sandstorm that lasts for\\nfive turns. It damages all types\\nexcept ROCK, GROUND, and STEEL.
+TM38
+The foe is incinerated with an\\nintense flame. It may leave the\\ntarget with a burn.
+TM39
+Boulders are hurled at the foe.\\nIt also lowers the target's SPEED\\nstat if it hits.
+TM40
+An extremely fast attack against\\none target. It is impossible to\\nevade.
+TM41
+If enraged by this move, the target\\nbecomes incapable of using the same\\nmove twice in a row.
+TM42
+An attack move that becomes very\\npowerful if the user is poisoned,\\nburned, or paralyzed.
+TM43
+An attack move that may have an\\nadditional effect depending on the\\nbattle terrain.
+TM44
+A move that makes the user fall\\nasleep over two turns to restore HP\\nand heal any status problems.
+TM45
+The foe, if it is the opposite\\ngender as the user, becomes\\ninfatuated and may not attack.
+TM46
+An attack that gives the user an\\nopportunity to steal the foe's hold\\nitem.
+TM47
+The foe is struck with steel-hard\\nwings. It may also raise the user's\\nDEFENSE stat.
+TM48
+A special power is transmitted to\\nthe foe, causing it to switch\\nabilities with the user.
+TM49
+A move that steals the effects of\\nany status-changing or healing move\\nthat the foe tries to use.
+TM50
+A maximum-power attack of great\\nferocity, but one that also sharply\\nreduces the user's SP. ATK stat.
+HM01
+Attacks the foe with sharp blades\\nor claws. It can also cut down thin\\ntrees and grass outside of battle.
+HM02
+The user flies up on the first turn,\\nthen attacks next turn. It can be\\nused to fly to any known town.
+HM03
+Creates a huge wave, then crashes\\nit down on the foe. It can be used\\nfor traveling on water.
+HM04
+The user builds enormous power,\\nthen slams the foe. It can be used\\nfor moving large, round boulders.
+HM05
+Looses a powerful blast of light\\nthat reduces the foe's accuracy.\\nIt also lights up dark caves.
+HM06
+Hits the foe with a rock-crushingly\\ntough attack. It can smash cracked\\nboulders.
+HM07
+A powerful charge attack. It can\\nbe used for climbing a torrential\\nwaterfall.
+HM08
+A 2-turn attack in which the user\\ndives underwater on the first turn,\\nthen strikes in the next turn.
+????????
+?????
+????????
+?????
+OAK'S PARCEL
+A parcel to be delivered to PROF.\\nOAK from VIRIDIAN CITY's POKéMON\\nMART.
+POK\u00e9 FLUTE
+A flute that is said to instantly\\nawaken any POKéMON. It has a\\nlovely tone.
+SECRET KEY
+The key to CINNABAR ISLAND GYM's\\nfront door. It is colored red and\\ndecorated.
+BIKE VOUCHER
+Take this voucher to the BIKE SHOP\\nin CERULEAN CITY and exchange it\\nfor a bicycle.
+GOLD TEETH
+A set of false teeth lost by the\\nSAFARI ZONE'S WARDEN. It makes his\\nsmile sparkle.
+OLD AMBER
+A piece of amber that contains\\nthe genes of an ancient POKéMON.\\nIt is clear with a reddish tint.
+CARD KEY
+A card-type key that unlocks doors\\nin SILPH CO.'s HEAD OFFICE in\\nSAFFRON CITY.
+LIFT KEY
+A key that operates the elevator\\nin TEAM ROCKET's HIDEOUT.\\nIt bears the TEAM ROCKET logo.
+HELIX FOSSIL
+A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a seashell.
+DOME FOSSIL
+A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a shell.
+SILPH SCOPE
+A scope that makes unseeable\\nPOKéMON visible.\\nIt is made by SILPH CO.
+BICYCLE
+A folding bicycle that allows\\nfaster movement than the RUNNING\\nSHOES.
+TOWN MAP
+A very convenient map that can be\\nviewed anytime. It even shows your \\npresent location.
+VS SEEKER
+A device that indicates TRAINERS\\nwho want to battle. The battery\\ncharges while traveling.
+FAME CHECKER
+A device that enables you to\\nrecall what you've heard and seen\\nabout famous people.
+TM CASE
+A case that holds TMs and HMs.\\nIt is attached to the BAG's\\ncompartment for important items.
+BERRY POUCH
+A pouch for carrying BERRIES.\\nIt is attached to the BAG's\\ncompartment for important items.
+TEACHY TV
+A television set that is tuned to\\na program with useful tips for\\nnovice TRAINERS.
+TRI-PASS
+A pass for ferries between ONE,\\nTWO, and THREE ISLAND.\\nIt has a drawing of three islands.
+RAINBOW PASS
+A pass for ferries between\\nVERMILION and the SEVII ISLANDS.\\nIt features a drawing of a rainbow.
+TEA
+An aromatic tea prepared by an old\\nlady. It will slake even the worst\\nthirst.
+MYSTICTICKET
+A ticket required to board the ship\\nto NAVEL ROCK.\\nIt glows with a mystic light.
+AURORATICKET
+A ticket required to board the ship\\nto BIRTH ISLAND.\\nIt glows beautifully.
+POWDER JAR
+A jar for storing BERRY POWDER\\nmade using a BERRY CRUSHER.
+RUBY
+An exquisitely beautiful gem that\\nhas a red glow.\\nIt symbolizes passion.
+SAPPHIRE
+An exquisitely beautiful gem that\\nhas a blue glow.\\nIt symbolizes honesty.
+<<< FILE: src/data/trainers.h >>>
+SIDNEY
+PHOEBE
+ROXANNE
+BRAWLY
+TATE&LIZA
+MATT
+SHELLY
+TABITHA
+COURTNEY
+WATTSON
+FLANNERY
+NORMAN
+WINONA
+WALLACE
+GLACIA
+DRAKE
+BEN
+CALVIN
+JOSH
+TIMMY
+JOEY
+DAN
+CHAD
+TYLER
+EDDIE
+DILLON
+YASU
+DAVE
+BEN
+RICK
+DOUG
+SAMMY
+COLTON
+GREG
+JAMES
+KENT
+ROBBY
+CALE
+KEIGO
+ELIJAH
+BRENT
+CONNER
+JANICE
+SALLY
+ROBIN
+CRISSY
+MIRIAM
+IRIS
+RELI
+ALI
+HALEY
+ANN
+DAWN
+PAIGE
+ANDREA
+MEGAN
+JULIA
+KAY
+LISA
+EDMOND
+TREVOR
+LEONARD
+DUNCAN
+HUEY
+DYLAN
+PHILLIP
+DWAYNE
+LIAM
+SHANE
+ETHAN
+RICKY
+JEFF
+CHRIS
+DREW
+DIANA
+NANCY
+ISABELLE
+KELSEY
+ALICIA
+CAITLIN
+HEIDI
+CAROL
+SOFIA
+MARTHA
+TINA
+HANNAH
+MARK
+HERMAN
+COOPER
+STEVE
+WINSTON
+DAWSON
+ASHTON
+JOVAN
+MIGUEL
+AIDAN
+GLENN
+LESLIE
+ERIK
+AVERY
+DEREK
+ZAC
+MARCOS
+FRANKLIN
+NOB
+WAYNE
+ALAN
+BRICE
+CLARK
+TRENT
+DUDLEY
+ALLEN
+ERIC
+LENNY
+OLIVER
+LUCAS
+JARED
+MALIK
+ERNEST
+ALEX
+LAO
+HIDEO
+RUBEN
+BILLY
+NIKOLAS
+JAXON
+WILLIAM
+LUKAS
+ISAAC
+GERALD
+QUINN
+RAMON
+DUSTY
+ARNIE
+SIMON
+LEWIS
+BAILY
+BRAXTON
+BERNIE
+DALE
+BARNY
+NED
+CHIP
+HANK
+ELLIOT
+RONALD
+CLAUDE
+WADE
+NOLAN
+ANDREW
+LUIS
+RICHARD
+REECE
+MATTHEW
+DOUGLAS
+DAVID
+TONY
+AXLE
+BARRY
+DEAN
+DARRIN
+SPENCER
+JACK
+JEROME
+ROLAND
+KOJI
+LUKE
+CAMRON
+RAUL
+ISAIAH
+ZEEK
+JAMAL
+COREY
+CHASE
+HUGO
+JASPER
+DIRK
+DARIAN
+STAN
+RICH
+BRIDGET
+TAMIA
+LORI
+LOLA
+SHEILA
+TIFFANY
+NORA
+MELISSA
+GRACE
+OLIVIA
+LAUREN
+ANYA
+ALICE
+CONNIE
+SHIRLEY
+JOHAN
+TYRON
+CAMERON
+PRESTON
+RANDALL
+LUCA
+DALTON
+NELSON
+KIRK
+SHAWN
+GREGORY
+EDWARD
+KAYDEN
+NATE
+PHIL
+EDGAR
+JASON
+COLE
+VINCENT
+JOHN
+SEBASTIAN
+PERRY
+ROBERT
+DONALD
+BENNY
+EDWIN
+CHESTER
+WILTON
+RAMIRO
+JACOB
+ROGER
+REED
+KEITH
+CARTER
+MITCH
+BECK
+MARLON
+KOICHI
+MIKE
+HIDEKI
+AARON
+HITOSHI
+ATSUSHI
+KIYO
+TAKASHI
+DAISUKE
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TED
+CONNOR
+JERRY
+JOSE
+RODNEY
+BEAU
+TAYLOR
+JOSHUA
+PARKER
+ED
+TRAVIS
+BRAYDON
+IVAN
+GIOVANNI
+GIOVANNI
+GIOVANNI
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+SAMUEL
+GEORGE
+COLBY
+PAUL
+ROLANDO
+GILBERT
+OWEN
+BERKE
+YUJI
+WARREN
+MARY
+CAROLINE
+ALEXA
+SHANNON
+NAOMI
+BROOKE
+AUSTINA
+JULIE
+LORELEI
+BRUNO
+AGATHA
+LANCE
+BROCK
+MISTY
+LT. SURGE
+ERIKA
+KOGA
+BLAINE
+SABRINA
+THOMAS
+ARTHUR
+TUCKER
+NORTON
+WALTER
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+PATRICIA
+CARLY
+HOPE
+PAULA
+LAUREL
+JODY
+TAMMY
+RUTH
+KARINA
+JANAE
+ANGELICA
+EMILIA
+JENNIFER
+AMANDA
+STACY
+TASHA
+JEREMY
+ALMA
+SUSIE
+VALERIE
+GWEN
+VIRGIL
+FLINT
+MISSY
+IRENE
+DANA
+ARIANA
+LEAH
+JUSTIN
+YAZMIN
+KINDRA
+BECKY
+CELIA
+BROOKS
+LAMAR
+ELI & ANNE
+RAY & TYRA
+GIA & JES
+KIRI & JAN
+RON & MYA
+LEA & JED
+LIA & LUC
+LIL & IAN
+BEN
+BEN
+CHAD
+RELI
+RELI
+TIMMY
+TIMMY
+TIMMY
+CHAD
+JANICE
+JANICE
+CHAD
+FRANKLIN
+PROF. OAK
+BRENDAN
+MAY
+RED
+LEAF
+GRUNT
+JACLYN
+SHARON
+AMIRA
+ALIZE
+NICOLAS
+MADELINE
+NIKKI
+STANLY
+JACKI
+DAISY
+GOON
+GOON
+GOON
+ANTHONY
+CHARLIE
+ELI & ANNE
+JOHNSON
+RICARDO
+JAREN
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+ADMIN
+ADMIN
+GIDEON
+AMARA
+MARIA
+ABIGAIL
+FINN
+GARRETT
+TOMMY
+TANYA
+SHEA
+HUGH
+BRYCE
+CLAIRE
+MIK & KIA
+VIOLET
+ALEXIS
+JOY & MEG
+TISHA
+CELINA
+RAYNA
+GILLIAN
+DESTIN
+TOBY
+GRUNT
+GRUNT
+GRUNT
+MILO
+CHAZ
+HAROLD
+TYLOR
+MYMO
+NICOLE
+AVA & GEB
+ROSE
+SAMIR
+DENISE
+MIU & MIA
+EARL
+FOSTER
+LARRY
+DARYL
+HECTOR
+DARIO
+RODETTE
+MIAH
+EVE & JON
+MASON
+CYNDY
+JOCELYN
+EVAN
+MARK
+LOGAN
+JACKSON
+BETH
+KATELYN
+LEROY
+MICHELLE
+LEX & NYA
+BRANDON
+BENJAMIN
+EDNA
+CLIFFORD
+SELPHY
+LAWSON
+LAURA
+BETHANY
+ALLISON
+GARRET
+JONAH
+VANCE
+NASH
+CORDELL
+DALIA
+JOANA
+RILEY
+MARCY
+LAYTON
+KELSEY
+KELSEY
+KELSEY
+RICKY
+RICKY
+RICKY
+JEFF
+JEFF
+JEFF
+ISABELLE
+ISABELLE
+ISABELLE
+YASU
+YASU
+BERNIE
+DARIAN
+CHRIS
+CHRIS
+CHRIS
+ALICIA
+ALICIA
+ALICIA
+JEREMY
+MARK
+HERMAN
+HERMAN
+TRENT
+MEGAN
+MEGAN
+GLENN
+RICH
+JAREN
+ELLIOT
+LUCA
+SHEILA
+ROBERT
+ROBERT
+SUSIE
+SUSIE
+SUSIE
+LUKAS
+BENNY
+BENNY
+MARLON
+MARLON
+GRACE
+CHESTER
+CHESTER
+BECKY
+BECKY
+BECKY
+RON & MYA
+RON & MYA
+RON & MYA
+RUBEN
+CAMRON
+JAXON
+ISAIAH
+COREY
+JACOB
+JACOB
+ALICE
+DARRIN
+MISSY
+MISSY
+WADE
+JACK
+LIL & IAN
+LIL & IAN
+FINN
+SHARON
+SHARON
+TANYA
+TANYA
+SHEA
+SHEA
+HUGH
+HUGH
+MIK & KIA
+MIK & KIA
+AMIRA
+JOY & MEG
+RAYNA
+DESTIN
+ALIZE
+GIA & JES
+GIA & JES
+MILO
+CHAZ
+HAROLD
+NICOLE
+JACLYN
+SAMIR
+EARL
+LARRY
+HECTOR
+DARIO
+RODETTE
+MASON
+NICOLAS
+MADELINE
+CYNDY
+EVAN
+JACKSON
+KATELYN
+LEROY
+MICHELLE
+LEX & NYA
+COLTON
+COLTON
+COLTON
+MATTHEW
+TONY
+MELISSA
+LORELEI
+BRUNO
+AGATHA
+LANCE
+TERRY
+TERRY
+TERRY
+PAXTON

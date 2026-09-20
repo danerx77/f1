@@ -1,0 +1,2626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20260829T222515Z"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en"><seg>STENCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>SMRÓD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DRIZZLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>MŻAWKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SPEED BOOST</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZYBKOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BATTLE ARMOR</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZBROJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STURDY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KRZEPA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DAMP</seg></tuv>
+      <tuv xml:lang="pl"><seg>WILGOĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LIMBER</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZWINNOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SAND VEIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>SCHRON ZIEMI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STATIC</seg></tuv>
+      <tuv xml:lang="pl"><seg>STATYCZNOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VOLT ABSORB</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRĄDOLUBNOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WATER ABSORB</seg></tuv>
+      <tuv xml:lang="pl"><seg>WODOLUBNOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OBLIVIOUS</seg></tuv>
+      <tuv xml:lang="pl"><seg>NIEPAMIĘĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CLOUD NINE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SIÓDME NIEBO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COMPOUNDEYES</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZŁOŻONE OCZY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>INSOMNIA</seg></tuv>
+      <tuv xml:lang="pl"><seg>BEZSENNOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COLOR CHANGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZMIANAKOLORU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>IMMUNITY</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODPORNOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FLASH FIRE</seg></tuv>
+      <tuv xml:lang="pl"><seg>BŁYSK OGNIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHIELD DUST</seg></tuv>
+      <tuv xml:lang="pl"><seg>OSŁONKA PYŁU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OWN TEMPO</seg></tuv>
+      <tuv xml:lang="pl"><seg>WŁASNE TEMPO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SUCTION CUPS</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRZYSSAWKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>INTIMIDATE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZASTRASZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHADOW TAG</seg></tuv>
+      <tuv xml:lang="pl"><seg>OGON CIENIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUGH SKIN</seg></tuv>
+      <tuv xml:lang="pl"><seg>TWARDA SKÓRA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WONDER GUARD</seg></tuv>
+      <tuv xml:lang="pl"><seg>CUDNA STRAŻ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LEVITATE</seg></tuv>
+      <tuv xml:lang="pl"><seg>LEWITACJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EFFECT SPORE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZARODNIKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SYNCHRONIZE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SYNCHRONIZM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CLEAR BODY</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZYSTE CIAŁO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NATURAL CURE</seg></tuv>
+      <tuv xml:lang="pl"><seg>LEK Z NATURY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LIGHTNINGROD</seg></tuv>
+      <tuv xml:lang="pl"><seg>PIORUNOCHRON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SERENE GRACE</seg></tuv>
+      <tuv xml:lang="pl"><seg>LEKKI WDZIĘK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SWIFT SWIM</seg></tuv>
+      <tuv xml:lang="pl"><seg>CHYŻY PŁYWAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CHLOROPHYLL</seg></tuv>
+      <tuv xml:lang="pl"><seg>CHLOROFIL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ILLUMINATE</seg></tuv>
+      <tuv xml:lang="pl"><seg>OŚWIETLENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRACE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODTWORZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HUGE POWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIELKA SIŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POISON POINT</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRUJĄCY RÓG</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>INNER FOCUS</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKUPIENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAGMA ARMOR</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAGMOZBROJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WATER VEIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>WODNY SCHRON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAGNET PULL</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAGNESOWANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SOUNDPROOF</seg></tuv>
+      <tuv xml:lang="pl"><seg>BEZDŹWIĘKOWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RAIN DISH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZBIERAK WODY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SAND STREAM</seg></tuv>
+      <tuv xml:lang="pl"><seg>POTOK PIASKU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PRESSURE</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRESJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THICK FAT</seg></tuv>
+      <tuv xml:lang="pl"><seg>OTYŁOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EARLY BIRD</seg></tuv>
+      <tuv xml:lang="pl"><seg>RANNY PTAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FLAME BODY</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻAR CIAŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RUN AWAY</seg></tuv>
+      <tuv xml:lang="pl"><seg>UCIECZKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>KEEN EYE</seg></tuv>
+      <tuv xml:lang="pl"><seg>BYSTRY WZROK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HYPER CUTTER</seg></tuv>
+      <tuv xml:lang="pl"><seg>HIPERKRAJACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PICKUP</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZBIERACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRUANT</seg></tuv>
+      <tuv xml:lang="pl"><seg>BŁĘDNOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HUSTLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>POŚPIECH</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CUTE CHARM</seg></tuv>
+      <tuv xml:lang="pl"><seg>SŁODKI UROK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FORECAST</seg></tuv>
+      <tuv xml:lang="pl"><seg>PROGNOZA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STICKY HOLD</seg></tuv>
+      <tuv xml:lang="pl"><seg>LEPKI UŚCISK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHED SKIN</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZMIANA SKÓRY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GUTS</seg></tuv>
+      <tuv xml:lang="pl"><seg>TWARDZIEL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MARVEL SCALE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁUSKA CUDÓW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LIQUID OOZE</seg></tuv>
+      <tuv xml:lang="pl"><seg>PŁYNNY SZLAM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OVERGROW</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRZEROST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLAZE</seg></tuv>
+      <tuv xml:lang="pl"><seg>GORZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TORRENT</seg></tuv>
+      <tuv xml:lang="pl"><seg>RWĄCY POTOK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SWARM</seg></tuv>
+      <tuv xml:lang="pl"><seg>RÓJ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCK HEAD</seg></tuv>
+      <tuv xml:lang="pl"><seg>TWARDOGŁOWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DROUGHT</seg></tuv>
+      <tuv xml:lang="pl"><seg>SUSZA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ARENA TRAP</seg></tuv>
+      <tuv xml:lang="pl"><seg>PUŁAPKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VITAL SPIRIT</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻYWIOŁOWOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WHITE SMOKE</seg></tuv>
+      <tuv xml:lang="pl"><seg>BIAŁY DYM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PURE POWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZYSTA SIŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHELL ARMOR</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKORUPA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CACOPHONY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KAKOFONIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AIR LOCK</seg></tuv>
+      <tuv xml:lang="pl"><seg>BLOK NIEBA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POUND</seg></tuv>
+      <tuv xml:lang="pl"><seg>UDERZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>KARATE CHOP</seg></tuv>
+      <tuv xml:lang="pl"><seg>CIOS KARATE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DOUBLESLAP</seg></tuv>
+      <tuv xml:lang="pl"><seg>DWUKLAPS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COMET PUNCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>GRAD CIOSÓW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MEGA PUNCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>MEGA PIEŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PAY DAY</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYPŁATA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FIRE PUNCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>PIEŚĆ OGNIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ICE PUNCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>LODOWA PIEŚC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THUNDERPUNCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>PIEŚĆ GROMU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SCRATCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>DRAPANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VICEGRIP</seg></tuv>
+      <tuv xml:lang="pl"><seg>KLESZCZE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GUILLOTINE</seg></tuv>
+      <tuv xml:lang="pl"><seg>GILOTYNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RAZOR WIND</seg></tuv>
+      <tuv xml:lang="pl"><seg>OSTRZAWIATRU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SWORDS DANCE</seg></tuv>
+      <tuv xml:lang="pl"><seg>TANIECMIECZY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CUT</seg></tuv>
+      <tuv xml:lang="pl"><seg>CIECIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GUST</seg></tuv>
+      <tuv xml:lang="pl"><seg>PORYW WIATRU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WING ATTACK</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKRZYDŁOATAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WHIRLWIND</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZDMUCHNIECIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FLY</seg></tuv>
+      <tuv xml:lang="pl"><seg>LOT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BIND</seg></tuv>
+      <tuv xml:lang="pl"><seg>OPLECENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SLAM</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRZAŚNIECIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VINE WHIP</seg></tuv>
+      <tuv xml:lang="pl"><seg>ATAK PNĄCZEM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STOMP</seg></tuv>
+      <tuv xml:lang="pl"><seg>STRATOWANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DOUBLE KICK</seg></tuv>
+      <tuv xml:lang="pl"><seg>PODWÓJNY KOP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MEGA KICK</seg></tuv>
+      <tuv xml:lang="pl"><seg>MEGA KOP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>JUMP KICK</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOPZWYSKOKU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROLLING KICK</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOP Z OBROTU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SAND-ATTACK</seg></tuv>
+      <tuv xml:lang="pl"><seg>ATAK PIASKU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HEADBUTT</seg></tuv>
+      <tuv xml:lang="pl"><seg>TARAN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HORN ATTACK</seg></tuv>
+      <tuv xml:lang="pl"><seg>ATAK ROGIEM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FURY ATTACK</seg></tuv>
+      <tuv xml:lang="pl"><seg>ATAK FURII</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HORN DRILL</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚWIDRORÓG</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TACKLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>PCHNIECIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BODY SLAM</seg></tuv>
+      <tuv xml:lang="pl"><seg>ATAK CIAŁEM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WRAP</seg></tuv>
+      <tuv xml:lang="pl"><seg>OMOTANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TAKE DOWN</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZARŻA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THRASH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁOMOT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DOUBLE-EDGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>OBOSIECZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TAIL WHIP</seg></tuv>
+      <tuv xml:lang="pl"><seg>MERDANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POISON STING</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRUJĄCEŻĄDŁO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TWINEEDLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>DWUIGŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PIN MISSILE</seg></tuv>
+      <tuv xml:lang="pl"><seg>IGŁOPOCISK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LEER</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁYPANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BITE</seg></tuv>
+      <tuv xml:lang="pl"><seg>UGRYZIENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GROWL</seg></tuv>
+      <tuv xml:lang="pl"><seg>WARCZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROAR</seg></tuv>
+      <tuv xml:lang="pl"><seg>RYK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SING</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚPIEW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SUPERSONIC</seg></tuv>
+      <tuv xml:lang="pl"><seg>ULTRADŹWIEKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SONICBOOM</seg></tuv>
+      <tuv xml:lang="pl"><seg>DŹWIEKOGROM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DISABLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYŁĄCZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ACID</seg></tuv>
+      <tuv xml:lang="pl"><seg>KWAS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EMBER</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻAR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FLAMETHROWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIOTACZOGNIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MIST</seg></tuv>
+      <tuv xml:lang="pl"><seg>MGŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WATER GUN</seg></tuv>
+      <tuv xml:lang="pl"><seg>WODNA BROŃ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HYDRO PUMP</seg></tuv>
+      <tuv xml:lang="pl"><seg>POMPA WODNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SURF</seg></tuv>
+      <tuv xml:lang="pl"><seg>SURFOWANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ICE BEAM</seg></tuv>
+      <tuv xml:lang="pl"><seg>PROMIEŃ LODU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLIZZARD</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZAMIEĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PSYBEAM</seg></tuv>
+      <tuv xml:lang="pl"><seg>PSYCHOWIĄZKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BUBBLEBEAM</seg></tuv>
+      <tuv xml:lang="pl"><seg>BĄBLOPROMIEN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AURORA BEAM</seg></tuv>
+      <tuv xml:lang="pl"><seg>PROMIEŃZORZY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HYPER BEAM</seg></tuv>
+      <tuv xml:lang="pl"><seg>HIPERPROMIEŃ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PECK</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIOBANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DRILL PECK</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚWIDRODZIÓB</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SUBMISSION</seg></tuv>
+      <tuv xml:lang="pl"><seg>PODDANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LOW KICK</seg></tuv>
+      <tuv xml:lang="pl"><seg>NISKI KOP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COUNTER</seg></tuv>
+      <tuv xml:lang="pl"><seg>KONTRA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SEISMIC TOSS</seg></tuv>
+      <tuv xml:lang="pl"><seg>SEJSMORZUT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STRENGTH</seg></tuv>
+      <tuv xml:lang="pl"><seg>SIŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ABSORB</seg></tuv>
+      <tuv xml:lang="pl"><seg>ABSORPCJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MEGA DRAIN</seg></tuv>
+      <tuv xml:lang="pl"><seg>MEGAWYSSANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LEECH SEED</seg></tuv>
+      <tuv xml:lang="pl"><seg>NASIONO MOCY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GROWTH</seg></tuv>
+      <tuv xml:lang="pl"><seg>WZROST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RAZOR LEAF</seg></tuv>
+      <tuv xml:lang="pl"><seg>OSTRY LIŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SOLARBEAM</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIĄZKASŁOŃCA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POISONPOWDER</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRUJĄCY PYŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STUN SPORE</seg></tuv>
+      <tuv xml:lang="pl"><seg>PYŁ PARALIŻU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SLEEP POWDER</seg></tuv>
+      <tuv xml:lang="pl"><seg>PYŁEK SNU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PETAL DANCE</seg></tuv>
+      <tuv xml:lang="pl"><seg>PŁATKOTANIEC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STRING SHOT</seg></tuv>
+      <tuv xml:lang="pl"><seg>STRZAŁ NICIĄ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DRAGON RAGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SMOCZY GNIEW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FIRE SPIN</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIR OGNIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THUNDERSHOCK</seg></tuv>
+      <tuv xml:lang="pl"><seg>ELETROSZOK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THUNDERBOLT</seg></tuv>
+      <tuv xml:lang="pl"><seg>BŁYSKAWICA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THUNDER WAVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ELEKTROFALA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THUNDER</seg></tuv>
+      <tuv xml:lang="pl"><seg>PIORUN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCK THROW</seg></tuv>
+      <tuv xml:lang="pl"><seg>RZUT SKAŁĄ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EARTHQUAKE</seg></tuv>
+      <tuv xml:lang="pl"><seg>WSTRZĄS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FISSURE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZCZELINA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DIG</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZAKOPANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TOXIC</seg></tuv>
+      <tuv xml:lang="pl"><seg>TOKSYNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CONFUSION</seg></tuv>
+      <tuv xml:lang="pl"><seg>KONFUZJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PSYCHIC</seg></tuv>
+      <tuv xml:lang="pl"><seg>PSYCHOKINEZA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HYPNOSIS</seg></tuv>
+      <tuv xml:lang="pl"><seg>HIPNOZA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MEDITATE</seg></tuv>
+      <tuv xml:lang="pl"><seg>MEDYTACJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AGILITY</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZWINNOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>QUICK ATTACK</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZYBKI ATAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RAGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>WŚCIEKŁOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TELEPORT</seg></tuv>
+      <tuv xml:lang="pl"><seg>TELEPORTACJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NIGHT SHADE</seg></tuv>
+      <tuv xml:lang="pl"><seg>NOCNY CIEŃ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MIMIC</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIMIKRA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SCREECH</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKRZECZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DOUBLE TEAM</seg></tuv>
+      <tuv xml:lang="pl"><seg>ROZDWOJENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RECOVER</seg></tuv>
+      <tuv xml:lang="pl"><seg>UZDROWIENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HARDEN</seg></tuv>
+      <tuv xml:lang="pl"><seg>UTWARDZANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MINIMIZE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZMIEJSZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SMOKESCREEN</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZASŁONA DYMU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CONFUSE RAY</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚWIATŁOBŁĘD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WITHDRAW</seg></tuv>
+      <tuv xml:lang="pl"><seg>PODEJMIJ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DEFENSE CURL</seg></tuv>
+      <tuv xml:lang="pl"><seg>KULA OBRONNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BARRIER</seg></tuv>
+      <tuv xml:lang="pl"><seg>BARIERA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LIGHT SCREEN</seg></tuv>
+      <tuv xml:lang="pl"><seg>EKRANŚWIATŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HAZE</seg></tuv>
+      <tuv xml:lang="pl"><seg>MGIEŁKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>REFLECT</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODBICIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FOCUS ENERGY</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKUPIENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BIDE</seg></tuv>
+      <tuv xml:lang="pl"><seg>CIERPLIWOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>METRONOME</seg></tuv>
+      <tuv xml:lang="pl"><seg>METRONOM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MIRROR MOVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>PAPUGOWANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SELFDESTRUCT</seg></tuv>
+      <tuv xml:lang="pl"><seg>DESTRUKCJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EGG BOMB</seg></tuv>
+      <tuv xml:lang="pl"><seg>JAJKOBOMBA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LICK</seg></tuv>
+      <tuv xml:lang="pl"><seg>POLIZANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SLUDGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>MUŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BONE CLUB</seg></tuv>
+      <tuv xml:lang="pl"><seg>ATAK KOŚCIĄ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FIRE BLAST</seg></tuv>
+      <tuv xml:lang="pl"><seg>PODMUCHOGNIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WATERFALL</seg></tuv>
+      <tuv xml:lang="pl"><seg>WODOSPAD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CLAMP</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZATRZASK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SWIFT</seg></tuv>
+      <tuv xml:lang="pl"><seg>GWIEZDNY PĘD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SKULL BASH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ATAK GŁOWĄ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SPIKE CANNON</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOLCODZIAŁO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CONSTRICT</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚCIŚNIĘCIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AMNESIA</seg></tuv>
+      <tuv xml:lang="pl"><seg>AMNEZJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>KINESIS</seg></tuv>
+      <tuv xml:lang="pl"><seg>KINEZA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SOFTBOILED</seg></tuv>
+      <tuv xml:lang="pl"><seg>JAJONAMIĘKKO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HI JUMP KICK</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYKOPZKOLANA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GLARE</seg></tuv>
+      <tuv xml:lang="pl"><seg>WZROK WĘŻA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DREAM EATER</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZJADACZ SNÓW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POISON GAS</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRUJĄCY GAZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BARRAGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZAPORA OGNIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LEECH LIFE</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSYSANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LOVELY KISS</seg></tuv>
+      <tuv xml:lang="pl"><seg>BUZIAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SKY ATTACK</seg></tuv>
+      <tuv xml:lang="pl"><seg>ATAK Z NIEBA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRANSFORM</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRZEMIANA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BUBBLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>BĄBELKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DIZZY PUNCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>BŁEDNA PIEŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SPORE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZARODNIKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FLASH</seg></tuv>
+      <tuv xml:lang="pl"><seg>BŁYSK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PSYWAVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>PSYCHOFALA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SPLASH</seg></tuv>
+      <tuv xml:lang="pl"><seg>PLUSKANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ACID ARMOR</seg></tuv>
+      <tuv xml:lang="pl"><seg>KWASO-ZBROJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CRABHAMMER</seg></tuv>
+      <tuv xml:lang="pl"><seg>KRABI MŁOT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EXPLOSION</seg></tuv>
+      <tuv xml:lang="pl"><seg>EKSPLOZJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FURY SWIPES</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIKA FURIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BONEMERANG</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOŚCIORANG</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>REST</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODPOCZYNEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCK SLIDE</seg></tuv>
+      <tuv xml:lang="pl"><seg>LAWINA SKAŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HYPER FANG</seg></tuv>
+      <tuv xml:lang="pl"><seg>HIPER KIEŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHARPEN</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZAOSTRZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CONVERSION</seg></tuv>
+      <tuv xml:lang="pl"><seg>KONWERSJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRI ATTACK</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRÓJATAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SUPER FANG</seg></tuv>
+      <tuv xml:lang="pl"><seg>SUPER KIEŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SLASH</seg></tuv>
+      <tuv xml:lang="pl"><seg>SIEKANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SUBSTITUTE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZASTĘPCA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STRUGGLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZAMOTANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SKETCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZKIC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRIPLE KICK</seg></tuv>
+      <tuv xml:lang="pl"><seg>POTRÓJNY KOP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THIEF</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZŁODZIEJ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SPIDER WEB</seg></tuv>
+      <tuv xml:lang="pl"><seg>PAJĘCZA SIEĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MIND READER</seg></tuv>
+      <tuv xml:lang="pl"><seg>LEGILIMENCJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NIGHTMARE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOSZMAR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FLAME WHEEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>KRĄG OGNIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SNORE</seg></tuv>
+      <tuv xml:lang="pl"><seg>CHRAPANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CURSE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KLĄTWA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FLAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYMACHIWANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CONVERSION 2</seg></tuv>
+      <tuv xml:lang="pl"><seg>KONWERSJA 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AEROBLAST</seg></tuv>
+      <tuv xml:lang="pl"><seg>AEROBUCH</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COTTON SPORE</seg></tuv>
+      <tuv xml:lang="pl"><seg>PYŁ BAWEŁNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>REVERSAL</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODWRÓCENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SPITE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZŁOŚLIWOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POWDER SNOW</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚNIEŻNY PYŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PROTECT</seg></tuv>
+      <tuv xml:lang="pl"><seg>OCHRONA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MACH PUNCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>MACH-CIOS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SCARY FACE</seg></tuv>
+      <tuv xml:lang="pl"><seg>TWARZ UPIORA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FAINT ATTACK</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZAKRADNIECIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SWEET KISS</seg></tuv>
+      <tuv xml:lang="pl"><seg>SŁODKI CMOK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BELLY DRUM</seg></tuv>
+      <tuv xml:lang="pl"><seg>BRZUCHOBEBEN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SLUDGE BOMB</seg></tuv>
+      <tuv xml:lang="pl"><seg>MUŁOWA BOMBA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MUD-SLAP</seg></tuv>
+      <tuv xml:lang="pl"><seg>RZUT BŁOTEM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OCTAZOOKA</seg></tuv>
+      <tuv xml:lang="pl"><seg>OŚMIOZOOKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SPIKES</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOLCE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ZAP CANNON</seg></tuv>
+      <tuv xml:lang="pl"><seg>ELEKTROKULA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FORESIGHT</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRZEZORNOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DESTINY BOND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIĘŹ LOSU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PERISH SONG</seg></tuv>
+      <tuv xml:lang="pl"><seg>PIEŚŃ ZGUBY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ICY WIND</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZIMNY WIATR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DETECT</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYKRYCIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BONE RUSH</seg></tuv>
+      <tuv xml:lang="pl"><seg>RZUT KOŚCMI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LOCK-ON</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYCELOWANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OUTRAGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>OBURZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SANDSTORM</seg></tuv>
+      <tuv xml:lang="pl"><seg>BURZA PIASKU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GIGA DRAIN</seg></tuv>
+      <tuv xml:lang="pl"><seg>GIGAWYSSANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ENDURE</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYTRWANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CHARM</seg></tuv>
+      <tuv xml:lang="pl"><seg>UROK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROLLOUT</seg></tuv>
+      <tuv xml:lang="pl"><seg>WALEC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FALSE SWIPE</seg></tuv>
+      <tuv xml:lang="pl"><seg>MYLĄCECIECIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SWAGGER</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZUCHWAŁOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MILK DRINK</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁYK MLEKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SPARK</seg></tuv>
+      <tuv xml:lang="pl"><seg>ISKRA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FURY CUTTER</seg></tuv>
+      <tuv xml:lang="pl"><seg>CIĘCIE FURII</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STEEL WING</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKRZYDŁOSTAL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MEAN LOOK</seg></tuv>
+      <tuv xml:lang="pl"><seg>PODŁY WZROK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ATTRACT</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZWABIENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SLEEP TALK</seg></tuv>
+      <tuv xml:lang="pl"><seg>LUNATYK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HEAL BELL</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOJĄCY DZWON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RETURN</seg></tuv>
+      <tuv xml:lang="pl"><seg>POWRÓT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PRESENT</seg></tuv>
+      <tuv xml:lang="pl"><seg>PREZENT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FRUSTRATION</seg></tuv>
+      <tuv xml:lang="pl"><seg>FRUSTRACJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SAFEGUARD</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZASŁONA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PAIN SPLIT</seg></tuv>
+      <tuv xml:lang="pl"><seg>PODZIAŁ BÓLU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SACRED FIRE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚWIĘTY OGIEŃ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAGNITUDE</seg></tuv>
+      <tuv xml:lang="pl"><seg>TĄPNIECIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DYNAMICPUNCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>PREŻNY CIOS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MEGAHORN</seg></tuv>
+      <tuv xml:lang="pl"><seg>MEGARÓG</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DRAGONBREATH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODDECH SMOKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BATON PASS</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZTAFETA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ENCORE</seg></tuv>
+      <tuv xml:lang="pl"><seg>BIS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PURSUIT</seg></tuv>
+      <tuv xml:lang="pl"><seg>POŚCIG</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RAPID SPIN</seg></tuv>
+      <tuv xml:lang="pl"><seg>NAGŁY OBRÓT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SWEET SCENT</seg></tuv>
+      <tuv xml:lang="pl"><seg>SŁODKIZAPACH</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>IRON TAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻELAZNY OGON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>METAL CLAW</seg></tuv>
+      <tuv xml:lang="pl"><seg>PAZUR METALU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VITAL THROW</seg></tuv>
+      <tuv xml:lang="pl"><seg>RZUT WITALNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MORNING SUN</seg></tuv>
+      <tuv xml:lang="pl"><seg>WSCHÓDSŁONCA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SYNTHESIS</seg></tuv>
+      <tuv xml:lang="pl"><seg>FOTOSYNTEZA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MOONLIGHT</seg></tuv>
+      <tuv xml:lang="pl"><seg>BLASK LUNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HIDDEN POWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>UKRYTA MOC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CROSS CHOP</seg></tuv>
+      <tuv xml:lang="pl"><seg>KRZYŻOWYCIOS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TWISTER</seg></tuv>
+      <tuv xml:lang="pl"><seg>TORNADO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RAIN DANCE</seg></tuv>
+      <tuv xml:lang="pl"><seg>TANIEC DŻDŻU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SUNNY DAY</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZYSTE NIEBO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CRUNCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>SCHRUPANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MIRROR COAT</seg></tuv>
+      <tuv xml:lang="pl"><seg>LUSTROOSŁONA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PSYCH UP</seg></tuv>
+      <tuv xml:lang="pl"><seg>AUTOSUGESTIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EXTREMESPEED</seg></tuv>
+      <tuv xml:lang="pl"><seg>MEGASZYBKOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ANCIENTPOWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRADAWNA MOC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHADOW BALL</seg></tuv>
+      <tuv xml:lang="pl"><seg>KULA CIENIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FUTURE SIGHT</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIZJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCK SMASH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁUPACZ SKAŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WHIRLPOOL</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BEAT UP</seg></tuv>
+      <tuv xml:lang="pl"><seg>POBICIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FAKE OUT</seg></tuv>
+      <tuv xml:lang="pl"><seg>OGŁUSZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>UPROAR</seg></tuv>
+      <tuv xml:lang="pl"><seg>HAŁAS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STOCKPILE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZBIERANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SPIT UP</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYPLUCIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SWALLOW</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRZEŁKNIECIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HEAT WAVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>FALA CIEPŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>GRAD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TORMENT</seg></tuv>
+      <tuv xml:lang="pl"><seg>UDRĘKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FLATTER</seg></tuv>
+      <tuv xml:lang="pl"><seg>POCHLEBSTWO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WILL-O-WISP</seg></tuv>
+      <tuv xml:lang="pl"><seg>OGNIK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FACADE</seg></tuv>
+      <tuv xml:lang="pl"><seg>BRAWURA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FOCUS PUNCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKUPIONYCIOS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SMELLINGSALT</seg></tuv>
+      <tuv xml:lang="pl"><seg>RESUSCYTACJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FOLLOW ME</seg></tuv>
+      <tuv xml:lang="pl"><seg>CHODŹ ZA MNĄ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NATURE POWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>SIŁA NATURY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CHARGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁADUNEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TAUNT</seg></tuv>
+      <tuv xml:lang="pl"><seg>DRWINY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HELPING HAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>POMOCNA DŁON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRICK</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZTUCZKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROLE PLAY</seg></tuv>
+      <tuv xml:lang="pl"><seg>GRA AKTORSKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WISH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻYCZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ASSIST</seg></tuv>
+      <tuv xml:lang="pl"><seg>ASYSTA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>INGRAIN</seg></tuv>
+      <tuv xml:lang="pl"><seg>UKORZENIENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SUPERPOWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>SUPERSIŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAGIC COAT</seg></tuv>
+      <tuv xml:lang="pl"><seg>WARSTWAMAGII</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RECYCLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>RECYKLING</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>REVENGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZEMSTA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BRICK BREAK</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁAMACZ MURÓW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>YAWN</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZIEWANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>KNOCK OFF</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYTRĄCENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ENDEAVOR</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚMIAŁEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ERUPTION</seg></tuv>
+      <tuv xml:lang="pl"><seg>ERUPCJA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SKILL SWAP</seg></tuv>
+      <tuv xml:lang="pl"><seg>TALENTOZMIAN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>IMPRISON</seg></tuv>
+      <tuv xml:lang="pl"><seg>UWIĘZIENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>REFRESH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODŚWIEŻENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GRUDGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>URAZA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SNATCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>CHWYTANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SECRET POWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>TAJEMNA MOC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DIVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>NURKOWANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ARM THRUST</seg></tuv>
+      <tuv xml:lang="pl"><seg>NATARCIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CAMOUFLAGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOMUFLAŻ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TAIL GLOW</seg></tuv>
+      <tuv xml:lang="pl"><seg>POŁYSK OGONA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LUSTER PURGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZYSTY BLASK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MIST BALL</seg></tuv>
+      <tuv xml:lang="pl"><seg>MGLISTA KULA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FEATHERDANCE</seg></tuv>
+      <tuv xml:lang="pl"><seg>TANIEC PIÓR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TEETER DANCE</seg></tuv>
+      <tuv xml:lang="pl"><seg>HUŚTANIEC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLAZE KICK</seg></tuv>
+      <tuv xml:lang="pl"><seg>OGNISTY KOP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MUD SPORT</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZABŁOCENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ICE BALL</seg></tuv>
+      <tuv xml:lang="pl"><seg>LODOWA KULA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NEEDLE ARM</seg></tuv>
+      <tuv xml:lang="pl"><seg>IGŁORAMIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SLACK OFF</seg></tuv>
+      <tuv xml:lang="pl"><seg>ROZLUŹNIENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HYPER VOICE</seg></tuv>
+      <tuv xml:lang="pl"><seg>HIPER GŁOS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POISON FANG</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRUJĄCY KIEŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CRUSH CLAW</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁAMIĄCYSZPON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLAST BURN</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYBUCH OGNIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HYDRO CANNON</seg></tuv>
+      <tuv xml:lang="pl"><seg>HYDRODZIAŁO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>METEOR MASH</seg></tuv>
+      <tuv xml:lang="pl"><seg>CIOS METEORU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ASTONISH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZASKOCZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WEATHER BALL</seg></tuv>
+      <tuv xml:lang="pl"><seg>KULA POGODY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AROMATHERAPY</seg></tuv>
+      <tuv xml:lang="pl"><seg>AROMATERAPIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FAKE TEARS</seg></tuv>
+      <tuv xml:lang="pl"><seg>FAŁSZYWE ŁZY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AIR CUTTER</seg></tuv>
+      <tuv xml:lang="pl"><seg>CIĘCIEWIATRU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OVERHEAT</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRZEGRZANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ODOR SLEUTH</seg></tuv>
+      <tuv xml:lang="pl"><seg>WĘSZENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCK TOMB</seg></tuv>
+      <tuv xml:lang="pl"><seg>KAMIENIOGRÓB</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SILVER WIND</seg></tuv>
+      <tuv xml:lang="pl"><seg>SREBRNYWIATR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>METAL SOUND</seg></tuv>
+      <tuv xml:lang="pl"><seg>METALODŹWIĘK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GRASSWHISTLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRAWOGWIZDEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TICKLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁASKOTKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COSMIC POWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>MOC KOSMOSU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WATER SPOUT</seg></tuv>
+      <tuv xml:lang="pl"><seg>CHLUĘNIĘCIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SIGNAL BEAM</seg></tuv>
+      <tuv xml:lang="pl"><seg>SYGNALIZATOR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHADOW PUNCH</seg></tuv>
+      <tuv xml:lang="pl"><seg>PIĘŚĆ CIENIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EXTRASENSORY</seg></tuv>
+      <tuv xml:lang="pl"><seg>MOC ESP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SKY UPPERCUT</seg></tuv>
+      <tuv xml:lang="pl"><seg>PODNIEBNYHAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SAND TOMB</seg></tuv>
+      <tuv xml:lang="pl"><seg>PIASKOGRÓB</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHEER COLD</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZYSTE ZIMNO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MUDDY WATER</seg></tuv>
+      <tuv xml:lang="pl"><seg>MĘTNA WODA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BULLET SEED</seg></tuv>
+      <tuv xml:lang="pl"><seg>POCISKNASION</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AERIAL ACE</seg></tuv>
+      <tuv xml:lang="pl"><seg>AS POWIETRZA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ICICLE SPEAR</seg></tuv>
+      <tuv xml:lang="pl"><seg>LODOOSZCZEP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>IRON DEFENSE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻELAZOOBRONA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLOCK</seg></tuv>
+      <tuv xml:lang="pl"><seg>BLOK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HOWL</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYCIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DRAGON CLAW</seg></tuv>
+      <tuv xml:lang="pl"><seg>SMOCZY PAZUR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FRENZY PLANT</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZAŁ ROŚLINY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BULK UP</seg></tuv>
+      <tuv xml:lang="pl"><seg>NAPRĘŻENIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BOUNCE</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYBICIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MUD SHOT</seg></tuv>
+      <tuv xml:lang="pl"><seg>STRZAŁBŁOTEM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POISON TAIL</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZATRUTY OGON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COVET</seg></tuv>
+      <tuv xml:lang="pl"><seg>POŻĄDLIWOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VOLT TACKLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>WOLTOWY CIOS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAGICAL LEAF</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAGICZNYLIŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WATER SPORT</seg></tuv>
+      <tuv xml:lang="pl"><seg>ROZCHLAPANIE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CALM MIND</seg></tuv>
+      <tuv xml:lang="pl"><seg>SPOKÓJUMYSŁU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LEAF BLADE</seg></tuv>
+      <tuv xml:lang="pl"><seg>OSTRZELIŚCIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DRAGON DANCE</seg></tuv>
+      <tuv xml:lang="pl"><seg>TANIEC SMOKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCK BLAST</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYBUCH SKAŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SHOCK WAVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>RAŻĄCA FALA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WATER PULSE</seg></tuv>
+      <tuv xml:lang="pl"><seg>PULS WODY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DOOM DESIRE</seg></tuv>
+      <tuv xml:lang="pl"><seg>CHĘĆ ZAGŁADY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PSYCHO BOOST</seg></tuv>
+      <tuv xml:lang="pl"><seg>PSYCHOWZROST</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HARDY</seg></tuv>
+      <tuv xml:lang="pl"><seg>HARDA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LONELY</seg></tuv>
+      <tuv xml:lang="pl"><seg>SAMOTNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BRAVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODWAŻNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ADAMANT</seg></tuv>
+      <tuv xml:lang="pl"><seg>NIEUGIĘTA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NAUGHTY</seg></tuv>
+      <tuv xml:lang="pl"><seg>NIEMIŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BOLD</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZUCHWAŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DOCILE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ULEGŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RELAXED</seg></tuv>
+      <tuv xml:lang="pl"><seg>ROZLIŹNIONA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>IMPISH</seg></tuv>
+      <tuv xml:lang="pl"><seg>FIGLARNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LAX</seg></tuv>
+      <tuv xml:lang="pl"><seg>LUŹNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TIMID</seg></tuv>
+      <tuv xml:lang="pl"><seg>PŁOCHLIWA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HASTY</seg></tuv>
+      <tuv xml:lang="pl"><seg>PORYWCZA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SERIOUS</seg></tuv>
+      <tuv xml:lang="pl"><seg>POWAŻNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>JOLLY</seg></tuv>
+      <tuv xml:lang="pl"><seg>RADOSNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NAIVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>NAIWNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MODEST</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKROMNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MILD</seg></tuv>
+      <tuv xml:lang="pl"><seg>DELIKATNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>QUIET</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYCISZONA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BASHFUL</seg></tuv>
+      <tuv xml:lang="pl"><seg>NIEŚMIAŁA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RASH</seg></tuv>
+      <tuv xml:lang="pl"><seg>NIEROZWAŻNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CALM</seg></tuv>
+      <tuv xml:lang="pl"><seg>SPOKOJNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GENTLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>OGLĘDNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SASSY</seg></tuv>
+      <tuv xml:lang="pl"><seg>AROGANCKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CAREFUL</seg></tuv>
+      <tuv xml:lang="pl"><seg>OSTROŻNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>QUIRKY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KAPRYŚNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Previously on your quest…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Poprzednio w czasie gry…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} switched the POKéMON\n{STR_VAR_1} with {STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} zmienił POKéMONA\n{STR_VAR_1} z {STR_VAR_2}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Took the item {STR_VAR_2} from\n{STR_VAR_1} and gave it the item\n{STR_VAR_3} to hold.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wziąłeś przedmiot {STR_VAR_2} od\n{STR_VAR_1} i dałeś mu przedmiot\n{STR_VAR_3}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Took the item {STR_VAR_2} from\n{STR_VAR_1}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wziąłeś {STR_VAR_2} od\n{STR_VAR_1}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Used the item {STR_VAR_1} on {STR_VAR_2}\nat this location.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użyłeś przedmiotu {STR_VAR_1} na {STR_VAR_2}\nw tym miejscu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} used the\n{STR_VAR_1}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} użył\n{STR_VAR_1}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Used the item {STR_VAR_1}, which was\nin the KEY ITEMS POCKET.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użyłeś KLUCZOWEGO PRZEDMIOTU\n{STR_VAR_1}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} learned the move\n{STR_VAR_2} from a TM.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} nauczył ruchu\n{STR_VAR_2} używając TM.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} learned the move\n{STR_VAR_2} from a TM and forgot\nthe move {STR_VAR_3}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1}  nauczył ruchu\n{STR_VAR_2} używając TM i usunął\nruch {STR_VAR_3}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON were fully restored\nat a POKéMON CENTER.</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMONY zostały wyleczone\nw CENTRUM POKéMON.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{DYNAMIC 0x00} had a marvelous battle\nwith the CHAMPION, {DYNAMIC 0x01}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{DYNAMIC 0x00} przeprowadził wspaniałą\nwalkę z MISTRZEM, {DYNAMIC 0x01}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In the end, {DYNAMIC 0x00} sent out {DYNAMIC 0x01}\nwhile {DYNAMIC 0x02} countered with\n{DYNAMIC 0x03}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Końcowo, {DYNAMIC 0x00} wysłał {DYNAMIC 0x01},\ngdy {DYNAMIC 0x02} skontrował go z\n{DYNAMIC 0x03}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>And, as a result of battling with every\nbit of power, {DYNAMIC 0x00} won\nthe match.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Końcowo jednak w wyniku wyrównanego\npojedynku, {DYNAMIC 0x00} zwyciężył\nwalkę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Removed the item {STR_VAR_1} from\nthe BAG's ITEMS POCKET and stored it\non the PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Usunął przedmiot {STR_VAR_1} z\nkieszeni PRZEDMIOTÓW w TORBIE i umieścił\nw PC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} withdrew the item {STR_VAR_1}\nfrom the PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} podjął przedmiot {STR_VAR_1}\nz PC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Traded {STR_VAR_3} in exchange for\n{STR_VAR_1}'s {STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wymienił {STR_VAR_3} za\n{STR_VAR_1} trenera {STR_VAR_2}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Took on {DYNAMIC 0x00} in a SINGLE BATTLE.\nIt was a hotly contested match that\nresulted in a {DYNAMIC 0x01}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zaatakował {DYNAMIC 0x00} w POJEDYNCZEJ\nWALCE. Była ostro oceniana i\nzakończyła się {DYNAMIC 0x01}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Took on {DYNAMIC 0x00} in a DOUBLE BATTLE.\nIt was an extended match that resulted\nin a {DYNAMIC 0x01}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zaatakował {DYNAMIC 0x00} w PODWÓJNEN WALCE.\nBył to poszerzony pojedynek zakończony\n{DYNAMIC 0x01}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{DYNAMIC 0x00} and {DYNAMIC 0x01} took on\n{DYNAMIC 0x02} and {DYNAMIC 0x03} in a\nMULTI BATTLE and got a {DYNAMIC 0x04}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{DYNAMIC 0x00} i {DYNAMIC 0x01} zaatakowali\n{DYNAMIC 0x02} i {DYNAMIC 0x03} w \nMULTIWALCE i zdobyli {DYNAMIC 0x04}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>win</seg></tuv>
+      <tuv xml:lang="pl"><seg>wygrałeś</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>loss</seg></tuv>
+      <tuv xml:lang="pl"><seg>przegrałeś</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Mingled with other TRAINERS in\nthe UNION ROOM.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Włączył się w zabawę z TRNERAMI\nw UNION ROOM.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Departed {STR_VAR_2}\nin {STR_VAR_1} for the next\ndestination.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyruszył {STR_VAR_2}\nw {STR_VAR_1} do następnego\ncelu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>After consideration, switched\n{DYNAMIC 0x01} in {DYNAMIC 0x00} with\n{DYNAMIC 0x03} in {DYNAMIC 0x02}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Po przemyśleniu, zmienił\n{DYNAMIC 0x01} w {DYNAMIC 0x00} z\n{DYNAMIC 0x03} w {DYNAMIC 0x02}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>After deep thought, switched\n{DYNAMIC 0x01} in BOX “{DYNAMIC 0x00}” to\nthe BOX “{DYNAMIC 0x02}.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Po przemyśleniu, przesunął\n{DYNAMIC 0x01}  w BOXIE “{DYNAMIC 0x00}” do\nBOXU “{DYNAMIC 0x02}.”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Switched around {DYNAMIC 0x01} and\n{DYNAMIC 0x02} in {DYNAMIC 0x00}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zmienił ze sobą {DYNAMIC 0x01} i\n{DYNAMIC 0x02} w {DYNAMIC 0x00}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Moved {DYNAMIC 0x01} in {DYNAMIC 0x00}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ruszył {DYNAMIC 0x01} w {DYNAMIC 0x00}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Switched {DYNAMIC 0x01} in {DYNAMIC 0x00}\nwith {DYNAMIC 0x02} in the party.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zmienił {DYNAMIC 0x01} w {DYNAMIC 0x00}\nz {DYNAMIC 0x02} w drużynie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Added {DYNAMIC 0x01} in {DYNAMIC 0x00}\nto the party.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dodał {DYNAMIC 0x01} w {DYNAMIC 0x00}\ndo drużyny.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Moved {DYNAMIC 0x00} from the party\nto {DYNAMIC 0x01}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ruszył {DYNAMIC 0x00} z drużyny\ndo {DYNAMIC 0x01}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Moved a group of POKéMON in\n{DYNAMIC 0x00} to {DYNAMIC 0x01}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ruszył grupę POKéMONÓW w\n{DYNAMIC 0x00} do {DYNAMIC 0x01}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>a different spot</seg></tuv>
+      <tuv xml:lang="pl"><seg>innego punktu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Removed the item {STR_VAR_1} from\n{PLAYER}'s PC and gave it to {STR_VAR_2}\nto hold.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyjął przedmiot {STR_VAR_1} z\n{PLAYER} PC i przekazał go do trzymania\n{STR_VAR_2}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Removed the item {STR_VAR_1} from\na PC, gave it to {STR_VAR_2}, and put\nthe {STR_VAR_3} it held in the BAG.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyjął przedmiot {STR_VAR_1}z\nPC i dał go {STR_VAR_2} oraz przeniósł\n{STR_VAR_3}, które trzymał do TORBY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Chatted with many TRAINERS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Porozmawiał z TRENERAMI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Met and traded with {STR_VAR_1}.\nObtained the TRAINER's {STR_VAR_2} in\nexchange for {STR_VAR_3}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wymienił się z {STR_VAR_1}.\nOtrzymał {STR_VAR_2} TRENERA w zamian za\n{STR_VAR_3}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Met and battled {STR_VAR_1}.\nThe match ended in a {STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Walczył z {STR_VAR_1}.\nPojedynek zakończył się {STR_VAR_2}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Went to the POKéMON MART in\n{DYNAMIC 0x00} and bought one \n{DYNAMIC 0x01}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Poszedł do POKéMON MART w\n{DYNAMIC 0x00} i nabył\n{DYNAMIC 0x01}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Went to the POKéMON MART in\n{DYNAMIC 0x00} and spent ¥{DYNAMIC 0x02} for\nitems including {DYNAMIC 0x01}(s).</seg></tuv>
+      <tuv xml:lang="pl"><seg>Poszedł do POKéMON MART w\n{DYNAMIC 0x00} i wydał tam ¥{DYNAMIC 0x02} na\nprzedmioty, w tym {DYNAMIC 0x01} .</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{DYNAMIC 0x00} went to the POKéMON MART in\n{DYNAMIC 0x01} and sold {DYNAMIC 0x03} of\nthe item {DYNAMIC 0x02}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{DYNAMIC 0x00} poszedł do POKéMON MART w\n{DYNAMIC 0x01} i sprzedał {DYNAMIC 0x03} \nprzedmioty {DYNAMIC 0x02}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sold items including {DYNAMIC 0x01} at\nthe POKéMON MART in {DYNAMIC 0x00},\nworth ¥{DYNAMIC 0x02}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Sprzedał przedmioty, w tym {DYNAMIC 0x01}\n w POKéMON MART w {DYNAMIC 0x00},\nwarte ¥{DYNAMIC 0x02}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>just one</seg></tuv>
+      <tuv xml:lang="pl"><seg>tylko 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} shared its HP using the move\nSOFTBOILED.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} podzielił się HP używając\nJAJONAMIĘKKO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} shared its HP using the move\nMILK DRINK.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} podzielił się HP używając\nŁYKU MLEKA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} securely learned the move\n{STR_VAR_2} using an HM.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} bezpiecznie nauczył się\n{STR_VAR_2} używając HM.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} securely learned the move\n{STR_VAR_2} using an HM and forgot\nthe move {STR_VAR_3}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} bezpiecznie nauczył się\nruchu {STR_VAR_2} używając HM i\nstracił ruch {STR_VAR_3}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{DYNAMIC 0x05} managed to defeat the POKéMON\n{DYNAMIC 0x01} in {DYNAMIC 0x00}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{DYNAMIC 0x05} pokonał POKéMONA\n{DYNAMIC 0x01} w {DYNAMIC 0x00}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Defeated {DYNAMIC 0x02} wild POKéMON including\n{DYNAMIC 0x01} in {DYNAMIC 0x00}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pokonał {DYNAMIC 0x02} dzikich POKéMON w tym\n{DYNAMIC 0x01} w {DYNAMIC 0x00}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{DYNAMIC 0x05} managed to catch the POKéMON\n{DYNAMIC 0x03} in {DYNAMIC 0x00}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{DYNAMIC 0x05} zręcznie złapał POKéMONA\n{DYNAMIC 0x03} w {DYNAMIC 0x00}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Threw POKé BALLS in a frenzy, catching\n{DYNAMIC 0x04} POKéMON including {DYNAMIC 0x03} here\nin {DYNAMIC 0x00}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Rzucał POKé BALLE w afekcie, łąpiąc\n{DYNAMIC 0x04} POKéMONÓW w tym {DYNAMIC 0x03} tutaj\nw {DYNAMIC 0x00} .</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{DYNAMIC 0x05} defeated the POKéMON\n{DYNAMIC 0x01} and caught one {DYNAMIC 0x03}\nin {DYNAMIC 0x00}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{DYNAMIC 0x05} pokonał POKéMONA\n{DYNAMIC 0x01} i złapał jednego {DYNAMIC 0x03}\nw {DYNAMIC 0x00}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Defeated the POKéMON {DYNAMIC 0x01}\nand caught {DYNAMIC 0x04} POKéMON including\n{DYNAMIC 0x03} in {DYNAMIC 0x00}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pokonał POKéMONA {DYNAMIC 0x01}\ni złapał {DYNAMIC 0x04} POKéMONY, w tym\n{DYNAMIC 0x03} w {DYNAMIC 0x00}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{DYNAMIC 0x05} defeated {DYNAMIC 0x02} POKéMON including\n{DYNAMIC 0x01} and caught one {DYNAMIC 0x03}\nin {DYNAMIC 0x00}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{DYNAMIC 0x05} pokonał {DYNAMIC 0x02} POKéMONÓW, w tym\n{DYNAMIC 0x01} i złapał jednego {DYNAMIC 0x03}\nw {DYNAMIC 0x00}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Defeated {DYNAMIC 0x02} POKéMON including\n{DYNAMIC 0x01} and caught {DYNAMIC 0x04} POKéMON\nincluding {DYNAMIC 0x03} in {DYNAMIC 0x00}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pokonał {DYNAMIC 0x02} POKéMONÓW, w tym\n{DYNAMIC 0x01} i złapał {DYNAMIC 0x04} POKéMONÓW,\nw tym {DYNAMIC 0x03} w {DYNAMIC 0x00} .</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Made {STR_VAR_1} hold the item\n{STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dał {STR_VAR_1}  do trzymania\n{STR_VAR_2}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} made {STR_VAR_1} hold the item\n{STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} dał {STR_VAR_1} do trzymania\n{STR_VAR_2}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used the Hidden Move\nCUT here.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył tu Ukrytego Ruchu\nCIĘCIE.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used the Hidden Move\nFLY and flew to {STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył Ukrytego Ruchu\nLOT i odleciał do {STR_VAR_2}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used the Hidden Move\nSURF and rode the waves.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył Ukrytego Ruchu\nSURF i odpłynął w dal.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used the Hidden Move\nSTRENGTH here.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył tu Ukrytego Ruchu\nSIŁA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used the Hidden Move\nFLASH and illuminated a pitch-black\ncave.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył Ukrytego Ruchu\nBŁYSK, by oświetlić ciemną\njaskinie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used the Hidden Move\nROCK SMASH here.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył Ukrytego Ruchu\nŁUPACZ SKAŁ.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used the Hidden Move\nWATERFALL to scale a raging torrent.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył Ukrytego Ruchu\nWODOSPAD, by ujarzmić wodospad.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used DIG to escape from\n{STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył DIG, by uciec z\n{STR_VAR_2}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used SWEET SCENT to attract\nwild POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył SWEET SCENT by\nprzyciągnąć POKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used TELEPORT, transporting\nthe party to {STR_VAR_2}'s\n{STR_VAR_3}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył TELEPORT, by przenieść\ndrużynę do {STR_VAR_2}'s\n{STR_VAR_3}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} left {STR_VAR_1}'s\n{STR_VAR_2} for the next\ndestination.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} opuścił {STR_VAR_1}\n{STR_VAR_2} i wyruszył\ndalej.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Played a lot of games at the ROCKET\nGAME CORNER in {STR_VAR_1}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pograł w wiele gier w KĄCIKU GIER\nZESPOŁU R w {STR_VAR_1}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} rested comfortably at home.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} odpoczął porządnie w domu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} left PROF. OAK's POKéMON\nRESEARCH LAB.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} opuścił LABORATORIUM\nPROFESORA OAKA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The GYM in {STR_VAR_1} was full of\ntough TRAINERS…\nPreparations had to be made.</seg></tuv>
+      <tuv xml:lang="pl"><seg>SALA w {STR_VAR_1} była pełna\nsilnych TRENERÓW…\nNależało się mocno przygotować.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Departed the GYM in {STR_VAR_1}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Rozgromił SALE w {STR_VAR_1}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} had a great time with POKéMON\nin the SAFARI ZONE.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} świetnie bawił się z POKéMONAMI\nw STREFIE SAFARI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Managed to get out of {STR_VAR_2}\nafter wandering about.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Po drobnej wycieczce,\nwydostał się z {STR_VAR_2}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Took on {DYNAMIC 0x00} GYM LEADER\n{DYNAMIC 0x01}'s {DYNAMIC 0x02} with {DYNAMIC 0x03}\nand won {DYNAMIC 0x04}!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zaatakował {DYNAMIC 0x00} LIDERA\n{DYNAMIC 0x01} {DYNAMIC 0x02} z {DYNAMIC 0x03}\ni wygrał {DYNAMIC 0x04}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Took on ELITE FOUR {DYNAMIC 0x00}'s\n{DYNAMIC 0x01} with {DYNAMIC 0x02} and\nwon {DYNAMIC 0x03}!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyzwał {DYNAMIC 0x00} {DYNAMIC 0x01} z\nELITARNEJ 4 swym {DYNAMIC 0x02} i\nwygrał {DYNAMIC 0x03}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In {DYNAMIC 0x00}, took on\n{DYNAMIC 0x01}'s {DYNAMIC 0x02} with {DYNAMIC 0x03}\nand won {DYNAMIC 0x04}!</seg></tuv>
+      <tuv xml:lang="pl"><seg>W {DYNAMIC 0x00}, walczył z\n{DYNAMIC 0x01} {DYNAMIC 0x02} swym {DYNAMIC 0x03}\ni wygrał {DYNAMIC 0x04}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>coolly</seg></tuv>
+      <tuv xml:lang="pl"><seg>łatwo</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>barely</seg></tuv>
+      <tuv xml:lang="pl"><seg>ledwo</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} used an ESCAPE ROPE to get\nout from {STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} użył LINY UCIECZKI i wydostał\nsię z {STR_VAR_2}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Departed from the {STR_VAR_2}\nfor the next destination.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyruszył z {STR_VAR_2}\ndo następnego celu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} departed from\n{STR_VAR_2} and made way\nto the next destination.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} wyruszył z\n{STR_VAR_2}, by dotrzeć do\nnastępnego celu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Here in {STR_VAR_1}, {PLAYER}\nobtained the item {STR_VAR_2}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Tutaj w {STR_VAR_1}, {PLAYER}\notrzymał przedmiot {STR_VAR_2}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Arrived in {STR_VAR_1}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przybył do {STR_VAR_1}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>And {PLAYER} saved the game at this\nlocation: {STR_VAR_1}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>I {PLAYER} zapisał grę w tym\nmiejsu: {STR_VAR_1}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HOME</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OAK RESEARCH LAB</seg></tuv>
+      <tuv xml:lang="pl"><seg>LAB. OAKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GYM</seg></tuv>
+      <tuv xml:lang="pl"><seg>SAL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON LEAGUE GATE</seg></tuv>
+      <tuv xml:lang="pl"><seg>BRAMA LIGI POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VIRIDIAN FOREST</seg></tuv>
+      <tuv xml:lang="pl"><seg>LAS VIRIDIAN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PEWTER MUSEUM OF SCIENCE</seg></tuv>
+      <tuv xml:lang="pl"><seg>MUZEUM NAUKI W PEWTER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MT. MOON</seg></tuv>
+      <tuv xml:lang="pl"><seg>GÓRAMOON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BIKE SHOP</seg></tuv>
+      <tuv xml:lang="pl"><seg>ROWEROWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BILL'S HOUSE</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOM BILLA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DAY CARE</seg></tuv>
+      <tuv xml:lang="pl"><seg>OPIEKUN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>UNDERGROUND PATH</seg></tuv>
+      <tuv xml:lang="pl"><seg>PODZIEMNY TUNEL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON FAN CLUB</seg></tuv>
+      <tuv xml:lang="pl"><seg>FAN KLUB POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>S.S. ANNE</seg></tuv>
+      <tuv xml:lang="pl"><seg>S.S. ANNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DIGLETT'S CAVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>JASK. DIGLETTA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCK TUNNEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>TUNEL SKAŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POWER PLANT</seg></tuv>
+      <tuv xml:lang="pl"><seg>ELEKTROWNIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON TOWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIEŻA POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VOLUNTEER HOUSE</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOM OCHOTNIKÓW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NAME RATER'S HOUSE</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOM NAME RATERA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CELADON DEPT. STORE</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOM TOWAROWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CELADON MANSION</seg></tuv>
+      <tuv xml:lang="pl"><seg>DWÓR CELADON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCKET GAME CORNER</seg></tuv>
+      <tuv xml:lang="pl"><seg>SALON GIER ROCKET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCKET HIDEOUT</seg></tuv>
+      <tuv xml:lang="pl"><seg>KWATERA RACKET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SAFARI ZONE</seg></tuv>
+      <tuv xml:lang="pl"><seg>STR. SAFARI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WARDEN'S HOME</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOM DYREKTORA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FIGHTING DOJO</seg></tuv>
+      <tuv xml:lang="pl"><seg>WALECZNE DOJO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SEAFOAM ISLANDS</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPY SEAFOAM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON MANSION</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMONOWY DWÓR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON RESEARCH LAB</seg></tuv>
+      <tuv xml:lang="pl"><seg>LAB. BADAWCZE POKÓW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VICTORY ROAD</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA ZWYC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON LEAGUE</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIGA POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CERULEAN CAVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>JASK.CERULEAN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Teach me how to battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Naucz mnie walczyć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What are status problems?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co to są zmiany stanu?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What are type matchups?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czym różnią się typy?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I want to catch POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chcę łapać POKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Teach me about TMs.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Naucz mnie o TM.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>How do I register an item?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jak rejestrować przedmiot?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CANCEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>ANULUJ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey, all you TRAINERS out there!\nHELLO, TRAINERS!\p……… ……… ………\pCome on, let me hear you!\nHELLO, TRAINERS!\lIt's me, the POKé DUDE!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witajcie wszyscy trenerzy!\nWITAJCIE, TRENERZY!\p……… ……… ………\pDawajcie, niech was usłyszę!\nWITAJCIE, TRENERZY!\lTo ja, POKé GOŚĆ!\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Today, the POKé DUDE's here to\ntell you about how you can battle\lPOKéMON!\pSay you're out for a stroll when,\nsuddenly, a wild POKéMON appears!\pIt's up to you to smartly use your\nPOKéMON and their moves to reduce\lthe opponent's HP to nothing, and\lclaim victory!\pI'll show you how to do that in\nperson and for sure!\pAll righty, here goes!\pKeep your eyes glued to the super\nPOKé DUDE SHOW!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dzisiaj, POKé GOŚĆ powie wam\nwszystko na temat tego, jak\lprowadzić walki!\pPowiedzmy, że podróżujesz sobie,\na tu nagle wyskakuje dziki POKéMON!\pMusisz mądrze użyć swoich POKéMONÓW\ni ich ruchów, by zredukować\lHP twojego przeciwnika do zera i\lzostać zwycięzcą!\pPokażę ci we własnej osobie,\njak tego dokonać!\pNo dobra, zaczynamy!\pPrzylepcie gały do ekranu, by\nnie przegapić POKé GOŚCIA!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Well, did you get that?\pEven if your own POKéMON's HP\nfalls to zero, and it becomes\lunable to battle, not to worry!\pJust take it to any POKéMON\nCENTER and heal it!\pAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dobra, kapujecie?\pNawet jeśli HP twojego POKéMONA\nspadnie do zera i nie będzie\lmógł już walczyć, nie roń łez!\pZanieś go do CENTRUM POKéMON,\ngdzie szybko go uleczą!\pTo już wszystko, do\nzobaczenia!\pPamiętajcie, TRENERZY,\nco złego, to nie ja!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Today, the POKé DUDE's here to\ntell you about status problems!\pStatus problems include poisoning,\nparalysis, sleep, burn…\pThere are a couple others, but\nthey really are trouble.\pGet any one, and your POKéMON\nmay become useless in battle.\pYou know, it hurts the POKé DUDE\nto see a POKéMON suffer…\pSo, what should you do if your\nPOKéMON gets a status problem?\pWell, you've got me to show you!\pAll righty, here goes!\pKeep your eyes glued to the super\nPOKé DUDE SHOW!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dzisiaj, POKé GOŚĆ zjawia się, by\nopowiedzieć wam o zmianach stanu!\pZmianu stanu to zatrucia,\nparaliż, sen, poparzenia…\pJest też kilka innych, ale te są\nnajczęstszymi z nich.\pWystarczy jeden, by twój\nPOKéMON mógł stać się bezużyteczny\pw walce.\pWiesz, POKé GOŚĆ nie cierpi,\ngdy POKéMONY męczą się…\pWięc, co zrobić, jeżeli twój\nPOKéMON dozna zmiany stanu?\pCóż, od tego jestem ja! Pokażę ci!\pŚwietnie, zaczynamy!\pPrzylep gały do ekranu, by\nnie przegapić POKé GOŚCIA!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Poisoning or paralysis don't go\naway after a battle.\pIf a POKéMON is poisoned, it loses\nHP even while you're walking.\pYou should heal POKéMON of these\nkinds of problems right away.\pUse an item, or try to get to a\nPOKéMON CENTER for healing.\pThat wasn't hard, was it?\nAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zatrucie czy paraliż, nie znika\npo walce.\pJeżeli POKéMON zostanie zatruty,\nbędzie tracił HP podczas chodzenia.\pPowinieneś uleczyć swoje POKéMONY\nz takich problemów, gdy tylko\pbędzie to możliwe.\pUżyj przedmiotu,\nlub skorzystaj z CENTRUM POKéMON.\pTo było proste, prawda?\nW takim razie, do zobaczenia!\pPamiętajcie, TRENERZY,\nco złego, to nie ja!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Does everyone know about type\nmatchups?\pPOKéMON and their moves all\nbelong to certain types.\pFor example, there are such types\nas GRASS and WATER.\pYou need to consider the type of\nthe move used to attack…\pAnd, the type of the POKéMON that\nis hit by that attack.\pDepending on how those two types\nmatch up, the damage can change.\pYou see, it depends on whether\nthe type matchup is good or bad.\pIf you don't know how matchups\nwork, battles will be tough.\pSo, let me demonstrate exactly\nwhat I mean.\pAll righty, here goes!\pKeep your eyes glued to the super\nPOKé DUDE SHOW!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy wszyscy wiedzą o różnicach\ntypów?\pPOKéMONY i ich ataki przynależne\nsą do różnych typów.\pNa przykład, istnieją typy takie\njak TRAWA i WODA.\pMusisz zastanowić się nad ruchami\nużywanami w trakcie walki…\pOraz, jaki POKéMON trafiony ma\nbyć wybranym atakiem.\pZależnie od tego jaki typ ataku\ndziała na jakiego POKéMONA,\pzależą obrażenia.\pWszystko zależy czy\nkombinacja jest dobra, czy zła.\pJeżeli nie znasz tych zależności,\nwalki mogą być trudne.\pPozwól, że zademonstruje ci \ndokładnie o co mi chodzi.\pOk, ruszamy!\pPrzylepcie gały do ekranu, by\nnie przegapić POKé GOŚCIA!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Is it possible to launch an attack\nthat will inflict heavy damage?\pDoes the opposing POKéMON pose\na threat to your POKéMON?\pIs there any chance that it may\nhave disastrously tough moves?\pWatch the type matchups to gain\nthe upper hand!\pAll righty, be seeing you!\pOh, for the COOL-type POKé DUDE,\nAWESOME-type kids like you match\lup perfectly!\pRemember, a good deed a day\nbrings happiness to stay!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy możliwe jest zadanie ataku,\nktóry zada potężne obrażenia?\pCzy przeciwny POKéMON może być\nzagrożeniem dla twego POKéMONA?\pCzy jest szansa, że może mieć\nzastraszająco silne ataki?\pPoznaj różnice typów, by zdobyć\nznaczną przewagę!\pOk, do zobaczenia!\pPOKé GOŚĆ o typie SUPER, świetnie\npasuje do dzieciaków CUDNEGO typu\ptakich jak wy!\pNo i pamiętajcie, że\nco złego, to nie ja!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Today, the POKé DUDE's going to\nshow you how to catch POKéMON!\pJust imagine… A groovy POKéMON\nsuddenly appearing in the wild!\pOh, you want it!\nYou just can't help it!\pOh, you have to catch it!\nYou gotta have it!\pLet me show you how you can make\nit happen!\pAll righty, here goes!\pKeep your eyes glued to the super\nPOKé DUDE SHOW!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dziś, POKé GOŚĆ pokaże wam\njak łapać POKéMONY!\pWyobraź sobie… Wypaśny POKéMON\nnagle wyłania się z dziczy!\pO, tak bardzo go chcesz!\nI nie może na to nic poradzić!\pHej, możesz go złapać!\nMusisz go mieć!\pPozwól, że pokażę ci, jak\nspełnić twoje marzenia!\pNo to super, dajemy!\pPrzylep gały do ekranu, by\nnie przegapić POKé GOŚCIA!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If your first POKé BALL fails to\ncatch the POKéMON, don't give up!\pKeep throwing POKé BALLS…\nIt's bound to work sometime!\pAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jeśli nie uda ci się złapać go\npierwszym POKé BALLEM\pnie poddawaj się!\pPróbuj aż do skutku…\nCzasami to mocno pomaga!\pNo to świetnie, do zobaczenia!\pI pamiętajcie TRENERZY,\nco złego, to nie ja!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey, everyone!\nDo you all have TMs?\pA TM, Technical Machine, is an\namazingly great item!\pIt teaches POKéMON a move that\nit may not learn when leveling up!\pIsn't that just great? What a\nconvenient world we live in!\pOpen the TM CASE and check out\nthe TMs you have.\pYou can check them out in detail,\ntoo.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witam wszystkich!\nCzy macie wszyscy TM?\pTM, Techniczna Maszyna, to\nzadziwiająco wspaniała rzecz!\pUczy POKéMONY ruchów,\nktórych nie poznają poziomując!\pCzy to nie wspaniałe? Cóż to za\nrozmyślny świat, w którym\pżyjemy!\pOtwórz ETUI TM i sprawdź\njakie masz TMy.\pMożecie też zobaczyć tam ich\ndokładny opis.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKé DUDE: NORMAL, WATER, GRASS…\nTMs also come in types.\pCheck the type and teach it to\na POKéMON that matches up well.\pFor example, WATER PULSE is\nsuitable for WATER-type POKéMON.\pBULLET SEED is a move that most\nGRASS-type POKéMON can learn.\pThere's one other thing!</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKé GOŚĆ: NORMALNE, WODNE,\nTRAWIASTE… TMy także mają typy.\pSprawdzaj typy i ucz\nich POKéMONÓW, by dobrze się\pwpasowywały.\pNa przykład, PULS WODY\njest dobry dla WODNYCH\pPOKéMONÓW.\pPOCISK NASION, to ruch, którego\nuczą się POKéMONY TRAWIASTE.\pJest coś jeszcze!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Don't just look at the type, read\nthe description, too.\pIt will contain hints about what\nPOKéMON might learn the move.\pFor example, take a move like\nFOCUS PUNCH.\pIt doesn't sound like anything a\nbird or fish POKéMON can learn.\pSo, try using it on POKéMON with\narms that can throw punches!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie patrz tylko na typ, dobrze jest\nprzeczytać też opis.\pMoże też zawierać rady dla\nPOKéMONÓW, które mają go użyć.\pNa przykład, taki ruch jak\nSKUPIONY CIOS.\pZdecydowanie nie jest to atak dla\nPOKéMONA ptaka lub ryby.\pSpróbuj więc użyć go na POKéMONIE z\nrękami zdolnymi do zadawania\pciosów!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Wow, I talked a lot today!\nAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Łał, dużo dziś powiedziałem!\nNo to wporzo! Do zobaczenia!\pI zapamiętajcie, TRENERZY,\nco złego, to nie ja!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A TRAINER's BAG has a bunch of\nnifty, convenient features!\pTake stuff in the KEY ITEMS\nPOCKET, for instance.\pYou can use a key item without\nopening the BAG every time.\pFor example, let's pretend I have\na TEACHY TV in my BAG.\pI can register it for instant use,\nand I'll show you how!\pAll righty, here goes!\pKeep your eyes glued to the sorta\nsuper POKé DUDE SHOW!</seg></tuv>
+      <tuv xml:lang="pl"><seg>TORBA TRENERA ma kilka ciekawych\ni przydatnych funkcji!\pWeźmy na przykład przedmioty z\nKIESZENI PRZEDMIOTÓW\pKLUCZOWYCH.\pMożesz używać przedmiotów\nkluczowych bez otwierania\pTORBY!\pPowiedzmy, że mam w TORBIE\nwłasny TELEWIZOREK.\pMogę zarejestrować go do\nnatychmiastowego użycia!\pSpójrz jak!\pDobra, zaczynamy!\pPrzylep gały do ekranu, by\nnie przegapić POKé GOŚCIA!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>And now, your TEACHY TV is\nregistered.\pHow do you use it?\nWell, here's how it works.\pOnce an item in the KEY ITEMS\nPOKCET is registered, you can use\lit by pressing SELECT.\pSo, you've given yourself\none-touch access to TEACHY TV.\pAll it takes for you to see me is\npressing one button!\pThat kind of attention is a little\nembarrassing!\pAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!</seg></tuv>
+      <tuv xml:lang="pl"><seg>I teraz, twój TELEWIZOREK\njest zarejestrowany.\pJak go użyć?\nWięc, działa to tak.\pGdy zarejestrujesz przedmiot z\nodpowiedniej KIESZENI, możesz użyć\pgo wciskając SELECT.\pW ten sposób uzyskałeś\ndostęp do TELEWIZORKA jednym\nguzikiem.\pBy się ze mną zobaczyć, wystarczy\nwcisnąć jeden przycisk!\pTak częste spotkania mogą być\nkrępujące!\pTo wszystko, do zobaczenia!\pPamiętajcie, TRENERZY,\nco złego to nie ja!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PKMN} TRAINER</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRENER {PKMN}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AQUA LEADER</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOWÓDCA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TEAM AQUA</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZESPÓŁ AQUA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AROMA LADY</seg></tuv>
+      <tuv xml:lang="pl"><seg>PERFUMIARKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RUIN MANIAC</seg></tuv>
+      <tuv xml:lang="pl"><seg>MANIAK RUIN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>INTERVIEWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>REPORTER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TUBER</seg></tuv>
+      <tuv xml:lang="pl"><seg>PLAŻOWICZKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COOLTRAINER</seg></tuv>
+      <tuv xml:lang="pl"><seg>SPOKOTRENER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HEX MANIAC</seg></tuv>
+      <tuv xml:lang="pl"><seg>MANIAK KLĄTW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BEAUTY</seg></tuv>
+      <tuv xml:lang="pl"><seg>PIĘKNOŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RICH BOY</seg></tuv>
+      <tuv xml:lang="pl"><seg>BOGACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMANIAC</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMANIAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SWIMMER♂</seg></tuv>
+      <tuv xml:lang="pl"><seg>PŁYWAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLACK BELT</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZARNY PAS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GUITARIST</seg></tuv>
+      <tuv xml:lang="pl"><seg>GITARZYSTA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CAMPER</seg></tuv>
+      <tuv xml:lang="pl"><seg>OBOZOWICZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BUG MANIAC</seg></tuv>
+      <tuv xml:lang="pl"><seg>MANIAKROBALI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GENTLEMAN</seg></tuv>
+      <tuv xml:lang="pl"><seg>DŻENTELMEN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ELITE FOUR</seg></tuv>
+      <tuv xml:lang="pl"><seg>ELITARNA 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LEADER</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIDER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SCHOOL KID</seg></tuv>
+      <tuv xml:lang="pl"><seg>UCZEN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SR. AND JR.</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOLEŻANKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EXPERT</seg></tuv>
+      <tuv xml:lang="pl"><seg>EKSPERT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>YOUNGSTER</seg></tuv>
+      <tuv xml:lang="pl"><seg>NASTOLATEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CHAMPION</seg></tuv>
+      <tuv xml:lang="pl"><seg>MISTRZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FISHERMAN</seg></tuv>
+      <tuv xml:lang="pl"><seg>RYBAK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRIATHLETE</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRIATLONISTA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BIRD KEEPER</seg></tuv>
+      <tuv xml:lang="pl"><seg>PTASI TRENER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BATTLE GIRL</seg></tuv>
+      <tuv xml:lang="pl"><seg>WOJOWNICZKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SWIMMER♀</seg></tuv>
+      <tuv xml:lang="pl"><seg>PŁYWACZKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PICNICKER</seg></tuv>
+      <tuv xml:lang="pl"><seg>OBOZOWICZKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TWINS</seg></tuv>
+      <tuv xml:lang="pl"><seg>BLIŹNIACZKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SAILOR</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻEGLARZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COLLECTOR</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOLEKCJONER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PKMN} BREEDER</seg></tuv>
+      <tuv xml:lang="pl"><seg>HODOWCA {PKMN}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PKMN} RANGER</seg></tuv>
+      <tuv xml:lang="pl"><seg>STRAŻNIK {PKMN}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAGMA LEADER</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIDER MAGMA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TEAM MAGMA</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZESPÓŁ MAGMA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LASS</seg></tuv>
+      <tuv xml:lang="pl"><seg>PANNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BUG CATCHER</seg></tuv>
+      <tuv xml:lang="pl"><seg>ROBALOŁAPACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HIKER</seg></tuv>
+      <tuv xml:lang="pl"><seg>GÓRAL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>YOUNG COUPLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>MŁODA PARA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OLD COUPLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>STARA PARA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SIS AND BRO</seg></tuv>
+      <tuv xml:lang="pl"><seg>RODZENSTWO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AQUA ADMIN</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOWÓDCA AQUA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAGMA ADMIN</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOWÓDCAMAGMA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BIKER</seg></tuv>
+      <tuv xml:lang="pl"><seg>MOTOCYKLISTA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BURGLAR</seg></tuv>
+      <tuv xml:lang="pl"><seg>RABUŚ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ENGINEER</seg></tuv>
+      <tuv xml:lang="pl"><seg>INŻYNIER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CUE BALL</seg></tuv>
+      <tuv xml:lang="pl"><seg>OSIŁEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GAMER</seg></tuv>
+      <tuv xml:lang="pl"><seg>GRACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>JUGGLER</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŻONGLER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TAMER</seg></tuv>
+      <tuv xml:lang="pl"><seg>POSKRAMIACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RIVAL</seg></tuv>
+      <tuv xml:lang="pl"><seg>RYWAL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SCIENTIST</seg></tuv>
+      <tuv xml:lang="pl"><seg>NAUKOWIEC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BOSS</seg></tuv>
+      <tuv xml:lang="pl"><seg>SZEF</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TEAM ROCKET</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZESPÓŁ R</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CHANNELER</seg></tuv>
+      <tuv xml:lang="pl"><seg>EGZORCYSTA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COOL COUPLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SPOKO PARA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CRUSH KIN</seg></tuv>
+      <tuv xml:lang="pl"><seg>KREWNY ŁOMOT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PKMN} PROF.</seg></tuv>
+      <tuv xml:lang="pl"><seg>PROF. {PKMN}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PLAYER</seg></tuv>
+      <tuv xml:lang="pl"><seg>GRACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CRUSH GIRL</seg></tuv>
+      <tuv xml:lang="pl"><seg>WOJOWNICZKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PAINTER</seg></tuv>
+      <tuv xml:lang="pl"><seg>MALARZ</seg></tuv>
+    </tu>
+  </body>
+</tmx>

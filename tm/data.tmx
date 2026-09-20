@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20260829T221949Z"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en"><seg>Would you like to mix records with\nother TRAINERS?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy chcesz zmieszać rekordy z\ninnymi TRENERAMI?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>We hope to see you again!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Do zobaczenia!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Welcome to the POKéMON CABLE CLUB\nTRADE CENTER.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witamy w CENTRUM WYMIANY\nPOKéMON CABLE CLUB.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Welcome to the POKéMON CABLE CLUB\nCOLOSSEUM.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witamy w KOLOSEUM\nPOKéMON CABLE CLUB.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Welcome to the POKéMON CABLE CLUB\nTIME CAPSULE.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witamy w KAPSULE CZASU\nPOKéMON CABLE CLUB.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please come again!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Do zobaczenia!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Welcome!\pWe're having a discount sale today!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witamy!\pMamy dzisiaj wyprzedaż!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER}{KUN}, welcome!\pWhat can I do for you?</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER}{KUN}, witaj!\pW czym mogę pomóc?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Which floor do you want?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Które piętro wybrać?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An item in the BAG can be\nregistered to SELECT for easy use.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przedmiot w TORBIE może\nzostać przypisany guzikowi SELECT.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} booted up the PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} uruchamia PC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Want to give a nickname to the\n{STR_VAR_2} you received?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy masz ochotę nadać imię\notrzymanemu {STR_VAR_2}?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} fainted…\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} zemdlał…\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Welcome to our POKéMON CENTER!\pWould you like me to heal your\nPOKéMON back to perfect health?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witamy w CENTRUM POKéMON!\pCzy chcesz, żebym wyleczyła twoje\nPOKéMONY?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Okay, I'll take your POKéMON for a\nfew seconds.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Okej, wezmę je od ciebie na kilka\nsekund.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thank you for waiting.\nWe've restored your POKéMON to\lfull health.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dziękuję za cierpliwość.\nWyleczyliśmy wszystkie twoje\lPOKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm terribly sorry.\nThe POKéMON WIRELESS CLUB is\lundergoing adjustments now.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Strasznie mi przykro.\nPOKéMON WIRELESS CLUB jest\ljeszcze dostosowywany.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It appears to be undergoing\nadjustments…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygląda na to, że trwa\nmodernizacja…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} handed over the\n{STR_VAR_1}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} oddaje\n{STR_VAR_1}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Do you want to give a nickname to\nthis {STR_VAR_1}?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy masz ochotę nadać imię temu\n{STR_VAR_1}?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Bingo!\nThe CARD KEY opened the door!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bingo!\nKARTA WSTĘPU otworzyła drzwi!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>No!\nIt needs a CARD KEY!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie!\nTo wymaga KARTY!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Accessed PROF. OAK's PC…\pAccessed the POKéDEX Rating\nSystem…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Połączono z PC PROF. OAKA…\pSystem Oceniania\nPOKéDEKSU…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Would you like to have your\nPOKéDEX rated?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy chcesz, by oceniono\ntwój POKéDEX?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Closed link to PROF. OAK's PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zamknięto połączenie z PC OAKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Someone's voice rang out,\n“Don't run away!”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czyjś głos rozbrzmiał,\n“Nie uciekaj!”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The door is open…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Drzwi są otwarte…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The {STR_VAR_1} flew away!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} odleciał!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER} found a {STR_VAR_2}!\nIt contains {STR_VAR_1}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} znajduje {STR_VAR_2}!\nZawiera {STR_VAR_1}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This move can be learned only\nonce. Is that okay?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Tego ruchu można nauczyć się\ntylko raz. Ok?</seg></tuv>
+    </tu>
+  </body>
+</tmx>

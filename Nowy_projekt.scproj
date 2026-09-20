@@ -1,0 +1,223 @@
+{
+  "name": "Nowy projekt",
+  "source_lang": "en",
+  "target_lang": "pl",
+  "project_path": "C:\\Users\\L\\SuperCAT_Projects\\Nowy_projekt",
+  "created_date": 1785686080.925927,
+  "modified_date": 1789918039.9790015,
+  "current_segment_index": 0,
+  "source_files": [
+    "data.txt",
+    "data maps.txt",
+    "datascript.txt",
+    "datatext.txt",
+    "src.txt",
+    "srcdata.txt",
+    "srcdatadecoration.txt",
+    "srcdataeasychat.txt",
+    "srcdatapokemon.txt",
+    "srcdataregionmap.txt",
+    "srcdatatext.txt"
+  ],
+  "file_order": [
+    "data.txt",
+    "data maps.txt",
+    "datascript.txt",
+    "datatext.txt",
+    "src.txt",
+    "srcdata.txt",
+    "srcdatadecoration.txt",
+    "srcdataeasychat.txt",
+    "srcdatapokemon.txt",
+    "srcdataregionmap.txt",
+    "srcdatatext.txt"
+  ],
+  "tm_sources": [
+    {
+      "name": "data.tmx",
+      "path": "C:\\Users\\L\\SuperCAT_Projects\\Nowy_projekt\\tm\\data.tmx",
+      "units": 30
+    },
+    {
+      "name": "datatext.tmx",
+      "path": "C:\\Users\\L\\SuperCAT_Projects\\Nowy_projekt\\tm\\datatext.tmx",
+      "units": 667
+    },
+    {
+      "name": "datascript.tmx",
+      "path": "C:\\Users\\L\\SuperCAT_Projects\\Nowy_projekt\\tm\\datascript.tmx",
+      "units": 66
+    },
+    {
+      "name": "srcdatatext.tmx",
+      "path": "C:\\Users\\L\\SuperCAT_Projects\\Nowy_projekt\\tm\\srcdatatext.tmx",
+      "units": 655
+    },
+    {
+      "name": "data maps.tmx",
+      "path": "C:\\Users\\L\\SuperCAT_Projects\\Nowy_projekt\\tm\\data maps.tmx",
+      "units": 2949
+    },
+    {
+      "name": "srcdata.tmx",
+      "path": "C:\\Users\\L\\SuperCAT_Projects\\Nowy_projekt\\tm\\srcdata.tmx",
+      "units": 517
+    },
+    {
+      "name": "srcdatapokemon.tmx",
+      "path": "C:\\Users\\L\\SuperCAT_Projects\\Nowy_projekt\\tm\\srcdatapokemon.tmx",
+      "units": 653
+    },
+    {
+      "name": "srcdataregion_map.tmx",
+      "path": "C:\\Users\\L\\SuperCAT_Projects\\Nowy_projekt\\tm\\srcdataregion_map.tmx",
+      "units": 97
+    },
+    {
+      "name": "src.tmx",
+      "path": "C:\\Users\\L\\SuperCAT_Projects\\Nowy_projekt\\tm\\src.tmx",
+      "units": 1354
+    },
+    {
+      "name": "pok lf.tmx",
+      "path": "C:\\Users\\L\\Downloads\\workspace-01a05376-9f91-7c2f-a3eb-5fad662b9b62 (1)\\pok lf.tmx",
+      "units": 386
+    }
+  ],
+  "segmentation": {
+    "enabled": true,
+    "mode": "custom_delimiter",
+    "delimiters": ".!?:;",
+    "custom_delimiter": "<<KON>>",
+    "regex_pattern": "",
+    "merge_empty_lines": true,
+    "treat_paragraph_as_segment": false,
+    "preserve_whitespace": true,
+    "custom_abbreviations": "",
+    "require_uppercase_after": true,
+    "skip_after_numbers": true,
+    "split_on_codes": false,
+    "min_segment_length": 0
+  },
+  "exclusions": {
+    "enabled": true,
+    "rules": [
+      {
+        "pattern": "<<< FILE:*>>>",
+        "match_type": "wildcard",
+        "enabled": true,
+        "case_sensitive": false,
+        "comment": "wiersze techniczne wskazujące plik źródłowy",
+        "file_filter": "",
+        "action": "skip"
+      },
+      {
+        "pattern": "<<<*>>>",
+        "match_type": "wildcard",
+        "enabled": false,
+        "case_sensitive": false,
+        "comment": "dowolny wiersz w potrójnych nawiasach trójkątnych",
+        "file_filter": "",
+        "action": "skip"
+      },
+      {
+        "pattern": "^\\s*#\\w+",
+        "match_type": "regex",
+        "enabled": false,
+        "case_sensitive": false,
+        "comment": "wiersze zaczynające się od # (np. #org @8005A2)",
+        "file_filter": "",
+        "action": "skip"
+      },
+      {
+        "pattern": "^[\\s\\\\ntpl]*(\\{[A-Za-z0-9_]+\\}[\\s\\\\ntpl]*)+$",
+        "match_type": "regex",
+        "enabled": false,
+        "case_sensitive": false,
+        "comment": "segment bez tekstu – wyłącznie zmienne i znaczniki",
+        "file_filter": "",
+        "action": "skip"
+      },
+      {
+        "pattern": "^[\\W\\d_]+$",
+        "match_type": "regex",
+        "enabled": false,
+        "case_sensitive": false,
+        "comment": "segment bez ani jednej litery",
+        "file_filter": "",
+        "action": "skip"
+      },
+      {
+        "pattern": "[\\w/\\\\]+\\.(inc|s|asm|txt|json)\\b",
+        "match_type": "regex",
+        "enabled": false,
+        "case_sensitive": false,
+        "comment": "wiersze zawierające ścieżkę do pliku",
+        "file_filter": "",
+        "action": "skip"
+      },
+      {
+        "pattern": "^\\s*\\[[A-Za-z0-9_]+\\]\\s*$",
+        "match_type": "regex",
+        "enabled": false,
+        "case_sensitive": false,
+        "comment": "segment będący samą etykietą",
+        "file_filter": "",
+        "action": "skip"
+      },
+      {
+        "pattern": "[\\u3000-\\u303f\\u3040-\\u309f\\u30a0-\\u30ff\\u3400-\\u4dbf\\u4e00-\\u9fff\\uf900-\\ufaff\\uff00-\\uff60\\uff61-\\uff9f\\uac00-\\ud7af]",
+        "match_type": "regex",
+        "enabled": true,
+        "case_sensitive": false,
+        "comment": "segmenty zawierające znaki CJK – nietknięty oryginał",
+        "file_filter": "",
+        "action": "skip"
+      },
+      {
+        "pattern": "CHEM\\b",
+        "match_type": "regex",
+        "enabled": true,
+        "case_sensitive": true,
+        "comment": "wzory typu CHEM-001, CHEM 12 — gotowe, oznaczane jako przetłumaczone",
+        "file_filter": "",
+        "action": "skip"
+      }
+    ],
+    "builtin_version": 2
+  },
+  "file_markers": {
+    "data.txt": "ok",
+    "srcdatatext.txt": "ok",
+    "srcdataregionmap.txt": "ok",
+    "srcdatapokemon.txt": "ok",
+    "srcdataeasychat.txt": "bad",
+    "datascript.txt": "ok",
+    "datatext.txt": "ok",
+    "srcdatadecoration.txt": "bad",
+    "data maps.txt": "ok",
+    "srcdata.txt": "ok"
+  },
+  "tm": {
+    "enabled": true,
+    "fuzzy_threshold": 70,
+    "max_results": 10,
+    "auto_add_to_tm": true,
+    "use_external_tm": true
+  },
+  "mt": {
+    "enabled": false,
+    "engine": "local",
+    "formality": "default"
+  },
+  "glossary": {
+    "enabled": true,
+    "auto_suggest": true,
+    "highlight_terms": true
+  },
+  "spellcheck": {
+    "enabled": true,
+    "dictionary_language": "pl_PL",
+    "underline_errors": true
+  }
+}
