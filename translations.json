@@ -52559,7 +52559,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1789922403.402904,
+  "updated": 1789922415.08519,
   "touched": true
  },
  "data maps.txt::data maps.txt_517": {
@@ -75678,10 +75678,13 @@
  },
  "src.txt::src.txt_2034": {
   "source": "Best score:",
-  "target": "",
-  "status": "new",
+  "target": "Best score:",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1789922421.0673897,
+  "touched": true
  },
  "src.txt::src.txt_2685": {
   "source": "LAPRAS",
