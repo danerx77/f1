@@ -31435,11 +31435,14 @@
   "ignored": false
  },
  "srcdata.txt::srcdata.txt_716": {
-  "source": "A good, quality BALL that offers\\na higher POKéMON catch rate than\\na standard POKé BALL.",
-  "target": "Dobrej jakości KULA oferująca\\ncałkiem duże szanse na złapanie\\ndzikiego POKéMONA.",
+  "source": "A good, quality BALL that offers\\\\na higher POKéMON catch rate than\\\\na standard POKé BALL.",
+  "target": "Dobrej jakości KULA oferująca\\\\ncałkiem duże szanse na złapanie\\\\ndzikiego POKéMONA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376175.678113,
+  "touched": true
  },
  "dump_BPE_en.txt::dump_BPE_en.txt_3580": {
   "source": "Heh, it doesn't matter!\\nWe bought ourselves some time!\\n\\nThe BOSS should have snatched what\\nhe was after!",
@@ -75722,7 +75725,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790376155.6716776,
+  "updated": 1790376170.4171815,
   "touched": true
  },
  "src.txt::src.txt_476": {
