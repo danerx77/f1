@@ -23331,7 +23331,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363187.2249718,
+  "updated": 1790363200.671322,
   "touched": true
  },
  "src.txt::src.txt_1476": {
@@ -42810,7 +42810,10 @@
   "target": "Nie masz tylu pieniędzy {PAUSE_UNTIL_PRESS}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363205.1619537,
+  "touched": true
  },
  "data maps.txt::data maps.txt_919": {
   "source": "BILL: Well, absolutely!\\nHow's your research coming along?\\p…Oh, wait a sec.",
@@ -49097,7 +49100,10 @@
   "target": "Więc, {STR_VAR_1} w ilości {STR_VAR_2}.\\nWyniesie cię ¥{STR_VAR_3}. Ok?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363203.2097287,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_154": {
   "source": "LEAF",
@@ -56155,7 +56161,10 @@
   "target": "Nie masz miejsca na ten\\nprzedmiot. {PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363207.231705,
+  "touched": true
  },
  "src.txt::src.txt_294": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\\n{B_BUFF2}",
@@ -60777,7 +60786,10 @@
   "target": "Proszę bardzo!\\nDziękuję!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363204.298436,
+  "touched": true
  },
  "datatext.txt::datatext.txt_827": {
   "source": "CASSIE",
@@ -68087,7 +68099,10 @@
   "target": "{STR_VAR_1}? Oczywiście.\\nIle sobie życzysz?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363201.2672668,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_96": {
   "source": "SHADOW",
