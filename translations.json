@@ -62353,10 +62353,13 @@
  },
  "src.txt::src.txt_1627": {
   "source": "REVIVAL HERB{CLEAR_TO 0x6F}{FONT_SMALL}300",
-  "target": "",
-  "status": "new",
+  "target": "ZIELE OCUCANIA",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363607.2914264,
+  "touched": true
  },
  "src.txt::src.txt_903": {
   "source": "This attack move\\ngrows more powerful\\nthe less the user\\nlikes its TRAINER.",
