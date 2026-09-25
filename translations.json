@@ -9011,7 +9011,10 @@
   "target": "Nie masz na to miejsca w swojej\\nTORBIE.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357825.714764,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3153": {
   "source": "{FONT_NORMAL}{PLAYER} doesn't have the needed\\nS.S. TICKET.\\p{FONT_MALE}Sorry!\\pYou need a ticket to get aboard.",
@@ -17621,7 +17624,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275703.413808
+  "updated": 1790357815.1379006,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1809": {
   "source": "Oh, I just love your ride!\\nCan I have it if I win?",
@@ -30424,7 +30428,10 @@
   "target": "{PLAYER} dostaje MAPE REGIONU\\nod DAISY.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357820.9221826,
+  "touched": true
  },
  "datatext.txt::datatext.txt_678": {
   "source": "Set to “HELP” to display help messages\\nby pressing the L or R Button.\\lSet to “LR” to enable the switching\\lof the POKéDEX pages and BAG POCKETS\\lusing the L and R Buttons.\\lSet to “L=A” to make the L Button\\lwork the same as the A Button.",
@@ -37042,7 +37049,10 @@
   "target": "DAISY: Cześć, {PLAYER}!\\nW samą porę.\\pWłaśnie miałam napić się\\nherbaty. Przyłączysz się?\\pZobacz! \\nTwoje POKéMONY troszkę się ubrudziły.\\pChcesz, żebym jakiegoś uczesała?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357827.8095088,
+  "touched": true
  },
  "src.txt::src.txt_2916": {
   "source": "EGG TRADE",
@@ -47789,7 +47799,10 @@
   "target": "Możesz użyć MAPY, aby dowiedzieć\\nsię gdzie jesteś albo sprawdzić \\lnazwy miejsc.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357823.799848,
+  "touched": true
  },
  "data maps.txt::data maps.txt_679": {
   "source": "You can't become a good TRAINER\\nwith just one strong POKéMON.\\pBut raising many POKéMON evenly\\nis no easy task, either.",
@@ -48603,7 +48616,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275698.536735
+  "updated": 1790357813.685426,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_35": {
   "source": "ROUTE 21",
@@ -50012,7 +50026,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275701.0006862
+  "updated": 1790357817.6978042,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_67": {
   "source": "A white glass flute.\\nWhen blown, it makes wild POKéMON\\nmore likely to appear.",
@@ -56870,7 +56885,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275694.9270632
+  "updated": 1790357821.6395113,
+  "touched": true
  },
  "src.txt::src.txt_653": {
   "source": "WIKI",
@@ -69192,7 +69208,10 @@
   "target": "To olbrzymia mapa regionu KANTO.\\nTo może być przydatne!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357822.4707925,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_963": {
   "source": "To keep from being blown away by the\\nwind, they gather in clusters. They do\\nenjoy gentle breezes, though.",
@@ -76454,7 +76473,10 @@
   "target": "DAISY: POKéMONY, tak jak ludzie\\nsą żywymi istotami.\\pPozwól im odpocząć, gdy poczują\\nzmęczenie.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357823.1931949,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2649": {
   "source": "Doesn't matter.\\nMy brothers will repay the favor!",
