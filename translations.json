@@ -10393,10 +10393,13 @@
  },
  "src.txt::src.txt_1063": {
   "source": "RED",
-  "target": "RED",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790362669.981126,
+  "touched": true
  },
  "data maps.txt::data maps.txt_294": {
   "source": "TEAM ROCKET left a way out!",
@@ -53513,10 +53516,13 @@
  },
  "src.txt::src.txt_1064": {
   "source": "GREEN",
-  "target": "GREEN",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790362670.0025792,
+  "touched": true
  },
  "data maps.txt::data maps.txt_305": {
   "source": "Hm? Your BERRY POUCH is full.\\nMy gift remains ungiven, then.",
@@ -63730,10 +63736,13 @@
  },
  "src.txt::src.txt_1071": {
   "source": "MYSTERY GIFT",
-  "target": "MYSTERY GIFT",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790362685.4468515,
+  "touched": true
  },
  "data maps.txt::data maps.txt_381": {
   "source": "Sorry!\\nBad call!",
@@ -64719,12 +64728,13 @@
  },
  "src.txt::src.txt_1060": {
   "source": "MAXIE",
-  "target": "MAXIE",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790362667.2155972,
+  "updated": 1790362669.9057379,
   "touched": true
  },
  "src.txt::src.txt_449": {
@@ -78323,10 +78333,13 @@
  },
  "src.txt::src.txt_1061": {
   "source": "KYOGRE",
-  "target": "KYOGRE",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790362669.931792,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_253": {
   "source": "PSYCHIC",
@@ -80528,10 +80541,14 @@
  },
  "src.txt::src.txt_1070": {
   "source": "MYSTERY GIFT",
-  "target": "MYSTERY GIFT",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1790362685.4247313,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2433": {
   "source": "The way I am now, I may have to\\nhold off on TRAINER TOWER…",
@@ -80964,10 +80981,13 @@
  },
  "src.txt::src.txt_1062": {
   "source": "GROUDON",
-  "target": "GROUDON",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790362669.955464,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3396": {
   "source": "TRAINER TIPS\\pContact PROF. OAK via a PC to\\nget your POKéDEX evaluated!",
@@ -89758,8 +89778,8 @@
  },
  "src.txt::src.txt_1058": {
   "source": "MAGMA",
-  "target": "MAGMA",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
