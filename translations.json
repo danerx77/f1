@@ -72911,10 +72911,13 @@
  },
  "src.txt::src.txt_1619": {
   "source": "ROOFTOP",
-  "target": "",
-  "status": "new",
+  "target": "ROOFTOP",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363581.3223085,
+  "touched": true
  },
  "data maps.txt::data maps.txt_481": {
   "source": "<<< FILE: maps/FiveIsland_PokemonCenter_1F/text.inc >>>",
