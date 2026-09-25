@@ -30294,12 +30294,12 @@
  },
  "data maps.txt::data maps.txt_2303": {
   "source": "I had a vision of your arrival.\\pI have had psychic powers since\\nI was a child.\\pIt started when a spoon I\\ncarelessly tossed, bent.\\pI dislike battling, but if you wish,\\nI will show you my powers!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
-  "target": "Miałam wizję, w której widziałam\\ptwoje przybycie.\\nMam psychiczne moce\\pod dziecka.\\nWszystko zaczęło się od\\pwygięcia się rzuconej łyżki.\\nNie lubię walczyć, ale jeśli chcesz pokażę ci co umiem!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
+  "target": "Miałam wizję, w której widziałam\\ptwoje przybycie.\\nMam psychiczne moce\\pod dziecka.\\nWszystko zaczęło się od\\pwygięcia się rzuconej łyżki.\\nNie lubię walczyć, ale jeśli chcesz pokażę ci co umiem {PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790357307.7927809,
+  "updated": 1790357311.33765,
   "touched": true
  },
  "datatext.txt::datatext.txt_854": {
@@ -41892,7 +41892,10 @@
   "target": "Ach!\\nWięc wróciłeś, {PLAYER}!\\pProwadzę ELITARNĄ CZWÓRKĘ.\\pMożesz mnie nazywać LANCE,\\nTRENER smoków.\\pWiesz, że smoki to mityczne\\nPOKéMONY.\\pSą trudne do złapania i trenowania,\\nale drzemie w nich wielka siła.\\pSą praktycznie niezniszczalne.\\nNie można ich pokonać sprytem.\\pWięc, czy jesteś gotów na porażkę?\\pTwoja zabawa z LIGĄ kończy się\\ntutaj, {PLAYER}!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357327.8129957,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2579": {
   "source": "Fwahahaha!\\nMy BOSS has been after this place!",
