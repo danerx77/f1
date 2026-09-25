@@ -24259,11 +24259,14 @@
   "ignored": false
  },
  "srcdata.txt::srcdata.txt_746": {
-  "source": "A spray-type medicine.\\nIt heals one POKéMON from\\nparalysis.",
+  "source": "A spray-type medicine.\\\\nIt heals one POKéMON from\\\\nparalysis.",
   "target": "Lek w formie sprayu.\\nLeczy jednego z POKéMONÓW z\\nparaliżu.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376235.6775057,
+  "touched": true
  },
  "dump_BPE_en.txt::dump_BPE_en.txt_4104": {
   "source": "Hi!",
@@ -64552,11 +64555,14 @@
   "ignored": false
  },
  "srcdata.txt::srcdata.txt_742": {
-  "source": "A spray-type medicine.\\nIt defrosts a frozen POKéMON.",
-  "target": "Lek w formie sprayu.\\nRozmraża jednego z POKéMONÓW.",
+  "source": "A spray-type medicine.\\\\nIt defrosts a frozen POKéMON.",
+  "target": "Lek w formie sprayu.\\\\nRozmraża jednego z POKéMONÓW.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376226.2761247,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1527": {
   "source": "LIAM",
@@ -68868,11 +68874,14 @@
   "ignored": false
  },
  "srcdata.txt::srcdata.txt_740": {
-  "source": "A spray-type medicine.\\nIt heals one POKéMON of a burn.",
-  "target": "Lek w formie sprayu.\\nLeczy jednego POKéMONA z poparzeń.",
+  "source": "A spray-type medicine.\\\\nIt heals one POKéMON of a burn.",
+  "target": "Lek w formie sprayu.\\\\nLeczy jednego POKéMONA z poparzeń.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376223.547316,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_547": {
   "source": "TWISTEDSPOON",
@@ -83043,11 +83052,14 @@
   "touched": true
  },
  "srcdata.txt::srcdata.txt_744": {
-  "source": "A spray-type medicine.\\nIt awakens a sleeping POKéMON.",
-  "target": "Lek w formie sprayu.\\nBudzi śpiącego POKéMONA.",
+  "source": "A spray-type medicine.\\\\nIt awakens a sleeping POKéMON.",
+  "target": "Lek w formie sprayu.\\\\nBudzi śpiącego POKéMONA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376229.141941,
+  "touched": true
  },
  "dump_BPE_en.txt::dump_BPE_en.txt_7601": {
   "source": "Did you know?",
@@ -113470,11 +113482,14 @@
   "ignored": false
  },
  "srcdata.txt::srcdata.txt_738": {
-  "source": "A spray-type medicine.\\nIt heals one POKéMON from a\\npoisoning.",
-  "target": "Lek w formie sprayu.\\nLeczy jednego POKéMONA ze stanu\\notrucia.",
+  "source": "A spray-type medicine.\\\\nIt heals one POKéMON from a\\\\npoisoning.",
+  "target": "Lek w formie sprayu.\\\\nLeczy jednego POKéMONA ze stanu\\\\notrucia.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376220.0911283,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1197": {
   "source": "????????",
@@ -114914,12 +114929,12 @@
  },
  "srcdata.txt::srcdata.txt_736": {
   "source": "A spray-type wound medicine.\\\\nIt restores the HP of one POKéMON\\\\nby 20 points.",
-  "target": "Lek w formie sprayu.\\nPrzywraca zdrowie POKéMONA o 20\\npunktów.",
+  "target": "Lek w formie sprayu.\\\\nPrzywraca zdrowie POKéMONA o 20\\\\npunktów.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790376215.672367,
+  "updated": 1790376217.7525582,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_307": {
