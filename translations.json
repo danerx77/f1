@@ -8007,10 +8007,13 @@
  },
  "srcdata.txt::srcdata.txt_1454": {
   "source": "A jar for storing BERRY POWDER\\\\nmade using a BERRY CRUSHER.",
-  "target": "Słoik przeznaczony na JAGODOWY\\nPROSZEK z BERRY CRUSHERA.",
+  "target": "Słoik przeznaczony na JAGODOWY\\\\nPROSZEK z BERRY CRUSHERA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376338.9253905,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_493": {
   "source": "DANCE",
@@ -9067,7 +9070,10 @@
   "target": "WOREKNAJAGODY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376350.2947512,
+  "touched": true
  },
  "datatext.txt::datatext.txt_697": {
   "source": "The help messages change depending on\\nhow much you have progressed in the\\lgame. They are designed to support you\\lwhen you need them. If there is\\lanything that you don't understand,\\lplease look up the HELP System!",
@@ -15484,10 +15490,13 @@
  },
  "srcdata.txt::srcdata.txt_1458": {
   "source": "An exquisitely beautiful gem that\\\\nhas a blue glow.\\\\nIt symbolizes honesty.",
-  "target": "Wyśmienity, piękny klejnot\\nemitujący niebieski blask.\\nSymbol szczerości.",
+  "target": "Wyśmienity, piękny klejnot\\\\nemitujący niebieski blask.\\\\nSymbol szczerości.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376338.8495197,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_278": {
   "source": "TINYSWALLOW",
@@ -18847,7 +18856,10 @@
   "target": "SZAFIR",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376338.8745193,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2894": {
   "source": "Our CAPTAIN is a sword master.\\nHe's awesome at using CUT.\\pThey say he even teaches CUT\\nto POKéMON!",
@@ -19418,10 +19430,13 @@
  },
  "srcdata.txt::srcdata.txt_1444": {
   "source": "A pass for ferries between ONE,\\\\nTWO, and THREE ISLAND.\\\\nIt has a drawing of three islands.",
-  "target": "Przepustka na promy na WYSPY od\\nPIERWSZEJ do TRZECIEJ.\\nZawiera rysunek z trzema wyspami.",
+  "target": "Przepustka na promy na WYSPY od\\\\nPIERWSZEJ do TRZECIEJ.\\\\nZawiera rysunek z trzema wyspami.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376350.2139227,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1013": {
   "source": "If you become enchanted by its smooth,\\nelegant, dance-like kicks, you may get\\ndrilled hard.",
@@ -21595,7 +21610,10 @@
   "target": "????????",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376339.2547708,
+  "touched": true
  },
  "src.txt::src.txt_1689": {
   "source": "INFO",
@@ -28586,7 +28604,10 @@
   "target": "ROWER",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376339.0861468,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1060": {
   "source": "The antennae have distinctive patterns\\nthat look like eyes. When it rains, they\\ngrow heavy, making flight impossible.",
@@ -39055,7 +39076,10 @@
   "target": "PRZYPOMINACZ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376355.6676323,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1993": {
   "source": "<<< FILE: maps/Route2_House/text.inc >>>",
@@ -41117,7 +41141,10 @@
   "target": "TELEWIZOREK",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376350.268222,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1295": {
   "source": "TM05",
@@ -44063,10 +44090,13 @@
  },
  "srcdata.txt::srcdata.txt_1456": {
   "source": "An exquisitely beautiful gem that\\\\nhas a red glow.\\\\nIt symbolizes passion.",
-  "target": "Wyśmienity, piękny klejnot\\nemitujący czerwony blask.\\nSymbol zaciekłości.",
+  "target": "Wyśmienity, piękny klejnot\\\\nemitujący czerwony blask.\\\\nSymbol zaciekłości.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376338.8976681,
+  "touched": true
  },
  "src.txt::src.txt_1617": {
   "source": "B3F",
@@ -47245,7 +47275,10 @@
   "target": "STARYBURSZTYN",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376339.1716278,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2560": {
   "source": "Oh…\\nBut THUNDER WAVE is convenient…",
@@ -49241,7 +49274,10 @@
   "target": "TRÓJ-BILET",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376350.2419393,
+  "touched": true
  },
  "datascript.txt::datascript.txt_88": {
   "source": "This tree looks like it can be CUT\\ndown!\\pWould you like to CUT it?",
@@ -50931,7 +50967,10 @@
   "target": "TĘCZOWY BILET",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376350.1851153,
+  "touched": true
  },
  "datatext.txt::datatext.txt_273": {
   "source": "SIGN",
@@ -56432,7 +56471,10 @@
   "target": "SKAM. ŚLIMAK",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376339.1291838,
+  "touched": true
  },
  "src.txt::src.txt_1130": {
   "source": "NUMERICAL MODE: NATIONAL",
@@ -61793,7 +61835,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790376335.6916015,
+  "updated": 1790376338.1059973,
   "touched": true
  },
  "datatext.txt::datatext.txt_645": {
@@ -67932,7 +67974,10 @@
   "target": "TAJEMNY KLUCZ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376339.2149942,
+  "touched": true
  },
  "data maps.txt::data maps.txt_239": {
   "source": "SLOWBRO is loafing around…",
@@ -76172,10 +76217,13 @@
  },
  "srcdata.txt::srcdata.txt_1450": {
   "source": "A ticket required to board the ship\\\\nto NAVEL ROCK.\\\\nIt glows with a mystic light.",
-  "target": "Bilet wymagany by dostać się na\\nSKAŁĘ PĘPKA.\\nEmituje tajemnicze światło.",
+  "target": "Bilet wymagany by dostać się na\\\\nSKAŁĘ PĘPKA.\\\\nEmituje tajemnicze światło.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376338.9515042,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3360": {
   "source": "<<< FILE: maps/ViridianCity_School/text.inc >>>",
@@ -86839,10 +86887,13 @@
  },
  "srcdata.txt::srcdata.txt_1446": {
   "source": "A pass for ferries between\\\\nVERMILION and the SEVII ISLANDS.\\\\nIt features a drawing of a rainbow.",
-  "target": "Przepustka na kursy między\\nVERMILION a WYSPAMI SEVII. Zawiera\\nnadruk przedstawiający tęczę.",
+  "target": "Przepustka na kursy między\\\\nVERMILION a WYSPAMI SEVII. Zawiera\\\\nnadruk przedstawiający tęczę.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376350.1516814,
+  "touched": true
  },
  "data maps.txt::data maps.txt_617": {
   "source": "Name: KABUTO\\nAn extremely rare POKéMON that was\\lregenerated from a fossil.",
@@ -89879,7 +89930,10 @@
   "target": "ETUI TM",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376350.511522,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1706": {
   "source": "JED: Our love knows no bounds.\\nWe're in love and we show it!",
