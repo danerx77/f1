@@ -18369,10 +18369,13 @@
  },
  "src.txt::src.txt_2324": {
   "source": "{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}EXIT",
-  "target": "{DPAD_UPDOWN}PRZESUŃ {A_BUTTON}OK {B_BUTTON}ANULUJ",
+  "target": "{DPAD_UPDOWN}RUCH {A_BUTTON}OK {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362247.1503098,
+  "touched": true
  },
  "src.txt::src.txt_2115": {
   "source": "\\nScript Designer\\n\\nMap Designer\\n\\n\\n",
@@ -40593,12 +40596,12 @@
  },
  "src.txt::src.txt_2268": {
   "source": "{START_BUTTON}PICK {DPAD_UPDOWN}SELECT {B_BUTTON}CANCEL",
-  "target": "{START_BUTTON}WYBIERZ {DPAD_UPDOWN}PRZESUŃ {B_BUTTON}ANULUJ",
+  "target": "{START_BUTTON}WYBIERZ {DPAD_UPDOWN}RUCH {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362227.1422117,
+  "updated": 1790362231.8081048,
   "touched": true
  },
  "src.txt::src.txt_1633": {
