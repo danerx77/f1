@@ -22348,7 +22348,10 @@
   "target": "POKéMON",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362727.2167857,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_67": {
   "source": "A white glass flute.\\nWhen blown, it makes wild POKéMON\\nmore likely to appear.",
