@@ -64845,7 +64845,10 @@
   "target": "Najlepsza KULA z niesamowitą\\njakością działania. Złapie każdego\\ndzikiego POKéMONA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790374809.4595282,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1339": {
   "source": "TM27",
