@@ -36411,10 +36411,13 @@
  },
  "src.txt::src.txt_1214": {
   "source": "{STR_VAR_1}/{STR_VAR_2}\\nBALLS  {STR_VAR_3}",
-  "target": "{STR_VAR_1}/{STR_VAR_2}\\{STR_VAR_3}\\nKULE",
+  "target": "{STR_VAR_1}{STR_VAR_2}/ {STR_VAR_3}\\nKULE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362987.2318656,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2939": {
   "source": "My pa said there are 100 kinds of\\nPOKéMON. I think there are more.",
@@ -39341,7 +39344,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362967.2257948,
+  "updated": 1790362969.0960407,
   "touched": true
  },
  "data maps.txt::data maps.txt_1895": {
