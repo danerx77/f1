@@ -44312,10 +44312,11 @@
  },
  "src.txt::src.txt_1059": {
   "source": "ARCHIE",
-  "target": "ARCHIE",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_319": {
   "source": "POISON BAG",
@@ -44425,7 +44426,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362647.2134073,
+  "updated": 1790362648.087618,
   "touched": true
  },
  "data maps.txt::data maps.txt_2643": {
@@ -58565,8 +58566,8 @@
  },
  "src.txt::src.txt_1057": {
   "source": "AQUA",
-  "target": "AQUA",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -64721,7 +64722,10 @@
   "target": "MAXIE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362667.2155972,
+  "touched": true
  },
  "src.txt::src.txt_449": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\ncured paralysis!",
@@ -96093,7 +96097,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362635.2855327,
+  "updated": 1790362648.4776614,
   "touched": true
  },
  "data maps.txt::data maps.txt_1277": {
