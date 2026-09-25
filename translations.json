@@ -51577,10 +51577,13 @@
  },
  "src.txt::src.txt_1841": {
   "source": "{DYNAMIC 0x00} nature.\\nMet in a trade.",
-  "target": "{DYNAMIC 0x00}  natura\\nZ wymiany.",
+  "target": "{DYNAMIC 0x00} natura\\nZ wymiany.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363782.4489477,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_41": {
   "source": "A spray-type medicine.\\nIt awakens a sleeping POKéMON.",
@@ -74541,12 +74544,12 @@
  },
  "src.txt::src.txt_1817": {
   "source": "{A_BUTTON}SWITCH",
-  "target": "{A_BUTTON} ZMIEŃ",
+  "target": "{A_BUTTON}ZMIEŃ",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363767.3242316,
+  "updated": 1790363775.936753,
   "touched": true
  },
  "data maps.txt::data maps.txt_1320": {
