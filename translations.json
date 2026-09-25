@@ -146,7 +146,10 @@
   "target": "Zagrano na POKé FLECIE.\\pBardzo ładna melodia!{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363160.1881807,
+  "touched": true
  },
  "src.txt::src.txt_1229": {
   "source": "Deposit how many\\n{STR_VAR_1}(s)?",
@@ -174,7 +177,9 @@
   "target": "Jeśli się zablokujesz, spróbuj\\nruszyć kamienie.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790276185.423712
  },
  "srcdata.txt::srcdata.txt_488": {
   "source": "QUALOT BERRY",
@@ -728,7 +733,10 @@
   "target": "{DPAD_UPDOWN}RUCH {A_BUTTON}OK {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362287.1686752,
+  "touched": true
  },
  "data maps.txt::data maps.txt_852": {
   "source": "My granddaughter was in a tizzy\\nover a new breakthrough.\\pShe said we now have PC linkage\\nwith people in KANTO.\\pI'm not sure what that means, but\\nCELIO is quite the man!",
@@ -2035,7 +2043,10 @@
   "target": "ELEKTRYCZNY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363702.4054804,
+  "touched": true
  },
  "datatext.txt::datatext.txt_147": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}SABRINA",
@@ -2297,7 +2308,10 @@
   "target": "BOKS jest pełny. {PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363154.5690136,
+  "touched": true
  },
  "datatext.txt::datatext.txt_358": {
   "source": "POKéMON JOURNAL\\pSpecial Feature: CERULEAN GYM\\nLEADER MISTY!\\pMISTY is said to worship LORELEI\\nof the ELITE FOUR.",
@@ -3057,7 +3071,10 @@
   "target": "Ale efekt ODGANIACZA pozostaje \\nz wcześniej. {PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363148.8433855,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1729": {
   "source": "GRUNT",
@@ -3427,7 +3444,9 @@
   "target": "{RIVAL} też tędy przechodził.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790276376.7137582
  },
  "srcdata.txt::srcdata.txt_1420": {
   "source": "A card-type key that unlocks doors\\nin SILPH CO.'s HEAD OFFICE in\\nSAFFRON CITY.",
@@ -3933,7 +3952,10 @@
   "target": "Jestem AGATHA z ELITARNEJ CZWÓRKI.\\pTo ciebie OAK wziął pod\\nswoje skrzydła, czyż nie?\\pTen stary dureń był kiedyś silny i\\nprzystojny.\\pAle to było wieki temu. Teraz\\njest tylko cieniem samego siebie.\\pTeraz bawi się tylko swoim\\nPOKéDEKSEM.\\pMyli się.\\nPOKéMONY służą do toczenia walk!\\p{PLAYER}! Pokażę ci jak walczy\\nprawdziwy TRENER!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357379.5555737,
+  "touched": true
  },
  "src.txt::src.txt_1220": {
   "source": "KEY ITEMS",
@@ -4146,7 +4168,10 @@
   "target": "Nie masz na to miejsca w swojej\\nTORBIE.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357825.714764,
+  "touched": true
  },
  "data maps.txt::data maps.txt_417": {
   "source": "EEVEE can evolve into one of three\\nkinds of POKéMON.",
@@ -4559,7 +4584,10 @@
   "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON}DALEJ {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362780.0745394,
+  "touched": true
  },
  "src.txt::src.txt_753": {
   "source": "A retaliation move\\nthat counters any\\nphysical hit with\\ndouble the damage.",
@@ -5083,7 +5111,10 @@
   "target": "Nie poznał cię jeszcze dobrze.\\nPOKéMONY są czasami\\ppodejrzliwe, gdy tylko\\nje dostaniesz.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357841.9219182,
+  "touched": true
  },
  "src.txt::src.txt_271": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\ninfatuated {B_ATK_NAME_WITH_PREFIX}!",
@@ -6260,7 +6291,10 @@
   "target": "ODZ. TĘCZY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363543.346186,
+  "touched": true
  },
  "datascript.txt::datascript.txt_35": {
   "source": "I hope to see you again!",
@@ -7753,7 +7787,10 @@
   "target": "i stwórz swój profil.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363761.6324053,
+  "touched": true
  },
  "src.txt::src.txt_2662": {
   "source": "BLISSEY",
@@ -7846,7 +7883,9 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790363564.2646034
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_692": {
   "source": "FROM",
@@ -8252,7 +8291,10 @@
   "target": "PA: Ding-dong!\\pSkończyły ci się SAFARI BALLE!\\pTo koniec twojej GRY SAFARI",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790280290.844831,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2953": {
   "source": "Hyahoo!\\pFrom this day on, this island\\nbelongs to us!",
@@ -10597,7 +10639,10 @@
   "target": "”",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362404.5599098,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1814": {
   "source": "TERRY",
@@ -11669,7 +11714,10 @@
   "target": "PA: Ding-dong!\\pCzas minął!\\pTo koniec twojej GRY SAFARI!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790280258.1010885,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_961": {
   "source": "DUSTOX",
@@ -13248,7 +13296,10 @@
   "target": "Witamy w LIDZE POKéMON!\\pNazywam się LORELEI z\\pELITARNEJ CZWÓRKI.\\nNikt nie pobije moich lodowych\\pPOKéMONÓW.\\pZmrażające ruchy są potężne.\\nTwoje POKéMONY będą błagać o litość,\\pgdy zrobię z nich kostki lodu.\\nChachacha! Gotowy?  {PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790280170.8531828,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_693": {
   "source": "BICYCLE",
@@ -13481,7 +13532,10 @@
   "target": "Spójrz!\\pSkopiowałam to, co pisało na\\njednym z tych znaków PORADA!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790279710.8559356,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1231": {
   "source": "ITEMFINDER",
@@ -13999,7 +14053,10 @@
   "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON}OK",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362808.7155879,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1890": {
   "source": "GOON",
@@ -14116,7 +14173,10 @@
   "target": "PIEŚŃ ZGUBY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790280410.8508234,
+  "touched": true
  },
  "data maps.txt::data maps.txt_678": {
   "source": "<<< FILE: maps/FuchsiaCity_PokemonCenter_1F/text.inc >>>",
@@ -14173,7 +14233,9 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790362685.4468515
  },
  "src.txt::src.txt_2920": {
   "source": "Please choose a TRAINER for\\na DOUBLE BATTLE.",
@@ -14919,7 +14981,10 @@
   "target": "{A_BUTTON}WRÓĆ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362800.6240625,
+  "touched": true
  },
  "src.txt::src.txt_1729": {
   "source": "feelings right now.",
@@ -15060,7 +15125,9 @@
   "target": "ŚWIEŻA WODA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790274585.432079
  },
  "srcdata.txt::srcdata.txt_293": {
   "source": "An attack that gives the user an\\nopportunity to steal the foe's hold\\nitem.",
@@ -15229,7 +15296,10 @@
   "target": "Czy chcesz już opuścić\\nSTREFĘ SAFARI?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790280257.52575,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1657": {
   "source": "CAMERON",
@@ -16241,7 +16311,9 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790362669.981126
  },
  "src.txt::src.txt_2809": {
   "source": "Do you want the {STR_VAR_2}\\nMODE?",
@@ -16892,7 +16964,10 @@
   "target": "Cha!\\nTo była naprawdę ostra walka.\\lWygrałeś!\\pJako dowód, oto twoja ODZNAKA ZIEMI!\\n{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357187.7994998,
+  "touched": true
  },
  "src.txt::src.txt_1389": {
   "source": "LEARNED",
@@ -17796,7 +17871,10 @@
   "target": "{COLOR DARK_GRAY}{STR_VAR_1} wygląda szczęśliwie…\\p{COLOR RED}DAISY: Proszę bardzo! Gotowe.\\n",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357835.0438936,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1099": {
   "source": "Wow, I talked a lot today!\\nAll righty, be seeing you!\\pRemember, TRAINERS, a good deed\\na day brings happiness to stay!",
@@ -17853,7 +17931,10 @@
   "target": "PIĘKNOŚĆ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363430.2714858,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_440": {
   "source": "It burrows through the ground at a\\nshallow depth. It leaves raised earth in\\nits wake, making it easy to spot.",
@@ -17889,7 +17970,10 @@
   "target": "Nie masz tylu pieniędzy {PAUSE_UNTIL_PRESS}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363205.1619537,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_994": {
   "source": "When held by a POKéMON, it will be\\nused in battle to restore 30 HP.",
@@ -18249,7 +18333,10 @@
   "target": "ROZM",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362872.79405,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_434": {
   "source": "INGRAIN",
@@ -18423,7 +18510,10 @@
   "target": "{FONT_NORMAL}{STR_VAR_1} wygląda szczęśliwie…\\p{FONT_FEMALE}DAISY: Proszę bardzo! Gotowe.\\n",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357835.75173,
+  "touched": true
  },
  "src.txt::src.txt_1798": {
   "source": "なにも かわらなかった!",
@@ -19543,7 +19633,10 @@
   "target": "{A_BUTTON}DALEJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362867.0579138,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3285": {
   "source": "TYRA: You can't battle with us if\\nyou have only one POKéMON.",
@@ -19879,7 +19972,10 @@
   "target": "{A_BUTTON}NASTĘPNE {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362866.411172,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_53": {
   "source": "A mat that plays\\na D note when\\nstepped on.",
@@ -21089,7 +21185,9 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790362670.0025792
  },
  "src.txt::src.txt_654": {
   "source": "MAGO",
@@ -21510,7 +21608,9 @@
   "target": "LEK OPARZEŃ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790274529.1019185
  },
  "srcdata.txt::srcdata.txt_56": {
   "source": "A very bitter medicine powder.\\nIt heals all the status problems of\\none POKéMON.",
@@ -22327,7 +22427,10 @@
   "target": "NrID.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362969.0960407,
+  "touched": true
  },
  "src.txt::src.txt_2121": {
   "source": "POKéMON Designers\\n\\n\\n\\n\\n\\n",
@@ -22341,7 +22444,10 @@
   "target": "{PLAYER} użył\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363145.3100445,
+  "touched": true
  },
  "src.txt::src.txt_2010": {
   "source": "Quit playing?",
@@ -22925,7 +23031,10 @@
   "target": "WAPŃ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790280350.8489397,
+  "touched": true
  },
  "datatext.txt::datatext.txt_894": {
   "source": "Thank you for accessing the\\nMYSTERY GIFT System.",
@@ -23587,7 +23696,10 @@
   "target": "{STR_VAR_1}? O, nie.\\nNie kupię tego. {PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363210.9382255,
+  "touched": true
  },
  "src.txt::src.txt_1000": {
   "source": "An intense attack\\nthat also sharply\\nreduces the user's\\nSP. ATK stat.",
@@ -23616,7 +23728,10 @@
   "target": "Zagrano na POKé FLECIE.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363160.7482092,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_596": {
   "source": "GOOD ROD",
@@ -24100,7 +24215,10 @@
   "target": "KOGA: Łahahaha!\\pTaki dzieciak jak ty chce\\nmnie wyzwać?\\pTen pomysł wydaje mi się\\nzwyczajnie śmieszny!\\pNiech będzie, pokażę ci prawdziwy\\nterror mistrza ninja.\\pTrucizna przynosi pewną śmierć.\\nSen pozostawia wroga bezbronnym.\\pKłaniaj się przed potęgą\\nTRUJĄCYCH POKéMONÓW!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357407.79436,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_49": {
   "source": "DISAPPEAR",
@@ -24230,7 +24348,10 @@
   "target": "Zaczyna cię lubić. Musi\\nrozwinąć się u was nić zaufania.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357840.7912714,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1092": {
   "source": "An orb to be held by a LATIOS or\\nLATIAS. It raises the SP. ATK\\nand SP. DEF stats.",
@@ -25151,7 +25272,10 @@
   "target": "Jestem BRUNO z ELITARNEJ CZWÓRKI!\\pPrzez męczący trening, ludzie\\ni POKéMONY mogą stawać\\lsię silniejsi bez ograniczeń. \\pŻyłem i trenowałem z\\nwalczącymi POKéMONAMI!\\lI to się nie zmieni!\\p{PLAYER}!\\pZgnieciemy cię jak muchę naszą\\nniesamowitą siłą!\\pHuu hah!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357360.8085854,
+  "touched": true
  },
  "datatext.txt::datatext.txt_19": {
   "source": "We can raise two of your POKéMON.\\pWould you like us to raise one\\nmore POKéMON for you?",
@@ -25181,7 +25305,9 @@
   "target": "{RIVAL}: Dziadku, uspokój się.\\nNie podniecaj się tak.\\pWypełnię cały POKéDEX,\\nnie masz się co martwić.\\pChyba najpierw rozejrzę się po\\nterenach WYSPY ONE…\\pTak czy inaczej, zmywam się!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790275705.891896
  },
  "srcdata.txt::srcdata.txt_984": {
   "source": "When held by a POKéMON, it will be\\nused in battle for defrosting.",
@@ -26783,7 +26909,10 @@
   "target": "Communication standby…",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790277910.8342366,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_383": {
   "source": "YELLOW SHARD",
@@ -27389,7 +27518,10 @@
   "target": "Ach!\\nWięc wróciłeś, {PLAYER}!\\pProwadzę ELITARNĄ CZWÓRKĘ.\\pMożesz mnie nazywać LANCE,\\nTRENER smoków.\\pWiesz, że smoki to mityczne\\nPOKéMONY.\\pSą trudne do złapania i trenowania,\\nale drzemie w nich wielka siła.\\pSą praktycznie niezniszczalne.\\nNie można ich pokonać sprytem.\\pWięc, czy jesteś gotów na porażkę?\\pTwoja zabawa z LIGĄ kończy się\\ntutaj, {PLAYER}!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357327.8129957,
+  "touched": true
  },
  "src.txt::src.txt_998": {
   "source": "The user feigns\\ncrying to sharply\\nlower the foe's\\nSP. DEF stat.",
@@ -28027,7 +28159,10 @@
   "target": "{A_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363763.8028493,
+  "touched": true
  },
  "src.txt::src.txt_2742": {
   "source": "MIKAELA",
@@ -28119,7 +28254,10 @@
   "target": "Proszę bardzo!\\nDziękuję!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363204.298436,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_503": {
   "source": "It lays several eggs a day. The eggs are\\napparently rich in nutrients and extremely\\ndelicious.",
@@ -29564,7 +29702,10 @@
   "target": "Wszystkie typy POKéMONÓW mają\\nsilne i słabe strony w walce.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790278090.8315487,
+  "touched": true
  },
  "datatext.txt::datatext.txt_169": {
   "source": "POKéMON LEAGUE",
@@ -30427,7 +30568,10 @@
   "target": "POKé FLET budzi śpiące\\nPOKéMONY.{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363200.671322,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1938": {
   "source": "SAMIR",
@@ -30562,7 +30706,10 @@
   "target": "To twój ostatni POKéMON!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363666.4456413,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_190": {
   "source": "An orb to be held by a PIKACHU\\nthat raises the SP. ATK stat.\\nTouching it may cause a shock.",
@@ -31844,7 +31991,9 @@
   "target": "LECZĄCYPROCH",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790276145.4098687
  },
  "srcdatatext.txt::srcdatatext.txt_803": {
   "source": "FLAREON",
@@ -31929,7 +32078,10 @@
   "target": "{STR_VAR_1}? Oczywiście.\\nIle sobie życzysz?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363201.2672668,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_135": {
   "source": "A hold item that restores HP but\\nmay cause confusion when used.",
@@ -32302,7 +32454,10 @@
   "target": "ZIMNY WIATR",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357167.7983215,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2358": {
   "source": "I'm sorry.\\nI was your fan before.\\pBut now, you seem to have lost\\nthe drive you had before.\\pLately, I think {STR_VAR_1} has been\\na lot cooler.",
@@ -33397,7 +33552,10 @@
   "target": "Możesz zdeponować POKéMONA\\nz drużyny do BOKSA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363747.4614625,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_221": {
   "source": "LAVA",
@@ -33955,7 +34113,10 @@
   "target": "POKéMONY Leśne",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362826.0833547,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1288": {
   "source": "May the departed POKéMON rest in\\npeace…",
@@ -34795,7 +34956,10 @@
   "target": "Trzymasz POKéMONA!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363695.2476869,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_495": {
   "source": "It is small and was originally very weak.\\nIts temperament turned ferocious when it\\nbegan using bones.",
@@ -35875,7 +36039,10 @@
   "target": "NIEZNANE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362874.5542948,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1302": {
   "source": "The user tightens all its muscles\\nand bulks up, boosting both its\\nATTACK and DEFENSE stats.",
@@ -36056,7 +36223,10 @@
   "target": "STR.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362871.4437366,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1634": {
   "source": "JAN: You want to battle?\\nYou don't have enough POKéMON.",
@@ -36154,7 +36324,10 @@
   "target": "{A_BUTTON}ANULUJ {B_BUTTON}POPRZEDNIE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362870.882271,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2316": {
   "source": "POKéMON take on the appearance of\\ntheir TRAINERS.\\pYour POKéMON must be tough, then!",
@@ -36280,7 +36453,11 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1790363564.242205,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_466": {
   "source": "SONG",
@@ -36679,7 +36856,10 @@
   "target": "{PLAYER} używa\\n{STR_VAR_2}.\\pDzikie POKéMONY będą wabione.{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363152.4708033,
+  "touched": true
  },
  "datatext.txt::datatext.txt_738": {
   "source": "Own POKéMON type: BUG",
@@ -37667,7 +37847,10 @@
   "target": "{A_BUTTON}DALEJ {B_BUTTON}WRÓĆ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362774.482959,
+  "touched": true
  },
  "src.txt::src.txt_1641": {
   "source": "\\n                              ",
@@ -38677,7 +38860,10 @@
   "target": "ODZ. ZIEMI",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363558.5146012,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_140": {
   "source": "ROUTE 16",
@@ -39187,7 +39373,9 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790362669.931792
  },
  "src.txt::src.txt_2777": {
   "source": "1 player\\nneeded.",
@@ -39222,7 +39410,10 @@
   "target": "{PLAYER} dostaje MAPE REGIONU\\nod DAISY.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357820.9221826,
+  "touched": true
  },
  "src.txt::src.txt_1090": {
   "source": "スタ-トボタン",
@@ -39237,7 +39428,10 @@
   "target": "Zawiera kieszenie przechowujące rzeczy\\nznalezione, kupione itd.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363827.4958808,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_145": {
   "source": "Can be ground up into a powder as\\nan ingredient for medicine.",
@@ -39518,7 +39712,10 @@
   "target": "Nadal nie mam KAMIEŃ KSIĘŻYCA…\\nCzy masz jeden?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790280310.8639793,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2451": {
   "source": "LEX: I think it was a good\\nexperience for NYA.\\pYou have my gratitude.",
@@ -39996,7 +40193,10 @@
   "target": "ROOFTOP",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363581.3223085,
+  "touched": true
  },
  "src.txt::src.txt_1674": {
   "source": "STORE",
@@ -42157,7 +42357,10 @@
   "target": "Widzisz jaki jest piękny?\\pHihihi…\\nTo taki słodki POKéMON.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357837.856114,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1449": {
   "source": "MYSTICTICKET",
@@ -42644,7 +42847,9 @@
   "target": "Pozwolisz na to?\\pWięc, pozwól, że przeleję tajemnicę\\n{STR_VAR_2} na {STR_VAR_1}.\\pGgggrah-ałooo!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790274425.415247
  },
  "data maps.txt::data maps.txt_2854": {
   "source": "You look tired. Would you like to\\ntake a short rest?",
@@ -43713,7 +43918,9 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1789922415.08519
  },
  "srcdatatext.txt::srcdatatext.txt_655": {
   "source": "ROCKET HIDEOUT",
@@ -44439,7 +44646,10 @@
   "target": "{A_BUTTON}INFO",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362132.8364868,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_77": {
   "source": "OUTCAST ISLAND",
@@ -44939,7 +45149,9 @@
   "target": "SALA POKéMON PEWTER CITY\\nLIDER: BROCK\\lTRENER POKéMON twardy jak głaz!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790275925.4511476
  },
  "src.txt::src.txt_525": {
   "source": "a POISON move",
@@ -46044,7 +46256,9 @@
   "target": "Chcesz SKAM. SKORUPĘ?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790274725.4066203
  },
  "src.txt::src.txt_1213": {
   "source": "RETIRE",
@@ -46501,7 +46715,10 @@
   "target": "WYŚLIJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363236.057931,
+  "touched": true
  },
  "datatext.txt::datatext.txt_849": {
   "source": "…is inhabited far and wide by\\ncreatures called POKéMON.\\p",
@@ -46537,7 +46754,10 @@
   "target": "Dostosuj odpowiednie ustawienia gry, jak\\nprędkość tekstu itd.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790364013.751637,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1936": {
   "source": "I did my best. I have no regrets!",
@@ -47731,7 +47951,10 @@
   "target": "Jestem AGATHA z ELITARNEJ CZWÓRKI.\\pPodobno OAK bardzo się\\ntobą zainteresował.\\pTen stary dureń był kiedyś silny i\\nprzystojny.\\pAle to było wieki temu. Teraz\\njest tylko cieniem samego siebie.\\pTeraz bawi się tylko swoim\\nPOKéDEKSEM.\\pMyli się.\\nPOKéMONY służą do toczenia walk!\\p{PLAYER}! Pokażę ci jak walczy\\nprawdziwy TRENER!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357387.8238423,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3392": {
   "source": "BUG POKéMON evolve quickly.\\nThey're a lot of fun!",
@@ -48057,7 +48280,10 @@
   "target": "DAISY: POKéMONY, tak jak ludzie\\nsą żywymi istotami.\\pPozwól im odpocząć, gdy poczują\\nzmęczenie.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357823.1931949,
+  "touched": true
  },
  "src.txt::src.txt_1346": {
   "source": "That's your only\\nPOKéMON for battle.",
@@ -48422,7 +48648,10 @@
   "target": "Jestem BRUNO z ELITARNEJ CZWÓRKI!\\pPrzez męczący trening, ludzie\\ni POKéMONY mogą stawać\\lsię silniejsi bez ograniczeń. \\pŻyłem i trenowałem z\\nwalczącymi POKéMONAMI!\\lI to się nie zmieni!\\p{PLAYER}!\\pZgnieciemy cię jak muchę naszą\\nniesamowitą siłą!\\pHuu hah!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357347.8380075,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1272": {
   "source": "The ghosts can be identified by\\nthe SILPH SCOPE.",
@@ -48530,7 +48759,10 @@
   "target": "Nie masz miejsca na ten\\nprzedmiot. {PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363207.2757435,
+  "touched": true
  },
  "src.txt::src.txt_1522": {
   "source": "PROF. OAK's PC",
@@ -49137,7 +49369,10 @@
   "target": "Hej, mały! Co ty tutaj robisz!\\nNie przeżyjesz długo w walce!\\pNie z twoją mizerną mocą!\\nMówię ci, mały, elektryczne\\pPOKéMONY uratowały mnie na wojnie!\\nWszyscy wrogowie zostali\\psparaliżowani ich potęgą!\\nTak samo zrobią z tobą!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790280190.8645241,
+  "touched": true
  },
  "datatext.txt::datatext.txt_167": {
   "source": "RESEARCH LAB",
@@ -49165,7 +49400,10 @@
   "target": "{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}SZUKAJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362856.3329349,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_45": {
   "source": "A spray-type wound medicine.\\nIt restores the HP of one POKéMON\\nby 200 points.",
@@ -49374,7 +49612,10 @@
   "target": "POKéMONY Polne",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362822.386216,
+  "touched": true
  },
  "src.txt::src.txt_1365": {
   "source": "Boost PP of which?",
@@ -49559,7 +49800,10 @@
   "target": "{PLAYER}, nie podoba mi się, jak\\nspogląda na ciebie.\\pBądź dla niego trochę milszy, ok?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357842.734156,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2144": {
   "source": "ELI: But…\\nWe used our twin power…",
@@ -49999,14 +50243,20 @@
   "target": "ODZ. PIORUNA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363538.5927808,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2303": {
   "source": "I had a vision of your arrival.\\pI have had psychic powers since\\nI was a child.\\pIt started when a spoon I\\ncarelessly tossed, bent.\\pI dislike battling, but if you wish,\\nI will show you my powers!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "target": "Miałam wizję, w której widziałam\\ptwoje przybycie.\\nMam psychiczne moce\\pod dziecka.\\nWszystko zaczęło się od\\pwygięcia się rzuconej łyżki.\\nNie lubię walczyć, ale jeśli chcesz pokażę ci co umiem {PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357311.33765,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_991": {
   "source": "OH",
@@ -50342,7 +50592,10 @@
   "target": "Chyba nie mógłby cię kochać\\nmocniej niż kocha teraz.\\pTwój POKéMON jest super\\nszczęśliwy.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357839.3107038,
+  "touched": true
  },
  "data maps.txt::data maps.txt_226": {
   "source": "Make room for this!\\nI can't run until I give it to you!",
@@ -50518,7 +50771,10 @@
   "target": "ODZ. WULKANU",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363549.386493,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1457": {
   "source": "SAPPHIRE",
@@ -51115,7 +51371,10 @@
   "target": "POKéMON",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362392.965651,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1287": {
   "source": "TM01",
@@ -51872,7 +52131,10 @@
   "target": "Ojej, przecież nie mogę\\nuczesać JAJKA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357838.1375341,
+  "touched": true
  },
  "data maps.txt::data maps.txt_324": {
   "source": "Have you heard about BILL?\\pEveryone calls him a POKéMANIAC!\\pI think people are just jealous of\\nBILL, though.\\pWho wouldn't want to boast about\\ntheir POKéMON?",
@@ -52148,7 +52410,9 @@
   "target": "PEŁNA ODNOWA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790274465.419956
  },
  "datatext.txt::datatext.txt_499": {
   "source": "POKéMON are living beings about which\\nmany mysteries still remain. You may\\lsee them in grass, the sea, and caves.\\lThey appear to obey the wishes of the\\lTRAINERS that caught them.",
@@ -52976,7 +53240,10 @@
   "target": "Ziew!\\nMusiałem trochę przysnąć na słonku.\\pMiałem dziwny sen o tym,\\njak DROWZEE zjada mój sen.\\pI…\\nSam nauczyłem się jak jeść sny…\\pO, to zbyt przerażające!\\pPozwól, że nauczę tego POKéMONA,\\nżebym o tym zapomniał!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357849.2680447,
+  "touched": true
  },
  "datatext.txt::datatext.txt_914": {
   "source": "And your NATIONAL POKéDEX is:\\p{STR_VAR_1} POKéMON seen and\\n{STR_VAR_2} POKéMON owned.",
@@ -53328,7 +53595,10 @@
   "target": "PROSZEK: {STR_VAR_1}{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363157.5644603,
+  "touched": true
  },
  "src.txt::src.txt_2006": {
   "source": "REGISTER",
@@ -54279,14 +54549,20 @@
   "target": "DODRIO BERRY-PICKING",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363490.3294363,
+  "touched": true
  },
  "src.txt::src.txt_1216": {
   "source": " BERRY",
   "target": " JAGODY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363141.5132055,
+  "touched": true
  },
  "src.txt::src.txt_1345": {
   "source": "{STR_VAR_1} got over its\\ninfatuation.{PAUSE_UNTIL_PRESS}",
@@ -54872,7 +55148,11 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1790362669.9057379,
+  "touched": true
  },
  "src.txt::src.txt_378": {
   "source": "{B_LINK_OPPONENT1_NAME} sent out\\n{B_OPPONENT_MON1_NAME} and {B_OPPONENT_MON2_NAME}!",
@@ -55679,7 +55959,10 @@
   "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON} OK {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362403.5935657,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_760": {
   "source": "HYPER CUTTER",
@@ -56048,7 +56331,10 @@
   "target": "DAISY: Cześć, {PLAYER}!\\pMój brat, {RIVAL} poszedł do\\ndziadka.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357817.6978042,
+  "touched": true
  },
  "src.txt::src.txt_2949": {
   "source": "WONDER CARDS",
@@ -56428,7 +56714,10 @@
   "target": "{DPAD_UPDOWN}WYBÓR",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362187.1879675,
+  "touched": true
  },
  "data.txt::data.txt_61": {
   "source": "Oh, I'm sorry, {PLAYER}. Your BAG's\\nKEY ITEMS POCKET is full.\\pPlease store something on your PC,\\nthen come back for this.",
@@ -56839,7 +57128,10 @@
   "target": "Możesz przejść, tylko jeśli\\nzdobyłeś już {STR_VAR_1}.\\pOch! To jest {STR_VAR_1}{PAUSE_MUSIC}!\\pOkej {PLAY_BGM}{MUS_LEVEL_UP} {PAUSE 0x60}{RESUME_MUSIC}!\\nW takim razie proszę przejść.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357274.9397862,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_672": {
   "source": "OUR",
@@ -56968,7 +57260,10 @@
   "target": "DAISY: Twoje POKéMONY rosną z\\nmiłością, jeśli i ty je kochasz.\\pPrzykładowo, {PLAYER}, pokażesz mi\\njakiegoś POKA?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357838.8065567,
+  "touched": true
  },
  "src.txt::src.txt_1316": {
   "source": "{STR_VAR_1} is already holding\\none {STR_VAR_2}.\\pWould you like to switch the\\ntwo items?",
@@ -57262,7 +57557,10 @@
   "target": "ZAMIEŃ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363242.1854951,
+  "touched": true
  },
  "src.txt::src.txt_1990": {
   "source": "THANK YOU",
@@ -57521,7 +57819,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790368001.5479214,
+  "updated": 1790368023.4803293,
   "touched": true
  },
  "data maps.txt::data maps.txt_1532": {
@@ -57635,7 +57933,10 @@
   "target": "Czy mogę pomóc w czymś jeszcze?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363208.7935164,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_500": {
   "source": "PLUSH DOLL",
@@ -57849,7 +58150,10 @@
   "target": "POKéMON",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362752.5931756,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_458": {
   "source": "WOOD MAIL",
@@ -58540,7 +58844,9 @@
   "target": "ZAPISUJĘ…\\nNIE WYŁĄCZAJ ZASILANIA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1789921132.1410475
  },
  "src.txt::src.txt_2101": {
   "source": "Graphic Designers\\n\\n\\n\\n\\n\\n",
@@ -59141,7 +59447,10 @@
   "target": "Łahahaha! \\nWitaj w mojej kryjówce!\\pBędę tu przebywał, dopóki nie\\nprzywrócę potęgi ZESPOŁOWI R!\\pAle, skoro udało ci się mnie znaleźć.\\nNiech będzie.\\lTym razem zobaczysz co potrafię!\\pJeszcze raz, zobaczysz\\ndo czego zdolny jest GIOVANNI!{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357287.7919862,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_115": {
   "source": "EGG",
@@ -59261,7 +59570,10 @@
   "target": "{DPAD_ANY}RUSZ {A_BUTTON} OK {B_BUTTON}WRÓĆ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362182.819162,
+  "touched": true
  },
  "data maps.txt::data maps.txt_473": {
   "source": "Would you like to leave another\\nLEMONADE as an offering?",
@@ -59388,7 +59700,9 @@
   "target": "LEK PARALIŻU",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790274442.2460897
  },
  "data maps.txt::data maps.txt_176": {
   "source": "No!",
@@ -59482,7 +59796,11 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1790362685.4247313,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1809": {
   "source": "TERRY",
@@ -59588,7 +59906,10 @@
   "target": "Półki zawalone są książkami o\\nPOKéMONACH.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357821.6395113,
+  "touched": true
  },
  "src.txt::src.txt_1017": {
   "source": "An extremely fast\\nattack against one\\ntarget. It can't be\\nevaded.",
@@ -60323,7 +60644,10 @@
   "target": "{PLAYER} używa\\n{STR_VAR_2}.\\pDzikie POKéMONY będą odstraszane.{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363153.0098634,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_815": {
   "source": "DRAGONAIR",
@@ -61167,7 +61491,9 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790363564.2910123
  },
  "data maps.txt::data maps.txt_380": {
   "source": "You're absolutely correct!\\pGo on through!",
@@ -61473,7 +61799,10 @@
   "target": "Dziadek wysłał cię na jakąś\\nmisję?\\pHej, straszny z niego leń.\\nMasz, to ci pomoże.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357813.685426,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1050": {
   "source": "They live in holes bored in large trees.\\nThe sound of NUZLEAF's grass flute fills\\nlisteners with dread.",
@@ -61761,7 +62090,10 @@
   "target": "Witamy w HALI SŁAWY!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362894.1335592,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_807": {
   "source": "DRAGON",
@@ -62026,7 +62358,10 @@
   "target": "RUBIN",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362648.4776614,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_349": {
   "source": "WIRELESS",
@@ -63179,7 +63514,10 @@
   "target": "Paraliż redukuje SZYBKOŚĆ i może\\nnie pozwolić POKéMONOWI na atak.\\pParaliż pozostaje po walce.\\nUżyj LEK PARALIŻU, by go uleczyć.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790279610.8493462,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1855": {
   "source": "RON & MYA",
@@ -63766,7 +64104,10 @@
   "target": "Mogę zapłacić ¥{STR_VAR_3}.\\nW porządku?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363225.633426,
+  "touched": true
  },
  "src.txt::src.txt_1589": {
   "source": "びょう",
@@ -64195,7 +64536,10 @@
   "target": "Którym mam się zająć?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357829.6262398,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_55": {
   "source": "CERULEAN CAVE",
@@ -64586,7 +64930,10 @@
   "target": "Możesz użyć MAPY, aby dowiedzieć\\nsię gdzie jesteś albo sprawdzić \\lnazwy miejsc.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357823.799848,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_182": {
   "source": "HOT",
@@ -64850,7 +65197,9 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1789927572.4089088
  },
  "src.txt::src.txt_2387": {
   "source": "ALAKAZAM",
@@ -65458,7 +65807,10 @@
   "target": "{STR_VAR_1}?\\nIle masz ochotę sprzedać?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363212.4740925,
+  "touched": true
  },
  "datatext.txt::datatext.txt_490": {
   "source": "Select “FIGHT,” and the MENU of moves\\nwill appear. Consider the type\\lmatchups, and use the most effective\\lmoves. You can check the effects of\\lmoves by opening “POKéMON,”\\lpicking a POKéMON, opening “SUMMARY,”\\lthen opening “POKéMON SKILLS.”",
@@ -65515,7 +65867,9 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1789924543.4200869
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_530": {
   "source": "This POKéMON was regenerated from the\\nfossil of an ancient creature. It protects\\nitself with a hard shell.",
@@ -65914,7 +66268,10 @@
   "target": "ODZ. KASKADY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363529.657407,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1163": {
   "source": "These waters are treacherous!\\nYou shouldn't come back here!",
@@ -66296,7 +66653,10 @@
   "target": "…Chrap…",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357939.2216792,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1340": {
   "source": "Okay, I'll talk…\\nTake the elevator to see my BOSS.",
@@ -67626,7 +67986,10 @@
   "target": "Więc, {STR_VAR_1} w ilości {STR_VAR_2}.\\nWyniesie cię ¥{STR_VAR_3}. Ok?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363203.2097287,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_703": {
   "source": "MYSTICTICKET",
@@ -67813,7 +68176,10 @@
   "target": "STR.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362876.6182027,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_11": {
   "source": "SHELLFISH",
@@ -67991,7 +68357,10 @@
   "target": "Pomysł spalił na panewce!\\nNie ostał się nawet popiół!\\pZarobiłeś tą ODZNAKĘ WULKANU.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790279784.7410843,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1841": {
   "source": "Yowch!",
@@ -69386,7 +69755,10 @@
   "target": "DAISY: Cześć, {PLAYER}!\\nW samą porę.\\pWłaśnie miałam napić się\\nherbaty. Przyłączysz się?\\pZobacz! \\nTwoje POKéMONY troszkę się ubrudziły.\\pChcesz, żebym jakiegoś uczesała?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357828.3434384,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1408": {
   "source": "In mountains, you'll often find\\nROCK-type POKéMON.",
@@ -70319,7 +70691,10 @@
   "target": "{DPAD_LEFTRIGHT}RUSZ{PLUS}NAST.STR. {A_BUTTON}SPRAWDŹ {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362393.907784,
+  "touched": true
  },
  "data maps.txt::data maps.txt_733": {
   "source": "Those horrible ROCKETS!\\nThey deserve no mercy!\\pThat poor CUBONE's mother…\\pIt was killed trying to escape from\\nTEAM ROCKET.",
@@ -70628,7 +71003,9 @@
   "target": "ODMRAŻACZ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790274473.3362448
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_146": {
   "source": "ROUTE 22",
@@ -70958,7 +71335,10 @@
   "target": "Chyba cię lubi. Bądź dla niego\\nnadal dobry!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357840.4000528,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1052": {
   "source": "There's an e-mail message here.\\p…\\pFinally!\\nThe ultimate TRAINERS of the\\lPOKéMON LEAGUE are ready to\\ltake on all comers!\\pBring your best POKéMON and see\\nhow you rate as a TRAINER!\\pPOKéMON LEAGUE HQ\\nINDIGO PLATEAU\\pPROF. OAK, please visit us!\\n…",
@@ -72070,7 +72450,10 @@
   "target": "“Kochana i słodka\\nCLEFAIRY”",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357843.789892,
+  "touched": true
  },
  "data maps.txt::data maps.txt_389": {
   "source": "BILL: Hey, you kept me waiting!\\nReady to set sail to ONE ISLAND?",
@@ -72562,7 +72945,9 @@
   "target": "I tak pokonam cię, jeśli chodzi\\no wiedzę o POKéMONACH!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790276165.4161265
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_244": {
   "source": "HAPPINESS",
@@ -72858,7 +73243,10 @@
   "target": "Wygląda szczęśliwie.\\pChciałabym, by {RIVAL} zobaczył to\\ni czegoś się nauczył.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357839.851376,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1934": {
   "source": "MYMO",
@@ -72944,7 +73332,10 @@
   "target": "Ach! Słyszałem o tobie,\\n{PLAYER}!\\pProwadzę ELITARNĄ CZWÓRKĘ.\\pMożesz mnie nazywać LANCE,\\nTRENER smoków.\\pWiesz, że smoki to mityczne\\nPOKéMONY.\\pSą trudne do złapania i trenowania,\\nale drzemie w nich wielka siła.\\pSą praktycznie niezniszczalne.\\nNie można ich pokonać sprytem.\\pWięc, czy jesteś gotów na porażkę?\\pTwoja zabawa z LIGĄ kończy się\\ntu, {PLAYER}!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790280150.8553193,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_482": {
   "source": "A being that exists as a thin gas. It can\\ntopple an Indian elephant by enveloping\\nthe prey in two seconds.",
@@ -74516,7 +74907,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362637.933323,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1227": {
   "source": "I haven't made any progress…\\nI still can't get the right angle…",
@@ -74618,7 +75012,10 @@
   "target": "WZROST",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362366.4908128,
+  "touched": true
  },
  "src.txt::src.txt_1364": {
   "source": "Restore which move?",
@@ -76135,7 +76532,10 @@
   "target": "To olbrzymia mapa regionu KANTO.\\nTo może być przydatne!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357822.4707925,
+  "touched": true
  },
  "data maps.txt::data maps.txt_536": {
   "source": "I've made it so you can come back\\nin through there.\\pWhy don't you go get rested and\\nrefreshed for what lies ahead?\\pThe ADMIN after me outranks me\\nthoroughly as a TRAINER.\\pYou'd better steel yourself for one\\nharsh challenge.",
@@ -76464,7 +76864,10 @@
   "target": "…Um, trudno mi to powiedzieć,\\nale…\\pJest jakiś powód na to, dlaczego\\nPOKéMONY tak bardzo cię nienawidzą?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357843.3197823,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1425": {
   "source": "DOME FOSSIL",
@@ -77334,7 +77737,10 @@
   "target": "{A_BUTTON}ZMIEŃ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363775.936753,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_161": {
   "source": "STAND",
@@ -78391,7 +78797,10 @@
   "target": "{A_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363765.720952,
+  "touched": true
  },
  "datatext.txt::datatext.txt_306": {
   "source": "SABRINA",
@@ -78419,7 +78828,10 @@
   "target": "PROSZEK",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363158.4139965,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3316": {
   "source": "Heh!\\nYou must be running out of steam\\lby now!",
@@ -78477,7 +78889,10 @@
   "target": "Hah!\\pJestem BLAINE, gorący LIDER\\nSALI w CINNABAR!\\pMoje ogniste POKéMONY są twarde i\\ngotowe na gorący pojedynek!\\pPrzyjmą każde wyzwanie!\\pHah!\\nLepiej zaopatrz się w LEK OPARZEŃ!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790279790.856215,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1135": {
   "source": "Nice BIKE!\\nHand it over quick!",
@@ -78612,7 +79027,9 @@
   "target": "Czasami na ziemi możesz znaleźć\\nprzedmioty.\\pSzukam czegoś, co mi tutaj\\nwypadło. Pomożesz mi?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790274625.4234402
  },
  "src.txt::src.txt_346": {
   "source": "But there was no PP left\\nfor the move!",
@@ -81339,7 +81756,10 @@
   "target": "HANDEL",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363358.5270329,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_56": {
   "source": "Moves only every two turns.",
@@ -81788,7 +82208,10 @@
   "target": "Nie doceniłem cię, więc\\nprzegrałem.\\pJako dowód twojego zwycięstwa,\\nwręczam ci oficjalną ODZNAKĘ GŁAZU\\lLIGI POKéMON.\\p{FONT_NORMAL}{PLAYER} dostaje ODZNAKĘ GŁAZU\\nod BROCKA{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}\\p{FONT_MALE}Samo posiadanie ODZNAKI GŁAZU zwiększa\\nsiłę twoich POKéMONÓW.\\pPozwala także na użycie ruchu\\nBŁYSK poza walką.\\pOczywiście twój POKéMON musi znać\\ntechnikę BŁYSKU, by jej użyć.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357247.794168,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_215": {
   "source": "DILFORD CHAMBER",
@@ -82138,7 +82561,10 @@
   "target": "{DYNAMIC 0x00} natura\\nZ wymiany.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363782.4489477,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3113": {
   "source": "Try waking up before you crawl out\\nof bed, you punk.\\pThis is TWO ISLAND!\\pMove it! Get your filthy motorbike\\nout of my place!",
@@ -83343,7 +83769,10 @@
   "target": "SZAFIR",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362648.087618,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1262": {
   "source": "I am a CHANNELER.\\pThere are spirits up to mischief.\\nI sense them high in the TOWER.",
@@ -84551,7 +84980,10 @@
   "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON}{B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362783.5221488,
+  "touched": true
  },
  "src.txt::src.txt_1587": {
   "source": "99かい いじょう",
@@ -85571,7 +86003,9 @@
   "target": "Słyszałeś o SNORLAKSIE?\\nTo straszny leń.\\pŻaden inny POKéMON nie je i nie śpi\\ntyle, co ten wielki żarłok!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790275565.401724
  },
  "data maps.txt::data maps.txt_1037": {
   "source": "OAK: {PLAYER} and {RIVAL}.\\nTake these with you.",
@@ -85777,7 +86211,10 @@
   "target": "DAISY: Ok, zobaczysz! Uładnie go\\nw parę sekund.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357830.2393427,
+  "touched": true
  },
  "src.txt::src.txt_2202": {
   "source": "ACTIONS",
@@ -85898,7 +86335,10 @@
   "target": "{START_BUTTON}WYBIERZ {DPAD_UPDOWN}RUCH {A_BUTTON}OK",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362218.3253186,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1372": {
   "source": "An attack move that may have an\\nadditional effect depending on the\\nbattle terrain.",
@@ -88289,7 +88729,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362646.6828315,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3094": {
   "source": "Gasp, gasp, gasp…\\pI didn't think I could teach that\\nmove while I still lived…",
@@ -88303,7 +88746,10 @@
   "target": "ODZ. GŁAZU",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363476.343179,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1924": {
   "source": "GILLIAN",
@@ -88339,7 +88785,9 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790362669.955464
  },
  "data maps.txt::data maps.txt_1150": {
   "source": "A shady old guy sucked me into\\nbuying this weird fish POKéMON!\\pIt's totally weak and it cost ¥500!",
@@ -89050,7 +89498,10 @@
   "target": "OPCJE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363245.2739916,
+  "touched": true
  },
  "src.txt::src.txt_1181": {
   "source": "TAKE",
@@ -89656,7 +90107,9 @@
   "target": "Błagam, byś spożytkował ten\\nruch w najszlachetniejszym celu!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790273325.383275
  },
  "datatext.txt::datatext.txt_160": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: BILL\\nTo: {PLAYER}\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Hey, there! CELIO had nothing but\\npraise for you.\\pHearing that makes me happy.\\pWhen you catch some rare POKéMON,\\ncome show me, okay? Promise!",
@@ -91081,7 +91534,10 @@
   "target": "ZMIANA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363233.882524,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2907": {
   "source": "I like feisty kids like you!",
@@ -91331,7 +91787,10 @@
   "target": "WAGA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362587.222219,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1926": {
   "source": "Whoa!\\nToo much!",
@@ -91738,7 +92197,10 @@
   "target": "ZIELE OCUCANIA{CLEAR_TO 0x6F}{FONT_SMALL}300",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363639.0681028,
+  "touched": true
  },
  "src.txt::src.txt_2786": {
   "source": "ため\\nさんかしゃ ぼしゅうちゅう です！",
@@ -92951,7 +93413,10 @@
   "target": "Nie chcesz pomocy? Ok,\\nw takim razie napijmy się herbatki.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357829.028855,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_738": {
   "source": "MILOTIC is breathtakingly beautiful.\\nThose that see it are said to forget their\\ncombative spirits.",
@@ -93706,7 +94171,10 @@
   "target": "A więc jesteś. Nazywam się BROCK.\\nJestem LIDEREM SALI PEWTER.\\pMoja kamienna siła woli\\nprzejawia się nawet w walce.\\pMoje POKéMONY są twarde jak\\nkamień i pełne są determinacji.\\pWłaśnie tak - wszystkie moje\\nPOKéMONY są KAMIENNE!\\pCha! Chcesz wyzwać mnie wiedząc,\\nże przegrasz?\\pTo pewnie twój honor TRENERA każe\\nci wyzwać mnie na pojedynek.\\pDobrze więc!\\nPokaż co potrafisz {PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357398.5642872,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1881": {
   "source": "Diver!!\\nDown!!",
@@ -94011,7 +94479,10 @@
   "target": "DAISY: {PLAYER}, słyszałam o walce\\nprzeciwko {RIVAL}.\\pChciałabym to widzieć!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357815.1379006,
+  "touched": true
  },
  "src.txt::src.txt_585": {
   "source": "そだてるには みじかくても 1にち かかる.",
@@ -94219,7 +94690,10 @@
   "target": "{START_BUTTON}WYBIERZ {DPAD_UPDOWN}RUCH {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362231.8081048,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_797": {
   "source": "Eats bugs in grassy areas. It has to flap\\nits short wings at high speed to stay\\nairborne.",
@@ -94622,7 +95096,9 @@
   "target": "BLIŹNIACZKI",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790276065.417043
  },
  "src.txt::src.txt_733": {
   "source": "The user generates\\nodd sound waves.\\nIt may confuse the\\nfoe.",
@@ -95490,7 +95966,10 @@
   "target": "Witaj, jesteś tutaj nowy?\\pTylko TRENERZY mający pewną\\ntaktykę mogą stać się mistrzami.\\pJakie jest twoje podejście do\\nłapania i treningu POKéMONÓW?\\pMoja taktyka, to ostry atak\\nPOKéMONAMI typu WODNEGO!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357207.8191643,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_102": {
   "source": "MONEAN CHAMBER",
@@ -95689,7 +96168,10 @@
   "target": "{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}SIEDLISKA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362821.9737628,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_193": {
   "source": "TOGETHER",
@@ -97070,7 +97552,10 @@
   "target": "Hej! Spadaj!\\nTo nie twoje podwórko!\\p…Co?\\nJa?\\pJestem niewinnym gapiem!\\nCo, że mi nie wierzysz?{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357787.7953331,
+  "touched": true
  },
  "data maps.txt::data maps.txt_17": {
   "source": "ROCKET GAME CORNER\\nThe playground for grown-ups!",
@@ -97341,7 +97826,10 @@
   "target": "{PLAYER} dostaje HM05\\nod POMOCNIKA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790277990.8536944,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_778": {
   "source": "RHYHORN",
@@ -98563,422 +99051,5 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true
- }
-}: "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_41": {
-  "source": "It's the game program! Messing with\\nit could bug out the game!",
-  "target": "To kod gry! Mieszanie w nim mogłoby\\nzabugować grę!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdatadecoration.txt::srcdatadecoration.txt_155": {
-  "source": "BLUE TENT",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_2456": {
-  "source": "NYA: I'm sorry, but may we battle\\nin two-on-two style?",
-  "target": "NYA: Przepraszam, ale walczymy\\ntylko w stylu 2 na 2!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_293": {
-  "source": "TEAM ROCKET must be trying to DIG\\ntheir way into no good!",
-  "target": "ZESPÓŁ R wyraźnie stara się WKOPAĆ\\nw kłopoty!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdatatext.txt::srcdatatext.txt_873": {
-  "source": "DUNSPARCE",
-  "target": "DUNSPARCE",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdata.txt::srcdata.txt_1771": {
-  "source": "ROLANDO",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": true,
-  "manual_skip": true
- },
- "data maps.txt::data maps.txt_1686": {
-  "source": "Don't you dare laugh!",
-  "target": "Nie śmiej się śmiać!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_98": {
-  "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I've lived and trained with my\\nfighting POKéMON!",
-  "target": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Żyłem i trenowałem z\\nwalczącymi POKéMONAMI!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdata.txt::srcdata.txt_546": {
-  "source": "SPELL TAG",
-  "target": "NALEPKA KLĄTWY",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2674": {
-  "source": "GENGAR",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": true,
-  "manual_skip": true
- },
- "src.txt::src.txt_2797": {
-  "source": "There is a member who can no\\nlonger remain available.\\p",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
- },
- "srcdataeasychat.txt::srcdataeasychat.txt_186": {
-  "source": "HAS",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
- },
- "srcdata.txt::srcdata.txt_1059": {
-  "source": "ENIGMA BERRY",
-  "target": "ENIGMAJAGODA",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdatatext.txt::srcdatatext.txt_989": {
-  "source": "SABLEYE",
-  "target": "SABLEYE",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_991": {
-  "source": "You've caught {STR_VAR_2}…\\pHm, it looks as if you're putting\\nin an honest effort.\\pWhen you manage to fill it some\\nmore, come show me, please.",
-  "target": "Złapałeś {STR_VAR_2}…\\pWygląda na to, że traktujesz swoje\\nzadanie poważnie.\\pGdy wypełnisz trochę więcej stron,\\nnie omieszkaj mi powiedzieć.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdata.txt::srcdata.txt_175": {
-  "source": "An item to be held by a POKéMON.\\nIt may cause the foe to flinch\\nupon taking damage.",
-  "target": "Przedmiot do trzymania.\\nWrogi POKéMON zadający obrażenia\\nmoże się potknąć.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_726": {
-  "source": "Ghosts appeared in POKéMON TOWER.\\pI think they're the spirits of\\nPOKéMON that the ROCKETS killed.",
-  "target": "Duchy pojawiły się w WIEŻY\\pPOKéMON.\\nTo pewnie dusze POKéMONÓW, które zginęły z ręki ZESPOŁU R.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdata.txt::srcdata.txt_2007": {
-  "source": "TRENT",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": true,
-  "manual_skip": true
- },
- "data maps.txt::data maps.txt_2807": {
-  "source": "MIU: Oh, no!\\nMommy!",
-  "target": "MIU: Nie!\\nMamusiu!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_2053": {
-  "source": "You'll need more money than that!",
-  "target": "Potrzeba ci więcej pieniędzy!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_1631": {
-  "source": "JAN: KIRI, here we go!\\nWe have to try hard!",
-  "target": "JAN: KIRI, ruszajmy!\\nMusimy się postarać.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2272": {
-  "source": "BILL",
-  "target": "BILL",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_1588": {
-  "source": "Get lost!",
-  "target": "Spadówa!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_2670": {
-  "source": "I'll leave you up to my brothers.",
-  "target": "Moi bracia zajmą się tobą!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_65": {
-  "source": "{B_ATK_NAME_WITH_PREFIX} can't escape!",
-  "target": "{B_ATK_NAME_WITH_PREFIX} nie może!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_1188": {
-  "source": "I won't lose while I'm here!",
-  "target": "Nie przegram, póki tu jestem!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdata.txt::srcdata.txt_1455": {
-  "source": "RUBY",
-  "target": "RUBY",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_1313": {
-  "source": "What's going on here?",
-  "target": "Co tu się dzieję?",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdataeasychat.txt::srcdataeasychat.txt_551": {
-  "source": "POPULAR",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
- },
- "srcdatatext.txt::srcdatatext.txt_598": {
-  "source": "Defeated {DYNAMIC 0x02} POKéMON including\\n{DYNAMIC 0x01} and caught {DYNAMIC 0x04} POKéMON\\nincluding {DYNAMIC 0x03} in {DYNAMIC 0x00}.",
-  "target": "Pokonał {DYNAMIC 0x02} POKéMONÓW, w tym\\n{DYNAMIC 0x01} i złapał {DYNAMIC 0x04} POKéMONÓW,\\nw tym {DYNAMIC 0x03} w {DYNAMIC 0x00} .",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_2740": {
-  "source": "Yeah, yeah, yeah!\\nLook at all the BUG POKéMON!",
-  "target": "Tak, tak, tak!\\nSpójrz na moje POKéROBAKI!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_781": {
-  "source": "The user meditates\\nto awaken its power\\nand raise its\\nATTACK stat.",
-  "target": "Użytkownik medytuje,\\nby pobudzić swe moce\\ni zwiększyć siłę\\nATAKU.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_884": {
-  "source": "I'll train even harder from now on!",
-  "target": "Od teraz będę trenowała mocniej!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdata.txt::srcdata.txt_32": {
-  "source": "A somewhat different BALL that\\nworks especially well on weaker\\nPOKéMON.",
-  "target": "Szczególna KULA działająca\\nwyjątkowo dobrze na słabsze\\nPOKéMONY.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_645": {
-  "source": "MONEY",
-  "target": "FORSA",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_2641": {
-  "source": "Uh-oh!\\nI smell a little mouse!",
-  "target": "Uch-och!\\nCzuję małą myszkę!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdata.txt::srcdata.txt_2019": {
-  "source": "SUSIE",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": true,
-  "manual_skip": true
- },
- "srcdata.txt::srcdata.txt_1238": {
-  "source": "An awesome, high-tech fishing rod.\\nUse it by any body of water to fish\\nfor wild POKéMON.",
-  "target": "Świetna, nowoczesna wędka.\\nUżyj jej przy dowolnej tafli wody, by\\nłowić dzikie POKéMONY.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdatapokemon.txt::srcdatapokemon.txt_95": {
-  "source": "GAS",
-  "target": "GAZOWY",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2712": {
-  "source": "MAREEP",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": true,
-  "manual_skip": true
- },
- "src.txt::src.txt_2702": {
-  "source": "QUAGSIRE",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": true,
-  "manual_skip": true
- },
- "srcdatapokemon.txt::srcdatapokemon.txt_1112": {
-  "source": "It sharpens its swordlike tail on hard\\nrocks. It hides in tall grass and strikes\\nunwary prey with venomous fangs.",
-  "target": "Wyostrza swój mieczopodobny ogon na\\ntwardych skałach. Chowa się w wysokiej\\ntrawie i uderza jadowitymi kłami.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdataeasychat.txt::srcdataeasychat.txt_136": {
-  "source": "ATTACK",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
- },
- "srcdatapokemon.txt::srcdatapokemon.txt_583": {
-  "source": "When it walks around on the ground,\\nit coats its body with a slimy, poisonous\\nfilm.",
-  "target": "Gdy chodzi po twardym gruncie,\\npozostawia za sobą szlamową, trującą\\nmaź.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_3006": {
-  "source": "Oh, no, don't come here!\\nPlease, stay away from me!",
-  "target": "Nie, nie podchodź!\\nProszę, nie zbliżaj się!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdata.txt::srcdata.txt_1243": {
-  "source": "????????",
-  "target": "????????",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdatatext.txt::srcdatatext.txt_915": {
-  "source": "TYRANITAR",
-  "target": "TYRANITAR",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_181": {
-  "source": "Pleased to meet you.\\nMy hobby is POKéMON training.",
-  "target": "Miło mi cię poznać.\\nMoje hobby to trening POKéMON.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_820": {
-  "source": "Heals the user by\\nup to half its full\\nHP. It can be used\\nto heal an ally.",
-  "target": "Leczy użytkownika\\no połowę swojego\\npełnego HP. Może\\nleczyć sojusznika.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdataeasychat.txt::srcdataeasychat.txt_413": {
-  "source": "DEFEATED",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
- },
- "srcdatapokemon.txt::srcdatapokemon.txt_911": {
-  "source": "It accumulates negative ions in the\\natmosphere to blast out 10,000-volt\\nlightning bolts.",
-  "target": "Gromadzi jony ujemne w atmosferze,\\naby wystrzelić pioruny o napięciu\\n10000 woltów.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_2960": {
-  "source": "Your gang of followers have been\\nraising havoc on their bikes.\\pDo you have any idea how much\\ntrouble they've caused us on the\\lisland?",
-  "target": "Gang twoich pobratymców sieje\\nspustoszenie na rowerach.\\pCzy zastanowiłeś się ile\\nproblemów mogą sprawdzić na naszej\\lwyspie?",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_1072": {
-  "source": "I got up early every day to train\\nmy POKéMON from cocoons!",
-  "target": "Wstaję codziennie wcześnie rano,\\nby trenować moje kokony!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_692": {
-  "source": "Good luck!",
-  "target": "Powodzenia",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdatapokemon.txt::srcdatapokemon.txt_720": {
-  "source": "It lives in deserts. It becomes active at\\nnight when it hunts for prey exhausted\\nfrom the desert's heat.",
-  "target": "Żyje na pustyniach. Aktywuje się w\\nnocy, gdy poluje na zdobycz wyczerpaną\\ngorącem pustyni.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdatapokemon.txt::srcdatapokemon.txt_885": {
-  "source": "Because it stores several kinds of toxic\\ngases in its body, it is prone to\\nexploding without warning.",
-  "target": "Ponieważ przechowuje w swoim ciele kilka rodzajów\\ntoksycznych gazów, ma skłonność do\\neksplodowania bez ostrzeżenia.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_183": {
-  "source": "{B_ATK_NAME_WITH_PREFIX} is locked\\nin a NIGHTMARE!",
-  "target": "{B_ATK_NAME_WITH_PREFIX} zamknięty\\nw KOSZMARZE!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_1836": {
-  "source": "I wish I could ride my POKéMON.\\nI bet you're not tired.",
-  "target": "Chciałbym móc pływać na POKéMONIE.\\nTo pewnie nie męczy.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
  }
 }
