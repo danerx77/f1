@@ -4948,11 +4948,14 @@
   "ignored": false
  },
  "srcdata.txt::srcdata.txt_730": {
-  "source": "A somewhat different BALL that\\nbecomes progressively better the\\nmore turns there are in a battle.",
+  "source": "A somewhat different BALL that\\\\nbecomes progressively better the\\\\nmore turns there are in a battle.",
   "target": "Szczególna KULA, która staje się\\ntym lepsza, im więcej tur minęło\\njuż w walce.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790375610.9924464,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_464": {
   "source": "IDOL",
@@ -10381,11 +10384,14 @@
   "touched": true
  },
  "srcdata.txt::srcdata.txt_720": {
-  "source": "A special BALL that is used only in\\nthe SAFARI ZONE. It is finished in\\na camouflage pattern.",
+  "source": "A special BALL that is used only in\\\\nthe SAFARI ZONE. It is finished in\\\\na camouflage pattern.",
   "target": "Specjalna KULA używana tylko w\\nSTREFIE SAFARI. Pomalowania\\nwe wzorki przypominające kamuflaż.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790375600.8235745,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_84": {
   "source": "TANOBY RUINS",
@@ -17871,11 +17877,14 @@
   "ignored": false
  },
  "srcdata.txt::srcdata.txt_732": {
-  "source": "A comfortable BALL that makes a\\ncaptured wild POKéMON quickly grow\\nfriendly.",
+  "source": "A comfortable BALL that makes a\\\\ncaptured wild POKéMON quickly grow\\\\nfriendly.",
   "target": "Wygodna KULA, która powoduje, że\\nzłapany POKéMON staje się\\nprzyjazny.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790375606.7834518,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_343": {
   "source": "RUFFIAN",
@@ -140213,7 +140222,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790375590.9815335,
+  "updated": 1790375591.373024,
   "touched": true
  },
  "data maps.txt::data maps.txt_1266": {
