@@ -68188,7 +68188,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363827.3213925,
+  "updated": 1790363827.4958808,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_40": {
@@ -97348,7 +97348,10 @@
   "target": "Dostosuj odpowiednie ustawienia gry, jak\\nprędkość tekstu itd.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363847.4514408,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2159": {
   "source": "Oh, that TEA…\\nIt looks awfully tasty…",
