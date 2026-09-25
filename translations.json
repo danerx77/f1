@@ -94813,7 +94813,10 @@
   "target": "To twój ostatni POKéMON!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363666.4456413,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1368": {
   "source": "If enraged by this move, the target\\nbecomes incapable of using the same\\nmove twice in a row.",
@@ -97283,7 +97286,10 @@
   "target": "Trzymasz POKéMONA!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363667.3214722,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_218": {
   "source": "LITTLE BEAR",
