@@ -446,12 +446,12 @@
  },
  "src.txt::src.txt_1814": {
   "source": "{A_BUTTON}GUIDE",
-  "target": "{A_BUTTON}IN",
+  "target": "{A_BUTTON}INFO",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362127.1189127,
+  "updated": 1790362132.8364868,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_918": {
@@ -35929,7 +35929,10 @@
   "target": "{DPAD_ANY}RUSZ {A_BUTTON} OK {B_BUTTON}WRÓĆ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362147.1309364,
+  "touched": true
  },
  "datatext.txt::datatext.txt_283": {
   "source": "DAME",
