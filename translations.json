@@ -4190,7 +4190,10 @@
   "target": "{PLAYER} użył\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363145.3100445,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1948": {
   "source": "Aww, darn…",
@@ -40732,7 +40735,10 @@
   "target": "Ale efekt ODGANIACZA pozostaje \\nz wcześniej. {PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363147.2230127,
+  "touched": true
  },
  "data maps.txt::data maps.txt_563": {
   "source": "Oh, you found me!\\nPlease don't tell LORELEI.\\pDid you know that LORELEI has lots\\nand lots of stuffed dolls?\\pEvery time she comes back to\\nFOUR ISLAND, her collection grows!",
@@ -92743,7 +92749,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363127.231846,
+  "updated": 1790363141.5132055,
   "touched": true
  },
  "src.txt::src.txt_2235": {
