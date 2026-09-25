@@ -7381,7 +7381,10 @@
   "target": "ZAMIEŃ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363242.1854951,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1974": {
   "source": "NASH",
@@ -25283,7 +25286,10 @@
   "target": "WYMIE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363247.235211,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_821": {
   "source": "The larger its petals, the more toxic\\npollen it contains. Its big head is heavy\\nand hard to hold up.",
@@ -29231,7 +29237,10 @@
   "target": "OPCJE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363245.2739916,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_848": {
   "source": "AMPHAROS",
@@ -43555,12 +43564,12 @@
  },
  "src.txt::src.txt_1284": {
   "source": "SHIFT",
-  "target": "ZMIEŃ",
+  "target": "ZMIANA",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363227.2376564,
+  "updated": 1790363233.882524,
   "touched": true
  },
  "data maps.txt::data maps.txt_2232": {
@@ -76250,7 +76259,10 @@
   "target": "WYŚLIJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363236.057931,
+  "touched": true
  },
  "datatext.txt::datatext.txt_225": {
   "source": "POKéMON LEAGUE",
