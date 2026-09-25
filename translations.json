@@ -446,10 +446,13 @@
  },
  "src.txt::src.txt_1814": {
   "source": "{A_BUTTON}GUIDE",
-  "target": "{A_BUTTON}PORADNIK",
+  "target": "{A_BUTTON}IN",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362127.1189127,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_918": {
   "source": "CELEBI",
@@ -30012,7 +30015,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362107.1220756,
+  "updated": 1790362120.0198467,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_258": {
