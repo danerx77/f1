@@ -36930,7 +36930,10 @@
   "target": "ODZ. KASKADY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363527.279093,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1694": {
   "source": "HIDEKI",
@@ -93948,7 +93951,10 @@
   "target": "PIORUNA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363526.8730118,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_816": {
   "source": "?????",
