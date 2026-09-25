@@ -15397,7 +15397,10 @@
   "target": "PROSZEK",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363158.4139965,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1144": {
   "source": "SAILOR",
@@ -15645,7 +15648,10 @@
   "target": "Zagrano na POKé FLECIE.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363160.7482092,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_877": {
   "source": "It stores electric energy under very high\\npressure. It often explodes with little or\\nno provocation.",
@@ -16912,7 +16918,10 @@
   "target": "{PLAYER} używa\\n{STR_VAR_2}.\\pDzikie POKéMONY będą odstraszane.{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363153.0098634,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1030": {
   "source": "The leaves on its forelegs are as sharp\\nas swords. It agilely leaps about the\\nbranches of trees to strike.",
@@ -23320,7 +23329,10 @@
   "target": "POKé FLET budzi śpiące\\nPOKéMONY.{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363167.2302644,
+  "touched": true
  },
  "src.txt::src.txt_1476": {
   "source": "GREEN SHARD",
@@ -33905,7 +33917,10 @@
   "target": "{PLAYER} używa\\n{STR_VAR_2}.\\pDzikie POKéMONY będą wabione.{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363152.4708033,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1146": {
   "source": "During the spawning season, countless\\nLUVDISC congregate at coral reefs,\\nturning the waters pink.",
@@ -35271,7 +35286,10 @@
   "target": "PROSZEK: {STR_VAR_1}{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363157.5644603,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_44": {
   "source": "USE",
@@ -40737,7 +40755,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363147.2230127,
+  "updated": 1790363148.8433855,
   "touched": true
  },
  "data maps.txt::data maps.txt_563": {
@@ -60560,7 +60578,10 @@
   "target": "BOKS jest pełny. {PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363154.5690136,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1158": {
   "source": "You can't sneak in the back way!\\nNice try, kid, but no.\\pOh, whatever!\\nDo you know what AMBER is?",
@@ -67435,7 +67456,10 @@
   "target": "Zagrano na POKé FLECIE.\\pBardzo ładna melodia!{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363160.1881807,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2905": {
   "source": "We caught all our POKéMON while\\nwe were out at sea.",
