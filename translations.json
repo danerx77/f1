@@ -1379,10 +1379,11 @@
  },
  "src.txt::src.txt_1584": {
   "source": "DOUBLE",
-  "target": "DOUBLE",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_995": {
   "source": "FEEBAS",
@@ -96981,7 +96982,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363487.2884555,
+  "updated": 1790363490.3294363,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_39": {
