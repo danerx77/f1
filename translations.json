@@ -17906,7 +17906,10 @@
   "target": "ODZ. GŁAZU",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363447.2735343,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1009": {
   "source": "Giggle…\\nI collected a ton of STICKERS.\\lI wish I could show them off…",
@@ -57589,7 +57592,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363427.2694058,
+  "updated": 1790363430.2714858,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1025": {
