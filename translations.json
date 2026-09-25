@@ -36932,7 +36932,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363527.279093,
+  "updated": 1790363529.657407,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1694": {
@@ -38394,10 +38394,13 @@
  },
  "src.txt::src.txt_1599": {
   "source": "RAINBOWBADGE",
-  "target": "TĘCZY",
+  "target": "ODZ. TĘCZY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363543.346186,
+  "touched": true
  },
  "src.txt::src.txt_768": {
   "source": "The foe is trapped\\nin an intense spiral\\nof fire that rages\\ntwo to five turns.",
@@ -73011,10 +73014,13 @@
  },
  "src.txt::src.txt_1602": {
   "source": "VOLCANOBADGE",
-  "target": "WULKANU",
+  "target": "ODZ. WULKANU",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363547.27868,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_954": {
   "source": "MIGHTYENA",
@@ -93948,12 +93954,12 @@
  },
  "src.txt::src.txt_1598": {
   "source": "THUNDERBADGE",
-  "target": "PIORUNA",
+  "target": "ODZ. PIORUNA",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363526.8730118,
+  "updated": 1790363538.5927808,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_816": {
