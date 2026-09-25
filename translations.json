@@ -32581,7 +32581,10 @@
   "target": "ELEKTRYCZNY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363702.4054804,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1949": {
   "source": "EVE & JON",
@@ -97288,7 +97291,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363687.316526,
+  "updated": 1790363695.2476869,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_218": {
