@@ -1403,7 +1403,10 @@
   "target": "WZROST",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362307.1766448,
+  "touched": true
  },
  "src.txt::src.txt_861": {
   "source": "The user changes\\ntype to make itself\\nresistant to the\\nlast attack it took.",
