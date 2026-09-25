@@ -20490,10 +20490,13 @@
  },
  "src.txt::src.txt_1099": {
   "source": "{DPAD_UPDOWN}PICK {A_BUTTON}{B_BUTTON}CANCEL",
-  "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON}{B_BUTTON} ANULUJ",
+  "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON}{B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362767.2182279,
+  "touched": true
  },
  "src.txt::src.txt_1703": {
   "source": "SEAFLOOR",
@@ -22350,7 +22353,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362747.2183232,
+  "updated": 1790362752.5931756,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_67": {
@@ -48390,7 +48393,10 @@
   "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON} DALEJ{B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362762.8658483,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_850": {
   "source": "A nutritious drink for POKéMON.\\nIt raises the base SP. DEF stat\\nof one POKéMON.",
