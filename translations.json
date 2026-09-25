@@ -14386,7 +14386,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362367.1814213,
+  "updated": 1790362384.3076358,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_218": {
@@ -39864,10 +39864,13 @@
  },
  "src.txt::src.txt_1136": {
   "source": " POKéMON",
-  "target": " POKéMON",
+  "target": "POKéMON",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362387.1869287,
+  "touched": true
  },
  "datatext.txt::datatext.txt_580": {
   "source": "{CIRCLE_1} Select “WITHDRAW ITEM.”\\n{CIRCLE_2} Select the item to be withdrawn.\\n{CIRCLE_3} The item can be withdrawn and\\n   placed in the BAG's ITEMS POCKET.\\n   It may also be directly given to a\\n   POKéMON to hold.",
