@@ -44423,7 +44423,10 @@
   "target": "SZAFIR",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362647.2134073,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2643": {
   "source": "You won't find my BOSS by just\\nscurrying around!",
@@ -58565,7 +58568,10 @@
   "target": "AQUA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362637.933323,
+  "touched": true
  },
  "data maps.txt::data maps.txt_809": {
   "source": "Wow! It's way bigger in here than\\nI thought!",
@@ -89751,7 +89757,10 @@
   "target": "MAGMA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362646.6828315,
+  "touched": true
  },
  "src.txt::src.txt_2062": {
   "source": "1. {DYNAMIC 0x00}",
@@ -96082,7 +96091,10 @@
   "target": "RUBIN",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362635.2855327,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1277": {
   "source": "Whew!\\nThe spirit left!",
