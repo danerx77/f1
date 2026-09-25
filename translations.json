@@ -7204,7 +7204,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275726.2173939
+  "updated": 1790357847.8003225,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_87": {
   "source": "A DITTO doll.\\nPlace it on a mat\\nor a desk.",
@@ -14486,7 +14487,10 @@
   "target": "…Um, trudno mi to powiedzieć,\\nale…\\pJest jakiś powód na to, dlaczego\\nPOKéMONY tak bardzo cię nienawidzą?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357843.3197823,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_531": {
   "source": "SCOPE LENS",
@@ -15326,7 +15330,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275595.0551457
+  "updated": 1790357837.856114,
+  "touched": true
  },
  "datatext.txt::datatext.txt_786": {
   "source": "That's too bad.",
@@ -15361,7 +15366,10 @@
   "target": "{PLAYER}, nie podoba mi się, jak\\nspogląda na ciebie.\\pBądź dla niego trochę milszy, ok?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357842.734156,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2121": {
   "source": "You should be informed.\\nYou need strategy to win at this!",
@@ -20912,7 +20920,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275685.4169104
+  "updated": 1790357830.2393427,
+  "touched": true
  },
  "data maps.txt::data maps.txt_247": {
   "source": "CERULEAN CITY POKéMON GYM\\nLEADER: MISTY\\lThe Tomboyish Mermaid!",
@@ -23801,7 +23810,10 @@
   "target": "…Chrap…",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357851.953515,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_452": {
   "source": "????????",
@@ -25864,7 +25876,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275721.663628
+  "updated": 1790357840.7912714,
+  "touched": true
  },
  "src.txt::src.txt_2041": {
   "source": "2:",
@@ -28375,7 +28388,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275602.3039522
+  "updated": 1790357835.0438936,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_41": {
   "source": "BELIEVE",
@@ -32037,7 +32051,10 @@
   "target": "Wygląda szczęśliwie.\\pChciałabym, by {RIVAL} zobaczył to\\ni czegoś się nauczył.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357839.851376,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_217": {
   "source": "RIXY CHAMBER",
@@ -37051,7 +37068,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790357827.8095088,
+  "updated": 1790357828.3434384,
   "touched": true
  },
  "src.txt::src.txt_2916": {
@@ -37683,7 +37700,10 @@
   "target": "Chyba cię lubi. Bądź dla niego\\nnadal dobry!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357840.4000528,
+  "touched": true
  },
  "src.txt::src.txt_1797": {
   "source": "に みがきが かかった!",
@@ -50787,7 +50807,10 @@
   "target": "“Kochana i słodka\\nCLEFAIRY”",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357843.789892,
+  "touched": true
  },
  "src.txt::src.txt_1659": {
   "source": "Which one will you take?",
@@ -51660,7 +51683,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275596.981868
+  "updated": 1790357838.1375341,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_328": {
   "source": "SPIDER WEB",
@@ -56988,7 +57012,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275592.7451649
+  "updated": 1790357835.75173,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2553": {
   "source": "No kids are allowed in here!",
@@ -78655,7 +78680,10 @@
   "target": "Chyba nie mógłby cię kochać\\nmocniej niż kocha teraz.\\pTwój POKéMON jest super\\nszczęśliwy.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357839.3107038,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_403": {
   "source": "ZINC",
@@ -86642,7 +86670,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275718.8899798
+  "updated": 1790357841.9219182,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_619": {
   "source": "ROOT FOSSIL",
@@ -88534,7 +88563,10 @@
   "target": "Nie chcesz pomocy? Ok,\\nw takim razie napijmy się herbatki.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357829.028855,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2245": {
   "source": "I'm a security guard.\\pSuspicious kids I don't allow in!",
@@ -96975,7 +97007,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790275716.0157871
+  "updated": 1790357838.8065567,
+  "touched": true
  },
  "src.txt::src.txt_2561": {
   "source": "FERALIGATR",
@@ -97933,7 +97966,10 @@
   "target": "Którym mam się zająć?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357829.6262398,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1230": {
   "source": "Who wouldn't?",
