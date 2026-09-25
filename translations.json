@@ -43558,7 +43558,10 @@
   "target": "ZMIEŃ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363227.2376564,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2232": {
   "source": "What do you want?\\nGet lost!",
@@ -56163,7 +56166,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363207.231705,
+  "updated": 1790363207.2757435,
   "touched": true
  },
  "src.txt::src.txt_294": {
@@ -60669,7 +60672,10 @@
   "target": "{STR_VAR_1}?\\nIle masz ochotę sprzedać?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363212.4740925,
+  "touched": true
  },
  "src.txt::src.txt_243": {
   "source": "{B_ACTIVE_NAME_WITH_PREFIX}'s {B_CURRENT_MOVE}\\nis disabled!\\p",
@@ -61941,7 +61947,10 @@
   "target": "Czy mogę pomóc w czymś jeszcze?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363208.7935164,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_250": {
   "source": "The foe is hit with a pulsing blast\\nof water. It may also confuse the\\ntarget.",
@@ -85218,7 +85227,10 @@
   "target": "{STR_VAR_1}? O, nie.\\nNie kupię tego. {PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363210.9382255,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2169": {
   "source": "I'm taking the ROCK TUNNEL to\\ngo to LAVENDER…",
@@ -95892,7 +95904,10 @@
   "target": "Mogę zapłacić ¥{STR_VAR_3}.\\nW porządku?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363225.633426,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_252": {
   "source": "A savage roar that causes the foe\\nto switch out of battle. In the\\nwild, ROAR ends the battle.",
