@@ -40438,10 +40438,13 @@
  },
  "data maps.txt::data maps.txt_1125": {
   "source": "So, you're here. I'm BROCK.\\nI'm PEWTER's GYM LEADER.\\pMy rock-hard willpower is evident\\neven in my POKéMON.\\pMy POKéMON are all rock hard, and\\nhave true-grit determination.\\pThat's right - my POKéMON are all\\nthe ROCK type!\\pFuhaha! You're going to challenge\\nme knowing that you'll lose?\\pThat's the TRAINER's honor that\\ncompels you to challenge me.\\pFine, then!\\nShow me your best!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
-  "target": "A więc jesteś. Nazywam się BROCK.\\nJestem LIDEREM SALI PEWTER.\\pMoja kamienna siła woli\\nprzejawia się nawet w walce.\\pMoje POKéMONY są twarde jak\\nkamień i pełne są determinacji.\\pWłaśnie tak - wszystkie moje\\nPOKéMONY są KAMIENNE!\\pCha! Chcesz wyzwać mnie wiedząc,\\nże przegrasz?\\pTo pewnie twój honor TRENERA każe\\nci wyzwać mnie na pojedynek.\\pDobrze więc!\\nPokaż co potrafisz!      {PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
+  "target": "A więc jesteś. Nazywam się BROCK.\\nJestem LIDEREM SALI PEWTER.\\pMoja kamienna siła woli\\nprzejawia się nawet w walce.\\pMoje POKéMONY są twarde jak\\nkamień i pełne są determinacji.\\pWłaśnie tak - wszystkie moje\\nPOKéMONY są KAMIENNE!\\pCha! Chcesz wyzwać mnie wiedząc,\\nże przegrasz?\\pTo pewnie twój honor TRENERA każe\\nci wyzwać mnie na pojedynek.\\pDobrze więc!\\nPokaż co potrafisz {PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357227.83792,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_520": {
   "source": "KING'S ROCK",
