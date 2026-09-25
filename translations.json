@@ -2394,7 +2394,10 @@
   "target": "{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}SZUKAJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362827.2107418,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1035": {
   "source": "The battery isn't charged enough.\\pNo. of steps required to fully\\ncharge the battery: {STR_VAR_1}{PAUSE_UNTIL_PRESS}",
@@ -29942,7 +29945,10 @@
   "target": "{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}SIEDLISKA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362821.9737628,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1156": {
   "source": "A fine, hard powder to be held by\\na DITTO.\\nIt raises DITTO's DEFENSE stat.",
@@ -30390,7 +30396,10 @@
   "target": "POKéMONY Leśne",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362826.0833547,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1443": {
   "source": "TRI-PASS",
@@ -52063,7 +52072,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362807.2104876,
+  "updated": 1790362808.7155879,
   "touched": true
  },
  "data maps.txt::data maps.txt_2400": {
@@ -79047,7 +79056,10 @@
   "target": "POKéMONY Polne",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362822.386216,
+  "touched": true
  },
  "datatext.txt::datatext.txt_485": {
   "source": "A TRAINER is a person who raises\\nPOKéMON through battling.\\lTRAINERS will challenge you \\lwherever they are - it could be on\\la road, in forests, caves, anywhere.\\lIf your eyes meet, you have to accept\\ltheir challenge. So be careful!",
