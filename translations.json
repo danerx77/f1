@@ -86309,13 +86309,13 @@
   "ignored": false
  },
  "srcdata.txt::srcdata.txt_712": {
-  "source": "The best BALL with the ultimate\\nperformance. It will catch any wild\\nPOKéMON without fail.",
+  "source": "The best BALL with the ultimate\\\\nperformance. It will catch any wild\\\\nPOKéMON without fail.",
   "target": "Najlepsza KULA z niesamowitą\\njakością działania. Złapie każdego\\ndzikiego POKéMONA.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790375442.4586039,
+  "updated": 1790375569.7047572,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1092": {
@@ -140207,11 +140207,14 @@
   "ignored": false
  },
  "srcdata.txt::srcdata.txt_714": {
-  "source": "A very high-grade BALL that offers\\na higher POKéMON catch rate than\\na GREAT BALL.",
+  "source": "A very high-grade BALL that offers\\\\na higher POKéMON catch rate than\\\\na GREAT BALL.",
   "target": "Wysokiej jakości KULA oferująca\\nwyższe szanse złapania POKéMONA\\nniż GREAT BALL.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790375570.978395,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1266": {
   "source": "{RIVAL}“あーあ‥！\\nほんとに　くたばっちまったぞ！\\lよわいなー！\\lもっと　ちゃんと　そだてて　やれよ",
