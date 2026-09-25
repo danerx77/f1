@@ -5180,7 +5180,10 @@
   "target": "Witamy w HALI SŁAWY!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362887.211573,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1065": {
   "source": "????????",
@@ -24321,7 +24324,10 @@
   "target": "STR.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362876.6182027,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2325": {
   "source": "SABRINA is young, but she's also\\nour highly skilled LEADER.\\pYou won't reach her easily!",
@@ -44441,7 +44447,10 @@
   "target": "ROZM",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362872.79405,
+  "touched": true
  },
  "src.txt::src.txt_1055": {
   "source": "SAPPHIRE",
@@ -60373,7 +60382,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362867.214242,
+  "updated": 1790362870.882271,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1534": {
@@ -61514,7 +61523,10 @@
   "target": "STR.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362871.4437366,
+  "touched": true
  },
  "src.txt::src.txt_1037": {
   "source": "An attack with a\\npulsing blast of\\nwater. It may also\\nconfuse the foe.",
@@ -86343,7 +86355,10 @@
   "target": "NIEZNANE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362874.5542948,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1102": {
   "source": "An item to be held by a POKéMON.\\nThe holding POKéMON may endure an\\nattack, leaving just 1 HP.",
