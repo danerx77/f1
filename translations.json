@@ -52058,10 +52058,13 @@
  },
  "src.txt::src.txt_1104": {
   "source": "{DPAD_UPDOWN}PICK {A_BUTTON}OK",
-  "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON} OK",
+  "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON}OK",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362807.2104876,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2400": {
   "source": "Not many people come out here.\\pIf I train here, I'm convinced that\\nI'll get stronger and stronger.\\pYep, stronger and stronger…\\pHow would you like to learn a move\\nlike that? It's SWORDS DANCE.",
@@ -93047,12 +93050,12 @@
  },
  "src.txt::src.txt_1100": {
   "source": "{A_BUTTON}EXIT",
-  "target": "{A_BUTTON} WRÓĆ",
+  "target": "{A_BUTTON}WRÓĆ",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362787.2154322,
+  "updated": 1790362800.6240625,
   "touched": true
  },
  "data maps.txt::data maps.txt_2756": {
