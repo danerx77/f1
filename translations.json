@@ -5182,7 +5182,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362887.211573,
+  "updated": 1790362894.1335592,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1065": {
@@ -39336,10 +39336,13 @@
  },
  "src.txt::src.txt_1160": {
   "source": "IDNo.",
-  "target": "NrID",
+  "target": "NrID.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362907.2305872,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1895": {
   "source": "LIL: Huh? A battle?\\nIAN, can't you do it alone?",
