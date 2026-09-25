@@ -25283,12 +25283,12 @@
  },
  "src.txt::src.txt_1293": {
   "source": "TRADE",
-  "target": "WYMIE",
+  "target": "HANDEL",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363247.235211,
+  "updated": 1790363267.2387977,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_821": {
