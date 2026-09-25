@@ -2396,7 +2396,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362847.2114806,
+  "updated": 1790362856.3329349,
   "touched": true
  },
  "datatext.txt::datatext.txt_1035": {
@@ -40118,7 +40118,10 @@
   "target": "{A_BUTTON}DALEJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362867.0579138,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1153": {
   "source": "Yes, yes.\\nIt's ¥50 for a child's ticket.\\pWould you like to come in?",
@@ -47151,10 +47154,13 @@
  },
  "src.txt::src.txt_1143": {
   "source": "{A_BUTTON}NEXT DATA {B_BUTTON}CANCEL",
-  "target": "{A_BUTTON} NASTĘPNE  {B_BUTTON}ANULUJ",
+  "target": "{A_BUTTON}NASTĘPNE {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362866.411172,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1124": {
   "source": "Protected by a hard shell, its body is\\nvery sturdy. It skewers prey with its\\nclaws to feed.",
@@ -60365,7 +60371,10 @@
   "target": "{A_BUTTON}ANULUJ {B_BUTTON}POPRZEDNIE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362867.214242,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1534": {
   "source": "DIANA",
