@@ -4853,7 +4853,10 @@
   "target": "????????",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376415.6803112,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_454": {
   "source": "LUSTER PURGE",
