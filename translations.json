@@ -14386,7 +14386,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362384.3076358,
+  "updated": 1790362393.907784,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_218": {
@@ -39869,7 +39869,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362387.1869287,
+  "updated": 1790362392.965651,
   "touched": true
  },
  "datatext.txt::datatext.txt_580": {
@@ -43457,7 +43457,10 @@
   "target": "”",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362404.5599098,
+  "touched": true
  },
  "datatext.txt::datatext.txt_563": {
   "source": "{CIRCLE_1} Select “{PLAYER}” on the MENU.\\n{CIRCLE_2} Your TRAINER CARD is displayed face\\n   up with basic information. Press the\\n   A Button to turn the CARD over.\\n{CIRCLE_3} A variety of data can be found on\\n   the reverse side of the CARD.",
@@ -63642,7 +63645,10 @@
   "target": "WAGA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362407.2068496,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_209": {
   "source": "An item to be held by a POKéMON.\\nIts tricky aroma slightly reduces\\nthe foe's accuracy.",
@@ -84036,7 +84042,10 @@
   "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON} OK {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362403.5935657,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_366": {
   "source": "SWAGGER",
