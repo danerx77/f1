@@ -8109,7 +8109,10 @@
   "target": "Witaj, jesteś tutaj nowy?\\pTylko TRENERZY mający pewną\\ntaktykę mogą stać się mistrzami.\\pJakie jest twoje podejście do\\nłapania i treningu POKéMONÓW?\\pMoja taktyka, to ostry atak\\nPOKéMONAMI typu WODNEGO!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357207.8191643,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1337": {
   "source": "SILPH SCOPE? Humph!\\nI don't know where it is.",
