@@ -12577,7 +12577,10 @@
   "target": "Jestem BRUNO z ELITARNEJ CZWÓRKI!\\pPrzez męczący trening, ludzie\\ni POKéMONY mogą stawać\\lsię silniejsi bez ograniczeń. \\pŻyłem i trenowałem z\\nwalczącymi POKéMONAMI!\\lI to się nie zmieni!\\p{PLAYER}!\\pZgnieciemy cię jak muchę naszą\\nniesamowitą siłą!\\pHuu hah!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357347.8380075,
+  "touched": true
  },
  "src.txt::src.txt_1014": {
   "source": "The foe is attacked\\nwith ultimate cold\\nthat causes fainting\\nif it hits.",
