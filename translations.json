@@ -30010,12 +30010,12 @@
  },
  "src.txt::src.txt_1820": {
   "source": "{DPAD_UPDOWN}PICK",
-  "target": "{DPAD_UPDOWN}WEŹ",
+  "target": "{DPAD_UPDOWN}WYBÓR",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362120.0198467,
+  "updated": 1790362187.1447883,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_258": {
@@ -35931,7 +35931,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362167.1407788,
+  "updated": 1790362182.819162,
   "touched": true
  },
  "datatext.txt::datatext.txt_283": {
