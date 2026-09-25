@@ -3919,7 +3919,8 @@
   "ignored": false
  },
  "data maps.txt::data maps.txt_2454": {
-  "source": "NYA: Oh, no…\\nI'm so sorry, I…",
+  "source": "NYA: Oh, no…\\: {
+  "source": "GR,
   "target": "NYA: O, nie…\\nPrzepraszam, ja…",
   "status": "draft",
   "notes": "",
@@ -7869,21 +7870,26 @@
  },
  "data maps.txt::data maps.txt_2907": {
   "source": "I like feisty kids like you!",
-  "target": "Lubię zadziorne dzieciaki!",
+  "target": "L,
+  "notes": "",
+  "ignored": false
+ },
+ "srcdatatext.txt::srcdatatext.txt_711": {
+  "source": "GLOOM",
+  "target": "GLOOM",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "data maps.txt::data maps.txt_787": {
-  "source": "Trying to horn in on our treasure?\\nDon't bet on it!",
-  "target": "Chcesz zdobyć nasz skarb?\\nNie ma mowy!",
+ "src.txt::src.txt_893": {
+  "source": "Heals the user by\\nup to half its full\\nHP. It can be used\\nto heal an ally.",
+  "target": "Leczy użytkownika\\no połowę swojego\\npełnego HP. Może\\nleczyć sojusznika.",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "src.txt::src.txt_1307": {
-  "source": "This can't be used until a new\\nBADGE is obtained.{PAUSE_UNTIL_PRESS}",
-  "target": "Nie można tego użyć do\\nuzyskania ODZNAKI.{PAUSE_UNTIL_PRESS}",
+ "srcdata.txt::srcdata.txt_1752": {
+ ,
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -11769,7 +11775,13 @@
   "ignored": false
  },
  "datatext.txt::datatext.txt_565": {
-  "source": "{CIRCLE_1} Select “OPTION” on the MENU.\\n{CIRCLE_2} Press up or down on the {PLUS} Control\\n   Pad to select an optional item, then\\n   press left or right to alter the\\n   settings.\\n{CIRCLE_3} Select “CANCEL” or press the\\n   B Button after making changes.",
+  "source": "{CIRCLE_1} Select “OPTION” on the MENU.\\n{CIRCLE_2} Press up or down on the {PLUS} Control\\n   Pad to select an optio,
+  "target": "Er-hem!\\nJa jestem le SZEF!\\pGłówny cel to",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
+ "src.txt::src.txt_19,
   "target": "",
   "status": "new",
   "notes": "",
@@ -27562,7 +27574,10 @@
  },
  "data maps.txt::data maps.txt_3383": {
   "source": "That totally stinks! I'm going to\\ncatch some stronger ones!",
-  "target": "Kompletna klapa! Muszę złapać\\njakieś dużo silniejsze!",
+  "target": "Kompletna k,
+  "status": "draft",
+  "notes": "",
+  "ignore,
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -31520,19 +31535,19 @@
  "srcdataregionmap.txt::srcdataregionmap.txt_144": {
   "source": "ROUTE 20",
   "target": "DROGA 20",
-  "status": "draft",
+  "st},
+ "srcdataeasychat.txt::srcdataeasychat.txt_21": {
+  "source": "CHANGE",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false
  },
- "srcdatatext.txt::srcdatatext.txt_325": {
-  "source": "SKETCH",
-  "target": "SZKIC",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdataregionmap.txt::srcdataregionmap.txt_64": {
-  "source": "KINDLE ROAD",
+ "src.txt::src.txt_2181": {
+  "source": "A Button: Title Screen",
+  "target": "",
+  "status": "new",
+  "n"source": "KINDLE ROAD",
   "target": "KRUCHADROGA",
   "status": "draft",
   "notes": "",
@@ -35536,17 +35551,15 @@
  },
  "data maps.txt::data maps.txt_2370": {
   "source": "All of us gathered here are fans\\nof POKéMON TRAINERS.\\pThe way they look in battle…\\nThey are the picture of coolness.\\pPerhaps you will be talked about\\nhere, too, if you keep winning.",
-  "target": "Zebraliśmy się tu, jako fani\\nTRENERÓW POKéMON.\\pSposób, w jaki wyglądają w walce…\\nSą przykładem wspaniałości.\\pMoże i o tobie będzie kiedyś\\ngłośno, jeśli będziesz wygrywał.",
+  "target": "Zebraliśmy się tu, jako fani\\nTRENERÓW POKéMON.\\pSposób, w jaki wyglądają w walce…\\nSą przykładem wspaniałości.\\pMo: {
+  "source": "You're a TRAINER, aren't you?\\nLet's get with it right away!",
+  "target": "Jesteś TRENEREM, czy to prawda?\\nZróbmy to od razu!",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "srcdatatext.txt::srcdatatext.txt_1108": {
-  "source": "RUIN MANIAC",
-  "target": "MANIAK RUIN",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
+ "datatext.txt::datatext.txt_915": {
+  "source": "I'll be l"ignored": false
  },
  "data maps.txt::data maps.txt_66": {
   "source": "<<< FILE: maps/CeladonCity_DepartmentStore_3F/text.inc >>>",
@@ -47216,7 +47229,14 @@
  },
  "datatext.txt::datatext.txt_109": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I lead the ELITE FOUR.\\pYou can call me LANCE the dragon\\nTRAINER.",
-  "target": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Prowadzę ELITARNĄ CZWÓRKĘ.\\pMożesz mnie nazywać LANCE,\\nTRENER smoków.",
+  "target": "{,
+  "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
+ "data maps.txt::data maps.txt_2221": {
+  "source": "<<< FILE: maps/SafariZone_West/text.inc >>>",
+  "target",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -51165,16 +51185,31 @@
   "notes": "",
   "ignored": false
  },
- "srcdatatext.txt::srcdatatext.txt_1135": {
-  "source": "TRIATHLETE",
-  "target": "TRIATLONISTA",
+ "srcdatatext.txt::srcdatatext"target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false
+ },
+ "datatext.txt::datatext.txt_1157": {
+  "source": "I love swimming!\\nI guess you're the surfing type.",
+  "target": "Kocham pływać!\\nDomyślam się, że lubisz surfować.",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "src.txt::src.txt_467": {
-  "source": "OAK: Oh, for Pete's sake…\\nSo pushy, as always.\\p{B_PLAYER_NAME}.\\pYou've never had a POKéMON battle\\nbefore, have you?\\pA POKéMON battle is when TRAINERS\\npit their POKéMON against each\\lother.\\p",
-  "target": "OAK: No cóż…\\nJak zawsze porywczy.\\p{B_PLAYER_NAME}.\\pNigdy wcześniej nie prowadziłeś\\nwalki POKéMONÓW, prawda?\\pWalka POKéMONÓW zaczyna się, gdy\\ndwóch TRENERÓW stacza ze sobą\\lpojedynek.\\p",
+ "srcdatatext.txt::srcdatatext.txt_6": {
+  "source": "Blocks critical hits.",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false
+ },
+ "srcdatatext.txt::srcdatatext.txt_433": {
+  "source": "ASSIST",
+  "target": "ASYSTA",
+  "status": "draft",
+  "notes": "",
+  "ignored,
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -55209,28 +55244,35 @@
  },
  "data maps.txt::data maps.txt_2859": {
   "source": "I am but a solitary traveler…\\pMy sole companions and friends are\\nPOKéMON I caught on my journeys…",
-  "target": "Jestem samotnym podróżnikiem…\\pMoi towarzysze to przyjaciele i\\nPOKéMONY złapane w podróży…",
+  "target": "Jestem samotnym podróżnikiem…\\pMoi"target": "????????",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "data maps.txt::data maps.txt_241": {
-  "source": "SLOWBRO ignored orders…",
-  "target": "SLOWBRO ignoruje…",
+ "src.txt::src.txt_1096": {
+  "source": "{A_BUTTON}NEXT",
+  "target": "{A_BUTTON}DALEJ",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "src.txt::src.txt_1215": {
-  "source": "×{STR_VAR_1}",
-  "target": "×{STR_VAR_1}",
+ "src.txt::src.txt_1317": {
+  "source": "{STR_VAR_1} isn't holding\\nanything.{PAUSE_UNTIL_PRESS}",
+  "target": "{STR_VAR_1} nic nie\\ntrzyma.{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "data maps.txt::data maps.txt_2604": {
-  "source": "It's a POKéMON REPORT!\\pSome POKéMON have been confirmed\\nto evolve when they are traded.",
-  "target": "To RAPORT POKéMON!\\pNiektóre POKéMONY ewoluują podczas\\nwymiany z innym trenerem.",
+ "srcdatapokemon.txt::srcdatapokemon.txt_224": {
+  "source": "CORAL",
+  "target": "KORALOWIEC",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
+ "srcdataregionmap.txt::srcdataregionmap.txt_160": {
+  "source": "SAFARI ZONE",
+ ,
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -59166,44 +59208,40 @@
  },
  "src.txt::src.txt_252": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\nmade {B_CURRENT_MOVE} useless!",
-  "target": "{B_DEF_NAME_WITH_PREFIX}-{B_DEF_ABILITY}\\n{B_CURRENT_MOVE} bezużytecznym!",
+  "target": "{B_DEF_NAME_WITH_PREFIX"target": "Spójrz co zrobiłeś z moimi\\nPOKUSIAMI!",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "src.txt::src.txt_2243": {
-  "source": "{DYNAMIC 0x02} players",
-  "target": "{DYNAMIC 0x02} gracze",
+ "srcdatatext.txt::srcdatatext.txt_20": {
+  "source": "Powers up if hit by fire.",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false
+ },
+ "srcdatapokemon.txt::srcdatapokemon.txt_65": {
+  "source": "PSI",
+  "target": "PSI",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "srcdataeasychat.txt::srcdataeasychat.txt_97": {
-  "source": "THICK",
-  "target": "",
-  "status": "new",
+ "data maps.txt::data maps.txt_1791": {
+  "source": "I have to exercise and warm up\\nbefore going out for a swim.",
+  "target": "Muszę ćwiczyć i rozgrzać się\\nprzed pływaniem.",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
- "srcdata.txt::srcdata.txt_1307": {
-  "source": "TM11",
-  "target": "",
-  "status": "new",
+ "data maps.txt::data maps.txt_1545": {
+  "source": "Huh?\\n{STR_VAR_2} inches?\\pThis is the same size as the one\\nI saw before.",
+  "target": "Huh?\\n{STR_VAR_2} cali?\\pJest tak samo wielki, jak ten\\npoprzedni.",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
-  "manual_skip": true
+  "ignored": false
  },
- "data maps.txt::data maps.txt_2842": {
-  "source": "<<< FILE: maps/SSAnne_1F_Room3/text.inc >>>",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": true,
-  "auto_excluded": true
- },
- "srcdatatext.txt::srcdatatext.txt_587": {
-  "source": "{STR_VAR_1} shared its HP using the move\\nSOFTBOILED.",
-  "target": "{STR_VAR_1} podzielił się HP używając\\nJAJONAMIĘKKO.",
+ "datatext.txt::da,
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -59439,7 +59477,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790371213.023836,
+  "updated": 1790371232.9942994,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_379": {
@@ -63149,44 +63187,43 @@
  },
  "data maps.txt::data maps.txt_2472": {
   "source": "EVE: I'll team up with JON and\\nbattle together.",
-  "target": "EVE: Walczymy w drużynie, ja i\\nJON!",
+  "target": "EVE: Walczymy w drużynie: {
+  "source": "SEA LILY",
+  "target": "LILIA WODNA",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "srcdata.txt::srcdata.txt_1575": {
-  "source": "LUCAS",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": true,
-  "manual_skip": true
- },
- "srcdata.txt::srcdata.txt_1744": {
-  "source": "GRUNT",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": true,
-  "manual_skip": true
- },
- "srcdata.txt::srcdata.txt_464": {
-  "source": "FAB MAIL",
-  "target": "ELEGANCKI LIST",
+ "srcdatatext.txt::srcdatatext.txt_251": {
+  "source": "TOXIC",
+  "target": "TOKSYNY",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "srcdatatext.txt::srcdatatext.txt_97": {
-  "source": "IMMUNITY",
-  "target": "ODPORNOŚĆ",
+ "src.txt::src.txt_417": {
+  "source": "evasiveness",
+  "target": "unikliwość",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "src.txt::src.txt_180": {
-  "source": "{B_ATK_NAME_WITH_PREFIX} stole\\n{B_DEF_NAME_WITH_PREFIX}'s {B_LAST_ITEM}!",
-  "target": "{B_ATK_NAME_WITH_PREFIX} ukradł\\n{B_DEF_NAME_WITH_PREFIX}-{B_LAST_ITEM}!",
+ "srcdata.txt::srcdata.txt_486": {
+  "source": "POMEG BERRY",
+  "target": "POMEGJAGODA",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
+ "srcdatatext.txt::srcdatatext.txt_1007": {
+  "source": "CAMERUPT",
+  "target": "CAMERUPT",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
+ "data maps.txt::data maps.txt_598": {
+  "source": "Oh? A POKéMON EGG?\\n…I have no idea.\\p…Oh, wait. The DAY-CARE people\\nin town were saying something.\\pThey said that they'd ,
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -67000,30 +67037,24 @@
   "ignored": false
  },
  "src.txt::src.txt_1011": {
-  "source": "The user attacks\\nwith an odd power\\nthat may make the\\nfoe flinch.",
-  "target": "Użytkownik atakuje\\nz dziwną siłą, która\\nmoże sprawić\\nzachwianie.",
+  "source": "The user attacks\\nwith an odd power\\nthat may make the\\nfoe flinc,
+  "target": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Dziewczynka z PALLET TOWN, DAISY,\\ncodziennie piję HERBATKĘ.\\pCzasami odwiedza DOM TOWAROWY\\nceladon, by ją KUPIĆ.",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "src.txt::src.txt_1252": {
-  "source": "Played the POKé FLUTE.",
-  "target": "Zagrano na POKé FLECIE.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false,
-  "translator": "Antrix",
-  "updated": 1790363160.7482092,
-  "touched": true
- },
- "data maps.txt::data maps.txt_2239": {
-  "source": "You beat TEAM ROCKET all alone?\\nThat's amazing!",
-  "target": "Sam pokonałeś ZESPÓŁ R?\\nTo niesamowite!",
+ "datatext.txt::datatext.txt_268": {
+  "source": "WOMAN",
+  "target": "WOMAN",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "data maps.txt::data maps.txt_1233": {
+ "srcdata.txt::srcdata.txt_848": {
+  "source": "Slightly raises the maximum PP of\\na selected move for one POKéMON.",
+  "target": "Nieznacznie zwiększa maksymalne PP\\nwybranego ruchu POKéMONA.",
+  "status": "draft",
+  "notes": {
   "source": "Oh, no!\\nMy bag of loot!",
   "target": "Och nie!\\nMoja torba!",
   "status": "draft",
