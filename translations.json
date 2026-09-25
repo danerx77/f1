@@ -1405,7 +1405,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362347.1694186,
+  "updated": 1790362366.4908128,
   "touched": true
  },
  "src.txt::src.txt_861": {
@@ -14384,7 +14384,10 @@
   "target": "{DPAD_LEFTRIGHT}RUSZ{PLUS}NAST.STR. {A_BUTTON}SPRAWDŹ {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362367.1814213,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_218": {
   "source": "ELSE",
