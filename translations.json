@@ -30015,7 +30015,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362187.1447883,
+  "updated": 1790362187.1879675,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_258": {
@@ -61810,7 +61810,10 @@
   "target": "{START_BUTTON}WYBIERZ {DPAD_UPDOWN}PRZESUŃ {A_BUTTON}OK",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362207.1450582,
+  "touched": true
  },
  "src.txt::src.txt_1276": {
   "source": "Is there anything else I can do?",
