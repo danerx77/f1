@@ -57587,7 +57587,10 @@
   "target": "PIĘKNOŚĆ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363427.2694058,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1025": {
   "source": "It is said that it quietly spends its time\\ndeep at the bottom of the sea because\\nits powers are too strong.",
