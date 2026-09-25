@@ -30294,10 +30294,13 @@
  },
  "data maps.txt::data maps.txt_2303": {
   "source": "I had a vision of your arrival.\\pI have had psychic powers since\\nI was a child.\\pIt started when a spoon I\\ncarelessly tossed, bent.\\pI dislike battling, but if you wish,\\nI will show you my powers!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
-  "target": "Miałam wizję, w której widziałam\\ptwoje przybycie.\\nMam psychiczne moce\\pod dziecka.\\nWszystko zaczęło się od\\pwygięcia się rzuconej łyżki.\\nNie lubię walczyć, ale jeśli chcesz pokażę ci co umiem!   {PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
+  "target": "Miałam wizję, w której widziałam\\ptwoje przybycie.\\nMam psychiczne moce\\pod dziecka.\\nWszystko zaczęło się od\\pwygięcia się rzuconej łyżki.\\nNie lubię walczyć, ale jeśli chcesz pokażę ci co umiem!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357307.7927809,
+  "touched": true
  },
  "datatext.txt::datatext.txt_854": {
   "source": "This is my grandson.\\pHe's been your rival since you both\\nwere babies.\\p…Erm, what was his name now?",
