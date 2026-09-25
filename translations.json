@@ -5439,12 +5439,12 @@
  },
  "srcdatatext.txt::srcdatatext.txt_355": {
   "source": "ICY WIND",
-  "target": "ZIMNY WIATR m",
+  "target": "ZIMNY WIATR ",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790356663.8130484,
+  "updated": 1790356683.8721962,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_982": {
