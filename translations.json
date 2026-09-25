@@ -68186,7 +68186,10 @@
   "target": "Zawiera kieszenie przechowujące rzeczy\\nznalezione, kupione itd.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363827.3213925,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_40": {
   "source": "VIRIDIAN FOREST",
