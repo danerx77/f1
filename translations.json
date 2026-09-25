@@ -45827,12 +45827,12 @@
  },
  "datatext.txt::datatext.txt_947": {
   "source": "You can pass here only if you have\\nthe {STR_VAR_1}.\\pOh! That is the {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\\pOkay, then.\\nPlease, go right ahead.",
-  "target": "Możesz przejść, tylko jeśli\\nzdobyłeś już {STR_VAR_1}.\\pOch! To jest {STR_VAR_1}{PAUSE_MUSIC}!\\pOkej {PLAY_BGM} {MUS_LEVEL_UP} {PAUSE 0x60} {RESUME_MUSIC}!\\nW takim razie proszę przejść.",
+  "target": "Możesz przejść, tylko jeśli\\nzdobyłeś już {STR_VAR_1}.\\pOch! To jest {STR_VAR_1}{PAUSE_MUSIC}!\\pOkej {PLAY_BGM}{MUS_LEVEL_UP} {PAUSE 0x60}{RESUME_MUSIC}!\\nW takim razie proszę przejść.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790357267.8321142,
+  "updated": 1790357274.9397862,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_515": {
@@ -63357,7 +63357,10 @@
   "target": "Łahahaha! \\nWitaj w mojej kryjówce!\\pBędę tu przebywał, dopóki nie\\nprzywrócę potęgi ZESPOŁOWI R!\\pAle, skoro udało ci się mnie znaleźć.\\nNiech będzie.\\lTym razem zobaczysz co potrafię!\\pJeszcze raz, zobaczysz\\ndo czego zdolny jest GIOVANNI!{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790357287.7919862,
+  "touched": true
  },
  "datatext.txt::datatext.txt_148": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: SABRINA\\nTo: {PLAYER}\\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The love you have towards your\\nPOKéMON…\\pIt was a power that was never\\nbested by my psychic power.",
