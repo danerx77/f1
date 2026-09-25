@@ -61028,10 +61028,13 @@
  },
  "src.txt::src.txt_1603": {
   "source": "EARTHBADGE",
-  "target": "ZIEMI",
+  "target": "ODZ. ZIEMI",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363558.5146012,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_294": {
   "source": "The foe is struck with steel-hard\\nwings. It may also raise the user's\\nDEFENSE stat.",
@@ -73019,7 +73022,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363547.27868,
+  "updated": 1790363549.386493,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_954": {
@@ -74545,10 +74548,14 @@
  },
  "src.txt::src.txt_1621": {
   "source": "LINKED GAME PLAY",
-  "target": "LINKED GAME PLAY",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1790363564.242205,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_203": {
   "source": "TRAINER TOWER",
@@ -77177,10 +77184,13 @@
  },
  "src.txt::src.txt_1623": {
   "source": "UNION ROOM",
-  "target": "UNION ROOM",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790363564.2910123,
+  "touched": true
  },
  "src.txt::src.txt_1114": {
   "source": "Cave POKéMON",
@@ -77567,10 +77577,13 @@
  },
  "src.txt::src.txt_1622": {
   "source": "DIRECT CORNER",
-  "target": "DIRECT CORNER",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1790363564.2646034,
+  "touched": true
  },
  "src.txt::src.txt_609": {
   "source": "うえないと みが つかないときも ある.",
