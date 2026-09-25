@@ -688,7 +688,10 @@
   "target": "i stwórz swój profil.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363761.6324053,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1117": {
   "source": "You're here again, huh?\\nShut up and battle.",
@@ -23774,7 +23777,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363747.318183,
+  "updated": 1790363747.4614625,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_558": {
@@ -46721,10 +46724,13 @@
  },
  "src.txt::src.txt_1815": {
   "source": "{A_BUTTON}CANCEL",
-  "target": "{A_BUTTON} ANULUJ",
+  "target": "{A_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363763.8028493,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_957": {
   "source": "The tail's tip shines brightly and can be\\nseen from far away. It acts as a beacon\\nfor lost people.",
@@ -51540,10 +51546,13 @@
  },
  "src.txt::src.txt_1816": {
   "source": "{A_BUTTON}CANCEL",
-  "target": "{A_BUTTON} ANULUJ",
+  "target": "{A_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363765.720952,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1055": {
   "source": "You need strategy to win at\\nbattling.\\pAre you following my advice?",
@@ -74535,7 +74544,10 @@
   "target": "{A_BUTTON} ZMIEŃ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790363767.3242316,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1320": {
   "source": "I'm not going to forget this!",
