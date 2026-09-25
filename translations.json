@@ -20495,7 +20495,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362767.2182279,
+  "updated": 1790362783.5221488,
   "touched": true
  },
  "src.txt::src.txt_1703": {
@@ -24298,10 +24298,13 @@
  },
  "src.txt::src.txt_1097": {
   "source": "{A_BUTTON}NEXT {B_BUTTON}BACK",
-  "target": "{A_BUTTON} DALEJ{B_BUTTON}WRÓĆ",
+  "target": "{A_BUTTON}DALEJ {B_BUTTON}WRÓĆ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362774.482959,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_556": {
   "source": "METAL POWDER",
@@ -48390,12 +48393,12 @@
  },
  "src.txt::src.txt_1098": {
   "source": "{DPAD_UPDOWN}PICK {A_BUTTON}NEXT {B_BUTTON}CANCEL",
-  "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON} DALEJ{B_BUTTON}ANULUJ",
+  "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON}DALEJ {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362762.8658483,
+  "updated": 1790362780.0745394,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_850": {
@@ -93047,7 +93050,10 @@
   "target": "{A_BUTTON} WRÓĆ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362787.2154322,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2756": {
   "source": "Wimped out…",
