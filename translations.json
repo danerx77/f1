@@ -29842,7 +29842,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790376315.6800447,
+  "updated": 1790376327.857073,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_139": {
@@ -61791,7 +61791,10 @@
   "target": "Niesamowicie potężny atak.\\nJednak, jeżeli użytkownik zostanie\\ntrafiony przed użyciem, potknie się.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790376335.6916015,
+  "touched": true
  },
  "datatext.txt::datatext.txt_645": {
   "source": "MONEY",
