@@ -40596,7 +40596,10 @@
   "target": "{START_BUTTON}WYBIERZ {DPAD_UPDOWN}PRZESUŃ {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790362227.1422117,
+  "touched": true
  },
  "src.txt::src.txt_1633": {
   "source": "HP UP{CLEAR_TO 0x65}{FONT_SMALL}1,000",
@@ -61807,12 +61810,12 @@
  },
  "src.txt::src.txt_2267": {
   "source": "{START_BUTTON}PICK {DPAD_UPDOWN}SELECT {A_BUTTON}OK",
-  "target": "{START_BUTTON}WYBIERZ {DPAD_UPDOWN}PRZESUŃ {A_BUTTON}OK",
+  "target": "{START_BUTTON}WYBIERZ {DPAD_UPDOWN}RUCH {A_BUTTON}OK",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362207.1450582,
+  "updated": 1790362218.3253186,
   "touched": true
  },
  "src.txt::src.txt_1276": {
