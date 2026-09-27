@@ -13213,12 +13213,12 @@
  },
  "datatext.txt::datatext.txt_846": {
   "source": "Through your adventure, we hope\\nthat you will interact with all sorts\\nof people and achieve personal growth.\\nThat is our biggest objective.\\n\\nPress the A Button, and let your\\nadventure begin!",
-  "target": "Mamy nadzieję, że w trakcie\\npodróży nawiążesz kontakty z nowymi\\nprzyjaciółmi, a na twej twarzy pojawi\\nsię uśmiech.\\n\\nTo nasz główny cel.\\nNaciśnij A, a rozpocznie się twoja \\nwielka przygoda!",
+  "target": "Mamy nadzieję, że w trakcie\\npodróży nawiążesz kontakty z nowymi\\nprzyjaciółmi, a na twej twarzy pojawi\\nsię uśmiech.\\nTo nasz główny cel.\\n\\nNaciśnij A, a rozpocznie się twoja \\nwielka przygoda!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790517694.87186,
+  "updated": 1790517703.4478981,
   "touched": true
  },
  "data maps.txt::data maps.txt_1033": {
@@ -26486,7 +26486,10 @@
   "target": "{STR_VAR_2} dostaje !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517734.882742,
+  "touched": true
  },
  "src.txt::src.txt_681": {
   "source": "APICOT",
