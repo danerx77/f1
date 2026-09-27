@@ -16661,7 +16661,10 @@
   "target": "Nie możesz tu\\npisać LISTU.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505809.3360643,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_992": {
   "source": "OOPS",
@@ -40389,7 +40392,10 @@
   "target": "{STR_VAR_1}\\nwybrano.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505808.9999082,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1549": {
   "source": "STEVE",
@@ -66454,7 +66460,10 @@
   "target": "Gdzie umieścić\\n{STR_VAR_1}?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505846.389248,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2339": {
   "source": "I was given a PP UP as a gift.\\pIt's used to increase the PP of\\na POKéMON's move.\\pI should use it on a powerful move\\nwith only a few PP.",
@@ -87872,7 +87881,10 @@
   "target": "Nie ma\\nPOKéMONÓW.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505809.8491533,
+  "touched": true
  },
  "datatext.txt::datatext.txt_294": {
   "source": "TAMIA",
@@ -92616,7 +92628,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790505806.3888898,
+  "updated": 1790505806.6160076,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_862": {
