@@ -73735,10 +73735,13 @@
  },
  "datatext.txt::datatext.txt_468": {
   "source": "Try talking to people by going up to\\nthem and pressing the A Button.\\lAlso, try checking things like odd trees\\land strange rocks with the A Button.\\lPress the {PLUS} Control Pad and try going\\lto places that look impassable, too.",
-  "target": "Spróbuj porozmawiać z ludźmi\\npodchodząc do nich i naciskając A.\\lMożesz też spróbować oglądać rzeczy\\lwciskając przy nich przycisk A.\\lWciskając {PLUS} możesz też spróbować\\lprzejść przez miejsca wyglądające na nie do przejścia.",
+  "target": "Spróbuj porozmawiać z ludźmi\\npodchodząc do nich i naciskając A.\\lMożesz też spróbować oglądać rzeczy\\lwciskając przy nich przycisk A.\\lWciskając {PLUS} możesz też spróbować\\lprzejść przez miejsca wyglądające na \\lnie do przejścia.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517554.6863372,
+  "touched": true
  },
  "datatext.txt::datatext.txt_808": {
   "source": "KAMON",
@@ -82075,7 +82078,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790517534.8889918,
+  "updated": 1790517535.0788293,
   "touched": true
  },
  "src.txt::src.txt_2361": {
@@ -95048,7 +95051,10 @@
   "target": "Lasy są właściwie tym samym czym\\ndrogi, chociaż są bardziej jak\\llabirynty.\\lWszystkie lasy mają wyjścia, więc nie poddawaj się!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517574.905814,
+  "touched": true
  },
  "src.txt::src.txt_2263": {
   "source": "----------",
