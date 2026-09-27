@@ -9525,10 +9525,13 @@
  },
  "src.txt::src.txt_202": {
   "source": "{B_BUFF1}'s attack!",
-  "target": "{B_BUFF1} - atak!",
+  "target": "{B_BUFF1} atak!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518734.901735,
+  "touched": true
  },
  "src.txt::src.txt_1678": {
   "source": "PLACE",
