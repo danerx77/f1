@@ -44574,10 +44574,13 @@
  },
  "src.txt::src.txt_2939": {
   "source": "EXIT",
-  "target": "WRÓĆ",
+  "target": "ZAMKNIJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519206.868924,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_16": {
   "source": "ROUTE 2",
@@ -48618,7 +48621,10 @@
   "target": "A więc chcesz {STR_VAR_2}?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519194.905338,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1816": {
   "source": "Ooh!\\nDangerous!",
@@ -53157,10 +53163,13 @@
  },
  "src.txt::src.txt_2940": {
   "source": "EXIT",
-  "target": "WRÓĆ",
+  "target": "ZAMKNIJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519214.9362485,
+  "touched": true
  },
  "data maps.txt::data maps.txt_939": {
   "source": "BILL: What kept you so long?\\nBeen out having a good time?\\pWe got it done.\\nThe PCs are up and running!",
