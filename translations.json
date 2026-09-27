@@ -94478,12 +94478,12 @@
  },
  "data maps.txt::data maps.txt_2350": {
   "source": "SILPH CO. is widely known to all.\\pIt's a victim of its own fame - it\\nattracted TEAM ROCKET.",
-  "target": "SILPH CO. jest znane w całym\\pKANTO.\\nTo ofiara własnej sławy -przyciągnęło ZESPÓŁ R.",
+  "target": "SILPH CO. jest znane w całym\\pKANTO.\\nTo ofiara własnej sławy -\\pprzyciągnęło ZESPÓŁ R.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790515854.886632,
+  "updated": 1790515894.9048421,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_860": {
