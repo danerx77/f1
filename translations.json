@@ -4708,10 +4708,13 @@
  },
  "datascript.txt::datascript.txt_12": {
   "source": "Start link with {STR_VAR_1} players.\\nA Button: Confirm\\lB Button: Cancel",
-  "target": "Uruchomić łącze z {STR_VAR_1} graczami.\\nA: OK\\lB: Anuluj.",
+  "target": "Uruchomić łącze z {STR_VAR_1} graczami.\\nPrzycisk A: OK\\lPrzycisk B: Anuluj",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517202.2608595,
+  "touched": true
  },
  "datatext.txt::datatext.txt_552": {
   "source": " Using “ROCK”",
@@ -49212,10 +49215,13 @@
  },
  "datascript.txt::datascript.txt_13": {
   "source": "Awaiting linkup…\\n… … B Button: Cancel",
-  "target": "Oczekiwanie połączenia…\\n… …B: Anuluj",
+  "target": "Oczekiwanie połączenia…\\n… …Przycisk B: Anuluj",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517214.9080203,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_310": {
   "source": "ACID ARMOR",
