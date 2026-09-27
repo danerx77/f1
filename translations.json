@@ -15014,7 +15014,10 @@
   "target": "{B_TRAINER1_NAME}: {B_OPPONENT_MON1_NAME} i\\n{B_OPPONENT_MON2_NAME}, wracajcie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518574.9217627,
+  "touched": true
  },
  "data maps.txt::data maps.txt_769": {
   "source": "<<< FILE: maps/MtEmber_Exterior/text.inc >>>",
@@ -57895,7 +57898,10 @@
   "target": "{B_TRAINER1_NAME}: {B_OPPONENT_MON2_NAME}, wracaj!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518566.0112314,
+  "touched": true
  },
  "data maps.txt::data maps.txt_497": {
   "source": "I'm thinking of having a pool\\nmade specially for POKéMON.",
