@@ -93245,10 +93245,13 @@
  },
  "data maps.txt::data maps.txt_2704": {
   "source": "Play with POKéMON lots and live\\na long life!\\pTake AGATHA, for example.\\pShe set a record for being the\\noldest-ever ELITE FOUR member.\\pShe spurs me to do bigger things.",
-  "target": "Baw się z POKéMONAMI i wiedź\\ndługie życie!\\pWeź za przykład AGATHĘ.\\pMa rekord, będąc najstarszą\\nczłonkinią ELITARNEJ CZWÓRKI.\\pMobilizuje mnie do podejmowania wyzwań.",
+  "target": "Baw się z POKéMONAMI i wiedź\\ndługie życie!\\pWeź za przykład AGATHĘ.\\pMa rekord, będąc najstarszą\\nczłonkinią ELITARNEJ CZWÓRKI.\\pMobilizuje mnie do podejmowania\\nwyzwań.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516334.910086,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_155": {
   "source": "SHELL ARMOR",
