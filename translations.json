@@ -45115,7 +45115,10 @@
   "target": "PORADA\\pUZDROWIENIE leczy każde schorzenie -\\npoparzenia, paraliż, zatrucie,\\lzamrożenie i sen.\\pKosztuje trochę więcej, ale jest\\nbardziej przydatne niż inne przedmioty.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515734.9343183,
+  "touched": true
  },
  "src.txt::src.txt_777": {
   "source": "A move that badly\\npoisons the foe.\\nIts poison damage\\nworsens every turn.",
