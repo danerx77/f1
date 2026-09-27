@@ -13678,7 +13678,10 @@
   "target": "DEL. ALL{CLEAR_TO 0x57}ANULUJ{CLEAR_TO 0xA4}3OK17487",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790524821.9995031,
+  "touched": true
  },
  "src.txt::src.txt_2962": {
   "source": "It's a GOLD CARD!",
@@ -30515,7 +30518,8 @@
   "ignored": true,
   "manual_skip": true,
   "translator": "Antrix",
-  "updated": 1790519294.953739
+  "updated": 1790524818.828923,
+  "touched": true
  },
  "data maps.txt::data maps.txt_848": {
   "source": "<<< FILE: maps/OneIsland/text.inc >>>",
@@ -40884,10 +40888,15 @@
  },
  "src.txt::src.txt_2481": {
   "source": "VAPOREON",
-  "target": "VAPOREON",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1790524797.9738693,
+  "touched": true
  },
  "data maps.txt::data maps.txt_96": {
   "source": "Yay!\\pSODA POP!\\pThank you!\\nYou can have this from me!",
@@ -46447,10 +46456,14 @@
  },
  "src.txt::src.txt_2485": {
   "source": "JOLTEON",
-  "target": "JOLTEON",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "translator": "Antrix",
+  "updated": 1790524790.9132736,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1161": {
   "source": "????????",
@@ -48430,11 +48443,12 @@
  },
  "src.txt::src.txt_2487": {
   "source": "FLAREON",
-  "target": "FLAREON",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
-  "manual_skip": true
+  "ignored": true,
+  "manual_skip": true,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_962": {
   "source": "LOTAD",
@@ -65901,11 +65915,15 @@
  },
  "src.txt::src.txt_2482": {
   "source": "EEVEE",
-  "target": "EEVEE",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
-  "manual_skip": true
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1790524797.9821374,
+  "touched": true
  },
  "src.txt::src.txt_1644": {
   "source": "What do you want to do?",
@@ -93989,11 +94007,12 @@
  },
  "src.txt::src.txt_2478": {
   "source": "JOLTEON",
-  "target": "JOLTEON",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
-  "manual_skip": true
+  "ignored": true,
+  "manual_skip": true,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1060": {
   "source": "The antennae have distinctive patterns\\nthat look like eyes. When it rains, they\\ngrow heavy, making flight impossible.",
@@ -95381,7 +95400,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790524782.0023348,
+  "updated": 1790524783.900242,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_600": {
