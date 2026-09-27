@@ -51970,7 +51970,10 @@
   "target": "Coś nowego pojawiło się na drugim\\npiętrze CENTER POKéMON, w\\lDIRECT CORNER.\\pZainstalowali maszynę scaloną z\\nWireless Adapter służącą do\\pmiażdżenia JAGÓD.\\pTu zaczyna się twoje zadanie.\\nMam do ciebie wielką przysługę,\\przecz o którą mogę prosić tylko\\nciebie.\\pCzy możesz robić dla mnie\\nPROSZEK tą maszyną?\\pNie zapomnij, znajduje się\\nw DIRECT CORNER w CENTRACH POKéMON.\\pJeśli będziesz mi przynosić\\nJAGODOWY PROSZEK, będę mógł ci robić leki. Nie zapomnij! Gnieć JAGODY na PROSZEK i przynoś go mi.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512734.876348,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_735": {
   "source": "MACHAMP",
