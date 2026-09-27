@@ -59795,7 +59795,10 @@
   "target": "Katalogujesz POKéMONY?\\nMuszę powiedzieć, że jestem\\ppod wrażeniem.\\nNigdy nie zbierałabym brzydkich POKéMONÓW.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512294.8979068,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_562": {
   "source": "RENTAL",
