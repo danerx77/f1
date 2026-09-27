@@ -60646,12 +60646,12 @@
  },
  "src.txt::src.txt_273": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\ncured its {B_BUFF1} problem!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_SCR_ACTIVE_ABILITY}\\nleczy problem: {B_BUFF1} !",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_SCR_ACTIVE_ABILITY}\\nleczy problem: {B_BUFF1} !",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518894.9260967,
+  "updated": 1790518934.941344,
   "touched": true
  },
  "datatext.txt::datatext.txt_824": {
