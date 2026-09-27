@@ -13675,12 +13675,12 @@
  },
  "src.txt::src.txt_2334": {
   "source": "DEL. ALL{CLEAR_TO 0x57}CANCEL{CLEAR_TO 0xA4}OK",
-  "target": "DEL. ALL{CLEAR_TO 0x57}ANULUJ{CLEAR_TO 0xA4}3OK17487",
+  "target": "DEL. ALL{CLEAR_TO 0x57}ANULUJ{CLEAR_TO 0xA4}3OK",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790524821.9995031,
+  "updated": 1790524827.5242865,
   "touched": true
  },
  "src.txt::src.txt_2962": {
@@ -17353,7 +17353,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790505758.6898332
+  "updated": 1790524832.6279337,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_26": {
   "source": "HEARING",
@@ -53737,7 +53738,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790506571.677423
+  "updated": 1790524859.308154,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1697": {
   "source": "ATSUSHI",
@@ -86723,7 +86725,10 @@
   "target": "Zapis zakończony.\\n“Wciśnij Przycisk A.”",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790524862.0044959,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_8": {
   "source": "CELADON CITY",
@@ -93954,7 +93959,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790506546.1616893
+  "updated": 1790524836.7327101,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2879": {
   "source": "Small trees can be chopped down\\nusing the move CUT.\\pBut remember this!\\nCUT is an HM technique.\\pOnce learned, it is not so easily\\ndiscarded.",
@@ -96204,12 +96210,13 @@
  },
  "src.txt::src.txt_2328": {
   "source": "WIRELESS COMMUNICATION",
-  "target": "Wireless Communication Status",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790506560.951553
+  "updated": 1790524849.0428762,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_638": {
   "source": "TM17",
