@@ -58114,10 +58114,13 @@
  },
  "datatext.txt::datatext.txt_1253": {
   "source": "I sensed your approach.",
-  "target": "Wyczułem twój powrót.",
+  "target": "Wyczułem to spotkanie.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518414.9270625,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_271": {
   "source": "POISON MOTH",
