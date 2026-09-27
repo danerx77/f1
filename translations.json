@@ -48669,10 +48669,13 @@
  },
  "data maps.txt::data maps.txt_1366": {
   "source": "No!",
-  "target": "Ej!",
+  "target": "CO!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514534.9016743,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2832": {
   "source": "<<< FILE: maps/SSAnne_1F_Room1/text.inc >>>",
@@ -86544,7 +86547,10 @@
   "target": "Jak możesz nie dostrzegać piękna\\nzła?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514517.9235575,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1927": {
   "source": "GRUNT",
