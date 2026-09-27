@@ -33119,10 +33119,13 @@
  },
  "data maps.txt::data maps.txt_182": {
   "source": "Oh!\\nSplendid!",
-  "target": "O!\\nWybornie!",
+  "target": "O! \\nWybornie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512414.891354,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3107": {
   "source": "If your POKéMON need to learn a\\nmove, I need a MUSHROOM or two.",
@@ -64802,7 +64805,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790512374.85977,
+  "updated": 1790512398.152565,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_85": {
