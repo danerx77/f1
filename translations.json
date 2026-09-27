@@ -60618,10 +60618,13 @@
  },
  "data maps.txt::data maps.txt_540": {
   "source": "A report with graphs and text is on\\nthe PC monitor.\\p“The Influence of Magnetic Waves\\non POKéMON Evolution”…\\p… … … … … …\\pIt's too difficult to understand…",
-  "target": "Na monitorze widnieje jakiś\\nraport z wykresami.\\p“Wpływ Fal Magnetycznych na\\nEwolucje POKéMONÓW”…\\p… … … … … …\\pJest zbyt skomplikowany, by go zrozumieć…",
+  "target": "Na monitorze widnieje jakiś\\nraport z wykresami.\\p“Wpływ Fal Magnetycznych na\\nEwolucje POKéMONÓW”…\\p… … … … … …\\pJest zbyt skomplikowany, by\\ngo zrozumieć…",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790513174.8636966,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_887": {
   "source": "SWINUB",
