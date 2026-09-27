@@ -81993,10 +81993,13 @@
  },
  "data maps.txt::data maps.txt_1009": {
   "source": "{RIVAL}: Heh, I don't need to be\\ngreedy like you. I'm mature!\\pGo ahead and choose, {PLAYER}!",
-  "target": "{RIVAL}: Heh, nie jestem taki\\nzachłanny jak ty.\\pJestem dojrzały! Idź coś wybrać, {PLAYER}!",
+  "target": "{RIVAL}: Heh, nie jestem taki\\nzachłanny jak ty.\\pJestem dojrzały!\\nIdź coś wybrać, {PLAYER}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790513974.8617845,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_167": {
   "source": "ICE PUNCH",
