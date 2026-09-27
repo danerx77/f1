@@ -41615,12 +41615,12 @@
  },
  "src.txt::src.txt_1147": {
   "source": "SIZE",
-  "target": "ROZM",
+  "target": "ROZMIAR",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362872.79405,
+  "updated": 1790519408.7831237,
   "touched": true
  },
  "data maps.txt::data maps.txt_2571": {
@@ -64649,12 +64649,12 @@
  },
  "src.txt::src.txt_1146": {
   "source": "AREA",
-  "target": "STR.",
+  "target": "TERENY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519374.9091392,
+  "updated": 1790519394.611201,
   "touched": true
  },
  "data maps.txt::data maps.txt_2707": {
@@ -69033,7 +69033,10 @@
   "target": "{NO}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519414.9092836,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_434": {
   "source": "FORGIVE",
