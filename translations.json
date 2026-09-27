@@ -2686,7 +2686,10 @@
   "target": "Zabrać POKÉMONOWI LIST?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519734.9171329,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_196": {
   "source": "SEA POSTER",
