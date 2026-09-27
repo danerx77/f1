@@ -26488,7 +26488,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790517774.8902645,
+  "updated": 1790517775.5984092,
   "touched": true
  },
  "src.txt::src.txt_681": {
@@ -28224,7 +28224,10 @@
   "target": "{PLAYER} znalazł\\n{STR_VAR_1}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517814.892461,
+  "touched": true
  },
  "datascript.txt::datascript.txt_100": {
   "source": "The sea is deep here. A POKéMON\\nmay be able to go underwater.",
