@@ -91405,10 +91405,13 @@
  },
  "datatext.txt::datatext.txt_19": {
   "source": "We can raise two of your POKéMON.\\pWould you like us to raise one\\nmore POKéMON for you?",
-  "target": "Możemy wytrenować dwa twoje\\pPOKéMONY.\\nChcesz wytrenować jeszcze jednego POKéMONA?",
+  "target": "Możemy wytrenować dwa twoje\\pPOKéMONY.\\nChcesz wytrenować jeszcze \\pjednego POKéMONA?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517374.91083,
+  "touched": true
  },
  "src.txt::src.txt_644": {
   "source": "PECHA",
