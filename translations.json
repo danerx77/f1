@@ -50872,12 +50872,12 @@
  },
  "data maps.txt::data maps.txt_1217": {
   "source": "Welcome to the POKéMON LEAGUE.\\pI am LORELEI of the ELITE FOUR.\\pNo one can best me when it comes\\nto icy POKéMON.\\pFreezing moves are powerful.\\pYour POKéMON will be at my mercy\\nwhen they are frozen solid.\\pHahaha!\\nAre you ready?{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
-  "target": "Witamy w LIDZE POKéMON!\\pNazywam się LORELEI z\\pELITARNEJ CZWÓRKI.\\nNikt nie pobije moich lodowych\\pPOKéMONÓW.\\pZmrażające ruchy są potężne.\\nTwoje POKéMONY będą błagać o litość,\\pgdy zrobię z nich kostki lodu.\\nChachacha! Gotowy?  {PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
+  "target": "Witamy w LIDZE POKéMON!\\pNazywam się LORELEI z\\pELITARNEJ CZWÓRKI.\\nNikt nie pobije moich lodowych\\pPOKéMONÓW.\\pZmrażające ruchy są potężne.\\nTwoje POKéMONY będą błagać o litość,\\pgdy zrobię z nich kostki lodu.\\nChachacha! Gotowy?{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790280170.8531828,
+  "updated": 1790514454.8907974,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_721": {
