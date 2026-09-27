@@ -20936,7 +20936,10 @@
   "target": "Gęsta mgła dymu\\nlub atramentu\\nzmniejsza celność\\nwroga.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790504326.3520217,
+  "touched": true
  },
  "src.txt::src.txt_1338": {
   "source": "PP was restored.{PAUSE_UNTIL_PRESS}",
@@ -31894,7 +31897,10 @@
   "target": "Użytkownik chowa\\nswoje ciało w twardej\\nskorupie zwiększając\\nOBRONĘ.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790504321.6690044,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_76": {
   "source": "FORGETS",
@@ -96268,7 +96274,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790504286.3310616,
+  "updated": 1790504320.7103703,
   "touched": true
  },
  "datatext.txt::datatext.txt_199": {
