@@ -88536,10 +88536,13 @@
  },
  "datatext.txt::datatext.txt_29": {
   "source": "If you want your {STR_VAR_1} back,\\nit will cost ¥{STR_VAR_2}.",
-  "target": "Jeśli chcesz odzyskać\\n{STR_VAR_1}musisz wpłacić ¥{STR_VAR_2}",
+  "target": "Jeśli chcesz odzyskać\\n{STR_VAR_1} musisz wpłacić\\p¥{STR_VAR_2}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517414.8998497,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1053": {
   "source": "If its two tail feathers are standing at\\nattention, it is proof of good health.\\nIt soars elegantly in the sky.",
