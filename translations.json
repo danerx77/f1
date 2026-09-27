@@ -21438,7 +21438,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362393.907784,
+  "updated": 1790505566.3905244,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1146": {
@@ -40097,12 +40097,12 @@
  },
  "src.txt::src.txt_1133": {
   "source": "{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}CANCEL",
-  "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON} OK {B_BUTTON}ANULUJ",
+  "target": "{DPAD_UPDOWN}RUSZ {A_BUTTON}OK {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790505526.3842857,
+  "updated": 1790505530.6135297,
   "touched": true
  },
  "data maps.txt::data maps.txt_1438": {
