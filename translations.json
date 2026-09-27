@@ -8645,7 +8645,10 @@
   "target": "Ewoluowanie POKéMONÓW z pewnością\\npomaga uzupełniać POKéDEX.\\pJednak czasami, możesz nie\\nchcieć, by któryś POKéMON\\pewoluował.\\nWtedy temu POKéMONOWI wręcza\\psię WIECZNY KAMIEŃ.\\nWedług PROFESORA, nie pozwoli mu na ewoluowanie.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514774.8623548,
+  "touched": true
  },
  "src.txt::src.txt_1177": {
   "source": "EXIT",
