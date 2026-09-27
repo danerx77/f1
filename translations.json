@@ -38819,7 +38819,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790515214.873794,
+  "updated": 1790515215.4469066,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1287": {
@@ -57581,7 +57581,10 @@
   "target": "Świetnie! Złapałeś już\\n{STR_VAR_3} gatunków POKéMONÓW!\\pGratuluję!\\nProszę bardzo!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515254.8990612,
+  "touched": true
  },
  "src.txt::src.txt_1211": {
   "source": "OPTION",
