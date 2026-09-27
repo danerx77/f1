@@ -24968,7 +24968,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790503127.1656344,
+  "updated": 1790503129.250304,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_944": {
@@ -61827,7 +61827,10 @@
   "target": "LEMONADE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790503165.5770473,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_216": {
   "source": "SINGLE HORN",
