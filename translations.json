@@ -98702,7 +98702,10 @@
   "target": "Zwykły składak to nie dla mnie.\\nPrzecież nie pakuje się koszyka z\\pzakupami na rower górski.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512694.8890765,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_332": {
   "source": "?????",
