@@ -13216,7 +13216,10 @@
   "target": "Mamy nadzieję, że w trakcie\\npodróży nawiążesz kontakty z nowymi\\nprzyjaciółmi, a na twej twarzy pojawi\\nsię uśmiech.\\n\\nTo nasz główny cel.\\nNaciśnij A, a rozpocznie się twoja wielka przygoda!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517654.8788722,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1033": {
   "source": "{PLAYER} delivered OAK'S PARCEL.",
