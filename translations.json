@@ -2263,10 +2263,13 @@
  },
  "data maps.txt::data maps.txt_1867": {
   "source": "You want to know if the fish are\\nbiting?",
-  "target": "Czy chcesz wiedzieć, czy ryby\\ngryzą?",
+  "target": "Chcesz wiedzieć, czy łapią\\nryby?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515494.8995502,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_139": {
   "source": "BRICK CHAIR",
