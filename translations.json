@@ -9782,10 +9782,13 @@
  },
  "data maps.txt::data maps.txt_1589": {
   "source": "I always go with bird POKéMON.\\nI've dedicated myself to them.",
-  "target": "Zawsze chodzę z ptakami POKéMON.\\nPoświęciłem się im.",
+  "target": "Zawsze chodzę z POKéMONAMI ptakami.\\nPoświęciłem się dla nich.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515134.8970597,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1103": {
   "source": "My cutely grown POKéMON wish to\\nbecome reacquainted with you.",
