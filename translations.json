@@ -6441,10 +6441,13 @@
  },
  "datatext.txt::datatext.txt_1213": {
   "source": "You know, everything tastes great\\nwhen you're out in the wild.",
-  "target": "Wiesz, wszystko smakuje świetnie,\\nkiedy jesteś na wolności.",
+  "target": "Wiesz, wszystko smakuje świetnie,\\ngdy głodujesz w dziczy.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518374.9020953,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_331": {
   "source": "HALL OF FAME",
@@ -76846,10 +76849,13 @@
  },
  "datatext.txt::datatext.txt_1197": {
   "source": "I saw your feat from the grass!",
-  "target": "Widziałem twój wyczyn z trawy!",
+  "target": "Widziałem twój tułów w trawie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518347.359413,
+  "touched": true
  },
  "src.txt::src.txt_1036": {
   "source": "A rapid jolt of\\nelectricity strikes\\nthe foe. It can't\\nbe evaded.",
