@@ -13978,7 +13978,10 @@
   "status": "new",
   "notes": "",
   "ignored": true,
-  "manual_skip": true
+  "manual_skip": true,
+  "translator": "Antrix",
+  "updated": 1790519230.9489589,
+  "touched": true
  },
  "datatext.txt::datatext.txt_540": {
   "source": "  Using “SUMMARY”",
