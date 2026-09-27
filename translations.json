@@ -52917,12 +52917,12 @@
  },
  "data maps.txt::data maps.txt_1204": {
   "source": "Why?\\nWhy did I lose?\\pI never made any mistakes raising\\nmy POKéMON…\\pDarn it! You're the new POKéMON\\nLEAGUE CHAMPION!\\pAlthough I don't like to admit it…",
-  "target": "Co?\\nDlaczego przegrałem?\\pNigdy nie popełniałem błędów\\nw treningu…\\pCholera! Jesteś nowym MISTRZEM\\nLIGI POKéMON!\\pChociaż, niechętnie muszę to przyznać…",
+  "target": "Co?\\nDlaczego przegrałem?\\pNigdy nie popełniałem błędów\\nw treningu…\\pCholera! Jesteś nowym MISTRZEM\\nLIGI POKéMON!\\pChociaż, niechętnie muszę\\nto przyznać…",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790514374.893308,
+  "updated": 1790514414.9108284,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_528": {
