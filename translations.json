@@ -32336,10 +32336,13 @@
  },
  "data maps.txt::data maps.txt_2381": {
   "source": "Oh, my goodness!\\nIf it isn't {PLAYER}!\\pIt's so disappointing… I realized\\nI'm your number-one-and-only fan!\\pWell, it can't be helped!\\nLet me cheer you on, at least!\\pHurray, hurray, {PLAYER}!",
-  "target": "Ja nie mogę!\\nCzyż to nie {PLAYER}!\\pZawodzisz mnie… Zdałem sobie sprawę\\nz tego, że jestem twoim jedynym\\pfanem.\\nNic na to nie poradzę!\\pPozwól, że chociaż cię pocieszę!Hip hip hura, {PLAYER}!",
+  "target": "Ja nie mogę!\\nCzyż to nie {PLAYER}!\\pZawodzisz mnie… Zdałem sobie sprawę\\nz tego, że jestem twoim jedynym\\pfanem.\\nNic na to nie poradzę!\\pPozwól, że chociaż cię pocieszę!\\nHip hip hura, {PLAYER}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515934.9175065,
+  "touched": true
  },
  "src.txt::src.txt_1697": {
   "source": "SAVANNA",
