@@ -67425,7 +67425,10 @@
   "target": "Stajesz się głównym bohaterem,\\nzwiedzającym świat POKéMONÓW.\\lRozmawiając z ludźmi i rozwiązując\\lzagadki, nowe ścieżki otwierają się.  \\lDąż do celu wraz ze swoimi cudownymi\\lPOKéMONAMI.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517494.9110067,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_549": {
   "source": "It is hard for it to support its own\\nweight out of water, so it gets down on\\nall fours. But it moves fast.",
