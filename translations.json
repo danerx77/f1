@@ -63646,7 +63646,10 @@
   "target": "Wiesz, wszystko smakuje świetnie,\\nkiedy jesteś na wolności.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790513694.8612058,
+  "touched": true
  },
  "src.txt::src.txt_2337": {
   "source": "RATICATE",
