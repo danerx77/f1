@@ -12143,9 +12143,10 @@
  "data maps.txt::data maps.txt_1428": {
   "source": "Ha-hahah-ah-ha!",
   "target": "",
-  "status": "translated",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true
  },
  "src.txt::src.txt_1798": {
   "source": "なにも かわらなかった!",
@@ -45731,7 +45732,10 @@
   "target": "Świetnie! Złapałeś już\\n{STR_VAR_3} gatunków POKéMONÓW!\\pGratuluję!\\nProszę bardzo!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514605.9540367,
+  "touched": true
  },
  "datatext.txt::datatext.txt_986": {
   "source": "セーブに　しっぱい　しました‥",
