@@ -63192,12 +63192,12 @@
  },
  "data maps.txt::data maps.txt_2437": {
   "source": "I work to protect the environment.\\nIn turn, nature protects me!",
-  "target": "Pracuję dla ochrony środowiska.\\nW zamian, natura chroni i mnie!",
+  "target": "Pracuję dla ochrony środowiska.\\nW zamian natura chroni i mnie!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790516054.8769984,
+  "updated": 1790516066.344223,
   "touched": true
  },
  "data maps.txt::data maps.txt_1869": {
@@ -88558,10 +88558,13 @@
  },
  "data maps.txt::data maps.txt_2475": {
   "source": "EVE: I want to team up with JON\\nwhen I battle you.\\pCome back with two POKéMON, okay?",
-  "target": "EVE: Chcę walczyć razem z JONEM,\\nnigdy sama.\\pWróć z dwoma POKéMONAMI, dobrze?",
+  "target": "EVE: Chcę walczyć razem z JONEM,\\nnigdy sama.\\pWróć z dwoma POKéMONAMI,\\ndobrze?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516094.877869,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1377": {
   "source": "Outsiders like you need to show me\\nsome respect!",
