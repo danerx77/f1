@@ -45729,12 +45729,12 @@
  },
  "data maps.txt::data maps.txt_1451": {
   "source": "Great! You have caught or owned\\n{STR_VAR_3} kinds of POKéMON!\\pCongratulations!\\nHere you go!",
-  "target": "Świetnie! Złapałeś już\\n{STR_VAR_3} gatunków POKéMONÓW!\\pGratuluję!\\nProszę bardzo!",
+  "target": "Świetnie!\\nZłapałeś już\\n{STR_VAR_3} gatunków POKéMONÓW!\\pGratulacje!\\nOto obiecany przedmiot!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790514654.8869085,
+  "updated": 1790514694.8641434,
   "touched": true
  },
  "datatext.txt::datatext.txt_986": {
@@ -48881,7 +48881,10 @@
   "target": "{PLAYER} dostaje WIECZNY KAMIEŃ\\nod POMOCNIKA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514657.9613855,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1832": {
   "source": "DIGLETT'S CAVE",
