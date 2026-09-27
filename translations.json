@@ -55537,10 +55537,13 @@
  },
  "datatext.txt::datatext.txt_1262": {
   "source": "It doesn't matter if you happen to\\nhave the strongest POKéMON…\\pIt doesn't mean a thing if you don't\\nknow how to use them properly!",
-  "target": "To nie ma znaczenia, czy masz\\nnajsilniejsze POKéMONY…\\pTo nie ma znaczenia, jeśli nie wiesz,\\njak z nich korzystać poprawnie!",
+  "target": "Nie ważne, czy masz najsilniejsze\\nPOKéMONY…\\pTo nie ma najmniejszego znaczenia,\\njeśli nie wiesz, jak powinno się ich\\pużywać!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518431.1564152,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_9": {
   "source": "A huge desk made\\nof logs. Put lots of\\ndecorations on it.",
@@ -84693,7 +84696,10 @@
   "target": "Twoje POKéMONY zostały w\\npełni wyleczone.\\pJeśli HP twoich POKéMONÓW spadnie\\nponownie, odwiedź nas znowu.\\pJeśli planujesz daleką podróż,\\ndobrze jest kupić MIKSTURY w\\lPOKéMON MART.\\pMamy nadzieję, że sobie poradzisz!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518454.9138079,
+  "touched": true
  },
  "src.txt::src.txt_1666": {
   "source": "GIVE to a POKéMON?",
