@@ -38758,10 +38758,13 @@
  },
  "data maps.txt::data maps.txt_1540": {
   "source": "Oh…\\nThat's so disappointing…",
-  "target": "Och…\\nZawodzisz mnie…",
+  "target": "Och…\\nZawiodłeś mnie…",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516934.924313,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1061": {
   "source": "????????",
@@ -40407,12 +40410,12 @@
  },
  "data maps.txt::data maps.txt_660": {
   "source": "Grand! I like your style.\\nI think we can be friends.\\pTake this and fish, young friend!",
-  "target": "Świetnie! Podoba mi się twój styl.\\nZostańmy kumplami.\\pWeź to i łów, przyjacielu!",
+  "target": "Słodko! Podoba mi się twój styl.\\nBędziemy kumplami.\\pWeź to i wędkuj, mały przyjacielu!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790516894.9004633,
+  "updated": 1790516899.2858353,
   "touched": true
  },
  "src.txt::src.txt_2062": {
