@@ -4058,10 +4058,13 @@
  },
  "data maps.txt::data maps.txt_1852": {
   "source": "I rode my bird POKéMON here.",
-  "target": "Przyleciałem tutaj na ptaku.",
+  "target": "Jestem tu z moimi POKéMONAMI.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515374.8720741,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_411": {
   "source": "DONE",
