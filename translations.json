@@ -38814,10 +38814,13 @@
  },
  "data maps.txt::data maps.txt_1716": {
   "source": "{PLAYER} received HM02\\nfrom the girl.",
-  "target": "{PLAYER} dostaje HM02\\nod dziewczyny.",
+  "target": "{PLAYER} dostaje HM02\\nod małej dziewczynki.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515214.873794,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1287": {
   "source": "TM01",
