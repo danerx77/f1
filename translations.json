@@ -52920,7 +52920,10 @@
   "target": "Co?\\nDlaczego przegrałem?\\pNigdy nie popełniałem błędów\\nw treningu…\\pCholera! Jesteś nowym MISTRZEM\\nLIGI POKéMON!\\pChociaż, niechętnie muszę to przyznać…",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514374.893308,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_528": {
   "source": "GROUP",
