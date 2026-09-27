@@ -36586,10 +36586,13 @@
  },
  "datatext.txt::datatext.txt_869": {
   "source": "{PLAYER} found\\n{STR_VAR_1} {STR_VAR_2}(s)!",
-  "target": "{PLAYER} znajduje\\n{STR_VAR_1} {STR_VAR_2}",
+  "target": "{PLAYER} znajduje\\n{STR_VAR_1} {STR_VAR_2}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517894.8786614,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_408": {
   "source": "It spreads its gorgeous wings widely to\\nintimidate enemies. It races through the\\nskies at Mach-2 speed.",
