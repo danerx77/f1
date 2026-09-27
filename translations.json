@@ -82070,10 +82070,13 @@
  },
  "datatext.txt::datatext.txt_467": {
   "source": "There could be something in the town\\nor inside a building that is the cause.\\lTry talking to the people in the area\\lagain. If there is a problem that they\\lneed solved, you may have to help.\\lAfterwards, try talking to the person\\lblocking your way again.",
-  "target": "Może przyczyną jest coś w mieście\\nlub budynku.\\lSpróbuj porozmawiać jeszcze raz z\\lludźmi na tym obszarze.\\lJeżeli mają problem, który trzeba\\lrozwiązać, być może będziesz musiał\\lpomóc.Następnie, spróbuj podejść jeszcze raz do osoby blokującą drogę.",
+  "target": "Może przyczyną jest coś w mieście\\nlub budynku.\\lSpróbuj porozmawiać jeszcze raz z\\lludźmi na tym obszarze.\\lJeżeli mają problem, który trzeba\\lrozwiązać, być może będziesz musiał\\lpomóc.\\lNastępnie, spróbuj podejść jeszcze raz do \\losoby blokującą drogę.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517534.8889918,
+  "touched": true
  },
  "src.txt::src.txt_2361": {
   "source": "ALAKAZAM",
