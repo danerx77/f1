@@ -7467,7 +7467,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362218.3253186,
+  "updated": 1790506602.680828,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_114": {
@@ -36995,7 +36995,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362287.1686752,
+  "updated": 1790506571.677423,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_22": {
@@ -61010,7 +61010,10 @@
   "target": "{DPAD_ANY}WYBIERZ {A_BUTTON}CZYTAJ {B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506606.4207926,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1029": {
   "source": "MAGOST BERRY",
@@ -70032,7 +70035,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362231.8081048,
+  "updated": 1790506604.0070474,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_412": {
@@ -70322,7 +70325,10 @@
   "target": "FUJI",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506592.4355505,
+  "touched": true
  },
  "src.txt::src.txt_17": {
   "source": "GRASS",
