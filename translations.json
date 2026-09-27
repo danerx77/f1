@@ -8679,10 +8679,13 @@
  },
  "src.txt::src.txt_1177": {
   "source": "EXIT",
-  "target": "WRÓĆ",
+  "target": "ZAMKNIJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519494.9038842,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_164": {
   "source": "LONG BODY",
@@ -84846,7 +84849,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790505796.570962,
+  "updated": 1790519467.1841037,
   "touched": true
  },
  "data maps.txt::data maps.txt_2190": {
@@ -97845,7 +97848,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519454.9107082,
+  "updated": 1790519460.197103,
   "touched": true
  },
  "src.txt::src.txt_1205": {
