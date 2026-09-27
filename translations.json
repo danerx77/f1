@@ -47923,10 +47923,13 @@
  },
  "src.txt::src.txt_426": {
   "source": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\\nused {B_LAST_ITEM}!",
-  "target": "{B_TRAINER1_CLASS} użył {B_TRAINER1_NAME}!",
+  "target": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\\nużył {B_LAST_ITEM}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519045.8311107,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1691": {
   "source": "Come out and play, little mouse!",
@@ -64645,10 +64648,13 @@
  },
  "src.txt::src.txt_423": {
   "source": "{B_PLAYER_NAME} used\\n{B_LAST_ITEM}!",
-  "target": "{B_PLAYER_NAME} użył {B_LAST_ITEM}!",
+  "target": "{B_PLAYER_NAME} użył\\n{B_LAST_ITEM}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519054.9494624,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_352": {
   "source": "FULL RESTORE",
