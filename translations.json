@@ -39302,7 +39302,10 @@
   "target": "Wrogi",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519100.5930376,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2610": {
   "source": "Oh dear, oh dear.\\nHelp me, please!",
@@ -74032,10 +74035,13 @@
  },
  "src.txt::src.txt_401": {
   "source": "Ally",
-  "target": "Nasz",
+  "target": "Twój ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519104.0290673,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1302": {
   "source": "I fell to evil spirits despite my\\ntraining in the mountains…",
@@ -89282,7 +89288,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519094.9124024,
+  "updated": 1790519098.1424007,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1814": {
@@ -93612,10 +93618,13 @@
  },
  "src.txt::src.txt_403": {
   "source": "Ally",
-  "target": "Nasz",
+  "target": "Twój ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519134.9254746,
+  "touched": true
  },
  "src.txt::src.txt_1876": {
   "source": "{DPAD_LEFTRIGHT}PAGE",
