@@ -37566,12 +37566,12 @@
  },
  "data maps.txt::data maps.txt_1481": {
   "source": "Well, better get back to work.",
-  "target": "No to lepiej wracać do pracy.",
+  "target": "Cóż, lepiej wrócę do pracy.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790514854.863693,
+  "updated": 1790514871.0798383,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_483": {
@@ -71448,10 +71448,13 @@
  },
  "data maps.txt::data maps.txt_1492": {
   "source": "Great! You have caught or owned\\n{STR_VAR_3} kinds of POKéMON!\\pCongratulations!\\nHere you go!",
-  "target": "Świetnie! Złapałeś już\\n{STR_VAR_3} gatunków POKéMONÓW!\\pGratuluję!\\nProszę bardzo!",
+  "target": "Świetnie!\\nZłapałeś już\\n{STR_VAR_3} gatunków POKéMONÓW!\\pGratulacje!\\nOto obiecany przedmiot!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514894.9282172,
+  "touched": true
  },
  "datatext.txt::datatext.txt_280": {
   "source": "MISTY",
@@ -78867,7 +78870,10 @@
   "target": "Ostrożnie trenowałem POKéMONY.\\nPowinny już być gotowe!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514866.4885478,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2037": {
   "source": "JAXON",
