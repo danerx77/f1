@@ -4666,10 +4666,11 @@
  },
  "src.txt::src.txt_2286": {
   "source": "Communication error.",
-  "target": "Communication error…",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_911": {
   "source": "????????",
@@ -12558,7 +12559,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790506604.0070474
+  "updated": 1790524887.8379948,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1894": {
   "source": "Oh wait!\\nI got a bite! Yeah!",
@@ -40920,7 +40922,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790506602.680828
+  "updated": 1790524892.7429278,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_613": {
   "source": "It instinctively sneaks into rocky holes.\\nIf it gets sleepy, it steals the nest of a\\nfellow OCTILLERY.",
@@ -63041,7 +63044,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790506607.9496913
+  "updated": 1790524882.1169481,
+  "touched": true
  },
  "src.txt::src.txt_552": {
   "source": "Player lost against\\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!",
@@ -86727,7 +86731,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790524862.0044959,
+  "updated": 1790524862.0439365,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_8": {
