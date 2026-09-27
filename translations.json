@@ -81688,10 +81688,13 @@
  },
  "data maps.txt::data maps.txt_1657": {
   "source": "Fork over all your cash when you\\nlose to me, kid!",
-  "target": "Zabiorę całą twoją gotówkę, gdy\\nprzegrasz, mały!",
+  "target": "Oddasz mi wszystkie pieniądze,\\njeśli przegrasz!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515174.8936698,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2718": {
   "source": "Are you headed for the island up\\npast here?\\pI didn't see anything interesting\\nthere.",
