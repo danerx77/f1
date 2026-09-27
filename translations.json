@@ -84693,12 +84693,12 @@
  },
  "datatext.txt::datatext.txt_1275": {
   "source": "Your POKéMON have been healed\\nto perfect health.\\pIf your POKéMON's energy, HP,\\nis down, please come see us.\\pIf you're planning to go far in the\\nfield, you should buy some POTIONS\\lat the POKéMON MART.\\pWe hope you excel!",
-  "target": "Twoje POKéMONY zostały w\\npełni wyleczone.\\pJeśli HP twoich POKéMONÓW spadnie\\nponownie, odwiedź nas znowu.\\pJeśli planujesz daleką podróż,\\ndobrze jest kupić MIKSTURY w\\lPOKéMON MART.\\pMamy nadzieję, że sobie poradzisz!",
+  "target": "Twoje POKéMONY zostały w\\npełni wyleczone.\\pJeśli HP twoich POKéMONÓW spadnie\\nponownie, odwiedź nas znowu.\\pJeśli planujesz daleką podróż,\\ndobrze jest kupić MIKSTURY w\\lPOKéMON MART.\\pMamy nadzieję, że\\nsobie poradzisz!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518454.9138079,
+  "updated": 1790518494.919333,
   "touched": true
  },
  "src.txt::src.txt_1666": {
