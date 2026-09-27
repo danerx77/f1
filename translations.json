@@ -33416,10 +33416,13 @@
  },
  "data maps.txt::data maps.txt_3226": {
   "source": "I chair the POKéMON Fan Club!\\pI raise more than a hundred\\nPOKéMON!\\pI'm very fussy when it comes to\\nPOKéMON! I surely am!\\pSo…\\pDid you come visit to hear about\\nmy POKéMON?",
-  "target": "Jestem przewodniczącym\\pFanklubu POKéMON!\\nWychowałem ponad 100\\pPOKéMONÓW!\\nJestem wybredny wybierając\\pPOKéMONY!\\pWięc…\\nPrzyszedłeś posłuchać o moich POKéMONACH?",
+  "target": "Jestem przewodniczącym\\pFanklubu POKéMON!\\nWychowałem ponad 100\\pPOKéMONÓW!\\nJestem wybredny wybierając\\pPOKéMONY!\\pWięc…\\nPrzyszedłeś posłuchać o \\nmoich POKéMONACH?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517014.8770509,
+  "touched": true
  },
  "src.txt::src.txt_857": {
   "source": "The user makes a\\nfiery charge at the\\nfoe. It may cause\\na burn.",
@@ -92893,12 +92896,12 @@
  },
  "data maps.txt::data maps.txt_3210": {
   "source": "There are wicked people who will\\nuse POKéMON for criminal acts.\\pTEAM ROCKET traffics in rare\\nPOKéMON, for example.\\pThey also abandon POKéMON that\\nthey consider unpopular or useless.\\pThat's the sort of horrid people\\nthey are, TEAM ROCKET.",
-  "target": "Są szaleńcy, którzy używają\\nPOKéMONÓW do dokonywania\\pprzestępstw.\\nZESPÓŁ R, na przykład, handluje\\przadkimi POKéMONAMI.\\nWyrzucają też POKéMONY, które\\puznają za niepopularne lub\\nbezużyteczne. Takimi właśnie potworami jest cały ZESPÓŁ R.",
+  "target": "Są szaleńcy, którzy używają\\nPOKéMONÓW do dokonywania\\pprzestępstw.\\nZESPÓŁ R, na przykład, handluje\\przadkimi POKéMONAMI.\\nWyrzucają też POKéMONY, które\\puznają za niepopularne lub\\nbezużyteczne. \\pTakimi właśnie potworami\\njest cały ZESPÓŁ R.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790516974.9008296,
+  "updated": 1790516980.2739863,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1006": {
