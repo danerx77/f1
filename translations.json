@@ -58381,10 +58381,13 @@
  },
  "datatext.txt::datatext.txt_7": {
   "source": "Ah, it's you!\\pWe were raising your POKéMON, and\\nmy goodness, were we surprised!\\pYour POKéMON had an EGG!\\pWe don't know how it got there,\\nbut your POKéMON had it.\\pYou do want it, yes?",
-  "target": "Ach, to ty!\\pTrenowaliśmy twoje POKéMONY, a tu\\nnagle, zaskoczenie!\\pJeden z twoich POKéMONÓW\\pwysiadywał JAJO!\\nNie wiemy skąd się tu wzięło,\\pale miał je twój POKéMON. Chcesz je, prawda?",
+  "target": "Ach, to ty!\\pTrenowaliśmy twoje POKéMONY, a tu\\nnagle, zaskoczenie!\\pJeden z twoich POKéMONÓW\\pwysiadywał JAJO!\\nNie wiemy skąd się tu wzięło,\\pale miał je twój POKéMON. \\nChcesz je, prawda?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517334.9319396,
+  "touched": true
  },
  "src.txt::src.txt_655": {
   "source": "AGUAV",
@@ -93478,10 +93481,13 @@
  },
  "datatext.txt::datatext.txt_6": {
   "source": "I'm the DAY-CARE MAN.\\pI help take care of the precious\\nPOKéMON of TRAINERS.\\pIf you'd like me to raise your\\nPOKéMON, have a word with my wife.",
-  "target": "Jestem OPIEKUNEM.\\pPomagam zająć się cennymi POKéMONAMI\\nich TRENEROM.\\pJeśli chcesz, bym wytrenował\\ntwoje POKéMONY, zamień słówko z moją żoną.",
+  "target": "Jestem OPIEKUNEM.\\pPomagam zająć się cennymi POKéMONAMI\\nich TRENEROM.\\pJeśli chcesz, bym wytrenował\\ntwoje POKéMONY, zamień słówko z \\pmoją żoną.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517311.431206,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_214": {
   "source": "UNAVOIDABLE",
