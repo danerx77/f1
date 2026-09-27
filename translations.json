@@ -69143,7 +69143,10 @@
   "target": "Hej!\\nMistrzuniu!\\pPOR. SURGE ma pewną ksywę.\\pLudzie zwracają się do niego\\nper Elektryczny Amerykaninie!\\pJest ekspertem co do elektrycznych\\nPOKéMONÓW.\\pPTAKI/WODNE POKéMONY się tu nie\\nsprawdzą.\\pUważaj też na paraliż.\\pPOR. SURGE jest strasznie\\pprzezorny.\\nZamknął się, więc ciężko będzie ci się do niego dostać.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516854.875822,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_815": {
   "source": "????????",
@@ -74204,12 +74207,12 @@
  },
  "data maps.txt::data maps.txt_3163": {
   "source": "Oh, hello, {PLAYER}!\\nHow are you doing?\\pIt's me, one of PROF. OAK's AIDES.\\pDid you meet the other AIDE?\\pHe had a package from PROF. OAK\\nfor you, {PLAYER}.\\pHe said he'd look for you around\\nROUTE 2, {PLAYER}.\\pIf you're in the ROUTE 2 area,\\nplease look for him.",
-  "target": "Och, witaj, {PLAYER}!\\nJak leci?\\pTo ja, jeden z POMOCNIKÓW PROF.\\pOAKA.\\pCzy spotkałeś innego POMOCNIKA?\\nMiał dla ciebie paczkę od\\pPROFESORA OAKA, {PLAYER}.\\nPowiedział, że szuka cię przy\\pDRODZE 2, {PLAYER}.\\nZnajdź go, jeśli będziesz gdzieś przy DRODZE 2.",
+  "target": "Och, witaj, {PLAYER}!\\nJak leci?\\pTo ja, jeden z POMOCNIKÓW PROF.\\pOAKA.\\pCzy spotkałeś innego POMOCNIKA?\\nMiał dla ciebie paczkę od\\pPROFESORA OAKA, {PLAYER}.\\nPowiedział, że szuka cię przy\\pDRODZE 2, {PLAYER}.\\nZnajdź go, jeśli będziesz gdzieś \\pprzy DRODZE 2.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790516814.9153268,
+  "updated": 1790516822.716223,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_531": {
