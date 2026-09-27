@@ -13974,13 +13974,13 @@
  },
  "src.txt::src.txt_2335": {
   "source": "$$$$$$$$$$",
-  "target": "",
-  "status": "new",
+  "target": "$$$$$$$$$$",
+  "status": "draft",
   "notes": "",
   "ignored": true,
   "manual_skip": true,
   "translator": "Antrix",
-  "updated": 1790519230.9489589,
+  "updated": 1790519294.953739,
   "touched": true
  },
  "datatext.txt::datatext.txt_540": {
