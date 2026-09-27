@@ -97201,10 +97201,13 @@
  },
  "datascript.txt::datascript.txt_114": {
   "source": "Hi!\\nWe meet again!",
-  "target": "Witaj\\nponownie!",
+  "target": "Witaj ponownie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517294.8776028,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2509": {
   "source": "Somewhere on this island, peculiar\\nPOKéMON are sleeping.\\pCould it be that they're waiting\\nfor you?",
