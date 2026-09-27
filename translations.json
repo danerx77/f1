@@ -10722,7 +10722,10 @@
   "target": "TRYB TYPU",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505523.9885843,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_602": {
   "source": "{STR_VAR_1} used the Hidden Move\\nFLY and flew to {STR_VAR_2}.",
@@ -10789,7 +10792,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362800.6240625,
+  "updated": 1790505500.4493184,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_524": {
@@ -15853,7 +15856,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362821.9737628,
+  "updated": 1790505511.0086944,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_336": {
@@ -23255,7 +23258,10 @@
   "target": "{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}INNE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505518.916306,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1840": {
   "source": "IRENE",
@@ -25540,7 +25546,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362774.482959,
+  "updated": 1790505490.8745513,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1174": {
@@ -28228,7 +28234,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362783.5221488,
+  "updated": 1790505499.0524619,
   "touched": true
  },
  "src.txt::src.txt_1418": {
@@ -31558,7 +31564,10 @@
   "target": "POKéDEX   SPIS TREŚCI",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505502.8665404,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_121": {
   "source": "A large doll.\\nPlace it on a mat\\nor a desk.",
@@ -31686,7 +31695,10 @@
   "target": "DZIEWCZYNKA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505501.857434,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_32": {
   "source": "MAKE",
@@ -35954,7 +35966,10 @@
   "target": "CHŁOPIEC",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505501.490299,
+  "touched": true
  },
  "src.txt::src.txt_1241": {
   "source": "わざマシンを きどうした!",
@@ -40087,7 +40102,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362403.5935657,
+  "updated": 1790505526.3842857,
   "touched": true
  },
  "data maps.txt::data maps.txt_1438": {
@@ -41332,7 +41347,10 @@
   "target": "{A_BUTTON}DALEJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505489.0253463,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1416": {
   "source": "A set of false teeth lost by the\\\\nSAFARI ZONE'S WARDEN. It makes his\\\\nsmile sparkle.",
@@ -49560,7 +49578,10 @@
   "target": "Posiadane:",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505508.0080938,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1794": {
   "source": "Wait! Slow down!\\nYou'll have a heart attack!",
@@ -63268,7 +63289,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362780.0745394,
+  "updated": 1790505496.5455832,
   "touched": true
  },
  "src.txt::src.txt_1158": {
@@ -65840,7 +65861,10 @@
   "target": "Widziany:",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505506.6111422,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2933": {
   "source": "Urf… I feel ill…\\pI got seasick, so I stepped out to\\nget some air…",
@@ -68318,7 +68342,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362808.7155879,
+  "updated": 1790505505.140891,
   "touched": true
  },
  "src.txt::src.txt_1415": {
@@ -73153,7 +73177,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362822.386216,
+  "updated": 1790505514.099742,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_755": {
@@ -74669,7 +74693,10 @@
   "target": "ZAMKNIJ POKéDEX",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505520.8585234,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1230": {
   "source": "A case for holding COINS obtained\\\\nat the GAME CORNER.\\\\nIt holds up to 9,999 COINS.",
@@ -78113,7 +78140,10 @@
   "target": "KANTO",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505508.2663765,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1574": {
   "source": "OLIVER",
@@ -85376,7 +85406,10 @@
   "target": "NARODOWY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505508.5513353,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3036": {
   "source": "Me?\\nI'm not LOSTELLE.\\pShe's probably gone to the\\nBERRY FOREST, I think.\\pShe picks BERRIES there for making\\nlunch.",
