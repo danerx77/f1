@@ -80574,10 +80574,13 @@
  },
  "data maps.txt::data maps.txt_2525": {
   "source": "PRESIDENT: Oh, dear boy!\\nThank you for saving SILPH.\\pI will never forget you saved us in\\nour moment of peril.\\pI have to thank you in some way.\\pBecause I am rich, I can give you\\nanything.\\pHere, maybe this will do.",
-  "target": "PREZES: Och, drogi chłopcze!\\nDziękuję za ocalenie SILPH.\\pNigdy nie zapomnę tego, co dla\\nnas zrobiłeś!\\pMyślę, że powinienem ci za\\pto podziękować.\\nJestem bogaty, więc mogę dać\\pci wszystko.Ale może to ci wystarczy.",
+  "target": "PREZES: Och, drogi chłopcze!\\nDziękuję za ocalenie SILPH.\\pNigdy nie zapomnę tego, co dla\\nnas zrobiłeś!\\pMyślę, że powinienem ci za\\pto podziękować.\\nJestem bogaty, więc mogę dać\\pci wszystko.\\nAle może to ci wystarczy.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516174.87519,
+  "touched": true
  },
  "src.txt::src.txt_2358": {
   "source": "RAPIDASH",
