@@ -6229,7 +6229,10 @@
   "target": "KLUCZOWE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505805.6909635,
+  "touched": true
  },
  "src.txt::src.txt_1899": {
   "source": "Waiting for the other TRAINER to\\nfinish reading your TRAINER CARD.",
@@ -22843,7 +22846,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790368415.6849084,
+  "updated": 1790505793.0336351,
   "touched": true
  },
  "src.txt::src.txt_1538": {
@@ -28072,7 +28075,10 @@
   "target": "RZECZ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505802.6575682,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_56": {
   "source": "POWER PLANT",
@@ -36479,7 +36485,10 @@
   "target": "{STR_VAR_1} ŻETON",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505802.0656226,
+  "touched": true
  },
  "datatext.txt::datatext.txt_563": {
   "source": "{CIRCLE_1} Select “{PLAYER}” on the MENU.\\n{CIRCLE_2} Your TRAINER CARD is displayed face\\n   up with basic information. Press the\\n   A Button to turn the CARD over.\\n{CIRCLE_3} A variety of data can be found on\\n   the reverse side of the CARD.",
@@ -39197,7 +39206,10 @@
   "target": "?????",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505790.8578157,
+  "touched": true
  },
  "data maps.txt::data maps.txt_179": {
   "source": "Oh!\\nYou!",
@@ -51310,7 +51322,10 @@
   "target": "DEPONUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505806.0420096,
+  "touched": true
  },
  "src.txt::src.txt_1581": {
   "source": "BECOME LEADER",
@@ -61927,7 +61942,10 @@
   "target": "POKé BALLE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505802.961629,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1206": {
   "source": "OAK: So, you've won!\\nSincerely, congratulations!\\pYou're the new POKéMON LEAGUE\\nCHAMPION!\\pYou've grown up so much since you\\nfirst left with {STR_VAR_1} to work\\lon the POKéDEX.\\p{PLAYER}, you have come of age!",
@@ -66542,7 +66560,10 @@
   "target": "×{STR_VAR_1}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505794.9302564,
+  "touched": true
  },
  "datatext.txt::datatext.txt_292": {
   "source": "ERIKA",
@@ -84308,7 +84329,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363141.5132055,
+  "updated": 1790505796.570962,
   "touched": true
  },
  "data maps.txt::data maps.txt_2190": {
@@ -92593,7 +92614,10 @@
   "target": "ZAMKNIJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505806.3888898,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_862": {
   "source": "QUAGSIRE",
@@ -95528,7 +95552,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790505766.4218082,
+  "updated": 1790505768.925424,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_660": {
@@ -97203,7 +97227,10 @@
   "target": "ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505777.088344,
+  "touched": true
  },
  "src.txt::src.txt_1205": {
   "source": "What would you like to do?",
