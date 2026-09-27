@@ -277,7 +277,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} zmienia typ na\\n{B_DEF_ABILITY} z {B_BUFF1}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518843.8781095,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1380": {
   "source": "The foe is struck with steel-hard\\\\nwings. It may also raise the user's\\\\nDEFENSE stat.",
@@ -9303,10 +9306,13 @@
  },
  "src.txt::src.txt_254": {
   "source": "{B_EFF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\nprevents paralysis!",
-  "target": "{B_EFF_NAME_WITH_PREFIX}-jego {B_DEF_ABILITY}\\nneguje paraliż!",
+  "target": "{B_EFF_NAME_WITH_PREFIX} jego {B_DEF_ABILITY}\\nneguje paraliż!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518846.7171223,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1319": {
   "source": "I give up!",
@@ -14577,10 +14583,13 @@
  },
  "src.txt::src.txt_256": {
   "source": "{B_EFF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\nprevents poisoning!",
-  "target": "{B_EFF_NAME_WITH_PREFIX}-jego {B_DEF_ABILITY}\\nneguje zatrucie!",
+  "target": "{B_EFF_NAME_WITH_PREFIX} jego {B_DEF_ABILITY}\\nneguje zatrucie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518851.016885,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1178": {
   "source": "PSYCHIC",
@@ -34277,10 +34286,13 @@
  },
  "src.txt::src.txt_257": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\nprevents confusion!",
-  "target": "{B_DEF_NAME_WITH_PREFIX}-jego {B_DEF_ABILITY}\\nneguje konfuzję!",
+  "target": "{B_DEF_NAME_WITH_PREFIX} jego {B_DEF_ABILITY}\\nneguje konfuzję!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518853.0777166,
+  "touched": true
  },
  "src.txt::src.txt_756": {
   "source": "An attack that\\nabsorbs half the\\ndamage it inflicted\\nto restore HP.",
@@ -52502,7 +52514,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} przywrócił\\nHP dzięki {B_DEF_ABILITY}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518840.948321,
+  "touched": true
  },
  "datatext.txt::datatext.txt_31": {
   "source": "{PLAYER} took back {STR_VAR_1} from\\nthe DAY-CARE LADY.",
@@ -54499,10 +54514,13 @@
  },
  "src.txt::src.txt_250": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\nprevents {B_ATK_NAME_WITH_PREFIX}\\lfrom using {B_CURRENT_MOVE}!",
-  "target": "{B_DEF_NAME_WITH_PREFIX}-jego\\n{B_DEF_ABILITY} nie pozwala {B_ATK_NAME_WITH_PREFIX}\\lużyć {B_CURRENT_MOVE}!",
+  "target": "{B_DEF_NAME_WITH_PREFIX} jego\\n{B_DEF_ABILITY} nie pozwala {B_ATK_NAME_WITH_PREFIX}\\lużyć {B_CURRENT_MOVE}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518839.6238697,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_472": {
   "source": "A linked cluster formed of several\\nMAGNEMITE. It discharges powerful\\nmagnetic waves at high voltage.",
@@ -55833,10 +55851,13 @@
  },
  "src.txt::src.txt_258": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\nraised its FIRE power!",
-  "target": "{B_DEF_NAME_WITH_PREFIX}-jego {B_DEF_ABILITY}\\nzwiększa moc OGNIA!",
+  "target": "{B_DEF_NAME_WITH_PREFIX} jego {B_DEF_ABILITY}\\nzwiększa moc OGNIA!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518854.9065342,
+  "touched": true
  },
  "src.txt::src.txt_930": {
   "source": "A blindingly speedy\\ncharge attack that\\nalways goes before\\nany other.",
@@ -87952,7 +87973,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX}-{B_DEF_ABILITY}\\n{B_CURRENT_MOVE} bezużytecznym!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518843.1993484,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_13": {
   "source": "SAID",
@@ -93776,7 +93800,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518814.9226177,
+  "updated": 1790518834.0898414,
   "touched": true
  },
  "data maps.txt::data maps.txt_3050": {
@@ -99544,10 +99568,13 @@
  },
  "src.txt::src.txt_255": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\nprevents romance!",
-  "target": "{B_DEF_NAME_WITH_PREFIX}-jego {B_DEF_ABILITY}\\nneguje romans!",
+  "target": "{B_DEF_NAME_WITH_PREFIX} jego {B_DEF_ABILITY}\\nneguje romans!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518848.840408,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_139": {
   "source": "TALENT",
