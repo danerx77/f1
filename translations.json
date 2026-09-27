@@ -9905,7 +9905,10 @@
   "target": "SZUKAJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790524746.7325814,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1071": {
   "source": "It emits a variety of sounds from the \\nholes all over its body. Its loud cries\\ncan be heard from over six miles away.",
@@ -26871,7 +26874,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519194.905338
+  "updated": 1790524764.8041375,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2204": {
   "source": "I caught a CHANSEY!\\pThat makes this all worthwhile.",
@@ -50039,7 +50043,10 @@
   "target": "CZAT",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790524748.1721356,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1669": {
   "source": "PHIL",
@@ -73280,7 +73287,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519194.905338
+  "updated": 1790524761.1247416,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1385": {
   "source": "TM50",
@@ -95371,7 +95379,10 @@
   "target": "{B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790524782.0023348,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_600": {
   "source": "????????",
