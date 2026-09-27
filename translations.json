@@ -20204,7 +20204,10 @@
   "target": ".Jego ksywa?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519894.9381547,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_687": {
   "source": "LIE",
@@ -77026,7 +77029,10 @@
   "target": "NAZWA BOX",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519884.5369704,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1379": {
   "source": "You're talented enough to hike!",
