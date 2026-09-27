@@ -27694,7 +27694,10 @@
   "target": "JAJO",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505482.1228473,
+  "touched": true
  },
  "src.txt::src.txt_999": {
   "source": "The foe is hit with\\nrazor-like wind.\\nIt has a high\\ncritical-hit ratio.",
