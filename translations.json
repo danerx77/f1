@@ -25229,10 +25229,13 @@
  },
  "datatext.txt::datatext.txt_1145": {
   "source": "We're BIKERS!\\nWe rule the roads, man!",
-  "target": "Jesteśmy MOTOCYKLISTAMI!\\nRządzimy tu!",
+  "target": "Jesteśmy MOTOCYKLISTAMI!\\nPanujemy tu!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518228.3280265,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1800": {
   "source": "WALTER",
@@ -70971,10 +70974,13 @@
  },
  "datatext.txt::datatext.txt_1151": {
   "source": "Get lost, kid!\\nI'm bushed!",
-  "target": "Wynocha!\\nJestem zarżnięty!",
+  "target": "Spadaj, mały!\\nMam dość!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518254.8983896,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_239": {
   "source": "BLASTOISE DOLL",
