@@ -979,8 +979,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_285": {
   "source": "AN",
-  "target": "",
-  "status": "new",
+  "target": "Aktywne",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -3537,8 +3537,8 @@
  },
  "src.txt::src.txt_2965": {
   "source": "{DYNAMIC 1}: Glad to meet you!{PAUSE 60}",
-  "target": "",
-  "status": "new",
+  "target": "{DYNAMIC 1}: Miło mi cię poznać!{PAUSE 60}",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -3644,8 +3644,8 @@
  },
  "src.txt::src.txt_2320": {
   "source": "Save completed.\\nPlease press the A Button.",
-  "target": "",
-  "status": "new",
+  "target": "Zapis zakończony.\\n“Wciśnij Przycisk A.”",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -3778,8 +3778,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_401": {
   "source": "NICE",
-  "target": "",
-  "status": "new",
+  "target": "No nieźle",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -4692,8 +4692,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_44": {
   "source": "USE",
-  "target": "",
-  "status": "new",
+  "target": "UŻYJ",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -4903,8 +4903,8 @@
  },
  "src.txt::src.txt_2333": {
   "source": "DEL. ALL{CLEAR_TO 0x57}CANCEL{CLEAR_TO 0xA4}OK",
-  "target": "",
-  "status": "new",
+  "target": "DEL. ALL{CLEAR_TO 0x57}ANULUJ{CLEAR_TO 0xA4}3OK17487",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -5115,8 +5115,8 @@
  },
  "src.txt::src.txt_2951": {
   "source": "POKéMON JUMP",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON JUMP RECORDS",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -6433,8 +6433,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_331": {
   "source": "HALL OF FAME",
-  "target": "",
-  "status": "new",
+  "target": "HALA SŁAWY",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -6598,8 +6598,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_435": {
   "source": "HEY, THERE",
-  "target": "",
-  "status": "new",
+  "target": "Hej, ty!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -7397,8 +7397,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_134": {
   "source": "TAKE THAT",
-  "target": "",
-  "status": "new",
+  "target": "Zabierz ten",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -7749,8 +7749,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_252": {
   "source": "WILL",
-  "target": "",
-  "status": "new",
+  "target": "Wybaczysz",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -7953,8 +7953,8 @@
  },
  "src.txt::src.txt_2185": {
   "source": "SILVER",
-  "target": "",
-  "status": "new",
+  "target": "SREBRNYWIATR",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -9398,8 +9398,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_469": {
   "source": "CHAT",
-  "target": "",
-  "status": "new",
+  "target": "CZAT",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -11977,8 +11977,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_455": {
   "source": "HEY",
-  "target": "",
-  "status": "new",
+  "target": "Hej!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -12145,7 +12145,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true
  },
  "src.txt::src.txt_1798": {
@@ -13253,8 +13253,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_54": {
   "source": "SLEEP",
-  "target": "",
-  "status": "new",
+  "target": "sen",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -13346,8 +13346,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_325": {
   "source": "BERRY",
-  "target": "",
-  "status": "new",
+  "target": "JAGODY",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -13419,8 +13419,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_290": {
   "source": "MAYBE",
-  "target": "",
-  "status": "new",
+  "target": "Może",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -13894,8 +13894,8 @@
  },
  "src.txt::src.txt_1988": {
   "source": "SORRY",
-  "target": "",
-  "status": "new",
+  "target": "Sorry!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -14495,8 +14495,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_453": {
   "source": "BYE-BYE",
-  "target": "",
-  "status": "new",
+  "target": "BYE-BYE!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -14900,8 +14900,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_289": {
   "source": "SO",
-  "target": "",
-  "status": "new",
+  "target": "10P!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -15089,8 +15089,8 @@
  },
  "src.txt::src.txt_1058": {
   "source": "MAGMA",
-  "target": "",
-  "status": "new",
+  "target": "MAGMOZBROJA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -15410,8 +15410,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_329": {
   "source": "SUPER",
-  "target": "",
-  "status": "new",
+  "target": "Świetnie!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -16089,7 +16089,7 @@
  },
  "datatext.txt::datatext.txt_512": {
   "source": "  Using an item",
-  "target": "",
+  "target": "  zawsze.\\lSpróbuj użyć przdmiotu",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -17440,8 +17440,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_286": {
   "source": "NOT",
-  "target": "",
-  "status": "new",
+  "target": "nNie",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -24000,8 +24000,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_46": {
   "source": "USING",
-  "target": "",
-  "status": "new",
+  "target": "Używając",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -24102,8 +24102,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_260": {
   "source": "COULD",
-  "target": "",
-  "status": "new",
+  "target": "Czy to",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -24379,8 +24379,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_293": {
   "source": "IT",
-  "target": "",
-  "status": "new",
+  "target": "?",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -27339,8 +27339,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_530": {
   "source": "STORE",
-  "target": "",
-  "status": "new",
+  "target": "SKLEP",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -27498,8 +27498,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_449": {
   "source": "HUH?",
-  "target": "",
-  "status": "new",
+  "target": "Hę?",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -27839,8 +27839,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_541": {
   "source": "LETTER",
-  "target": "",
-  "status": "new",
+  "target": "LIST",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -29787,8 +29787,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_158": {
   "source": "BATTLE",
-  "target": "",
-  "status": "new",
+  "target": "BITWA",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -30513,8 +30513,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_178": {
   "source": "LEADER",
-  "target": "",
-  "status": "new",
+  "target": "LIDER",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -31757,8 +31757,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_32": {
   "source": "MAKE",
-  "target": "",
-  "status": "new",
+  "target": "!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -32177,8 +32177,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_269": {
   "source": "WERE",
-  "target": "",
-  "status": "new",
+  "target": ".",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -32656,8 +32656,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_341": {
   "source": "MASTER",
-  "target": "",
-  "status": "new",
+  "target": "Mistrz",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -34719,8 +34719,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_397": {
   "source": "BAD",
-  "target": "",
-  "status": "new",
+  "target": "!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -34833,8 +34833,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_161": {
   "source": "POINTS",
-  "target": "",
-  "status": "new",
+  "target": "punkty",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -37570,8 +37570,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_483": {
   "source": "MAGAZINE",
-  "target": "",
-  "status": "new",
+  "target": "MAGAZYN",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -37633,8 +37633,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_362": {
   "source": "GO HOME",
-  "target": "",
-  "status": "new",
+  "target": "Wracaj do domu!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -40266,8 +40266,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_427": {
   "source": "WELCOME",
-  "target": "",
-  "status": "new",
+  "target": "Witamy.",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -42796,8 +42796,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_19": {
   "source": "PLEASE",
-  "target": "",
-  "status": "new",
+  "target": "Proszę!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -43032,8 +43032,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_451": {
   "source": "HI",
-  "target": "",
-  "status": "new",
+  "target": "Hi-jah!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -45005,8 +45005,8 @@
  },
  "src.txt::src.txt_1493": {
   "source": "SMART",
-  "target": "",
-  "status": "new",
+  "target": "…mądry…",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -45417,8 +45417,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_136": {
   "source": "ATTACK",
-  "target": "",
-  "status": "new",
+  "target": "ATAK",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -45734,7 +45734,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790514605.9540367,
+  "updated": 1790514654.8869085,
   "touched": true
  },
  "datatext.txt::datatext.txt_986": {
@@ -46728,8 +46728,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_68": {
   "source": "SHOW",
-  "target": "",
-  "status": "new",
+  "target": "{PLAY",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -47593,8 +47593,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_486": {
   "source": "HOBBY",
-  "target": "",
-  "status": "new",
+  "target": "Hobby:",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -49281,8 +49281,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_438": {
   "source": "THANK YOU",
-  "target": "",
-  "status": "new",
+  "target": "ZESPÓŁ R uciekł!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -49309,8 +49309,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_311": {
   "source": "DID",
-  "target": "",
-  "status": "new",
+  "target": "Dotknąłeś",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -50520,8 +50520,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_294": {
   "source": "ALL",
-  "target": "",
-  "status": "new",
+  "target": "……",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -51052,8 +51052,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_69": {
   "source": "LOOKS",
-  "target": "",
-  "status": "new",
+  "target": "?",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -51122,8 +51122,8 @@
  },
  "datatext.txt::datatext.txt_553": {
   "source": " Using “HALL OF FAME”",
-  "target": "",
-  "status": "new",
+  "target": " HALA SŁAWY",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -51619,8 +51619,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_440": {
   "source": "PARDON",
-  "target": "",
-  "status": "new",
+  "target": ": SŁUCHAM?",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -54239,8 +54239,8 @@
  },
  "src.txt::src.txt_1569": {
   "source": "POKéMON JUMP",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON JUMP RECORDS",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -55333,8 +55333,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_270": {
   "source": "THOSE",
-  "target": "",
-  "status": "new",
+  "target": "Te złodziejaszki",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -59036,8 +59036,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_369": {
   "source": "THINK",
-  "target": "",
-  "status": "new",
+  "target": ".",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -59528,8 +59528,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_422": {
   "source": "YES",
-  "target": "",
-  "status": "new",
+  "target": "«Yes,",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -59633,8 +59633,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_316": {
   "source": "BEFORE",
-  "target": "",
-  "status": "new",
+  "target": "!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -60490,8 +60490,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_135": {
   "source": "COME ON",
-  "target": "",
-  "status": "new",
+  "target": "Zobaczymy co umiesz!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -61087,8 +61087,8 @@
  },
  "src.txt::src.txt_1986": {
   "source": "LET'S",
-  "target": "",
-  "status": "new",
+  "target": "…Hmmm...",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -61879,8 +61879,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_549": {
   "source": "NAME",
-  "target": "",
-  "status": "new",
+  "target": "Nazwa",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -62408,8 +62408,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_255": {
   "source": "TIMES",
-  "target": "",
-  "status": "new",
+  "target": "Times/sec.",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -62515,8 +62515,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_443": {
   "source": "EXCUSE ME",
-  "target": "",
-  "status": "new",
+  "target": "Przepraszam, czy pokaże mi Pan bilet?",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -64332,8 +64332,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_273": {
   "source": "CAN'T",
-  "target": "",
-  "status": "new",
+  "target": "Ci!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -67063,8 +67063,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_287": {
   "source": "THERE",
-  "target": "",
-  "status": "new",
+  "target": "Tu",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -67867,8 +67867,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_390": {
   "source": "ALL RIGHT",
-  "target": "",
-  "status": "new",
+  "target": "No dobra",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -68019,8 +68019,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_432": {
   "source": "SORRY",
-  "target": "",
-  "status": "new",
+  "target": "Sorry!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -68805,8 +68805,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_230": {
   "source": "NOTHING",
-  "target": "",
-  "status": "new",
+  "target": "Nic",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -69122,8 +69122,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_379": {
   "source": "JOY",
-  "target": "",
-  "status": "new",
+  "target": "JOY:",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -69955,8 +69955,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_460": {
   "source": "YO",
-  "target": "",
-  "status": "new",
+  "target": ": HEJ!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -70718,8 +70718,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_495": {
   "source": "MAKING",
-  "target": "",
-  "status": "new",
+  "target": ",\\nKTÓRZY",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -72043,8 +72043,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_151": {
   "source": "TOO STRONG",
-  "target": "",
-  "status": "new",
+  "target": "Za silny!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -72377,8 +72377,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_126": {
   "source": "IF I WIN",
-  "target": "",
-  "status": "new",
+  "target": "Jeśli wygram",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -74317,8 +74317,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_193": {
   "source": "TOGETHER",
-  "target": "",
-  "status": "new",
+  "target": ": Razem",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -74492,8 +74492,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_29": {
   "source": "COME",
-  "target": "",
-  "status": "new",
+  "target": "Chodź!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -74783,8 +74783,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_405": {
   "source": "WANT",
-  "target": "",
-  "status": "new",
+  "target": "Więc może",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -74921,8 +74921,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_180": {
   "source": "MOVE",
-  "target": "",
-  "status": "new",
+  "target": "RUSZ",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -75327,8 +75327,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_279": {
   "source": "WHICH",
-  "target": "",
-  "status": "new",
+  "target": "Wspaniale!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -76080,8 +76080,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_448": {
   "source": "WHAT'S UP?",
-  "target": "",
-  "status": "new",
+  "target": "Co jest?",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -77294,8 +77294,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_426": {
   "source": "YEAH",
-  "target": "",
-  "status": "new",
+  "target": ", idź",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -77829,8 +77829,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_445": {
   "source": "GO AHEAD",
-  "target": "",
-  "status": "new",
+  "target": "Dobra, idź",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -77929,8 +77929,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_531": {
   "source": "SERVICE",
-  "target": "",
-  "status": "new",
+  "target": "1P: RECEPCJA",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -78474,8 +78474,8 @@
  },
  "src.txt::src.txt_2027": {
   "source": "Want to play again?",
-  "target": "",
-  "status": "new",
+  "target": "Chcesz znowu\\nwalczyć ze mną?",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -79640,8 +79640,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_381": {
   "source": "NEVER",
-  "target": "",
-  "status": "new",
+  "target": "Nigdy",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -80544,8 +80544,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_167": {
   "source": "LOSE",
-  "target": "",
-  "status": "new",
+  "target": "!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -81975,8 +81975,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_276": {
   "source": "DO",
-  "target": "",
-  "status": "new",
+  "target": "!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -82918,8 +82918,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_450": {
   "source": "NO",
-  "target": "",
-  "status": "new",
+  "target": "NIE",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -83647,8 +83647,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_164": {
   "source": "LOSS",
-  "target": "",
-  "status": "new",
+  "target": "PRZEGRAŁEŚ",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -83924,8 +83924,8 @@
  },
  "src.txt::src.txt_1766": {
   "source": "The BARD's Song",
-  "target": "",
-  "status": "new",
+  "target": "pieśń BARDA.",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -84814,8 +84814,8 @@
  },
  "src.txt::src.txt_2048": {
   "source": "Want to play again?",
-  "target": "",
-  "status": "new",
+  "target": "Chcesz znowu\\nwalczyć ze mną?",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -85167,8 +85167,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_265": {
   "source": "LET'S",
-  "target": "",
-  "status": "new",
+  "target": "…Hmmm...",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -85272,8 +85272,8 @@
  },
  "src.txt::src.txt_2327": {
   "source": "WIRELESS COMMUNICATION",
-  "target": "",
-  "status": "new",
+  "target": "Wireless Communication Status",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -85719,8 +85719,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_31": {
   "source": "SEARCH",
-  "target": "",
-  "status": "new",
+  "target": "SZUKAJ",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -86398,8 +86398,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_429": {
   "source": "HOW DO",
-  "target": "",
-  "status": "new",
+  "target": "Jak się",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -86826,8 +86826,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_17": {
   "source": "TEACH",
-  "target": "",
-  "status": "new",
+  "target": ".",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -86990,8 +86990,8 @@
  },
  "src.txt::src.txt_1975": {
   "source": "Exiting the chat‥",
-  "target": "",
-  "status": "new",
+  "target": "Exiting the chat…",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -88068,8 +88068,8 @@
  },
  "src.txt::src.txt_2032": {
   "source": "DODRIO BERRY-PICKING RECORDS",
-  "target": "",
-  "status": "new",
+  "target": "DODRIO BERRY-PICKING",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -89679,8 +89679,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_456": {
   "source": "SMELL",
-  "target": "",
-  "status": "new",
+  "target": "!<<KON",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -90045,8 +90045,8 @@
  },
  "src.txt::src.txt_1550": {
   "source": "Game Link cable",
-  "target": "",
-  "status": "new",
+  "target": "Game Link cable.",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -90279,8 +90279,8 @@
  },
  "src.txt::src.txt_2285": {
   "source": "Communication error.",
-  "target": "",
-  "status": "new",
+  "target": "Communication error…",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -90513,8 +90513,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_124": {
   "source": "WIN",
-  "target": "",
-  "status": "new",
+  "target": "wygrałeś",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -92545,8 +92545,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_303": {
   "source": "SINCE",
-  "target": "",
-  "status": "new",
+  "target": "Skoro",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -92990,8 +92990,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_275": {
   "source": "DON'T",
-  "target": "",
-  "status": "new",
+  "target": ", NO",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -93032,8 +93032,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_525": {
   "source": "SCHOOL",
-  "target": "",
-  "status": "new",
+  "target": "Szkoła",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -93456,8 +93456,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_58": {
   "source": "RUN",
-  "target": "",
-  "status": "new",
+  "target": "Ruszaj",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -93606,8 +93606,8 @@
  },
  "src.txt::src.txt_1763": {
   "source": "At the battle's start:",
-  "target": "",
-  "status": "new",
+  "target": "Twoje uczucia na\\npoczątku walki",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -93908,8 +93908,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_246": {
   "source": "WELL",
-  "target": "",
-  "status": "new",
+  "target": "Więc,",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -94672,8 +94672,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_73": {
   "source": "TAKE",
-  "target": "",
-  "status": "new",
+  "target": "\\lTRZYMAJ",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -95475,8 +95475,8 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_168": {
   "source": "TV",
-  "target": "",
-  "status": "new",
+  "target": ": GRY",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -95856,8 +95856,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_274": {
   "source": "CAN",
-  "target": "",
-  "status": "new",
+  "target": "Czy",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -96465,8 +96465,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_521": {
   "source": "MONEY",
-  "target": "",
-  "status": "new",
+  "target": ".",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -96827,8 +96827,8 @@
  },
  "datatext.txt::datatext.txt_361": {
   "source": "POKéMON JOURNAL\\pSpecial Feature: FUCHSIA GYM\\nLEADER KOGA!\\pKOGA is said to have a thorough\\nknowledge of medicine.\\pHe even concocts medicine to nurse\\nhis POKéMON to health.",
-  "target": "",
-  "status": "new",
+  "target": "On nawet sporządza lekarstwa,\\naby wyleczyć swoje POKéMONY.\\pSpecial Feature: FUCHSIA GYM\\nLEADER KOGA!\\pLIGHT_GRAY}Mówi się, że\\nKOGA ma dogłębną wiedzę medyczną.\\pnawet sporządza lekarstwa,\\naby wyleczyć swoje POKéMONY.",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -97610,8 +97610,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_332": {
   "source": "EVOLUTION",
-  "target": "",
-  "status": "new",
+  "target": "EWOLUCYJNY",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -97830,8 +97830,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_421": {
   "source": "THANKS",
-  "target": "",
-  "status": "new",
+  "target": ": Dzięki",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -98264,8 +98264,8 @@
  },
  "src.txt::src.txt_1502": {
   "source": "SMART",
-  "target": "",
-  "status": "new",
+  "target": "…mądry…",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -98982,8 +98982,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_333": {
   "source": "HYPER",
-  "target": "",
-  "status": "new",
+  "target": "HIPERPROMIEŃ",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -99154,8 +99154,8 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_517": {
   "source": "LOOK",
-  "target": "",
-  "status": "new",
+  "target": "…Ojej!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
