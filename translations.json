@@ -77357,10 +77357,13 @@
  },
  "data maps.txt::data maps.txt_1513": {
   "source": "Electricity is my specialty.\\pI don't know a thing about POKéMON\\nof the sea, though.",
-  "target": "Elektryczność jest moją\\pspecjalnością.\\nNie mam za to pojęcia o morskich POKéMONACH!",
+  "target": "Elektryczność jest moją\\pspecjalnością.\\nNie mam za to pojęcia o\\pmorskich POKéMONACH!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514974.861671,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_3": {
   "source": "REYLEY",
