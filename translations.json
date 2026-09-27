@@ -2991,12 +2991,12 @@
  },
  "data maps.txt::data maps.txt_2393": {
   "source": "When you're up on a rocky mountain\\nlike this, rockslides are a threat.\\pCan you imagine?\\nBoulders tumbling down on you?\\pThat'd be, like, waaaaaaaaaaah!\\nTotal terror!\\pYou don't seem to be scared.\\nWant to try using ROCK SLIDE?",
-  "target": "Gdy jesteś w górach skalistych\\nbardzo niebezpieczne są\\pkamienne lawiny.\\nWyobraź sobie wielkie\\pgłazy toczące się na ciebie.\\nTo byłoby, łaaaaaaaaa!\\pTotalny koszmar!\\nNie boisz się. Więc może sam spróbujesz LAWINĘ SKAŁ?",
+  "target": "Gdy jesteś w górach skalistych\\nbardzo niebezpieczne są\\pkamienne lawiny.\\nWyobraź sobie wielkie\\pgłazy toczące się na ciebie.\\nTo byłoby, łaaaaaaaaa!\\pTotalny koszmar!\\nNie boisz się. Więc może sam \\pspróbujesz LAWINĘ SKAŁ?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790515974.9121075,
+  "updated": 1790516014.9026778,
   "touched": true
  },
  "datatext.txt::datatext.txt_350": {
