@@ -2994,7 +2994,10 @@
   "target": "Gdy jesteś w górach skalistych\\nbardzo niebezpieczne są\\pkamienne lawiny.\\nWyobraź sobie wielkie\\pgłazy toczące się na ciebie.\\nTo byłoby, łaaaaaaaaa!\\pTotalny koszmar!\\nNie boisz się. Więc może sam spróbujesz LAWINĘ SKAŁ?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515974.9121075,
+  "touched": true
  },
  "datatext.txt::datatext.txt_350": {
   "source": "POKéMON JOURNAL",
