@@ -4886,7 +4886,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX}-{B_DEF_ABILITY}\\nblokuje {B_CURRENT_MOVE}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518865.545326,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_45": {
   "source": "A spray-type wound medicine.\\nIt restores the HP of one POKéMON\\nby 200 points.",
@@ -7372,7 +7375,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-\\n{B_SCR_ACTIVE_ABILITY} zmniejsza ATAK {B_DEF_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518857.351209,
+  "touched": true
  },
  "datatext.txt::datatext.txt_21": {
   "source": "Oh, fine, then.\\nCome again.",
@@ -22445,7 +22451,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}- {B_SCR_ACTIVE_ABILITY}\\nneguje zmiany stanu!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518858.6439204,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2762": {
   "source": "Have you taken a good look around\\nyour feet?",
@@ -26403,7 +26412,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-{B_SCR_ACTIVE_ABILITY}\\nwbudza burzę piaskową!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518869.8673415,
+  "touched": true
  },
  "src.txt::src.txt_661": {
   "source": "PINAP",
@@ -28248,7 +28260,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-{B_SCR_ACTIVE_ABILITY}\\nwzmacnia promienie słońca!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518870.9148293,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1832": {
   "source": "JEREMY",
@@ -30337,7 +30352,10 @@
   "target": "{B_EFF_NAME_WITH_PREFIX} {B_EFF_ABILITY}\\nneguje poparzenia",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518863.7066534,
+  "touched": true
  },
  "src.txt::src.txt_1833": {
   "source": "Supposedly an inactive volcano.\\nHowever, there are persistent\\nreports that the peak blazes\\nwith fire at night.",
@@ -49316,7 +49334,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-{B_SCR_ACTIVE_ABILITY}\\nneguję stratę {B_BUFF1}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518871.2963288,
+  "touched": true
  },
  "src.txt::src.txt_384": {
   "source": "Go! {B_BUFF1}!",
@@ -55856,7 +55877,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518854.9065342,
+  "updated": 1790518855.1517136,
   "touched": true
  },
  "src.txt::src.txt_930": {
@@ -60628,7 +60649,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_SCR_ACTIVE_ABILITY}\\nleczy problem: {B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518894.9260967,
+  "touched": true
  },
  "datatext.txt::datatext.txt_824": {
   "source": "MICHI",
@@ -75019,7 +75043,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} - {B_ATK_ABILITY}\\nleczy trochę jego HP!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518867.5122373,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1662": {
   "source": "I trade POKéMON with my friends\\nall the time.",
@@ -79562,7 +79589,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-{B_SCR_ACTIVE_ABILITY}\\nblokuje {B_CURRENT_MOVE}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518866.4877067,
+  "touched": true
  },
  "datatext.txt::datatext.txt_698": {
   "source": "You become the main character to\\nexplore the world of POKéMON!\\lBy talking to people and solving\\lmysteries, new paths will open to you.\\lStrive for the goal together with your\\lwonderful POKéMON!",
@@ -81196,7 +81226,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX}-\\n{B_DEF_ABILITY} rani {B_ATK_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518859.6348522,
+  "touched": true
  },
  "datatext.txt::datatext.txt_407": {
   "source": "Type Matchup List",
@@ -85599,7 +85632,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX}-{B_DEF_ABILITY}\\ndeaktywuje ataki {B_CURRENT_MOVE}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518872.8157291,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1746": {
   "source": "Are you looking for adventure?",
@@ -96260,7 +96296,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} kotwiczy\\nsię swoim {B_DEF_ABILITY}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518855.7670267,
+  "touched": true
  },
  "src.txt::src.txt_1297": {
   "source": "OK",
@@ -97323,7 +97362,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} TROPI\\n{B_BUFF1} - {B_BUFF2}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518862.7338817,
+  "touched": true
  },
  "data maps.txt::data maps.txt_973": {
   "source": "Network Machine\\nLink Level 1\\pLink established with the KANTO\\nregion.",
@@ -99807,7 +99849,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX}-{B_DEF_ABILITY}\\nrozkochuje {B_ATK_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518872.3630319,
+  "touched": true
  },
  "src.txt::src.txt_1706": {
   "source": "STARS",
