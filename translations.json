@@ -98629,10 +98629,13 @@
  },
  "data maps.txt::data maps.txt_91": {
   "source": "I'm thirsty!\\nI want something to drink!\\p{FONT_NORMAL}Give her a drink?",
-  "target": "Chcę mi się\\npić! Chcę coś do picia!\\pDać{FONT_NORMAL}jej napój?",
+  "target": "Chcę mi się pić!\\nChcę coś do picia!\\p{FONT_NORMAL}Dać jej napój?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512094.9034631,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1055": {
   "source": "LANSAT BERRY",
