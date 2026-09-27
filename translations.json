@@ -62381,10 +62381,13 @@
  },
  "datatext.txt::datatext.txt_1036": {
   "source": "There are no TRAINERS within range\\nwho can battle…\\pThe VS SEEKER was turned off.{PAUSE_UNTIL_PRESS}",
-  "target": "W zasięgu nie ma TRENERÓW chcących\\nwalczyć…\\pTRENEROSZUKACZ został wyłączony.{PAUSE_UNTIL_PRESS}",
+  "target": "W zasięgu nie ma TRENERÓW chcących\\nwalczyć…\\pTRENEROSZUKACZ został\\nwyłączony.{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518134.8995411,
+  "touched": true
  },
  "src.txt::src.txt_989": {
   "source": "The user lets loose\\na horribly loud\\nshout with the\\npower to damage.",
@@ -75250,7 +75253,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518094.8878567,
+  "updated": 1790518096.1949077,
   "touched": true
  },
  "datatext.txt::datatext.txt_1": {
