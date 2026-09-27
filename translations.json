@@ -34005,10 +34005,13 @@
  },
  "data maps.txt::data maps.txt_1150": {
   "source": "A shady old guy sucked me into\\nbuying this weird fish POKéMON!\\pIt's totally weak and it cost ¥500!",
-  "target": "Jakiś dziadek wrobił mnie w\\nkupienie tej dziwnej ryby!\\pStraszny z niej cieniarz, a kosztował ¥500!",
+  "target": "Jakiś dziadek wrobił mnie w\\nkupienie tej dziwnej ryby!\\pStraszny z niej cieniarz, a kosztował\\n¥500!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514214.902376,
+  "touched": true
  },
  "src.txt::src.txt_1927": {
   "source": "じかんを さいせってい しました!\\nレポ-トを かいています おまちください",
