@@ -61232,7 +61232,10 @@
   "target": "Hej, to była długa podróż, co?\\pMój kumpel CELIO bardzo dobrze\\nsię bawił.\\pJestem pewien, że chętnie przyjmie\\ncię znowu do siebie.\\pMając TRÓJ-BILET zawsze będziesz\\nmógł wybrać się na tam z\\lPORTU W VERMILION.\\pNo to świetnie, dziękuję za towarzystwo!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512974.9065785,
+  "touched": true
  },
  "data maps.txt::data maps.txt_858": {
   "source": "<<< FILE: maps/OneIsland_House1/text.inc >>>",
