@@ -3273,7 +3273,10 @@
   "target": "Błąd zapisu.\\pProszę wymienić\\npamięć zapasową.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505695.3766127,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_551": {
   "source": "There is no telling where its tail begins.\\nDespite its short legs, it is quick at\\nhunting RATTATA.",
@@ -33429,7 +33432,10 @@
   "target": "ODZNAK",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505726.391923,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_367": {
   "source": "ETHER",
@@ -34051,7 +34057,10 @@
   "target": "GRACZ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505725.2006457,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1600": {
   "source": "BARNY",
@@ -86924,7 +86933,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790505686.4281754,
+  "updated": 1790505691.3766305,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_490": {
