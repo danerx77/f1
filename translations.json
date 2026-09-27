@@ -1894,7 +1894,10 @@
   "target": "Wyrzucono {STR_VAR_2}\\n{STR_VAR_1}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505916.7222455,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_576": {
   "source": "handily",
@@ -32705,7 +32708,10 @@
   "target": "ŻETONY: \\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505926.4168136,
+  "touched": true
  },
  "data maps.txt::data maps.txt_996": {
   "source": "MOM: …Right.\\nAll girls dream of traveling.\\lIt said so on TV.\\pOh, yes. PROF. OAK, next door, was\\nlooking for you.",
@@ -42334,7 +42340,10 @@
   "target": "{STR_VAR_1} nie może być\\ntrzymany.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505910.128378,
+  "touched": true
  },
  "src.txt::src.txt_2629": {
   "source": "GYARADOS",
@@ -42871,7 +42880,10 @@
   "target": "Nie można trzymać {STR_VAR_1}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505908.2213626,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_79": {
   "source": "A MARILL doll.\\nPlace it on a mat\\nor a desk.",
@@ -66462,7 +66474,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790505886.4098957,
+  "updated": 1790505893.008147,
   "touched": true
  },
  "data maps.txt::data maps.txt_2339": {
@@ -70290,7 +70302,10 @@
   "target": "Ile zdeponować\\n{STR_VAR_1}?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505910.850614,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1342": {
   "source": "A 2-turn attack in which the user\\\\ndigs underground, then strikes.\\\\nIt can be used to exit dungeons.",
@@ -74482,7 +74497,10 @@
   "target": "Ile {STR_VAR_1}\\nwyrzucić?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505914.59286,
+  "touched": true
  },
  "data maps.txt::data maps.txt_30": {
   "source": "CLEFAIRY: Pi pippippi!",
@@ -79006,7 +79024,10 @@
   "target": "Zdeponowano {STR_VAR_2}\\n{STR_VAR_1}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505913.3607209,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_400": {
   "source": "It is covered with a green skin. When it\\ngrows, it sheds the skin, covers itself\\nwith silk, and becomes a cocoon.",
@@ -81655,7 +81676,10 @@
   "target": "OAK: {PLAYER}!\\nTo nie czas, by tego użyć! {PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505921.3478773,
+  "touched": true
  },
  "data maps.txt::data maps.txt_892": {
   "source": "Awww, blown!",
@@ -89930,7 +89954,10 @@
   "target": "Wyrzuć {STR_VAR_2} tego\\nprzedmiotu?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505918.1039772,
+  "touched": true
  },
  "src.txt::src.txt_942": {
   "source": "The user exhales a\\nheated breath to\\nattack. It may also\\ninflict a burn.",
@@ -92971,7 +92998,10 @@
   "target": "Nie ma miejsca na\\nprzedmioty.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505913.7942142,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_57": {
   "source": "DUCK",
