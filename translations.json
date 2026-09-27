@@ -8642,12 +8642,12 @@
  },
  "data maps.txt::data maps.txt_1453": {
   "source": "Making POKéMON evolve certainly\\ncan add to the POKéDEX.\\pHowever, at times, you may not\\nwant a certain POKéMON to evolve.\\pIn that case, give the EVERSTONE\\nto that POKéMON.\\pIt will prevent evolution according\\nto the PROFESSOR.",
-  "target": "Ewoluowanie POKéMONÓW z pewnością\\npomaga uzupełniać POKéDEX.\\pJednak czasami, możesz nie\\nchcieć, by któryś POKéMON\\pewoluował.\\nWtedy temu POKéMONOWI wręcza\\psię WIECZNY KAMIEŃ.\\nWedług PROFESORA, nie pozwoli mu na ewoluowanie.",
+  "target": "Ewoluowanie POKéMONÓW z pewnością\\npomaga uzupełniać POKéDEX.\\pJednak czasami, możesz nie\\nchcieć, by któryś POKéMON\\pewoluował.\\nWtedy temu POKéMONOWI wręcza\\psię WIECZNY KAMIEŃ.\\nWedług PROFESORA, nie pozwoli\\nmu na ewoluowanie.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790514814.8708506,
+  "updated": 1790514821.200113,
   "touched": true
  },
  "src.txt::src.txt_1177": {
@@ -12148,7 +12148,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true
  },
  "src.txt::src.txt_1798": {
@@ -37569,7 +37569,10 @@
   "target": "No to lepiej wracać do pracy.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514854.863693,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_483": {
   "source": "MAGAZINE",
