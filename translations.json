@@ -76173,10 +76173,13 @@
  },
  "data maps.txt::data maps.txt_1156": {
   "source": "You don't have enough money.",
-  "target": "Nie masz tylu pieniędzy.",
+  "target": "Masz za mało pieniędzy.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514254.8581605,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3154": {
   "source": "The ship set sail.",
