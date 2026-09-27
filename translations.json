@@ -40410,7 +40410,10 @@
   "target": "Świetnie! Podoba mi się twój styl.\\nZostańmy kumplami.\\pWeź to i łów, przyjacielu!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516894.9004633,
+  "touched": true
  },
  "src.txt::src.txt_2062": {
   "source": "1. {DYNAMIC 0x00}",
@@ -69140,12 +69143,12 @@
  },
  "data maps.txt::data maps.txt_3181": {
   "source": "Yo!\\nChamp in the making!\\pLT. SURGE has a nickname.\\pPeople refer to him as the\\nLightning American!\\pHe's an expert on electric\\nPOKéMON.\\pBIRD/WATER-type POKéMON match\\npoorly against the ELECTRIC type.\\pBeware of paralysis, too.\\pLT. SURGE is very cautious.\\pHe's locked himself in, so it won't\\nbe easy getting to him.",
-  "target": "Hej!\\nMistrzuniu!\\pPOR. SURGE ma pewną ksywę.\\pLudzie zwracają się do niego\\nper Elektryczny Amerykaninie!\\pJest ekspertem co do elektrycznych\\nPOKéMONÓW.\\pPTAKI/WODNE POKéMONY się tu nie\\nsprawdzą.\\pUważaj też na paraliż.\\pPOR. SURGE jest strasznie\\pprzezorny.\\nZamknął się, więc ciężko będzie ci się do niego dostać.",
+  "target": "Hej!\\nMistrzuniu!\\pPOR. SURGE ma pewną ksywę.\\pLudzie zwracają się do niego\\nper Elektryczny Amerykaninie!\\pJest ekspertem co do elektrycznych\\nPOKéMONÓW.\\pPTAKI/WODNE POKéMONY się tu nie\\nsprawdzą.\\pUważaj też na paraliż.\\pPOR. SURGE jest strasznie\\pprzezorny.\\nZamknął się, więc ciężko będzie ci\\psię do niego dostać.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790516854.875822,
+  "updated": 1790516868.8407662,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_815": {
