@@ -36511,10 +36511,13 @@
  },
  "data maps.txt::data maps.txt_1969": {
   "source": "This cape is a famous date spot.\\pMISTY, the GYM LEADER, has high\\nhopes about this place.",
-  "target": "Ta chatka to znane miejsce\\pspotkań randkowiczów.\\nMISTY, LIDER SALI, często je odwiedza.",
+  "target": "Ta chatka to znane miejsce\\pspotkań randkowiczów.\\nMISTY, LIDER SALI, często\\pje odwiedza.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515614.878506,
+  "touched": true
  },
  "src.txt::src.txt_143": {
   "source": "{B_DEF_NAME_WITH_PREFIX} was seeded!",
