@@ -71887,10 +71887,13 @@
  },
  "data maps.txt::data maps.txt_125": {
   "source": "Hey!\\pYou have better things to do,\\nchamp in the making!\\pCELADON GYM's LEADER is ERIKA.\\pShe is a user of GRASS-type\\nPOKéMON, and at one with nature.\\pShe might appear docile because of\\nher flower arranging…\\pBut she's not one to be taken\\nlightly!",
-  "target": "Hej!\\pMasz lepsze rzeczy do roboty,\\nmistrzuniu!\\pLIDER SALI w CELADON to ERIKA.\\pUżywa TRAWIASTEGO typu\\nPOKéMONÓW i jest jednością z\\pnaturą.\\nMoże wydać ci się potulna z uwagi na\\pswoje aranżacje kwiatowe…\\nAle nie powinieneś traktować jej lekko!",
+  "target": "Hej!\\pMasz lepsze rzeczy do roboty,\\nmistrzuniu!\\pLIDER SALI w CELADON to ERIKA.\\pUżywa TRAWIASTEGO typu\\nPOKéMONÓW i jest jednością z\\pnaturą.\\nMoże wydać ci się potulna z uwagi na\\pswoje aranżacje kwiatowe…\\nAle nie powinieneś traktować\\njej lekko!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512174.8773193,
+  "touched": true
  },
  "src.txt::src.txt_673": {
   "source": "PAMTRE",
