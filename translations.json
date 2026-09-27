@@ -81337,10 +81337,13 @@
  },
  "data maps.txt::data maps.txt_1922": {
   "source": "I saw your feat from the grass!",
-  "target": "Widziałem twój wyczyn z trawy!",
+  "target": "Widziałem twój tułów w trawie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515574.888868,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_658": {
   "source": "LADY",
