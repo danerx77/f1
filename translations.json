@@ -15231,10 +15231,13 @@
  },
  "data maps.txt::data maps.txt_107": {
   "source": "A can of {STR_VAR_1} popped out!",
-  "target": "Wyskoczyła puszka z {STR_VAR_1}!",
+  "target": "Wyskoczyła puszka z {STR_VAR_1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512134.8787775,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_689": {
   "source": "LIFT KEY",
