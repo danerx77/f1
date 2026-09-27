@@ -40865,10 +40865,13 @@
  },
  "data maps.txt::data maps.txt_726": {
   "source": "Ghosts appeared in POKéMON TOWER.\\pI think they're the spirits of\\nPOKéMON that the ROCKETS killed.",
-  "target": "Duchy pojawiły się w WIEŻY\\pPOKéMON.\\nTo pewnie dusze POKéMONÓW, które zginęły z ręki ZESPOŁU R.",
+  "target": "Duchy pojawiły się w WIEŻY\\pPOKéMON.\\nTo pewnie dusze POKéMONÓW, \\nktóre zginęły z ręki ZESPOŁU R.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790513534.8856356,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_463": {
   "source": "HYPER VOICE",
