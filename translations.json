@@ -68864,7 +68864,10 @@
   "target": "PSYCHOFALA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790511444.7584927,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_332": {
   "source": "SNORE",
@@ -89236,7 +89239,10 @@
   "target": "Chlup!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790511454.8443024,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_95": {
   "source": "Prevents weak wild POKéMON from\\nappearing for 250 steps.",
