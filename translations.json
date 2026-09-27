@@ -36013,7 +36013,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790505501.490299,
+  "updated": 1790511193.6993334,
   "touched": true
  },
  "src.txt::src.txt_1241": {
@@ -66506,7 +66506,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362366.4908128,
+  "updated": 1790511214.846958,
   "touched": true
  },
  "src.txt::src.txt_1226": {
@@ -78202,12 +78202,12 @@
  },
  "src.txt::src.txt_1136": {
   "source": " POKéMON",
-  "target": "POKéMON",
+  "target": "POKéMON ",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362392.965651,
+  "updated": 1790511214.5307486,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_211": {
@@ -85537,7 +85537,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790505508.5513353,
+  "updated": 1790511208.3101366,
   "touched": true
  },
  "data maps.txt::data maps.txt_3036": {
