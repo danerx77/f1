@@ -56575,10 +56575,13 @@
  },
  "src.txt::src.txt_2331": {
   "source": "SEND",
-  "target": "",
-  "status": "new",
+  "target": "WYŚLIJ",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506546.1616893,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_102": {
   "source": "A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is a clear light blue.",
@@ -85106,7 +85109,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506560.951553,
+  "touched": true
  },
  "src.txt::src.txt_719": {
   "source": "The user drops its\\nfull body on the\\nfoe. It may leave\\nthe foe paralyzed.",
