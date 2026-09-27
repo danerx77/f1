@@ -96888,10 +96888,13 @@
  },
  "data maps.txt::data maps.txt_959": {
   "source": "CELIO: So this is the gem that\\nforms a pair with the RUBY…\\p{PLAYER}, you've gone through a lot\\nto get this, didn't you?\\pYou don't have to tell me. I know\\nit wasn't easy.\\pThank you so much!\\pNow it's my turn to work for you!\\nPlease give me a little time.",
-  "target": "CELIO: Więc, to klejnot, który\\ntworzy parę z RUBINEM…\\p{PLAYER}, pewnie musiałeś wiele\\nprzejść, by to zdobyć,\\pprawda?\\nNie musisz mi mówić. Wiem, że\\pto nie było łatwe.\\pDziękuję ci!\\nTeraz moja kolej, bym coś dla ciebie zrobił! Daj mi trochę czasu.",
+  "target": "CELIO: Więc, to klejnot, który\\ntworzy parę z RUBINEM…\\p{PLAYER}, pewnie musiałeś wiele\\nprzejść, by to zdobyć,\\pprawda?\\nNie musisz mi mówić. Wiem, że\\pto nie było łatwe.\\pDziękuję ci!\\nTeraz moja kolej, bym coś dla ciebie\\pzrobił! Daj mi trochę czasu.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790513854.8610842,
+  "touched": true
  },
  "src.txt::src.txt_2403": {
   "source": "SMOOCHUM",
