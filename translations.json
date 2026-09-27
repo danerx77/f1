@@ -93637,10 +93637,13 @@
  },
  "data maps.txt::data maps.txt_755": {
   "source": "I recently moved to this town.\\pI hear that MR. FUJI's not from\\nthese parts originally, either.",
-  "target": "Ostatnio wprowadziłem się do\\ptego miasta.\\nPodobno PAN FUJI też nie pochodzi z tych stron.",
+  "target": "Ostatnio wprowadziłem się do\\ptego miasta.\\nPodobno PAN FUJI też nie pochodzi \\pz tych stron.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790513654.8924189,
+  "touched": true
  },
  "data maps.txt::data maps.txt_567": {
   "source": "そーれ　ぼよーん！\\nどっちが　さきに　へたばるか？\\lのしかかり　しょうぶ　してるんだ\\pきみは　なかまに　はいったら\\nつぶれそうだな‥\\lかわりに　きみの　ポケモンに\\lのしかかり　おしえて　やろっか？",
