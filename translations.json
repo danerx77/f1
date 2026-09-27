@@ -21438,7 +21438,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790505646.3859184,
+  "updated": 1790505656.9799619,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1146": {
@@ -25344,7 +25344,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362894.1335592,
+  "updated": 1790505677.8264103,
   "touched": true
  },
  "datatext.txt::datatext.txt_172": {
@@ -31484,7 +31484,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362870.882271,
+  "updated": 1790505672.443416,
   "touched": true
  },
  "src.txt::src.txt_2429": {
@@ -50803,7 +50803,10 @@
   "target": "Dane HALI SŁAWY są\\nuszkodzone.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505681.7791982,
+  "touched": true
  },
  "datatext.txt::datatext.txt_26": {
   "source": "By level, your {STR_VAR_1} has\\ngrown by {STR_VAR_2}.",
@@ -86919,7 +86922,10 @@
   "target": "NIE ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505686.4281754,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_490": {
   "source": "A life-form whose identity is unknown.\\nIt is said to SCREECH or suddenly\\nSELFDESTRUCT.",
@@ -88806,7 +88812,10 @@
   "target": "MISTRZ LIGI!\\nGRATULACJE!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505682.44053,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1995": {
   "source": "<<< FILE: maps/Route2_ViridianForest_NorthEntrance/text.inc >>>",
