@@ -2268,7 +2268,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790515494.8995502,
+  "updated": 1790515497.7500596,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_139": {
@@ -53294,10 +53294,13 @@
  },
  "data maps.txt::data maps.txt_1868": {
   "source": "Dang!",
-  "target": "Ojej!",
+  "target": "Nie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515509.4287949,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2594": {
   "source": "Dang!\\nBlast it!",
@@ -83245,10 +83248,13 @@
  },
  "data maps.txt::data maps.txt_1892": {
   "source": "Keep me company till I get a hit.",
-  "target": "Trzymaj mnie w towarzystwie.",
+  "target": "Dotrzymaj mi towarzystwa, co?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515534.8744352,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_753": {
   "source": "It swims through icy seas while shattering\\nice floes with its large tusks. It is\\nprotected by its thick blubber.",
