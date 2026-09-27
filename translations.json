@@ -59731,12 +59731,12 @@
  },
  "data maps.txt::data maps.txt_746": {
   "source": "I'm searching for items that raise\\nthe stats of POKéMON.\\pThey're effective over the course\\nof a single battle.\\pX ATTACK, X DEFEND, X SPEED, \\nand X SPECIAL are what I'm after.\\pDo you know where I can get them?",
-  "target": "Szukam przedmiotów, które zwiększają\\nstatystyki POKéMONÓW.\\pSą efektywne w przeciągu\\npojedynczej walki.\\pObiektem moich poszukiwań są\\nX ATAK, X OBRONA, X SZYBKOŚĆ i\\pX SPECJALNE. Wiesz może, gdzie je zdobyć?",
+  "target": "Szukam przedmiotów, które zwiększają\\nstatystyki POKéMONÓW.\\pSą efektywne w przeciągu\\npojedynczej walki.\\pObiektem moich poszukiwań są\\nX ATAK, X OBRONA, X SZYBKOŚĆ i\\pX SPECJALNE. \\nWiesz może, gdzie je zdobyć?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790513574.862854,
+  "updated": 1790513614.8571723,
   "touched": true
  },
  "src.txt::src.txt_1332": {
