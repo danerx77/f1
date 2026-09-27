@@ -57612,10 +57612,13 @@
  },
  "data maps.txt::data maps.txt_956": {
   "source": "Obtained an extra page for the\\nTOWN MAP!",
-  "target": "Dostaje dodatkowe strony\\ndo MAPY!",
+  "target": "{PLAYER} Dostaje dodatkowe strony\\ndo MAPY!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790513814.899602,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3341": {
   "source": "Blow me away! GIOVANNI was the\\nGYM LEADER of VIRIDIAN?",
