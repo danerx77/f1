@@ -60087,7 +60087,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790516214.8793917,
+  "updated": 1790516234.823043,
   "touched": true
  },
  "src.txt::src.txt_478": {
@@ -98188,7 +98188,10 @@
   "target": "Witamy.\\p PREZES jest w sali konferencyjnej\\nna 11P.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516254.8986454,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1030": {
   "source": "OAK: If a wild POKéMON appears,\\nyour POKéMON can battle it.\\pWith it at your side, you should be\\nable to reach the next town.",
