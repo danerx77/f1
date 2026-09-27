@@ -25466,10 +25466,13 @@
  },
  "datatext.txt::datatext.txt_1037": {
   "source": "The other TRAINERS don't appear\\nto be ready for battle.\\pLet's wait till later.{PAUSE_UNTIL_PRESS}",
-  "target": "Inni TRENERZY nie są gotowi\\nna walkę.\\pSpróbuj później.                        {PAUSE_UNTIL_PRESS}",
+  "target": "Inni TRENERZY nie są gotowi\\nna walkę.\\pSpróbuj później.{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518174.9266086,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3231": {
   "source": "Hello, {PLAYER}!\\pDid you come see me about my\\nPOKéMON again?\\pNo?\\nToo bad!",
