@@ -26483,12 +26483,12 @@
  },
  "datatext.txt::datatext.txt_860": {
   "source": "Obtained the {STR_VAR_2}!",
-  "target": "{STR_VAR_2} dostaje !",
+  "target": "{PLAYER} dostaje {STR_VAR_2}!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790517734.882742,
+  "updated": 1790517774.8902645,
   "touched": true
  },
  "src.txt::src.txt_681": {
@@ -70387,10 +70387,13 @@
  },
  "datatext.txt::datatext.txt_870": {
   "source": "Obtained the {STR_VAR_2}!",
-  "target": "{STR_VAR_2} dostaje !",
+  "target": "{PLAYER} dostaje {STR_VAR_2}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517761.7288682,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1767": {
   "source": "SAMUEL",
