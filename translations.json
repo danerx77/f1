@@ -72575,10 +72575,13 @@
  },
  "data maps.txt::data maps.txt_3340": {
   "source": "Yo!\\nChamp in the making!\\pEven I don't know the VIRIDIAN\\nLEADER's identity.\\pBut one thing's certain.\\nThis will be the toughest of all\\lthe GYM LEADERS.\\pAlso, I heard that the TRAINERS\\nhere like GROUND-type POKéMON.",
-  "target": "Hej!\\nMistrzu!\\pNawet ja nie wiem kto jest LIDEREM\\nSALI w VIRIDIAN.\\pJedno jest pewne.\\nJest najsilniejszym ze wszystkich\\lLIDERÓW SAL.\\pNo i podobno TRENERZY, którzy\\nsię tu zebrali trenują POKéMONY ZIEMNE.",
+  "target": "Hej!\\nMistrzu!\\pNawet ja nie wiem kto jest LIDEREM\\nSALI w VIRIDIAN.\\pJedno jest pewne.\\nJest najsilniejszym ze wszystkich\\lLIDERÓW SAL.\\pNo i podobno TRENERZY, którzy\\nsię tu zebrali trenują\\pPOKéMONY ZIEMNE.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517094.9056108,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1919": {
   "source": "ALEXIS",
