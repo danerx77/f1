@@ -43870,10 +43870,13 @@
  },
  "data maps.txt::data maps.txt_185": {
   "source": "Oh!\\nBeaten!",
-  "target": "O!\\nKoniec!",
+  "target": "O! \\nKoniec!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512446.7377174,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_28": {
   "source": "MOUSE",
@@ -49625,7 +49628,10 @@
   "target": "O! Koniec!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512454.8967218,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1736": {
   "source": "GRUNT",
@@ -74994,7 +75000,10 @@
   "target": "O! Koniec!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512449.240886,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_932": {
   "source": "?",
