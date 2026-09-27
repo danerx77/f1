@@ -97324,7 +97324,10 @@
   "target": "PODEJMIJ\\nPRZEDMIOT",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519614.9363127,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1684": {
   "source": "<<< FILE: maps/Route16/text.inc >>>",
