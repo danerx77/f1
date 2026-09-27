@@ -10297,10 +10297,13 @@
  },
  "data maps.txt::data maps.txt_1109": {
   "source": "TRAINER TIPS\\pAll POKéMON that appear in battle,\\nhowever briefly, earn EXP Points.",
-  "target": "PORADA\\pWszystkie POKéMONY biorące udział w\\nwalce, choćby przez turę, zyskują EXP.",
+  "target": "PORADA\\pWszystkie POKéMONY biorące udział w\\nwalce, choćby przez turę, \\pzyskują EXP.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514109.6620276,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2752": {
   "source": "I love BUG POKéMON.\\nThat's why I'm here all the time.\\pAm I the only girl like that?",
@@ -90060,7 +90063,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790357398.5642872,
+  "updated": 1790514134.9028246,
   "touched": true
  },
  "data maps.txt::data maps.txt_1544": {
