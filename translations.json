@@ -49101,7 +49101,10 @@
   "target": "KWASO-ZBROJA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790511540.4448285,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_221": {
   "source": "GULPIN DOLL",
@@ -89241,7 +89244,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790511534.8516932,
+  "updated": 1790511574.8614,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_95": {
