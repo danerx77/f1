@@ -13490,7 +13490,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790503085.5666592,
+  "updated": 1790503086.8217225,
   "touched": true
  },
  "data maps.txt::data maps.txt_2695": {
@@ -67951,10 +67951,13 @@
  },
  "srcdata.txt::srcdata.txt_762": {
   "source": "Water with a high mineral content.\\\\nIt restores the HP of one POKéMON\\\\nby 50 points.",
-  "target": "Woda z dużą zawartością minerałów.\\nPrzywraca HP jednego POKéMONA\\no 50 punktów.",
+  "target": "Woda z dużą zawartością minerałów.\\\\nPrzywraca HP jednego POKéMONA\\\\no 50 punktów.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790503099.0182014,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_634": {
   "source": "This POKéMON races across the land.\\nIt is said that north winds will somehow\\nblow whenever it appears.",
@@ -90200,10 +90203,13 @@
  },
  "srcdata.txt::srcdata.txt_760": {
   "source": "A medicine that revives a fainted\\\\nPOKéMON, restoring HP fully.",
-  "target": "Lekarstwo pobudzające omdlałego\\nPOKéMONA. Przywraca całe HP.",
+  "target": "Lekarstwo pobudzające omdlałego\\\\nPOKéMONA. Przywraca całe HP.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790503090.32937,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1012": {
   "source": "Can be ground up into a powder as\\\\nan ingredient for medicine.",
@@ -97939,7 +97945,10 @@
   "target": "Podstawowy atak.\\nMożna nim ściąć\\nmałe drzewka oraz\\ntrawę.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790503105.5235648,
+  "touched": true
  },
  "src.txt::src.txt_137": {
   "source": "{B_ATK_NAME_WITH_PREFIX} is getting\\npumped!",
