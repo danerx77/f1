@@ -76518,10 +76518,13 @@
  },
  "src.txt::src.txt_447": {
   "source": " BERRY",
-  "target": " JAGÓD",
+  "target": " JAGODY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519014.9264374,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_118": {
   "source": "DRAGON",
