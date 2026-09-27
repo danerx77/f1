@@ -64654,7 +64654,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790362871.4437366,
+  "updated": 1790519374.9091392,
   "touched": true
  },
  "data maps.txt::data maps.txt_2707": {
@@ -95086,12 +95086,12 @@
  },
  "src.txt::src.txt_1131": {
   "source": "POKéMON LIST",
-  "target": "LISTA",
+  "target": "LISTA POKéMONÓW",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519334.9077256,
+  "updated": 1790519341.9227822,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_730": {
