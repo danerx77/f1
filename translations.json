@@ -20525,10 +20525,13 @@
  },
  "data maps.txt::data maps.txt_592": {
   "source": "Ready?\\nBoing!\\pWe're having a BODY SLAM match\\nto see who wimps out first.\\pIf you were to join us, you'd be\\nsquashed like a bug, though…\\pHow about I teach BODY SLAM to\\na POKéMON of yours instead?",
-  "target": "Gotów?\\nBoing!\\pRobimy pojedynek na ATAK CIAŁEM,\\nżeby zobaczyć kto pierwszy\\pwymięknie.\\nZgnietlibyśmy cię jak\\probaka, gdybyś się przyłączył…\\nMoże mam nauczyć ATAK CIAŁEM twojego POKéMONA?",
+  "target": "Gotów?\\nBoing!\\pRobimy pojedynek na ATAK CIAŁEM,\\nżeby zobaczyć kto pierwszy\\pwymięknie.\\nZgnietlibyśmy cię jak\\probaka, gdybyś się przyłączył…\\nMoże mam nauczyć ATAK \\pCIALEM twojego POKéMONA?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790513254.8645957,
+  "touched": true
  },
  "data maps.txt::data maps.txt_392": {
   "source": "<<< FILE: maps/CinnabarIsland_PokemonLab_Entrance/text.inc >>>",
