@@ -16411,7 +16411,10 @@
   "target": "POKéMON",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790511174.8957875,
+  "touched": true
  },
  "src.txt::src.txt_2133": {
   "source": "Special Thanks\\n\\n\\n\\n\\n\\n",
@@ -38280,7 +38283,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790511134.8765764,
+  "updated": 1790511143.7594543,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_1": {
@@ -98610,7 +98613,10 @@
   "target": "POKéMON",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790511173.3916578,
+  "touched": true
  },
  "data maps.txt::data maps.txt_91": {
   "source": "I'm thirsty!\\nI want something to drink!\\p{FONT_NORMAL}Give her a drink?",
