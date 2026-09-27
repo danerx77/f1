@@ -4851,7 +4851,10 @@
   "target": "ODZNAKA TĘCZY spowoduje, że\\nposłuszne będą POKéMONY do\\pLv. 50.\\nPozwala też używać SIŁY\\pPOKéMONOM poza walką. Proszę, weź ze sobą jeszcze to.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512334.886424,
+  "touched": true
  },
  "datatext.txt::datatext.txt_413": {
   "source": "Detailed descriptions are given for\\nterms that appear in the game.",
@@ -59792,12 +59795,12 @@
  },
  "data maps.txt::data maps.txt_161": {
   "source": "You are cataloging POKéMON?\\nI must say I'm impressed.\\pI would never collect POKéMON if\\nthey were unattractive.",
-  "target": "Katalogujesz POKéMONY?\\nMuszę powiedzieć, że jestem\\ppod wrażeniem.\\nNigdy nie zbierałabym brzydkich POKéMONÓW.",
+  "target": "Katalogujesz POKéMONY?\\nMuszę powiedzieć, że jestem\\ppod wrażeniem.\\nNigdy nie zbierałabym\\nbrzydkich POKéMONÓW.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790512294.8979068,
+  "updated": 1790512308.3999634,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_562": {
