@@ -65592,10 +65592,13 @@
  },
  "datatext.txt::datatext.txt_1005": {
   "source": "You don't have enough money.",
-  "target": "Nie masz tylu pieniędzy.",
+  "target": "Masz za mało pieniędzy.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518069.853447,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_835": {
   "source": "HP UP",
@@ -75242,10 +75245,13 @@
  },
  "datatext.txt::datatext.txt_1035": {
   "source": "The battery isn't charged enough.\\pNo. of steps required to fully\\ncharge the battery: {STR_VAR_1}{PAUSE_UNTIL_PRESS}",
-  "target": "Bateria nie jest jeszcze\\pwystarczająco naładowana.\\nPotrzeba jeszcze {STR_VAR_1}{PAUSE_UNTIL_PRESS} kroków!",
+  "target": "Bateria nie jest jeszcze\\nwystarczająco naładowana.\\pPotrzeba jeszcze {STR_VAR_1} kroków!{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518094.8878567,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1": {
   "source": "<<< FILE: text/aide.inc >>>",
