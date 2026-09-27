@@ -61392,10 +61392,13 @@
  },
  "data maps.txt::data maps.txt_3199": {
   "source": "Hi!\\nDo you have a {STR_VAR_1}?\\pWant to trade it for my\\n{STR_VAR_2}?",
-  "target": "Hej!\\nCzy masz {STR_VAR_1}?\\pChcesz wymienić go za\\n{STR_VAR_2}?",
+  "target": "Cześć!\\nCzy masz {STR_VAR_1}?\\pChcesz wymienić się na\\n{STR_VAR_2}?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516950.1367285,
+  "touched": true
  },
  "data maps.txt::data maps.txt_448": {
   "source": "{PLAYER} entered two passwords.\\p“GOLDEEN need log.”\\n“Yes, nah, CHANSEY.”\\p… …  … …  … …\\pThe WAREHOUSE's door opened!",
@@ -92893,7 +92896,10 @@
   "target": "Są szaleńcy, którzy używają\\nPOKéMONÓW do dokonywania\\pprzestępstw.\\nZESPÓŁ R, na przykład, handluje\\przadkimi POKéMONAMI.\\nWyrzucają też POKéMONY, które\\puznają za niepopularne lub\\nbezużyteczne. Takimi właśnie potworami jest cały ZESPÓŁ R.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516974.9008296,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1006": {
   "source": "It is said that it usually hides in\\nunderwater caves. It can create\\nwhirlpools by yawning.",
