@@ -68562,10 +68562,13 @@
  },
  "data maps.txt::data maps.txt_3151": {
   "source": "Welcome to the S.S. ANNE!\\pExcuse me, do you have a ticket?",
-  "target": "Witamy na S.S. ANNA!\\pPrzepraszam, czy pokaże mi Pan bilet?",
+  "target": "Witamy na S.S. ANNA!\\pPrzepraszam, czy pokaże mi Pan\\nbilet?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516789.9467413,
+  "touched": true
  },
  "datatext.txt::datatext.txt_895": {
   "source": "<<< FILE: text/pokedex_rating.inc >>>",
@@ -74204,7 +74207,10 @@
   "target": "Och, witaj, {PLAYER}!\\nJak leci?\\pTo ja, jeden z POMOCNIKÓW PROF.\\pOAKA.\\pCzy spotkałeś innego POMOCNIKA?\\nMiał dla ciebie paczkę od\\pPROFESORA OAKA, {PLAYER}.\\nPowiedział, że szuka cię przy\\pDRODZE 2, {PLAYER}.\\nZnajdź go, jeśli będziesz gdzieś przy DRODZE 2.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516814.9153268,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_531": {
   "source": "MILD",
