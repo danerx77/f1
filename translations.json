@@ -15981,7 +15981,10 @@
   "target": "{PLAYER}: Hej!\\nDzięki za wszystko, co dla nas\\pzrobiłaś.\\p{PLAYER}: Co?\\n{PLAYER}: Bawi cię małpowanie każdego\\pmojego ruchu i słowa?\\nCOPYCAT: Jasne! Kocham to!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515814.8635292,
+  "touched": true
  },
  "src.txt::src.txt_1389": {
   "source": "LEARNED",
