@@ -24963,10 +24963,13 @@
  },
  "srcdata.txt::srcdata.txt_764": {
   "source": "A fizzy soda drink.\\\\nIt restores the HP of one POKéMON\\\\nby 60 points.",
-  "target": "Napój z bąbelkami.\\nPrzywraca HP jednego z POKéMONÓW\\no 60 punktów.",
+  "target": "Napój z bąbelkami.\\\\nPrzywraca HP jednego z POKéMONÓW\\\\no 60 punktów.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790503127.1656344,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_944": {
   "source": "HIP AND",
@@ -97942,12 +97945,12 @@
  },
  "srcdata.txt::srcdata.txt_1388": {
   "source": "Attacks the foe with sharp blades\\\\nor claws. It can also cut down thin\\\\ntrees and grass outside of battle.",
-  "target": "Podstawowy atak.\\nMożna nim ściąć\\nmałe drzewka oraz\\ntrawę.",
+  "target": "Podstawowy atak.\\\\nMożna nim ściąć\\\\nmałe drzewka oraz\\\\ntrawę.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790503105.5235648,
+  "updated": 1790503122.6024327,
   "touched": true
  },
  "src.txt::src.txt_137": {
