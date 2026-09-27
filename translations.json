@@ -4848,12 +4848,12 @@
  },
  "data maps.txt::data maps.txt_162": {
   "source": "The RAINBOWBADGE will make\\nPOKéMON up to Lv. 50 obey.\\pIt also allows POKéMON to use\\nSTRENGTH in and out of battle.\\pPlease also take this with you.",
-  "target": "ODZNAKA TĘCZY spowoduje, że\\nposłuszne będą POKéMONY do\\pLv. 50.\\nPozwala też używać SIŁY\\pPOKéMONOM poza walką. Proszę, weź ze sobą jeszcze to.",
+  "target": "ODZNAKA TĘCZY spowoduje, że\\nposłuszne będą POKéMONY do\\pLv. 50.\\nPozwala też używać SIŁY\\nPOKéMONOM poza walką.\\pProszę, weź ze sobą jeszcze to.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790512334.886424,
+  "updated": 1790512360.9381826,
   "touched": true
  },
  "datatext.txt::datatext.txt_413": {
@@ -64800,7 +64800,10 @@
   "target": "Ej!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512374.85977,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_85": {
   "source": "STURDY",
@@ -77707,7 +77710,10 @@
   "target": "O, hej!\\pNie chcemy tu typów ROBAKÓW i\\nOGNISTYCH!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512361.585925,
+  "touched": true
  },
  "src.txt::src.txt_601": {
   "source": "ばしょでも しっかりと そだつ.",
