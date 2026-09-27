@@ -20769,10 +20769,13 @@
  },
  "src.txt::src.txt_248": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\nraised its SPEED!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-\\n{B_SCR_ACTIVE_ABILITY}zwiększa prędkość!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-\\n{B_SCR_ACTIVE_ABILITY} zwiększa prędkość!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518801.7091181,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1092": {
   "source": "Does everyone know about type\\nmatchups?\\pPOKéMON and their moves all\\nbelong to certain types.\\pFor example, there are such types\\nas GRASS and WATER.\\pYou need to consider the type of\\nthe move used to attack…\\pAnd, the type of the POKéMON that\\nis hit by that attack.\\pDepending on how those two types\\nmatch up, the damage can change.\\pYou see, it depends on whether\\nthe type matchup is good or bad.\\pIf you don't know how matchups\\nwork, battles will be tough.\\pSo, let me demonstrate exactly\\nwhat I mean.\\pAll righty, here goes!\\pKeep your eyes glued to the super\\nPOKé DUDE SHOW!",
@@ -51456,12 +51459,12 @@
  },
  "src.txt::src.txt_243": {
   "source": "{B_ACTIVE_NAME_WITH_PREFIX}'s {B_CURRENT_MOVE}\\nis disabled!\\p",
-  "target": "{B_ACTIVE_NAME_WITH_PREFIX}-\\n{B_CURRENT_MOVE}wyłączony!\\p",
+  "target": "{B_ACTIVE_NAME_WITH_PREFIX}-\\n{B_CURRENT_MOVE} wyłączony!\\p",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518774.8943558,
+  "updated": 1790518780.4541545,
   "touched": true
  },
  "src.txt::src.txt_1814": {
@@ -59157,10 +59160,13 @@
  },
  "src.txt::src.txt_247": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\nmade it rain!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-\\n{B_SCR_ACTIVE_ABILITY}tworzy deszcz!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-\\n{B_SCR_ACTIVE_ABILITY} tworzy deszcz!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518799.7225974,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1116": {
   "source": "ポケモンに　きのみを\\nもたせて　おけば\\lたたかっている　ときに\\lかってに　つかって　くれるんだ\\pキズぐすり　とか　どくけし　より\\nてがるで　べんり　だろ？",
@@ -84914,10 +84920,13 @@
  },
  "src.txt::src.txt_246": {
   "source": "{B_ACTIVE_NAME_WITH_PREFIX} can't use the\\nsealed {B_CURRENT_MOVE}!\\p",
-  "target": "{B_ACTIVE_NAME_WITH_PREFIX}-\\n{B_CURRENT_MOVE}jest zapieczętowany!\\p",
+  "target": "{B_ACTIVE_NAME_WITH_PREFIX}-\\n{B_CURRENT_MOVE} jest zapieczętowany!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518793.5647168,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1683": {
   "source": "RAMIRO",
@@ -93765,7 +93774,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} chroniony\\nprzez {B_DEF_ABILITY}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518814.9226177,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3050": {
   "source": "Those BIKERS…\\nAre they gone?\\pOh, thank goodness!\\nThey certainly had me terrified!",
