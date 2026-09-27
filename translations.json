@@ -68772,7 +68772,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790505505.140891,
+  "updated": 1790519330.9120064,
   "touched": true
  },
  "src.txt::src.txt_1415": {
@@ -95089,7 +95089,10 @@
   "target": "LISTA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519334.9077256,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_730": {
   "source": "A rough customer that wildly flails its\\ngiant claws. It is said to be extremely\\nhard to raise.",
