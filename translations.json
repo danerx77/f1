@@ -23018,10 +23018,13 @@
  },
  "data maps.txt::data maps.txt_141": {
   "source": "Oops!\\nDon't have the COIN CASE!",
-  "target": "Uop!\\nNie masz ETUI NA ŻETONY!",
+  "target": "Uop! \\nNie masz ETUI NA ŻETONY!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512254.86362,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1076": {
   "source": "An item to be held by a POKéMON.\\\\nA light and sharp claw. The holder\\\\nmay be able to strike first.",
@@ -33512,7 +33515,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790512213.6616926,
+  "updated": 1790512219.0123413,
   "touched": true
  },
  "src.txt::src.txt_1605": {
@@ -70587,7 +70590,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790512214.9035606,
+  "updated": 1790512217.7941566,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1074": {
