@@ -70479,7 +70479,10 @@
   "target": "Hej, {PLAYER}. Pewnie\\nzaprzyjaźniłeś się już ze swoimi\\pPOKéMONAMI.\\nPrzy okazji, wiesz, o\\pDAISY?\\nJeśli pokażesz jej swoje POKéMONY,\\ppowie ci, jak bardzo cię lubią.\\nCzasami nawet uczesze je\\pdla ciebie!\\nTo tajemnica, więc lepiej nie mów o tym nikomu, ok?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790514014.8865287,
+  "touched": true
  },
  "src.txt::src.txt_932": {
   "source": "A shadowy blob is\\nhurled at the foe.\\nMay also lower the\\nfoe's SP. DEF.",
