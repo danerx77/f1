@@ -45112,12 +45112,12 @@
  },
  "data maps.txt::data maps.txt_2250": {
   "source": "TRAINER TIPS\\pFULL HEAL cures all ailments like\\nburns, paralysis, poisoning,\\lfreezing, and sleep.\\pIt costs a bit more, but it's more\\nconvenient than buying other items.",
-  "target": "PORADA\\pUZDROWIENIE leczy każde schorzenie -\\npoparzenia, paraliż, zatrucie,\\lzamrożenie i sen.\\pKosztuje trochę więcej, ale jest\\nbardziej przydatne niż inne przedmioty.",
+  "target": "PORADA\\pUZDROWIENIE leczy każde schorzenie -\\npoparzenia, paraliż, zatrucie,\\lzamrożenie i sen.\\pKosztuje trochę więcej, ale jest\\nbardziej przydatne niż inne \\pprzedmioty.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790515734.9343183,
+  "updated": 1790515774.895656,
   "touched": true
  },
  "src.txt::src.txt_777": {
