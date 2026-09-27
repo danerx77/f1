@@ -27638,7 +27638,10 @@
   "target": "BILL: Tak?\\nOkej, pozwól, że rzucę okiem.\\p…Trzymaj się…\\nMyślę, że da się coś z tym zrobić.\\lPozwól, że pomogę, ok?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790513774.902113,
+  "touched": true
  },
  "src.txt::src.txt_515": {
   "source": "Bad EGG",
