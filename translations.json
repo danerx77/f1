@@ -10480,10 +10480,13 @@
  },
  "data maps.txt::data maps.txt_1840": {
   "source": "I love floating with the fishes\\nhere among the waves.",
-  "target": "Uwielbiam pływać z rybkami\\ntutaj, pośród fal.",
+  "target": "Kocham pływać sobie z rybkami\\npomiędzy falami.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515334.893432,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_986": {
   "source": "It is actually timid and easily spooked.\\nIf attacked, it flails about to fend off\\nits attacker.",
