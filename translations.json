@@ -1762,7 +1762,10 @@
   "target": "Zrezygnować z próby nauczenia\\n{STR_VAR_1} nowego ruchu?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506610.9859986,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1252": {
   "source": "This place is ideal for a lab.\\nLook at all this space.",
@@ -9701,7 +9704,10 @@
   "target": "Chyba za sobą nie\\nprzepadają.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506622.373096,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_99": {
   "source": "A GULPIN doll.\\nPlace it on a mat\\nor a desk.",
@@ -21155,7 +21161,10 @@
   "target": "Naucz, którego ruchu {STR_VAR_1}?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506621.4510653,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1044": {
   "source": "SHUPPET",
@@ -35119,7 +35128,10 @@
   "target": "Wolą bawić się z innymi POKéMONAMI\\nniż ze sobą.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506621.8978207,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1302": {
   "source": "The user tightens all its muscles\\\\nand bulks up, boosting both its\\\\nATTACK and DEFENSE stats.",
@@ -35203,7 +35215,10 @@
   "target": "{STR_VAR_1} próbuje\\nsię uczyć {STR_VAR_2}.\\pAle {STR_VAR_1} nie może nauczyć\\nsię więcej niż czterech ruchów.\\pUsunąć starszy ruch, aby\\nzwolnić miejsce dla {STR_VAR_2}?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506619.503177,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_580": {
   "source": "It lives by drinking only dewdrops from\\nunder the leaves of plants. It is said\\nthat it eats nothing else.",
@@ -38369,7 +38384,10 @@
   "target": "Który ruch ma być zapomniany?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506608.7293282,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_753": {
   "source": "SEEL",
@@ -38729,7 +38747,10 @@
   "target": "{STR_VAR_1} zapomniał o {STR_VAR_3}.\\pI‥\\p{STR_VAR_1} nauczył\\nsię {STR_VAR_2}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506612.9960523,
+  "touched": true
  },
  "src.txt::src.txt_2695": {
   "source": "MAGNETON",
@@ -44836,7 +44857,10 @@
   "target": "Nauczyć {STR_VAR_2}?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506620.9172337,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1043": {
   "source": "Hey! What's wrong with you?\\nYou're still not wearing shorts!",
@@ -53338,7 +53362,10 @@
   "target": "Wyraźnie lubią się.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506622.7736924,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1378": {
   "source": "I give!",
@@ -61012,7 +61039,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790506606.4207926,
+  "updated": 1790506607.9496913,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1029": {
@@ -71067,7 +71094,10 @@
   "target": "Wyraźnie bardzo się\\nlubią.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506625.015877,
+  "touched": true
  },
  "datatext.txt::datatext.txt_224": {
   "source": "FOUR ISLAND",
@@ -73769,7 +73799,10 @@
   "target": "1, {PAUSE 0x0F}2 i{PAUSE 0x0F}… {PAUSE 0x0F}… {PAUSE 0x0F}… {PAUSE 0x0F}{PLAY_SE SE_BALL_BOUNCE_1} Puuf!\\p zapomniał jak używać .I...",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506616.7844121,
+  "touched": true
  },
  "datatext.txt::datatext.txt_542": {
   "source": " Reading the “POKéDEX”",
@@ -77416,7 +77449,10 @@
   "target": "Nie uczyć się{STR_VAR_2}?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506617.8151178,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_31": {
   "source": "A yellow balloon\\nfilled with water.\\nPops if stepped on.",
@@ -85057,7 +85093,10 @@
   "target": "{STR_VAR_1} poznał\\n{STR_VAR_2}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790506619.970015,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_740": {
   "source": "TENTACRUEL",
