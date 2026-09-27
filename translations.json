@@ -68200,7 +68200,10 @@
   "target": "Czy nie mają żadnych\\nproporczyków promujących\\pSTREFĘ SAFARI?\\nMoże jakieś papierowe latarenki? Nie ma nawet kalendarzy?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790513414.8850346,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1038": {
   "source": "It will always obey the commands of a\\nskilled TRAINER. Its behavior arises from\\nits living in packs in ancient times.",
