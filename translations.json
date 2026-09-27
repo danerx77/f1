@@ -57791,12 +57791,12 @@
  },
  "data maps.txt::data maps.txt_1172": {
   "source": "The secrets of space…\\nThe mysteries of earth…\\pThere are so many things about\\nwhich we know so little.\\pBut that should spur us to study\\nharder, not toss in the towel.\\pThe only thing you should toss…\\pWell, how about SEISMIC TOSS?\\nShould I teach that to a POKéMON?",
-  "target": "Sekrety kosmosu…\\nTajemnice ziemi…\\pJest tak wiele rzeczy, o których\\nwiemy tak mało.\\pAle to powinno motywować nas, do\\nbadań, a nie do ich porzucenia.\\pJedyna rzecz warta rzucania…\\pCóż, może RZUT SEJSMICZNY?\\nMoże nauczyć twojego POKéMONA SEJSMORZUTU?",
+  "target": "Sekrety kosmosu…\\nTajemnice ziemi…\\pJest tak wiele rzeczy, o których\\nwiemy tak mało.\\pAle to powinno motywować nas, do\\nbadań, a nie do ich porzucenia.\\pJedyna rzecz warta rzucania…\\pCóż, może RZUT SEJSMICZNY?\\nMoże nauczyć twojego POKéMONA \\pSEJSMORZUTU?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790514294.860437,
+  "updated": 1790514334.912596,
   "touched": true
  },
  "data maps.txt::data maps.txt_1191": {
