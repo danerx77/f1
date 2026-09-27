@@ -33434,7 +33434,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790505726.391923,
+  "updated": 1790505747.4880414,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_367": {
@@ -61565,7 +61565,10 @@
   "target": "WYRZUĆ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505758.6898332,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2318": {
   "source": "I have much to learn still…\\pI must master PSYCHIC and teach it\\nto my POKéMON…",
@@ -95523,7 +95526,10 @@
   "target": "REJESTRUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790505766.4218082,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_660": {
   "source": "SEAFOAM ISLANDS",
