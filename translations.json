@@ -18706,10 +18706,13 @@
  },
  "datatext.txt::datatext.txt_1177": {
   "source": "You want to know if the fish are\\nbiting?",
-  "target": "Czy chcesz wiedzieć, czy ryby\\ngryzą?",
+  "target": "Chcesz wiedzieć, czy łapią\\nryby?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518304.7969618,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_318": {
   "source": "STOMACH",
@@ -95857,10 +95860,13 @@
  },
  "datatext.txt::datatext.txt_1185": {
   "source": "Keep me company till I get a hit.",
-  "target": "Trzymaj mnie w towarzystwie.",
+  "target": "Dotrzymaj mi towarzystwa, co?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518334.9448812,
+  "touched": true
  },
  "data maps.txt::data maps.txt_793": {
   "source": "They say there're over 1,500\\nactive volcanoes in the world.\\pJust thinking about them makes me\\nfeel all hot and gooey inside!",
