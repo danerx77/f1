@@ -39524,10 +39524,13 @@
  },
  "data maps.txt::data maps.txt_2787": {
   "source": "I'm pretty familiar with the land\\naround these parts.",
-  "target": "Jestem dość obeznany z terenem\\nwokół tych części.",
+  "target": "Dobrze znam te tereny, wychowałem\\nsię tutaj.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516414.8927555,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_82": {
   "source": "HERMIT CRAB",
@@ -48921,7 +48924,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790516374.8952556,
+  "updated": 1790516380.9555678,
   "touched": true
  },
  "data maps.txt::data maps.txt_1452": {
