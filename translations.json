@@ -24399,12 +24399,12 @@
  },
  "data maps.txt::data maps.txt_3138": {
   "source": "We're careful about pollution here.\\pWe've heard GRIMER multiplies in\\ntoxic sludge.",
-  "target": "Jesteśmy ostrożni w sprawach\\pzanieczyszczeń.\\nPodobno GRIMER mnoży się w toksynach.",
+  "target": "Jesteśmy ostrożni w sprawach\\pzanieczyszczeń.\\nPodobno GRIMER mnoży się \\pw toksynach.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790516734.900216,
+  "updated": 1790516774.9116392,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_293": {
