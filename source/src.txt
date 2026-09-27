@@ -1809,6 +1809,7 @@ Save completed.\n“Please press the A Button.”
 YOUR NAME?
 BOX NAME?
 's nickname?
+A?
 RIVAL's NAME?
 {DPAD_ANY}MOVE {A_BUTTON}OK {B_BUTTON}BACK
 {A_BUTTON}GUIDE
