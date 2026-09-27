@@ -6302,10 +6302,13 @@
  },
  "data maps.txt::data maps.txt_2982": {
   "source": "THREE ISLAND is actually the most\\npopulous of the islands here.\\pStill, it could be less sleepy.\\pBut I wouldn't want to see goons\\nlike those BIKERS here again.",
-  "target": "WYSPA THREE jest chyba\\nnajpopularniejszą z\\pwszystkich wysp.\\pAle mogłaby być trochę mniej senna.\\nZ drugiej strony, nie chcę, żeby pobudzali nas MOTOCYKLIŚCI.",
+  "target": "WYSPA THREE jest chyba\\nnajpopularniejszą z\\pwszystkich wysp.\\pAle mogłaby być trochę mniej senna.\\nZ drugiej strony, nie chcę, \\pżeby pobudzali nas MOTOCYKLIŚCI.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516574.9299889,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_558": {
   "source": "STICK",
