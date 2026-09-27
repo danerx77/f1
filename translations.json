@@ -48916,10 +48916,13 @@
  },
  "data maps.txt::data maps.txt_2775": {
   "source": "There appear to be many secrets\\nstill unsolved in this world.",
-  "target": "Wygląda na to, że na tym\\nświecie wciąż jest wiele tajemnic.",
+  "target": "W tym świecie wydaje się być\\nwiele nierozwikłanych tajemnic.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516374.8952556,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1452": {
   "source": "{PLAYER} received the EVERSTONE\\nfrom the AIDE.",
