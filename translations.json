@@ -40737,10 +40737,13 @@
  },
  "data maps.txt::data maps.txt_3113": {
   "source": "Try waking up before you crawl out\\nof bed, you punk.\\pThis is TWO ISLAND!\\pMove it! Get your filthy motorbike\\nout of my place!",
-  "target": "Spróbuj się obudzić, zanim\\nwypełzniesz z łóżka,\\pmały.\\pTo WYSPA TWO!\\nSpadaj! Zabieraj swój motor z mojego sklepu!",
+  "target": "Spróbuj się obudzić, zanim\\nwypełzniesz z łóżka,\\pmały.\\pTo WYSPA TWO!\\nSpadaj! Zabieraj swój motor z\\pmojego sklepu!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516694.9026895,
+  "touched": true
  },
  "data maps.txt::data maps.txt_909": {
   "source": "My favorite part of bathing comes\\nup right after this.\\pI enjoy a bowl of chowder to\\nwarm me from the inside, too!",
