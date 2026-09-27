@@ -44,10 +44,13 @@
  },
  "src.txt::src.txt_1260": {
   "source": "The BERRY POUCH will be\\nput away.",
-  "target": "WOREK zostanie\\nodłożony.",
+  "target": "WOREKNAJAGODY zostanie\\nodłożony.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519534.905917,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_545": {
   "source": "DEPT. STORE",
@@ -39075,10 +39078,13 @@
  },
  "src.txt::src.txt_1212": {
   "source": "EXIT",
-  "target": "WRÓĆ",
+  "target": "ZAMKNIJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519500.9101963,
+  "touched": true
  },
  "src.txt::src.txt_2471": {
   "source": "PINSIR",
