@@ -48188,10 +48188,13 @@
  },
  "data maps.txt::data maps.txt_1762": {
   "source": "Get lost, kid!\\nI'm bushed!",
-  "target": "Wynocha!\\nJestem zarżnięty!",
+  "target": "Spadaj, mały!\\nMam dość!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515294.8963454,
+  "touched": true
  },
  "src.txt::src.txt_1674": {
   "source": "STORE",
