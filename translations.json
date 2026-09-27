@@ -33510,7 +33510,10 @@
   "target": "Ojej!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512213.6616926,
+  "touched": true
  },
  "src.txt::src.txt_1605": {
   "source": "2F",
@@ -70582,7 +70585,10 @@
   "target": "Pilnuję tego plakatu!\\nSpadaj, bo oberwiesz!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512214.9035606,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1074": {
   "source": "It battles by flinging around its tail,\\nwhich is bigger than its body. The\\ntail is a flotation device in water.",
@@ -71892,7 +71898,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790512174.8773193,
+  "updated": 1790512195.8434913,
   "touched": true
  },
  "src.txt::src.txt_673": {
