@@ -68197,12 +68197,12 @@
  },
  "data maps.txt::data maps.txt_676": {
   "source": "Don't they have any pennants\\npromoting the SAFARI ZONE?\\pHow about some paper lanterns?\\nAren't there even any calendars?",
-  "target": "Czy nie mają żadnych\\nproporczyków promujących\\pSTREFĘ SAFARI?\\nMoże jakieś papierowe latarenki? Nie ma nawet kalendarzy?",
+  "target": "Czy nie mają żadnych\\nproporczyków promujących\\pSTREFĘ SAFARI?\\nMoże jakieś papierowe latarenki? \\pNie ma nawet kalendarzy?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790513414.8850346,
+  "updated": 1790513454.8768127,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1038": {
