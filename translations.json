@@ -20725,7 +20725,10 @@
   "target": "{PLAYER} dostaje {STR_VAR_2}\\nod POMOCNIKA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790515654.903504,
+  "touched": true
  },
  "src.txt::src.txt_15": {
   "source": "FIRE",
@@ -57596,12 +57599,12 @@
  },
  "data maps.txt::data maps.txt_1679": {
   "source": "Great! You have caught or owned\\n{STR_VAR_3} kinds of POKéMON!\\pCongratulations!\\nHere you go!",
-  "target": "Świetnie! Złapałeś już\\n{STR_VAR_3} gatunków POKéMONÓW!\\pGratuluję!\\nProszę bardzo!",
+  "target": "Świetnie! Złapałeś już\\n{STR_VAR_3} gatunków POKéMONÓW!\\pGratuluję!\\nOto obiecany przedmiot!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790515254.8990612,
+  "updated": 1790515636.5445943,
   "touched": true
  },
  "src.txt::src.txt_1211": {
