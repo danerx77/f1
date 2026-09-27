@@ -51459,7 +51459,10 @@
   "target": "{B_ACTIVE_NAME_WITH_PREFIX}-\\n{B_CURRENT_MOVE}wyłączony!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518774.8943558,
+  "touched": true
  },
  "src.txt::src.txt_1814": {
   "source": "{A_BUTTON}GUIDE",
@@ -65067,10 +65070,13 @@
  },
  "src.txt::src.txt_228": {
   "source": "{B_ATK_NAME_WITH_PREFIX}'s {B_CURRENT_MOVE}\\nwas bounced back by MAGIC COAT!",
-  "target": "{B_ATK_NAME_WITH_PREFIX} - jego {B_CURRENT_MOVE}\\nodbite przez LUSTROOSŁONĘ!",
+  "target": "{B_ATK_NAME_WITH_PREFIX} jego {B_CURRENT_MOVE}\\nodbite przez LUSTROOSŁONĘ!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518758.3792973,
+  "touched": true
  },
  "src.txt::src.txt_2007": {
   "source": "{STR_VAR_1} hatched from the EGG!",
@@ -97239,10 +97245,13 @@
  },
  "src.txt::src.txt_226": {
   "source": "{B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1} lost\\nall its PP due to the GRUDGE!",
-  "target": "{B_ATK_NAME_WITH_PREFIX} - jego {B_BUFF1}\\ntraci całe PP w wyniku URAZY!",
+  "target": "{B_ATK_NAME_WITH_PREFIX} jego {B_BUFF1}\\ntraci całe PP w wyniku URAZY!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518748.1387737,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2052": {
   "source": "SHARON",
