@@ -92513,7 +92513,10 @@
   "target": "{RIVAL}: Hej!\\pNadal wleczesz się jak\\nżółw?\\pMi idzie świetnie! Złapałem\\njuż kupę mądrych i silnych POKéMONÓW!\\pDawaj, pokaż mi co złapałeś,\\n{PLAYER}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512534.878072,
+  "touched": true
  },
  "src.txt::src.txt_2844": {
   "source": "You want to chat, huh?\\nSure, just wait a little.",
