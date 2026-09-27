@@ -23526,7 +23526,10 @@
   "target": "Och…\\nZawodzisz mnie…",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790513334.9094276,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1": {
   "source": "<<< FILE: src/data/ingame_trades.h >>>",
