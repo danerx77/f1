@@ -16594,10 +16594,13 @@
  },
  "src.txt::src.txt_19": {
   "source": "PSYCHC",
-  "target": "PSYCHOKINEZA",
+  "target": "PSYCHI.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518530.0995834,
+  "touched": true
  },
  "datatext.txt::datatext.txt_239": {
   "source": "SAFFRON CITY",
@@ -23544,10 +23547,13 @@
  },
  "src.txt::src.txt_12": {
   "source": "GHOST",
-  "target": "DUCH",
+  "target": "DUCHOW.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518518.9189947,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1842": {
   "source": "ARIANA",
@@ -29163,10 +29169,13 @@
  },
  "src.txt::src.txt_22": {
   "source": "DARK",
-  "target": "MROCZNY",
+  "target": "MROCZN.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518534.9203112,
+  "touched": true
  },
  "datatext.txt::datatext.txt_24": {
   "source": "Fine.\\nCome again.",
