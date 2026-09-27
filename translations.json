@@ -402,7 +402,10 @@
   "target": "NARODOWY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790511106.576565,
+  "touched": true
  },
  "data maps.txt::data maps.txt_998": {
   "source": "MOM: Oh, good! You and your\\nPOKéMON are looking great.\\lTake care now!",
@@ -38275,7 +38278,10 @@
   "target": "POKéDEX",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790511134.8765764,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_1": {
   "source": "<<< FILE: src/data/decoration/description.h >>>",
