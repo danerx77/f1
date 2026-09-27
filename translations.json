@@ -25083,10 +25083,13 @@
  },
  "datatext.txt::datatext.txt_1167": {
   "source": "The water is shallow here.\\nThere are many people swimming.",
-  "target": "Woda jest tutaj taka płytka.\\nPływa tutaj wiele osób.",
+  "target": "Woda jest tu płytka.\\nWiele ludzi przychodzi tu pływać.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790518294.9213774,
+  "touched": true
  },
  "src.txt::src.txt_508": {
   "source": "ice",
