@@ -69225,10 +69225,13 @@
  },
  "data maps.txt::data maps.txt_197": {
   "source": "Don't touch the poster at the GAME\\nCORNER!\\pThere's no secret switch behind it!",
-  "target": "Nie dotykaj plakatu w SALONIE\\nGIER!\\pNie ma tam żadnego sekretnego przycisku!",
+  "target": "Nie dotykaj plakatu w SALONIE\\nGIER!\\pNie ma tam żadnego sekretnego \\nprzycisku!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790512494.868878,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_875": {
   "source": "The large pincer has 10,000-horsepower\\ncrushing force. However, its huge size\\nmakes it unwieldy to use.",
