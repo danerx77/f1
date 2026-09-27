@@ -63192,10 +63192,13 @@
  },
  "data maps.txt::data maps.txt_2437": {
   "source": "I work to protect the environment.\\nIn turn, nature protects me!",
-  "target": "Pracuję, aby chronić środowisko.\\nZ kolei natura mnie chroni!",
+  "target": "Pracuję dla ochrony środowiska.\\nW zamian, natura chroni i mnie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516054.8769984,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1869": {
   "source": "I can't catch anything good.\\nNot one good POKéMON to be had!",
