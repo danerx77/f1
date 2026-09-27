@@ -95048,12 +95048,12 @@
  },
  "datatext.txt::datatext.txt_472": {
   "source": "Forests are basically the same as\\nroads but they can be like mazes.\\lAll forests have a way out, so don't\\lgive up if you get lost.",
-  "target": "Lasy są właściwie tym samym czym\\ndrogi, chociaż są bardziej jak\\llabirynty.\\lWszystkie lasy mają wyjścia, więc nie poddawaj się!",
+  "target": "Lasy są właściwie tym samym czym\\ndrogi, chociaż są bardziej jak\\llabirynty.\\lWszystkie lasy mają wyjścia, \\lwięc nie poddawaj się!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790517574.905814,
+  "updated": 1790517579.3774147,
   "touched": true
  },
  "src.txt::src.txt_2263": {
@@ -97415,10 +97415,13 @@
  },
  "datatext.txt::datatext.txt_473": {
   "source": "Caves are dark and dangerous. Wild\\nPOKéMON can appear anywhere in them.\\lIf there is an emergency, rush to a\\lPOKéMON CENTER or use items.\\lNew towns await discovery beyond some\\lcaves, so don't give up.",
-  "target": "Jaskinie są mroczne i niebezpieczne.\\nZawsze mogą tam pojawić się dzikie\\lPOKéMONY.\\lW razie niebezpieczeństwa\\lgoń do CENTRUM POKéMON lub użyj\\lprzedmiotu. Za niektórymi jaskiniami czekają nowe miasta.",
+  "target": "Jaskinie są mroczne i niebezpieczne.\\nZawsze mogą tam pojawić się dzikie\\lPOKéMONY.\\lW razie niebezpieczeństwa\\lgoń do CENTRUM POKéMON lub użyj\\lprzedmiotu. Za niektórymi jaskiniami \\lczekają nowe miasta.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517614.8845086,
+  "touched": true
  },
  "datatext.txt::datatext.txt_621": {
   "source": "PP",
