@@ -92510,12 +92510,12 @@
  },
  "data maps.txt::data maps.txt_215": {
   "source": "{RIVAL}: Yo! {PLAYER}!\\pYou're still struggling along back\\nhere?\\pI'm doing great! I caught a bunch\\nof strong and smart POKéMON!\\pHere, let me see what you caught,\\n{PLAYER}!",
-  "target": "{RIVAL}: Hej!\\pNadal wleczesz się jak\\nżółw?\\pMi idzie świetnie! Złapałem\\njuż kupę mądrych i silnych POKéMONÓW!\\pDawaj, pokaż mi co złapałeś,\\n{PLAYER}!",
+  "target": "{RIVAL}: Hej! {PLAYER}!\\pNadal wleczesz się jak\\nżółw?\\pMi idzie świetnie! Złapałem\\njuż kupę mądrych i silnych POKéMONÓW!\\pDawaj, pokaż mi co złapałeś,\\n{PLAYER}!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790512534.878072,
+  "updated": 1790512574.8962839,
   "touched": true
  },
  "src.txt::src.txt_2844": {
