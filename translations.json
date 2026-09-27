@@ -98574,10 +98574,13 @@
  },
  "data maps.txt::data maps.txt_3031": {
   "source": "I bought this house because I\\nwanted to live somewhere quiet.\\pToday, I think I'll go out fishing.",
-  "target": "Kupiłam ten dom, bo chciałam\\nmieszkać w cichym i spokojnym\\pmiejscu. Dziś, pójdę chyba na ryby.",
+  "target": "Kupiłam ten dom, bo chciałam\\nmieszkać w cichym i spokojnym\\pmiejscu. \\nDziś, pójdę chyba na ryby.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790516614.9458058,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_481": {
   "source": "COLLECTION",
