@@ -63850,10 +63850,13 @@
  },
  "src.txt::src.txt_396": {
   "source": "Wild ",
-  "target": "Wróg ",
+  "target": "Dziki  ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519090.2728553,
+  "touched": true
  },
  "src.txt::src.txt_1284": {
   "source": "SHIFT",
@@ -64653,7 +64656,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519054.9494624,
+  "updated": 1790519068.985594,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_352": {
@@ -89274,10 +89277,13 @@
  },
  "src.txt::src.txt_399": {
   "source": "Ally",
-  "target": "Nasz",
+  "target": "Twój",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790519094.9124024,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1814": {
   "source": "TERRY",
