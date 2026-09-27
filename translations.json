@@ -59496,10 +59496,13 @@
  },
  "datatext.txt::datatext.txt_897": {
   "source": "The amount of progress you've made\\non your POKéDEX is:\\p{STR_VAR_1} POKéMON seen and\\n{STR_VAR_2} POKéMON owned.\\p{FONT_NORMAL}PROF. OAK's rating:",
-  "target": "Stopień postępu podczas\\npracy nad POKéDEKSEM to:\\p{STR_VAR_1} POKéMONÓW widzianych i\\n{STR_VAR_2} posiadanych.\\pOcena PROF. OAKA:",
+  "target": "Stopień postępu podczas\\npracy nad POKéDEKSEM to:\\p{STR_VAR_1} POKéMONÓW widzianych i\\n{STR_VAR_2} posiadanych {FONT_NORMAL}.\\pOcena PROF. OAKA:",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790517934.905525,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_390": {
   "source": "IRON TAIL",
