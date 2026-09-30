@@ -111,7 +111,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} spudłował!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790796754.8811207,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_922": {
   "source": "A relatively small pearl that\\\\nsparkles in a pretty silver color.\\\\nIt can be sold cheaply.",
@@ -7395,10 +7398,13 @@
  },
  "src.txt::src.txt_47": {
   "source": "{B_BUFF1} did not learn\\n{B_BUFF2}.\\p",
-  "target": "{B_BUFF1}  nie poznał\\n{B_BUFF2}.\\p",
+  "target": "{B_BUFF1} nie poznał\\n{B_BUFF2}.\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790796741.0837364,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_186": {
   "source": "ROLLING KICK",
@@ -24741,7 +24747,10 @@
   "target": "Następny POKéMON?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790796748.0295868,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1263": {
   "source": "<<< FILE: maps/PokemonTower_2F/text.inc >>>",
@@ -36459,7 +36468,10 @@
   "target": "{PAUSE 32}Nie uczyć się\\n{B_BUFF2}?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790796734.626,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_121": {
   "source": "A piece of MAIL to be held by a\\nPOKéMON. It will bear the print of\\nthe POKéMON holding it.",
@@ -36482,7 +36494,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790796714.8626933,
+  "updated": 1790796728.6494658,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_103": {
