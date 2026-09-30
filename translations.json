@@ -30590,7 +30590,10 @@
   "target": "{B_EFF_NAME_WITH_PREFIX}\\nzasnął!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797230.5920153,
+  "touched": true
  },
  "src.txt::src.txt_1568": {
   "source": "せつめいを きく",
@@ -40672,10 +40675,13 @@
  },
  "src.txt::src.txt_68": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\nmade {B_EFF_NAME_WITH_PREFIX} sleep!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}- jego {B_SCR_ACTIVE_ABILITY}\\nuśpił {B_EFF_NAME_WITH_PREFIX}!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}  jego {B_SCR_ACTIVE_ABILITY}\\nuśpił {B_EFF_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797234.9058137,
+  "touched": true
  },
  "datatext.txt::datatext.txt_998": {
   "source": "TRAINER TIPS!\\pPress START to open the MENU!",
@@ -43997,7 +44003,10 @@
   "target": "{B_PLAYER_NAME} nie ma już\\nPOKéMONÓW!\\pGracz przegrał z\\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797204.9253168,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1481": {
   "source": "Well, better get back to work.",
@@ -47289,7 +47298,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790797194.8765123,
+  "updated": 1790797198.9631193,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1196": {
@@ -61024,7 +61033,10 @@
   "target": "{B_PLAYER_NAME} zapłacił ¥{B_BUFF1}  nagrody\\n…\\p… … … …\\p{B_PLAYER_NAME} przegrywa!{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797209.3687854,
+  "touched": true
  },
  "src.txt::src.txt_1202": {
   "source": "▶",
@@ -64932,7 +64944,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} nie pozwala\\nuciec {B_SCR_ACTIVE_ABILITY}!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797214.848959,
+  "touched": true
  },
  "datatext.txt::datatext.txt_128": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Those thugs that took over our\\nbuilding…\\pTheir BOSS said he was looking for\\nstrong POKéMON.",
@@ -79914,7 +79929,10 @@
   "target": "{B_PLAYER_NAME} przegrywa!{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797211.6218836,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1996": {
   "source": "Many POKéMON live only in forests \\nand caves.\\pYou need to be persistent and look\\neverywhere to get different kinds.",
@@ -84684,7 +84702,10 @@
   "target": "Nie można!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797217.7430139,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_538": {
   "source": "LIVING",
@@ -89565,7 +89586,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} nie może!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797222.5138836,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1018": {
   "source": "Hmm…\\pCome back with a better story next\\ntime, okay?",
@@ -90913,7 +90937,10 @@
   "target": "Trafił {B_BUFF1} raz(y)",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797225.8639393,
+  "touched": true
  },
  "src.txt::src.txt_2830": {
   "source": "The other TRAINER showed\\nyou their TRAINER CARD.\\pWould you like to show your\\nTRAINER CARD?",
