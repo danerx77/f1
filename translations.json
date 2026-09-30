@@ -25381,7 +25381,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} jest już\\npoparzony.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790799793.698478,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_461": {
   "source": "SHADOW MAIL",
@@ -64331,7 +64334,10 @@
   "target": "{B_EFF_NAME_WITH_PREFIX}\\nzamarza!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790799795.8488123,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_644": {
   "source": "MRS.",
@@ -82958,7 +82964,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790799755.8298187,
+  "updated": 1790799791.2279954,
   "touched": true
  },
  "src.txt::src.txt_2491": {
