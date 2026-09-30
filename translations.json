@@ -20356,7 +20356,10 @@
   "target": "{B_BUFF1}  zyskał {B_BUFF2}\\n{B_BUFF3} punktów EXP!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790795794.818948,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1455": {
   "source": "RUBY",
@@ -44117,7 +44120,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790795754.7921705,
+  "updated": 1790795792.2182553,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1233": {
@@ -72886,7 +72889,10 @@
   "target": " podbite",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790795787.010703,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1857": {
   "source": "Will my pearls grow bigger inside\\nCLOYSTER?",
