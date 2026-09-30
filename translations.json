@@ -8065,7 +8065,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790797113.0422568,
+  "updated": 1790797118.233936,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_5": {
@@ -16700,7 +16700,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX}\\nmdleje!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797133.1753225,
+  "touched": true
  },
  "data maps.txt::data maps.txt_762": {
   "source": "MR. FUJI: {PLAYER}…\\pYour POKéDEX quest is one that\\nrequires strong dedication.\\pWithout deep love for POKéMON,\\nyour quest may fail.\\pI'm not sure if this will help you,\\nbut I'd like you to have it.",
@@ -31953,7 +31956,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790797114.8830802,
+  "updated": 1790797118.0724459,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_644": {
@@ -41323,7 +41326,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790797112.697874,
+  "updated": 1790797119.4405107,
   "touched": true
  },
  "data maps.txt::data maps.txt_443": {
@@ -44806,7 +44809,10 @@
   "target": "To nie działa na \\n{B_DEF_NAME_WITH_PREFIX}…",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797124.552516,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1536": {
   "source": "ISABELLE",
@@ -69305,7 +69311,10 @@
   "target": "{B_PLAYER_NAME} zdobywa ¥{B_BUFF1}\\nnagrody!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797154.8923888,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_712": {
   "source": "WILD",
@@ -90831,7 +90840,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX}\\nmdleje!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797128.3778486,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_958": {
   "source": "SILCOON",
