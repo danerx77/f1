@@ -42078,12 +42078,12 @@
  },
  "src.txt::src.txt_2197": {
   "source": "PEOPLE",
-  "target": "POKÉMONÓW.\\n\\nLUDZIE",
+  "target": "LUDZIE",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790795594.7715182,
+  "updated": 1790795630.2935076,
   "touched": true
  },
  "src.txt::src.txt_2836": {
