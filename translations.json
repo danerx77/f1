@@ -1391,12 +1391,12 @@
  },
  "src.txt::src.txt_79": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\nburned {B_EFF_NAME_WITH_PREFIX}!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-{B_SCR_ACTIVE_ABILITY}\\npoparzył {B_EFF_NAME_WITH_PREFIX}!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_SCR_ACTIVE_ABILITY}\\npoparzył {B_EFF_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790798795.7204804,
+  "updated": 1790798798.5174575,
   "touched": true
  },
  "data maps.txt::data maps.txt_2904": {
@@ -82956,7 +82956,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} cierpi\\nod poparzeń!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790798835.7456133,
+  "touched": true
  },
  "src.txt::src.txt_2491": {
   "source": "ISAC & MAG",
