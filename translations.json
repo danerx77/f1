@@ -6012,7 +6012,10 @@
   "target": "{B_PLAYER_NAME} nie ma już\\nPOKéMONÓW!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797193.248139,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2130": {
   "source": "MEOWTH is so cute, meow, meow,\\nmeow!",
@@ -47284,7 +47287,10 @@
   "target": "{B_PLAYER_NAME} panikuje i traci ¥{B_BUFF1}……\\p… … …\\p{B_PLAYER_NAME} przegrywa!{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797194.8765123,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1196": {
   "source": "COOL COUPLE",
@@ -69313,7 +69319,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790797154.8923888,
+  "updated": 1790797185.175995,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_712": {
