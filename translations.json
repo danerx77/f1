@@ -7836,7 +7836,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX}\\nbył zdrowy!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790798720.4116457,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2085": {
   "source": "KATELYN",
@@ -33930,7 +33933,10 @@
   "target": "{B_EFF_NAME_WITH_PREFIX}\\nzatruty!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790798722.6660023,
+  "touched": true
  },
  "src.txt::src.txt_597": {
   "source": "あっても 6つの み しか つけない.",
@@ -64062,7 +64068,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-jego {B_SCR_ACTIVE_ABILITY}\\nzatruł {B_EFF_NAME_WITH_PREFIX}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790798755.7627537,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1335": {
   "source": "TM25",
@@ -95014,7 +95023,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790798715.72943,
+  "updated": 1790798717.1009293,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_755": {
