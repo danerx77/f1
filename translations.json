@@ -38823,7 +38823,10 @@
   "target": "{B_TRAINER1_NAME}: {B_OPPONENT_MON1_NAME}, wracaj!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790795714.7880807,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_34": {
   "source": "KNOW",
