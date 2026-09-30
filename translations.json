@@ -8063,7 +8063,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} niweluje ZIEMNE\\nataki przez {B_DEF_ABILITY}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797113.0422568,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_5": {
   "source": "SEED",
@@ -31945,12 +31948,12 @@
  },
  "src.txt::src.txt_51": {
   "source": "{B_DEF_NAME_WITH_PREFIX} avoided\\ndamage with {B_DEF_ABILITY}!",
-  "target": "{B_DEF_NAME_WITH_PREFIX} unikna\\nobrażeń przez {B_DEF_ABILITY}",
+  "target": "{B_DEF_NAME_WITH_PREFIX} uniknął\\nobrażeń przez {B_DEF_ABILITY}",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790797074.863177,
+  "updated": 1790797114.8830802,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_644": {
@@ -41318,7 +41321,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} uniknął\\nataku!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797112.697874,
+  "touched": true
  },
  "data maps.txt::data maps.txt_443": {
   "source": "If you don't go into the right\\ntunnel, you won't get ahead.",
