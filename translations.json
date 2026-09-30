@@ -15421,7 +15421,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790795514.78015,
+  "updated": 1790795543.386303,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1095": {
@@ -35527,7 +35527,10 @@
   "target": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}To twój jedyny\\nPOKéMON do walki.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790795554.7553759,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_864": {
   "source": "UMBREON",
