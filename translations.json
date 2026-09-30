@@ -20353,12 +20353,12 @@
  },
  "src.txt::src.txt_38": {
   "source": "{B_BUFF1} gained{B_BUFF2}\\n{B_BUFF3} EXP. Points!\\p",
-  "target": "{B_BUFF1}  zyskał {B_BUFF2}\\n{B_BUFF3} punktów EXP!\\p",
+  "target": "{B_BUFF1} zyskał {B_BUFF2}\\n{B_BUFF3} punktów EXP!\\p",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790795794.818948,
+  "updated": 1790795802.0104566,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1455": {
@@ -22270,7 +22270,10 @@
   "target": "Ale, {B_BUFF1}  nie może znać\\nwięcej niż 4 ruchy.\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790795827.1894522,
+  "touched": true
  },
  "src.txt::src.txt_1813": {
   "source": "RIVAL's NAME?",
@@ -36477,7 +36480,10 @@
   "target": "{B_BUFF1}  zapomniał\\n{B_BUFF2}.\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790795834.759796,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_103": {
   "source": "SCATTER",
@@ -51602,7 +51608,10 @@
   "target": "Zamienić jeden z ruchów\\nna {B_BUFF2}?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790795832.5792074,
+  "touched": true
  },
  "src.txt::src.txt_2157": {
   "source": "\\n\\nNob Ogasawara\\n\\nTeresa Lillygren\\n\\n",
@@ -59781,7 +59790,10 @@
   "target": "{B_BUFF1}  poznał\\n{B_BUFF2}!{WAIT_SE}\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790795819.42584,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_723": {
   "source": "If it comes across a SEVIPER, its fur\\nbristles and it assumes its battle pose.\\nIts sharp claws are its best weapon.",
@@ -72891,7 +72903,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790795787.010703,
+  "updated": 1790795802.604186,
   "touched": true
  },
  "data maps.txt::data maps.txt_1857": {
@@ -76334,7 +76346,10 @@
   "target": "{B_BUFF1}  chce nauczyć\\nsię {B_BUFF2}.\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790795823.6412444,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1164": {
   "source": "?????",
@@ -88512,7 +88527,10 @@
   "target": "{B_BUFF1}  zdobył\\nLV. {B_BUFF2}!{WAIT_SE}\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790795819.043346,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2429": {
   "source": "If you're confident, you should\\ncheck out TRAINER TOWER.",
