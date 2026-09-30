@@ -113,7 +113,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790797034.8520133,
+  "updated": 1790797049.1538393,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_922": {
@@ -31948,7 +31948,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} unikna\\nobrażeń przez {B_DEF_ABILITY}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797074.863177,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_644": {
   "source": "S.S. ANNE",
@@ -32166,7 +32169,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX}\\nchroni się!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790797057.6036577,
+  "touched": true
  },
  "src.txt::src.txt_1640": {
   "source": "The FAME CHECKER will be closed.",
