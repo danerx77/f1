@@ -38825,7 +38825,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790795714.7880807,
+  "updated": 1790795744.7874463,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_34": {
@@ -44117,7 +44117,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518694.9487517
+  "updated": 1790795754.7921705,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1233": {
   "source": "OLD ROD",
@@ -85541,7 +85542,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518566.0112314
+  "updated": 1790795745.258189,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_152": {
   "source": "GENETIC",
