@@ -35529,7 +35529,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790795554.7553759,
+  "updated": 1790795558.5141912,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_864": {
@@ -42078,10 +42078,13 @@
  },
  "src.txt::src.txt_2197": {
   "source": "PEOPLE",
-  "target": "",
-  "status": "new",
+  "target": "POKÉMONÓW.\\n\\nLUDZIE",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790795594.7715182,
+  "touched": true
  },
  "src.txt::src.txt_2836": {
   "source": "You declined the offer.\\p",
