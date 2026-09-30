@@ -1394,7 +1394,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-{B_SCR_ACTIVE_ABILITY}\\npoparzył {B_EFF_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790798795.7204804,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2904": {
   "source": "Okay, you're not bad.",
@@ -16183,7 +16186,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} uległ\\nwyssaniu energii!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790798791.4607534,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2321": {
   "source": "SABRINA just wiped out the KARATE\\nMASTER next door.",
@@ -24501,7 +24507,10 @@
   "target": "{B_EFF_NAME_WITH_PREFIX} poważnie\\notruty!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790798790.1090841,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_209": {
   "source": "HEALTHY",
@@ -36220,7 +36229,10 @@
   "target": "{B_EFF_NAME_WITH_PREFIX} poparzony!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790798792.2648325,
+  "touched": true
  },
  "src.txt::src.txt_1921": {
   "source": "LR",
@@ -64065,12 +64077,12 @@
  },
  "src.txt::src.txt_73": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\npoisoned {B_EFF_NAME_WITH_PREFIX}!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-jego {B_SCR_ACTIVE_ABILITY}\\nzatruł {B_EFF_NAME_WITH_PREFIX}",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} jego {B_SCR_ACTIVE_ABILITY}\\nzatruł {B_EFF_NAME_WITH_PREFIX}",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790798755.7627537,
+  "updated": 1790798786.76921,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1335": {
@@ -84396,7 +84408,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} jest już\\notruty.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790798788.6887324,
+  "touched": true
  },
  "src.txt::src.txt_449": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\ncured paralysis!",
@@ -88345,7 +88360,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} raniony\\ntrucizną!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1790798787.060458,
+  "touched": true
  },
  "src.txt::src.txt_886": {
   "source": "A 5-turn sandstorm\\nthat damages all\\ntypes except ROCK,\\nGROUND, and STEEL.",
