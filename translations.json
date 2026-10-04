@@ -29089,7 +29089,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} obudził się\\nz HAŁASEM!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131448.788875,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1073": {
   "source": "Hahahaha!\\nI'll win this time!",
@@ -29379,7 +29382,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} ZBIERA\\n{B_BUFF1}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131469.678872,
+  "touched": true
  },
  "src.txt::src.txt_1398": {
   "source": "Climb a waterfall.",
@@ -39883,10 +39889,13 @@
  },
  "src.txt::src.txt_152": {
   "source": "{B_ATK_NAME_WITH_PREFIX} calmed down.",
-  "target": "{B_ATK_NAME_WITH_PREFIX} uspokoił się",
+  "target": "{B_ATK_NAME_WITH_PREFIX} uspokoił się.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131460.8666072,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_684": {
   "source": "It grows stronger by enduring harsh\\ntraining. It is a gutsy POKéMON that can\\nwithstand any attack.",
@@ -46798,7 +46807,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} wywołał\\nHAŁAS!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131451.4563797,
+  "touched": true
  },
  "src.txt::src.txt_116": {
   "source": "{B_ATK_PREFIX3}'s party is no longer\\nprotected by SAFEGUARD!",
@@ -55105,7 +55117,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131429.6734972,
+  "updated": 1791131442.3622234,
   "touched": true
  },
  "src.txt::src.txt_1853": {
@@ -57349,7 +57361,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} robi\\nHAŁAS!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131452.3235881,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_978": {
   "source": "SURSKIT",
@@ -96442,7 +96457,10 @@
   "target": "Ale {B_DEF_NAME_WITH_PREFIX} nie\\nmoże spać w HAŁASIE!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131465.18371,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_648": {
   "source": "Its arms are rock-hard. With one swing,\\nthey can batter down its foe. It makes its\\nnest on beautiful beaches.",
