@@ -36982,7 +36982,10 @@
   "target": "OAK: Zadawanie obrażeń wrogu\\njest kluczem do zwycięstwa.\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133035.519554,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_579": {
   "source": "THIS IS IT!",
@@ -40491,7 +40494,10 @@
   "target": "TRENER, który spowoduje, że\\nPOKéMONY wroga zemdleją\\lzmniejszając ich HP\\pdo “0,” wygrywa.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133034.433055,
+  "touched": true
  },
  "src.txt::src.txt_360": {
   "source": "{B_OPPONENT_MON1_NAME} is angry!",
@@ -68020,7 +68026,10 @@
   "target": "Ale więcej nauczysz się w praktyce,\\nniż w teorii.\\pSpróbuj przeprowadzić walkę\\pi przekonaj się sam.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133035.0524304,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_289": {
   "source": "SO",
@@ -84577,7 +84586,10 @@
   "target": "5-turowy turlający\\natak, który staje\\nsię lepszy za\\nkażdym razem.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133069.6757324,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1386": {
   "source": "I came this far looking for wild\\nPOKéMON.",
@@ -88719,7 +88731,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791133029.6768966,
+  "updated": 1791133032.2617729,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_39": {
