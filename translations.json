@@ -9728,7 +9728,10 @@
   "target": "Atakuj {B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132702.144298,
+  "touched": true
  },
  "src.txt::src.txt_1996": {
   "source": "This document is issued in\\nrecognition of your magnificent\\nachievement - the completion of\\nthe {DYNAMIC 0x01} POKéDEX.",
@@ -10026,7 +10029,10 @@
   "target": "{B_LINK_SCR_TRAINER_NAME} wysyła\\n{B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132696.9179122,
+  "touched": true
  },
  "src.txt::src.txt_456": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\nnormalized its status!",
@@ -17328,7 +17334,10 @@
   "target": "{B_LINK_OPPONENT1_NAME} wysyła\\n{B_OPPONENT_MON1_NAME} i {B_OPPONENT_MON2_NAME}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132694.5604217,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1047": {
   "source": "It lives at the water's edge where it is\\nsunny. It sleeps on a bed of water grass\\nby day and becomes active at night.",
@@ -21669,7 +21678,10 @@
   "target": "{B_BUFF1} , wystarczy!\\nWracaj!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132705.6180716,
+  "touched": true
  },
  "src.txt::src.txt_2592": {
   "source": "SLOWKING",
@@ -27320,7 +27332,10 @@
   "target": "MAROWAK był DUCHEM!\\p\\n",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132674.6699224,
+  "touched": true
  },
  "datatext.txt::datatext.txt_126": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Editor: The shy MR. FUJI turned\\ndown our interview requests.\\pHe is a kindly man who is adored\\nand respected in LAVENDER TOWN.",
@@ -29859,7 +29874,10 @@
   "target": "SKANER SILPH odkrywa tożsamość\\nDUCHA!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132674.2588637,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_871": {
   "source": "As it grows, the stone portions of its\\nbody harden to become similar to\\nblack-colored diamonds.",
@@ -30130,7 +30148,10 @@
   "target": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} wysyła\\n{B_OPPONENT_MON1_NAME} i {B_OPPONENT_MON2_NAME}!{PAUSE 60}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132687.777403,
+  "touched": true
  },
  "datatext.txt::datatext.txt_205": {
   "source": "FUCHSIA CITY",
@@ -33365,7 +33386,10 @@
   "target": "{B_BUFF1} , dobrze!\\nWracaj!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132707.096318,
+  "touched": true
  },
  "data maps.txt::data maps.txt_639": {
   "source": "You had me fooled!",
@@ -43553,7 +43577,10 @@
   "target": "Idź {B_PLAYER_MON1_NAME} i\\n{B_PLAYER_MON2_NAME}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132698.7817607,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_327": {
   "source": "MC",
@@ -44234,7 +44261,10 @@
   "target": "Duch atakuje!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132673.6192074,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1405": {
   "source": "POKéMON cosplay is dressing up as\\nPOKéMON for fun.\\pCLEFAIRY is a favorite.",
@@ -46163,7 +46193,10 @@
   "target": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} wysyła\\n{B_OPPONENT_MON1_NAME}!{PAUSE 60}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132685.2493722,
+  "touched": true
  },
  "src.txt::src.txt_1212": {
   "source": "EXIT",
@@ -53002,7 +53035,10 @@
   "target": "{B_LINK_OPPONENT1_NAME} wysyła\\n{B_OPPONENT_MON1_NAME} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132693.0465145,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_595": {
   "source": "AWAY",
@@ -54198,7 +54234,10 @@
   "target": "Idź {B_PLAYER_MON1_NAME} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132697.7532713,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_726": {
   "source": "PERFECT",
@@ -55535,7 +55574,10 @@
   "target": "DUCH atakuje!\\pKurcze!\\nNie można go zidentyfikować!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132672.8401837,
+  "touched": true
  },
  "src.txt::src.txt_1290": {
   "source": "NO ENTRY",
@@ -56750,7 +56792,10 @@
   "target": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\\nchce walczyć!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132676.9364607,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3109": {
   "source": "<<< FILE: maps/TwoIsland_JoyfulGameCorner/text.inc >>>",
@@ -58512,7 +58557,10 @@
   "target": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\\nwycofał  {B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132709.6958857,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_170": {
   "source": "FOUR ISLAND",
@@ -67937,7 +67985,10 @@
   "target": "Idź {B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132700.8817096,
+  "touched": true
  },
  "data maps.txt::data maps.txt_464": {
   "source": "Flap, flap!",
@@ -73395,7 +73446,10 @@
   "target": "{B_LINK_OPPONENT1_NAME} i {B_LINK_OPPONENT2_NAME}\\nchcą walczyć!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132678.6317816,
+  "touched": true
  },
  "src.txt::src.txt_492": {
   "source": "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}",
@@ -75105,7 +75159,10 @@
   "target": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} wysyła\\n{B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132688.7893515,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3040": {
   "source": "I sometimes buy medicine here.\\pBut a lot of people heal POKéMON\\nwith BERRIES from BERRY FOREST.\\pAfter all, BERRIES are free and\\nthey never run out.",
@@ -78826,7 +78883,10 @@
   "target": "{B_LINK_PARTNER_NAME} wysyła {B_LINK_PLAYER_MON2_NAME}!\\nIdź! {B_LINK_PLAYER_MON1_NAME}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132704.8047063,
+  "touched": true
  },
  "src.txt::src.txt_660": {
   "source": "WEPEAR",
@@ -79463,7 +79523,10 @@
   "target": "{B_LINK_OPPONENT1_NAME} wysyła\\n{B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132696.5141537,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_988": {
   "source": "EHEHE",
@@ -83879,7 +83942,10 @@
   "target": "Twój wróg jest słaby,\\nidź {B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132703.7904892,
+  "touched": true
  },
  "datatext.txt::datatext.txt_594": {
   "source": "{CIRCLE_1} Select “WITHDRAW ITEM” to withdraw\\n   an item stored on your PC.\\n{CIRCLE_2} Select “DEPOSIT ITEM” to put \\n   an item from your BAG into your PC.",
@@ -87827,7 +87893,10 @@
   "target": "{B_LINK_OPPONENT1_NAME} wysyła {B_LINK_OPPONENT_MON1_NAME}!\\n{B_LINK_OPPONENT2_NAME} wysyła {B_LINK_OPPONENT_MON2_NAME}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132695.7476354,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1012": {
   "source": "It is always bursting with energy. To make\\nitself stronger, it keeps on fighting even\\nif it loses.",
@@ -88160,7 +88229,10 @@
   "target": "{B_LINK_OPPONENT1_NAME}\\nchce walczyć!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132677.457056,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_731": {
   "source": "It was discovered in ancient ruins.\\nWhile moving, it constantly spins. It\\nstands on one foot even when asleep.",
@@ -93733,7 +93805,10 @@
   "target": "Ruszaj, {B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132702.6564527,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1035": {
   "source": "OAK: Oh, right!\\nI have a request for you two.",
@@ -97579,7 +97654,10 @@
   "target": "{B_BUFF1} , OK!\\nWracaj!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132706.6450968,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_501": {
   "source": "PC",
@@ -97765,7 +97843,10 @@
   "target": "{B_BUFF1} , wracaj!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132706.3467634,
+  "touched": true
  },
  "src.txt::src.txt_2406": {
   "source": "PICHU",
