@@ -18432,7 +18432,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} zapuścił korzenie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131749.333543,
+  "touched": true
  },
  "src.txt::src.txt_2871": {
   "source": "Whoa!\\nI can tell you're pretty tough!\\p",
@@ -21003,7 +21006,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} stan\\nwrócił do normy!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131717.3564427,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3191": {
   "source": "I'm the FISHING GURU!\\pI simply looove fishing!\\nI can't bear to go without.\\pTell me, do you like to fish?",
@@ -21182,10 +21188,13 @@
  },
  "src.txt::src.txt_215": {
   "source": "{B_ATK_NAME_WITH_PREFIX} copied\\n{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}!",
-  "target": "{B_ATK_NAME_WITH_PREFIX} kopiuje\\n{B_DEF_NAME_WITH_PREFIX}-{B_DEF_ABILITY}!",
+  "target": "{B_ATK_NAME_WITH_PREFIX} kopiuje\\n{B_DEF_NAME_WITH_PREFIX} {B_DEF_ABILITY}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131743.2284226,
+  "touched": true
  },
  "src.txt::src.txt_2312": {
   "source": "The other TRAINER has the same\\nWONDER CARD already.",
@@ -26877,7 +26886,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} skupia swoją\\nuwagę!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131720.6070828,
+  "touched": true
  },
  "datatext.txt::datatext.txt_92": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}No one can best me when it comes\\nto icy POKéMON.",
@@ -29389,7 +29401,10 @@
   "target": "{B_BUFF1} spełnia\\nŻYCZENIE!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131747.6450403,
+  "touched": true
  },
  "src.txt::src.txt_777": {
   "source": "A move that badly\\npoisons the foe.\\nIts poison damage\\nworsens every turn.",
@@ -36019,7 +36034,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} stał się\\ncentrum uwagi!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131712.0929923,
+  "touched": true
  },
  "data maps.txt::data maps.txt_951": {
   "source": "{PLAYER} handed the RUBY\\nto CELIO.",
@@ -40627,7 +40645,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} zmienił\\nprzedmioty z oponentem!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131724.9336686,
+  "touched": true
  },
  "src.txt::src.txt_989": {
   "source": "The user lets loose\\na horribly loud\\nshout with the\\npower to damage.",
@@ -41373,7 +41394,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} stał się\\ncelem UDRĘKI!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131719.239708,
+  "touched": true
  },
  "data maps.txt::data maps.txt_854": {
   "source": "ONE ISLAND\\nFriends Gather at Knot Island",
@@ -54183,10 +54207,13 @@
  },
  "src.txt::src.txt_214": {
   "source": "{B_ATK_NAME_WITH_PREFIX} obtained\\n{B_BUFF1}.\\p{B_DEF_NAME_WITH_PREFIX} obtained\\n{B_BUFF2}.",
-  "target": "{B_ATK_NAME_WITH_PREFIX} otrzymał\\n{B_BUFF1} .\\p{B_DEF_NAME_WITH_PREFIX} otrzymał\\n{B_BUFF2}.",
+  "target": "{B_ATK_NAME_WITH_PREFIX} otrzymał\\n{B_BUFF1}.\\p{B_DEF_NAME_WITH_PREFIX} otrzymał\\n{B_BUFF2}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131735.4040558,
+  "touched": true
  },
  "data maps.txt::data maps.txt_607": {
   "source": "SAFARI GAME\\nPOKéMON-U-CATCH!",
@@ -58501,7 +58528,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} jest gotów\\npomóc {B_DEF_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131723.7062864,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1787": {
   "source": "<<< FILE: maps/Route18_EastEntrance_2F/text.inc >>>",
@@ -59076,10 +59106,13 @@
  },
  "src.txt::src.txt_212": {
   "source": "{B_ATK_NAME_WITH_PREFIX} obtained\\n{B_BUFF1}.",
-  "target": "{B_ATK_NAME_WITH_PREFIX} otrzymał\\n{B_BUFF1} .",
+  "target": "{B_ATK_NAME_WITH_PREFIX} otrzymał\\n{B_BUFF1}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131729.2251701,
+  "touched": true
  },
  "src.txt::src.txt_2805": {
   "source": "You stopped being a member.\\p",
@@ -67046,7 +67079,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} zaczął\\nsię ładować!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131713.8888392,
+  "touched": true
  },
  "src.txt::src.txt_1798": {
   "source": "なにも かわらなかった!",
@@ -72641,7 +72677,10 @@
   "target": "SIŁA NATURY zmieniona w\\n{B_CURRENT_MOVE}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131715.7466075,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1162": {
   "source": "?????",
@@ -76271,7 +76310,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} poddał\\nsię KPINIE!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131721.9918485,
+  "touched": true
  },
  "src.txt::src.txt_2896": {
   "source": "Welcome to the TRADING BOARD.\\pYou may register your POKéMON\\nand offer it up for a trade.\\pWould you like to register one of\\nyour POKéMON?",
@@ -80122,7 +80164,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} absorbuje\\nsubstancje z korzeni!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131749.6716413,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_26": {
   "source": "HEARING",
@@ -95253,7 +95298,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} ŻYCZY sobie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131745.5997584,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1085": {
   "source": "How do I register an item?",
@@ -95384,10 +95432,13 @@
  },
  "src.txt::src.txt_213": {
   "source": "{B_DEF_NAME_WITH_PREFIX} obtained\\n{B_BUFF2}.",
-  "target": "{B_DEF_NAME_WITH_PREFIX} otrzymał\\n{B_BUFF2} .",
+  "target": "{B_DEF_NAME_WITH_PREFIX} otrzymał\\n{B_BUFF2}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131732.35462,
+  "touched": true
  },
  "src.txt::src.txt_2087": {
   "source": "Not even a nibble‥{PAUSE_UNTIL_PRESS}",
