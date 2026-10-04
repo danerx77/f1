@@ -4803,7 +4803,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518843.8781095
+  "updated": 1791132210.0554,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_449": {
   "source": "????????",
@@ -8435,7 +8436,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518851.016885
+  "updated": 1791132213.796684,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3171": {
   "source": "Now that's a shocker!\\pYou're the real deal, kid!\\pFine, then, take the THUNDERBADGE!",
@@ -9400,7 +9402,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518853.0777166
+  "updated": 1791132220.2545116,
+  "touched": true
  },
  "data maps.txt::data maps.txt_856": {
   "source": "グレンタウンに　もどりますか？",
@@ -12230,12 +12233,13 @@
  },
  "src.txt::src.txt_260": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\ncuts {B_DEF_NAME_WITH_PREFIX}'s ATTACK!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-\\n{B_SCR_ACTIVE_ABILITY} zmniejsza ATAK {B_DEF_NAME_WITH_PREFIX}!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} \\n{B_SCR_ACTIVE_ABILITY} zmniejsza ATAK {B_DEF_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518857.351209
+  "updated": 1791132229.5434227,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_911": {
   "source": "It accumulates negative ions in the\\natmosphere to blast out 10,000-volt\\nlightning bolts.",
@@ -24052,7 +24056,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518834.0898414
+  "updated": 1791132197.5997074,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_101": {
   "source": "BIRTH ISLAND",
@@ -28045,7 +28050,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518855.7670267
+  "updated": 1791132224.4836855,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_512": {
   "source": "DOOM DESIRE",
@@ -36951,12 +36957,13 @@
  },
  "src.txt::src.txt_248": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\nraised its SPEED!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-\\n{B_SCR_ACTIVE_ABILITY} zwiększa prędkość!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} \\n{B_SCR_ACTIVE_ABILITY} zwiększa prędkość!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518801.7091181
+  "updated": 1791132196.0808434,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1676": {
   "source": "Are you the kid who's working on\\na POKéDEX?\\pPROF. OAK's AIDE came by here.",
@@ -41380,7 +41387,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518840.948321
+  "updated": 1791132202.2269545,
+  "touched": true
  },
  "src.txt::src.txt_2722": {
   "source": "CAMDEN",
@@ -52609,7 +52617,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518855.1517136
+  "updated": 1791132223.2327437,
+  "touched": true
  },
  "src.txt::src.txt_2133": {
   "source": "\\nHiro Nakamura\\nHiroyuki Uesugi\\nTeruki Murakawa\\n\\nKazuya Suyama\\n",
@@ -55875,7 +55884,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518858.6439204
+  "updated": 1791132229.6926696,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_37": {
   "source": "ROUTE 23",
@@ -71201,12 +71211,13 @@
  },
  "src.txt::src.txt_252": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\nmade {B_CURRENT_MOVE} useless!",
-  "target": "{B_DEF_NAME_WITH_PREFIX}-{B_DEF_ABILITY}\\n{B_CURRENT_MOVE} bezużytecznym!",
+  "target": "{B_DEF_NAME_WITH_PREFIX} {B_DEF_ABILITY}\\n{B_CURRENT_MOVE} bezużytecznym!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518843.1993484
+  "updated": 1791132208.1104832,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_187": {
   "source": "SAND-ATTACK",
@@ -78771,7 +78782,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518846.7171223
+  "updated": 1791132211.5735438,
+  "touched": true
  },
  "data maps.txt::data maps.txt_879": {
   "source": "Could you help me out with my\\ntraining?",
@@ -81762,7 +81774,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518839.6238697
+  "updated": 1791132200.4499283,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_928": {
   "source": "A shard of a pretty gem that\\\\nsparkles in a red color.\\\\nIt can be sold at a high price.",
@@ -83646,7 +83659,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518848.840408
+  "updated": 1791132212.9336686,
+  "touched": true
  },
  "datatext.txt::datatext.txt_217": {
   "source": "CINNABAR GYM",
@@ -88054,12 +88068,12 @@
  },
  "src.txt::src.txt_247": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\nmade it rain!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-\\n{B_SCR_ACTIVE_ABILITY} tworzy deszcz!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} \\n{B_SCR_ACTIVE_ABILITY} tworzy deszcz!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132189.7053115,
+  "updated": 1791132193.2662148,
   "touched": true
  },
  "data maps.txt::data maps.txt_1097": {
