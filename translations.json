@@ -11580,7 +11580,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} chce, by\\nwróg żywił URAZĘ!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131765.1466863,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1982": {
   "source": "BILL: Feel like checking out some\\nof my rare POKéMON on my PC?\\pGo on, check out my PC.",
@@ -14297,7 +14300,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} osłania\\nsię w {B_CURRENT_MOVE}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131768.6232135,
+  "touched": true
  },
  "datatext.txt::datatext.txt_605": {
   "source": "EXP. {LEFT_PAREN}EXP. Points{RIGHT_PAREN}",
@@ -18434,7 +18440,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131749.333543,
+  "updated": 1791131750.2842793,
   "touched": true
  },
  "src.txt::src.txt_2871": {
@@ -23173,7 +23179,10 @@
   "target": "Nie można użyć rzeczy.{PAUSE 64}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131784.9004169,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1454": {
   "source": "A jar for storing BERRY POWDER\\\\nmade using a BERRY CRUSHER.",
@@ -27440,7 +27449,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} zamienił się\\nzdolnościami z wrogiem!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131761.3171773,
+  "touched": true
  },
  "src.txt::src.txt_1072": {
   "source": "The Wireless Adapter is not\\nconnected.",
@@ -27682,7 +27694,10 @@
   "target": "Osłabiono siłę\\nognia!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131779.362418,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_227": {
   "source": "A nifty watering pail.\\nUse it to promote strong growth in\\nBERRIES planted in soft soil.",
@@ -29663,7 +29678,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518748.1387737
+  "updated": 1791131766.9750948,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_150": {
   "source": "STRONG",
@@ -30298,7 +30314,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} pieczętuje\\nruch(y) wroga!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131762.7295685,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1609": {
   "source": "Why?\\nWhy'd I lose?",
@@ -31411,10 +31430,13 @@
  },
  "src.txt::src.txt_222": {
   "source": "{B_ATK_NAME_WITH_PREFIX} knocked off\\n{B_DEF_NAME_WITH_PREFIX}'s {B_LAST_ITEM}!",
-  "target": "{B_ATK_NAME_WITH_PREFIX} nokautuje\\n{B_DEF_NAME_WITH_PREFIX} - {B_LAST_ITEM}!",
+  "target": "{B_ATK_NAME_WITH_PREFIX} nokautuje\\n{B_DEF_NAME_WITH_PREFIX}  {B_LAST_ITEM}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131759.097734,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1928": {
   "source": "GRUNT",
@@ -48579,7 +48601,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} czeka na ruch\\nprzeciwnika!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131772.6571052,
+  "touched": true
  },
  "datatext.txt::datatext.txt_372": {
   "source": "It's crammed full of POKéMON\\nbooks.",
@@ -52504,7 +52529,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} zakotwiczony\\nkorzeniami!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131752.5590432,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1960": {
   "source": "MICHELLE",
@@ -53537,7 +53565,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} PORWAŁ\\nruch {B_SCR_ACTIVE_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131775.14385,
+  "touched": true
  },
  "src.txt::src.txt_848": {
   "source": "The foe is slashed\\nwith claws, etc.\\nIt has a high\\ncritical-hit ratio.",
@@ -56989,7 +57020,10 @@
   "target": "Przyjemny aromat\\nniesie się po obszarze!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131782.1889741,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_621": {
   "source": "Took on ELITE FOUR {DYNAMIC 0x00}'s\\n{DYNAMIC 0x01} with {DYNAMIC 0x02} and\\nwon {DYNAMIC 0x03}!",
@@ -62407,7 +62441,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518758.3792973
+  "updated": 1791131771.1615145,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_1": {
   "source": "<<< FILE: src/data/easy_chat/easy_chat_group_actions.h >>>",
@@ -77232,7 +77267,10 @@
   "target": "Osłabiono siłę\\nelektryczności!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131778.0326712,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2906": {
   "source": "<<< FILE: maps/SSAnne_B1F_Room3/text.inc >>>",
@@ -80166,7 +80204,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131749.6716413,
+  "updated": 1791131751.6404252,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_26": {
@@ -81569,7 +81607,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} znalazł\\n {B_LAST_ITEM}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131780.5289013,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_582": {
   "source": "????????",
@@ -98109,7 +98150,10 @@
   "target": "Dla {B_SCR_ACTIVE_NAME_WITH_PREFIX}{B_LAST_ITEM},\\n{B_BUFF1}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131789.6735356,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_713": {
   "source": "PARAS",
@@ -99541,7 +99585,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} uśpił\\n{B_DEF_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131753.8726933,
+  "touched": true
  },
  "src.txt::src.txt_2968": {
   "source": "Canceled reading the Card.",
