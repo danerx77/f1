@@ -21002,7 +21002,10 @@
   "target": "{B_EFF_NAME_WITH_PREFIX} sparaliżowany!\\nMoże nie móc się ruszyć!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791130481.5653238,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_185": {
   "source": "POWDER SNOW MAT",
@@ -38648,10 +38651,13 @@
  },
  "src.txt::src.txt_86": {
   "source": "{B_ATK_NAME_WITH_PREFIX} was\\ndefrosted!",
-  "target": "{B_ATK_NAME_WITH_PREFIX}\\nrozmrożony!",
+  "target": "{B_ATK_NAME_WITH_PREFIX}\\nrozmrożony !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791130472.9571342,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_424": {
   "source": "????????",
@@ -53448,7 +53454,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} sparaliżowany!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791130500.3244698,
+  "touched": true
  },
  "src.txt::src.txt_2197": {
   "source": "PEOPLE",
@@ -62743,7 +62752,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791130460.3245773,
+  "updated": 1791130468.1176372,
   "touched": true
  },
  "src.txt::src.txt_955": {
@@ -91836,7 +91845,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX}\\nrozmrożony przez {B_CURRENT_MOVE}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791130477.5809586,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_455": {
   "source": "It does not like physical attacks very \\nmuch. Instead, it freely uses extra-\\nsensory powers to defeat foes.",
@@ -96359,10 +96371,13 @@
  },
  "src.txt::src.txt_89": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\nparalyzed {B_EFF_NAME_WITH_PREFIX}!\\lIt may be unable to move!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_SCR_ACTIVE_ABILITY}\\nparaliżuje {B_EFF_NAME_WITH_PREFIX}\\lMoże nie móc się ruszyć!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_SCR_ACTIVE_ABILITY}\\nparaliżuje {B_EFF_NAME_WITH_PREFIX}\\lMoże nie móc się ruszyć!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791130499.7492697,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_635": {
   "source": "It is born deep underground. It can't\\nemerge until it has entirely consumed the\\nsoil around it.",
