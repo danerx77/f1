@@ -6583,7 +6583,10 @@
   "target": "Zaczął padać grad!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132410.747378,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_172": {
   "source": "ANGLER",
@@ -7497,7 +7500,10 @@
   "target": "Nie udało się użyć\\nWYPLUCIA!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132429.678104,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_662": {
   "source": "POKéMON RESEARCH LAB",
@@ -12819,7 +12825,10 @@
   "target": "PAPUGOWANIE nieudane!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132401.460278,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_229": {
   "source": "A sack used to collect volcanic\\nash automatically during walks\\nover deep ash.",
@@ -15145,7 +15154,10 @@
   "target": "Słońce mocno świeci.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132409.3359604,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_259": {
   "source": "A taunted foe may become enraged.\\nIt will then only be able to use\\nattack moves.",
@@ -18241,7 +18253,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132389.6731734,
+  "updated": 1791132391.3247883,
   "touched": true
  },
  "src.txt::src.txt_1567": {
@@ -18881,7 +18893,10 @@
   "target": "Rozpętała się burza piaskowa!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132406.9951296,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_148": {
   "source": "SWARM",
@@ -19014,7 +19029,10 @@
   "target": "Zaczęło lać!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132402.6927402,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_758": {
   "source": "A medicine that revives a fainted\\\\nPOKéMON, restoring HP by half the\\\\nmaximum amount.",
@@ -23174,7 +23192,10 @@
   "target": "Deszcz ustał.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132406.0454822,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_529": {
   "source": "NAIVE",
@@ -23682,7 +23703,10 @@
   "target": "Słońce osłabło.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132410.0049543,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2923": {
   "source": "CAPTAIN: Whew! Thank you!\\nI'm feeling much better now.\\pYou want to see my hidden CUT\\ntechnique?\\pI could show you my prized CUT\\ntechnique if I weren't so ill…\\pI know! You can have this!\\nThis HIDDEN MACHINE!\\pTeach CUT to your POKéMON, and\\nyou can see it CUT anytime!",
@@ -27058,7 +27082,10 @@
   "target": "Zaczęło padać!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132402.12603,
+  "touched": true
  },
  "src.txt::src.txt_898": {
   "source": "If it is the other\\ngender, the foe is\\nmade infatuated and\\nunlikely to attack.",
@@ -28991,7 +29018,10 @@
   "target": "Grad nadal sypie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132423.7073877,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_527": {
   "source": "HABIT",
@@ -36087,7 +36117,10 @@
   "target": "Słońce mocno świeci!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132408.7253103,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1101": {
   "source": "I want to be the best TRAINER \\nwhile I'm a kid!",
@@ -36409,7 +36442,10 @@
   "target": "Burza piaskowa osłabła.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132408.2150927,
+  "touched": true
  },
  "src.txt::src.txt_812": {
   "source": "A powerful charge\\nattack. It can also\\nbe used to climb\\na waterfall.",
@@ -45096,7 +45132,10 @@
   "target": "Burza piaskowa szaleje.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132407.7739568,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1018": {
   "source": "Hmm…\\pCome back with a better story next\\ntime, okay?",
@@ -63246,7 +63285,10 @@
   "target": "Rani się będąc\\noszołomionym!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132398.6988297,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1083": {
   "source": "KING'S ROCK",
@@ -70292,7 +70334,10 @@
   "target": "Ulewa trwa nadal.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132405.3785877,
+  "touched": true
  },
  "src.txt::src.txt_2318": {
   "source": "Is it okay to discard this\\nNEWS item?",
@@ -82819,7 +82864,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790797217.7430139
+  "updated": 1791132396.0889475,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2051": {
   "source": "SHARON",
@@ -86062,7 +86108,10 @@
   "target": "Nie udało się!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132397.8646748,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_639": {
   "source": "BIKE SHOP",
@@ -93103,7 +93152,10 @@
   "target": "Deszcz nadal pada.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132404.4125638,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2017": {
   "source": "Be nice!",
@@ -95148,7 +95200,10 @@
   "target": "Nic się nie stało!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132397.3387725,
+  "touched": true
  },
  "src.txt::src.txt_462": {
   "source": "{B_DEF_NAME_WITH_PREFIX} hung on\\nusing its {B_LAST_ITEM}!",
@@ -96740,10 +96795,13 @@
  },
  "src.txt::src.txt_335": {
   "source": "The hail stopped.",
-  "target": "Gradobicie ustało",
+  "target": "Gradobicie ustało.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132427.9345732,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1701": {
   "source": "TERRY",
@@ -97895,7 +97953,10 @@
   "target": "Nie! Nie ucieka się z\\nwalk TRENERSKICH!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132395.3264837,
+  "touched": true
  },
  "src.txt::src.txt_1630": {
   "source": "CARBOS{CLEAR_TO 0x65}{FONT_SMALL}1,000",
