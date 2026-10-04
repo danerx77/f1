@@ -788,7 +788,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} stworzył\\nwir!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131251.2391376,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_865": {
   "source": "Thickly covered with a filthy, vile\\nsludge. It is so toxic, even its footprints\\ncontain poison.",
@@ -4766,7 +4769,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} idzie\\nspać!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131247.5375438,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_88": {
   "source": "SPIRALING",
@@ -5776,10 +5782,13 @@
  },
  "src.txt::src.txt_114": {
   "source": "{B_ATK_PREFIX2}'s party is covered\\nby a veil!",
-  "target": "{B_ATK_PREFIX2} - drużyna okryta\\nzasłoną!",
+  "target": "{B_ATK_PREFIX2} drużyna okryta\\nzasłoną!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131236.7703047,
+  "touched": true
  },
  "src.txt::src.txt_182": {
   "source": "{B_DEF_NAME_WITH_PREFIX} fell into\\na NIGHTMARE!",
@@ -11466,10 +11475,13 @@
  },
  "src.txt::src.txt_120": {
   "source": "{B_ATK_NAME_WITH_PREFIX} took\\nin sunlight!",
-  "target": "{B_ATK_NAME_WITH_PREFIX} spogląda\\nw słońce",
+  "target": "{B_ATK_NAME_WITH_PREFIX} spogląda\\nw słońce!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131256.6172035,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_30": {
   "source": "ROUTE 16",
@@ -15259,7 +15271,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131229.6693196,
+  "updated": 1791131230.3862772,
   "touched": true
  },
  "datatext.txt::datatext.txt_795": {
@@ -18652,7 +18664,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} kryje\\nsię!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131266.2468002,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1173": {
   "source": "????????",
@@ -22075,7 +22090,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} wyspał się\\ni wyleczył!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131249.769828,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1587": {
   "source": "Dang!\\nStripped gears!",
@@ -23873,7 +23891,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} wyskoczył!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131266.8823333,
+  "touched": true
  },
  "data maps.txt::data maps.txt_314": {
   "source": "Fine, you'll exchange your BERRY\\nPOWDER for one {STR_VAR_1}?",
@@ -34197,7 +34218,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} ściśnięty przez\\nBIND {B_ATK_NAME_WITH_PREFIX}A!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131269.6740713,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_122": {
   "source": "SAFFRON CITY",
@@ -38021,7 +38045,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} kopie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131265.30529,
+  "touched": true
  },
  "data.txt::data.txt_58": {
   "source": "Thank you for using the MYSTERY\\nGIFT System.\\pYou must be {PLAYER}.\\nThere is a ticket here for you.",
@@ -38666,7 +38693,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} świeci!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131259.8760793,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_818": {
   "source": "MEW",
@@ -46745,10 +46775,13 @@
  },
  "src.txt::src.txt_116": {
   "source": "{B_ATK_PREFIX3}'s party is no longer\\nprotected by SAFEGUARD!",
-  "target": "{B_ATK_PREFIX3} - drużyna nie jest\\njuż chroniona ZASŁONĄ!",
+  "target": "{B_ATK_PREFIX3} drużyna nie jest\\njuż chroniona ZASŁONĄ!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131245.5840633,
+  "touched": true
  },
  "src.txt::src.txt_1885": {
   "source": "MONEY",
@@ -80917,7 +80950,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX}\\nwzlatuje!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131263.6315768,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1187": {
   "source": "????????",
@@ -81112,7 +81148,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} obniża\\ngłowę!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131258.280388,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1642": {
   "source": "LORI",
@@ -93427,10 +93466,13 @@
  },
  "src.txt::src.txt_115": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s party is protected\\nby SAFEGUARD!",
-  "target": "{B_DEF_NAME_WITH_PREFIX} - drużyna okryta\\nprzez ZASŁONĘ!",
+  "target": "{B_DEF_NAME_WITH_PREFIX} drużyna okryta\\nprzez ZASŁONĘ!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131241.3204858,
+  "touched": true
  },
  "data maps.txt::data maps.txt_153": {
   "source": "So, you want the {STR_VAR_1}?",
