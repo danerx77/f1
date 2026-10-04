@@ -9249,7 +9249,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132349.669809,
+  "updated": 1791132349.9393084,
   "touched": true
  },
  "data maps.txt::data maps.txt_177": {
@@ -10592,7 +10592,10 @@
   "target": "Gracz zremisował walcząc z\\n{B_LINK_OPPONENT1_NAME}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132383.750388,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1147": {
   "source": "Its steel-hard head can shatter boulders.\\nIt longingly hopes for wings to grow so it\\ncan fly.",
@@ -17057,7 +17060,10 @@
   "target": "Nie jest zbyt efektywne…",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132360.9565196,
+  "touched": true
  },
  "src.txt::src.txt_2122": {
   "source": "POKéMON Designers\\n\\n\\n\\n\\n\\n",
@@ -17536,7 +17542,10 @@
   "target": "Gracz zremisował walcząc z\\n{B_LINK_OPPONENT1_NAME} oraz {B_LINK_OPPONENT2_NAME}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132385.469298,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_307": {
   "source": "IN",
@@ -18230,7 +18239,10 @@
   "target": "{PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} i\\n{B_LINK_OPPONENT2_NAME} zwiały!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132389.6731734,
+  "touched": true
  },
  "src.txt::src.txt_1567": {
   "source": "BERRY CRUSH",
@@ -19511,7 +19523,10 @@
   "target": "{PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} uciekł\\nużywając {B_LAST_ITEM}!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132368.5986137,
+  "touched": true
  },
  "src.txt::src.txt_1557": {
   "source": "OTHER",
@@ -35391,7 +35406,10 @@
   "target": "Gracz przegrał z {B_LINK_OPPONENT1_NAME}\\ni {B_LINK_OPPONENT2_NAME}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132382.193503,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2874": {
   "source": "Check out what I fished up!",
@@ -39349,7 +39367,10 @@
   "target": "I…\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132357.0862327,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_621": {
   "source": "ADULT",
@@ -40650,7 +40671,10 @@
   "target": "Gracz przegrał z\\n{B_LINK_OPPONENT1_NAME}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132380.2147892,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1003": {
   "source": "IAPAPA BERRY",
@@ -46438,7 +46462,10 @@
   "target": "Nie można teraz\\nzapomnieć HM.\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132359.6397696,
+  "touched": true
  },
  "data maps.txt::data maps.txt_918": {
   "source": "CELIO: BILL!\\nI can't believe you came out here.",
@@ -46496,7 +46523,10 @@
   "target": "{PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} uciekł\\nz {B_ATK_ABILITY}!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132371.9444156,
+  "touched": true
  },
  "data maps.txt::data maps.txt_182": {
   "source": "Oh!\\nSplendid!",
@@ -48652,7 +48682,10 @@
   "target": "Gracz pokonuje\\n{B_LINK_OPPONENT1_NAME}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132375.871722,
+  "touched": true
  },
  "src.txt::src.txt_229": {
   "source": "{B_ATK_NAME_WITH_PREFIX} waits for its foe\\nto make a move!",
@@ -57382,7 +57415,10 @@
   "target": "{PLAY_SE SE_FLEE} Udało się!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132365.6521618,
+  "touched": true
  },
  "src.txt::src.txt_2654": {
   "source": "VOLTORB",
@@ -60406,7 +60442,10 @@
   "target": "To superefektywne!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132363.1113877,
+  "touched": true
  },
  "datascript.txt::datascript.txt_5": {
   "source": "You may battle another TRAINER\\nusing a GBA Game Link cable.",
@@ -75980,7 +76019,10 @@
   "target": "{PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} zwiał!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132388.4564068,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1589": {
   "source": "I always go with bird POKéMON.\\nI've dedicated myself to them.",
@@ -85235,7 +85277,10 @@
   "target": "Gracz pobił {B_LINK_OPPONENT1_NAME}\\ni {B_LINK_OPPONENT2_NAME}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132378.2258027,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_151": {
   "source": "Can be ground up into a powder as\\nan ingredient for medicine.",
@@ -89372,7 +89417,10 @@
   "target": "Znokautowany!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132351.410066,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_968": {
   "source": "NINCADA",
@@ -91484,7 +91532,10 @@
   "target": "{PAUSE 32}{PAUSE 15}{PAUSE 15}1, {PAUSE 15}{PAUSE 15}{PAUSE 15}2 i{PLAY_SE SE_BALL_BOUNCE_1}… … …  Puf!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132355.8006914,
+  "touched": true
  },
  "data maps.txt::data maps.txt_970": {
   "source": "I wish I could trade POKéMON with\\nmy boyfriend who lives far away…",
@@ -100329,7 +100380,10 @@
   "target": "{PLAY_SE SE_FLEE} {B_BUFF1} uciekł!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132373.8081386,
+  "touched": true
  },
  "data maps.txt::data maps.txt_645": {
   "source": "Awoo!",
