@@ -4187,7 +4187,10 @@
   "target": "Dziki {B_OPPONENT_MON1_NAME} atakuje!{PAUSE 127}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132670.1698437,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_698": {
   "source": "It rarely appears before people.\\nIt is said to nest where lightning has\\nfallen.",
@@ -5262,7 +5265,10 @@
   "target": "{B_OPPONENT_MON1_NAME} je!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132667.1908493,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_964": {
   "source": "?!",
@@ -9894,7 +9900,10 @@
   "target": "Gracz pokonuje\\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132658.890188,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2458": {
   "source": "Training by oneself is certainly\\nnot a bad thing.\\pBut it's also not bad to aim for\\nthe top with a partner.\\pEven BRUNO…\\nHe trained with a fellow by the\\lname of BRAWLY before.",
@@ -12474,7 +12483,10 @@
   "target": "Dziki {B_OPPONENT_MON1_NAME} i\\n{B_OPPONENT_MON2_NAME} atakują!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132671.033063,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1218": {
   "source": "Welcome to the POKéMON LEAGUE.\\pI, LORELEI of the ELITE FOUR,\\nhave returned!\\pYou know how it goes.\\nNo one can best me when it comes\\lto icy POKéMON.\\pFreezing moves are powerful.\\pYour POKéMON will be at my mercy\\nwhen they are frozen solid.\\pHahaha!\\nAre you ready?{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
@@ -14241,7 +14253,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} udaje, że\\nnie słyszy!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132642.3584342,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2390": {
   "source": "Hiyah! There is but one TRAINER\\nwho has my respect.\\pAnd that is none other than my\\nMASTER at the FIGHTING DOJO.\\pYou should become a fan of my\\nMASTER like me! Hiyah!",
@@ -20892,7 +20907,10 @@
   "target": "POKéMONY objęte działaniem\\nzemdleją w 3 tury!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132635.6415682,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_228": {
   "source": "PREPOSTEROUS",
@@ -28805,7 +28823,10 @@
   "target": "Wojownicy dzielą ból!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132632.4115589,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1229": {
   "source": "They're almost finished making the\\npool for my POKéMON.\\pYou must drop in for a visit.",
@@ -36315,7 +36336,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} odpoczywa!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132640.426552,
+  "touched": true
  },
  "data maps.txt::data maps.txt_820": {
   "source": "I saw them!\\nI'm sure they're from TEAM ROCKET!",
@@ -36929,7 +36953,10 @@
   "target": "{B_PLAYER_NAME} rzuca PRZYNĘTĘ\\nkoło {B_OPPONENT_MON1_NAME}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132664.58458,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_484": {
   "source": "It is said to emerge from darkness to\\nsteal the lives of those who become lost\\nin mountains.",
@@ -39983,7 +40010,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} ignoruje\\nrozkazy śpiąc!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132639.5267344,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_528": {
   "source": "A prehistoric POKéMON that lived in the\\nprimordial sea, it swims by twisting its\\n10 tentacles about.",
@@ -40407,7 +40437,10 @@
   "target": "{B_OPPONENT_MON1_NAME} jest zły!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132666.6554008,
+  "touched": true
  },
  "src.txt::src.txt_2221": {
   "source": "SUMMARY",
@@ -40895,7 +40928,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} obija się!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132640.8212473,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_248": {
   "source": "An extremely powerful attack.\\nHowever, if the user is hit before\\nusing the move, they will flinch.",
@@ -41076,7 +41112,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} odwraca się!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132641.9375017,
+  "touched": true
  },
  "src.txt::src.txt_2710": {
   "source": "ELEKID",
@@ -43018,7 +43057,10 @@
   "target": "{B_OPPONENT_MON1_NAME} przygląda\\nsię!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132665.9335325,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_132": {
   "source": "HYPER CUTTER",
@@ -47317,7 +47359,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} ignoruje\\nrozkaz!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132640.0266645,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1127": {
   "source": "I raise POKéMON for protection\\nbecause I live alone.\\pThat hasn't changed.",
@@ -50568,7 +50613,10 @@
   "target": "Ale nie było już PP dla\\ntego ruchu!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132637.7215416,
+  "touched": true
  },
  "datatext.txt::datatext.txt_172": {
   "source": "VERMILION CITY",
@@ -50728,7 +50776,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} nie\\nsłucha!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132641.246509,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2371": {
   "source": "It's {PLAYER}!\\nIt's {PLAYER}!\\pI want to be like {PLAYER} one day!",
@@ -52150,7 +52201,10 @@
   "target": "Dziki {B_OPPONENT_MON1_NAME} atakuje!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132669.7700465,
+  "touched": true
  },
  "src.txt::src.txt_1523": {
   "source": "EEVEE",
@@ -53725,7 +53779,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX}  poznał\\n{B_BUFF1}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132657.4554713,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_128": {
   "source": "CAN'T WIN",
@@ -55447,7 +55504,10 @@
   "target": "Dzwon dzwoni!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132634.1708922,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_213": {
   "source": "LIPTOO CHAMBER",
@@ -58576,7 +58636,10 @@
   "target": "{PLAY_SE SE_DING_DONG}STRAŻNIK: Skończyły ci się\\nSAFARI BALLE! Koniec!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132668.5398824,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_154": {
   "source": "UNDERGROUND PATH",
@@ -61875,7 +61938,10 @@
   "target": "Zbyt słaby, by zrobić\\nZASTĘPCE!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132631.521234,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2542": {
   "source": "<<< FILE: maps/SilphCo_1F/text.inc >>>",
@@ -65500,7 +65566,10 @@
   "target": "Nie ma już PP dla tego ruchu!\\n",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132636.918105,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2707": {
   "source": "There're no rare POKéMON around\\nthese parts! Not a one!\\pThat burns me up, man.\\nI'll take it out on you!",
@@ -68106,7 +68175,10 @@
   "target": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\\nma zamiar użyć {B_BUFF2}.\\pCzy {B_PLAYER_NAME} zmieni\\nPOKéMONA?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132655.531376,
+  "touched": true
  },
  "src.txt::src.txt_572": {
   "source": "そだつのに じかんが かかるが たいせつに",
@@ -72840,7 +72912,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132629.712785,
+  "updated": 1791132630.6493495,
   "touched": true
  },
  "data maps.txt::data maps.txt_158": {
@@ -78316,7 +78388,10 @@
   "target": "Dziki {B_OPPONENT_MON1_NAME} atakuje!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132669.3993363,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_539": {
   "source": "It can fly in spite of its big and bulky\\nphysique. It circles the globe in just\\n16 hours.",
@@ -91221,7 +91296,10 @@
   "target": "{B_PLAYER_NAME} rzuca KAMIENIEM\\nw {B_OPPONENT_MON1_NAME}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132661.0657141,
+  "touched": true
  },
  "src.txt::src.txt_2827": {
   "source": "Awaiting a response from\\nthe other TRAINER…",
