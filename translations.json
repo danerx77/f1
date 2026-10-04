@@ -11939,12 +11939,13 @@
  },
  "src.txt::src.txt_265": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\nblocks {B_CURRENT_MOVE}!",
-  "target": "{B_DEF_NAME_WITH_PREFIX}-{B_DEF_ABILITY}\\nblokuje {B_CURRENT_MOVE}!",
+  "target": "{B_DEF_NAME_WITH_PREFIX} {B_DEF_ABILITY}\\nblokuje {B_CURRENT_MOVE}!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518865.545326
+  "updated": 1791132250.2478707,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_889": {
   "source": "SPRING",
@@ -12238,7 +12239,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132229.5434227,
+  "updated": 1791132237.277226,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_911": {
@@ -23155,12 +23156,13 @@
  },
  "src.txt::src.txt_266": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\nblocks {B_CURRENT_MOVE}!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-{B_SCR_ACTIVE_ABILITY}\\nblokuje {B_CURRENT_MOVE}!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_SCR_ACTIVE_ABILITY}\\nblokuje {B_CURRENT_MOVE}!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518866.4877067
+  "updated": 1791132253.4930189,
+  "touched": true
  },
  "src.txt::src.txt_1552": {
   "source": "ITEMS POCKET",
@@ -28050,7 +28052,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132224.4836855,
+  "updated": 1791132236.95424,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_512": {
@@ -39584,12 +39586,13 @@
  },
  "src.txt::src.txt_268": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\nwhipped up a sandstorm!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-{B_SCR_ACTIVE_ABILITY}\\nwbudza burzę piaskową!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_SCR_ACTIVE_ABILITY}\\nwbudza burzę piaskową!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518869.8673415
+  "updated": 1791132266.9673324,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_305": {
   "source": "DECEIVER",
@@ -52617,7 +52620,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132223.2327437,
+  "updated": 1791132236.7442954,
   "touched": true
  },
  "src.txt::src.txt_2133": {
@@ -55879,12 +55882,12 @@
  },
  "src.txt::src.txt_261": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\nprevents stat loss!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}- {B_SCR_ACTIVE_ABILITY}\\nneguje zmiany stanu!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_SCR_ACTIVE_ABILITY}\\nneguje zmiany stanu!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132229.6926696,
+  "updated": 1791132237.612646,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_37": {
@@ -56146,7 +56149,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518863.7066534
+  "updated": 1791132248.1108932,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_441": {
   "source": "STARDUST",
@@ -63433,12 +63437,13 @@
  },
  "src.txt::src.txt_267": {
   "source": "{B_ATK_NAME_WITH_PREFIX}'s {B_ATK_ABILITY}\\nrestored its HP a little!",
-  "target": "{B_ATK_NAME_WITH_PREFIX} - {B_ATK_ABILITY}\\nleczy trochę jego HP!",
+  "target": "{B_ATK_NAME_WITH_PREFIX}  {B_ATK_ABILITY}\\nleczy trochę jego HP!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518867.5122373
+  "updated": 1791132256.6705737,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_165": {
   "source": "SILVER SHIELD",
@@ -66061,12 +66066,13 @@
  },
  "src.txt::src.txt_269": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\nintensified the sun's rays!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}-{B_SCR_ACTIVE_ABILITY}\\nwzmacnia promienie słońca!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_SCR_ACTIVE_ABILITY}\\nwzmacnia promienie słońca!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518870.9148293
+  "updated": 1791132269.6814492,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1469": {
   "source": "WATTSON",
@@ -72329,12 +72335,13 @@
  },
  "src.txt::src.txt_262": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\nhurt {B_ATK_NAME_WITH_PREFIX}!",
-  "target": "{B_DEF_NAME_WITH_PREFIX}-\\n{B_DEF_ABILITY} rani {B_ATK_NAME_WITH_PREFIX}!",
+  "target": "{B_DEF_NAME_WITH_PREFIX} \\n{B_DEF_ABILITY} rani {B_ATK_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518859.6348522
+  "updated": 1791132240.6045346,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_6": {
   "source": "MS. NIDO",
@@ -95814,12 +95821,13 @@
  },
  "src.txt::src.txt_263": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} TRACED\\n{B_BUFF1}'s {B_BUFF2}!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} TROPI\\n{B_BUFF1} - {B_BUFF2}!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} TROPI\\n{B_BUFF1} {B_BUFF2}!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518862.7338817
+  "updated": 1791132246.4400973,
+  "touched": true
  },
  "src.txt::src.txt_987": {
   "source": "An attack using\\nthorny arms.\\nIt may make the\\nfoe flinch.",
