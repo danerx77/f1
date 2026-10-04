@@ -7211,10 +7211,13 @@
  },
  "src.txt::src.txt_455": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\ncured its {B_BUFF1} problem!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\\nleczy problem: {B_BUFF1} !",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_LAST_ITEM}\\nleczy problem: {B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133003.1863732,
+  "touched": true
  },
  "data maps.txt::data maps.txt_819": {
   "source": "You got me!",
@@ -10048,10 +10051,13 @@
  },
  "src.txt::src.txt_456": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\nnormalized its status!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\\nnormuje swój stan!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_LAST_ITEM}\\nnormuje swój stan!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133008.1776419,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_255": {
   "source": "The user tightens all its muscles\\nand bulks up, boosting both its\\nATTACK and DEFENSE stats.",
@@ -24106,10 +24112,13 @@
  },
  "src.txt::src.txt_459": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\nrestored its status!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\\nprzywraca jego stan!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_LAST_ITEM}\\nprzywraca jego stan!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133017.0264475,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2635": {
   "source": "TEAM ROCKET was after the MASTER\\nBALL, which catches any POKéMON.",
@@ -26006,7 +26015,10 @@
   "target": "POKéMONY słyszące FLET\\nwstały!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133028.8180656,
+  "touched": true
  },
  "src.txt::src.txt_1504": {
   "source": "ITEMS",
@@ -27365,7 +27377,10 @@
   "target": "Teraz rzuca się kulę, tak?\\nJa… Postaram się!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133029.3680606,
+  "touched": true
  },
  "src.txt::src.txt_2120": {
   "source": "\\n\\nPOKéDEX Text\\n\\n\\n\\n",
@@ -41829,7 +41844,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} odzyskuje zdrowie\\ndzięki {B_LAST_ITEM}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133010.2686026,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2581": {
   "source": "Darn!\\nYou weak POKéMON!",
@@ -47372,7 +47390,10 @@
   "target": "{B_PLAYER_NAME} zagrał na\\n{B_LAST_ITEM}.\\pHej, bardzo fajna melodia!!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133025.7886033,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2772": {
   "source": "{PLAYER} left the door alone.",
@@ -54354,10 +54375,13 @@
  },
  "src.txt::src.txt_454": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\nsnapped it out of confusion!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\\notrząsa go z oszołomienia!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_LAST_ITEM}\\notrząsa go z oszołomienia!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132998.3210177,
+  "touched": true
  },
  "data maps.txt::data maps.txt_409": {
   "source": "ポケモン　いっぱいで　もてないね！",
@@ -76546,10 +76570,13 @@
  },
  "src.txt::src.txt_461": {
   "source": "{B_LAST_ITEM}'s effect allows only\\n{B_CURRENT_MOVE} to be used!\\p",
-  "target": "{B_LAST_ITEM} - efekt pozwala użyć\\ntylko {B_CURRENT_MOVE}!\\p",
+  "target": "{B_LAST_ITEM} efekt pozwala użyć\\ntylko {B_CURRENT_MOVE}!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133023.3738985,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_417": {
   "source": "QUESTION",
@@ -81437,10 +81464,13 @@
  },
  "src.txt::src.txt_458": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\nrestored {B_BUFF1}'s PP!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\\nprzywraca PP {B_BUFF1} !",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_LAST_ITEM}\\nprzywraca PP {B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133014.218084,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1099": {
   "source": "GIA: Hey, JES…\\nI've been waiting a long time now.\\pIf we win today, I'll marry you!",
@@ -88687,7 +88717,10 @@
   "target": "OAK: No cóż…\\nJak zawsze porywczy.\\p{B_PLAYER_NAME}.\\pNigdy wcześniej nie prowadziłeś\\nwalki POKéMONÓW, prawda?\\pWalka POKéMONÓW zaczyna się, gdy\\ndwóch TRENERÓW stacza ze sobą\\lpojedynek.\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133029.6768966,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_39": {
   "source": "ROUTE 25",
@@ -93386,10 +93419,13 @@
  },
  "src.txt::src.txt_460": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\nrestored its HP a little!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\\nleczy trochę jego HP!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_LAST_ITEM}\\nleczy trochę jego HP!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133019.7669199,
+  "touched": true
  },
  "datatext.txt::datatext.txt_925": {
   "source": "My RATTATA reduced the foe's HP\\nto zero, so it wins!\\pThe POKéMON that took part in the\\nbattle get EXP. Points.\\pWhen a POKéMON collects enough\\nEXP. Points, it levels up.\\pLeveling up makes your POKéMON\\nstronger than before.",
@@ -94279,7 +94315,10 @@
   "target": "{B_PLAYER_NAME} zagrał na\\n{B_LAST_ITEM}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133028.0426874,
+  "touched": true
  },
  "src.txt::src.txt_2166": {
   "source": "\\nBraille Code Check\\n\\n\\n\\n\\n",
@@ -95418,7 +95457,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} trzyma\\nsię dzięki {B_LAST_ITEM}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133024.5201464,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_667": {
   "source": "THEY'RE",
@@ -97314,12 +97356,12 @@
  },
  "src.txt::src.txt_453": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\nwoke it from its sleep!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\\nbudzi go ze snu!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_LAST_ITEM}\\nbudzi go ze snu!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132989.6753104,
+  "updated": 1791132993.368291,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_206": {
