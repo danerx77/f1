@@ -2432,7 +2432,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} \\nwyciągnięty!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131840.843887,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1749": {
   "source": "I got my VOLTORB at the abandoned\\nPOWER PLANT.",
@@ -19033,7 +19036,10 @@
   "target": "{B_ACTIVE_NAME_WITH_PREFIX} nie ma\\njuż ruchów!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131846.5885377,
+  "touched": true
  },
  "src.txt::src.txt_2419": {
   "source": "SMOOCHUM",
@@ -37721,7 +37727,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} traci\\nskupienie i nie rusza się!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131838.1519165,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_286": {
   "source": "EYEBALL",
@@ -39079,12 +39088,13 @@
  },
  "src.txt::src.txt_243": {
   "source": "{B_ACTIVE_NAME_WITH_PREFIX}'s {B_CURRENT_MOVE}\\nis disabled!\\p",
-  "target": "{B_ACTIVE_NAME_WITH_PREFIX}-\\n{B_CURRENT_MOVE} wyłączony!\\p",
+  "target": "{B_ACTIVE_NAME_WITH_PREFIX} \\n{B_CURRENT_MOVE} wyłączony!\\p",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518780.4541545
+  "updated": 1791131867.709655,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_14": {
   "source": "BUTTERFLY",
@@ -71254,7 +71264,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131829.6793902,
+  "updated": 1791131835.363043,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1474": {
@@ -82632,7 +82642,10 @@
   "target": "Mur został rozbity!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131842.7796745,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2570": {
   "source": "I support TEAM ROCKET more than\\nI support SILPH CO.!",
@@ -86933,7 +86946,10 @@
   "target": "Bez żadnego skutku!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131844.190337,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1733": {
   "source": "GRUNT",
