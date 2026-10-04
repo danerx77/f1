@@ -7417,7 +7417,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} chroni\\nsię!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131404.0577364,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_930": {
   "source": "A nugget of pure gold that gives\\\\noff a lustrous gleam.\\\\nIt can be sold at a high price.",
@@ -8572,7 +8575,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} twardo\\nśpi.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131421.123968,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_53": {
   "source": "Highly nutritious milk.\\nIt restores the HP of one POKéMON\\nby 100 points.",
@@ -9742,7 +9748,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} traci zdrowie\\nprzez NASIONO MOCY!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131419.928263,
+  "touched": true
  },
  "datatext.txt::datatext.txt_646": {
   "source": "BADGES",
@@ -13178,7 +13187,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} atakowany\\nGRADEM!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131407.0659738,
+  "touched": true
  },
  "src.txt::src.txt_1810": {
   "source": "BOX NAME?",
@@ -24974,7 +24986,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} sponiewierany\\nprzez burzę!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131405.6592126,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_428": {
   "source": "TAUNT",
@@ -46775,7 +46790,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131389.692645,
+  "updated": 1791131402.6293654,
   "touched": true
  },
  "src.txt::src.txt_150": {
@@ -50981,7 +50996,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} wstał!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131422.2617433,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1249": {
   "source": "Hi, didn't we meet before?\\nWhat compelled you to come back?",
@@ -55085,7 +55103,10 @@
   "target": "Ale HAŁAS {B_SCR_ACTIVE_NAME_WITH_PREFIX}\\nnie pozwala spać!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131429.6734972,
+  "touched": true
  },
  "src.txt::src.txt_1853": {
   "source": "{DYNAMIC 0x00}せいかく {LV_2}{DYNAMIC 0x01}のとき\\n{DYNAMIC 0x02}で かえった ようだ",
@@ -59471,7 +59492,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} uniknął\\nataku!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131418.0283222,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1216": {
   "source": "?????",
@@ -74177,10 +74201,13 @@
  },
  "src.txt::src.txt_142": {
   "source": "{B_ATK_PREFIX1}'s {B_BUFF1}\\nwore off!",
-  "target": "{B_ATK_PREFIX1}-{B_BUFF1} \\nnie działa!",
+  "target": "{B_ATK_PREFIX1} {B_BUFF1} \\nnie działa!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131413.1524684,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_427": {
   "source": "WELCOME",
@@ -78285,7 +78312,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} obsiany!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131415.8881776,
+  "touched": true
  },
  "src.txt::src.txt_1815": {
   "source": "{A_BUTTON}GUIDE",
