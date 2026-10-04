@@ -15254,10 +15254,13 @@
  },
  "src.txt::src.txt_113": {
   "source": "{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\\nraised DEFENSE a little!",
-  "target": "{B_ATK_PREFIX2} - {B_CURRENT_MOVE}\\nzwiększa lekko OBRONĘ!",
+  "target": "{B_ATK_PREFIX2} {B_CURRENT_MOVE}\\nzwiększa lekko OBRONĘ!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131229.6693196,
+  "touched": true
  },
  "datatext.txt::datatext.txt_795": {
   "source": "GREEN",
@@ -22887,7 +22890,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131189.66825,
+  "updated": 1791131190.7337737,
   "touched": true
  },
  "datatext.txt::datatext.txt_240": {
@@ -39425,7 +39428,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX}\\nma pełne HP!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131203.9476357,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_99": {
   "source": "HYPNOSIS",
@@ -49769,10 +49775,13 @@
  },
  "src.txt::src.txt_110": {
   "source": "{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\\nraised SP. DEF!",
-  "target": "{B_ATK_PREFIX2} - {B_CURRENT_MOVE}\\nzwiększa SP.OBR",
+  "target": "{B_ATK_PREFIX2} {B_CURRENT_MOVE}\\nzwiększa SP.OBR!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131215.9140658,
+  "touched": true
  },
  "src.txt::src.txt_648": {
   "source": "ORAN",
@@ -61066,10 +61075,13 @@
  },
  "src.txt::src.txt_112": {
   "source": "{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\\nraised DEFENSE!",
-  "target": "{B_ATK_PREFIX2} - {B_CURRENT_MOVE}\\nzwiększa OBRONĘ!",
+  "target": "{B_ATK_PREFIX2} {B_CURRENT_MOVE}\\nzwiększa OBRONĘ!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131226.4594421,
+  "touched": true
  },
  "datatext.txt::datatext.txt_666": {
   "source": "ACCURACY indicates the probability of\\nthe move hitting the foe.\\lThe higher this number, the more likely\\lthe move will strike the target.",
@@ -64877,7 +64889,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} leczy\\nsię!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131202.085258,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1416": {
   "source": "Whew…\\nI'm exhausted…",
@@ -89183,10 +89198,13 @@
  },
  "src.txt::src.txt_111": {
   "source": "{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\\nraised SP. DEF a little!",
-  "target": "{B_ATK_PREFIX2} - {B_CURRENT_MOVE}\\nzwiększa lekko SP.OBR!",
+  "target": "{B_ATK_PREFIX2} {B_CURRENT_MOVE}\\nzwiększa lekko SP.OBR!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131221.9270256,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1003": {
   "source": "HARIYAMA",
@@ -98933,10 +98951,13 @@
  },
  "src.txt::src.txt_107": {
   "source": "{B_ATK_NAME_WITH_PREFIX} flinched!",
-  "target": "{B_ATK_NAME_WITH_PREFIX} potknięty",
+  "target": "{B_ATK_NAME_WITH_PREFIX} potknięty!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131199.8893507,
+  "touched": true
  },
  "src.txt::src.txt_446": {
   "source": "ENIGMA BERRY",
