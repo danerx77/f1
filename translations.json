@@ -543,7 +543,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} nie jest\\nwyłączony!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131554.1440296,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1672": {
   "source": "COLE",
@@ -2814,7 +2817,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} raniony\\nKOLCAMI!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131585.6375744,
+  "touched": true
  },
  "src.txt::src.txt_2638": {
   "source": "KADEN",
@@ -5795,7 +5801,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} ma\\nKOSZMAR!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131577.125327,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1004": {
   "source": "It uses different kinds of cries for\\ncommunicating with others of its kind and\\nfor pursuing prey.",
@@ -7530,7 +7539,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} nadął\\nsię!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131589.236853,
+  "touched": true
  },
  "src.txt::src.txt_2816": {
   "source": "Please wait a while{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.",
@@ -19940,7 +19952,10 @@
   "target": "Wszędzie wokół wroga\\nrozsypały się KOLCE!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131584.3713377,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2382": {
   "source": "Recently, {STR_VAR_1} has been on\\nfire.\\pThe way he battles… It's just \\nthe way that I like it!",
@@ -26157,7 +26172,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} zamknięty\\nw KOSZMARZE!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131577.6998327,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3175": {
   "source": "I'm a lightweight, but I'm good\\nwith electricity!\\pThat's why I joined this GYM.",
@@ -26260,7 +26278,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} licznik ZGUBY \\nspadł do {B_BUFF1}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131588.5818923,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2513": {
   "source": "トレーナータワーが　あいてる！\\nさっそく　はいってみよう！",
@@ -32576,7 +32597,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} pod\\ndziałaniem KLĄTWY!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131582.3878174,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2717": {
   "source": "I didn't lose to you at swimming.\\nThis doesn't bother me.",
@@ -42407,10 +42431,13 @@
  },
  "src.txt::src.txt_180": {
   "source": "{B_ATK_NAME_WITH_PREFIX} stole\\n{B_DEF_NAME_WITH_PREFIX}'s {B_LAST_ITEM}!",
-  "target": "{B_ATK_NAME_WITH_PREFIX} ukradł\\n{B_DEF_NAME_WITH_PREFIX}-{B_LAST_ITEM}!",
+  "target": "{B_ATK_NAME_WITH_PREFIX} ukradł\\n{B_DEF_NAME_WITH_PREFIX} {B_LAST_ITEM}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131574.6242716,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_154": {
   "source": "Can be ground up into a powder as\\nan ingredient for medicine.",
@@ -45389,7 +45416,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} wycelował\\nw {B_DEF_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131560.445706,
+  "touched": true
  },
  "src.txt::src.txt_737": {
   "source": "The foe is attacked\\nwith small flames.\\nThe foe may suffer\\na burn.",
@@ -50085,7 +50115,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} odcina połowę HP\\ni rzuca KLĄTWĘ na {B_DEF_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131580.8311665,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1205": {
   "source": "{PKMN} RANGER",
@@ -60810,7 +60843,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} nie\\nmoże uciec!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131576.023222,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_578": {
   "source": "????????",
@@ -63793,7 +63829,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} próbuje\\nzabrać ze sobą wroga!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131562.7017221,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1578": {
   "source": "The wind turned!",
@@ -75499,7 +75538,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} SZKICUJE\\n{B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131561.9810908,
+  "touched": true
  },
  "src.txt::src.txt_1257": {
   "source": "{FONT_SMALL}",
@@ -81200,7 +81242,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} wziął\\nz sobą {B_ATK_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131564.0456295,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_538": {
   "source": "MIRACLE SEED",
@@ -85346,10 +85391,13 @@
  },
  "src.txt::src.txt_174": {
   "source": "{B_ATK_NAME_WITH_PREFIX}'s ENCORE\\nended!",
-  "target": "{B_ATK_NAME_WITH_PREFIX}- BIS\\nskończony!",
+  "target": "{B_ATK_NAME_WITH_PREFIX} BIS\\nskończony!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131558.924586,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_585": {
   "source": "just one",
@@ -88141,7 +88189,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} dostał\\nBISA!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131556.1025488,
+  "touched": true
  },
  "data.txt::data.txt_2": {
   "source": "Would you like to mix records with\\nother TRAINERS?",
@@ -89138,7 +89189,10 @@
   "target": "Zredukowano {B_DEF_NAME_WITH_PREFIX}\\n{B_BUFF1} o {B_BUFF2}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131566.7017286,
+  "touched": true
  },
  "data maps.txt::data maps.txt_726": {
   "source": "Ghosts appeared in POKéMON TOWER.\\pI think they're the spirits of\\nPOKéMON that the ROCKETS killed.",
@@ -89962,7 +90016,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} rozpoznał\\n{B_DEF_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131586.8463411,
+  "touched": true
  },
  "src.txt::src.txt_858": {
   "source": "An attack that can\\nbe used only while\\nasleep. It may\\ncause flinching.",
@@ -92560,7 +92617,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} ZNIÓSŁ\\ncios!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131590.1987033,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3348": {
   "source": "SPEAROW\\nName: SPEARY",
@@ -94508,12 +94568,12 @@
  },
  "src.txt::src.txt_171": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\\nwas disabled!",
-  "target": "{B_DEF_NAME_WITH_PREFIX} jego\\n{B_BUFF1}  wyłączony!",
+  "target": "{B_DEF_NAME_WITH_PREFIX} jego\\n{B_BUFF1} wyłączony!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131549.6720943,
+  "updated": 1791131552.4895167,
   "touched": true
  },
  "datatext.txt::datatext.txt_764": {
