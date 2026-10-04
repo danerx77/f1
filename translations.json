@@ -3418,10 +3418,13 @@
  },
  "src.txt::src.txt_452": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\ndefrosted it!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\\nrozmraża go!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_LAST_ITEM}\\nrozmraża go!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132989.0856397,
+  "touched": true
  },
  "src.txt::src.txt_477": {
   "source": "Congratulations! Your {STR_VAR_1}\\nevolved into {STR_VAR_2}!{WAIT_SE}\\p",
@@ -17401,10 +17404,13 @@
  },
  "src.txt::src.txt_449": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\ncured paralysis!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\\nleczy paraliż!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_LAST_ITEM}\\nleczy paraliż!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132981.5944223,
+  "touched": true
  },
  "data maps.txt::data maps.txt_104": {
   "source": "ROOFTOP SQUARE:\\nVENDING MACHINES",
@@ -78695,10 +78701,13 @@
  },
  "src.txt::src.txt_451": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\nhealed its burn!",
-  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\\nleczy poparzenia!",
+  "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_LAST_ITEM}\\nleczy poparzenia!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132985.834329,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_147": {
   "source": "ELECTRIC",
@@ -97308,7 +97317,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\\nbudzi go ze snu!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132989.6753104,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_206": {
   "source": "PATTERN BUSH",
@@ -99471,7 +99483,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_LAST_ITEM}\\nleczy zatrucie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132982.6602516,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_203": {
   "source": "An item to be held by a POKéMON.\\nA combustible fuel that boosts the\\npower of FIRE-type moves.",
