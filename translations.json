@@ -71252,7 +71252,10 @@
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} krząta\\n{B_LAST_ITEM}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131829.6793902,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1474": {
   "source": "GLACIA",
@@ -98147,12 +98150,12 @@
  },
  "src.txt::src.txt_236": {
   "source": "For {B_SCR_ACTIVE_NAME_WITH_PREFIX},\\n{B_LAST_ITEM} {B_BUFF1}",
-  "target": "Dla {B_SCR_ACTIVE_NAME_WITH_PREFIX}{B_LAST_ITEM},\\n{B_BUFF1}",
+  "target": "Dla {B_SCR_ACTIVE_NAME_WITH_PREFIX},\\n{B_LAST_ITEM} {B_BUFF1}",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131789.6735356,
+  "updated": 1791131822.9713101,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_713": {
