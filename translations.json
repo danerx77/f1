@@ -54842,10 +54842,13 @@
  },
  "src.txt::src.txt_1343": {
   "source": "{STR_VAR_1}'s base {STR_VAR_2}\\nstat was raised.{PAUSE_UNTIL_PRESS}",
-  "target": "{STR_VAR_1} - rośnie\\nstatystyka: {STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "target": "{STR_VAR_1} rośnie\\nstatystyka: {STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791133089.3212602,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_402": {
   "source": "PP UP",
@@ -56105,10 +56108,11 @@
  },
  "src.txt::src.txt_1569": {
   "source": "POKéMON JUMP",
-  "target": "POKéMON JUMP RECORDS",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "touched": true
  },
  "datatext.txt::datatext.txt_717": {
   "source": "Own move type: ICE",
@@ -84243,12 +84247,13 @@
  },
  "src.txt::src.txt_1570": {
   "source": "DODRIO BERRY-PICKING",
-  "target": "DODRIO BERRY-PICKING",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363490.3294363
+  "updated": 1790363490.3294363,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_209": {
   "source": "DITTO DOLL",
