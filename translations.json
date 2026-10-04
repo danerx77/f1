@@ -7502,7 +7502,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132429.678104,
+  "updated": 1791132432.1284456,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_662": {
@@ -21370,7 +21370,10 @@
   "target": "Wyeliminowano zmiany\\nstanu!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132436.4134898,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2022": {
   "source": "BENNY",
@@ -30714,7 +30717,10 @@
   "target": "Wiatr zmienił się w\\nCIEPŁĄ FALĘ!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132434.687668,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3247": {
   "source": "I can beat you when it comes to\\nknowledge about POKéMON!",
@@ -72832,7 +72838,10 @@
   "target": "Rozsypały się monety!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132439.161411,
+  "touched": true
  },
  "data maps.txt::data maps.txt_158": {
   "source": "<<< FILE: maps/CeladonCity_Gym/text.inc >>>",
@@ -74091,7 +74100,10 @@
   "target": "Nie udało się nic\\nPOŁKNĄĆ!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132433.1200116,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1769": {
   "source": "COLBY",
