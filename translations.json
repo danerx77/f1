@@ -7939,7 +7939,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518734.901735
+  "updated": 1791131709.7599137,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_82": {
   "source": "HERMIT CRAB",
@@ -8101,7 +8102,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} obrał\\n{B_CURRENT_MOVE} za swój cel!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131708.3622832,
+  "touched": true
  },
  "data maps.txt::data maps.txt_404": {
   "source": "Hiya!\\pI am important doctor.\\nYes, very much so, indeed.\\pHere, I study rare POKéMON fossils.\\nAll the time, I study.\\pYou!\\nHave you a fossil for me?",
@@ -42746,7 +42750,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} przyjął\\natak {B_BUFF1}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131706.9162972,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_291": {
   "source": "ABOUT",
@@ -98167,7 +98174,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131669.6690953,
+  "updated": 1791131705.1293867,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_2092": {
