@@ -1670,7 +1670,10 @@
   "target": "{B_LINK_OPPONENT1_NAME} wycofał\\n{B_BUFF1}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132719.8829966,
+  "touched": true
  },
  "src.txt::src.txt_560": {
   "source": "とても あまくて おいしい.",
@@ -2267,7 +2270,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519104.0290673
+  "updated": 1791132723.6530282,
+  "touched": true
  },
  "src.txt::src.txt_960": {
   "source": "The user lays roots\\nthat restore HP on\\nevery turn.\\nIt can't switch out.",
@@ -4413,7 +4417,10 @@
   "target": "!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132727.2075891,
+  "touched": true
  },
  "src.txt::src.txt_1683": {
   "source": "JUMP",
@@ -5501,7 +5508,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519174.942381
+  "updated": 1791132724.834079,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_284": {
   "source": "Summons a sandstorm that lasts for\\nfive turns. It damages all types\\nexcept ROCK, GROUND, and STEEL.",
@@ -9351,7 +9359,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519104.0290673
+  "updated": 1791132724.280111,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_537": {
   "source": "Even the young can exceed 6.5 feet in\\nlength. It grows larger by repeatedly\\nshedding skin.",
@@ -17483,7 +17492,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519100.5930376
+  "updated": 1791132723.9855683,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1797": {
   "source": "ARTHUR",
@@ -34931,7 +34941,10 @@
   "target": "!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132727.3924932,
+  "touched": true
  },
  "src.txt::src.txt_674": {
   "source": "WATMEL",
@@ -38918,7 +38931,10 @@
   "target": "!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132727.6323218,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_114": {
   "source": "DRILL",
@@ -50140,7 +50156,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} użył\\n{B_BUFF2}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132726.4364455,
+  "touched": true
  },
  "src.txt::src.txt_472": {
   "source": "OAK: Keep your eyes on your\\nPOKéMON's HP.\\pIt will faint if the HP drops to\\n“0.”\\p",
@@ -52875,7 +52894,10 @@
   "target": "{B_LINK_SCR_TRAINER_NAME} wycofał\\n{B_BUFF1}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132721.219288,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_525": {
   "source": "If it is angered or startled, the fur all\\nover its body bristles like sharp needles\\nthat pierce foes.",
@@ -56258,7 +56280,10 @@
   "target": "Wrogi ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132722.9659257,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1670": {
   "source": "EDGAR",
@@ -58044,7 +58069,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519090.2728553
+  "updated": 1791132722.6755824,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_890": {
   "source": "DAYTIME",
@@ -58554,12 +58580,12 @@
  },
  "src.txt::src.txt_393": {
   "source": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\\nwithdrew {B_BUFF1}!",
-  "target": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\\nwycofał  {B_BUFF1} !",
+  "target": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\\nwycofał {B_BUFF1} !",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132709.6958857,
+  "updated": 1791132718.0296001,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_170": {
@@ -78233,7 +78259,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519100.5930376
+  "updated": 1791132724.5990603,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_147": {
   "source": "Can be ground up into a powder as\\nan ingredient for medicine.",
@@ -81663,7 +81690,10 @@
   "target": "!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132726.9992774,
+  "touched": true
  },
  "src.txt::src.txt_1713": {
   "source": "MOVE POKéMON",
@@ -88793,7 +88823,10 @@
   "target": "!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132735.9931223,
+  "touched": true
  },
  "src.txt::src.txt_555": {
   "source": "<<< FILE: src/berry.c >>>",
@@ -92065,7 +92098,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519100.5930376
+  "updated": 1791132723.223021,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_171": {
   "source": "BAT",
