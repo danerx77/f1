@@ -97,7 +97,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} \\noniemiały z miłości!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131184.23982,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_686": {
   "source": "GOLD TEETH",
@@ -3083,7 +3086,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} już\\noszołomiony!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131175.4195125,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_674": {
   "source": "HM03",
@@ -6400,7 +6406,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} zakochany \\nw {B_SCR_ACTIVE_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131180.2023885,
+  "touched": true
  },
  "src.txt::src.txt_1957": {
   "source": "{DYNAMIC 0x00} forgot\\n{DYNAMIC 0x01}.\\p",
@@ -7054,7 +7063,10 @@
   "target": "Wrogie {B_BUFF1} \\nprzestał działać!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131166.2175543,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2465": {
   "source": "Lalalah…\\nMy POKéMON, I send them out,\\lall the girls scream and shout!",
@@ -12791,7 +12803,10 @@
   "target": "{B_EFF_NAME_WITH_PREFIX} \\noszołomiony!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131171.947528,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2057": {
   "source": "HUGH",
@@ -22870,7 +22885,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} zmienił się\\nw typ {B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131189.66825,
+  "touched": true
  },
  "datatext.txt::datatext.txt_240": {
   "source": "CELADON DEPT.",
@@ -23541,12 +23559,12 @@
  },
  "src.txt::src.txt_95": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\\nwon't go lower!",
-  "target": "{B_DEF_NAME_WITH_PREFIX} - {B_BUFF1}\\njuż nie spadnie!",
+  "target": "{B_DEF_NAME_WITH_PREFIX} {B_BUFF1}\\njuż nie spadnie!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131149.6710825,
+  "updated": 1791131155.1206102,
   "touched": true
  },
  "src.txt::src.txt_2466": {
@@ -26722,7 +26740,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX}\\noszołomiony!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131168.5110085,
+  "touched": true
  },
  "src.txt::src.txt_2288": {
   "source": "Throw away the WONDER CARD\\nand input a new CARD?",
@@ -38219,7 +38240,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX}\\nzakochany!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131178.234241,
+  "touched": true
  },
  "src.txt::src.txt_2826": {
   "source": "{STR_VAR_1} has contacted you.{PAUSE 60}",
@@ -42554,7 +42578,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} \\nzdmuchnięty!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131185.3982198,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1252": {
   "source": "The key to NEW MAUVILLE, which\\\\nwas constructed beneath MAUVILLE\\\\nCITY.",
@@ -53004,7 +53031,10 @@
   "target": "{B_BUFF1} drużyny przestał\\ndziałać!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131164.4278216,
+  "touched": true
  },
  "src.txt::src.txt_1201": {
   "source": "{PP}",
@@ -61532,7 +61562,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} otrząsnął\\nsię z konfuzji!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131170.4284244,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_703": {
   "source": "CLEFABLE",
