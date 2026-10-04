@@ -10853,7 +10853,10 @@
   "target": "Ale HAŁAS otrzeźwia\\n{B_DEF_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131488.7931678,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1755": {
   "source": "GRUNT",
@@ -13642,7 +13645,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} nie\\nmoże robić ZAPASÓW!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131486.0131345,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_817": {
   "source": "MEWTWO",
@@ -14730,7 +14736,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} zmienił się\\nw {B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131505.9332964,
+  "touched": true
  },
  "datatext.txt::datatext.txt_662": {
   "source": "All POKéMON have a personality,\\nor “NATURE.” The POKéMON's\\lnature appears to affect how the\\lPOKéMON will grow upon leveling up.",
@@ -23497,7 +23506,10 @@
   "target": "{B_PLAYER_NAME} podniósł\\n¥{B_BUFF1}!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131499.970375,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1190": {
   "source": "?????",
@@ -29384,7 +29396,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131469.678872,
+  "updated": 1791131478.468035,
   "touched": true
  },
  "src.txt::src.txt_1398": {
@@ -41098,7 +41110,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} zrobił\\nZASTĘPCE!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131509.3533463,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1938": {
   "source": "Whoo!\\nGood stuff!",
@@ -54645,7 +54660,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} zbiera\\nenergię!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131493.0027683,
+  "touched": true
  },
  "src.txt::src.txt_729": {
   "source": "The user bites with\\nvicious fangs.\\nIt may make the\\nfoe flinch.",
@@ -56607,7 +56625,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} \\nnieporuszony!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131504.764791,
+  "touched": true
  },
  "src.txt::src.txt_1771": {
   "source": " きれい だよね-",
@@ -61830,7 +61851,10 @@
   "target": "Ale {B_DEF_NAME_WITH_PREFIX} nie\\nmoże spać w HAŁASIE!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131486.2939177,
+  "touched": true
  },
  "src.txt::src.txt_1612": {
   "source": "9F",
@@ -70190,7 +70214,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} ma już\\nZASTĘPCE!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131509.6791146,
+  "touched": true
  },
  "data maps.txt::data maps.txt_939": {
   "source": "BILL: What kept you so long?\\nBeen out having a good time?\\pWe got it done.\\nThe PCs are up and running!",
@@ -74451,7 +74478,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} oszołomiony\\nz powodu zmęczenia!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131495.8260188,
+  "touched": true
  },
  "src.txt::src.txt_2482": {
   "source": "EEVEE",
@@ -79761,7 +79791,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} pozostał\\npobudzony z {B_DEF_ABILITY}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131491.7389064,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1715": {
   "source": "Oh, dear.\\nYou've found my secret retreat.\\pPlease don't tell anyone I'm here.\\nI'll make it up to you with this!",
@@ -86381,7 +86414,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} wypuszcza\\nenergię!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131494.5160184,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2865": {
   "source": "Humph!\\pAt least you're raising your\\nPOKéMON!",
