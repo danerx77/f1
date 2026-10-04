@@ -9973,7 +9973,10 @@
   "target": "{B_ACTIVE_NAME_WITH_PREFIX} nie może\\nużyć {B_CURRENT_MOVE} przez KPINĘ!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132182.3731265,
+  "touched": true
  },
  "src.txt::src.txt_1689": {
   "source": "INFO",
@@ -17567,7 +17570,10 @@
   "target": "{B_ACTIVE_NAME_WITH_PREFIX} nie może atakować\\ntym samym pod rząd przez UDRĘKĘ!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791132180.6751115,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_22": {
   "source": "STORY",
@@ -30944,12 +30950,13 @@
  },
  "src.txt::src.txt_246": {
   "source": "{B_ACTIVE_NAME_WITH_PREFIX} can't use the\\nsealed {B_CURRENT_MOVE}!\\p",
-  "target": "{B_ACTIVE_NAME_WITH_PREFIX}-\\n{B_CURRENT_MOVE} jest zapieczętowany!\\p",
+  "target": "{B_ACTIVE_NAME_WITH_PREFIX} \\n{B_CURRENT_MOVE} jest zapieczętowany!\\p",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518793.5647168
+  "updated": 1791132189.4913015,
+  "touched": true
  },
  "data maps.txt::data maps.txt_416": {
   "source": "<<< FILE: maps/CinnabarIsland_PokemonLab_ResearchRoom/text.inc >>>",
@@ -39093,7 +39100,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132149.6822865,
+  "updated": 1791132172.9234977,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_14": {
@@ -88052,7 +88059,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518799.7225974
+  "updated": 1791132189.7053115,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1097": {
   "source": "…ZZZ…\\nI…can't eat…anymore…",
