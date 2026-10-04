@@ -341,7 +341,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} uciekł z\\nwalki!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131609.4909635,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_427": {
   "source": "CHARGE",
@@ -3695,7 +3698,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} sieje\\nNASIONA!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131608.59034,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1452": {
   "source": "A ticket required to board the ship\\\\nto BIRTH ISLAND.\\\\nIt glows beautifully.",
@@ -24594,7 +24600,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} kopiuje\\nzmiany stanu {B_DEF_NAME_WITH_PREFIX}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131602.4102316,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_523": {
   "source": "IMPISH",
@@ -27917,7 +27926,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} zdmuchnął\\nKOLCE!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131609.087314,
+  "touched": true
  },
  "data maps.txt::data maps.txt_535": {
   "source": "You're doing things according to\\nyour beliefs and morals.\\pI understand now…",
@@ -32738,7 +32750,10 @@
   "target": "TĄPNIĘCIE {B_BUFF1} !",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131598.3060534,
+  "touched": true
  },
  "datatext.txt::datatext.txt_842": {
   "source": "If you need help playing the\\ngame, or on how to do things,\\npress the L or R Button.",
@@ -90642,7 +90657,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} wydostał się\\nz {B_DEF_NAME_WITH_PREFIX} {B_BUFF1}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131607.6067128,
+  "touched": true
  },
  "datatext.txt::datatext.txt_426": {
   "source": "What happened to the item I got?",
@@ -94062,7 +94080,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} obcina pół HP\\ni maksymalizuje ATAK!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131600.6405876,
+  "touched": true
  },
  "src.txt::src.txt_1195": {
   "source": "♀",
@@ -98144,7 +98165,10 @@
   "target": "{B_ATK_NAME_WITH_PREFIX} przewidział\\natak!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131629.6719027,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2092": {
   "source": "MATTHEW",
