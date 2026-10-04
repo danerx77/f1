@@ -10855,7 +10855,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131488.7931678,
+  "updated": 1791131536.86111,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1755": {
@@ -13647,7 +13647,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131486.0131345,
+  "updated": 1791131536.4416687,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_817": {
@@ -14738,7 +14738,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131505.9332964,
+  "updated": 1791131539.0008588,
   "touched": true
  },
  "datatext.txt::datatext.txt_662": {
@@ -23508,7 +23508,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131499.970375,
+  "updated": 1791131538.0030162,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1190": {
@@ -29396,7 +29396,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131478.468035,
+  "updated": 1791131536.2240071,
   "touched": true
  },
  "src.txt::src.txt_1398": {
@@ -34374,7 +34374,10 @@
   "target": "ZASTĘPCA zabrał obrażenia\\nza {B_DEF_NAME_WITH_PREFIX}!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131541.6625748,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1087": {
   "source": "I have never won before…\\pPerhaps I am destined to remain\\nthat way…",
@@ -39906,7 +39909,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131460.8666072,
+  "updated": 1791131535.7955933,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_684": {
@@ -41112,7 +41115,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131509.3533463,
+  "updated": 1791131539.397434,
   "touched": true
  },
  "data maps.txt::data maps.txt_1938": {
@@ -54662,7 +54665,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131493.0027683,
+  "updated": 1791131537.2980583,
   "touched": true
  },
  "src.txt::src.txt_729": {
@@ -56627,7 +56630,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131504.764791,
+  "updated": 1791131538.332324,
   "touched": true
  },
  "src.txt::src.txt_1771": {
@@ -61853,7 +61856,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131486.2939177,
+  "updated": 1791131536.6425035,
   "touched": true
  },
  "src.txt::src.txt_1612": {
@@ -62804,10 +62807,13 @@
  },
  "src.txt::src.txt_169": {
   "source": "{B_ATK_NAME_WITH_PREFIX} must\\nrecharge!",
-  "target": "{B_ATK_NAME_WITH_PREFIX}\\nprzeładowuje!",
+  "target": "{B_ATK_NAME_WITH_PREFIX} \\nprzeładowuje!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131542.9936018,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_87": {
   "source": "A DITTO doll.\\nPlace it on a mat\\nor a desk.",
@@ -64387,10 +64393,13 @@
  },
  "src.txt::src.txt_168": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s\\nSUBSTITUTE faded!\\p",
-  "target": "{B_DEF_NAME_WITH_PREFIX}-\\nZASTĘPCA zniknął!\\p",
+  "target": "{B_DEF_NAME_WITH_PREFIX} \\nZASTĘPCA zniknął!\\p",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131542.4294825,
+  "touched": true
  },
  "src.txt::src.txt_2031": {
   "source": "Communication standby…",
@@ -70216,7 +70225,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131509.6791146,
+  "updated": 1791131541.3301382,
   "touched": true
  },
  "data maps.txt::data maps.txt_939": {
@@ -74480,7 +74489,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131495.8260188,
+  "updated": 1791131537.7646718,
   "touched": true
  },
  "src.txt::src.txt_2482": {
@@ -79200,10 +79209,13 @@
  },
  "src.txt::src.txt_170": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s RAGE\\nis building!",
-  "target": "{B_DEF_NAME_WITH_PREFIX}- rośnie\\nWŚCIEKŁOŚĆ!",
+  "target": "{B_DEF_NAME_WITH_PREFIX} rośnie\\nWŚCIEKŁOŚĆ!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131546.8649213,
+  "touched": true
  },
  "src.txt::src.txt_1138": {
   "source": "WT",
@@ -79793,7 +79805,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131491.7389064,
+  "updated": 1791131537.079634,
   "touched": true
  },
  "data maps.txt::data maps.txt_1715": {
@@ -86416,7 +86428,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131494.5160184,
+  "updated": 1791131537.5255136,
   "touched": true
  },
  "data maps.txt::data maps.txt_2865": {
@@ -94499,7 +94511,10 @@
   "target": "{B_DEF_NAME_WITH_PREFIX} jego\\n{B_BUFF1}  wyłączony!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791131549.6720943,
+  "touched": true
  },
  "datatext.txt::datatext.txt_764": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: ICE, ROCK\\p   {TRIANGLE}: FIRE, WATER, ELECTRIC, STEEL",
@@ -96495,7 +96510,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131465.18371,
+  "updated": 1791131536.0227933,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_648": {
