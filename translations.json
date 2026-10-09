@@ -51339,7 +51339,10 @@
   "target": ",\\nKTÓRZY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791577951.4466634,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1483": {
   "source": "TYLER",
@@ -93272,7 +93275,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791577911.40609,
+  "updated": 1791577914.3935184,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_174": {
