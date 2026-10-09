@@ -35454,7 +35454,10 @@
   "target": "Złapałam KOFFINGA w CINNABAR.\\pJest kochany, ale gdy się złości\\nto wydmuchuje truciznę.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791575910.7525494,
+  "touched": true
  },
  "datatext.txt::datatext.txt_725": {
   "source": "Own move type: DRAGON",
