@@ -3599,7 +3599,10 @@
   "target": "Walczył z {STR_VAR_1}.\\nPojedynek zakończył się {STR_VAR_2}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586394.0877378,
+  "touched": true
  },
  "datatext.txt::datatext.txt_596": {
   "source": "{CIRCLE_1} Select “DEPOSIT ITEM.”\\n{CIRCLE_2} Select the item in the BAG to be\\n   deposited using the {PLUS} Control Pad.\\n{CIRCLE_3} If there is nothing in the BAG, this\\n   command can't be used!",
@@ -6378,6 +6381,16 @@
   "notes": "",
   "ignored": false
  },
+ "srcdatatext.txt::srcdatatext.txt_590": {
+  "source": "{STR_VAR_1} securely learned the move\\n{STR_VAR_2} using an HM and forgot\\nthe move {STR_VAR_3}.",
+  "target": "{STR_VAR_1} bezpiecznie nauczył się\\nruchu {STR_VAR_2} używając HM i\\nstracił ruch {STR_VAR_3}.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586340.7435427,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_685": {
   "source": "PIDGEOT",
   "target": "",
@@ -6387,13 +6400,6 @@
   "manual_skip": true,
   "cleared": true,
   "updated": 1791583770.3548164
- },
- "srcdatatext.txt::srcdatatext.txt_590": {
-  "source": "{STR_VAR_1} securely learned the move\\n{STR_VAR_2} using an HM and forgot\\nthe move {STR_VAR_3}.",
-  "target": "{STR_VAR_1} bezpiecznie nauczył się\\nruchu {STR_VAR_2} używając HM i\\nstracił ruch {STR_VAR_3}.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_354": {
   "source": "COLOR SWAP",
@@ -6736,7 +6742,10 @@
   "target": "Ruszył grupę POKéMONÓW w\\n{DYNAMIC 0x00} do {DYNAMIC 0x01}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586695.6192927,
+  "touched": true
  },
  "src.txt::src.txt_919": {
   "source": "Restores the user's\\nHP. The amount of\\nHP regained varies\\nwith the weather.",
@@ -9298,7 +9307,10 @@
   "target": "Wyjął przedmiot {STR_VAR_1} z\\n{PLAYER} PC i przekazał go do trzymania\\n{STR_VAR_2}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586687.6155958,
+  "touched": true
  },
  "data.txt::data.txt_24": {
   "source": "I'm terribly sorry.\\nThe POKéMON WIRELESS CLUB is\\lundergoing adjustments now.",
@@ -13720,10 +13732,14 @@
  },
  "srcdatatext.txt::srcdatatext.txt_586": {
   "source": "{DYNAMIC 0x04}",
-  "target": "",
-  "status": "approved",
+  "target": "{DYNAMIC 0x04}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791586371.8055081,
+  "touched": true
  },
  "data maps.txt::data maps.txt_79": {
   "source": "You're not interested? Come see\\nme if you change your mind.",
@@ -17903,7 +17919,10 @@
   "target": "Poszedł do POKéMON MART w\\n{DYNAMIC 0x00} i wydał tam ¥{DYNAMIC 0x02} na\\nprzedmioty, w tym {DYNAMIC 0x01} .",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586388.6548898,
+  "touched": true
  },
  "data maps.txt::data maps.txt_382": {
   "source": "<<< FILE: maps/CinnabarIsland_Mart/text.inc >>>",
@@ -20728,7 +20747,10 @@
   "target": "{STR_VAR_1} podzielił się HP używając\\nŁYKU MLEKA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586346.9368348,
+  "touched": true
  },
  "src.txt::src.txt_2731": {
   "source": "MUK",
@@ -24454,9 +24476,14 @@
  "srcdatatext.txt::srcdatatext.txt_576": {
   "source": "handily",
   "target": "",
-  "status": "draft",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791586571.092171,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1169": {
   "source": "????????",
@@ -32078,7 +32105,10 @@
   "target": "Ruszył {DYNAMIC 0x01} w {DYNAMIC 0x00}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586703.520228,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3279": {
   "source": "RAY: Ludicrous!\\nThis can't be!",
@@ -32691,7 +32721,11 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791586726.0162163,
+  "touched": true
  },
  "datatext.txt::datatext.txt_854": {
   "source": "This is my grandson.\\pHe's been your rival since you both\\nwere babies.\\p…Erm, what was his name now?",
@@ -33107,7 +33141,10 @@
   "target": "Porozmawiał z TRENERAMI.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586682.0202193,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_611": {
   "source": "SCANNER",
@@ -33497,6 +33534,16 @@
   "notes": "",
   "ignored": false
  },
+ "srcdatatext.txt::srcdatatext.txt_568": {
+  "source": "Switched {DYNAMIC 0x01} in {DYNAMIC 0x00}\\nwith {DYNAMIC 0x02} in the party.",
+  "target": "Zmienił {DYNAMIC 0x01} w {DYNAMIC 0x00}\\nz {DYNAMIC 0x02} w drużynie.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586701.4468064,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_789": {
   "source": "MR. MIME",
   "target": "",
@@ -33514,13 +33561,6 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true
- },
- "srcdatatext.txt::srcdatatext.txt_568": {
-  "source": "Switched {DYNAMIC 0x01} in {DYNAMIC 0x00}\\nwith {DYNAMIC 0x02} in the party.",
-  "target": "Zmienił {DYNAMIC 0x01} w {DYNAMIC 0x00}\\nz {DYNAMIC 0x02} w drużynie.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
  },
  "src.txt::src.txt_2337": {
   "source": "COLE",
@@ -35162,10 +35202,14 @@
  },
  "srcdatatext.txt::srcdatatext.txt_44": {
   "source": "Traps STEEL-type POKéMON.",
-  "target": "",
-  "status": "new",
+  "target": "Więzi STALOWE POKéMONY.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791587010.454032,
+  "touched": true
  },
  "src.txt::src.txt_2461": {
   "source": "SHUCKLE",
@@ -35452,7 +35496,10 @@
   "target": "Wymienił się z {STR_VAR_1}.\\nOtrzymał {STR_VAR_2} TRENERA w zamian za\\n{STR_VAR_3}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586395.7190497,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1095": {
   "source": "If your first POKé BALL fails to\\ncatch the POKéMON, don't give up!\\pKeep throwing POKé BALLS…\\nIt's bound to work sometime!\\pAll righty, be seeing you!\\pRemember, TRAINERS, a good deed\\na day brings happiness to stay!",
@@ -35762,9 +35809,14 @@
  "srcdatatext.txt::srcdatatext.txt_577": {
   "source": "tenaciously",
   "target": "",
-  "status": "draft",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791586430.5912201,
+  "touched": true
  },
  "src.txt::src.txt_745": {
   "source": "A peculiar ray is\\nshot at the foe.\\nIt may leave the\\nfoe confused.",
@@ -36222,16 +36274,20 @@
   "ignored": true,
   "manual_skip": true
  },
+ "srcdatatext.txt::srcdatatext.txt_22": {
+  "source": "Prevents confusion.",
+  "target": "Nneguje konfuzję.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791586828.217966,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_472": {
   "source": "FAKE TEARS",
   "target": "FAŁSZYWE ŁZY",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdatatext.txt::srcdatatext.txt_22": {
-  "source": "Prevents confusion.",
-  "target": "",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -42021,7 +42077,10 @@
   "target": "Wyjął przedmiot {STR_VAR_1} z\\nPC i dał go {STR_VAR_2} oraz przeniósł\\n{STR_VAR_3}, które trzymał do TORBY.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586686.1824057,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2179": {
   "source": "What's that?",
@@ -43265,7 +43324,10 @@
   "target": "Poszedł do POKéMON MART w\\n{DYNAMIC 0x00} i nabył\\n{DYNAMIC 0x01}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586392.1154368,
+  "touched": true
  },
  "datatext.txt::datatext.txt_453": {
   "source": "What's a POKéMON MART?",
@@ -46232,7 +46294,10 @@
   "target": "innego punktu",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586692.4835458,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2083": {
   "source": "EVAN",
@@ -55644,7 +55709,10 @@
   "target": "tylko 1",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586377.0299048,
+  "touched": true
  },
  "src.txt::src.txt_1712": {
   "source": "DEPOSIT POKéMON",
@@ -60287,16 +60355,20 @@
   "notes": "",
   "ignored": false
  },
+ "srcdatatext.txt::srcdatatext.txt_578": {
+  "source": "somehow",
+  "target": "sposób",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791586428.012113,
+  "touched": true
+ },
  "srcdatapokemon.txt::srcdatapokemon.txt_753": {
   "source": "It swims through icy seas while shattering\\nice floes with its large tusks. It is\\nprotected by its thick blubber.",
   "target": "Płynie przez lodowate morza, rozbijając kry\\nlodowymi dużymi kłami. Jest chroniony\\nprzez grubą warstwę tłuszczu.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdatatext.txt::srcdatatext.txt_578": {
-  "source": "somehow",
-  "target": "",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -63588,7 +63660,10 @@
   "target": "Pokonał {DYNAMIC 0x02} dzikich POKéMON w tym\\n{DYNAMIC 0x01} w {DYNAMIC 0x00}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586332.5850675,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2064": {
   "source": "DESTIN",
@@ -65513,7 +65588,10 @@
   "target": "{DYNAMIC 0x00} poszedł do POKéMON MART w\\n{DYNAMIC 0x01} i sprzedał {DYNAMIC 0x03} \\nprzedmioty {DYNAMIC 0x02}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586386.1507006,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1020": {
   "source": "Can be ground up into a powder as\\\\nan ingredient for medicine.",
@@ -69418,10 +69496,14 @@
  },
  "srcdatatext.txt::srcdatatext.txt_19": {
   "source": "Prevents poisoning.",
-  "target": "",
+  "target": "Neguje zatrucie.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791586818.272921,
+  "touched": true
  },
  "src.txt::src.txt_520": {
   "source": " is",
@@ -71435,16 +71517,19 @@
   "notes": "",
   "ignored": false
  },
- "srcdataregionmap.txt::srcdataregionmap.txt_49": {
-  "source": "POKéMON MANSION",
-  "target": "POKéMONOWY DWÓR",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "srcdatatext.txt::srcdatatext.txt_584": {
   "source": "Sold items including {DYNAMIC 0x01} at\\nthe POKéMON MART in {DYNAMIC 0x00},\\nworth ¥{DYNAMIC 0x02}.",
   "target": "Sprzedał przedmioty, w tym {DYNAMIC 0x01}\\n w POKéMON MART w {DYNAMIC 0x00},\\nwarte ¥{DYNAMIC 0x02}.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586384.3273826,
+  "touched": true
+ },
+ "srcdataregionmap.txt::srcdataregionmap.txt_49": {
+  "source": "POKéMON MANSION",
+  "target": "POKéMONOWY DWÓR",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -77759,7 +77844,10 @@
   "target": "Zmienił ze sobą {DYNAMIC 0x01} i\\n{DYNAMIC 0x02} w {DYNAMIC 0x00}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586713.2116976,
+  "touched": true
  },
  "data maps.txt::data maps.txt_851": {
   "source": "Here we are on an island smack in\\nthe middle of nowhere.\\pWe're lucky to have an upstanding\\nyoung man like CELIO here.\\pMy granddaughter was in a tizzy\\nover CELIO's friend.\\pSomething about a famous\\nPOKéMANIAC?\\pI'm not sure what that means, but\\nCELIO is quite the man!",
@@ -79783,7 +79871,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791585162.36355,
+  "updated": 1791586326.2258456,
   "touched": true
  },
  "datatext.txt::datatext.txt_484": {
@@ -83667,7 +83755,10 @@
   "target": "{STR_VAR_1} bezpiecznie nauczył się\\n{STR_VAR_2} używając HM.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586342.4877052,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_353": {
   "source": "MAX POTION",
@@ -85040,7 +85131,10 @@
   "target": "{DYNAMIC 0x05} pokonał POKéMONA\\n{DYNAMIC 0x01} w {DYNAMIC 0x00}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586336.8373907,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_899": {
   "source": "With ninja-like agility and speed, it can\\ncreate the illusion that there is more\\nthan one of itself.",
@@ -86372,7 +86466,10 @@
   "target": "{STR_VAR_1} podzielił się HP używając\\nJAJONAMIĘKKO.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586349.5862658,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_617": {
   "source": "RM. 6 KEY",
@@ -95625,7 +95722,10 @@
   "target": "Dodał {DYNAMIC 0x01} w {DYNAMIC 0x00}\\ndo drużyny.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586699.8583932,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1139": {
   "source": "Just as I thought!\\nYou're POKéMON champ material!",
@@ -103644,12 +103744,15 @@
   "notes": "",
   "ignored": false
  },
- "data maps.txt::data maps.txt_1843": {
-  "source": "Are you on vacation, too?",
-  "target": "Też jesteś na wakacjach?",
+ "srcdatatext.txt::srcdatatext.txt_570": {
+  "source": "Moved {DYNAMIC 0x00} from the party\\nto {DYNAMIC 0x01}.",
+  "target": "Ruszył {DYNAMIC 0x00} z drużyny\\ndo {DYNAMIC 0x01}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791586697.5549595,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_100": {
   "source": "A LOTAD doll.\\nPlace it on a mat\\nor a desk.",
@@ -103673,6 +103776,13 @@
   "updated": 1791586288.0617423,
   "touched": true
  },
+ "data maps.txt::data maps.txt_1843": {
+  "source": "Are you on vacation, too?",
+  "target": "Też jesteś na wakacjach?",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
  "srcdata.txt::srcdata.txt_360": {
   "source": "SODA POP",
   "target": "SODA POP",
@@ -103687,13 +103797,6 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true
- },
- "srcdatatext.txt::srcdatatext.txt_570": {
-  "source": "Moved {DYNAMIC 0x00} from the party\\nto {DYNAMIC 0x01}.",
-  "target": "Ruszył {DYNAMIC 0x00} z drużyny\\ndo {DYNAMIC 0x01}.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
  },
  "srcdata.txt::srcdata.txt_219": {
   "source": "A folding bicycle that is at least\\ntwice as fast as walking.",
@@ -106350,10 +106453,14 @@
  },
  "srcdatatext.txt::srcdatatext.txt_9": {
   "source": "Prevents paralysis.",
-  "target": "",
-  "status": "new",
+  "target": "Neguje paraliż.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791586790.5733323,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1228": {
   "source": "Oh, you will give me another\\nopportunity to match wits with you?",
