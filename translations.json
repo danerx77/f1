@@ -3993,7 +3993,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "srcdatatext.txt::srcdatatext.txt_380": {
@@ -6373,7 +6373,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1075": {
@@ -7349,7 +7349,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "srcdata.txt::srcdata.txt_786": {
@@ -17275,7 +17275,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "datascript.txt::datascript.txt_119": {
@@ -20238,7 +20238,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "srcdata.txt::srcdata.txt_230": {
@@ -20601,7 +20601,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "data maps.txt::data maps.txt_1986": {
@@ -36554,7 +36554,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "datascript.txt::datascript.txt_110": {
@@ -38951,7 +38951,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1150": {
@@ -46898,7 +46898,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "srcdata.txt::srcdata.txt_1645": {
@@ -49181,7 +49181,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "datatext.txt::datatext.txt_1277": {
@@ -52611,7 +52611,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_141": {
@@ -52679,7 +52679,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "src.txt::src.txt_1689": {
@@ -52694,7 +52694,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "data maps.txt::data maps.txt_1966": {
@@ -67706,7 +67706,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "srcdata.txt::srcdata.txt_1015": {
@@ -79075,7 +79075,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "srcdatatext.txt::srcdatatext.txt_1000": {
@@ -79930,7 +79930,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "data maps.txt::data maps.txt_890": {
@@ -84780,7 +84780,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_899": {
@@ -85906,7 +85906,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "auto_excluded": true
  },
  "srcdata.txt::srcdata.txt_444": {
@@ -89938,10 +89938,13 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_379": {
   "source": "JOY",
-  "target": "JOY:",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791578052.274565,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_385": {
   "source": "????????",
