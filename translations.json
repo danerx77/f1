@@ -98539,6 +98539,17 @@
   "notes": "",
   "ignored": false
  },
+ "srcdataeasychat.txt::srcdataeasychat.txt_381": {
+  "source": "NEVER",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791585335.1027505,
+  "touched": true
+ },
  "srcdata.txt::srcdata.txt_2028": {
   "source": "CHESTER",
   "target": "",
@@ -98551,13 +98562,6 @@
   "source": "PLUS",
   "target": "",
   "status": "new",
-  "notes": "",
-  "ignored": false
- },
- "srcdataeasychat.txt::srcdataeasychat.txt_381": {
-  "source": "NEVER",
-  "target": "Nigdy",
-  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -99094,10 +99098,12 @@
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_379": {
   "source": "JOY",
-  "target": "JOY:",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "touched": true
  },
  "src.txt::src.txt_270": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\\nprevents {B_BUFF1} loss!",
