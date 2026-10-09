@@ -5137,7 +5137,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518494.919333
+  "updated": 1791577831.379812,
+  "touched": true
  },
  "src.txt::src.txt_2582": {
   "source": "GEB&MEGAN",
@@ -20291,7 +20292,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791577791.5311346,
+  "updated": 1791577795.4676201,
   "touched": true
  },
  "src.txt::src.txt_156": {
@@ -40023,7 +40024,10 @@
   "target": "Dobrze, podoba ci się taki jaki\\njest.\\pTeż tak sądzę.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791577801.5019524,
+  "touched": true
  },
  "data maps.txt::data maps.txt_409": {
   "source": "ポケモン　いっぱいで　もてないね！",
