@@ -12655,7 +12655,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791577631.6731212,
+  "updated": 1791577639.057769,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_29": {
@@ -31144,7 +31144,10 @@
   "target": "Na co się tak gapisz?\\nSpadaj albo ci przyłożę.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791577660.203927,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_669": {
   "source": "TM48",
@@ -48369,7 +48372,10 @@
   "target": "Jest lepiej niż myślałam.\\nW takim razie ruszaj.\\pTo tylko przedsmak\\nmocy LIGI POKéMON.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791577671.5315795,
+  "touched": true
  },
  "datatext.txt::datatext.txt_993": {
   "source": "Oh!\\nLook, look!",
