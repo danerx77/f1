@@ -68509,13 +68509,6 @@
   "notes": "",
   "ignored": false
  },
- "srcdata.txt::srcdata.txt_86": {
-  "source": "Raises the critical-hit ratio of\\nPOKéMON in battle. Wears off if the\\nPOKéMON is withdrawn.",
-  "target": "Zwiększa szansę krytycznego\\ntrafienia w walce. Przestaje działać\\nprzy wycofaniu POKéMONA.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "data maps.txt::data maps.txt_691": {
   "source": "Please return any SAFARI BALLS\\nyou may have left.",
   "target": "Prosimy o zwrot pozostałych\\nSAFARI BALLI.",
@@ -79625,6 +79618,13 @@
   "notes": "",
   "ignored": false
  },
+ "srcdata.txt::srcdata.txt_86": {
+  "source": "Raises the critical-hit ratio of\\nPOKéMON in battle. Wears off if the\\nPOKéMON is withdrawn.",
+  "target": "Zwiększa szansę krytycznego\\ntrafienia w walce. Przestaje działać\\nprzy wycofaniu POKéMONA.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
  "data maps.txt::data maps.txt_3106": {
   "source": "{PLAYER} handed over one\\nBIG MUSHROOM in exchange.",
   "target": "{PLAYER} daje DUŻY\\nMUCHOMOR w ramach wymiany.",
@@ -88589,7 +88589,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791584464.9383738,
+  "updated": 1791584556.135301,
   "touched": true
  },
  "src.txt::src.txt_270": {
