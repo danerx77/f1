@@ -5137,7 +5137,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791577831.379812,
+  "updated": 1791577832.216087,
   "touched": true
  },
  "src.txt::src.txt_2582": {
@@ -56247,7 +56247,10 @@
   "target": "Musiałeś być ostrzejszy.\\nPozwól mi walczyć z tobą!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791577851.0912006,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2467": {
   "source": "Uh-huh…",
@@ -93267,7 +93270,10 @@
   "target": "Otrzymałem najlepszą możliwą\\nedukację, by stać się tak silnym.\\pTym razem nie przegram.\\nAbsolutnie nie!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791577871.4449372,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_174": {
   "source": "TINY MOUSE",
