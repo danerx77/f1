@@ -20289,7 +20289,10 @@
   "target": "Jaki jesteś teraz?\\nBardzo chciałabym wiedzieć.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791577791.5311346,
+  "touched": true
  },
  "src.txt::src.txt_156": {
   "source": "But {B_DEF_NAME_WITH_PREFIX} can't\\nsleep in an UPROAR!",
@@ -48374,7 +48377,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791577751.342811,
+  "updated": 1791577778.297422,
   "touched": true
  },
  "datatext.txt::datatext.txt_993": {
@@ -81788,7 +81791,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790517294.8776028
+  "updated": 1791577790.6768868,
+  "touched": true
  },
  "src.txt::src.txt_731": {
   "source": "The foe is made to\\nswitch out with an\\nally. In the wild,\\nthe battle ends.",
