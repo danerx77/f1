@@ -32348,7 +32348,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732784.2812912,
+  "touched": true
  },
  "src.txt::src.txt_1356": {
   "source": "Teach which POKéMON?",
@@ -35587,7 +35592,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732796.243934,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1157": {
   "source": "Please enjoy yourself.",
@@ -83397,10 +83407,11 @@
  },
  "datatext.txt::datatext.txt_500": {
   "source": "Use the FAME CHECKER among the\\nKEY ITEMS in your BAG.\\lIt may give you a hint, so try it out.",
-  "target": "Jego runo rośnie cały czas. W lecie,\\ngdy zostaje ścięte, odrasta w pełni w\\nciągu tygodnia.",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
   "updated": 1791732768.5062792,
