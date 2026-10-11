@@ -2441,3 +2441,8 @@
 {"time": "2026-10-11T17:11:22", "file": "datatext.txt", "seg_id": "datatext.txt_264", "source": "POKéMON JOURNAL", "old": "POKéMON JOURNAL", "new": "DZIENNIK POKéMON", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:13:47", "file": "datatext.txt", "seg_id": "datatext.txt_312", "source": "WOMAN", "old": "WOMAN", "new": "", "translator": "Antrix", "method": "clear"}
 {"time": "2026-10-11T17:13:53", "file": "datatext.txt", "seg_id": "datatext.txt_312", "source": "WOMAN", "old": "", "new": "KOBIETA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:28:58", "file": "datatext.txt", "seg_id": "datatext.txt_275", "source": "YOUNG MAN", "old": "", "new": "MŁODZIENIEC", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:28:58", "file": "datatext.txt", "seg_id": "datatext.txt_275", "source": "YOUNG MAN", "old": "", "new": "MŁODZIENIEC", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:29:05", "file": "datatext.txt", "seg_id": "datatext.txt_277", "source": "MAN", "old": "", "new": "MĘŻCZYZNA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:29:05", "file": "datatext.txt", "seg_id": "datatext.txt_277", "source": "MAN", "old": "", "new": "MĘŻCZYZNA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:29:19", "file": "datatext.txt", "seg_id": "datatext.txt_283", "source": "DAME", "old": "DAMA", "new": "", "translator": "Antrix", "method": "clear"}

@@ -28130,7 +28130,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791732528.5052657,
+  "updated": 1791732537.6232333,
   "touched": true
  },
  "src.txt::src.txt_2157": {
@@ -56513,7 +56513,10 @@
   "target": "LUIS",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791732553.8748207,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_858": {
   "source": "Raises the critical-hit ratio of\\\\nPOKéMON in battle. Wears off if the\\\\nPOKéMON is withdrawn.",
@@ -64253,7 +64256,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791731237.7718542,
+  "updated": 1791732543.506203,
   "touched": true
  },
  "src.txt::src.txt_87": {
@@ -84316,10 +84319,11 @@
  },
  "datatext.txt::datatext.txt_283": {
   "source": "DAME",
-  "target": "DAMA",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
   "updated": 1791656877.299125,
   "touched": true
@@ -100559,7 +100563,10 @@
   "target": "POR.SURGE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791732568.517347,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_893": {
   "source": "MANTINE",
@@ -107079,13 +107086,13 @@
  },
  "datatext.txt::datatext.txt_277": {
   "source": "MAN",
-  "target": "",
-  "status": "new",
+  "target": "MĘŻCZYZNA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791656925.1209095
+  "updated": 1791732549.4832914,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1342": {
   "source": "Why…?",
