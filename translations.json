@@ -9004,14 +9004,13 @@
  },
  "datascript.txt::datascript.txt_47": {
   "source": "Cancels the selected MENU item.",
-  "target": "",
-  "status": "new",
+  "target": "Anuluje wybraną pozycję MENU.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791735018.1117518,
+  "updated": 1791735511.709594,
   "touched": true
  },
  "datascript.txt::datascript.txt_104": {
@@ -105082,7 +105081,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791735475.228294,
+  "updated": 1791735487.3457155,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1560": {
@@ -107106,10 +107105,14 @@
  },
  "datascript.txt::datascript.txt_64": {
   "source": "Which POKéMON would you like to\\nenter?",
-  "target": "",
-  "status": "new",
+  "target": "Which POKéMON would you like to\\nenter?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791735515.233459,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_334": {
   "source": "MASTER BALL",
