@@ -59861,8 +59861,10 @@
   "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790363581.3223085
+  "updated": 1790363581.3223085,
+  "touched": true
  },
  "src.txt::src.txt_506": {
   "source": "burn",
@@ -73424,12 +73426,13 @@
  },
  "src.txt::src.txt_2085": {
   "source": "GHOST",
-  "target": "DUCHOW.",
+  "target": "DUCH",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790518518.9189947
+  "updated": 1791736769.3562646,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_164": {
   "source": "LONG BODY",
@@ -78053,10 +78056,11 @@
  },
  "src.txt::src.txt_2952": {
   "source": "POKéMON JUMP",
-  "target": "POKéMON JUMP RECORDS",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "touched": true
  },
  "data maps.txt::data maps.txt_1398": {

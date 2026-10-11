@@ -3021,3 +3021,6 @@
 {"time": "2026-10-11T18:38:35", "file": "src.txt", "seg_id": "src.txt_2175", "source": "\\n\\n\\nAkira Kinashi\\n\\n\\n", "old": "", "new": "\\n\\n\\nAkira Kinashi\\n\\n\\n", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:38:37", "file": "src.txt", "seg_id": "src.txt_2175", "source": "\\n\\n\\nAkira Kinashi\\n\\n\\n", "old": "\\n\\n\\nAkira Kinashi\\n\\n\\n", "new": "", "translator": "Antrix", "method": "clear"}
 {"time": "2026-10-11T18:39:15", "file": "src.txt", "seg_id": "src.txt_2089", "source": "ROOFTOP", "old": "ROOFTOP", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-11T18:39:22", "file": "src.txt", "seg_id": "src.txt_2085", "source": "GHOST", "old": "DUCHOW.", "new": "DUCH", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:39:22", "file": "src.txt", "seg_id": "src.txt_2085", "source": "GHOST", "old": "DUCHOW.", "new": "DUCH", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:39:45", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "POKéMON JUMP RECORDS", "new": "", "translator": "Antrix", "method": "clear"}
