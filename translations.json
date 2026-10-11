@@ -25727,12 +25727,12 @@
  },
  "datatext.txt::datatext.txt_350": {
   "source": "POKéMON JOURNAL",
-  "target": "POKéMON JOURNAL",
+  "target": "DZIENNIK POKéMON",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791731144.7666953,
+  "updated": 1791732481.0936663,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1172": {
@@ -28130,7 +28130,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791732448.4941509,
+  "updated": 1791732488.4726663,
   "touched": true
  },
  "src.txt::src.txt_2157": {
@@ -74131,12 +74131,12 @@
  },
  "datatext.txt::datatext.txt_278": {
   "source": "POKéMON JOURNAL",
-  "target": "POKéMON JOURNAL",
+  "target": "DZIENNIK POKéMON",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791731374.7320843,
+  "updated": 1791732481.093586,
   "touched": true
  },
  "data maps.txt::data maps.txt_2223": {
@@ -83140,7 +83140,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791732061.0959206,
+  "updated": 1791732481.0936315,
   "touched": true
  },
  "data maps.txt::data maps.txt_1792": {
