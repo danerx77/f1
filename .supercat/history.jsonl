@@ -2822,3 +2822,4 @@
 {"time": "2026-10-11T18:07:04", "file": "srcdata.txt", "seg_id": "srcdata.txt_664", "source": "TM43", "old": "M43", "new": "", "translator": "Antrix", "method": "clear"}
 {"time": "2026-10-11T18:07:42", "file": "srcdata.txt", "seg_id": "srcdata.txt_723", "source": "DIVE BALL", "old": "DIVE BALL", "new": "", "translator": "Antrix", "method": "clear"}
 {"time": "2026-10-11T18:07:48", "file": "srcdata.txt", "seg_id": "srcdata.txt_733", "source": "PREMIER BALL", "old": "PREMIER BALL", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-11T18:09:51", "file": "srcdata.txt", "seg_id": "srcdata.txt_1287", "source": "TM01", "old": "TM01", "new": "", "translator": "Antrix", "method": "clear"}

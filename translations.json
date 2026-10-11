@@ -1020,12 +1020,14 @@
  },
  "srcdata.txt::srcdata.txt_1205": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977,
+  "updated": 1791734970.5577855,
   "touched": true
  },
  "src.txt::src.txt_850": {
@@ -1922,12 +1924,14 @@
  },
  "srcdata.txt::srcdata.txt_1201": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734970.542719,
   "touched": true
  },
  "src.txt::src.txt_2556": {
@@ -2195,12 +2199,14 @@
  },
  "srcdata.txt::srcdata.txt_1189": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734970.4990437,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_781": {
@@ -3297,12 +3303,14 @@
  },
  "srcdata.txt::srcdata.txt_1193": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977,
+  "updated": 1791734970.5132256,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_78": {
@@ -4238,14 +4246,15 @@
  },
  "srcdata.txt::srcdata.txt_1287": {
   "source": "TM01",
-  "target": "TM01",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655898.6039138
+  "updated": 1791655898.6039138,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_967": {
   "source": "TROPIC MAIL",
@@ -6604,12 +6613,14 @@
  },
  "srcdata.txt::srcdata.txt_1161": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977,
+  "updated": 1791734970.397832,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1671": {
@@ -12029,12 +12040,14 @@
  },
  "srcdata.txt::srcdata.txt_1170": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734970.4303746,
   "touched": true
  },
  "data maps.txt::data maps.txt_2340": {
@@ -13389,10 +13402,14 @@
  },
  "srcdata.txt::srcdata.txt_1210": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734970.575651,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_28": {
   "source": "Not hit by GROUND attacks.",
@@ -14258,12 +14275,14 @@
  },
  "srcdata.txt::srcdata.txt_1163": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376339.2547708,
+  "updated": 1791734970.4049358,
   "touched": true
  },
  "datatext.txt::datatext.txt_961": {
@@ -14883,12 +14902,14 @@
  },
  "srcdata.txt::srcdata.txt_1179": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734970.4617245,
   "touched": true
  },
  "data maps.txt::data maps.txt_3222": {
@@ -16419,12 +16440,14 @@
  },
  "srcdata.txt::srcdata.txt_1177": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734970.4547079,
   "touched": true
  },
  "datatext.txt::datatext.txt_836": {
@@ -16980,12 +17003,14 @@
  },
  "srcdata.txt::srcdata.txt_1164": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734970.4082148,
   "touched": true
  },
  "data maps.txt::data maps.txt_1891": {
@@ -18488,12 +18513,14 @@
  },
  "srcdata.txt::srcdata.txt_1200": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734970.5393686,
   "touched": true
  },
  "datatext.txt::datatext.txt_523": {
@@ -18873,12 +18900,14 @@
  },
  "srcdata.txt::srcdata.txt_1171": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655788.6980283,
+  "updated": 1791734970.434577,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_650": {
@@ -19767,12 +19796,14 @@
  },
  "srcdata.txt::srcdata.txt_1198": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734970.532313,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_1013": {
@@ -22922,12 +22953,14 @@
  },
  "srcdata.txt::srcdata.txt_1173": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655765.765686,
+  "updated": 1791734970.441252,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_248": {
@@ -23755,12 +23788,14 @@
  },
  "srcdata.txt::srcdata.txt_1184": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734970.4803402,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_924": {
@@ -24975,22 +25010,26 @@
  },
  "srcdata.txt::srcdata.txt_1165": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655786.4635727,
+  "updated": 1791734970.4122996,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1188": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734970.494737,
   "touched": true
  },
  "data maps.txt::data maps.txt_2422": {
@@ -26721,12 +26760,14 @@
  },
  "srcdata.txt::srcdata.txt_1186": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734970.4879856,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_552": {
@@ -29197,12 +29238,14 @@
  },
  "srcdata.txt::srcdata.txt_1192": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734970.509274,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1084": {
@@ -31951,10 +31994,15 @@
  },
  "srcdata.txt::srcdata.txt_1183": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791734970.4762924,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1567": {
   "source": "BRICE",
@@ -36576,12 +36624,14 @@
  },
  "srcdata.txt::srcdata.txt_1243": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "datatext.txt::datatext.txt_21": {
@@ -38420,12 +38470,14 @@
  },
  "srcdata.txt::srcdata.txt_1190": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734970.5027626,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_95": {
@@ -40559,12 +40611,14 @@
  },
  "srcdata.txt::srcdata.txt_1180": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734970.4660175,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_35": {
@@ -41252,10 +41306,14 @@
  },
  "srcdata.txt::srcdata.txt_1182": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734970.4730704,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_486": {
   "source": "POMEG BERRY",
@@ -43661,12 +43719,14 @@
  },
  "srcdata.txt::srcdata.txt_1204": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734970.5544384,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_64": {
@@ -47623,12 +47683,14 @@
  },
  "srcdata.txt::srcdata.txt_1213": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734970.5868573,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_754": {
@@ -48020,10 +48082,15 @@
  },
  "srcdata.txt::srcdata.txt_1199": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791734970.5360522,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2280": {
   "source": "Indeed, I have lost!\\pBut, I beseech you, do not take\\nour emblem as your trophy!\\pIn return, I will give you a prized\\nFIGHTING POKéMON!\\pChoose whichever one you like!",
@@ -48314,12 +48381,14 @@
  },
  "srcdata.txt::srcdata.txt_1216": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734970.5977106,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_977": {
@@ -48366,12 +48435,14 @@
  },
  "srcdata.txt::srcdata.txt_1215": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655765.765686,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1307": {
@@ -50591,12 +50662,14 @@
  },
  "srcdata.txt::srcdata.txt_1187": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655788.6980283,
+  "updated": 1791734970.4913025,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1025": {
@@ -52185,10 +52258,14 @@
  },
  "srcdata.txt::srcdata.txt_1196": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734970.5243232,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2084": {
   "source": "I just can't win!",
@@ -52627,12 +52704,14 @@
  },
  "srcdata.txt::srcdata.txt_1214": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734970.5901961,
   "touched": true
  },
  "data maps.txt::data maps.txt_2472": {
@@ -63396,10 +63475,14 @@
  },
  "srcdata.txt::srcdata.txt_1176": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734970.4513981,
+  "touched": true
  },
  "src.txt::src.txt_1742": {
   "source": "はがきに のせる あいさつは",
@@ -63574,12 +63657,14 @@
  },
  "srcdata.txt::srcdata.txt_1202": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734970.5467463,
   "touched": true
  },
  "datatext.txt::datatext.txt_1062": {
@@ -68438,12 +68523,15 @@
  },
  "srcdata.txt::srcdata.txt_1169": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376339.2547708
+  "updated": 1791734970.426184,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_265": {
   "source": "HARDEN",
@@ -70439,12 +70527,14 @@
  },
  "srcdata.txt::srcdata.txt_1194": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734970.5175304,
   "touched": true
  },
  "src.txt::src.txt_2568": {
@@ -71555,12 +71645,14 @@
  },
  "srcdata.txt::srcdata.txt_1211": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734970.5795407,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_811": {
@@ -75672,12 +75764,14 @@
  },
  "srcdata.txt::srcdata.txt_1185": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977,
+  "updated": 1791734970.484362,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_817": {
@@ -82353,12 +82447,14 @@
  },
  "srcdata.txt::srcdata.txt_1167": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655765.765686,
+  "updated": 1791734970.4194417,
   "touched": true
  },
  "src.txt::src.txt_990": {
@@ -82942,12 +83038,14 @@
  },
  "srcdata.txt::srcdata.txt_1172": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734970.437888,
   "touched": true
  },
  "data maps.txt::data maps.txt_33": {
@@ -83164,10 +83262,14 @@
  },
  "srcdata.txt::srcdata.txt_1206": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734970.5612683,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_89": {
   "source": "SEA LION",
@@ -83523,12 +83625,14 @@
  },
  "srcdata.txt::srcdata.txt_1174": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734970.444632,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_132": {
@@ -84062,10 +84166,15 @@
  },
  "srcdata.txt::srcdata.txt_1181": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791734970.469545,
+  "touched": true
  },
  "src.txt::src.txt_486": {
   "source": "PP ",
@@ -87178,12 +87287,14 @@
  },
  "srcdata.txt::srcdata.txt_1191": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655786.4635727,
+  "updated": 1791734970.5060027,
   "touched": true
  },
  "data maps.txt::data maps.txt_82": {
@@ -89700,12 +89811,14 @@
  },
  "srcdata.txt::srcdata.txt_1195": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734970.520983,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_79": {
@@ -92371,12 +92484,15 @@
  },
  "srcdata.txt::srcdata.txt_1197": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977
+  "updated": 1791734970.5277855,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_3": {
   "source": "CONCEDE",
@@ -95394,12 +95510,14 @@
  },
  "srcdata.txt::srcdata.txt_1209": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734970.5723386,
   "touched": true
  },
  "src.txt::src.txt_2457": {
@@ -97075,12 +97193,14 @@
  },
  "srcdata.txt::srcdata.txt_1168": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734970.4227858,
   "touched": true
  },
  "src.txt::src.txt_2835": {
@@ -97899,12 +98019,14 @@
  },
  "srcdata.txt::srcdata.txt_1166": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734970.415986,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_31": {
@@ -99137,6 +99259,17 @@
   "translator": "Antrix",
   "updated": 1791586295.0980833
  },
+ "srcdata.txt::srcdata.txt_1178": {
+  "source": "?????",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734970.458177,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_945": {
   "source": "SHAKE",
   "target": "",
@@ -99146,13 +99279,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586289.0061178
- },
- "srcdata.txt::srcdata.txt_1178": {
-  "source": "?????",
-  "target": "?????",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
  },
  "datatext.txt::datatext.txt_1154": {
   "source": "I warned you before, this is my\\nturf!\\pI don't want you coming around.",
@@ -100737,12 +100863,14 @@
  },
  "srcdata.txt::srcdata.txt_1244": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "src.txt::src.txt_503": {
@@ -101858,12 +101986,14 @@
  },
  "srcdata.txt::srcdata.txt_1207": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977,
+  "updated": 1791734970.5655136,
   "touched": true
  },
  "data maps.txt::data maps.txt_1733": {
@@ -104030,10 +104160,14 @@
  },
  "srcdata.txt::srcdata.txt_1212": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734970.5835164,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_920": {
   "source": "RED",
@@ -104198,12 +104332,14 @@
  },
  "srcdata.txt::srcdata.txt_1203": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977,
+  "updated": 1791734970.5510733,
   "touched": true
  },
  "datatext.txt::datatext.txt_651": {
@@ -106315,12 +106451,14 @@
  },
  "srcdata.txt::srcdata.txt_1208": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734970.5689816,
   "touched": true
  },
  "datatext.txt::datatext.txt_138": {
@@ -106818,12 +106956,14 @@
  },
  "srcdata.txt::srcdata.txt_1162": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734970.4016402,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_578": {
@@ -107167,12 +107307,14 @@
  },
  "srcdata.txt::srcdata.txt_1175": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734970.448053,
   "touched": true
  },
  "src.txt::src.txt_2630": {
