@@ -2591,13 +2591,13 @@
  },
  "datatext.txt::datatext.txt_340": {
   "source": "LITTLE BOY",
-  "target": "",
-  "status": "new",
+  "target": "CHŁOPIEC",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791657016.7287242
+  "updated": 1791732618.3930626,
+  "touched": true
  },
  "datatext.txt::datatext.txt_593": {
   "source": "{CIRCLE_1} Go up to the PC at home, then press\\n   the A Button.\\n{CIRCLE_2} The PC will turn on.\\n{CIRCLE_3} Select either “ITEM STORAGE” or\\n   “MAILBOX.”",
@@ -16147,7 +16147,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791732608.4703243,
+  "updated": 1791732611.9380507,
   "touched": true
  },
  "datatext.txt::datatext.txt_692": {
@@ -21623,13 +21623,14 @@
  },
  "datatext.txt::datatext.txt_342": {
   "source": "CELIO",
-  "target": "CELIO",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791730047.2015946
+  "updated": 1791732621.7025588,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_614": {
   "source": "RM. 1 KEY",
@@ -33703,13 +33704,14 @@
  },
  "datatext.txt::datatext.txt_344": {
   "source": "CELIO",
-  "target": "CELIO",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791730047.2015946
+  "updated": 1791732621.7048028,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_186": {
   "source": "AQUA RABBIT",
@@ -44907,13 +44909,14 @@
  },
  "datatext.txt::datatext.txt_343": {
   "source": "CELIO",
-  "target": "CELIO",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791730047.2015946
+  "updated": 1791732621.703781,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1985": {
   "source": "RICKY",
@@ -72189,7 +72192,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791731237.7718542,
+  "updated": 1791732614.9520297,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_544": {
