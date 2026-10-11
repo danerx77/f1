@@ -40488,7 +40488,13 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736715.6863537,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1702": {
   "source": "TERRY",
@@ -79162,11 +79168,12 @@
  },
  "src.txt::src.txt_2092": {
   "source": "\\n\\nDirector\\n\\n\\n\\n",
-  "target": "Kierownik proje\\n\\nktu\\n\\n\\n\\n",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": true,
   "manual_skip": true,
+  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
   "updated": 1791736713.1524515,
