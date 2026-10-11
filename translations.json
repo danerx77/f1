@@ -105077,12 +105077,12 @@
  },
  "datascript.txt::datascript.txt_80": {
   "source": "The TRAINERS in the UNION ROOM\\nwill be those players around you\\lwho have also entered the ROOM.\\pYou may do all sorts of things\\nhere, such as exchanging greetings.\\pYou may enter two POKéMON up to\\nLv. 30 for a one-on-one battle.\\pYou may take part in a chat with\\ntwo to five people.\\pOr, you may register a POKéMON for\\ntrade.\\pWould you like to enter the ROOM?",
-  "target": "Trenerzy w Pokoju Przymierza są\\ngracze z twojego otoczenia\\lktórzy również weszli do POKOJU.\\pMożesz tu robić różne\\nrzeczy, na przykład wymieniać pozdrowienia.\\pDo walki jeden-na-jeden możesz zabrać\\nze sobą dwa Pokémony do Lv. 30.\\pMożesz wziąć udział w czacie z\\nod dwóch do pięciu osób\\pMożesz też zarejestrować\\nPOKéMONA do handlu\\nwymianie.\\pCzy chcesz wejść do pokoju?",
+  "target": "Trenerzy w Pokoju Przymierza są\\ngracze z twojego otoczenia\\lktórzy również weszli do POKOJU.\\pMożesz tu robić różne\\nrzeczy, na przykład wymieniać pozdrowienia.\\pDo walki jeden-na-jeden możesz zabrać\\nze sobą dwa Pokémony do Lv. 30.\\pMożesz wziąć udział w czacie z\\nod dwóch do pięciu osób\\pMożesz też zarejestrować\\nPOKéMONA do wymiany.\\pCzy chcesz wejść do pokoju?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791735435.2330782,
+  "updated": 1791735475.228294,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1560": {
