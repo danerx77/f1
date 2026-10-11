@@ -3573,10 +3573,14 @@
  },
  "datatext.txt::datatext.txt_706": {
   "source": "Own POKéMON type: DARK",
-  "target": "",
-  "status": "new",
+  "target": "Own POKéMON type: STEEL",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733949.5922735,
+  "touched": true
  },
  "data maps.txt::data maps.txt_255": {
   "source": "You better make room for your\\nBICYCLE!",
@@ -42433,13 +42437,13 @@
  },
  "datatext.txt::datatext.txt_705": {
   "source": "Own move type: DARK",
-  "target": "Własny tp Typ: Mroczny",
+  "target": "Własny ruch Typ: Mroczny",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733909.569902,
+  "updated": 1791733922.2143836,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_542": {
