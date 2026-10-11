@@ -10203,10 +10203,14 @@
  },
  "datatext.txt::datatext.txt_548": {
   "source": " Using “RUN”",
-  "target": "",
-  "status": "new",
+  "target": " Użył “WIEJ”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733669.5888498,
+  "touched": true
  },
  "src.txt::src.txt_2088": {
   "source": "It got away‥{PAUSE_UNTIL_PRESS}",
@@ -45042,13 +45046,13 @@
  },
  "datatext.txt::datatext.txt_547": {
   "source": "Using the MAILBOX",
-  "target": "Użył the MAILBOX",
+  "target": "Użył LISTU",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733629.570833,
+  "updated": 1791733649.703306,
   "touched": true
  },
  "src.txt::src.txt_2372": {
