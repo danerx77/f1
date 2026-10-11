@@ -5438,7 +5438,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791731149.6506803,
+  "updated": 1791731198.021402,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_441": {
@@ -67109,13 +67109,6 @@
   "ignored": true,
   "manual_skip": true
  },
- "srcdataregionmap.txt::srcdataregionmap.txt_85": {
-  "source": "SEVII ISLE 22",
-  "target": "WYS. SEVII 22",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "src.txt::src.txt_2264": {
   "source": "----------",
   "target": "----------",
@@ -77721,6 +77714,13 @@
   "cleared": true,
   "updated": 1791583770.3855941
  },
+ "srcdataregionmap.txt::srcdataregionmap.txt_85": {
+  "source": "SEVII ISLE 22",
+  "target": "WYS. SEVII 22",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
  "src.txt::src.txt_78": {
   "source": "{B_EFF_NAME_WITH_PREFIX} was burned!",
   "target": "{B_EFF_NAME_WITH_PREFIX} poparzony!",
@@ -85302,13 +85302,13 @@
  },
  "datatext.txt::datatext.txt_345": {
   "source": "LITTLE GIRL",
-  "target": "",
-  "status": "new",
+  "target": "DZIEWCZYNKA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791657019.8990781
+  "updated": 1791731201.6775215,
+  "touched": true
  },
  "src.txt::src.txt_440": {
   "source": "someone's",

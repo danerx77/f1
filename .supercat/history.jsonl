@@ -2417,3 +2417,5 @@
 {"time": "2026-10-11T16:56:09", "file": "datatext.txt", "seg_id": "datatext.txt_350", "source": "POKéMON JOURNAL", "old": "POKéMON JOURNAL", "new": "DZIENNIK POKéMON", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:05:45", "file": "datatext.txt", "seg_id": "datatext.txt_348", "source": "MAN", "old": "", "new": "MĘŻCZYZNA", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:05:45", "file": "datatext.txt", "seg_id": "datatext.txt_348", "source": "MAN", "old": "", "new": "MĘŻCZYZNA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:06:39", "file": "datatext.txt", "seg_id": "datatext.txt_345", "source": "LITTLE GIRL", "old": "", "new": "DZIEWCZYNKA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:06:39", "file": "datatext.txt", "seg_id": "datatext.txt_345", "source": "LITTLE GIRL", "old": "", "new": "DZIEWCZYNKA", "translator": "Antrix", "method": "manual"}
