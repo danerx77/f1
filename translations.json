@@ -14734,10 +14734,14 @@
  },
  "datatext.txt::datatext.txt_513": {
   "source": "  Using a key item",
-  "target": "",
-  "status": "new",
+  "target": "  Użył przedmiotu kluczowy",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732836.642367,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_985": {
   "source": "Although it looks frightening, it is\\nactually kind and affectionate. It is very\\npopular among women.",
@@ -34487,10 +34491,13 @@
  },
  "datatext.txt::datatext.txt_512": {
   "source": "  Using an item",
-  "target": "  zawsze.\\lSpróbuj użyć przdmiotu",
+  "target": "  Użyć przdmiotu",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791732831.5216603,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_311": {
   "source": "DID",
@@ -34662,10 +34669,14 @@
  },
  "datatext.txt::datatext.txt_519": {
   "source": "    Using the TOWN MAP",
-  "target": "",
-  "status": "new",
+  "target": "    Użył MAPY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732845.8021398,
+  "touched": true
  },
  "src.txt::src.txt_1515": {
   "source": "VOLCANOBADGE",
@@ -61917,10 +61928,14 @@
  },
  "datatext.txt::datatext.txt_522": {
   "source": "Using a move outside of battle",
-  "target": "",
-  "status": "new",
+  "target": "Użył \\qoDEPOSIT ITEM\\qc",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732848.484887,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_443": {
   "source": "Has a vicious temperament. Beware if it\\nraises its tail straight up. It is a signal\\nthat it is about to pounce and bite.",
@@ -73427,10 +73442,14 @@
  },
  "datatext.txt::datatext.txt_518": {
   "source": "    Using a POTION",
-  "target": "",
+  "target": "    Użył MIKSTURY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732843.618318,
+  "touched": true
  },
  "src.txt::src.txt_2113": {
   "source": "\\n\\nHitomi Sato\\nShigeru Ohmori\\nTadashi Takahashi\\n\\n",
@@ -89013,10 +89032,14 @@
  },
  "datatext.txt::datatext.txt_514": {
   "source": "  Using a POKé BALL",
-  "target": "",
-  "status": "new",
+  "target": "  Użył POKé BALL",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732840.708883,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_613": {
   "source": "METEORITE",
