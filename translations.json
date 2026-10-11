@@ -10050,7 +10050,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736595.1628137,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_513": {
   "source": "WHITE HERB",
@@ -13014,7 +13019,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791736592.7259588,
+  "updated": 1791736594.8481324,
   "touched": true
  },
  "src.txt::src.txt_1520": {
@@ -101818,12 +101823,14 @@
  },
  "src.txt::src.txt_2052": {
   "source": "Communication standby…",
-  "target": "",
-  "status": "new",
+  "target": "Communication standby…",
+  "status": "draft",
   "notes": "",
   "ignored": false,
+  "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1790277910.8342366
+  "updated": 1791736632.7354631,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1525": {
   "source": "ROUTE 12 \\nNorth to LAVENDER",
