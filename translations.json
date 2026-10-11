@@ -6593,17 +6593,21 @@
   "ignored": true,
   "auto_excluded": true
  },
- "srcdatapokemon.txt::srcdatapokemon.txt_48": {
-  "source": "MUSHROOM",
-  "target": "MUCHOMOR",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "data.txt::data.txt_59": {
   "source": "It appears to be for use at the\\nVERMILION CITY port.\\pWhy not give it a try and see what\\nit is about?",
   "target": "",
   "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791740845.1989737,
+  "touched": true
+ },
+ "srcdatapokemon.txt::srcdatapokemon.txt_48": {
+  "source": "MUSHROOM",
+  "target": "MUCHOMOR",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -49400,12 +49404,12 @@
  },
  "data.txt::data.txt_58": {
   "source": "Thank you for using the MYSTERY\\nGIFT System.\\pYou must be {PLAYER}.\\nThere is a ticket here for you.",
-  "target": "Dziękujemy za korzystanie z\\nSystemu MYSTERY GIFT\\pMusisz być {PLAYER}.\\nTu jest bilet dla ciebie..",
+  "target": "Dziękujemy za korzystanie z\\nSystemu MYSTERY GIFT\\pMusisz być {PLAYER}.\\nTu jest bilet dla ciebie.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791740816.1258283,
+  "updated": 1791740830.3912296,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1778": {
