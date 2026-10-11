@@ -3110,3 +3110,16 @@
 {"time": "2026-10-11T18:52:27", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "PANIENKAa", "new": "PANIENKA", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:53:20", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "", "new": "poręczny", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:54:04", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_577", "source": "tenaciously", "old": "", "new": "nieustępliwy,", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:42", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_577", "source": "tenaciously", "old": "nieustępliwy,", "new": "nieustępliwy", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:46", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "poręczny", "new": "s", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:48", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "s", "new": "sp", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:48", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "sp", "new": "spr", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:48", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "spr", "new": "spra", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:48", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "spra", "new": "spraw", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:49", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "spraw", "new": "sprawn", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:49", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "sprawn", "new": "sprawny", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:52", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "sprawny", "new": "ł", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:52", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "ł", "new": "ła", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:52", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "ła", "new": "łat", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:53", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "łat", "new": "łatw", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:54:53", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "łatw", "new": "łatwy", "translator": "Antrix", "method": "manual"}

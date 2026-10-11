@@ -16613,13 +16613,13 @@
  },
  "srcdatatext.txt::srcdatatext.txt_576": {
   "source": "handily",
-  "target": "poręczny",
+  "target": "łatwy",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791737672.8386068,
+  "updated": 1791737697.5253224,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_352": {
@@ -22081,7 +22081,10 @@
   "target": "ŻELAZO",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791737712.8246603,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_913": {
   "source": "VERSION",
@@ -29274,7 +29277,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791734755.154649,
+  "updated": 1791737707.2068045,
   "touched": true
  },
  "datascript.txt::datascript.txt_115": {
@@ -53058,13 +53061,13 @@
  },
  "srcdatatext.txt::srcdatatext.txt_577": {
   "source": "tenaciously",
-  "target": "nieustępliwy,",
+  "target": "nieustępliwy",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791737646.1530824,
+  "updated": 1791737683.4856253,
   "touched": true
  },
  "data maps.txt::data maps.txt_316": {
