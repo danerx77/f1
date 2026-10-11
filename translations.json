@@ -24491,10 +24491,14 @@
  },
  "datatext.txt::datatext.txt_550": {
   "source": " Using “BALL”",
-  "target": "",
-  "status": "new",
+  "target": " Użył “BALL”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733727.583378,
+  "touched": true
  },
  "src.txt::src.txt_104": {
   "source": "{B_ATK_NAME_WITH_PREFIX} is\\nimmobilized by love!",
@@ -64262,10 +64266,14 @@
  },
  "datatext.txt::datatext.txt_551": {
   "source": " Using “BAIT”",
-  "target": "",
-  "status": "new",
+  "target": " Użył “BAIT”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733749.573455,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1302": {
   "source": "The user tightens all its muscles\\\\nand bulks up, boosting both its\\\\nATTACK and DEFENSE stats.",
@@ -67056,13 +67064,13 @@
  },
  "datatext.txt::datatext.txt_549": {
   "source": "  “REGISTER” a key item",
-  "target": "  “PRZEPISANO” kluczowy przedmiot",
+  "target": "  “PRZYPSANO” kluczowy przedmiot",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733709.5721047,
+  "updated": 1791733722.4552348,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_890": {
