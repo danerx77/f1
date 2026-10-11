@@ -34596,7 +34596,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791734556.1190717,
+  "updated": 1791736377.8179204,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_60": {
@@ -83461,14 +83461,14 @@
  },
  "datatext.txt::datatext.txt_709": {
   "source": "Own move type: PSYCHIC",
-  "target": "",
-  "status": "new",
+  "target": "Własny ruch Typ: ",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791656811.6467912
+  "updated": 1791736392.7076027,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_706": {
   "source": "RUBY",
