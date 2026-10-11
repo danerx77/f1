@@ -34596,7 +34596,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736377.8179204,
+  "updated": 1791736531.3689566,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_60": {
@@ -83471,7 +83471,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736512.7386951,
+  "updated": 1791736522.160893,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_706": {
@@ -103994,13 +103994,13 @@
  },
  "datatext.txt::datatext.txt_711": {
   "source": "Own move type: FIGHTING",
-  "target": "Own move Typ: WALCZĄCY",
+  "target": "Własny ruch Typ: WALCZĄCY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736491.3934097,
+  "updated": 1791736552.735129,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1167": {

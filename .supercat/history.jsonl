@@ -2990,3 +2990,4 @@
 {"time": "2026-10-11T18:34:20", "file": "datatext.txt", "seg_id": "datatext.txt_711", "source": "Own move type: FIGHTING", "old": "Own move Typ: WALCZ", "new": "Own move Typ: WALCZĄ", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:34:21", "file": "datatext.txt", "seg_id": "datatext.txt_711", "source": "Own move type: FIGHTING", "old": "Own move Typ: WALCZĄ", "new": "Own move Typ: WALCZĄC", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:34:21", "file": "datatext.txt", "seg_id": "datatext.txt_711", "source": "Own move type: FIGHTING", "old": "Own move Typ: WALCZĄC", "new": "Own move Typ: WALCZĄCY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:35:33", "file": "datatext.txt", "seg_id": "datatext.txt_711", "source": "Own move type: FIGHTING", "old": "Own move Typ: WALCZĄCY", "new": "Własny ruch Typ: WALCZĄCY", "translator": "Antrix", "method": "manual"}
