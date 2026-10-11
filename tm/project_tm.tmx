@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T172530Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T175656Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -293705,6 +293705,26 @@
     <tu>
       <tuv xml:lang="en"><seg>ELECTRIC</seg></tuv>
       <tuv xml:lang="pl"><seg>ELEKTR.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, I'm sorry, {PLAYER}. Your BAG's\nKEY ITEMS POCKET is full.\pPlease store something on your PC,\nthen come back for this.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, przepraszam, {PLAYER}. Kieszeń na\n KLUCZOWE PRZEDMIOTY\pw TWOJEJ TORBIE jest pełna.\nZapisz coś na swoim PC,\pa następnie wróć po to.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, I'm sorry, {PLAYER}. Your BAG's\nKEY ITEMS POCKET is full.\pPlease store something on your PC,\nthen come back for this.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, przepraszam {PLAYER}. Kieszeń, na\n KLUCZOWE PRZEDMIOTY w TWOJEJ TORBIE jest.\ppełna Zapisz coś na swoim PC,\na następnie wróć po to.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It appears to be for use at the\nVERMILION CITY port.\pWhy not give it a try and see what\nit is about?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygląda na to, że jest przeznaczone\ndo użytku w porcie MIASTA VERMILION.\pDlaczego by nie spróbować i nie\nzobaczyć, o co w tym chodzi?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thank you for using the MYSTERY\nGIFT System.\pYou must be {PLAYER}.\nThere is a ticket here for you.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT\pMusisz być {PLAYER}.\nTu jest bilet dla ciebie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It appears as if {STR_VAR_1} is playing\nright now.\lGo for it!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygląda na to, że\n {STR_VAR_1} gra teraz.\lDziałaj!</seg></tuv>
     </tu>
   </body>
 </tmx>

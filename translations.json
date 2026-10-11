@@ -12230,10 +12230,11 @@
  },
  "datatext.txt::datatext.txt_712": {
   "source": "Own POKéMON type: FIGHTING",
-  "target": "Own POKéMON Typ: Walczący",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
   "updated": 1791741376.1552517,
