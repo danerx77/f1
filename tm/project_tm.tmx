@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T164735Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T165648Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -239405,6 +239405,26 @@
     <tu>
       <tuv xml:lang="en"><seg>is</seg></tuv>
       <tuv xml:lang="pl"><seg>jest</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>KINDLER</seg></tuv>
+      <tuv xml:lang="pl"><seg>PODPALACZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LADY</seg></tuv>
+      <tuv xml:lang="pl"><seg>DAMA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LADY</seg></tuv>
+      <tuv xml:lang="pl"><seg>PANIENKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>tenaciously</seg></tuv>
+      <tuv xml:lang="pl"><seg>nieustępliwy</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>handily</seg></tuv>
+      <tuv xml:lang="pl"><seg>łatwy</seg></tuv>
     </tu>
   </body>
 </tmx>
