@@ -63052,7 +63052,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736992.7200513,
+  "updated": 1791736995.7988307,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1150": {
@@ -100298,10 +100298,13 @@
  },
  "src.txt::src.txt_2819": {
   "source": "{STR_VAR_1}: Hiya, we meet again!\\nWhat are you up for this time?",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1}: Cześć, znowu się spotykamy!\\nCzym zaskoczysz mnie tym razem?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791737032.7344084,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_195": {
   "source": "LONG POSTER",
