@@ -61928,13 +61928,13 @@
  },
  "datatext.txt::datatext.txt_522": {
   "source": "Using a move outside of battle",
-  "target": "Użył \\qoDEPOSIT ITEM\\qc",
+  "target": "Użył ruchu poza walką",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791732848.484887,
+  "updated": 1791732851.5875297,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_443": {
@@ -66475,10 +66475,14 @@
  },
  "datatext.txt::datatext.txt_523": {
   "source": "    Riding the BICYCLE",
-  "target": "",
+  "target": "    Jazda na ROWERZE",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732855.2365355,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_568": {
   "source": "REAR",
@@ -87392,10 +87396,14 @@
  },
  "datatext.txt::datatext.txt_529": {
   "source": "  Using “MOVE”",
-  "target": "",
-  "status": "new",
+  "target": "  Użył “MOVE”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732888.4725115,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_618": {
   "source": "Upon hearing its eerie howls, other\\nPOKéMON get the shivers and head straight\\nback to their nests.",
@@ -91675,10 +91683,14 @@
  },
  "datatext.txt::datatext.txt_524": {
   "source": "Entering a name",
-  "target": "",
+  "target": "Wprowadzanie nazwy",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732861.1003644,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1768": {
   "source": "GEORGE",
@@ -102839,10 +102851,14 @@
  },
  "datatext.txt::datatext.txt_528": {
   "source": "  Using “DEPOSIT”",
-  "target": "",
-  "status": "new",
+  "target": "  Użył “DEPONUJ”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732881.6949813,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_765": {
   "source": "It is entirely composed of rocks with no\\nsign of a brain or heart. It is a mystery\\neven to modern scientists.",
