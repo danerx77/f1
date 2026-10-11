@@ -10026,13 +10026,13 @@
  },
  "datatext.txt::datatext.txt_706": {
   "source": "Own POKéMON type: DARK",
-  "target": "MROCZNY",
+  "target": "POKéMON typ: MROCZNY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791734396.7316573,
+  "updated": 1791734415.5921679,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_522": {
@@ -95977,14 +95977,14 @@
  },
  "datatext.txt::datatext.txt_707": {
   "source": "Own move type: ROCK",
-  "target": "",
-  "status": "new",
+  "target": "Own rusz Typ: Kamienny",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791656806.1866217
+  "updated": 1791734431.8438377,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2000": {
   "source": "ALICIA",
@@ -97160,7 +97160,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791734390.9238904,
+  "updated": 1791734435.1492302,
   "touched": true
  },
  "data maps.txt::data maps.txt_201": {
