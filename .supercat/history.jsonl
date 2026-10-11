@@ -3095,3 +3095,16 @@
 {"time": "2026-10-11T18:51:54", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1208", "source": "LADY", "old": "", "new": "Damę", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:51:56", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1208", "source": "LADY", "old": "Damę", "new": "Da", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:51:57", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1208", "source": "LADY", "old": "Da", "new": "D", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:51:57", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1208", "source": "LADY", "old": "D", "new": "DA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:51:57", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1208", "source": "LADY", "old": "DA", "new": "DAM", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:51:58", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1208", "source": "LADY", "old": "DAM", "new": "DAMA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:52:21", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "", "new": "Panienkę", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:52:23", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "Panienkę", "new": "PAanienkę", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:52:23", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "PAanienkę", "new": "PANanienkę", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:52:24", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "PANanienkę", "new": "PANIanienkę", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:52:24", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "PANIanienkę", "new": "PANIEanienkę", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:52:25", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "PANIEanienkę", "new": "PANIENanienkę", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:52:25", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "PANIENanienkę", "new": "PANIENKanienkę", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:52:26", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "PANIENKanienkę", "new": "PANIENKAanienkę", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:52:27", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "PANIENKAanienkę", "new": "PANIENKAa", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:52:27", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "PANIENKAa", "new": "PANIENKA", "translator": "Antrix", "method": "manual"}

@@ -18007,14 +18007,14 @@
  },
  "srcdatatext.txt::srcdatatext.txt_1208": {
   "source": "LADY",
-  "target": "",
-  "status": "new",
+  "target": "DAMA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791587412.77345
+  "updated": 1791737529.0038283,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2017": {
   "source": "Be nice!",
@@ -68097,14 +68097,14 @@
  },
  "srcdatatext.txt::srcdatatext.txt_1114": {
   "source": "LADY",
-  "target": "",
-  "status": "new",
+  "target": "PANIENKA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791587412.77345
+  "updated": 1791737552.8134446,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1251": {
   "source": "A rematch with you, so high up!",
