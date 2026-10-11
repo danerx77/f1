@@ -60348,13 +60348,13 @@
  },
  "src.txt::src.txt_2821": {
   "source": "Want to do something?",
-  "target": "Chcesz zrobić\\ncoś innego?",
+  "target": "Chcesz coś zrobić?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736952.733735,
+  "updated": 1791736985.6062925,
   "touched": true
  },
  "datatext.txt::datatext.txt_988": {
@@ -63046,10 +63046,14 @@
  },
  "src.txt::src.txt_2822": {
   "source": "Would you like to do something?",
-  "target": "",
-  "status": "new",
+  "target": "Masz ochotę coś porobić?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736992.7200513,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1150": {
   "source": "An item to be held by a POKéMON.\\\\nIt slightly boosts the power of\\\\nWATER-type moves.",
