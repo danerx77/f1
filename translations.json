@@ -4739,7 +4739,10 @@
   "target": "MAPA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791732728.478378,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1573": {
   "source": "LENNY",
@@ -12678,10 +12681,14 @@
  },
  "datatext.txt::datatext.txt_368": {
   "source": "POKéMON JOURNAL\\pSpecial Feature: PROF. OAK,\\nthe POKéMON Researcher!\\pPROF. OAK reportedly lives with his\\ngrandchildren DAISY and {RIVAL}.",
-  "target": "",
-  "status": "new",
+  "target": "DZIENNIK POKÉMON\\pFunkcja Specjalna: PROF. OAK,\\nOAK badacz POKéMON!\\pWedług. doniesień PROF.OAK mieszka ze swoimi\\nwnukami DAISY i {RIVAL}.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732704.0114284,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1680": {
   "source": "{PLAYER} received the {STR_VAR_2}\\nfrom the AIDE.",
@@ -40939,7 +40946,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791732688.4710004,
+  "updated": 1791732689.1998181,
   "touched": true
  },
  "datatext.txt::datatext.txt_53": {
@@ -69130,10 +69137,14 @@
  },
  "datatext.txt::datatext.txt_367": {
   "source": "POKéMON JOURNAL\\pSpecial Feature:\\nELITE FOUR's LANCE!\\pLANCE's grandfather is thought to\\nbe the elder of a famous clan of\\ldragon masters.",
-  "target": "",
-  "status": "new",
+  "target": "DZIENNIK POKÉMON\\pFunkcja Specjalna:\\nELITRNA CZWÓRKA LANCE!\\p uważa się,\\nże dziadek LANCE jest starszym\\lsłynnego klanu smoczych władców.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732703.1469815,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_67": {
   "source": "Ups GRASS moves in a pinch.",
@@ -79118,10 +79129,14 @@
  },
  "datatext.txt::datatext.txt_369": {
   "source": "This is a POKéMON JOURNAL from\\nyears ago…\\pPOKéMON JOURNAL\\nCONTEST Special!\\pThe Spring POKéMON CONTEST's\\nGrand Champion is DAISY OAK of\\lPALLET TOWN!",
-  "target": "",
-  "status": "new",
+  "target": "To jest DZIENNIK POKéMON\\nsprzed lat…\\pDZIENNIK POKéMON\\nPOKéMON Specjalny!\\pWiosennym Wielkim\\nMistrzem KONKURSU POKéMON jest DAISY\\lOAK Z PALLET TOWN!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732708.4113228,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1348": {
   "source": "<<< FILE: maps/RocketHideout_B3F/text.inc >>>",
@@ -88342,14 +88357,14 @@
  },
  "datatext.txt::datatext.txt_366": {
   "source": "POKéMON JOURNAL\\pSpecial Feature:\\nELITE FOUR's AGATHA!\\pIn her youth, AGATHA and PROF.\\nOAK were rivals who vied for\\lsupremacy as TRAINERS.",
-  "target": "",
-  "status": "new",
+  "target": "DZIENNIK POKéMON\\pFunkcja specjalna:\\nELITRNA CZWÓRKA AGATHA!\\p W młodości\\pAGATA i\\nPROF. OAK byli\\prywalami, którzy\\nrywalizowali o dominację\\ljako TRENERÓW.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791658646.9955082
+  "updated": 1791732700.1490996,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1502": {
   "source": "Want to use the POKé FLUTE?",
@@ -96103,6 +96118,17 @@
   "ignored": true,
   "manual_skip": true
  },
+ "datatext.txt::datatext.txt_365": {
+  "source": "POKéMON JOURNAL\\pSpecial Feature:\\nELITE FOUR's BRUNO!\\pBRUNO apparently joined the ELITE\\nFOUR out of his burning ambition to\\lbattle the best TRAINERS.",
+  "target": "DZIENNIK POKéMON\\pFunkcja specjalna:\\nELITRNA CZWÓRKA BRUNO!\\pBRUNO\\nnajwyraźniej dołączył\\pdo ELITARNEJ CZWÓRKI z powodu\\nswojej palącej ambicji walki z\\lnajlepszymi TRENERAMI.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732690.6401782,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_1899": {
   "source": "IAN: My sis doesn't get enough\\nexercise, so I made her come.",
   "target": "IAN: Moja siostra mało się rusza,\\nwięc ją tu wyciągnąłem.",
@@ -96114,13 +96140,6 @@
   "source": "The sea cleanses my body and soul!",
   "target": "Morze oczyszcza me ciało i duszę!",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_365": {
-  "source": "POKéMON JOURNAL\\pSpecial Feature:\\nELITE FOUR's BRUNO!\\pBRUNO apparently joined the ELITE\\nFOUR out of his burning ambition to\\lbattle the best TRAINERS.",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -97004,14 +97023,14 @@
  },
  "datatext.txt::datatext.txt_370": {
   "source": "POKéMON JOURNAL\\pSpecial Feature:\\nMR. FUJI of POKéMON HOUSE!\\pEditor: The shy MR. FUJI turned\\ndown our interview requests.\\pHe is a kindly man who is adored\\nand respected in LAVENDER TOWN.",
-  "target": "",
-  "status": "new",
+  "target": "DZIENNIK POKÉMON\\pFunkcja Specjalna:\\nMR. FUJI z DOMU POKéMON!\\pWydawca: Nieśmiały pan. FUJI\\nodrzuciło nasze prośby o rozmowę kwalifikacyjną.\\pTo życzliwy człowiek, uwielbiany\\ni szanowany w LAVENDER TOWN.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791587718.713532
+  "updated": 1791732713.9659135,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_601": {
   "source": "WAILMER PAIL",
@@ -99582,10 +99601,14 @@
  },
  "datatext.txt::datatext.txt_364": {
   "source": "POKéMON JOURNAL\\pSpecial Feature:\\nELITE FOUR's LORELEI!\\pKnown for her logical, calculated,\\nand cool battling style, LORELEI\\lhas a surprising secret!",
-  "target": "",
-  "status": "new",
+  "target": "DZIENNIK POKÉMON\\pFunkcja Specjalna:\\nELITRNA CZWÓRKA LORELEI!\\pZnana ze swojego\\nlogicznego, przemyślanego i opanowanego STYLU\\lwalki, LORELEI ma zaskakującą tajemnicę!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732689.978311,
+  "touched": true
  },
  "datatext.txt::datatext.txt_282": {
   "source": "YOUNG MAN",
