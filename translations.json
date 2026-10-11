@@ -4234,12 +4234,13 @@
  },
  "datatext.txt::datatext.txt_261": {
   "source": "SIGN",
-  "target": "ZNAK",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791656909.5428083,
+  "updated": 1791731443.38445,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_262": {
@@ -12949,7 +12950,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791731426.20259,
+  "updated": 1791731431.6486433,
   "touched": true
  },
  "src.txt::src.txt_2518": {
@@ -21942,6 +21943,17 @@
   "cleared": true,
   "updated": 1791583771.360437
  },
+ "datatext.txt::datatext.txt_297": {
+  "source": "SIGN",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791731443.3893757,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_869": {
   "source": "FRIDAY",
   "target": "",
@@ -21951,13 +21963,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586288.7463958
- },
- "datatext.txt::datatext.txt_297": {
-  "source": "SIGN",
-  "target": "ZNAK",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_1721": {
   "source": "No pedestrians are allowed on\\nCYCLING ROAD!",
@@ -22982,10 +22987,13 @@
  },
  "datatext.txt::datatext.txt_309": {
   "source": "SIGN",
-  "target": "ZNAK",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1791731443.391151,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_92": {
   "source": "SADLY",
@@ -27320,10 +27328,13 @@
  },
  "datatext.txt::datatext.txt_279": {
   "source": "SIGN",
-  "target": "ZNAK",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1791731443.3863063,
+  "touched": true
  },
  "src.txt::src.txt_569": {
   "source": "みを つけるのに はんにち かかる.",
@@ -29300,7 +29311,10 @@
   "target": "POKéMON JOURNAL",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791731466.2431045,
+  "touched": true
  },
  "src.txt::src.txt_1976": {
   "source": "Exiting the chat‥",
@@ -42915,10 +42929,13 @@
  },
  "datatext.txt::datatext.txt_285": {
   "source": "SIGN",
-  "target": "ZNAK",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1791731443.3872612,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1522": {
   "source": "What's catching?\\pYou never know what you could\\ncatch!",
@@ -82467,10 +82484,14 @@
  },
  "datatext.txt::datatext.txt_303": {
   "source": "SIGN",
-  "target": "ZNAK",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791731443.3902628,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_834": {
   "source": "?????",
@@ -91387,16 +91408,19 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_273": {
+  "source": "SIGN",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "updated": 1791731443.3854508,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_4": {
   "source": "CELADON takes pride in its efforts\\nto keep the city beautiful.\\pThat's why the new GAME CORNER is\\nbad for our city's image.",
   "target": "CELADON jest dumne ze swych prac\\nnad upiększeniem miasta.\\pDlatego nowy SALON GIER jest zły\\ndla wizerunku naszego miasta.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_273": {
-  "source": "SIGN",
-  "target": "ZNAK",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -107261,10 +107285,13 @@
  },
  "datatext.txt::datatext.txt_291": {
   "source": "SIGN",
-  "target": "ZNAK",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1791731443.3884451,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1584": {
   "source": "NIKOLAS",
