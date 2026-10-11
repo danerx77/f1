@@ -9005,9 +9005,14 @@
  "datascript.txt::datascript.txt_47": {
   "source": "Cancels the selected MENU item.",
   "target": "",
-  "status": "draft",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791735018.1117518,
+  "touched": true
  },
  "datascript.txt::datascript.txt_104": {
   "source": "Light is filtering down from above.\\nWould you like to use DIVE?",
