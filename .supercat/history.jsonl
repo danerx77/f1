@@ -2431,3 +2431,9 @@
 {"time": "2026-10-11T17:07:53", "file": "datatext.txt", "seg_id": "datatext.txt_324", "source": "CRUSHER", "old": "ŁAMACZ", "new": "", "translator": "Antrix", "method": "clear"}
 {"time": "2026-10-11T17:08:00", "file": "datatext.txt", "seg_id": "datatext.txt_325", "source": "WOMAN", "old": "", "new": "KOBIETA", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:08:00", "file": "datatext.txt", "seg_id": "datatext.txt_325", "source": "WOMAN", "old": "", "new": "KOBIETA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:09:33", "file": "datatext.txt", "seg_id": "datatext.txt_323", "source": "POKéMON JOURNAL", "old": "POKéMON JOURNAL", "new": "DZIENNIK POKéMON", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:09:33", "file": "datatext.txt", "seg_id": "datatext.txt_323", "source": "POKéMON JOURNAL", "old": "POKéMON JOURNAL", "new": "DZIENNIK POKéMON", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:09:35", "file": "datatext.txt", "seg_id": "datatext.txt_319", "source": "LITTLE GIRL", "old": "", "new": "DZIEWCZYNKA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:09:35", "file": "datatext.txt", "seg_id": "datatext.txt_319", "source": "LITTLE GIRL", "old": "", "new": "DZIEWCZYNKA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:09:37", "file": "datatext.txt", "seg_id": "datatext.txt_318", "source": "POKéMON JOURNAL", "old": "POKéMON JOURNAL", "new": "DZIENNIK POKéMON", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:09:37", "file": "datatext.txt", "seg_id": "datatext.txt_318", "source": "POKéMON JOURNAL", "old": "POKéMON JOURNAL", "new": "DZIENNIK POKéMON", "translator": "Antrix", "method": "manual"}

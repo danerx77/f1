@@ -38481,13 +38481,13 @@
  },
  "datatext.txt::datatext.txt_319": {
   "source": "LITTLE GIRL",
-  "target": "",
-  "status": "new",
+  "target": "DZIEWCZYNKA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791730053.692558
+  "updated": 1791731376.5561914,
+  "touched": true
  },
  "data maps.txt::data maps.txt_285": {
   "source": "POKéMON up to Lv. 50 will obey\\nyou.\\pThat includes even outsiders you\\nobtain in trades.\\pPOKéMON of higher levels will\\nbe unruly in battle, however.\\pIt also lets you use the move\\nSTRENGTH outside of battle.",
@@ -46421,10 +46421,13 @@
  },
  "datatext.txt::datatext.txt_318": {
   "source": "POKéMON JOURNAL",
-  "target": "POKéMON JOURNAL",
+  "target": "DZIENNIK POKéMON",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791731386.2136106,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_375": {
   "source": "BLACK FLUTE",
@@ -86401,10 +86404,13 @@
  },
  "datatext.txt::datatext.txt_323": {
   "source": "POKéMON JOURNAL",
-  "target": "POKéMON JOURNAL",
+  "target": "DZIENNIK POKéMON",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791731374.7320843,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1008": {
   "source": "It has sharp, hard tusks and a rugged\\nhide. Its TACKLE is strong enough to\\nknock down a house.",
@@ -97359,7 +97365,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791731346.1916904,
+  "updated": 1791731366.9536955,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_320": {
