@@ -3573,10 +3573,11 @@
  },
  "datatext.txt::datatext.txt_706": {
   "source": "Own POKéMON type: DARK",
-  "target": "Own POKéMON type: STEEL",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
   "updated": 1791733949.5922735,

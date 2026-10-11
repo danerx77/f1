@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T154007Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T155244Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -92989,10 +92989,6 @@
     <tu>
       <tuv xml:lang="en"><seg>Using “POKéMON”</seg></tuv>
       <tuv xml:lang="pl"><seg>Użył  “POKéMON”</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Using “SUMMARY”</seg></tuv>
-      <tuv xml:lang="pl"><seg>Użył “PODSUMOWANIA”</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Using “SWITCH”</seg></tuv>
@@ -239075,10 +239071,6 @@
       <tuv xml:lang="pl"><seg>HALO?</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>Using “BAG”</seg></tuv>
-      <tuv xml:lang="pl"><seg>Użył “TORBA”</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>You can pass here only if you have\nthe {STR_VAR_1}.\pYou don't have the {STR_VAR_1}\nyet.\pYou have to have it to get to\nthe POKéMON LEAGUE.</seg></tuv>
       <tuv xml:lang="pl"><seg>Możesz przejść tylko jeśli masz\n{STR_VAR_1}.\pNie masz jeszcze {STR_VAR_1}.\nMusisz ją zdobyć, by móc wkroczyć\pdo LIGI POKéMONÓW.</seg></tuv>
     </tu>
@@ -239263,8 +239255,72 @@
       <tuv xml:lang="pl"><seg>Użył “PODEJMIJ PRZEDMIOT”</seg></tuv>
     </tu>
     <tu>
+      <tuv xml:lang="en"><seg>Using “MAILBOX”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “LISTY”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Opening the MENU</seg></tuv>
+      <tuv xml:lang="pl"><seg>Otwieranie MENU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “SHIFT”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Using “ZMIANA”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “BAG”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “TORBA”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “FIGHT”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “WALKI.”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “SUMMARY”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “PODSUMOWANIA”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Reading the “POKéDEX”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czytanie „POKéDEX”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using the PC at home</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył PC w domu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using the Item Storage System</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użyłwanie Systemu Przechowania</seg></tuv>
+    </tu>
+    <tu>
       <tuv xml:lang="en"><seg>Using “DEPOSIT ITEM”</seg></tuv>
       <tuv xml:lang="pl"><seg>Użył “DEPONUJ PRZEDMIOT”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using the MAILBOX</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył LISTU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “RUN”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “WIEJ”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>“REGISTER” a key item</seg></tuv>
+      <tuv xml:lang="pl"><seg>“PRZYPSANO” kluczowy przedmiot</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “BALL”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “BALL”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “BAIT”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “PRZYNĘTY”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “ROCK”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “KAMIENIA”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own move type: DARK</seg></tuv>
+      <tuv xml:lang="pl"><seg>Własny ruch Typ: Mroczny</seg></tuv>
     </tu>
   </body>
 </tmx>
