@@ -47667,7 +47667,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791732097.0479083,
+  "updated": 1791732137.0428867,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1081": {
@@ -104681,6 +104681,13 @@
   "notes": "",
   "ignored": false
  },
+ "data maps.txt::data maps.txt_1693": {
+  "source": "I hate losing!\\nGet out of my face!",
+  "target": "Nie cierpię przegrywać!\\nZjeżdżaj!",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
  "srcdatapokemon.txt::srcdatapokemon.txt_75": {
   "source": "JELLYFISH",
   "target": "MEDUZA",
@@ -104691,13 +104698,6 @@
  "srcdata.txt::srcdata.txt_1294": {
   "source": "The user calms its spirit and\\\\nfocuses its mind to raise its\\\\nSP. ATK and SP. DEF stats.",
   "target": "Użytkownik uspokaja ducha i\\\\nskupia swój umysł zwiększając\\\\nswe SP. ATK i SP. OBR.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_1693": {
-  "source": "I hate losing!\\nGet out of my face!",
-  "target": "Nie cierpię przegrywać!\\nZjeżdżaj!",
   "status": "draft",
   "notes": "",
   "ignored": false
