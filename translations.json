@@ -14877,7 +14877,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132357.0862327,
+  "updated": 1791737146.9037242,
   "touched": true
  },
  "src.txt::src.txt_2793": {
@@ -32528,7 +32528,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131705.1293867,
+  "updated": 1791737119.5084393,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_783": {
@@ -46616,7 +46616,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132246.4400973,
+  "updated": 1791737121.2236967,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_866": {
@@ -47914,7 +47914,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791737112.7521105,
+  "updated": 1791737115.9957752,
   "touched": true
  },
  "src.txt::src.txt_638": {
@@ -71310,7 +71310,10 @@
   "target": "BILLA",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791737152.7587113,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_619": {
   "source": "It sleeps deep on the ocean floor to\\nbuild its energy. It is said to cause\\ntornadoes as it wakes.",
@@ -108035,7 +108038,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791132304.462138,
+  "updated": 1791737125.4536746,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1142": {
