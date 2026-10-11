@@ -7640,7 +7640,10 @@
   "target": "Jego silne skrzydła mogą go unieść na\\nwysokość 4600 stóp. Zionie ogniem o\\nbardzo wysokiej temperaturze.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791734755.154649,
+  "touched": true
  },
  "data maps.txt::data maps.txt_605": {
   "source": "FUCHSIA CITY\\nBehold! It's Passion Pink!",
