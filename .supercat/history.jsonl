@@ -2601,3 +2601,17 @@
 {"time": "2026-10-11T17:42:29", "file": "datatext.txt", "seg_id": "datatext.txt_534", "source": "  Using “MAILBOX”", "old": "  Użył  “LISTY”", "new": "  Użył “LISTY”", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:42:29", "file": "datatext.txt", "seg_id": "datatext.txt_534", "source": "  Using “MAILBOX”", "old": "  Użył “LISTY”", "new": "  Użył“LISTY”", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:42:30", "file": "datatext.txt", "seg_id": "datatext.txt_534", "source": "  Using “MAILBOX”", "old": "  Użył“LISTY”", "new": "  Użył “LISTY”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:42:37", "file": "datatext.txt", "seg_id": "datatext.txt_536", "source": "Opening the MENU", "old": "", "new": "Opening the MENU", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:42:37", "file": "datatext.txt", "seg_id": "datatext.txt_536", "source": "Opening the MENU", "old": "", "new": "Opening the MENU", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:42:39", "file": "datatext.txt", "seg_id": "datatext.txt_536", "source": "Opening the MENU", "old": "Opening the MENU", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-11T17:42:52", "file": "datatext.txt", "seg_id": "datatext.txt_536", "source": "Opening the MENU", "old": "", "new": "Otwieranie MENU", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:01", "file": "datatext.txt", "seg_id": "datatext.txt_539", "source": "  Using “SHIFT”", "old": "  Using “SHIFT”", "new": "  Using “z”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:02", "file": "datatext.txt", "seg_id": "datatext.txt_539", "source": "  Using “SHIFT”", "old": "  Using “z”", "new": "  Using “”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:02", "file": "datatext.txt", "seg_id": "datatext.txt_539", "source": "  Using “SHIFT”", "old": "  Using “”", "new": "  Using “Z”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:03", "file": "datatext.txt", "seg_id": "datatext.txt_539", "source": "  Using “SHIFT”", "old": "  Using “Z”", "new": "  Using “ZM”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:03", "file": "datatext.txt", "seg_id": "datatext.txt_539", "source": "  Using “SHIFT”", "old": "  Using “ZM”", "new": "  Using “ZMI”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:03", "file": "datatext.txt", "seg_id": "datatext.txt_539", "source": "  Using “SHIFT”", "old": "  Using “ZMI”", "new": "  Using “ZMIA”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:03", "file": "datatext.txt", "seg_id": "datatext.txt_539", "source": "  Using “SHIFT”", "old": "  Using “ZMIA”", "new": "  Using “ZMIAN”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:03", "file": "datatext.txt", "seg_id": "datatext.txt_539", "source": "  Using “SHIFT”", "old": "  Using “ZMIAN”", "new": "  Using “ZMIANA”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:08", "file": "datatext.txt", "seg_id": "datatext.txt_541", "source": " Using “BAG”", "old": " Using “BAG”", "new": " Użył “TORBA”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:08", "file": "datatext.txt", "seg_id": "datatext.txt_541", "source": " Using “BAG”", "old": " Using “BAG”", "new": " Użył “TORBA”", "translator": "Antrix", "method": "manual"}

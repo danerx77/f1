@@ -18112,10 +18112,13 @@
  },
  "datatext.txt::datatext.txt_541": {
   "source": " Using “BAG”",
-  "target": " Using “BAG”",
+  "target": " Użył “TORBA”",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791733389.5404959,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_399": {
   "source": "It crushes its foe under its heavy body\\nto cause fainting. In a pinch, it will\\nwithdraw inside its shell.",
@@ -22669,10 +22672,13 @@
  },
  "datatext.txt::datatext.txt_539": {
   "source": "  Using “SHIFT”",
-  "target": "  Using “SHIFT”",
+  "target": "  Using “ZMIANA”",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791733387.0485375,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_10": {
   "source": "CH'DING",
@@ -86919,14 +86925,14 @@
  },
  "datatext.txt::datatext.txt_536": {
   "source": "Opening the MENU",
-  "target": "",
-  "status": "new",
+  "target": "Otwieranie MENU",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791587624.3807755
+  "updated": 1791733377.0791612,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_326": {
   "source": "TRIPLE KICK",
@@ -106036,13 +106042,13 @@
  },
  "datatext.txt::datatext.txt_534": {
   "source": "  Using “MAILBOX”",
-  "target": "  Użył  “LISTY”",
+  "target": "  Użył “LISTY”",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733349.5329862,
+  "updated": 1791733353.6139212,
   "touched": true
  },
  "data maps.txt::data maps.txt_1593": {
