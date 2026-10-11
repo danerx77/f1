@@ -69666,10 +69666,12 @@
  },
  "datatext.txt::datatext.txt_326": {
   "source": "CRUSHER",
-  "target": "ŁAMACZ",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "touched": true
  },
  "src.txt::src.txt_1836": {
   "source": "A cave which is covered by water\\nand ice on FOUR ISLAND.\\nIt seems like the end of the cave\\nis connected to the ocean.",
@@ -74541,10 +74543,11 @@
  },
  "datatext.txt::datatext.txt_324": {
   "source": "CRUSHER",
-  "target": "ŁAMACZ",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
   "updated": 1791657011.5317585,
   "touched": true
@@ -97351,13 +97354,13 @@
  },
  "datatext.txt::datatext.txt_325": {
   "source": "WOMAN",
-  "target": "",
-  "status": "new",
+  "target": "KOBIETA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791656921.6408534
+  "updated": 1791731306.2317567,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_320": {
   "source": "ANYWHERE",
