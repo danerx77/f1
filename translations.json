@@ -35622,10 +35622,11 @@
  },
  "datatext.txt::datatext.txt_554": {
   "source": "{CIRCLE_1} Select “POKéDEX” on the MENU.\\n{CIRCLE_2} Choose POKéMON using commands such\\n   as “POKéMON LIST,”\\n   “HABITATS OF POKéMON,” and\\n   “SEARCH.”\\n{CIRCLE_3} Select a POKéMON to obtain detailed\\n   information.",
-  "target": "{CIRCLE_1} Select “POKéDEX” on the MENU.\\n{CIRCLE_2} Choose POKéMON Użył commands such\\n   as “POKéMON LIST,”\\n   Możesz obserwować innych i w ten\\n   “SEARCH.”\\n{CIRCLE_3} Select a POKéMON to obtain detailed\\n   information.",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
   "updated": 1791733789.5818956,
   "touched": true
