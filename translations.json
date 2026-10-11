@@ -10209,7 +10209,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733669.5888498,
+  "updated": 1791733671.2890432,
   "touched": true
  },
  "src.txt::src.txt_2088": {
@@ -67056,10 +67056,14 @@
  },
  "datatext.txt::datatext.txt_549": {
   "source": "  “REGISTER” a key item",
-  "target": "",
-  "status": "new",
+  "target": "  “PRZEPISANO” kluczowy przedmiot",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733709.5721047,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_890": {
   "source": "?????",
