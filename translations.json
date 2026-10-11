@@ -56870,13 +56870,13 @@
  },
  "datatext.txt::datatext.txt_708": {
   "source": "Own POKéMON type: ROCK",
-  "target": "POKéMON typ: ",
+  "target": "POKéMON typ: KAMIENNY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791734553.4469569,
+  "updated": 1791734569.1203277,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_595": {
@@ -95983,7 +95983,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791734555.1713676,
+  "updated": 1791734556.1190717,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_2000": {
