@@ -4320,10 +4320,12 @@
  },
  "datatext.txt::datatext.txt_294": {
   "source": "TAMIA",
-  "target": "TAMIA",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_14": {
   "source": "NINO",
@@ -16143,7 +16145,10 @@
   "target": "LORELEI",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791732608.4703243,
+  "touched": true
  },
  "datatext.txt::datatext.txt_692": {
   "source": "Wireless Adapter",
@@ -33160,13 +33165,13 @@
  },
  "datatext.txt::datatext.txt_302": {
   "source": "MAN",
-  "target": "",
-  "status": "new",
+  "target": "MĘŻCZYZNA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791656925.1209095
+  "updated": 1791732594.2324119,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3323": {
   "source": "You are in perfect harmony!",
@@ -39677,10 +39682,14 @@
  },
  "datatext.txt::datatext.txt_300": {
   "source": "CHARINE",
-  "target": "CHARINE",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791732586.0994878,
+  "touched": true
  },
  "src.txt::src.txt_1869": {
   "source": "POKéMON INFO",
@@ -67941,6 +67950,17 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_299": {
+  "source": "KIRK",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791732586.0984042,
+  "touched": true
+ },
  "srcdatadecoration.txt::srcdatadecoration.txt_87": {
   "source": "A DITTO doll.\\nPlace it on a mat\\nor a desk.",
   "target": "",
@@ -67960,13 +67980,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586288.4407265
- },
- "datatext.txt::datatext.txt_299": {
-  "source": "KIRK",
-  "target": "KIRK",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
  },
  "src.txt::src.txt_1468": {
   "source": "LEMONADE{CLEAR_TO 0x57}{FONT_SMALL}¥350",
@@ -81879,10 +81892,12 @@
  },
  "datatext.txt::datatext.txt_311": {
   "source": "DEREK",
-  "target": "DEREK",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_679": {
   "source": "This POKéMON is so quick, it is said to\\nbe able to avoid any attack. It loves to\\nfeed on tree sap.",
@@ -85472,7 +85487,10 @@
   "target": "LORELEI",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791732601.2768161,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_941": {
   "source": "?",
@@ -100565,7 +100583,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791732568.517347,
+  "updated": 1791732578.066711,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_893": {

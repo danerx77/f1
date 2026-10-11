@@ -2446,3 +2446,9 @@
 {"time": "2026-10-11T17:29:05", "file": "datatext.txt", "seg_id": "datatext.txt_277", "source": "MAN", "old": "", "new": "MĘŻCZYZNA", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:29:05", "file": "datatext.txt", "seg_id": "datatext.txt_277", "source": "MAN", "old": "", "new": "MĘŻCZYZNA", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:29:19", "file": "datatext.txt", "seg_id": "datatext.txt_283", "source": "DAME", "old": "DAMA", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-11T17:29:39", "file": "datatext.txt", "seg_id": "datatext.txt_294", "source": "TAMIA", "old": "TAMIA", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-11T17:29:49", "file": "datatext.txt", "seg_id": "datatext.txt_302", "source": "MAN", "old": "", "new": "MĘŻCZYZNA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:29:49", "file": "datatext.txt", "seg_id": "datatext.txt_302", "source": "MAN", "old": "", "new": "MĘŻCZYZNA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:29:56", "file": "datatext.txt", "seg_id": "datatext.txt_311", "source": "DEREK", "old": "DEREK", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-11T17:30:13", "file": "datatext.txt", "seg_id": "datatext.txt_338", "source": "YOUNG MAN", "old": "", "new": "MŁODZIENIEC", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:30:13", "file": "datatext.txt", "seg_id": "datatext.txt_338", "source": "YOUNG MAN", "old": "", "new": "MŁODZIENIEC", "translator": "Antrix", "method": "manual"}
