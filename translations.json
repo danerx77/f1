@@ -6595,12 +6595,12 @@
  },
  "data.txt::data.txt_59": {
   "source": "It appears to be for use at the\\nVERMILION CITY port.\\pWhy not give it a try and see what\\nit is about?",
-  "target": "Wygląda na to, że jest przeznaczone\\ndo użytku w porcie MIASTA PŁOMIENNEGO.\\pDlaczego by nie spróbować i nie\\nzobaczyć, o co w tym chodzi?",
+  "target": "Wygląda na to, że jest przeznaczone\\ndo użytku w porcie MIASTA VERMILION.\\pDlaczego by nie spróbować i nie\\nzobaczyć, o co w tym chodzi?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791740896.14065,
+  "updated": 1791740901.350784,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_48": {
@@ -14802,10 +14802,13 @@
  },
  "data.txt::data.txt_61": {
   "source": "Oh, I'm sorry, {PLAYER}. Your BAG's\\nKEY ITEMS POCKET is full.\\pPlease store something on your PC,\\nthen come back for this.",
-  "target": "",
-  "status": "new",
+  "target": "Och, przepraszam, {PLAYER}. Kieszeń na\\nKLUCZOWEPRZEDMIOTY\\pPlease store something on your PC,\\nthen come back for this.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791740936.1144145,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1348": {
   "source": "<<< FILE: maps/RocketHideout_B3F/text.inc >>>",
