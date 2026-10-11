@@ -27047,10 +27047,14 @@
  },
  "datatext.txt::datatext.txt_358": {
   "source": "POKéMON JOURNAL\\pSpecial Feature: CERULEAN GYM\\nLEADER MISTY!\\pMISTY is said to worship LORELEI\\nof the ELITE FOUR.",
-  "target": "",
-  "status": "new",
+  "target": "DZIENNIK POKÉMON\\pFunkcja specjalna: CERULEAN GYM\\nLIDER MISTY!\\pMISTY podobno\\nczci LORELEI z ELITARNEJ CZWÓRKI.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732677.622323,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_770": {
   "source": "This POKéMON is said to have\\nexpanded the sea by bringing heavy rains.\\nIt has the power to control water.",
@@ -28726,9 +28730,8 @@
   "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791731198.021402,
+  "updated": 1791732670.8390179,
   "touched": true
  },
  "src.txt::src.txt_2485": {
@@ -40930,10 +40933,14 @@
  },
  "datatext.txt::datatext.txt_363": {
   "source": "POKéMON JOURNAL\\pSpecial Feature: CINNABAR GYM\\nLEADER BLAINE!\\pBLAINE is said to remove his dark\\nshades only when he is thinking up\\lnew quiz questions.",
-  "target": "",
-  "status": "new",
+  "target": "DZIENNIK POKÉMON\\pFunkcja Specjalna: CINNABAR GYM\\nLIDER: BLAINE\\pMówi się, że BLAINE\\nzdejmuje swoje ciemne okulary tylko wtedy,\\lgdy wymyśla nowe pytania do quizu.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732688.4710004,
+  "touched": true
  },
  "datatext.txt::datatext.txt_53": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Hi, I'm excavating for fossils here\\nunder MT. MOON.\\pSometimes, BROCK of PEWTER GYM\\nlends me a hand.",
@@ -69688,13 +69695,12 @@
  },
  "datatext.txt::datatext.txt_355": {
   "source": "MAN",
-  "target": "",
-  "status": "new",
+  "target": "MĘŻCZYZNA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791656925.1209095,
+  "updated": 1791732673.0539763,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_404": {
@@ -79572,10 +79578,14 @@
  },
  "datatext.txt::datatext.txt_357": {
   "source": "POKéMON JOURNAL\\pSpecial Feature: PEWTER GYM\\nLEADER BROCK!\\pBROCK rarely laughs, but is said to\\nbe unable to stop if he starts.",
-  "target": "",
-  "status": "new",
+  "target": "DZIENNIK POKÉMON\\pFunkcja specjalna: PEWTER GYM\\nLIDER BROCK!\\pBROCK rzadko się śmieje,\\nale podobno nie może przestać, jeśli zacznie.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732676.104399,
+  "touched": true
  },
  "src.txt::src.txt_2654": {
   "source": "VOLTORB",
@@ -103136,13 +103146,13 @@
  },
  "datatext.txt::datatext.txt_362": {
   "source": "POKéMON JOURNAL\\pSpecial Feature: SAFFRON GYM\\nLEADER SABRINA!\\pPeople say that SABRINA can\\ncommunicate with her POKéMON\\lduring battle without speaking.",
-  "target": "",
-  "status": "new",
+  "target": "DZIENNIK POKÉMON\\pFunkcja Specjalna: CELADON GYM\\nLIDER: SABRINA\\pLudzie mówią, że\\nSABRINA potrafi komunikować się ze swoimi\\lpokémonami podczas walki bez mówienia.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791657888.504403
+  "updated": 1791732687.7550821,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_12": {
   "source": "NINA",
