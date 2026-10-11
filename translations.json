@@ -13587,14 +13587,13 @@
  },
  "datatext.txt::datatext.txt_712": {
   "source": "Own POKéMON type: FIGHTING",
-  "target": "",
-  "status": "new",
+  "target": "Own POKéMON Typ: Walczący",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791741376.1552517,
+  "updated": 1791744819.455866,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1940": {
@@ -92981,7 +92980,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791744779.4687006,
+  "updated": 1791744779.6925445,
   "touched": true
  },
  "data maps.txt::data maps.txt_1640": {
