@@ -49400,12 +49400,12 @@
  },
  "data.txt::data.txt_58": {
   "source": "Thank you for using the MYSTERY\\nGIFT System.\\pYou must be {PLAYER}.\\nThere is a ticket here for you.",
-  "target": "Thank you for Użył the MYSTERY\\nGIFT System.\\pMusisz być {PLAYER}.\\nThere is a ticket here for you.",
+  "target": "Dziękujemy za korzystanie z\\nSystemu MYSTERY GIFT\\pMusisz być {PLAYER}.\\nTu jest bilet dla ciebie..",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791740776.097252,
+  "updated": 1791740816.1258283,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1778": {
@@ -104193,6 +104193,13 @@
   "translator": "Antrix",
   "updated": 1791586286.6720462
  },
+ "src.txt::src.txt_1004": {
+  "source": "A horrible metallic\\nscreech is used to\\nsharply lower the\\nfoe's SP. DEF.",
+  "target": "Straszny metaliczny\\npisk służy do\\nostrego obniżenia\\nSP. OBRONY wroga.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
  "data maps.txt::data maps.txt_189": {
   "source": "<<< FILE: maps/CeladonCity_Hotel/text.inc >>>",
   "target": "",
@@ -104218,13 +104225,6 @@
  "datatext.txt::datatext.txt_1110": {
   "source": "I used TMs to teach good moves\\nto my POKéMON.",
   "target": "Używam TM, by nauczyć ruchów\\nmoje POKéMONY.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_1004": {
-  "source": "A horrible metallic\\nscreech is used to\\nsharply lower the\\nfoe's SP. DEF.",
-  "target": "Straszny metaliczny\\npisk służy do\\nostrego obniżenia\\nSP. OBRONY wroga.",
   "status": "draft",
   "notes": "",
   "ignored": false
