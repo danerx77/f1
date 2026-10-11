@@ -42433,10 +42433,14 @@
  },
  "datatext.txt::datatext.txt_705": {
   "source": "Own move type: DARK",
-  "target": "",
-  "status": "new",
+  "target": "Własny tp Typ: Mroczny",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733909.569902,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_542": {
   "source": "MYSTIC WATER",
@@ -103215,6 +103219,18 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_703": {
+  "source": "POKéMON are wondrous creatures that\\nare shrouded in mystery. You may meet\\lthem all over the world…in tall\\lgrass, caves, the sea, and more.\\lThey appear to grow obedient to the\\lTRAINERS that caught them.",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733871.4205704,
+  "touched": true
+ },
  "src.txt::src.txt_264": {
   "source": "{B_EFF_NAME_WITH_PREFIX}'s {B_EFF_ABILITY}\\nprevents burns!",
   "target": "{B_EFF_NAME_WITH_PREFIX} {B_EFF_ABILITY}\\nneguje poparzenia",
@@ -103224,13 +103240,6 @@
   "translator": "Antrix",
   "updated": 1791132248.1108932,
   "touched": true
- },
- "datatext.txt::datatext.txt_703": {
-  "source": "POKéMON are wondrous creatures that\\nare shrouded in mystery. You may meet\\lthem all over the world…in tall\\lgrass, caves, the sea, and more.\\lThey appear to grow obedient to the\\lTRAINERS that caught them.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_865": {
   "source": "Thickly covered with a filthy, vile\\nsludge. It is so toxic, even its footprints\\ncontain poison.",
