@@ -6595,13 +6595,12 @@
  },
  "data.txt::data.txt_59": {
   "source": "It appears to be for use at the\\nVERMILION CITY port.\\pWhy not give it a try and see what\\nit is about?",
-  "target": "",
-  "status": "new",
+  "target": "Wygląda na to, że jest przeznaczone\\ndo użytku w porcie MIASTA PŁOMIENNEGO.\\pDlaczego by nie spróbować i nie\\nzobaczyć, o co w tym chodzi?",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791740845.1989737,
+  "updated": 1791740896.14065,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_48": {
