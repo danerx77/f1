@@ -13940,7 +13940,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791737192.7926662,
+  "updated": 1791737198.7894797,
   "touched": true
  },
  "data maps.txt::data maps.txt_1228": {
@@ -27979,10 +27979,13 @@
  },
  "src.txt::src.txt_554": {
   "source": "$$$$$$$",
-  "target": "$$$$$$$",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "touched": true
  },
  "data maps.txt::data maps.txt_196": {
   "source": "CHIEF!\\pWe just shipped two thousand\\nmore POKéMON as slot prizes\\lagain today!",
@@ -46818,7 +46821,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791737224.950208,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_263": {
   "source": "DOUBLE TEAM",
@@ -85548,7 +85556,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791737230.1700373,
+  "touched": true
  },
  "data maps.txt::data maps.txt_283": {
   "source": "POKéMON up to Lv. 30 will obey\\nyou.\\pThat includes even outsiders you\\nobtain in trades.\\pPOKéMON of higher levels will\\nbe unruly in battle, however.\\pIt also lets you use the move\\nCUT outside of battle.",
