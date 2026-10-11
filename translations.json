@@ -48302,10 +48302,14 @@
  },
  "src.txt::src.txt_2818": {
   "source": "Hello!\\nWould you like to do something?",
-  "target": "",
-  "status": "new",
+  "target": "Cześć!\\nMasz ochotę coś porobić?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736935.7842546,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_70": {
   "source": "Pure salt obtained from deep inside\\nthe SHOAL CAVE. It is extremely\\nsalty.",
@@ -51684,10 +51688,14 @@
  },
  "src.txt::src.txt_2820": {
   "source": "{STR_VAR_1}: Oh! {PLAYER}, hello!\\nWould you like to do something?",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1}: Oh {PLAYER}!\\nCześć!\\nMasz ochotę coś porobić?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736950.2633739,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_997": {
   "source": "Because the long hair all over its body\\nobscures its sight, it just keeps charging\\nrepeatedly.",
@@ -60340,10 +60348,14 @@
  },
  "src.txt::src.txt_2821": {
   "source": "Want to do something?",
-  "target": "",
-  "status": "new",
+  "target": "Chcesz zrobić\\ncoś innego?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736952.733735,
+  "touched": true
  },
  "datatext.txt::datatext.txt_988": {
   "source": "<<< FILE: text/seagallop.inc >>>",
