@@ -18117,7 +18117,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791733389.5404959,
+  "updated": 1791733394.442315,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_399": {
@@ -46527,12 +46527,12 @@
  },
  "datatext.txt::datatext.txt_537": {
   "source": " Using “FIGHT”",
-  "target": " Użył“FIGHT”",
+  "target": " Użył “FIGHT”",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791587669.777434,
+  "updated": 1791733429.5295286,
   "touched": true
  },
  "src.txt::src.txt_1602": {

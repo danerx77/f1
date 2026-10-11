@@ -2615,3 +2615,6 @@
 {"time": "2026-10-11T17:43:03", "file": "datatext.txt", "seg_id": "datatext.txt_539", "source": "  Using “SHIFT”", "old": "  Using “ZMIAN”", "new": "  Using “ZMIANA”", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:43:08", "file": "datatext.txt", "seg_id": "datatext.txt_541", "source": " Using “BAG”", "old": " Using “BAG”", "new": " Użył “TORBA”", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:43:08", "file": "datatext.txt", "seg_id": "datatext.txt_541", "source": " Using “BAG”", "old": " Using “BAG”", "new": " Użył “TORBA”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:18", "file": "datatext.txt", "seg_id": "datatext.txt_537", "source": " Using “FIGHT”", "old": " Użył“FIGHT”", "new": " Użył “FIGHT”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:52", "file": "datatext.txt", "seg_id": "datatext.txt_537", "source": " Using “FIGHT”", "old": " Użył “FIGHT”", "new": " Użył\\n\\qoshift\\qc\\n“WALCZĄ.”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:43:52", "file": "datatext.txt", "seg_id": "datatext.txt_537", "source": " Using “FIGHT”", "old": " Użył “FIGHT”", "new": " Użył\\n\\qoshift\\qc\\n“WALCZĄ.”", "translator": "Antrix", "method": "manual"}
