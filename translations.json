@@ -25195,12 +25195,13 @@
  },
  "src.txt::src.txt_2061": {
   "source": "Communication standby…",
-  "target": "Communication standby…",
+  "target": "Komunikacja łączenie…",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790277910.8342366
+  "updated": 1791736687.1397307,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1230": {
   "source": "A case for holding COINS obtained\\\\nat the GAME CORNER.\\\\nIt holds up to 9,999 COINS.",
@@ -79161,10 +79162,15 @@
  },
  "src.txt::src.txt_2092": {
   "source": "\\n\\nDirector\\n\\n\\n\\n",
-  "target": "",
-  "status": "new",
+  "target": "Kierownik proje\\n\\nktu\\n\\n\\n\\n",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736713.1524515,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_669": {
   "source": "TM48",
@@ -101829,7 +101835,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736672.7403746,
+  "updated": 1791736674.4667256,
   "touched": true
  },
  "data maps.txt::data maps.txt_1525": {
@@ -106443,7 +106449,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736687.5093539,
+  "touched": true
  },
  "src.txt::src.txt_1523": {
   "source": "EEVEE",
