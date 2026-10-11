@@ -7744,10 +7744,14 @@
  },
  "src.txt::src.txt_2931": {
   "source": "Awaiting {STR_VAR_1}'s response…",
-  "target": "",
-  "status": "new",
+  "target": "Oczekiwanie na odpowiedź od\\n{STR_VAR_1}...",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736832.7316847,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_530": {
   "source": "LUCKY EGG",
@@ -52371,10 +52375,14 @@
  },
  "src.txt::src.txt_2939": {
   "source": "GREETINGS",
-  "target": "",
-  "status": "new",
+  "target": "POWITANIA",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736821.6129003,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_117": {
   "source": "HUGE POWER",

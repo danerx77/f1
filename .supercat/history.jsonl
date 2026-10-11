@@ -3024,3 +3024,7 @@
 {"time": "2026-10-11T18:39:22", "file": "src.txt", "seg_id": "src.txt_2085", "source": "GHOST", "old": "DUCHOW.", "new": "DUCH", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:39:22", "file": "src.txt", "seg_id": "src.txt_2085", "source": "GHOST", "old": "DUCHOW.", "new": "DUCH", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:39:45", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "POKéMON JUMP RECORDS", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-11T18:39:58", "file": "src.txt", "seg_id": "src.txt_2939", "source": "GREETINGS", "old": "", "new": "POWITANIA", "translator": "Antrix", "method": "auto_tm", "tm_source": " \\n\\n\\nAkira Kinashi\\n\\n\\n<<KON → \\n\\n\\nAkira Kinashi\\n\\n\\n)"}
+{"time": "2026-10-11T18:39:58", "file": "src.txt", "seg_id": "src.txt_2939", "source": "GREETINGS", "old": "", "new": "POWITANIA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:40:21", "file": "src.txt", "seg_id": "src.txt_2931", "source": "Awaiting {STR_VAR_1}'s response…", "old": "", "new": "Oczekiwanie na odpowiedź od\\n{STR_VAR_1}...", "translator": "Antrix", "method": "auto_tm", "tm_source": " GREETINGS → POWITANIA)"}
+{"time": "2026-10-11T18:40:21", "file": "src.txt", "seg_id": "src.txt_2931", "source": "Awaiting {STR_VAR_1}'s response…", "old": "", "new": "Oczekiwanie na odpowiedź od\\n{STR_VAR_1}...", "translator": "Antrix", "method": "manual"}
