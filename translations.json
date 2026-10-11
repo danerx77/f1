@@ -16613,14 +16613,14 @@
  },
  "srcdatatext.txt::srcdatatext.txt_576": {
   "source": "handily",
-  "target": "",
-  "status": "new",
+  "target": "poręczny",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791586571.092171
+  "updated": 1791737602.2365694,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_352": {
   "source": "PLAY",

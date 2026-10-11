@@ -3108,3 +3108,4 @@
 {"time": "2026-10-11T18:52:26", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "PANIENKanienkę", "new": "PANIENKAanienkę", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:52:27", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "PANIENKAanienkę", "new": "PANIENKAa", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:52:27", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_1114", "source": "LADY", "old": "PANIENKAa", "new": "PANIENKA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:53:20", "file": "srcdatatext.txt", "seg_id": "srcdatatext.txt_576", "source": "handily", "old": "", "new": "poręczny", "translator": "Antrix", "method": "manual"}
