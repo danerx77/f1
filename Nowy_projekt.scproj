@@ -2,9 +2,9 @@
   "name": "Nowy projekt",
   "source_lang": "en",
   "target_lang": "pl",
-  "project_path": "C:\\Users\\L\\SuperCAT_Projects\\Nowy_projekt",
+  "project_path": "C:\\Users\\L\\SuperCAT_Projects\\f1",
   "created_date": 1785686080.925927,
-  "modified_date": 1789918039.9790015,
+  "modified_date": 1791731148.2144835,
   "current_segment_index": 0,
   "source_files": [
     "data.txt",
@@ -219,5 +219,6 @@
     "enabled": true,
     "dictionary_language": "pl_PL",
     "underline_errors": true
-  }
+  },
+  "team_url": "https://github.com/danerx77/f1"
 }
