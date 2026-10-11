@@ -2540,3 +2540,15 @@
 {"time": "2026-10-11T17:36:09", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Urz items", "new": "  Urzy items", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:36:09", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Urzy items", "new": "  Urzyw items", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:36:10", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Urzyw items", "new": "  Urzywa items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:17", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Urzywa items", "new": "  Używa items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:22", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa items", "new": "  Używa p", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:22", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa p", "new": "  Używa pr", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:22", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa pr", "new": "  Używa prz", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:22", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa prz", "new": "  Używa prze", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:23", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa prze", "new": "  Używa przed", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:23", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa przed", "new": "  Używa przedm", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:23", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa przedm", "new": "  Używa przedmi", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:23", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa przedmi", "new": "  Używa przedmio", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:24", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa przedmio", "new": "  Używa przedmiot", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:24", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa przedmiot", "new": "  Używa przedmiotó", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:25", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa przedmiotó", "new": "  Używa przedmiotów", "translator": "Antrix", "method": "manual"}
