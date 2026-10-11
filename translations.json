@@ -3814,7 +3814,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791737239.8412735,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_744": {
   "source": "PONYTA",

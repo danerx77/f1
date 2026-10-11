@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T162846Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T164735Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -66879,10 +66879,6 @@
       <tuv xml:lang="pl"><seg>czyjegoś</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>BILL's</seg></tuv>
-      <tuv xml:lang="pl"><seg>BILLA</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>{B_OPPONENT_MON1_NAME}'s data was\nadded to the POKéDEX.\p</seg></tuv>
       <tuv xml:lang="pl"><seg>Dane {B_OPPONENT_MON1_NAME} zostały\ndodane do POKéDEXU.\p</seg></tuv>
     </tu>
@@ -75079,10 +75075,6 @@
       <tuv xml:lang="pl"><seg>SREBRNY</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>{B_BUFF1} gained{B_BUFF2}\n{B_BUFF3} EXP. Points!\p</seg></tuv>
-      <tuv xml:lang="pl"><seg>{B_BUFF1} zyskał {B_BUFF2}\n{B_BUFF3} punktów EXP!\p</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>{B_BUFF1} grew to\nLV. {B_BUFF2}!{WAIT_SE}\p</seg></tuv>
       <tuv xml:lang="pl"><seg>{B_BUFF1}  zdobył\nLV. {B_BUFF2}!{WAIT_SE}\p</seg></tuv>
     </tu>
@@ -75417,10 +75409,6 @@
     <tu>
       <tuv xml:lang="en"><seg>Using “PROF. OAK'S PC”</seg></tuv>
       <tuv xml:lang="pl"><seg>Użył “PROF. OAK PC”</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>is</seg></tuv>
-      <tuv xml:lang="pl"><seg>jest</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>{STR_VAR_1} used SWEET SCENT to attract\nwild POKéMON.</seg></tuv>
@@ -88455,10 +88443,6 @@
       <tuv xml:lang="pl"><seg>ROBAK</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>GHOST</seg></tuv>
-      <tuv xml:lang="pl"><seg>DUCH</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>STEEL</seg></tuv>
       <tuv xml:lang="pl"><seg>STAL</seg></tuv>
     </tu>
@@ -89557,10 +89541,6 @@
     <tu>
       <tuv xml:lang="en"><seg>Own move type: PSYCHIC</seg></tuv>
       <tuv xml:lang="pl"><seg>Own move type: FIRE</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Own POKéMON type: PSYCHIC</seg></tuv>
-      <tuv xml:lang="pl"><seg>Own POKéMON type: FIRE</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Own move type: FIGHTING</seg></tuv>
@@ -184115,10 +184095,6 @@
       <tuv xml:lang="pl"><seg>TRENERZY</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>GREETINGS</seg></tuv>
-      <tuv xml:lang="pl"><seg>POWITANIA</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>LIFESTYLE</seg></tuv>
       <tuv xml:lang="pl"><seg>STYL ŻYCIA</seg></tuv>
     </tu>
@@ -239357,6 +239333,78 @@
     <tu>
       <tuv xml:lang="en"><seg>All right, come again!</seg></tuv>
       <tuv xml:lang="pl"><seg>W porządku, żegnamy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Wireless Adapter isn't\nconnected.\pCome back when it's hooked up!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wireless Adapter nie jest\npołączony.\pWróć, gdy będzie połączony!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own move type: PSYCHIC</seg></tuv>
+      <tuv xml:lang="pl"><seg>Własny ruch Typ: PSYCHO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own POKéMON type: PSYCHIC</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMON typ: PSYCHO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own move type: FIGHTING</seg></tuv>
+      <tuv xml:lang="pl"><seg>Własny ruch Typ: WALCZĄCY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Communication standby…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Komunikacja łączenie…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GHOST</seg></tuv>
+      <tuv xml:lang="pl"><seg>DUCH</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GREETINGS</seg></tuv>
+      <tuv xml:lang="pl"><seg>POWITANIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Awaiting {STR_VAR_1}'s response…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Oczekiwanie na odpowiedź od\n{STR_VAR_1}...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Communicating{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOMUNIKACJA{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hello!\nWould you like to do something?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Cześć!\nMasz ochotę coś porobić?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1}: Oh! {PLAYER}, hello!\nWould you like to do something?</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1}: Oh {PLAYER}!\nCześć!\nMasz ochotę coś porobić?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Want to do something?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chcesz coś zrobić?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Would you like to do something?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Masz ochotę coś porobić?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1}: Hiya, we meet again!\nWhat are you up for this time?</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1}: Cześć, znowu się spotykamy!\nCzym zaskoczysz mnie tym razem?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{B_BUFF1} gained{B_BUFF2}\n{B_BUFF3} EXP. Points!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>{B_BUFF1} zyskał {B_BUFF2}\n{B_BUFF3} punktów EXP!\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{B_PLAYER_NAME} paid ¥{B_BUFF1} as the prize\nmoney…\p… … … …\p{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}</seg></tuv>
+      <tuv xml:lang="pl"><seg>{B_PLAYER_NAME} zapłacił ¥{B_BUFF1} nagrody\n…\p… … … …\p{B_PLAYER_NAME} przegrywa!{PAUSE_UNTIL_PRESS}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BILL's</seg></tuv>
+      <tuv xml:lang="pl"><seg>BILLA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>is</seg></tuv>
+      <tuv xml:lang="pl"><seg>jest</seg></tuv>
     </tu>
   </body>
 </tmx>
