@@ -35622,10 +35622,13 @@
  },
  "datatext.txt::datatext.txt_554": {
   "source": "{CIRCLE_1} Select “POKéDEX” on the MENU.\\n{CIRCLE_2} Choose POKéMON using commands such\\n   as “POKéMON LIST,”\\n   “HABITATS OF POKéMON,” and\\n   “SEARCH.”\\n{CIRCLE_3} Select a POKéMON to obtain detailed\\n   information.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Select “POKéDEX” on the MENU.\\n{CIRCLE_2} Choose POKéMON Użył commands such\\n   as “POKéMON LIST,”\\n   Możesz obserwować innych i w ten\\n   “SEARCH.”\\n{CIRCLE_3} Select a POKéMON to obtain detailed\\n   information.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791733789.5818956,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_719": {
   "source": "It prefers harsh environments such as\\ndeserts. It can survive for 30 days on\\nwater stored in its body.",
@@ -64266,13 +64269,13 @@
  },
  "datatext.txt::datatext.txt_551": {
   "source": " Using “BAIT”",
-  "target": " Użył “BAIT”",
+  "target": " Użył “PRZYNĘTY”",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733749.573455,
+  "updated": 1791733769.141268,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1302": {
@@ -83270,10 +83273,14 @@
  },
  "datatext.txt::datatext.txt_552": {
   "source": " Using “ROCK”",
-  "target": "",
-  "status": "new",
+  "target": " Użył “KAMIENIA”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733778.7895598,
+  "touched": true
  },
  "src.txt::src.txt_2767": {
   "source": "マルチバトルを かいさいする",
