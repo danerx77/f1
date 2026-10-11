@@ -16619,7 +16619,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791737602.2365694,
+  "updated": 1791737672.8386068,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_352": {
@@ -53058,14 +53058,14 @@
  },
  "srcdatatext.txt::srcdatatext.txt_577": {
   "source": "tenaciously",
-  "target": "",
-  "status": "new",
+  "target": "nieustępliwy,",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791586430.5912201
+  "updated": 1791737646.1530824,
+  "touched": true
  },
  "data maps.txt::data maps.txt_316": {
   "source": "This is fine BERRY POWDER indeed.\\nIt will make excellent medicine.\\pWould you like to trade more BERRY\\nPOWDER for something else?",
