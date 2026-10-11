@@ -3010,7 +3010,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791731986.2432485,
+  "updated": 1791732007.1745682,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_141": {
@@ -16317,6 +16317,16 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_313": {
+  "source": "PHOTO",
+  "target": "FOTKA",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791732011.2445557,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_232": {
   "source": "BECOMES",
   "target": "",
@@ -16326,16 +16336,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586286.6102211
- },
- "datatext.txt::datatext.txt_313": {
-  "source": "PHOTO",
-  "target": "FOTKA",
-  "status": "draft",
-  "notes": "",
-  "ignored": false,
-  "translator": "Antrix",
-  "updated": 1791656991.0962248,
-  "touched": true
  },
  "data maps.txt::data maps.txt_1411": {
   "source": "I like tiny POKéMON.\\nBig ones are too scary!",

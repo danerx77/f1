@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T150641Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T152010Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -239231,16 +239231,16 @@
       <tuv xml:lang="pl"><seg>{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\nleczy poparzenia!</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>YOUNG MAN</seg></tuv>
-      <tuv xml:lang="pl"><seg>MŁODZIENIEC</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>WOMAN</seg></tuv>
-      <tuv xml:lang="pl"><seg>KOBIETA</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>LITTLE BOY</seg></tuv>
       <tuv xml:lang="pl"><seg>CHŁOPIEC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAN</seg></tuv>
+      <tuv xml:lang="pl"><seg>MĘŻCZYZNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>YOUNG MAN</seg></tuv>
+      <tuv xml:lang="pl"><seg>MŁODZIENIEC</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>LITTLE GIRL</seg></tuv>
@@ -239251,8 +239251,8 @@
       <tuv xml:lang="pl"><seg>DZIENNIK POKéMON</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>MAN</seg></tuv>
-      <tuv xml:lang="pl"><seg>MĘŻCZYZNA</seg></tuv>
+      <tuv xml:lang="en"><seg>WOMAN</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOBIETA</seg></tuv>
     </tu>
   </body>
 </tmx>
