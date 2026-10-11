@@ -54855,10 +54855,14 @@
  },
  "data.txt::data.txt_57": {
   "source": "Oh, I'm sorry, {PLAYER}. Your BAG's\\nKEY ITEMS POCKET is full.\\pPlease store something on your PC,\\nthen come back for this.",
-  "target": "",
-  "status": "new",
+  "target": "Och, przepraszam Kieszeń, {PLAYER}. na KLUCZOWE\\nPRZEDMIOTY w TWOJEJ TORBIE jest.\\ppełna Zapisz coś na swoim PC,\\na następnie wróć po to.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791741136.1515834,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1399": {
   "source": "HM07",
