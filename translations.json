@@ -102956,14 +102956,14 @@
  },
  "srcdatatext.txt::srcdatatext.txt_1121": {
   "source": "KINDLER",
-  "target": "",
-  "status": "new",
+  "target": "PODPALACZ",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791587275.3808005
+  "updated": 1791737492.8475845,
+  "touched": true
  },
  "src.txt::src.txt_1832": {
   "source": "A mysterious cave that is filled\\nwith terribly tough POKéMON.\\nIt is so dangerous, the POKéMON\\nLEAGUE is in charge of it.",
