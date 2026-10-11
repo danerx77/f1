@@ -107105,13 +107105,13 @@
  },
  "datascript.txt::datascript.txt_64": {
   "source": "Which POKéMON would you like to\\nenter?",
-  "target": "Which POKéMON would you like to\\nenter?",
+  "target": "Którego Pokémona chcesz podejrzeć?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791735515.233459,
+  "updated": 1791735555.2456992,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_334": {
