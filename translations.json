@@ -870,7 +870,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131247.5375438,
+  "updated": 1791737112.5874739,
   "touched": true
  },
  "datatext.txt::datatext.txt_355": {
@@ -15595,7 +15595,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131178.234241,
+  "updated": 1791737110.0212984,
   "touched": true
  },
  "data maps.txt::data maps.txt_2830": {
@@ -26979,7 +26979,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790797193.248139
+  "updated": 1791737102.0668254,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_48": {
   "source": "SILPH CO.",
@@ -27328,14 +27329,6 @@
   "notes": "",
   "ignored": false
  },
- "src.txt::src.txt_448": {
-  "source": "ナゾ",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": true,
-  "auto_excluded": true
- },
  "src.txt::src.txt_59": {
   "source": "{B_PLAYER_NAME} panicked and lost ¥{B_BUFF1}…\\p… … … …\\p{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}",
   "target": "{B_PLAYER_NAME} panikuje i traci ¥{B_BUFF1}……\\p… … …\\p{B_PLAYER_NAME} przegrywa!{PAUSE_UNTIL_PRESS}",
@@ -27343,7 +27336,16 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790797198.9631193
+  "updated": 1791737101.3108969,
+  "touched": true
+ },
+ "src.txt::src.txt_448": {
+  "source": "ナゾ",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": true,
+  "auto_excluded": true
  },
  "datatext.txt::datatext.txt_890": {
   "source": "There is a questionnaire.\\nWould you like to fill it out?",
@@ -43424,7 +43426,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790795802.0104566
+  "updated": 1791737090.978835,
+  "touched": true
  },
  "datatext.txt::datatext.txt_21": {
   "source": "Oh, fine, then.\\nCome again.",
@@ -47911,7 +47914,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131259.8760793,
+  "updated": 1791737112.7521105,
   "touched": true
  },
  "src.txt::src.txt_638": {
@@ -58029,7 +58032,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790797185.175995
+  "updated": 1791737109.2756684,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1024": {
   "source": "OAK: Hey!\\nDon't go away yet!",
@@ -62795,7 +62799,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790796728.6494658
+  "updated": 1791737093.2254057,
+  "touched": true
  },
  "src.txt::src.txt_2056": {
   "source": "Recording your game results in the\\nsave file.\\nPlease wait.",
@@ -64421,21 +64426,22 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_61": {
+  "source": "{B_PLAYER_NAME} paid ¥{B_BUFF1} as the prize\\nmoney…\\p… … … …\\p{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}",
+  "target": "{B_PLAYER_NAME} zapłacił ¥{B_BUFF1} nagrody\\n…\\p… … … …\\p{B_PLAYER_NAME} przegrywa!{PAUSE_UNTIL_PRESS}",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791737099.5221903,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_544": {
   "source": "Took the item {STR_VAR_2} from\\n{STR_VAR_1}.",
   "target": "Wziąłeś {STR_VAR_2} od\\n{STR_VAR_1}.",
   "status": "draft",
   "notes": "",
   "ignored": false
- },
- "src.txt::src.txt_61": {
-  "source": "{B_PLAYER_NAME} paid ¥{B_BUFF1} as the prize\\nmoney…\\p… … … …\\p{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}",
-  "target": "{B_PLAYER_NAME} zapłacił ¥{B_BUFF1}  nagrody\\n…\\p… … … …\\p{B_PLAYER_NAME} przegrywa!{PAUSE_UNTIL_PRESS}",
-  "status": "draft",
-  "notes": "",
-  "ignored": false,
-  "translator": "Antrix",
-  "updated": 1790797209.3687854
  },
  "srcdata.txt::srcdata.txt_1359": {
   "source": "TM37",
@@ -84770,7 +84776,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791131185.3982198,
+  "updated": 1791737110.709428,
   "touched": true
  },
  "data maps.txt::data maps.txt_1510": {
@@ -101072,7 +101078,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790797214.848959
+  "updated": 1791737094.1215374,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_980": {
   "source": "WOW",
@@ -103435,6 +103442,16 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_60": {
+  "source": "{B_PLAYER_NAME} is out of\\nusable POKéMON!\\pPlayer lost against\\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!{PAUSE_UNTIL_PRESS}",
+  "target": "{B_PLAYER_NAME} nie ma już\\nPOKéMONÓW!\\pGracz przegrał z\\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!{PAUSE_UNTIL_PRESS}",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791737100.6615114,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_899": {
   "source": "DONPHAN",
   "target": "",
@@ -103451,15 +103468,6 @@
   "status": "draft",
   "notes": "",
   "ignored": false
- },
- "src.txt::src.txt_60": {
-  "source": "{B_PLAYER_NAME} is out of\\nusable POKéMON!\\pPlayer lost against\\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!{PAUSE_UNTIL_PRESS}",
-  "target": "{B_PLAYER_NAME} nie ma już\\nPOKéMONÓW!\\pGracz przegrał z\\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!{PAUSE_UNTIL_PRESS}",
-  "status": "draft",
-  "notes": "",
-  "ignored": false,
-  "translator": "Antrix",
-  "updated": 1790797204.9253168
  },
  "srcdatatext.txt::srcdatatext.txt_137": {
   "source": "PLUS",
