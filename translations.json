@@ -8339,7 +8339,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791655379.7054825,
+  "updated": 1791734664.1783166,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1062": {
@@ -10251,7 +10251,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791655377.761452,
+  "updated": 1791734662.747775,
   "touched": true
  },
  "data maps.txt::data maps.txt_153": {
@@ -40146,7 +40146,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791655447.8507812,
+  "updated": 1791734667.1624646,
   "touched": true
  },
  "data maps.txt::data maps.txt_1767": {
@@ -63983,7 +63983,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791655493.549405,
+  "updated": 1791734674.1247716,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_539": {
@@ -66727,7 +66727,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791655501.5165153,
+  "updated": 1791734675.41017,
   "touched": true
  },
  "data maps.txt::data maps.txt_661": {
@@ -74339,16 +74339,19 @@
   "notes": "",
   "ignored": false
  },
- "srcdata.txt::srcdata.txt_223": {
-  "source": "A new, good-quality fishing rod.\\nUse it by any body of water to \\nfish for wild POKéMON.",
-  "target": "Wysokiej jakości wędka.\\nUżyj jej przy dowolnej tafli wody,\\nby łowić dzikie POKéMONY.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "srcdatatext.txt::srcdatatext.txt_1206": {
   "source": "AROMA LADY",
   "target": "PERFUMIARKA",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791734651.76152,
+  "touched": true
+ },
+ "srcdata.txt::srcdata.txt_223": {
+  "source": "A new, good-quality fishing rod.\\nUse it by any body of water to \\nfish for wild POKéMON.",
+  "target": "Wysokiej jakości wędka.\\nUżyj jej przy dowolnej tafli wody,\\nby łowić dzikie POKéMONY.",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -74632,7 +74635,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791655449.837664,
+  "updated": 1791734670.776203,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_527": {
@@ -89703,7 +89706,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791655341.2411747,
+  "updated": 1791734657.5918558,
   "touched": true
  },
  "src.txt::src.txt_584": {
