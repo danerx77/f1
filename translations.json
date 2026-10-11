@@ -59970,10 +59970,14 @@
  },
  "datatext.txt::datatext.txt_530": {
   "source": "  Moving items",
-  "target": "",
+  "target": "  Moving items",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732928.4832942,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_670": {
   "source": "TM49",
@@ -87396,13 +87400,13 @@
  },
  "datatext.txt::datatext.txt_529": {
   "source": "  Using “MOVE”",
-  "target": "  Użył “MOVE”",
+  "target": "  Użył “RUCHU”",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791732888.4725115,
+  "updated": 1791732911.4575267,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_618": {

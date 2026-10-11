@@ -2521,3 +2521,10 @@
 {"time": "2026-10-11T17:34:36", "file": "datatext.txt", "seg_id": "datatext.txt_528", "source": "  Using “DEPOSIT”", "old": "  Użył “DEPOSIT”", "new": "  Użył “DEPONUJ”", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:34:41", "file": "datatext.txt", "seg_id": "datatext.txt_529", "source": "  Using “MOVE”", "old": "", "new": "  Użył “MOVE”", "translator": "Antrix", "method": "auto_tm", "tm_source": " Using “DEPOSIT”<<KON>> → Using “DEPOSIT”)"}
 {"time": "2026-10-11T17:34:41", "file": "datatext.txt", "seg_id": "datatext.txt_529", "source": "  Using “MOVE”", "old": "", "new": "  Użył “MOVE”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:35:07", "file": "datatext.txt", "seg_id": "datatext.txt_529", "source": "  Using “MOVE”", "old": "  Użył “MOVE”", "new": "  Użył “R”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:35:07", "file": "datatext.txt", "seg_id": "datatext.txt_529", "source": "  Using “MOVE”", "old": "  Użył “R”", "new": "  Użył “RU”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:35:07", "file": "datatext.txt", "seg_id": "datatext.txt_529", "source": "  Using “MOVE”", "old": "  Użył “RU”", "new": "  Użył “RUC”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:35:08", "file": "datatext.txt", "seg_id": "datatext.txt_529", "source": "  Using “MOVE”", "old": "  Użył “RUC”", "new": "  Użył “RUCH”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:35:08", "file": "datatext.txt", "seg_id": "datatext.txt_529", "source": "  Using “MOVE”", "old": "  Użył “RUCH”", "new": "  Użył “RUCHU”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:35:11", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "", "new": "  Moving items", "translator": "Antrix", "method": "auto_tm", "tm_source": " Using “MOVE”<<KON>> → Using “MOVE”)"}
+{"time": "2026-10-11T17:35:11", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "", "new": "  Moving items", "translator": "Antrix", "method": "manual"}
