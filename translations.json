@@ -38981,10 +38981,14 @@
  },
  "datascript.txt::datascript.txt_72": {
   "source": "Would you like to trade POKéMON?",
-  "target": "",
-  "status": "new",
+  "target": "Czy chcesz wymienić Pokémona?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791735089.083569,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_290": {
   "source": "An attack move that may have an\\nadditional effect depending on the\\nbattle terrain.",
@@ -43700,10 +43704,14 @@
  },
  "datascript.txt::datascript.txt_73": {
   "source": "Which Battle Mode would you like\\nto play?",
-  "target": "",
-  "status": "new",
+  "target": "W którym trybie rozgrywki chciałbyś\\nzagrać?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791735108.8224366,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_1005": {
   "source": "FUFUFU",
@@ -61829,10 +61837,14 @@
  },
  "datascript.txt::datascript.txt_71": {
   "source": "Welcome to the POKéMON WIRELESS\\nCLUB DIRECT CORNER.\\pYou may interact directly with\\nyour friends here.\\pWhich room would you like to\\nenter?",
-  "target": "",
-  "status": "new",
+  "target": "Witamy w Pokoju Przymierza Bezprzewodowego\\nKlubu Pokémon.\\pMożesz wchodzić tu w bezpośrednie interakcje\\nz wieloma Trenerami.\\pCzy chcesz wejść do\\npokoju?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791735102.012945,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_382": {
   "source": "BLUE SHARD",
@@ -98166,6 +98178,18 @@
   "updated": 1791656101.731001,
   "touched": true
  },
+ "datascript.txt::datascript.txt_74": {
+  "source": "Would you like to use the\\nBERRY CRUSH System?",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791735111.4303277,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_471": {
   "source": "TOYS",
   "target": "",
@@ -98175,13 +98199,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586287.4148803
- },
- "datascript.txt::datascript.txt_74": {
-  "source": "Would you like to use the\\nBERRY CRUSH System?",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "src.txt::src.txt_327": {
   "source": "A sandstorm brewed!",
@@ -105041,10 +105058,11 @@
  },
  "datascript.txt::datascript.txt_80": {
   "source": "The TRAINERS in the UNION ROOM\\nwill be those players around you\\lwho have also entered the ROOM.\\pYou may do all sorts of things\\nhere, such as exchanging greetings.\\pYou may enter two POKéMON up to\\nLv. 30 for a one-on-one battle.\\pYou may take part in a chat with\\ntwo to five people.\\pOr, you may register a POKéMON for\\ntrade.\\pWould you like to enter the ROOM?",
-  "target": "Trenerzy w Pokoju Przymierza są\\nwill be those players around you\\lwho have also entered the ROOM.\\pYou may do all sorts of things\\nhere, such as exchanging greetings.\\pDo walki jeden-na-jeden możesz zabrać\\nze sobą dwa Pokémony do Lv. 30.\\pYou may take part in a chat with\\ntwo to five people.\\pOr, you may register a POKéMON for\\nwymianie.\\pCzy chcesz wejść do pokoju?",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
   "updated": 1791735075.2078567,
   "touched": true
