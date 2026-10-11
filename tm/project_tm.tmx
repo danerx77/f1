@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T155258Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T162010Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -238979,38 +238979,6 @@
       <tuv xml:lang="pl"><seg>Pokémon Nćutico</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>Would you like to trade POKéMON?</seg></tuv>
-      <tuv xml:lang="pl"><seg>Czy chcesz wymienić Pokémona?</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Which Battle Mode would you like\nto play?</seg></tuv>
-      <tuv xml:lang="pl"><seg>W którym trybie rozgrywki chciałbyś\nzagrać?</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>There are three Battle Modes.\pSINGLE BATTLE is for two TRAINERS\nwith one or more POKéMON each.\pEach TRAINER can have one POKéMON\nin battle at a time.\pDOUBLE BATTLE is for two TRAINERS\nwith two or more POKéMON each.\pEach TRAINER will send out two\nPOKéMON in battle at a time.\pMULTI BATTLE is for four TRAINERS\nwith one or more POKéMON each.\pEach TRAINER can have one POKéMON\nin battle at a time.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Istnieje trzy typy walk.\pwalk.\nWalki Pojedyncze to pojedynki między\ndwoma Trenerami z przynajmniej \pjednym Pokémonem.\pKażdy Trener może mieć w walce\ntylko jednego Pokémona na raz.\pWalki Podwójne to tryb dla dwóch\nTrenerów z minimum dwoma Pokémonami.\pMulti Walki to tryb dla czterech\nTrenerów z przynajmniej jednym\pPokémonem.\nKażdy Trener może mieć w walce\ptylko jednego</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Please decide which of you two\nwill become the LEADER.\pThe other player must then choose\n“JOIN GROUP.”</seg></tuv>
-      <tuv xml:lang="pl"><seg>Proszę zdecydować kto\nzostanie liderem. Drugi\pgracz musi wybrać opcję \n“DOŁĄCZ DO GRUPY.”</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Please decide which of you will\nbecome the GROUP LEADER.\pThe other players must then choose\n“JOIN GROUP.”</seg></tuv>
-      <tuv xml:lang="pl"><seg>Proszę zdecydować kto\nzostanie liderem. Drugi\pgracz musi wybrać opcję \n“DOŁĄCZ DO GRUPY.”</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Please decide which of you four\nwill become the GROUP LEADER.\pThe other players must then choose\n“JOIN GROUP.”</seg></tuv>
-      <tuv xml:lang="pl"><seg>Proszę zadecydować kto\nzostanie liderem. Pozostali\pgracze muszą wybrać opcje \n“DOŁĄCZ DO GRUPY.”</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>I hope you enjoy your time in\nthe UNION ROOM.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Życzę miłej zabawy!</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Welcome to the POKéMON WIRELESS\nCLUB DIRECT CORNER.\pYou may interact directly with\nyour friends here.\pWhich room would you like to\nenter?</seg></tuv>
-      <tuv xml:lang="pl"><seg>Witamy w Pokoju Przymierza Bezprzewodowego\nKlubu Pokémon.\pMożesz wchodzić tu w bezpośrednie interakcje\nz wieloma Trenerami.\pCzy chcesz wejść do\npokoju?</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>You may battle with your friends\nhere.</seg></tuv>
       <tuv xml:lang="pl"><seg>Walczyć możesz ze swoimi znajomymi.</seg></tuv>
     </tu>
@@ -239320,7 +239288,75 @@
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Own move type: DARK</seg></tuv>
-      <tuv xml:lang="pl"><seg>Własny ruch Typ: Mroczny</seg></tuv>
+      <tuv xml:lang="pl"><seg>Własny ruch Typ: MROCZNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own POKéMON type: DARK</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMON typ: MROCZNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own move type: ROCK</seg></tuv>
+      <tuv xml:lang="pl"><seg>Własny ruch Typ: KAMIENNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own POKéMON type: ROCK</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMON typ: KAMIENNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I hope you enjoy your time in\nthe UNION ROOM.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Życzę miłej zabawy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Would you like to trade POKéMON?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy chcesz wymienić Pokémona?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Welcome to the POKéMON WIRELESS\nCLUB DIRECT CORNER.\pYou may interact directly with\nyour friends here.\pWhich room would you like to\nenter?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witamy w Pokoju Przymierza Bezprzewodowego\nKlubu Pokémon.\pMożesz wchodzić tu w bezpośrednie interakcje\nz wieloma Trenerami.\pCzy chcesz wejść do\npokoju?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Which Battle Mode would you like\nto play?</seg></tuv>
+      <tuv xml:lang="pl"><seg>W którym trybie rozgrywki chciałbyś\nzagrać?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Would you like to use the\nBERRY CRUSH System?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy chcesz zapisać wyniki przez\nBERRY CRUSH System?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are three Battle Modes.\pSINGLE BATTLE is for two TRAINERS\nwith one or more POKéMON each.\pEach TRAINER can have one POKéMON\nin battle at a time.\pDOUBLE BATTLE is for two TRAINERS\nwith two or more POKéMON each.\pEach TRAINER will send out two\nPOKéMON in battle at a time.\pMULTI BATTLE is for four TRAINERS\nwith one or more POKéMON each.\pEach TRAINER can have one POKéMON\nin battle at a time.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Istnieje trzy typy walk.\pWalki Pojedyncze to pojedynki między\ndwoma Trenerami z przynajmniej \pjednym Pokémonem.\pKażdy Trener może mieć w walce\ntylko jednego Pokémona na raz.\pWalki Podwójne to tryb dla dwóch\nTrenerów z minimum dwoma Pokémonami.\pMulti Walki to tryb dla czterech\nTrenerów z przynajmniej jednym\pPokémonem.\nKażdy Trener może mieć w walce\ptylko jednego</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please decide which of you two\nwill become the LEADER.\pThe other player must then choose\n“JOIN GROUP.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Proszę zdecydować kto\nzostanie liderem. Drugi\pgracz musi wybrać opcję \n“DOŁĄCZ DO GRUPY.”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please decide which of you four\nwill become the GROUP LEADER.\pThe other players must then choose\n“JOIN GROUP.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Proszę zadecydować kto\nzostanie liderem. Pozostali\pgracze muszą wybrać opcje \n“DOŁĄCZ DO GRUPY.”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please decide which of you will\nbecome the GROUP LEADER.\pThe other players must then choose\n“JOIN GROUP.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Proszę zdecydować kto\nzostanie liderem. Drugi\pgracz musi wybrać opcję \n“DOŁĄCZ DO GRUPY.”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Welcome to the POKéMON WIRELESS\nCLUB UNION ROOM.\pYou may interact directly with\nother TRAINERS here, some of\lwhom you may not even know.\pWould you like to enter the ROOM?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witamy w Pokoju Przymierza Bezprzewodowego\nKlubu Pokémon.\pMożesz wchodzić tu w\nbezpośrednie interakcje\lz wieloma Trenerami.\pTrenerami. Czy chcesz wejść do pokoju?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The TRAINERS in the UNION ROOM\nwill be those players around you\lwho have also entered the ROOM.\pYou may do all sorts of things\nhere, such as exchanging greetings.\pYou may enter two POKéMON up to\nLv. 30 for a one-on-one battle.\pYou may take part in a chat with\ntwo to five people.\pOr, you may register a POKéMON for\ntrade.\pWould you like to enter the ROOM?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Trenerzy w Pokoju Przymierza są\ngracze z twojego otoczenia\lktórzy również weszli do POKOJU.\pMożesz tu robić różne\nrzeczy, na przykład wymieniać pozdrowienia.\pDo walki jeden-na-jeden możesz zabrać\nze sobą dwa Pokémony do Lv. 30.\pMożesz wziąć udział w czacie z\nod dwóch do pięciu osób\pMożesz też zarejestrować\nPOKéMONA do wymiany.\pCzy chcesz wejść do pokoju?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Cancels the selected MENU item.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Anuluje wybraną pozycję MENU.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Which POKéMON would you like to\nenter?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Którego Pokémona chcesz wybrać?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All right, come again!</seg></tuv>
+      <tuv xml:lang="pl"><seg>W porządku, żegnamy!</seg></tuv>
     </tu>
   </body>
 </tmx>
