@@ -13012,7 +13012,10 @@
   "target": "{DPAD_LEFTRIGHT}SERIE {DPAD_DOWN}ZAKŁAD {A_BUTTON} STOP {B_BUTTON}WRÓĆ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791736592.7259588,
+  "touched": true
  },
  "src.txt::src.txt_1520": {
   "source": "HALL OF FAME",
@@ -35123,17 +35126,22 @@
   "translator": "Antrix",
   "updated": 1791586294.9528267
  },
- "srcdatatext.txt::srcdatatext.txt_127": {
-  "source": "THICK FAT",
-  "target": "OTYŁOŚĆ",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "datatext.txt::datatext.txt_712": {
   "source": "Own POKéMON type: FIGHTING",
   "target": "",
   "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736571.4562368,
+  "touched": true
+ },
+ "srcdatatext.txt::srcdatatext.txt_127": {
+  "source": "THICK FAT",
+  "target": "OTYŁOŚĆ",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -104000,7 +104008,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736552.735129,
+  "updated": 1791736569.5104074,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1167": {
