@@ -35244,10 +35244,14 @@
  },
  "datascript.txt::datascript.txt_75": {
   "source": "There are three Battle Modes.\\pSINGLE BATTLE is for two TRAINERS\\nwith one or more POKéMON each.\\pEach TRAINER can have one POKéMON\\nin battle at a time.\\pDOUBLE BATTLE is for two TRAINERS\\nwith two or more POKéMON each.\\pEach TRAINER will send out two\\nPOKéMON in battle at a time.\\pMULTI BATTLE is for four TRAINERS\\nwith one or more POKéMON each.\\pEach TRAINER can have one POKéMON\\nin battle at a time.",
-  "target": "",
-  "status": "new",
+  "target": "Istnieje trzy typy walk.\\pWalki Pojedyncze to pojedynki między\\ndwoma Trenerami z przynajmniej \\pjednym Pokémonem.\\pKażdy Trener może mieć w walce\\ntylko jednego Pokémona na raz.\\pWalki Podwójne to tryb dla dwóch\\nTrenerów z minimum dwoma Pokémonami.\\pMulti Walki to tryb dla czterech\\nTrenerów z przynajmniej jednym\\pPokémonem.\\nKażdy Trener może mieć w walce\\ptylko jednego",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791735155.2544148,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_389": {
   "source": "<<< FILE: src/data/pokemon/pokedex_text_fr.h >>>",
@@ -98180,14 +98184,13 @@
  },
  "datascript.txt::datascript.txt_74": {
   "source": "Would you like to use the\\nBERRY CRUSH System?",
-  "target": "",
-  "status": "new",
+  "target": "Czy chcesz zapisać wyniki przez\\nBERRY CRUSH System?",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791735111.4303277,
+  "updated": 1791735133.6975622,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_471": {
