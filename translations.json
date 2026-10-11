@@ -38434,13 +38434,13 @@
  },
  "datatext.txt::datatext.txt_710": {
   "source": "Own POKéMON type: PSYCHIC",
-  "target": "Own POKéMON type: FIRE",
+  "target": "POKéMON typ: PSYCHO",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736432.7256055,
+  "updated": 1791736445.3351808,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1056": {
@@ -83471,7 +83471,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736428.2634053,
+  "updated": 1791736442.7705443,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_706": {
@@ -103973,7 +103973,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791734569.1203277,
+  "updated": 1791736436.6224222,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_351": {
@@ -103994,10 +103994,14 @@
  },
  "datatext.txt::datatext.txt_711": {
   "source": "Own move type: FIGHTING",
-  "target": "",
-  "status": "new",
+  "target": "Own move Typ: WALCZĄCY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736472.7363534,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1167": {
   "source": "SUPER NERD",
