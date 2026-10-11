@@ -38728,13 +38728,13 @@
  },
  "datatext.txt::datatext.txt_527": {
   "source": "  Using “WITHDRAW”",
-  "target": "  Użył “WITHDRAW”",
+  "target": "  Użył “PODEJMIJ”",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733088.4915671,
+  "updated": 1791733112.9046254,
   "touched": true
  },
  "src.txt::src.txt_1306": {
@@ -47599,10 +47599,14 @@
  },
  "datatext.txt::datatext.txt_532": {
   "source": "  Using “WITHDRAW ITEM”",
-  "target": "",
-  "status": "new",
+  "target": "  Użył “PODEJMIJ PRZEDMIOT”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733128.5249443,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1934": {
   "source": "MYMO",
