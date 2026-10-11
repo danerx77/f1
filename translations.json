@@ -1735,17 +1735,21 @@
   "translator": "Antrix",
   "updated": 1791586288.8487375
  },
- "data maps.txt::data maps.txt_2538": {
-  "source": "Gaah!\\nDemolished!",
-  "target": "Gah!\\nRozgromiony!",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "datascript.txt::datascript.txt_60": {
   "source": "Hi, welcome!\\nYou can play games over the\\lWireless Communication System.\\pCan you wait just a little bit?",
   "target": "",
   "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791736325.275951,
+  "touched": true
+ },
+ "data maps.txt::data maps.txt_2538": {
+  "source": "Gaah!\\nDemolished!",
+  "target": "Gah!\\nRozgromiony!",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -59172,7 +59176,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791656088.2554176,
+  "updated": 1791736351.508951,
   "touched": true
  },
  "src.txt::src.txt_593": {
