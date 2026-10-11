@@ -2419,3 +2419,12 @@
 {"time": "2026-10-11T17:05:45", "file": "datatext.txt", "seg_id": "datatext.txt_348", "source": "MAN", "old": "", "new": "MĘŻCZYZNA", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:06:39", "file": "datatext.txt", "seg_id": "datatext.txt_345", "source": "LITTLE GIRL", "old": "", "new": "DZIEWCZYNKA", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:06:39", "file": "datatext.txt", "seg_id": "datatext.txt_345", "source": "LITTLE GIRL", "old": "", "new": "DZIEWCZYNKA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:07:16", "file": "datatext.txt", "seg_id": "datatext.txt_338", "source": "YOUNG MAN", "old": "", "new": "MŁODZIENIEC", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:07:16", "file": "datatext.txt", "seg_id": "datatext.txt_338", "source": "YOUNG MAN", "old": "", "new": "MŁODZIENIEC", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:07:23", "file": "datatext.txt", "seg_id": "datatext.txt_335", "source": "WOMAN", "old": "", "new": "KOBIETA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:07:23", "file": "datatext.txt", "seg_id": "datatext.txt_335", "source": "WOMAN", "old": "", "new": "KOBIETA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:07:26", "file": "datatext.txt", "seg_id": "datatext.txt_336", "source": "LITTLE GIRL", "old": "", "new": "DZIEWCZYNKA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:07:26", "file": "datatext.txt", "seg_id": "datatext.txt_336", "source": "LITTLE GIRL", "old": "", "new": "DZIEWCZYNKA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:07:40", "file": "datatext.txt", "seg_id": "datatext.txt_330", "source": "POKéMON JOURNAL", "old": "POKéMON JOURNAL", "new": "DZIENNIK POKéMON", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:07:40", "file": "datatext.txt", "seg_id": "datatext.txt_330", "source": "POKéMON JOURNAL", "old": "POKéMON JOURNAL", "new": "DZIENNIK POKéMON", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:07:51", "file": "datatext.txt", "seg_id": "datatext.txt_326", "source": "CRUSHER", "old": "ŁAMACZ", "new": "", "translator": "Antrix", "method": "clear"}
