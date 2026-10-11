@@ -2596,3 +2596,8 @@
 {"time": "2026-10-11T17:41:45", "file": "datatext.txt", "seg_id": "datatext.txt_534", "source": "  Using “MAILBOX”", "old": "", "new": "  Użył “MAILBOX”", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:41:53", "file": "datatext.txt", "seg_id": "datatext.txt_534", "source": "  Using “MAILBOX”", "old": "  Użył “MAILBOX”", "new": "  Użył \\qoshift\\qc “LISTY”", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:41:53", "file": "datatext.txt", "seg_id": "datatext.txt_534", "source": "  Using “MAILBOX”", "old": "  Użył “MAILBOX”", "new": "  Użył \\qoshift\\qc “LISTY”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:42:28", "file": "datatext.txt", "seg_id": "datatext.txt_534", "source": "  Using “MAILBOX”", "old": "  Użył \\qoshift\\qc “LISTY”", "new": "  Użył \\ “LISTY”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:42:28", "file": "datatext.txt", "seg_id": "datatext.txt_534", "source": "  Using “MAILBOX”", "old": "  Użył \\ “LISTY”", "new": "  Użył  “LISTY”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:42:29", "file": "datatext.txt", "seg_id": "datatext.txt_534", "source": "  Using “MAILBOX”", "old": "  Użył  “LISTY”", "new": "  Użył “LISTY”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:42:29", "file": "datatext.txt", "seg_id": "datatext.txt_534", "source": "  Using “MAILBOX”", "old": "  Użył “LISTY”", "new": "  Użył“LISTY”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:42:30", "file": "datatext.txt", "seg_id": "datatext.txt_534", "source": "  Using “MAILBOX”", "old": "  Użył“LISTY”", "new": "  Użył “LISTY”", "translator": "Antrix", "method": "manual"}

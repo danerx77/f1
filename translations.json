@@ -106036,13 +106036,13 @@
  },
  "datatext.txt::datatext.txt_534": {
   "source": "  Using “MAILBOX”",
-  "target": "  Użył “MAILBOX”",
+  "target": "  Użył  “LISTY”",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733309.5537791,
+  "updated": 1791733349.5329862,
   "touched": true
  },
  "data maps.txt::data maps.txt_1593": {
