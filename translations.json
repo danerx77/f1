@@ -14206,12 +14206,12 @@
  },
  "datascript.txt::datascript.txt_62": {
   "source": "The Wireless Adapter isn't\\nconnected.\\pCome back when it's hooked up!",
-  "target": "The Wireless Adapter isn't\\npołączenie.\\pWróć, gdy będzie trochę lżejsza.",
+  "target": "The Wireless Adapter nie jestisn't\\npołączony.\\pWróć, gdy będzie połączony.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791736232.6905658,
+  "updated": 1791736272.6870232,
   "touched": true
  },
  "data maps.txt::data maps.txt_1758": {
@@ -68215,17 +68215,17 @@
   "translator": "Antrix",
   "updated": 1791587780.1968994
  },
- "data.txt::data.txt_47": {
-  "source": "Thank you for using the STAMP CARD\\nSystem.\\pYou have {STR_VAR_1} more to collect to\\nfill your STAMP CARD.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
- },
  "srcdata.txt::srcdata.txt_896": {
   "source": "A peculiar stone that makes certain\\\\nspecies of POKéMON evolve.\\\\nIt is as red as the sun.",
   "target": "Szczególny kamień powodujący, że\\\\nniektóre POKéMONY ewoluują.\\\\nJest czerwony jak słońce.",
   "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
+ "data.txt::data.txt_47": {
+  "source": "Thank you for using the STAMP CARD\\nSystem.\\pYou have {STR_VAR_1} more to collect to\\nfill your STAMP CARD.",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false
  },
