@@ -20344,10 +20344,13 @@
  },
  "datascript.txt::datascript.txt_55": {
   "source": "It appears as if {STR_VAR_1} is playing\\nright now.\\lGo for it!",
-  "target": "",
-  "status": "new",
+  "target": "Wygląda na to, że\\n {STR_VAR_1} is playing\\nwłaśnie przerwę.\\lRuszaj!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791741296.1732514,
+  "touched": true
  },
  "datatext.txt::datatext.txt_903": {
   "source": "Ah, you've finally topped 50\\nspecies!\\pI've given one of my AIDES an EXP.\\nSHARE. Be sure to go get it!",
