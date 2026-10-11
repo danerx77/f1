@@ -36708,10 +36708,14 @@
  },
  "datascript.txt::datascript.txt_61": {
   "source": "All right, come again!",
-  "target": "",
-  "status": "new",
+  "target": "W porządkuPORZĄDKU, żegnamy!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791735595.2425947,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1031": {
   "source": "OAK: {PLAYER}, raise your young\\nPOKéMON by making it battle.\\pIt has to battle for it to grow.",
@@ -90574,7 +90578,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791735560.9208872,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2942": {
   "source": "I saw an odd BERRY in the trash.\\nI wonder what that was?",
@@ -107105,13 +107114,13 @@
  },
  "datascript.txt::datascript.txt_64": {
   "source": "Which POKéMON would you like to\\nenter?",
-  "target": "Którego Pokémona chcesz podejrzeć?",
+  "target": "Którego Pokémona chcesz wybrać?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791735555.2456992,
+  "updated": 1791735560.0343354,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_334": {
