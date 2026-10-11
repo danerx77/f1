@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T152456Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T153930Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -12749,10 +12749,6 @@
     <tu>
       <tuv xml:lang="en"><seg>It's crammed full of POKéMON\nbooks.</seg></tuv>
       <tuv xml:lang="pl"><seg>Zawalone książkami o\nPOKéMONACH.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>A TOWN MAP.</seg></tuv>
-      <tuv xml:lang="pl"><seg>MAPA.</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Wow!\nTons of POKéMON stuff!</seg></tuv>
@@ -89095,10 +89091,6 @@
       <tuv xml:lang="pl"><seg>Using \qoPOKéDEX\qc</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>You may buy POKé BALLS at any\nPOKéMON MART in any town.\lYou will not find POKéMON MARTS on\lroads, in forests, or in caves.\lStock up on POKé BALLS while you are\lvisiting a town with a POKéMON MART.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Using \qoPOKéMON\qc</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>A TRAINER is a person who raises\nPOKéMON through battling.\lTRAINERS will challenge you \lwherever they are - it could be on\la road, in forests, caves, anywhere.\lIf your eyes meet, you have to accept\ltheir challenge. So be careful!</seg></tuv>
       <tuv xml:lang="pl"><seg>Using \qoSUMMARY\qc</seg></tuv>
     </tu>
@@ -89133,10 +89125,6 @@
     <tu>
       <tuv xml:lang="en"><seg>Unlike roads and forests, wild POKéMON\ncan appear anywhere in caves.\lIf your POKéMON are hurt in a cave,\lrush to a POKéMON CENTER or use items\lto heal them right away. It is very\ldangerous to force your luck in caves.</seg></tuv>
       <tuv xml:lang="pl"><seg>Using \qoOPTION\qc</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>POKéMON are living beings about which\nmany mysteries still remain. You may\lsee them in grass, the sea, and caves.\lThey appear to obey the wishes of the\lTRAINERS that caught them.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Using a move outside of battle</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>A HIDDEN move is taught to a POKéMON\nusing an HM (Hidden Machine).\lA HIDDEN move is important for helping\lyour adventure. For example, one is\lused to light up dark caves. Another\lcuts down small trees. There is one\lfor traveling on water, and so on.</seg></tuv>
@@ -92583,10 +92571,6 @@
       <tuv xml:lang="pl"><seg>Bywa przygnębiony, gdy nie zadaje\nsię z miłymi ludźmi. Potrafi lewitować\nbez poruszania skrzydłami.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>Use the FAME CHECKER among the\nKEY ITEMS in your BAG.\lIt may give you a hint, so try it out.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Jego runo rośnie cały czas. W lecie,\ngdy zostaje ścięte, odrasta w pełni w\nciągu tygodnia.</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>You can adjust how quickly the text is\ndisplayed. Choose one: SLOW, MID,\lor FAST.</seg></tuv>
       <tuv xml:lang="pl"><seg>Końcówka jego ogona służy jako boja,\ndzięki której nie tonie nawet przy\nporywczych prądach.</seg></tuv>
     </tu>
@@ -92979,10 +92963,6 @@
       <tuv xml:lang="pl"><seg>DZIENNIK POKéMON\pFunkcja specjalna: FUCHSIA GYM\nLIDER KOGA!\pMówi się, że\nKOGA ma dogłębną wiedzę medyczną.\pnawet sporządza lekarstwa,\naby wyleczyć swoje POKéMONY.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's BRUNO!\pBRUNO apparently joined the ELITE\nFOUR out of his burning ambition to\lbattle the best TRAINERS.</seg></tuv>
-      <tuv xml:lang="pl"><seg>DZIENNIK POKéMON\pFunkcja specjalna:\nELITRNA CZWÓRKA BRUNO!\pBRUNO\nnajwyraźniej dołączył\pdo ELITARNEJ CZWÓRKI z powodu\nswojej palącej ambicji walki z\lnajlepszymi TRENERAMI.</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's AGATHA!\pIn her youth, AGATHA and PROF.\nOAK were rivals who vied for\lsupremacy as TRAINERS.</seg></tuv>
       <tuv xml:lang="pl"><seg>W młodości\nAGATA i PROF.\pOAK byli rywalami, którzy\nrywalizowali o dominację\ljako TRENERÓW.</seg></tuv>
     </tu>
@@ -92997,46 +92977,6 @@
     <tu>
       <tuv xml:lang="en"><seg>{STR_VAR_1} used SWEET SCENT to attract\nwild POKéMON.</seg></tuv>
       <tuv xml:lang="pl"><seg>{STR_VAR_1} użył SWEET SCENT by\nprzyciągnąć POKéMONY.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's AGATHA!\pIn her youth, AGATHA and PROF.\nOAK were rivals who vied for\lsupremacy as TRAINERS.</seg></tuv>
-      <tuv xml:lang="pl"><seg>DZIENNIK POKéMON\pFunkcja specjalna:\nELITRNA CZWÓRKA AGATHA!\p W młodości\pAGATA i\nPROF. OAK byli\prywalami, którzy\nrywalizowali o dominację\ljako TRENERÓW.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature: PEWTER GYM\nLEADER BROCK!\pBROCK rarely laughs, but is said to\nbe unable to stop if he starts.</seg></tuv>
-      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja specjalna: PEWTER GYM\nLIDER BROCK!\pBROCK rzadko się śmieje,\nale podobno nie może przestać, jeśli zacznie.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature: CERULEAN GYM\nLEADER MISTY!\pMISTY is said to worship LORELEI\nof the ELITE FOUR.</seg></tuv>
-      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja specjalna: CERULEAN GYM\nLIDER MISTY!\pMISTY podobno\nczci LORELEI z ELITARNEJ CZWÓRKI.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature: SAFFRON GYM\nLEADER SABRINA!\pPeople say that SABRINA can\ncommunicate with her POKéMON\lduring battle without speaking.</seg></tuv>
-      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja Specjalna: CELADON GYM\nLIDER: SABRINA\pLudzie mówią, że\nSABRINA potrafi komunikować się ze swoimi\lpokémonami podczas walki bez mówienia.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature: CINNABAR GYM\nLEADER BLAINE!\pBLAINE is said to remove his dark\nshades only when he is thinking up\lnew quiz questions.</seg></tuv>
-      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja Specjalna: CINNABAR GYM\nLIDER: BLAINE\pMówi się, że BLAINE\nzdejmuje swoje ciemne okulary tylko wtedy,\lgdy wymyśla nowe pytania do quizu.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's LORELEI!\pKnown for her logical, calculated,\nand cool battling style, LORELEI\lhas a surprising secret!</seg></tuv>
-      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja Specjalna:\nELITRNA CZWÓRKA LORELEI!\pZnana ze swojego\nlogicznego, przemyślanego i opanowanego STYLU\lwalki, LORELEI ma zaskakującą tajemnicę!</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's LANCE!\pLANCE's grandfather is thought to\nbe the elder of a famous clan of\ldragon masters.</seg></tuv>
-      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja Specjalna:\nELITRNA CZWÓRKA LANCE!\p uważa się,\nże dziadek LANCE jest starszym\lsłynnego klanu smoczych władców.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature: PROF. OAK,\nthe POKéMON Researcher!\pPROF. OAK reportedly lives with his\ngrandchildren DAISY and {RIVAL}.</seg></tuv>
-      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja Specjalna: PROF. OAK\nOAK, badacz POKéMON\pWedług doniesień PROF.OAK\nmieszka ze swoimi wnukami, DAISY i {RIVAL}.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>This is a POKéMON JOURNAL from\nyears ago…\pPOKéMON JOURNAL\nCONTEST Special!\pThe Spring POKéMON CONTEST's\nGrand Champion is DAISY OAK of\lPALLET TOWN!</seg></tuv>
-      <tuv xml:lang="pl"><seg>To jest DZIENNIK POKéMON \nsprzed lat…\pDZIENNIK POKéMON\nPOKéMON Specjalny!\pWiosennym Wielkim\nMistrzem KONKURSU POKéMON jest DAISY\lOAK Z PALLET TOWN!</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature:\nMR. FUJI of POKéMON HOUSE!\pEditor: The shy MR. FUJI turned\ndown our interview requests.\pHe is a kindly man who is adored\nand respected in LAVENDER TOWN.</seg></tuv>
-      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja Specjalna:\nMR. FUJI z DOMU POKéMON!\pWydawca: Nieśmiały pan. FUJI\nodrzuciło nasze prośby o rozmowę kwalifikacyjną.\pTo życzliwy człowiek, uwielbiany\ni szanowany w LAVENDER TOWN.</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>SIGN</seg></tuv>
@@ -93061,38 +93001,6 @@
     <tu>
       <tuv xml:lang="en"><seg>Using “ITEM”</seg></tuv>
       <tuv xml:lang="pl"><seg>Użył “ITEM”</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Using an item</seg></tuv>
-      <tuv xml:lang="pl"><seg>Użyć przdmiotu</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Using a key item</seg></tuv>
-      <tuv xml:lang="pl"><seg>Użył przedmiotu kluczowy</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Using a POKé BALL</seg></tuv>
-      <tuv xml:lang="pl"><seg>Użył POKé BALL</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Using a POTION</seg></tuv>
-      <tuv xml:lang="pl"><seg>Użył MIKSTURY</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Using the TOWN MAP</seg></tuv>
-      <tuv xml:lang="pl"><seg>Użył MAPY</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Using a move outside of battle</seg></tuv>
-      <tuv xml:lang="pl"><seg>Użył ruchu poza walką</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Riding the BICYCLE</seg></tuv>
-      <tuv xml:lang="pl"><seg>Jazda na ROWERZE</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Entering a name</seg></tuv>
-      <tuv xml:lang="pl"><seg>Wprowadzanie nazwy</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Survey Report:</seg></tuv>
@@ -239231,6 +239139,22 @@
       <tuv xml:lang="pl"><seg>{B_SCR_ACTIVE_NAME_WITH_PREFIX} - {B_LAST_ITEM}\nleczy poparzenia!</seg></tuv>
     </tu>
     <tu>
+      <tuv xml:lang="en"><seg>LITTLE GIRL</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIEWCZYNKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WOMAN</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOBIETA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON JOURNAL</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIENNIK POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>YOUNG MAN</seg></tuv>
+      <tuv xml:lang="pl"><seg>MŁODZIENIEC</seg></tuv>
+    </tu>
+    <tu>
       <tuv xml:lang="en"><seg>LITTLE BOY</seg></tuv>
       <tuv xml:lang="pl"><seg>CHŁOPIEC</seg></tuv>
     </tu>
@@ -239239,20 +239163,108 @@
       <tuv xml:lang="pl"><seg>MĘŻCZYZNA</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>YOUNG MAN</seg></tuv>
-      <tuv xml:lang="pl"><seg>MŁODZIENIEC</seg></tuv>
+      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature: PEWTER GYM\nLEADER BROCK!\pBROCK rarely laughs, but is said to\nbe unable to stop if he starts.</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja specjalna: PEWTER GYM\nLIDER BROCK!\pBROCK rzadko się śmieje,\nale podobno nie może przestać, jeśli zacznie.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>LITTLE GIRL</seg></tuv>
-      <tuv xml:lang="pl"><seg>DZIEWCZYNKA</seg></tuv>
+      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature: CERULEAN GYM\nLEADER MISTY!\pMISTY is said to worship LORELEI\nof the ELITE FOUR.</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja specjalna: CERULEAN GYM\nLIDER MISTY!\pMISTY podobno\nczci LORELEI z ELITARNEJ CZWÓRKI.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>POKéMON JOURNAL</seg></tuv>
-      <tuv xml:lang="pl"><seg>DZIENNIK POKéMON</seg></tuv>
+      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature: SAFFRON GYM\nLEADER SABRINA!\pPeople say that SABRINA can\ncommunicate with her POKéMON\lduring battle without speaking.</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja Specjalna: CELADON GYM\nLIDER: SABRINA\pLudzie mówią, że\nSABRINA potrafi komunikować się ze swoimi\lpokémonami podczas walki bez mówienia.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>WOMAN</seg></tuv>
-      <tuv xml:lang="pl"><seg>KOBIETA</seg></tuv>
+      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature: CINNABAR GYM\nLEADER BLAINE!\pBLAINE is said to remove his dark\nshades only when he is thinking up\lnew quiz questions.</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja Specjalna: CINNABAR GYM\nLIDER: BLAINE\pMówi się, że BLAINE\nzdejmuje swoje ciemne okulary tylko wtedy,\lgdy wymyśla nowe pytania do quizu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's LORELEI!\pKnown for her logical, calculated,\nand cool battling style, LORELEI\lhas a surprising secret!</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja Specjalna:\nELITRNA CZWÓRKA LORELEI!\pZnana ze swojego\nlogicznego, przemyślanego i opanowanego STYLU\lwalki, LORELEI ma zaskakującą tajemnicę!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's BRUNO!\pBRUNO apparently joined the ELITE\nFOUR out of his burning ambition to\lbattle the best TRAINERS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIENNIK POKéMON\pFunkcja specjalna:\nELITRNA CZWÓRKA BRUNO!\pBRUNO\nnajwyraźniej dołączył\pdo ELITARNEJ CZWÓRKI z powodu\nswojej palącej ambicji walki z\lnajlepszymi TRENERAMI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's AGATHA!\pIn her youth, AGATHA and PROF.\nOAK were rivals who vied for\lsupremacy as TRAINERS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIENNIK POKéMON\pFunkcja specjalna:\nELITRNA CZWÓRKA AGATHA!\p W młodości\pAGATA i\nPROF. OAK byli\prywalami, którzy\nrywalizowali o dominację\ljako TRENERÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's LANCE!\pLANCE's grandfather is thought to\nbe the elder of a famous clan of\ldragon masters.</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja Specjalna:\nELITRNA CZWÓRKA LANCE!\p uważa się,\nże dziadek LANCE jest starszym\lsłynnego klanu smoczych władców.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature: PROF. OAK,\nthe POKéMON Researcher!\pPROF. OAK reportedly lives with his\ngrandchildren DAISY and {RIVAL}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja Specjalna: PROF. OAK,\nOAK badacz POKéMON!\pWedług. doniesień PROF.OAK mieszka ze swoimi\nwnukami DAISY i {RIVAL}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is a POKéMON JOURNAL from\nyears ago…\pPOKéMON JOURNAL\nCONTEST Special!\pThe Spring POKéMON CONTEST's\nGrand Champion is DAISY OAK of\lPALLET TOWN!</seg></tuv>
+      <tuv xml:lang="pl"><seg>To jest DZIENNIK POKéMON\nsprzed lat…\pDZIENNIK POKéMON\nPOKéMON Specjalny!\pWiosennym Wielkim\nMistrzem KONKURSU POKéMON jest DAISY\lOAK Z PALLET TOWN!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON JOURNAL\pSpecial Feature:\nMR. FUJI of POKéMON HOUSE!\pEditor: The shy MR. FUJI turned\ndown our interview requests.\pHe is a kindly man who is adored\nand respected in LAVENDER TOWN.</seg></tuv>
+      <tuv xml:lang="pl"><seg>DZIENNIK POKÉMON\pFunkcja Specjalna:\nMR. FUJI z DOMU POKéMON!\pWydawca: Nieśmiały pan. FUJI\nodrzuciło nasze prośby o rozmowę kwalifikacyjną.\pTo życzliwy człowiek, uwielbiany\ni szanowany w LAVENDER TOWN.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A TOWN MAP.</seg></tuv>
+      <tuv xml:lang="pl"><seg>MAPA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using an item</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użyć przdmiotu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using a key item</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył przedmiotu kluczowy</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using a POKé BALL</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył POKé BALL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using a POTION</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył MIKSTURY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using the TOWN MAP</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył MAPY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using a move outside of battle</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył ruchu poza walką</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Riding the BICYCLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jazda na ROWERZE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Entering a name</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wprowadzanie nazwy</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “DEPOSIT”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “DEPONUJ”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “MOVE”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “RUCHU”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Moving items</seg></tuv>
+      <tuv xml:lang="pl"><seg>Używa przedmiotów</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “WITHDRAW”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “PODEJMIJ”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “WITHDRAW ITEM”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “PODEJMIJ PRZEDMIOT”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “DEPOSIT ITEM”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “DEPONUJ PRZEDMIOT”</seg></tuv>
     </tu>
   </body>
 </tmx>

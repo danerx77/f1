@@ -7562,10 +7562,14 @@
  },
  "datatext.txt::datatext.txt_533": {
   "source": "  Using “DEPOSIT ITEM”",
-  "target": "",
+  "target": "  Użył “DEPONUJ PRZEDMIOT”",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733168.5014722,
+  "touched": true
  },
  "src.txt::src.txt_1997": {
   "source": "GAME FREAK",
@@ -47605,7 +47609,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733128.5249443,
+  "updated": 1791733148.0688634,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1934": {
@@ -102872,7 +102876,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791732881.6949813,
+  "updated": 1791733139.4522166,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_765": {
