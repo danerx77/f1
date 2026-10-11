@@ -451,12 +451,14 @@
  },
  "srcdata.txt::srcdata.txt_934": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734936.2226725,
   "touched": true
  },
  "src.txt::src.txt_122": {
@@ -3697,10 +3699,15 @@
  },
  "srcdata.txt::srcdata.txt_939": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791734936.235839,
+  "touched": true
  },
  "src.txt::src.txt_1953": {
   "source": "{FONT_SMALL}-{FONT_NORMAL}",
@@ -8355,12 +8362,14 @@
  },
  "srcdata.txt::srcdata.txt_1062": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734950.616513,
   "touched": true
  },
  "src.txt::src.txt_138": {
@@ -9385,12 +9394,14 @@
  },
  "srcdata.txt::srcdata.txt_1063": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655765.765686,
+  "updated": 1791734950.61963,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1093": {
@@ -10149,10 +10160,14 @@
  },
  "srcdata.txt::srcdata.txt_936": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734936.2282789,
+  "touched": true
  },
  "datatext.txt::datatext.txt_794": {
   "source": "NEW NAME",
@@ -16496,10 +16511,15 @@
  },
  "srcdata.txt::srcdata.txt_1065": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791734950.627519,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_21": {
   "source": "ROUTE 7",
@@ -18327,12 +18347,14 @@
  },
  "srcdata.txt::srcdata.txt_910": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734915.5687935,
   "touched": true
  },
  "src.txt::src.txt_245": {
@@ -19298,12 +19320,14 @@
  },
  "srcdata.txt::srcdata.txt_907": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734915.21363,
+  "updated": 1791734915.5604763,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_47": {
@@ -21018,12 +21042,14 @@
  },
  "srcdata.txt::srcdata.txt_933": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655765.765686,
+  "updated": 1791734936.2183294,
   "touched": true
  },
  "datatext.txt::datatext.txt_1005": {
@@ -22441,12 +22467,14 @@
  },
  "srcdata.txt::srcdata.txt_908": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734915.5634234,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_163": {
@@ -40423,12 +40451,14 @@
  },
  "srcdata.txt::srcdata.txt_947": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655788.6980283,
+  "updated": 1791734936.2620153,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_688": {
@@ -40857,10 +40887,14 @@
  },
  "srcdata.txt::srcdata.txt_914": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734915.5790348,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_228": {
   "source": "PREPOSTEROUS",
@@ -47043,12 +47077,14 @@
  },
  "srcdata.txt::srcdata.txt_943": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977,
+  "updated": 1791734936.2501154,
   "touched": true
  },
  "src.txt::src.txt_1415": {
@@ -53076,12 +53112,14 @@
  },
  "srcdata.txt::srcdata.txt_945": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655788.6980283,
+  "updated": 1791734936.2558787,
   "touched": true
  },
  "data maps.txt::data maps.txt_2049": {
@@ -57382,12 +57420,14 @@
  },
  "srcdata.txt::srcdata.txt_948": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734936.264678,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1511": {
@@ -61127,10 +61167,14 @@
  },
  "srcdata.txt::srcdata.txt_946": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734936.2592444,
+  "touched": true
  },
  "src.txt::src.txt_1496": {
   "source": "BLACK",
@@ -64633,12 +64677,14 @@
  },
  "srcdata.txt::srcdata.txt_949": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655788.6980283,
+  "updated": 1791734936.2672987,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_459": {
@@ -73690,10 +73736,14 @@
  },
  "srcdata.txt::srcdata.txt_940": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734936.239215,
+  "touched": true
  },
  "src.txt::src.txt_2099": {
   "source": "\\nHiroyuki Nakamura\\nMasao Taya\\nSatoshi Nohara\\nMiyuki Iwasawa\\nDaisuke Goto\\n",
@@ -78015,12 +78065,14 @@
  },
  "srcdata.txt::srcdata.txt_912": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734915.5738852,
   "touched": true
  },
  "data maps.txt::data maps.txt_413": {
@@ -79555,12 +79607,14 @@
  },
  "srcdata.txt::srcdata.txt_935": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655788.6980283,
+  "updated": 1791734936.2257316,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_921": {
@@ -79684,12 +79738,14 @@
  },
  "srcdata.txt::srcdata.txt_909": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977,
+  "updated": 1791734915.5660517,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_220": {
@@ -80147,12 +80203,14 @@
  },
  "srcdata.txt::srcdata.txt_942": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734936.2465267,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1067": {
@@ -81116,12 +81174,14 @@
  },
  "srcdata.txt::srcdata.txt_941": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655765.765686,
+  "updated": 1791734936.2429278,
   "touched": true
  },
  "data maps.txt::data maps.txt_969": {
@@ -84494,12 +84554,14 @@
  },
  "srcdata.txt::srcdata.txt_913": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376339.2547708,
+  "updated": 1791734915.5764022,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1676": {
@@ -87047,12 +87109,14 @@
  },
  "srcdata.txt::srcdata.txt_920": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734924.8459857,
   "touched": true
  },
  "datatext.txt::datatext.txt_825": {
@@ -88522,12 +88586,14 @@
  },
  "srcdata.txt::srcdata.txt_950": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734936.2701495,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_675": {
@@ -88903,12 +88969,14 @@
  },
  "srcdata.txt::srcdata.txt_1066": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734950.6308708,
   "touched": true
  },
  "src.txt::src.txt_1852": {
@@ -92006,12 +92074,15 @@
  },
  "srcdata.txt::srcdata.txt_1061": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977
+  "updated": 1791734950.6129704,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_852": {
   "source": "Its boulder-like body is extremely hard.\\nIt can easily withstand dynamite blasts\\nwithout taking damage.",
@@ -92513,16 +92584,20 @@
   "notes": "",
   "ignored": false
  },
+ "srcdata.txt::srcdata.txt_938": {
+  "source": "?????",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734936.2333252,
+  "touched": true
+ },
  "src.txt::src.txt_1552": {
   "source": "ITEMS POCKET",
   "target": "KIESZEŃPRZEDMIOTÓW",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdata.txt::srcdata.txt_938": {
-  "source": "?????",
-  "target": "?????",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -93723,12 +93798,14 @@
  },
  "srcdata.txt::srcdata.txt_937": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655765.765686,
+  "updated": 1791734936.2308218,
   "touched": true
  },
  "src.txt::src.txt_1167": {
@@ -96193,12 +96270,15 @@
  },
  "srcdata.txt::srcdata.txt_919": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376339.2547708
+  "updated": 1791734924.8422053,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3117": {
   "source": "I'm sorry.\\nWe're not running any games today.",
@@ -98272,10 +98352,14 @@
  },
  "srcdata.txt::srcdata.txt_1064": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734950.6233106,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_694": {
   "source": "TOWN MAP",
@@ -98785,12 +98869,14 @@
  },
  "srcdata.txt::srcdata.txt_944": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734936.2529259,
   "touched": true
  },
  "data maps.txt::data maps.txt_40": {
@@ -107684,12 +107770,14 @@
  },
  "srcdata.txt::srcdata.txt_911": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655788.6980283,
+  "updated": 1791734915.5713382,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_429": {
