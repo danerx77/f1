@@ -14802,12 +14802,12 @@
  },
  "data.txt::data.txt_61": {
   "source": "Oh, I'm sorry, {PLAYER}. Your BAG's\\nKEY ITEMS POCKET is full.\\pPlease store something on your PC,\\nthen come back for this.",
-  "target": "Och, przepraszam, {PLAYER}. Kieszeń na\\n KLUCZOWE PRZEDMIOTY\\pw TWOJEJ TORBIE jest pełna.\\nProszę czegoś zapisz na swoim PC ,\\na potem wróć do tego.",
+  "target": "Och, przepraszam, {PLAYER}. Kieszeń na\\n KLUCZOWE PRZEDMIOTY\\pw TWOJEJ TORBIE jest pełna.\\nZapisz coś na swoim PC,\\pa następnie wróć po to.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791741056.159519,
+  "updated": 1791741094.9685204,
   "touched": true
  },
  "data maps.txt::data maps.txt_1348": {
