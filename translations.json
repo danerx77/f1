@@ -13940,7 +13940,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791584145.5605686,
+  "updated": 1791737192.7926662,
   "touched": true
  },
  "data maps.txt::data maps.txt_1228": {
@@ -34529,7 +34529,13 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791737170.15748,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_26": {
   "source": "A red-colored brick.\\nDecorations can be\\nplaced on top.",
@@ -55229,7 +55235,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791584160.395778,
+  "updated": 1791737187.9407182,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_357": {
@@ -71312,7 +71318,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791737152.7587113,
+  "updated": 1791737169.946803,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_619": {
@@ -76528,12 +76534,12 @@
  },
  "src.txt::src.txt_513": {
   "source": " is",
-  "target": " is",
+  "target": " jest",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791584160.395778,
+  "updated": 1791737181.1491609,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_190": {
