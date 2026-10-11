@@ -12949,7 +12949,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791656875.0676043,
+  "updated": 1791731426.20259,
   "touched": true
  },
  "src.txt::src.txt_2518": {
@@ -14463,7 +14463,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791656865.5739722,
+  "updated": 1791731422.9584541,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_144": {
@@ -46426,7 +46426,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791731386.2136106,
+  "updated": 1791731407.4685225,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_375": {
@@ -75363,7 +75363,10 @@
   "target": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BROCK jest świetny. Nie tylko silny.\\nLudzie lubią go i szanują.\\pChciałbym zostać LIDEREM SALI, tak\\njak on.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791731422.2461622,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_664": {
   "source": "It dislikes cold seasons. They migrate to\\nother lands in search of warmth, flying\\nover 180 miles a day.",
@@ -97572,6 +97575,16 @@
   "translator": "Antrix",
   "updated": 1790515694.9060466
  },
+ "datatext.txt::datatext.txt_317": {
+  "source": "OLD MAN",
+  "target": "STARZEC",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791731414.8302884,
+  "touched": true
+ },
  "src.txt::src.txt_1523": {
   "source": "EEVEE",
   "target": "EEVEE",
@@ -97582,13 +97595,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1790524797.9821374
- },
- "datatext.txt::datatext.txt_317": {
-  "source": "OLD MAN",
-  "target": "STARZEC",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
  },
  "srcdata.txt::srcdata.txt_1850": {
   "source": "LAMAR",
