@@ -10032,7 +10032,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791734415.5921679,
+  "updated": 1791734553.839685,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_522": {
@@ -56870,14 +56870,14 @@
  },
  "datatext.txt::datatext.txt_708": {
   "source": "Own POKéMON type: ROCK",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON typ: ",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791656809.3472576
+  "updated": 1791734553.4469569,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_595": {
   "source": "If spotted, it escapes by burrowing with\\nits tail. It can hover just slightly using\\nits wings.",
@@ -95977,13 +95977,13 @@
  },
  "datatext.txt::datatext.txt_707": {
   "source": "Own move type: ROCK",
-  "target": "Własny ruch Typ: Kamienny",
+  "target": "Własny ruch Typ: KAMIENNY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791734455.7665372,
+  "updated": 1791734555.1713676,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_2000": {
