@@ -4114,7 +4114,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736299.3346033,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1050": {
   "source": "When held by a POKéMON, it raises\\\\nthe SPEED stat in a pinch.",
@@ -14206,12 +14211,12 @@
  },
  "datascript.txt::datascript.txt_62": {
   "source": "The Wireless Adapter isn't\\nconnected.\\pCome back when it's hooked up!",
-  "target": "The Wireless Adapter nie jestisn't\\npołączony.\\pWróć, gdy będzie połączony.",
+  "target": "Wireless Adapter nie jest\\npołączony.\\pWróć, gdy będzie połączony!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791736272.6870232,
+  "updated": 1791736291.807705,
   "touched": true
  },
  "data maps.txt::data maps.txt_1758": {
