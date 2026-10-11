@@ -27721,7 +27721,8 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791734834.693964,
@@ -27957,12 +27958,14 @@
  },
  "srcdata.txt::srcdata.txt_710": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734853.0039794,
   "touched": true
  },
  "data maps.txt::data maps.txt_442": {
@@ -33600,10 +33603,12 @@
  },
  "srcdata.txt::srcdata.txt_733": {
   "source": "PREMIER BALL",
-  "target": "PREMIER BALL",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
   "updated": 1791655828.300248,
   "touched": true
@@ -46573,6 +46578,18 @@
   "notes": "",
   "ignored": false
  },
+ "srcdata.txt::srcdata.txt_709": {
+  "source": "????????",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791734853.0015507,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_5": {
   "source": "Gradually boosts SPEED.",
   "target": "Zwiększa SZYBKOŚĆ.",
@@ -46583,13 +46600,6 @@
   "translator": "Antrix",
   "updated": 1791587103.2394285,
   "touched": true
- },
- "srcdata.txt::srcdata.txt_709": {
-  "source": "????????",
-  "target": "????????",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_505": {
   "source": "Getting so serious over this…\\nHow nonsensical.",
@@ -55052,12 +55062,13 @@
  },
  "srcdata.txt::srcdata.txt_723": {
   "source": "DIVE BALL",
-  "target": "DIVE BALL",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
-  "cleared": true
+  "cleared": true,
+  "touched": true
  },
  "src.txt::src.txt_1142": {
   "source": "{START_BUTTON}CRY",
@@ -59302,7 +59313,8 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791734834.696516,
