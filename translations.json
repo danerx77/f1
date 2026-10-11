@@ -10026,14 +10026,13 @@
  },
  "datatext.txt::datatext.txt_706": {
   "source": "Own POKéMON type: DARK",
-  "target": "",
-  "status": "new",
+  "target": "MROCZNY",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733949.5922735,
+  "updated": 1791734396.7316573,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_522": {
@@ -97155,13 +97154,13 @@
  },
  "datatext.txt::datatext.txt_705": {
   "source": "Own move type: DARK",
-  "target": "Własny ruch Typ: Mroczny",
+  "target": "Własny ruch Typ: MROCZNY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733922.2143836,
+  "updated": 1791734390.9238904,
   "touched": true
  },
  "data maps.txt::data maps.txt_201": {
