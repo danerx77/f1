@@ -44867,7 +44867,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791737352.7882006,
+  "updated": 1791737359.4479373,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_951": {
@@ -47096,10 +47096,12 @@
  },
  "srcdatatext.txt::srcdatatext.txt_586": {
   "source": "{DYNAMIC 0x04}",
-  "target": "{DYNAMIC 0x04}",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
   "updated": 1791586371.8055081,
