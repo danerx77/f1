@@ -9261,10 +9261,14 @@
  },
  "datascript.txt::datascript.txt_79": {
   "source": "Welcome to the POKéMON WIRELESS\\nCLUB UNION ROOM.\\pYou may interact directly with\\nother TRAINERS here, some of\\lwhom you may not even know.\\pWould you like to enter the ROOM?",
-  "target": "",
-  "status": "new",
+  "target": "Witamy w Pokoju Przymierza Bezprzewodowego\\nKlubu Pokémon.\\pMożesz wchodzić tu w\\nbezpośrednie interakcje\\lz wieloma Trenerami.\\pTrenerami. Czy chcesz wejść do pokoju?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791735235.2640686,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3250": {
   "source": "If you get stuck, try moving some\\nboulders around.",
@@ -27128,10 +27132,14 @@
  },
  "datascript.txt::datascript.txt_78": {
   "source": "Please decide which of you will\\nbecome the GROUP LEADER.\\pThe other players must then choose\\n“JOIN GROUP.”",
-  "target": "",
-  "status": "new",
+  "target": "Proszę zdecydować kto\\nzostanie liderem. Drugi\\pgracz musi wybrać opcję \\n“DOŁĄCZ DO GRUPY.”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791735221.419382,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2020": {
   "source": "Lost!\\nLost! Lost!",
@@ -76655,7 +76663,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791735194.6084888,
+  "updated": 1791735210.1720307,
   "touched": true
  },
  "data maps.txt::data maps.txt_625": {
@@ -94491,10 +94499,14 @@
  },
  "datascript.txt::datascript.txt_77": {
   "source": "Please decide which of you four\\nwill become the GROUP LEADER.\\pThe other players must then choose\\n“JOIN GROUP.”",
-  "target": "",
-  "status": "new",
+  "target": "Proszę zadecydować kto\\nzostanie liderem. Pozostali\\pgracze muszą wybrać opcje \\n“DOŁĄCZ DO GRUPY.”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791735220.248355,
+  "touched": true
  },
  "src.txt::src.txt_1708": {
   "source": "TILES",
