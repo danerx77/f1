@@ -4,7 +4,7 @@
   "target_lang": "pl",
   "project_path": "C:\\Users\\L\\SuperCAT_Projects\\f1",
   "created_date": 1785686080.925927,
-  "modified_date": 1791737822.0622036,
+  "modified_date": 1791739530.2734275,
   "current_segment_index": 0,
   "source_files": [
     "data.txt",
@@ -82,6 +82,11 @@
       "name": "pok lf.tmx",
       "path": "C:\\Users\\L\\Downloads\\workspace-01a05376-9f91-7c2f-a3eb-5fad662b9b62 (1)\\pok lf.tmx",
       "units": 386
+    },
+    {
+      "name": "black1 pl.tmx",
+      "path": "C:\\Users\\L\\SuperCAT_Projects\\f1\\tm\\black1 pl.tmx",
+      "units": 17590
     }
   ],
   "segmentation": {
