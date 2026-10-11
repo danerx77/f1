@@ -38728,10 +38728,14 @@
  },
  "datatext.txt::datatext.txt_527": {
   "source": "  Using “WITHDRAW”",
-  "target": "",
-  "status": "new",
+  "target": "  Użył “WITHDRAW”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733088.4915671,
+  "touched": true
  },
  "src.txt::src.txt_1306": {
   "source": "An EGG can't battle!{PAUSE_UNTIL_PRESS}",
@@ -59976,7 +59980,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733048.4893317,
+  "updated": 1791733080.4666104,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_670": {
@@ -62293,7 +62297,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791733002.84391,
+  "updated": 1791733086.639494,
   "touched": true
  },
  "data maps.txt::data maps.txt_2575": {

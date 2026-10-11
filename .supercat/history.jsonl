@@ -2552,3 +2552,5 @@
 {"time": "2026-10-11T17:36:24", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa przedmio", "new": "  Używa przedmiot", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:36:24", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa przedmiot", "new": "  Używa przedmiotó", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:36:25", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Używa przedmiotó", "new": "  Używa przedmiotów", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:38:06", "file": "datatext.txt", "seg_id": "datatext.txt_527", "source": "  Using “WITHDRAW”", "old": "", "new": "  Użył “WITHDRAW”", "translator": "Antrix", "method": "auto_tm", "tm_source": " Moving items<<KON>> → Moving items)"}
+{"time": "2026-10-11T17:38:06", "file": "datatext.txt", "seg_id": "datatext.txt_527", "source": "  Using “WITHDRAW”", "old": "", "new": "  Użył “WITHDRAW”", "translator": "Antrix", "method": "manual"}
