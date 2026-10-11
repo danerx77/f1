@@ -38434,10 +38434,14 @@
  },
  "datatext.txt::datatext.txt_710": {
   "source": "Own POKéMON type: PSYCHIC",
-  "target": "",
-  "status": "new",
+  "target": "Own POKéMON type: FIRE",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791736432.7256055,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1056": {
   "source": "When held by a POKéMON, it raises\\\\nthe critical-hit ratio in a pinch.",
@@ -83461,13 +83465,13 @@
  },
  "datatext.txt::datatext.txt_709": {
   "source": "Own move type: PSYCHIC",
-  "target": "Własny ruch Typ: ",
+  "target": "Własny ruch Typ: PSYCHO",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736392.7076027,
+  "updated": 1791736428.2634053,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_706": {
