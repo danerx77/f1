@@ -1997,12 +1997,14 @@
  },
  "srcdata.txt::srcdata.txt_822": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734884.1679978,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1385": {
@@ -2149,12 +2151,14 @@
  },
  "srcdata.txt::srcdata.txt_819": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376339.2547708,
+  "updated": 1791734884.159237,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_981": {
@@ -6977,10 +6981,14 @@
  },
  "srcdata.txt::srcdata.txt_884": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734906.1248734,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_72": {
   "source": "FLYCATCHER",
@@ -14774,12 +14782,14 @@
  },
  "srcdata.txt::srcdata.txt_830": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734884.1891334,
   "touched": true
  },
  "datatext.txt::datatext.txt_397": {
@@ -17673,6 +17683,18 @@
   "notes": "",
   "ignored": false
  },
+ "srcdata.txt::srcdata.txt_821": {
+  "source": "????????",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791734884.1650984,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_1487": {
   "source": "{PLAYER}{KUN}の　バッグ\\nいっぱい　みたい　だね",
   "target": "",
@@ -17680,16 +17702,6 @@
   "notes": "",
   "ignored": true,
   "auto_excluded": true
- },
- "srcdata.txt::srcdata.txt_821": {
-  "source": "????????",
-  "target": "????????",
-  "status": "draft",
-  "notes": "",
-  "ignored": false,
-  "translator": "Antrix",
-  "updated": 1790376339.2547708,
-  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1138": {
   "source": "NINJA BOY",
@@ -19160,12 +19172,14 @@
  },
  "srcdata.txt::srcdata.txt_829": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655765.765686,
+  "updated": 1791734884.186859,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_264": {
@@ -19287,7 +19301,10 @@
   "target": "????????",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791734915.21363,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_47": {
   "source": "Summons a sandstorm.",
@@ -19363,12 +19380,14 @@
  },
  "srcdata.txt::srcdata.txt_826": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734884.1778135,
   "touched": true
  },
  "datatext.txt::datatext.txt_67": {
@@ -21115,12 +21134,14 @@
  },
  "srcdata.txt::srcdata.txt_888": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734906.1354365,
   "touched": true
  },
  "datascript.txt::datascript.txt_82": {
@@ -24367,12 +24388,14 @@
  },
  "srcdata.txt::srcdata.txt_817": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734884.1540928,
   "touched": true
  },
  "datatext.txt::datatext.txt_1196": {
@@ -28918,10 +28941,15 @@
  },
  "srcdata.txt::srcdata.txt_825": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791734884.1754055,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1216": {
   "source": "<<< FILE: maps/PokemonLeague_LoreleisRoom/text.inc >>>",
@@ -29791,12 +29819,14 @@
  },
  "srcdata.txt::srcdata.txt_815": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655788.6980283,
+  "updated": 1791734884.1490285,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_578": {
@@ -37188,12 +37218,14 @@
  },
  "srcdata.txt::srcdata.txt_883": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655765.765686,
+  "updated": 1791734906.1212034,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_548": {
@@ -37462,12 +37494,14 @@
  },
  "srcdata.txt::srcdata.txt_818": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734884.1568484,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_633": {
@@ -38248,12 +38282,14 @@
  },
  "srcdata.txt::srcdata.txt_834": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734884.1987722,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_474": {
@@ -39622,12 +39658,14 @@
  },
  "srcdata.txt::srcdata.txt_824": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734884.1731136,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_235": {
@@ -46803,10 +46841,14 @@
  },
  "srcdata.txt::srcdata.txt_890": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734906.141728,
+  "touched": true
  },
  "src.txt::src.txt_2424": {
   "source": "RHYDON",
@@ -46883,21 +46925,24 @@
   "translator": "Antrix",
   "updated": 1791586295.2281396
  },
+ "srcdata.txt::srcdata.txt_893": {
+  "source": "????????",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791734906.1502664,
+  "touched": true
+ },
  "srcdata.txt::srcdata.txt_384": {
   "source": "GREEN SHARD",
   "target": "ZIEL. ODŁAMEK",
   "status": "draft",
   "notes": "",
   "ignored": false
- },
- "srcdata.txt::srcdata.txt_893": {
-  "source": "????????",
-  "target": "????????",
-  "status": "draft",
-  "notes": "",
-  "ignored": false,
-  "translator": "Antrix",
-  "updated": 1790376339.2547708
  },
  "src.txt::src.txt_2444": {
   "source": "TAUROS",
@@ -49029,12 +49074,14 @@
  },
  "srcdata.txt::srcdata.txt_814": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734884.1457815,
   "touched": true
  },
  "src.txt::src.txt_2720": {
@@ -53400,12 +53447,14 @@
  },
  "srcdata.txt::srcdata.txt_832": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734884.1937785,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_299": {
@@ -58853,12 +58902,14 @@
  },
  "srcdata.txt::srcdata.txt_891": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655788.6980283,
+  "updated": 1791734906.1448336,
   "touched": true
  },
  "src.txt::src.txt_525": {
@@ -62848,12 +62899,14 @@
  },
  "srcdata.txt::srcdata.txt_827": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655788.6980283,
+  "updated": 1791734884.1811168,
   "touched": true
  },
  "src.txt::src.txt_2595": {
@@ -65443,12 +65496,14 @@
  },
  "srcdata.txt::srcdata.txt_816": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734884.151763,
   "touched": true
  },
  "src.txt::src.txt_2662": {
@@ -66046,12 +66101,14 @@
  },
  "srcdata.txt::srcdata.txt_892": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734906.1477559,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1229": {
@@ -66821,12 +66878,14 @@
  },
  "srcdata.txt::srcdata.txt_831": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655788.6980283,
+  "updated": 1791734884.191413,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1861": {
@@ -70549,12 +70608,15 @@
  },
  "srcdata.txt::srcdata.txt_853": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977
+  "updated": 1791734895.0148647,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_215": {
   "source": "HYDRO PUMP",
@@ -71852,12 +71914,14 @@
  },
  "srcdata.txt::srcdata.txt_813": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734884.1422958,
   "touched": true
  },
  "data maps.txt::data maps.txt_2366": {
@@ -72046,10 +72110,15 @@
  },
  "srcdata.txt::srcdata.txt_823": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791734884.170538,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3170": {
   "source": "Yo, kid, make room in your BAG!",
@@ -76713,12 +76782,14 @@
  },
  "srcdata.txt::srcdata.txt_885": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655931.992,
+  "updated": 1791734906.1276042,
   "touched": true
  },
  "src.txt::src.txt_2192": {
@@ -80946,10 +81017,14 @@
  },
  "srcdata.txt::srcdata.txt_820": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734884.1618004,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_457": {
   "source": "LISTENING",
@@ -85648,12 +85723,14 @@
  },
  "srcdata.txt::srcdata.txt_833": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655788.6980283,
+  "updated": 1791734884.1962624,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_1006": {
@@ -88762,12 +88839,14 @@
  },
  "srcdata.txt::srcdata.txt_889": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655765.765686,
+  "updated": 1791734906.1384685,
   "touched": true
  },
  "data maps.txt::data maps.txt_1680": {
@@ -94490,12 +94569,14 @@
  },
  "srcdata.txt::srcdata.txt_828": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655769.9341476,
+  "updated": 1791734884.184217,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_770": {
@@ -97590,12 +97671,14 @@
  },
  "srcdata.txt::srcdata.txt_854": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734895.017624,
   "touched": true
  },
  "src.txt::src.txt_1605": {
@@ -99673,10 +99756,14 @@
  },
  "srcdata.txt::srcdata.txt_894": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1791734906.1531448,
+  "touched": true
  },
  "src.txt::src.txt_2270": {
   "source": "{DPAD_ANY}PICK {A_BUTTON}READ {B_BUTTON}CANCEL",
@@ -105759,12 +105846,15 @@
  },
  "srcdata.txt::srcdata.txt_887": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977
+  "updated": 1791734906.1329916,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1048": {
   "source": "That's PROF. OAK's last POKéMON.",
@@ -107502,12 +107592,14 @@
  },
  "srcdata.txt::srcdata.txt_886": {
   "source": "?????",
-  "target": "?????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791655787.8337395,
+  "updated": 1791734906.130297,
   "touched": true
  },
  "src.txt::src.txt_2657": {
