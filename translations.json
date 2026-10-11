@@ -5424,10 +5424,14 @@
  },
  "data.txt::data.txt_55": {
   "source": "It appears to be for use at the\\nVERMILION CITY port.\\pWhy not give it a try and see what\\nit is about?",
-  "target": "",
-  "status": "new",
+  "target": "Wygląda na to, że jest przeznaczone\\ndo użytku w porcie MIASTA VERMILION.\\pDlaczego by nie spróbować i nie\\nzobaczyć, o co w tym chodzi?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791741195.5547855,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1681": {
   "source": "CHESTER",
@@ -54861,7 +54865,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791741176.135568,
+  "updated": 1791741182.8415082,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1399": {
@@ -55912,10 +55916,14 @@
  },
  "data.txt::data.txt_54": {
   "source": "Thank you for using the MYSTERY\\nGIFT System.\\pYou must be {PLAYER}.\\nThere is a ticket here for you.",
-  "target": "",
-  "status": "new",
+  "target": "Dziękujemy za korzystanie z\\nSystemu MYSTERY GIFT\\pMusisz być {PLAYER}.\\nTu jest bilet dla ciebie.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791741204.4349763,
+  "touched": true
  },
  "src.txt::src.txt_956": {
   "source": "A move that tricks\\nthe foe into\\ntrading held items\\nwith the user.",
