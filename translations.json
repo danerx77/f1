@@ -45040,6 +45040,17 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_547": {
+  "source": "Using the MAILBOX",
+  "target": "Użył the MAILBOX",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733629.570833,
+  "touched": true
+ },
  "src.txt::src.txt_2372": {
   "source": "EMY & ALEK",
   "target": "",
@@ -45047,13 +45058,6 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true
- },
- "datatext.txt::datatext.txt_547": {
-  "source": "Using the MAILBOX",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdatatext.txt::srcdatatext.txt_1204": {
   "source": "{PKMN} BREEDER",
@@ -93015,10 +93019,14 @@
  },
  "datatext.txt::datatext.txt_546": {
   "source": "  Using “DEPOSIT ITEM”",
-  "target": "",
-  "status": "new",
+  "target": "  Użył “DEPONUJ PRZEDMIOT”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733628.6438057,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_914": {
   "source": "POKéNAV",
@@ -104324,7 +104332,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733589.5714276,
+  "updated": 1791733598.8892398,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_898": {
