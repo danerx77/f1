@@ -53899,12 +53899,12 @@
  },
  "datatext.txt::datatext.txt_542": {
   "source": " Reading the “POKéDEX”",
-  "target": " Skompletowanie Pokédexu",
+  "target": " Czytanie „POKéDEX”",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791733469.5554075,
+  "updated": 1791733486.550828,
   "touched": true
  },
  "src.txt::src.txt_1752": {
@@ -87367,17 +87367,21 @@
   "translator": "Antrix",
   "updated": 1791586430.5912201
  },
+ "datatext.txt::datatext.txt_543": {
+  "source": "Using the PC at home",
+  "target": "Użył PC w domu",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733501.8406188,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_639": {
   "source": "You had me fooled!",
   "target": "Przechytrzony!",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_543": {
-  "source": "Using the PC at home",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -104314,10 +104318,14 @@
  },
  "datatext.txt::datatext.txt_544": {
   "source": "Using the Item Storage System",
-  "target": "",
-  "status": "new",
+  "target": "Użył the Item Storage System",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733509.5505297,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_898": {
   "source": "A peculiar stone that makes certain\\\\nspecies of POKéMON evolve.\\\\nIt is as black as the night sky.",
