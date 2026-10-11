@@ -87375,7 +87375,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733501.8406188,
+  "updated": 1791733539.2499595,
   "touched": true
  },
  "data maps.txt::data maps.txt_639": {
@@ -104318,13 +104318,13 @@
  },
  "datatext.txt::datatext.txt_544": {
   "source": "Using the Item Storage System",
-  "target": "Użył the Item Storage System",
+  "target": "Użył  do Systemu",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733509.5505297,
+  "updated": 1791733549.5585449,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_898": {
