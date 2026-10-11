@@ -2528,3 +2528,15 @@
 {"time": "2026-10-11T17:35:08", "file": "datatext.txt", "seg_id": "datatext.txt_529", "source": "  Using “MOVE”", "old": "  Użył “RUCH”", "new": "  Użył “RUCHU”", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T17:35:11", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "", "new": "  Moving items", "translator": "Antrix", "method": "auto_tm", "tm_source": " Using “MOVE”<<KON>> → Using “MOVE”)"}
 {"time": "2026-10-11T17:35:11", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "", "new": "  Moving items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:02", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Moving items", "new": "  u items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:03", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  u items", "new": "  uR items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:03", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  uR items", "new": "  uRZ items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:03", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  uRZ items", "new": "  uRZY items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:03", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  uRZY items", "new": "  uRZYW items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:04", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  uRZYW items", "new": "  uRZYWA items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:08", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  uRZYWA items", "new": "  U items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:09", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  U items", "new": "  Ur items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:09", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Ur items", "new": "  Urz items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:09", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Urz items", "new": "  Urzy items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:09", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Urzy items", "new": "  Urzyw items", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T17:36:10", "file": "datatext.txt", "seg_id": "datatext.txt_530", "source": "  Moving items", "old": "  Urzyw items", "new": "  Urzywa items", "translator": "Antrix", "method": "manual"}
