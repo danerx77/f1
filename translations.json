@@ -4741,7 +4741,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791732728.478378,
+  "updated": 1791732731.2050645,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1573": {
@@ -17327,7 +17327,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732741.9815671,
+  "touched": true
  },
  "datatext.txt::datatext.txt_37": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}OAK POKéMON RESEARCH LAB",
@@ -83392,10 +83397,14 @@
  },
  "datatext.txt::datatext.txt_500": {
   "source": "Use the FAME CHECKER among the\\nKEY ITEMS in your BAG.\\lIt may give you a hint, so try it out.",
-  "target": "",
-  "status": "new",
+  "target": "Jego runo rośnie cały czas. W lecie,\\ngdy zostaje ścięte, odrasta w pełni w\\nciągu tygodnia.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791732768.5062792,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1239": {
   "source": "GEB: My big sister and I are way\\ntougher than before!",
