@@ -43545,10 +43545,13 @@
  },
  "datatext.txt::datatext.txt_693": {
   "source": "Game fundamentals 1",
-  "target": "Game fundamentals 1",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1791733853.3271906,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_672": {
   "source": "HM01",
@@ -47056,10 +47059,13 @@
  },
  "datatext.txt::datatext.txt_694": {
   "source": "Game fundamentals 2",
-  "target": "Game fundamentals 2",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1791733853.3298717,
+  "touched": true
  },
  "src.txt::src.txt_622": {
   "source": "みただけで にがい. あまりにも にがいので",
@@ -61581,7 +61587,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733837.6262,
+  "touched": true
  },
  "src.txt::src.txt_1650": {
   "source": "{DYNAMIC 0x00} was deposited.",
@@ -86806,10 +86817,12 @@
  },
  "datatext.txt::datatext.txt_692": {
   "source": "Wireless Adapter",
-  "target": "Wireless Adapter",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2670": {
   "source": "I'll leave you up to my brothers.",
@@ -87779,7 +87792,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733864.7613814,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3349": {
   "source": "<<< FILE: maps/ViridianCity_Mart/text.inc >>>",
@@ -94884,15 +94902,20 @@
   "translator": "Antrix",
   "updated": 1791586288.0286686
  },
- "src.txt::src.txt_2181": {
-  "source": "A Button: Registration Counter",
+ "datatext.txt::datatext.txt_697": {
+  "source": "The help messages change depending on\\nhow much you have progressed in the\\lgame. They are designed to support you\\lwhen you need them. If there is\\lanything that you don't understand,\\lplease look up the HELP System!",
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1791733857.3353827,
+  "touched": true
  },
- "datatext.txt::datatext.txt_697": {
-  "source": "The help messages change depending on\\nhow much you have progressed in the\\lgame. They are designed to support you\\lwhen you need them. If there is\\lanything that you don't understand,\\lplease look up the HELP System!",
+ "src.txt::src.txt_2181": {
+  "source": "A Button: Registration Counter",
   "target": "",
   "status": "new",
   "notes": "",
@@ -95252,10 +95275,13 @@
  },
  "datatext.txt::datatext.txt_695": {
   "source": "Game fundamentals 3",
-  "target": "Game fundamentals 3",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "updated": 1791733853.3318696,
+  "touched": true
  },
  "datatext.txt::datatext.txt_485": {
   "source": "A TRAINER is a person who raises\\nPOKéMON through battling.\\lTRAINERS will challenge you \\lwherever they are - it could be on\\la road, in forests, caves, anywhere.\\lIf your eyes meet, you have to accept\\ltheir challenge. So be careful!",
