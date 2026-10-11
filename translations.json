@@ -101823,13 +101823,13 @@
  },
  "src.txt::src.txt_2052": {
   "source": "Communication standby…",
-  "target": "Communication standby…",
+  "target": "Komunikacja łączenie…",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736632.7354631,
+  "updated": 1791736672.7403746,
   "touched": true
  },
  "data maps.txt::data maps.txt_1525": {
