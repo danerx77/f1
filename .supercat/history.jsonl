@@ -2818,3 +2818,5 @@
 {"time": "2026-10-11T18:02:15", "file": "datatext.txt", "seg_id": "datatext.txt_707", "source": "Own move type: ROCK", "old": "Własny ruch Typ: KAMIENN", "new": "Własny ruch Typ: KAMIENNY", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:02:29", "file": "datatext.txt", "seg_id": "datatext.txt_708", "source": "Own POKéMON type: ROCK", "old": "", "new": "POKéMON typ: ", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T18:02:38", "file": "datatext.txt", "seg_id": "datatext.txt_708", "source": "Own POKéMON type: ROCK", "old": "POKéMON typ: ", "new": "POKéMON typ: KAMIENNY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:07:02", "file": "srcdata.txt", "seg_id": "srcdata.txt_664", "source": "TM43", "old": "TM43", "new": "M43", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-11T18:07:04", "file": "srcdata.txt", "seg_id": "srcdata.txt_664", "source": "TM43", "old": "M43", "new": "", "translator": "Antrix", "method": "clear"}

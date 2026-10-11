@@ -14757,7 +14757,10 @@
   "target": "Zwiększa lekko ATAK, gdy trzymana\\nprzez POKéMONA.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1791734821.38132,
+  "touched": true
  },
  "src.txt::src.txt_307": {
   "source": "{PLAY_SE SE_FLEE}Wild {B_BUFF1} fled!",
@@ -27715,10 +27718,14 @@
  },
  "srcdata.txt::srcdata.txt_680": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791734834.693964,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_249": {
   "source": "SEEMS",
@@ -59292,12 +59299,14 @@
  },
  "srcdata.txt::srcdata.txt_681": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790376438.4020977
+  "updated": 1791734834.696516,
+  "touched": true
  },
  "src.txt::src.txt_401": {
   "source": "Ally",
@@ -68878,12 +68887,15 @@
  },
  "srcdata.txt::srcdata.txt_664": {
   "source": "TM43",
-  "target": "TM43",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": true,
   "manual_skip": true,
-  "cleared": true
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1791734822.4456236,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_167": {
   "source": "GLASS ORNAMENT",
