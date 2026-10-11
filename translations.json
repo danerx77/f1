@@ -20344,12 +20344,12 @@
  },
  "datascript.txt::datascript.txt_55": {
   "source": "It appears as if {STR_VAR_1} is playing\\nright now.\\lGo for it!",
-  "target": "Wygląda na to, że\\n {STR_VAR_1} is playing\\nwłaśnie przerwę.\\lRuszaj!",
+  "target": "Wygląda na to, że\\n {STR_VAR_1} gra teraz.\\lDziałaj!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791741296.1732514,
+  "updated": 1791741322.9932084,
   "touched": true
  },
  "datatext.txt::datatext.txt_903": {
