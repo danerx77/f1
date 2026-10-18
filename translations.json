@@ -9852,13 +9852,13 @@
  },
  "datatext.txt::datatext.txt_731": {
   "source": "Own move type: FLYING",
-  "target": "FNT",
+  "target": "Własny ruch Typ: LATAJĄCY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792319216.9851654,
+  "updated": 1792319242.0225165,
   "touched": true
  },
  "data maps.txt::data maps.txt_861": {
@@ -85782,7 +85782,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792319117.518222,
+  "updated": 1792319223.409599,
   "touched": true
  },
  "data maps.txt::data maps.txt_2640": {
@@ -95525,6 +95525,17 @@
   "manual_skip": true,
   "cleared": true
  },
+ "datatext.txt::datatext.txt_737": {
+  "source": "Own move type: BUG",
+  "target": "RAMKA",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319256.968078,
+  "touched": true
+ },
  "srcdata.txt::srcdata.txt_1162": {
   "source": "?????",
   "target": "",
@@ -95536,13 +95547,6 @@
   "translator": "Antrix",
   "updated": 1791734982.034896,
   "touched": true
- },
- "datatext.txt::datatext.txt_737": {
-  "source": "Own move type: BUG",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_1693": {
   "source": "I hate losing!\\nGet out of my face!",
@@ -100679,17 +100683,21 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_732": {
+  "source": "Own POKéMON type: FLYING",
+  "target": "POKéMON typ: LATAJĄCY",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319254.4485388,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_162": {
   "source": "DOUBLESLAP",
   "target": "DWUKLAPS",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_732": {
-  "source": "Own POKéMON type: FLYING",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
