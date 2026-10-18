@@ -15369,10 +15369,14 @@
  },
  "src.txt::src.txt_2029": {
   "source": "Somebody dropped out.\\nThe link will be canceled.",
-  "target": "",
-  "status": "new",
+  "target": "Ktoś się wycofał.\\nLink zostanie anulowany.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325363.4841352,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_126": {
   "source": "HUMAN SHAPE",
@@ -61855,7 +61859,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325323.4887576,
+  "updated": 1792325337.0822566,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_59": {
@@ -100818,10 +100822,13 @@
  },
  "src.txt::src.txt_2016": {
   "source": "SOMEONE",
-  "target": "",
-  "status": "new",
+  "target": "CZYJIŚ",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325357.3556013,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_647": {
   "source": "It is at its best when on muddy ground\\nwith poor footing. It quickly overwhelms\\nfoes struggling in mud.",
