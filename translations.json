@@ -37060,12 +37060,12 @@
  },
  "src.txt::src.txt_1996": {
   "source": "This document is issued in\\nrecognition of your magnificent\\nachievement - the completion of\\nthe {DYNAMIC 0x01} POKéDEX.",
-  "target": "Ten dokument został wydany\\nw uznaniu Twojego\\nwspaniałego osiągnięcia -\\nukończenia {DYNAMIC 0x01} POKéDEX.",
+  "target": "Ten dokument został wydany\\nw uznaniu Twojego\\nwspaniałego osiągnięcia \\nukończenia {DYNAMIC 0x01} POKéDEX.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325279.3477325,
+  "updated": 1792329922.714414,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_97": {
@@ -87683,7 +87683,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325464.9098322,
+  "updated": 1792329937.102704,
   "touched": true
  },
  "src.txt::src.txt_667": {
@@ -91724,6 +91724,16 @@
   "ignored": true,
   "manual_skip": true
  },
+ "src.txt::src.txt_1944": {
+  "source": "'s level rose to\\n",
+  "target": " poziom wzrósł\\n",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792329910.0841846,
+  "touched": true
+ },
  "src.txt::src.txt_1997": {
   "source": "GAME FREAK",
   "target": "GAME FREAK",
@@ -91734,13 +91744,6 @@
  "data maps.txt::data maps.txt_727": {
   "source": "LAVENDER TOWN\\nThe Noble Purple Town",
   "target": "LAVENDER TOWN\\nZacne Miasto Błękitu",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_1944": {
-  "source": "'s level rose to\\n",
-  "target": "- poziom wzrósł\\n",
   "status": "draft",
   "notes": "",
   "ignored": false
