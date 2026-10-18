@@ -33467,10 +33467,14 @@
  },
  "src.txt::src.txt_1900": {
   "source": "Waiting for the other TRAINER to\\nfinish reading your TRAINER CARD.",
-  "target": "",
-  "status": "new",
+  "target": "Waiting for the other TRAINER to\\nfinish reading your TRAINER CARD.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325123.5731497,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_1002": {
   "source": "HAHAHA",
@@ -86969,7 +86973,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325101.7698276,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_56": {
   "source": "A very bitter medicine powder.\\nIt heals all the status problems of\\none POKéMON.",
