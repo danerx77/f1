@@ -51184,12 +51184,12 @@
  },
  "src.txt::src.txt_2964": {
   "source": "BATTLES: {DYNAMIC 0} WINS  {DYNAMIC 2} LOSSES\\nTRADES:  {DYNAMIC 3} TIMES\\p“{DYNAMIC 4} {DYNAMIC 5}\\n{DYNAMIC 6} {DYNAMIC 7}”\\p",
-  "target": "BITWY: {DYNAMIC 0} ZWYCIĘSTWA {DYNAMIC 2}\\nPORAŻKI WYMIANY: {DYNAMIC 3} CZAS\\p„{DYNAMIC 4} {DYNAMIC 5}\\n{DYNAMIC 6} {DYNAMIC 7}”\\p",
+  "target": "BITWY: {DYNAMIC 0} ZWYCIĘSTWA {DYNAMIC 2}\\nPORAŻKI WYMIANY: {DYNAMIC 3} CZAS\\p“{DYNAMIC 4} {DYNAMIC 5}\\n{DYNAMIC 6} {DYNAMIC 7}”\\p",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325643.5724747,
+  "updated": 1792325683.5854833,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_29": {
