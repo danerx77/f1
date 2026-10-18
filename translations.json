@@ -24635,13 +24635,13 @@
  },
  "datatext.txt::datatext.txt_725": {
   "source": "Own move type: DRAGON",
-  "target": "Własny ruch Typ: Smoczy",
+  "target": "Własny ruch Typ: SMOCZY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792319129.5535562,
+  "updated": 1792319164.6910546,
   "touched": true
  },
  "src.txt::src.txt_2180": {
@@ -35174,10 +35174,14 @@
  },
  "datatext.txt::datatext.txt_727": {
   "source": "Own move type: NORMAL",
-  "target": "",
-  "status": "new",
+  "target": "Własny ruch Typ: NORMALNY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319175.5259979,
+  "touched": true
  },
  "src.txt::src.txt_1276": {
   "source": "Is there anything else I can do?",
@@ -105514,13 +105518,13 @@
  },
  "datatext.txt::datatext.txt_726": {
   "source": "Own POKéMON type: DRAGON",
-  "target": "POKéMON typ:  DRAGON",
+  "target": "POKéMON typ: SMOCZY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792319136.9979508,
+  "updated": 1792319162.3889024,
   "touched": true
  },
  "datatext.txt::datatext.txt_564": {
