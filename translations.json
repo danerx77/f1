@@ -11691,12 +11691,12 @@
  },
  "datascript.txt::datascript.txt_68": {
   "source": "“POKéMON JUMP” is open to POKéMON\\naround 28 inches or less.\\pWhat you can't enter are those\\nPOKéMON that can't jump.\\pYou know, like POKéMON that only\\nswim, burrow, or fly.\\pThat's all you need to know.",
-  "target": "Wygląda na to, że nie masz\\nżadnych POKéMON, które mógłbyś wprowadzić…\\pChciałbyś, żebym wyjaśnił, jakie\\nrodzaje POKéMON mogą wejść?",
+  "target": "„POKéMON JUMP” jest otwarte dla POKéMON\\no wysokości około 28 cali lub mniej.\\pTych Pokémonów, które nie\\npotrafią skakać, nie można wprowadzać.\\pWiesz, jak POKéMON, które tylko\\npływają, kopią tunele albo latają.\\pTo wszystko, co musisz wiedzieć.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792320438.149706,
+  "updated": 1792320466.0494184,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1563": {
@@ -53754,10 +53754,13 @@
  },
  "datascript.txt::datascript.txt_69": {
   "source": "“DODRIO BERRY-PICKING”…\\nWell, the name says it all.\\pYou have to have a DODRIO to play\\nthis game.",
-  "target": "",
-  "status": "new",
+  "target": "„DODRIO ZBIÓR OWOCÓW BERRY”…\\nCóż, sama nazwa mówi wszystko.\\pMusisz mieć DODRIO, aby\\nzagrać w tę grę.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792320478.1547816,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1165": {
   "source": "PICNICKER",
