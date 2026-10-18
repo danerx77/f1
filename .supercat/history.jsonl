@@ -3303,3 +3303,5 @@
 {"time": "2026-10-18T12:22:45", "file": "datatext.txt", "seg_id": "datatext.txt_725", "source": "Own move type: DRAGON", "old": "", "new": "NATURA", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T12:22:56", "file": "datatext.txt", "seg_id": "datatext.txt_725", "source": "Own move type: DRAGON", "old": "NATURA", "new": "Own move Typ: Smoczy", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T12:22:56", "file": "datatext.txt", "seg_id": "datatext.txt_725", "source": "Own move type: DRAGON", "old": "NATURA", "new": "Own move Typ: Smoczy", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T12:23:03", "file": "datatext.txt", "seg_id": "datatext.txt_726", "source": "Own POKéMON type: DRAGON", "old": "", "new": "Own POKéMON type: DRAGON", "translator": "Antrix", "method": "auto_tm", "tm_source": " Own move type: DRAGON → NATURA)"}
+{"time": "2026-10-18T12:23:03", "file": "datatext.txt", "seg_id": "datatext.txt_726", "source": "Own POKéMON type: DRAGON", "old": "", "new": "Own POKéMON type: DRAGON", "translator": "Antrix", "method": "manual"}

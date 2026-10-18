@@ -24641,7 +24641,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792318977.0033987,
+  "updated": 1792318982.671182,
   "touched": true
  },
  "src.txt::src.txt_2180": {
@@ -105502,10 +105502,14 @@
  },
  "datatext.txt::datatext.txt_726": {
   "source": "Own POKéMON type: DRAGON",
-  "target": "",
-  "status": "new",
+  "target": "Own POKéMON type: DRAGON",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319016.9933577,
+  "touched": true
  },
  "datatext.txt::datatext.txt_564": {
   "source": "{CIRCLE_1} Select “SAVE” on the MENU.\\n{CIRCLE_2} Select “YES” and your progress is\\n   recorded in the save file.\\nOnce the game is saved, you may turn\\noff the game. Your game can be resumed\\nfrom where you saved.",
