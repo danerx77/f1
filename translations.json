@@ -18595,13 +18595,13 @@
  },
  "datatext.txt::datatext.txt_480": {
   "source": "A status problem refers to an ailment\\nthat is inflicted on a POKéMON by its\\lfoe's attack. These include burns,\\lparalysis, poisoning, sleep, and\\lfreezing. These can be healed by\\lvisiting a POKéMON CENTER or using\\lthe appropriate item.",
-  "target": "Problem statusowy odnosi się do\\ndolegliwości, która jest zadawana POKéMONowi\\lprzez atak wroga. Należą do\\lnich oparzenia, paraliż, zatrucie, sen\\li zamrożenie. Mogą one zostać\\lwyleczone poprzez wizytę w CENTRUM\\lPOKéMON lub użycie odpowiedniego przedmiotu.",
+  "target": "Problem statusowy odnosi się do\\ndolegliwości, która jest zadawana POKéMONOWI\\lprzez atak wroga. Należą do\\lnich oparzenia, paraliż, zatrucie, sen\\li zamrożenie. Mogą one zostać\\lwyleczone poprzez wizytę w CENTRUM\\lPOKéMON lub użycie odpowiedniego przedmiotu.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792323368.595244,
+  "updated": 1792323424.7719915,
   "touched": true
  },
  "src.txt::src.txt_1437": {
@@ -29118,7 +29118,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323373.8277419,
+  "updated": 1792323443.4328032,
   "touched": true
  },
  "src.txt::src.txt_187": {
@@ -33196,7 +33196,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323373.907516,
+  "updated": 1792323438.5974743,
   "touched": true
  },
  "src.txt::src.txt_2713": {
@@ -57355,7 +57355,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792323370.5930269,
+  "updated": 1792323430.961657,
   "touched": true
  },
  "data maps.txt::data maps.txt_1074": {
@@ -109419,7 +109419,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792323403.4300032,
+  "updated": 1792323406.7665944,
   "touched": true
  },
  "src.txt::src.txt_231": {
