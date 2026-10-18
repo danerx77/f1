@@ -7162,10 +7162,10 @@
  },
  "src.txt::src.txt_2481": {
   "source": "VAPOREON",
-  "target": "VAPOREON",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -9486,7 +9486,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "auto_inserted": true,
@@ -11667,10 +11667,13 @@
  },
  "datatext.txt::datatext.txt_746": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: NORMAL, ICE, ROCK, DARK, STEEL\\p   {TRIANGLE}: POISON, FLYING, PSYCHIC, BUG\\p   {BIG_MULT_X}: GHOST",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: NORMALNY, LODOWY, SKAŁA, CIEMNY, STALOWY\\p{TRIANGLE}: TRUJĄCY, LATAJĄCY, PSYCHICZNY, ROBACZY\\p   {BIG_MULT_X}: DUCH",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322358.4161885,
+  "touched": true
  },
  "datatext.txt::datatext.txt_270": {
   "source": "POKéMON JOURNAL",
@@ -11926,13 +11929,12 @@
  },
  "datatext.txt::datatext.txt_740": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: PSYCHIC, GHOST\\p   {TRIANGLE}: FIGHTING, DARK, STEEL",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: PSYCHIC, DUCH\\p   {TRIANGLE}: WALCZĄCY, CIEMNY, STALOWY",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1792319306.1836128,
+  "updated": 1792322352.121546,
   "touched": true
  },
  "data maps.txt::data maps.txt_582": {
@@ -19214,8 +19216,8 @@
  },
  "srcdata.txt::srcdata.txt_669": {
   "source": "TM48",
-  "target": "",
-  "status": "new",
+  "target": "TM48",
+  "status": "draft",
   "notes": "",
   "ignored": true,
   "manual_skip": true,
@@ -27597,10 +27599,13 @@
  },
  "datatext.txt::datatext.txt_748": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: WATER, GROUND, ROCK\\p   {TRIANGLE}: FIRE, GRASS, POISON, FLYING,\\n       BUG, DRAGON, STEEL",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: WODA, ZIEMIA, SKAŁA\\p   {TRIANGLE}: OGNIEŃ, TRAWA,\\nTRUJĄCY, LATAJĄCY, ROBACZEK, SMOK, STAL",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322359.6691446,
+  "touched": true
  },
  "data maps.txt::data maps.txt_688": {
   "source": "Okay.\\nPlease come again!",
@@ -30394,10 +30399,13 @@
  },
  "datatext.txt::datatext.txt_744": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: FIGHTING, POISON\\p   {TRIANGLE}: PSYCHIC, STEEL\\p   {BIG_MULT_X}: DARK",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: WALKA, TRUCIZNA\\p   {TRIANGLE}: PSYCHIC, STAL\\p   {BIG_MULT_X}: CIEMNY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322356.9066515,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1640": {
   "source": "No, wrong!",
@@ -33916,13 +33924,12 @@
  },
  "datatext.txt::datatext.txt_739": {
   "source": "Depending on the matchup of the\\nmove type and the target POKéMON's\\ltype, the move's effectiveness varies:\\l{CIRCLE_DOT}: Super effective!\\l{TRIANGLE}: Not very effective\\l{BIG_MULT_X}: Not effective at all\\l(No changes for other matchups.)",
-  "target": "",
-  "status": "new",
+  "target": "W zależności od dopasowania typu\\nruchu i typu docelowego\\lPOKéMONA, skuteczność ruchu się zmienia:\\l{CIRCLE_DOT}: Super skuteczne!\\l{TRIANGLE}: Niezbyt skuteczne {BIG_MULT_X}:\\lWcale nieskuteczne (Brak\\lzmian dla innych starć.)",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1792319297.0075746,
+  "updated": 1792322363.4205935,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_700": {
@@ -34398,7 +34405,7 @@
  },
  "datatext.txt::datatext.txt_507": {
   "source": " Using “POKéMON”",
-  "target": " Użył “POKéMON”",
+  "target": " Using “POKéMON”",
   "status": "draft",
   "notes": "",
   "ignored": false,
@@ -34808,10 +34815,13 @@
  },
  "datatext.txt::datatext.txt_747": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FLYING, PSYCHIC\\p   {TRIANGLE}: BUG, ROCK, DARK",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: LATANIE, PSYCHICZNY\\p   {TRIANGLE}: ROBACZKOWY, SKAŁA, CIEMNY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322360.1060164,
+  "touched": true
  },
  "src.txt::src.txt_1626": {
   "source": "HEAL POWDER{CLEAR_TO 0x74}{FONT_SMALL}50",
@@ -36169,8 +36179,8 @@
  },
  "src.txt::src.txt_2196": {
   "source": "GREETINGS",
-  "target": "POWITANIA",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
@@ -40911,10 +40921,10 @@
  },
  "srcdata.txt::srcdata.txt_334": {
   "source": "MASTER BALL",
-  "target": "",
-  "status": "new",
+  "target": "MASTER BALL",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true
  },
@@ -47177,10 +47187,13 @@
  },
  "datatext.txt::datatext.txt_745": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: BUG, GHOST, DARK\\p   {TRIANGLE}: FIGHTING, PSYCHIC",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ROBAK, DUCH, MROCZNY\\p   {TRIANGLE}: WALCZĄCY, PSIONICZNY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322355.8326354,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2429": {
   "source": "If you're confident, you should\\ncheck out TRAINER TOWER.",
@@ -49022,8 +49035,8 @@
  },
  "srcdata.txt::srcdata.txt_1381": {
   "source": "TM48",
-  "target": "TM48",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": true,
   "manual_skip": true,
@@ -54600,6 +54613,16 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_742": {
+  "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: FIRE, ICE, FLYING, BUG\\p   {TRIANGLE}: FIGHTING, GROUND, STEEL",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: OGIEŃ, LÓD, LATANIE, ROBACZKI\\p   {TRIANGLE}: WALKA, ZIEMIA, STAL",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322351.9520986,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_418": {
   "source": "UNDERSTAND",
   "target": "",
@@ -54609,13 +54632,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586287.2369206
- },
- "datatext.txt::datatext.txt_742": {
-  "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: FIRE, ICE, FLYING, BUG\\p   {TRIANGLE}: FIGHTING, GROUND, STEEL",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_2825": {
   "source": "The biggest HERACROSS that I have\\never seen measured so far is:\\p{STR_VAR_3} inches!",
@@ -70410,10 +70426,10 @@
  },
  "srcdata.txt::srcdata.txt_711": {
   "source": "MASTER BALL",
-  "target": "MASTER BALL",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true
  },
@@ -79849,10 +79865,13 @@
  },
  "datatext.txt::datatext.txt_749": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FIRE, ICE, POISON, FLYING, BUG\\p   {TRIANGLE}: WATER, ELECTRIC, GRASS, GROUND",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: OGIEŃ, LÓD, TRUCIZNA, LOT, OWAD\\p   {TRIANGLE}: WODA, ELEKTRYCZNY, TRAWA, ZIEMIA",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322360.9248323,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_554": {
   "source": "Removed the item {STR_VAR_1} from\\nthe BAG's ITEMS POCKET and stored it\\non the PC.",
@@ -80655,8 +80674,8 @@
  },
  "src.txt::src.txt_2939": {
   "source": "GREETINGS",
-  "target": "",
-  "status": "new",
+  "target": "POWITANIA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
@@ -83085,7 +83104,7 @@
  },
  "datatext.txt::datatext.txt_538": {
   "source": " Using “POKéMON”",
-  "target": " Using “POKéMON”",
+  "target": " Użył “POKéMON”",
   "status": "draft",
   "notes": "",
   "ignored": false,
@@ -85322,10 +85341,13 @@
  },
  "datatext.txt::datatext.txt_743": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: WATER, GRASS, FIGHTING,\\n       GROUND, STEEL\\p   {TRIANGLE}: NORMAL, FIRE, POISON, FLYING",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}:\\nWODA, TRAWA, WALKI, ZIEMIA, STAL\\p   {TRIANGLE}: NORMALNY, OGNIOWY, TRUJĄCY, LATAJĄCY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322355.821642,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2733": {
   "source": "I'm not saying that you shouldn't\\ncatch POKéMON.\\pI just want people to raise their\\nPOKéMON responsibly.",
@@ -89618,9 +89640,9 @@
   "notes": "",
   "ignored": false
  },
- "data maps.txt::data maps.txt_2017": {
-  "source": "Be nice!",
-  "target": "Słodko!",
+ "src.txt::src.txt_2937": {
+  "source": "BATTLE",
+  "target": "BITWA",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -89645,6 +89667,13 @@
   "translator": "Antrix",
   "updated": 1791586294.9640124
  },
+ "data maps.txt::data maps.txt_2017": {
+  "source": "Be nice!",
+  "target": "Słodko!",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
  "srcdatatext.txt::srcdatatext.txt_205": {
   "source": "ROAR",
   "target": "RYK",
@@ -89662,13 +89691,6 @@
  "srcdatapokemon.txt::srcdatapokemon.txt_39": {
   "source": "FOX",
   "target": "LIS",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2937": {
-  "source": "BATTLE",
-  "target": "BITWA",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -90115,10 +90137,13 @@
  },
  "datatext.txt::datatext.txt_741": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FIGHTING, BUG\\p   {TRIANGLE}: GHOST, DARK\\p   {BIG_MULT_X}: PSYCHIC",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: WALKA, ROBACZEK\\p   {TRIANGLE}: DUCH, CIEMNOŚĆ\\p   {BIG_MULT_X}: TELEPATYCZNY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322353.1222382,
+  "touched": true
  },
  "src.txt::src.txt_241": {
   "source": "But it had no effect!",
@@ -91540,7 +91565,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "auto_inserted": true,
@@ -103241,10 +103266,10 @@
  },
  "src.txt::src.txt_1526": {
   "source": "VAPOREON",
-  "target": "",
-  "status": "new",
+  "target": "VAPOREON",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
