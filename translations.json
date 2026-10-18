@@ -43249,12 +43249,12 @@
  },
  "datatext.txt::datatext.txt_673": {
   "source": "The POKéMON LEAGUE BADGES that you\\nhave won are registered and shown.\\lEarn BADGES by defeating GYM LEADERS\\lin various cities and towns.",
-  "target": "ZDOBYTE ODZNAKI LIGI POKéMON\\nsą zarejestrowane i wyświetlane.\\lZdobywaj ODZNAKI, pokonując LIDERÓW SIŁOWNI\\lw różnych miastach i miasteczkach.",
+  "target": "ZDOBYTE ODZNAKI LIGI POKéMON\\nsą zarejestrowane i wyświetlane.\\lZdobywaj ODZNAKI, pokonując LIDERÓW SAL\\lw różnych miastach i miasteczkach.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324563.4623313,
+  "updated": 1792324591.6019645,
   "touched": true
  },
  "data maps.txt::data maps.txt_2556": {
@@ -69423,7 +69423,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324551.4035249,
+  "updated": 1792324596.016417,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_328": {
@@ -73160,7 +73160,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324308.7088459,
+  "updated": 1792324603.508038,
   "touched": true
  },
  "src.txt::src.txt_2095": {
