@@ -3254,12 +3254,12 @@
  },
  "datatext.txt::datatext.txt_692": {
   "source": "Wireless Adapter",
-  "target": "łącza bezprzewodowego",
+  "target": "Łącze bezprzewodowego",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324723.4714503,
+  "updated": 1792324735.3001451,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_313": {
@@ -10316,13 +10316,13 @@
  },
  "datatext.txt::datatext.txt_699": {
   "source": "This game communicates over a wireless\\nlink using the Wireless Adapter.\\pGo wireless anywhere, anytime, and\\nwith anybody!\\pTry playing with the Wireless Adapter\\nalways attached!",
-  "target": "Ta gra komunikuje się za pomocą\\nłącza bezprzewodowego przy użyciu Adaptera Bezprzewodowego.\\pKorzystaj z bezprzewodowego połączenia wszędzie, o\\nkażdej porze i z każdym!\\pSpróbuj grać z zawsze\\npodłączonym adapterem bezprzewodowym!",
+  "target": "Ta gra komunikuje się za pomocą\\nłącza bezprzewodowego przy użyciu Adaptera Bezprzewodowego.\\pKorzystaj z bezprzewodowego połączenia wszędzie, o\\nkażdej porze i z każdym!\\pSpróbuj grać z zawsze\\npodłączonym Wireless Adapter!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792324719.1706178,
+  "updated": 1792324753.273269,
   "touched": true
  },
  "src.txt::src.txt_1681": {
@@ -20170,7 +20170,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324709.0356874,
+  "updated": 1792324758.7880335,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_566": {
@@ -45560,7 +45560,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324708.6964617,
+  "updated": 1792324757.1529682,
   "touched": true
  },
  "data maps.txt::data maps.txt_907": {
@@ -48748,7 +48748,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324707.7224689,
+  "updated": 1792324755.4534638,
   "touched": true
  },
  "data maps.txt::data maps.txt_1718": {
@@ -63055,7 +63055,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792324710.3550894,
+  "updated": 1792324760.9090862,
   "touched": true
  },
  "datatext.txt::datatext.txt_197": {
@@ -70272,7 +70272,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792324698.3827717,
+  "updated": 1792324736.4268794,
   "touched": true
  },
  "data maps.txt::data maps.txt_179": {
@@ -80202,7 +80202,10 @@
   "target": "Stajesz się głównym bohaterem,\\nzwiedzającym świat POKéMONÓW.\\lRozmawiając z ludźmi i rozwiązując\\lzagadki, nowe ścieżki otwierają się.\\lDąż do celu wraz ze swoimi cudownymi\\lPOKéMONAMI.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324739.231931,
+  "touched": true
  },
  "src.txt::src.txt_1426": {
   "source": "There is no more\\nroom in the BAG.",
@@ -80808,7 +80811,10 @@
   "target": "Użył Porównania Typów",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324763.4746435,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_178": {
   "source": "An item to be held by a POKéMON.\\nIt repels wild POKéMON if the\\nholder is first in the party.",
