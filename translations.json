@@ -85392,12 +85392,12 @@
  },
  "datatext.txt::datatext.txt_743": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: WATER, GRASS, FIGHTING,\\n       GROUND, STEEL\\p   {TRIANGLE}: NORMAL, FIRE, POISON, FLYING",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}:\\nWODA, TRAWA, WALKI, ZIEMIA, STAL\\p   {TRIANGLE}: NORMALNY, OGNIOWY, TRUJĄCY, LATAJĄCY",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}:\\nWODNY, TRAWIASTY, WALCZĄCY, ZIEMNY, STALOWY\\p   {TRIANGLE}: NORMALNY, OGNISTY, TRUJĄCY, LATAJĄCY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322523.4147072,
+  "updated": 1792322563.3820195,
   "touched": true
  },
  "data maps.txt::data maps.txt_2733": {
