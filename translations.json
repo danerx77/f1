@@ -12478,13 +12478,13 @@
  },
  "datatext.txt::datatext.txt_721": {
   "source": "Own move type: ELECTRIC",
-  "target": "Własny ruch Typ: ELEKTYY",
+  "target": "Własny ruch Typ: ELEKTRYCZNY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792317100.2158825,
+  "updated": 1792317123.032173,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_888": {
@@ -97427,7 +97427,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792317071.05305,
+  "updated": 1792317115.1153321,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_789": {

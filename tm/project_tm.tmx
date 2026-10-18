@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T095107Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T095202Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -293723,10 +293723,6 @@
       <tuv xml:lang="pl"><seg>Wygląda na to, że\n {STR_VAR_1} gra teraz.\lDziałaj!</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>Own move type: ELECTRIC</seg></tuv>
-      <tuv xml:lang="pl"><seg>Własny ruch Typ:</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>Own POKéMON type: FIGHTING</seg></tuv>
       <tuv xml:lang="pl"><seg>POKéMON typ: Walczący</seg></tuv>
     </tu>
@@ -293761,6 +293757,10 @@
     <tu>
       <tuv xml:lang="en"><seg>Own POKéMON type: GROUND</seg></tuv>
       <tuv xml:lang="pl"><seg>POKéMON typ: ZIEMNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own move type: ELECTRIC</seg></tuv>
+      <tuv xml:lang="pl"><seg>Własny ruch Typ: ELEKTRYCZNY</seg></tuv>
     </tu>
   </body>
 </tmx>
