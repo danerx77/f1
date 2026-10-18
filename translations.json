@@ -20001,7 +20001,10 @@
   "target": "EXP. {LEFT_PAREN}Punkty EXP.{RIGHT_PAREN}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324250.4828286,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_531": {
   "source": "SERVICE",
@@ -23498,10 +23501,13 @@
  },
  "datatext.txt::datatext.txt_651": {
   "source": "DEFENSE indicates the resistance a\\nPOKéMON has against physical attacks.\\lThe higher this stat, the less damage\\lsustained from a foe's physical hit.",
-  "target": "",
-  "status": "new",
+  "target": "OBRONA wskazuje odporność POKéMONA\\nna ataki fizyczne.\\lIm wyższa ta cecha, tym mniej\\lobrażeń odniesiesz od fizycznego ataku przeciwnika.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324283.3213294,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1056": {
   "source": "It is highly attuned to the emotions of\\npeople and POKéMON. It hides if it senses\\nhostility.",
@@ -35127,7 +35133,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324159.8644981,
+  "updated": 1792324247.6072078,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1325": {
@@ -43234,10 +43240,13 @@
  },
  "datatext.txt::datatext.txt_649": {
   "source": "POKéMON may learn up to four different\\nmoves. There are many kinds of moves\\lincluding attacks and those with\\lspecial effects. The kinds of moves\\lthat can be learned vary for each\\lPOKéMON. Some moves can be learned\\lfrom items.",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON może nauczyć się do czterech\\nróżnych ruchów. Istnieje wiele rodzajów\\lruchów, w tym ataki oraz te\\lz efektami specjalnymi. Rodzaje ruchów, które\\lmożna się nauczyć, różnią się w\\lzależności od POKéMONA. Niektóre ruchy\\lmożna nauczyć się za pomocą przedmiotów.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324274.5319226,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_141": {
   "source": "SHED SKIN",
@@ -53342,7 +53351,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792324255.312854,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1232": {
   "source": "I can't get out!\\nThis old place is one big puzzle.",
@@ -69082,7 +69096,10 @@
   "target": "HP",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324249.245631,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3269": {
   "source": "TRAINERS live to seek stronger\\nopponents.",
@@ -73320,10 +73337,13 @@
  },
  "datatext.txt::datatext.txt_648": {
   "source": "EXP. Points stands for “Experience\\nPoints.” POKéMON gain EXP. Points by\\lparticipating in winning battles.\\lWhen a POKéMON accumulates sufficient\\lEXP. Points, it levels up. The EXP. Bar\\lindicates accumulated EXP. Points.\\lIt returns to zero upon leveling up.",
-  "target": "",
-  "status": "new",
+  "target": "EXP. Points oznacza „Punkty Doświadczenia”.\\nPOKéMON zdobywają Punkty Doświadczenia,\\lbiorąc udział w zwycięskich walkach.\\lKiedy POKéMON zgromadzi wystarczającą ilość punktów\\lEXP, awansuje na wyższy poziom.\\lPasek EXP wskazuje zgromadzone punkty EXP.\\lWróci do zera po osiągnięciu poziomu.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324280.3360436,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1484": {
   "source": "Tch…\\nI better go find stronger ones!",
@@ -95214,7 +95234,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324243.8582954,
+  "updated": 1792324244.513937,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_51": {
@@ -100275,10 +100295,13 @@
  },
  "datatext.txt::datatext.txt_650": {
   "source": "ATTACK indicates the power of an\\noffensive move. The higher this stat,\\lthe more powerful the move.\\lIt is applied for the following move\\ltypes: NORMAL, POISON, GROUND,\\lFLYING, BUG, FIGHTING, ROCK, GHOST,\\land STEEL.",
-  "target": "",
-  "status": "new",
+  "target": "ATAK wskazuje siłę ofensywnego\\nruchu. Im wyższa ta\\lstatystyka, tym potężniejszy ruch.\\lStosuje się go do\\lnastępujących typów ruchów: NORMALNY,\\lTRUJĄCY, ZIEMNY, LOT, ROBACZY, WALKA,\\lSKAŁA, DUCH i STAL.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324278.2083778,
+  "touched": true
  },
  "data maps.txt::data maps.txt_279": {
   "source": "Only skilled TRAINERS can collect\\nPOKéMON BADGES.\\pI see you have at least one.\\pThose BADGES have amazing secrets,\\ndid you know?",
