@@ -31610,7 +31610,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323717.9666464,
+  "updated": 1792324061.9110637,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_542": {
@@ -57365,7 +57365,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323719.0863175,
+  "updated": 1792324059.2204862,
   "touched": true
  },
  "data maps.txt::data maps.txt_3057": {
@@ -70962,12 +70962,12 @@
  },
  "datatext.txt::datatext.txt_594": {
   "source": "{CIRCLE_1} Select “WITHDRAW ITEM” to withdraw\\n   an item stored on your PC.\\n{CIRCLE_2} Select “DEPOSIT ITEM” to put \\n   an item from your BAG into your PC.",
-  "target": "{CIRCLE_1} Wybierz „WYCOFAJ PRZEDMIOT”, aby wycofać\\nprzedmiot przechowywany na Twoim komputerze.\\n{CIRCLE_2} Wybierz „DEPONUJ”, aby włożyć\\nprzedmiot z PLECAKA do swojego PC.",
+  "target": "{CIRCLE_1} Wybierz „WYCOFAJ PRZEDMIOT”, aby wycofać\\nprzedmiot przechowywany na Twoim komputerze.\\n{CIRCLE_2} Wybierz „DEPONUJ”, aby włożyć\\nprzedmiot z TORBY do swojego PC.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324043.4802537,
+  "updated": 1792324054.644606,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1854": {
@@ -72835,7 +72835,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323720.0488982,
+  "updated": 1792324063.7485578,
   "touched": true
  },
  "datatext.txt::datatext.txt_1123": {
@@ -76914,7 +76914,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323721.6351259,
+  "updated": 1792324069.7246597,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_890": {
@@ -95831,7 +95831,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323721.7563014,
+  "updated": 1792324083.4733503,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_632": {
