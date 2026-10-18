@@ -4858,3 +4858,42 @@
 {"time": "2026-10-18T14:47:28", "file": "src.txt", "seg_id": "src.txt_1496", "source": "BLACK", "old": "CZ", "new": "CZA", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:47:28", "file": "src.txt", "seg_id": "src.txt_1496", "source": "BLACK", "old": "CZA", "new": "CZAR", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:47:29", "file": "src.txt", "seg_id": "src.txt_1496", "source": "BLACK", "old": "CZAR", "new": "CZARN", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:29", "file": "src.txt", "seg_id": "src.txt_1496", "source": "BLACK", "old": "CZARN", "new": "CZARNY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:32", "file": "src.txt", "seg_id": "src.txt_1497", "source": "PINK", "old": "", "new": "Różowy", "translator": "Antrix", "method": "auto_tm", "tm_source": " Black → Czarny)"}
+{"time": "2026-10-18T14:47:32", "file": "src.txt", "seg_id": "src.txt_1497", "source": "PINK", "old": "", "new": "Różowy", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:34", "file": "src.txt", "seg_id": "src.txt_1497", "source": "PINK", "old": "Różowy", "new": "RÓ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:35", "file": "src.txt", "seg_id": "src.txt_1497", "source": "PINK", "old": "RÓ", "new": "RÓŻ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:35", "file": "src.txt", "seg_id": "src.txt_1497", "source": "PINK", "old": "RÓŻ", "new": "RÓŻO", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:36", "file": "src.txt", "seg_id": "src.txt_1497", "source": "PINK", "old": "RÓŻO", "new": "RÓŻOW", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:38", "file": "src.txt", "seg_id": "src.txt_1497", "source": "PINK", "old": "RÓŻOW", "new": "RÓŻOWY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:40", "file": "src.txt", "seg_id": "src.txt_1498", "source": "SEPIA", "old": "", "new": "SEPIA", "translator": "Antrix", "method": "auto_tm", "tm_source": " Pink → Różowy)"}
+{"time": "2026-10-18T14:47:40", "file": "src.txt", "seg_id": "src.txt_1498", "source": "SEPIA", "old": "", "new": "SEPIA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:43", "file": "src.txt", "seg_id": "src.txt_1498", "source": "SEPIA", "old": "SEPIA", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T14:47:44", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "", "new": "WORKA NA JAGODY", "translator": "Antrix", "method": "auto_tm", "tm_source": " SEPIA<<KON>> → SEPIA)"}
+{"time": "2026-10-18T14:47:44", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "", "new": "WORKA NA JAGODY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:51", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "WORKA NA JAGODY", "new": "f", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:52", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "f", "new": "fa", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:52", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "fa", "new": "faj", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:52", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "faj", "new": "fa", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:52", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "fa", "new": "f", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:52", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "f", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T14:47:53", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "", "new": "F", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:53", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "F", "new": "FA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:54", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "FA", "new": "FAJ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:54", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "FAJ", "new": "FAJN", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:54", "file": "src.txt", "seg_id": "src.txt_1499", "source": "COOL", "old": "FAJN", "new": "FAJNY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:56", "file": "src.txt", "seg_id": "src.txt_1501", "source": "CUTE", "old": "", "new": "Możesz zmierzyć się z innym\\nTRENEREM przez Game Link cable.", "translator": "Antrix", "method": "auto_tm", "tm_source": " COOL → WORKA NA JAGODY)"}
+{"time": "2026-10-18T14:47:56", "file": "src.txt", "seg_id": "src.txt_1501", "source": "CUTE", "old": "", "new": "Możesz zmierzyć się z innym\\nTRENEREM przez Game Link cable.", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:00", "file": "src.txt", "seg_id": "src.txt_1501", "source": "CUTE", "old": "Możesz zmierzyć się z innym\\nTRENEREM przez Game Link cable.", "new": "Uroczy", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:00", "file": "src.txt", "seg_id": "src.txt_1501", "source": "CUTE", "old": "Możesz zmierzyć się z innym\\nTRENEREM przez Game Link cable.", "new": "Uroczy", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:03", "file": "src.txt", "seg_id": "src.txt_1501", "source": "CUTE", "old": "Uroczy", "new": "UR", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:03", "file": "src.txt", "seg_id": "src.txt_1501", "source": "CUTE", "old": "UR", "new": "URO", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:03", "file": "src.txt", "seg_id": "src.txt_1501", "source": "CUTE", "old": "URO", "new": "UROC", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:03", "file": "src.txt", "seg_id": "src.txt_1501", "source": "CUTE", "old": "UROC", "new": "UROCZ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:03", "file": "src.txt", "seg_id": "src.txt_1501", "source": "CUTE", "old": "UROCZ", "new": "UROCZY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:07", "file": "src.txt", "seg_id": "src.txt_1502", "source": "SMART", "old": "…mądry…", "new": "Mądry", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:07", "file": "src.txt", "seg_id": "src.txt_1502", "source": "SMART", "old": "…mądry…", "new": "Mądry", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:08", "file": "src.txt", "seg_id": "src.txt_1502", "source": "SMART", "old": "Mądry", "new": "MĄDRY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:08", "file": "src.txt", "seg_id": "src.txt_1502", "source": "SMART", "old": "Mądry", "new": "MĄDRY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:10", "file": "src.txt", "seg_id": "src.txt_1503", "source": "TOUGH", "old": "", "new": "TWARDY", "translator": "Antrix", "method": "auto_tm", "tm_source": " CUTE → Możesz zmierzyć się z innym\\nT)"}
+{"time": "2026-10-18T14:48:10", "file": "src.txt", "seg_id": "src.txt_1503", "source": "TOUGH", "old": "", "new": "TWARDY", "translator": "Antrix", "method": "manual"}

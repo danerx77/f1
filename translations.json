@@ -13187,10 +13187,14 @@
  },
  "src.txt::src.txt_1501": {
   "source": "CUTE",
-  "target": "",
-  "status": "new",
+  "target": "UROC",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327683.7231715,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2061": {
   "source": "Come again.",
@@ -34773,10 +34777,14 @@
  },
  "src.txt::src.txt_1499": {
   "source": "COOL",
-  "target": "",
-  "status": "new",
+  "target": "FAJNY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327676.1726038,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_917": {
   "source": "BIG MUSHROOM",
@@ -75766,7 +75774,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327660.9644156,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2259": {
   "source": "My daughter likes to mimic people.\\nIt's rather vexing.\\pHer mimicry has earned her the\\nnickname COPYCAT around here.",
@@ -92617,7 +92630,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327643.768621,
+  "updated": 1792327644.544304,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_736": {
@@ -102374,10 +102387,14 @@
  },
  "src.txt::src.txt_1496": {
   "source": "BLACK",
-  "target": "",
-  "status": "new",
+  "target": "CZARNY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327651.6752324,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1399": {
   "source": "I go for power because I hate\\nthinking.",
@@ -106528,10 +106545,14 @@
  },
  "src.txt::src.txt_1497": {
   "source": "PINK",
-  "target": "",
-  "status": "new",
+  "target": "RÓŻOWY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327660.6024373,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_633": {
   "source": "A POKéMON that races across the land.\\nIt is said that one is born every time a\\nnew volcano appears.",
