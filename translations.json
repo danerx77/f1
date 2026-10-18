@@ -30171,7 +30171,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324368.0128825,
+  "updated": 1792324430.138157,
   "touched": true
  },
  "data maps.txt::data maps.txt_1480": {
@@ -31936,7 +31936,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324300.1852643,
+  "updated": 1792324443.4901474,
   "touched": true
  },
  "datatext.txt::datatext.txt_311": {
@@ -42106,7 +42106,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324289.791443,
+  "updated": 1792324419.9671662,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_682": {
@@ -70449,7 +70449,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324286.1766703,
+  "updated": 1792324421.988716,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1995": {
@@ -71219,12 +71219,12 @@
  },
  "datatext.txt::datatext.txt_652": {
   "source": "SP. ATK (Special Attack) indicates the\\npower of a special attack move.\\lThe higher this stat, the more powerful\\lthe special attack move.\\lIt is applied for the following move\\ltypes: FIRE, WATER, ELECTRIC, GRASS,\\lICE, PSYCHIC, DRAGON, and DARK.",
-  "target": "SP. ATAK (Atak Specjalny)\\noznacza siłę ruchu ataku specjalnego.\\lIm wyższa ta statystyka,\\ltym potężniejszy specjalny atak.\\lStosuje się go do następujących\\ltypów ruchów: OGIEŃ, WODA, ELEKTRYCZNY, TRAWA,\\lLÓD, PSYCHICZNY, SMOK i MROCZNY.",
+  "target": "SP. ATAK (Atak Specjalny)\\noznacza siłę ruchu ataku specjalnego.\\lIm wyższa ta statystyka,\\ltym potężniejszy specjalny atak.\\lStosuje się go do następujących\\ltypów ruchów: OGIEŃ, WODA, ELEKTRYCZNY, TRAWIASTY,\\lLÓD, PSYCHO, SMOK i MROCZNY.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324403.5147436,
+  "updated": 1792324416.6800935,
   "touched": true
  },
  "data maps.txt::data maps.txt_767": {
@@ -71478,7 +71478,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324293.940677,
+  "updated": 1792324423.805093,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1168": {
@@ -78110,7 +78110,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324297.5915406,
+  "updated": 1792324442.720773,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_929": {
@@ -93946,7 +93946,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324290.5567563,
+  "updated": 1792324427.2223895,
   "touched": true
  },
  "src.txt::src.txt_2599": {
@@ -99137,12 +99137,12 @@
  },
  "datatext.txt::datatext.txt_658": {
   "source": "All POKéMON can be made to hold one\\nitem each. Some items will be used by\\lthe POKéMON automatically in certain\\lsituations. To make a POKéMON hold an\\litem, select the item from the BAG and\\l“GIVE” it to the POKéMON.",
-  "target": "Wszystkie POKéMONY mogą trzymać po\\njednym przedmiocie. Niektóre przedmioty będą używane\\lautomatycznie przez POKéMONY w określonych\\lsytuacjach. Aby sprawić, że POKéMON\\lbędzie trzymał przedmiot, wybierz przedmiot z\\lPLECAKA i “DAJ” go POKéMONOWI.",
+  "target": "Wszystkie POKéMONY mogą trzymać po\\njednym przedmiocie. Niektóre przedmioty będą używane\\lautomatycznie przez POKéMONY w określonych\\lsytuacjach. Aby sprawić, że POKéMON\\lbędzie trzymał przedmiot, wybierz przedmiot z\\lTORBA i “DAJ” go POKéMONOWI.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324368.0128927,
+  "updated": 1792324440.130931,
   "touched": true
  },
  "data maps.txt::data maps.txt_2181": {
