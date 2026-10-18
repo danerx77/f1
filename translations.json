@@ -73207,13 +73207,13 @@
  },
  "datascript.txt::datascript.txt_50": {
   "source": "To use the BERRY CRUSH service,\\nyou must have at least one BERRY.",
-  "target": "To use the BERRY CRUSH service,\\nyou must have at least one BERRY.",
+  "target": "Aby korzystać z usługi BERRY CRUSH,\\nmusisz mieć przynajmniej jedną JAGODĘ.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792320670.9354835,
+  "updated": 1792320708.5195446,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_637": {
@@ -93831,13 +93831,13 @@
  },
  "datascript.txt::datascript.txt_51": {
   "source": "To enter the UNION ROOM, you must\\nhave at least two POKéMON.",
-  "target": "To enter the UNION ROOM, you must\\nhave at least two POKéMON.",
+  "target": "Aby wejść do POKéMON UNION ROOM,\\nmusisz mieć co najmniej dwa POKéMON.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792320672.567947,
+  "updated": 1792320712.6701763,
   "touched": true
  },
  "data maps.txt::data maps.txt_2134": {
