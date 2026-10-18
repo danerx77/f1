@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T130025Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T130626Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -162523,10 +162523,6 @@
       <tuv xml:lang="pl"><seg>ZAMIEŃ</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>RECEIVE</seg></tuv>
-      <tuv xml:lang="pl"><seg>OTRZYMAJ</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>First, we will hold your Pokémon in\nexchange for you renting our Pokémon.\rMay I suggest choosing Pokémon after\nappropriate deliberation?\r</seg></tuv>
       <tuv xml:lang="pl"><seg>Najpierw, przechowamy twoje Pokémony\nna czas korzystania z naszych.\rCzy mogę zasugerować wybranie Pokémonów\npo dokładnym zastanowieniu?\r</seg></tuv>
     </tu>
@@ -239263,10 +239259,6 @@
       <tuv xml:lang="pl"><seg>DUCH</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>GREETINGS</seg></tuv>
-      <tuv xml:lang="pl"><seg>POWITANIA</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>Awaiting {STR_VAR_1}'s response…</seg></tuv>
       <tuv xml:lang="pl"><seg>Oczekiwanie na odpowiedź od\n{STR_VAR_1}...</seg></tuv>
     </tu>
@@ -294905,6 +294897,34 @@
     <tu>
       <tuv xml:lang="en"><seg>Crushing Results</seg></tuv>
       <tuv xml:lang="pl"><seg>Ogromne Wyniki</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Wireless Communication Status</seg></tuv>
+      <tuv xml:lang="pl"><seg>Status komunikacji bezprzewodowej</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>People trading:</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ludzie wymierający:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>People in the UNION ROOM:</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ludzie w POKOJU UNION:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RECEIVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>OTRZYMAJ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GREETINGS</seg></tuv>
+      <tuv xml:lang="pl"><seg>POWITANIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON JUMP</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMON SKOKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TV</seg></tuv>
+      <tuv xml:lang="pl"><seg>TV</seg></tuv>
     </tu>
   </body>
 </tmx>
