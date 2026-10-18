@@ -51705,10 +51705,14 @@
  },
  "src.txt::src.txt_2237": {
   "source": "Wireless Communication Status",
-  "target": "",
-  "status": "new",
+  "target": "Wireless Communication Status",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792328457.042526,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1096": {
   "source": "When it sucks in a large volume of\\nseawater, it becomes like a big, bouncy\\nball. It eats a ton of food daily.",
