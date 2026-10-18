@@ -51052,10 +51052,14 @@
  },
  "src.txt::src.txt_1191": {
   "source": "--",
-  "target": "--",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1792329888.2842898,
+  "touched": true
  },
  "datatext.txt::datatext.txt_127": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}TEAM ROCKET captures POKéMON from\\naround the world.\\pThey're important tools for keeping\\nour criminal enterprise going.\\pI am the leader, GIOVANNI!",
@@ -55971,10 +55975,14 @@
  },
  "src.txt::src.txt_1190": {
   "source": "-",
-  "target": "-",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1792329884.1237924,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_334": {
   "source": "FLAIL",
@@ -83851,16 +83859,20 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_1134": {
+  "source": "-----",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1792329875.1708596,
+  "touched": true
+ },
  "srcdatapokemon.txt::srcdatapokemon.txt_596": {
   "source": "It usually clings to cliffs. When it spots\\nits prey, it spreads its wings and glides\\ndown to attack.",
   "target": "Przylega do klifów. Kiedy dostrzega\\nswoją zdobycz, rozściela skrzydła\\ni ślizga się, aby zaatakować.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "srcdatatext.txt::srcdatatext.txt_238": {
-  "source": "SLEEP POWDER",
-  "target": "PYŁEK SNU",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -83875,9 +83887,9 @@
   "updated": 1791132676.9364607,
   "touched": true
  },
- "src.txt::src.txt_1134": {
-  "source": "-----",
-  "target": "-----",
+ "srcdatatext.txt::srcdatatext.txt_238": {
+  "source": "SLEEP POWDER",
+  "target": "PYŁEK SNU",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -102944,10 +102956,14 @@
  },
  "src.txt::src.txt_1192": {
   "source": "---",
-  "target": "---",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1792329892.916464,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_235": {
   "source": "RHYDON DOLL",
