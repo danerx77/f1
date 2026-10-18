@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T105417Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T124127Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -88531,20 +88531,8 @@
       <tuv xml:lang="pl"><seg>There’s no more room for adding\nSTAMPS.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>Your record has been uploaded via\nWIRELESS COMMUNICATION.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Communication has been canceled.</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>A WONDER CARD has been received\nfrom [buffer1].</seg></tuv>
       <tuv xml:lang="pl"><seg>You can’t accept WONDER NEWS\nfrom this TRAINER.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>A new WONDER CARD has been\nreceived.</seg></tuv>
-      <tuv xml:lang="pl"><seg>You can’t accept a WONDER CARD\nfrom this TRAINER.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>A new WONDER NEWS item has been\nreceived.</seg></tuv>
-      <tuv xml:lang="pl"><seg>A new TRAINER has arrived.</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>There’s no room left now.</seg></tuv>
@@ -90991,10 +90979,6 @@
       <tuv xml:lang="pl"><seg>A new WONDER CARD has been\nreceived.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>A new TRAINER has arrived.</seg></tuv>
-      <tuv xml:lang="pl"><seg>A new WONDER NEWS item has been\nreceived.</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>You can’t hold any more!</seg></tuv>
       <tuv xml:lang="pl"><seg>There’s no room left now.</seg></tuv>
     </tu>
@@ -92965,14 +92949,6 @@
     <tu>
       <tuv xml:lang="en"><seg>Using “POKéMON”</seg></tuv>
       <tuv xml:lang="pl"><seg>Użył  “POKéMON”</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Using “SWITCH”</seg></tuv>
-      <tuv xml:lang="pl"><seg>Użył “ZAMIANA”</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Using “ITEM”</seg></tuv>
-      <tuv xml:lang="pl"><seg>Użył “ITEM”</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Survey Report:</seg></tuv>
@@ -184343,10 +184319,6 @@
       <tuv xml:lang="pl"><seg>KTO</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>FRIEND</seg></tuv>
-      <tuv xml:lang="pl"><seg>PRZYJACIEL</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>ALLY</seg></tuv>
       <tuv xml:lang="pl"><seg>SOJUSZNIK</seg></tuv>
     </tu>
@@ -184665,10 +184637,6 @@
     <tu>
       <tuv xml:lang="en"><seg>MUSIC</seg></tuv>
       <tuv xml:lang="pl"><seg>MUZYKA</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>CARDS</seg></tuv>
-      <tuv xml:lang="pl"><seg>KARTY</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>SHOPPING</seg></tuv>
@@ -238979,34 +238947,6 @@
       <tuv xml:lang="pl"><seg>NOKAUT</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>HP UP{CLEAR_TO 0x65}{FONT_SMALL}1,000</seg></tuv>
-      <tuv xml:lang="pl"><seg>HP UP{CLEAR_TO 0x65}{FONT_SMALL}1,000</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>PP UP{CLEAR_TO 0x65}{FONT_SMALL}3,000</seg></tuv>
-      <tuv xml:lang="pl"><seg>PP UP{CLEAR_TO 0x65}{FONT_SMALL}3,000</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>{PLAYER}'s BATTLE RESULTS</seg></tuv>
-      <tuv xml:lang="pl"><seg>{PLAYER} WYNIKI BITEW</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Your party's full!</seg></tuv>
-      <tuv xml:lang="pl"><seg>Twoja drużyna jest pełna!</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>MAIL can't be stored!</seg></tuv>
-      <tuv xml:lang="pl"><seg>Nie można złożyć LISTU!</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Machine set!\p</seg></tuv>
-      <tuv xml:lang="pl"><seg>Maszyna gotowa!\p</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>HELLO</seg></tuv>
-      <tuv xml:lang="pl"><seg>HALO?</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>You can pass here only if you have\nthe {STR_VAR_1}.\pYou don't have the {STR_VAR_1}\nyet.\pYou have to have it to get to\nthe POKéMON LEAGUE.</seg></tuv>
       <tuv xml:lang="pl"><seg>Możesz przejść tylko jeśli masz\n{STR_VAR_1}.\pNie masz jeszcze {STR_VAR_1}.\nMusisz ją zdobyć, by móc wkroczyć\pdo LIGI POKéMONÓW.</seg></tuv>
     </tu>
@@ -239213,10 +239153,6 @@
     <tu>
       <tuv xml:lang="en"><seg>Using “SUMMARY”</seg></tuv>
       <tuv xml:lang="pl"><seg>Użył “PODSUMOWANIA”</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Reading the “POKéDEX”</seg></tuv>
-      <tuv xml:lang="pl"><seg>Czytanie „POKéDEX”</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Using the PC at home</seg></tuv>
@@ -254795,10 +254731,6 @@
       <tuv xml:lang="pl"><seg>Misja ratowania siebie[N]została rozpoczęta. Wrócisz do swojego[L]własnego świata.[E]</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>TRADE</seg></tuv>
-      <tuv xml:lang="pl"><seg>WYMIANA</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>TRIPLE BATTLE</seg></tuv>
       <tuv xml:lang="pl"><seg>POTRÓJNA WALKA</seg></tuv>
     </tu>
@@ -261225,10 +261157,6 @@
     <tu>
       <tuv xml:lang="en"><seg>Numbers may contain[N]only up to four digits.</seg></tuv>
       <tuv xml:lang="pl"><seg>Numery mogą zawierać[N]tylko do czterech cyfr.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Communication error.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Błąd komunikacji.</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Communication error.[N]Please turn off the power.</seg></tuv>
@@ -293867,10 +293795,6 @@
       <tuv xml:lang="pl"><seg>If you want to play a game,\nplease tell the man beside me.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>“DODRIO BERRY-PICKING”\pCommand DODRIO's three heads to\ncatch falling BERRIES.\pPress right, up, or left on the\n{PLUS} Control Pad to move the heads.\pTo play this game, you must have\na DODRIO.</seg></tuv>
-      <tuv xml:lang="pl"><seg>„DODRIO ZBIÓR OWOCÓW”\pRozkaż trzem głowom DODRIO,\naby łapały spadające JAGODY.\pNaciśnij w prawo, w górę lub w lewo\nna padzie sterującym {PLUS} , aby poruszać głowami.\pAby grać w tę\ngrę, musisz mieć DODRIO.</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>All right, which game did you want\nto play?</seg></tuv>
       <tuv xml:lang="pl"><seg>Dobrze, w jaką\ngrę chciałeś zagrać?</seg></tuv>
     </tu>
@@ -293881,14 +293805,6 @@
     <tu>
       <tuv xml:lang="en"><seg>It doesn't look like you have any\nPOKéMON that you can enter…\pWould you like me to explain what\nkinds of POKéMON can enter?</seg></tuv>
       <tuv xml:lang="pl"><seg>Wygląda na to, że nie masz\nżadnych POKéMON, które mógłbyś wprowadzić…\pChciałbyś, żebym wyjaśnił, jakie\nrodzaje POKéMON mogą wejść?</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>“POKéMON JUMP” is open to POKéMON\naround 28 inches or less.\pWhat you can't enter are those\nPOKéMON that can't jump.\pYou know, like POKéMON that only\nswim, burrow, or fly.\pThat's all you need to know.</seg></tuv>
-      <tuv xml:lang="pl"><seg>„POKéMON JUMP” jest otwarte dla POKéMON\no wysokości około 28 cali lub mniej.\pTych Pokémonów, które nie\npotrafią skakać, nie można wprowadzać.\pWiesz, jak POKéMON, które tylko\npływają, kopią tunele albo latają.\pTo wszystko, co musisz wiedzieć.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>“DODRIO BERRY-PICKING”…\nWell, the name says it all.\pYou have to have a DODRIO to play\nthis game.</seg></tuv>
-      <tuv xml:lang="pl"><seg>„DODRIO ZBIÓR OWOCÓW BERRY”…\nCóż, sama nazwa mówi wszystko.\pMusisz mieć DODRIO, aby\nzagrać w tę grę.</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>I'm awfully sorry.\pWe're not set up to conduct trades\nwith TRAINERS far away in another\lregion yet…</seg></tuv>
@@ -293929,6 +293845,982 @@
     <tu>
       <tuv xml:lang="en"><seg>This is the POKéMON WIRELESS CLUB\nUNION ROOM.\pUnfortunately, your Wireless\nAdapter is not connected properly.\pPlease do come again.</seg></tuv>
       <tuv xml:lang="pl"><seg>To jest POKéMON BEZPRZEWODOWY\nKLUB POKÓJ UNION.\pNiestety, Twój adapter bezprzewodowy\nnie jest prawidłowo podłączony.\pProszę, przyjdź ponownie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: PSYCHIC, GHOST\p   {TRIANGLE}: FIGHTING, DARK, STEEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: PSYCHO, DUCH\p   {TRIANGLE}: WALCZĄCY, MROCZNY, STALOWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: FIGHTING, BUG\p   {TRIANGLE}: GHOST, DARK\p   {BIG_MULT_X}: PSYCHIC</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: WALKA, ROBCZY\p   {TRIANGLE}: DUCH, MROCZNY\p   {BIG_MULT_X}: PSYCHO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: FIRE, ICE, FLYING, BUG\p   {TRIANGLE}: FIGHTING, GROUND, STEEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: OGNISTY, LODOWY, LATAJACY, ROBACZY\p   {TRIANGLE}: WALCZĄCY, ZIEMNY, STALOWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: WATER, GRASS, FIGHTING,\n       GROUND, STEEL\p   {TRIANGLE}: NORMAL, FIRE, POISON, FLYING</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}:\nWODNY, TRAWIASTY, WALCZĄCY, ZIEMNY, STALOWY\p   {TRIANGLE}: NORMALNY, OGNISTY, TRUJĄCY, LATAJĄCY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: FIGHTING, POISON\p   {TRIANGLE}: PSYCHIC, STEEL\p   {BIG_MULT_X}: DARK</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: WALCZĄCY, TRUJĄCY\p   {TRIANGLE}: PSYCHO, STALOWY\p   {BIG_MULT_X}: MROCZNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: BUG, GHOST, DARK\p   {TRIANGLE}: FIGHTING, PSYCHIC</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: ROBACZY, DUCH, MROCZNY\p   {TRIANGLE}: WALCZĄCY, PSYCHO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: NORMAL, ICE, ROCK, DARK, STEEL\p   {TRIANGLE}: POISON, FLYING, PSYCHIC, BUG\p   {BIG_MULT_X}: GHOST</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: NORMALNY, LODOWY, KAMIENNY, MROCZNY, STALOWY\p{TRIANGLE}: TRUJĄCY, LATAJĄCY, PSYCHO, ROBACZY\p   {BIG_MULT_X}: DUCH</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: FLYING, PSYCHIC\p   {TRIANGLE}: BUG, ROCK, DARK</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: LATAJĄCY, PSYCHO\p   {TRIANGLE}: ROBACZY, KAMIENNY, MROCZNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: WATER, GROUND, ROCK\p   {TRIANGLE}: FIRE, GRASS, POISON, FLYING,\n       BUG, DRAGON, STEEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: WODNY, ZIEMNY, KAMIENNY\p   {TRIANGLE}: OGNISTY, TTRAWIASTY,\nTRUJĄCY, LATAJĄCY, ROBACZY, SMOK, STALOWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: FIRE, ICE, POISON, FLYING, BUG\p   {TRIANGLE}: WATER, ELECTRIC, GRASS, GROUND</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: OGNISTY, LÓD, TRUCIZNA, LOT, ROBACZY\p   {TRIANGLE}: WODA, ELEKTRYCZNY, TRAWA, ZIEMIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: PSYCHIC, GHOST\p   {TRIANGLE}: DARK, STEEL\p   {BIG_MULT_X}: NORMAL</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: PSYCHO, DUCH\p   {TRIANGLE}: MROCZNY, STALOWY\p   {BIG_MULT_X}: NORMALNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: GHOST, DARK\p   {TRIANGLE}: POISON, BUG\p   {BIG_MULT_X}: NORMAL, FIGHTING</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: DUCH, MROCZNY\p   {TRIANGLE}: TRUCIZNA, ROBACZY\p   {BIG_MULT_X}: NORMALNY, WALCZĄCY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: GRASS, GROUND, FLYING, DRAGON\p   {TRIANGLE}: FIRE, WATER, ICE, STEEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ na przeciwnika POKéMON:\pTRAWIASTY, ZIEMNY, LATAJĄCY, SMOK{CIRCLE_DOT}\p   {TRIANGLE}: OGIEŃ, WODA, LÓD, STAL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: GRASS, PSYCHIC, DARK\p   {TRIANGLE}: FIRE, FIGHTING, POISON,\n       FLYING, GHOST, STEEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: TRAWIASTY, PSYCHO MROCZNY\p   {TRIANGLE}: OGNIOWY,\nWALKI, TRUJĄCY, LATAJĄCY, DUCH, STALOWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: ELECTRIC, GRASS\p   {TRIANGLE}: FIRE, WATER, ICE, STEEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: ELEKTRYCZNY, TRAWIASTY\p   {TRIANGLE}: OGIEŃ, WODA, LÓD, STAL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: FIRE, GROUND, ROCK\p   {TRIANGLE}: WATER, GRASS, DRAGON</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ na przeciwnika POKéMON:\p{CIRCLE_DOT}: OGNISTY, ZIEMIA, KAMENNY\p   {TRIANGLE}: WODA, TRAWIASTY, SMOK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: WATER, GROUND, ROCK\p   {TRIANGLE}: FIRE, GRASS, ICE, BUG, STEEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: WODA, ZIEMIA, SKAŁA\p   {TRIANGLE}: OGNIEŃ, TRAWA, LÓD, ROBACZY, STAL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: GRASS, ICE, BUG, STEEL\p   {TRIANGLE}: FIRE, WATER, ROCK, DRAGON</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: TRAWIASTY, LÓD, ROBACZY, STAL\p   {TRIANGLE}: OGIEŃ, WODA, SKAŁA, SMOK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: ELECTRIC, ICE, ROCK\p   {TRIANGLE}: GRASS, FIGHTING, BUG\p   {BIG_MULT_X}: GROUND</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: ELEKTRYCZNY, LÓD, KAMIENNY\p   {TRIANGLE}: TRAWIASTY, WALCZĄCY, ROBACZY\p   {BIG_MULT_X}: ZIEMIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: GRASS, FIGHTING, BUG\p   {TRIANGLE}: ELECTRIC, ROCK, STEEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: TRAWIASTY, WALCĄCY, ROBACZY\p   {TRIANGLE}: ELEKTRYCZNY, KAMIENNY, STALOWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: FIRE, FIGHTING, GROUND\n   {TRIANGLE}: NORMAL, GRASS, ICE, FLYING,\l       PSYCHIC, BUG, ROCK, GHOST,\l       DRAGON, DARK, STEEL\l   {BIG_MULT_X}: POISON</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}:\nOGIEŃ, WALKI, ZIEMIA {TRIANGLE}:\lNORMALNY, TRAWIASTY, LODOWY, LOT, PSYCHO\lROBACZY, SKAŁA, DUCH, SMOK,\lMROCZNY STAL {BIG_MULT_X}: TRUJĄCY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: FIGHTING\p   {BIG_MULT_X}: GHOST</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: WALCZĄCY\p   {BIG_MULT_X}: DUCH</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: FIRE, ELECTRIC, POISON, ROCK,\n       STEEL\p   {TRIANGLE}: GRASS, BUG\n   {BIG_MULT_X}: FLYING</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}:\nOGIEŃ, ELEKTRYCZNY, TRUJĄCY, SKAŁA, STAL\p   {TRIANGLE}:\nTRAWIASTY, ROBACZY {BIG_MULT_X}: LATAJĄCY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: ICE, DRAGON\p   {TRIANGLE}: FIRE, WATER, ELECTRIC, GRASS</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: LÓD, SMOK\p   {TRIANGLE}: OGIEŃ, WODA, ELEKTRYCZNY, TRAWIASTY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: GROUND, PSYCHIC\p   {TRIANGLE}: GRASS, FIGHTING, POISON, BUG</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: ZIEMIA, PSYCHICZNY\p   {TRIANGLE}: TRAWIASTY, WALKI, TRUJĄCE, ROBACZKOWE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A status problem refers to an ailment\nthat is inflicted on a POKéMON by its\lfoe's attack. These include burns,\lparalysis, poisoning, sleep, and\lfreezing. These can be healed by\lvisiting a POKéMON CENTER or using\lthe appropriate item.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Problem statusowy odnosi się do\ndolegliwości, która jest zadawana POKéMONOWI\lprzez atak wroga. Należą do\lnich oparzenia, paraliż, zatrucie, sen\li zamrożenie. Mogą one zostać\lwyleczone poprzez wizytę w CENTRUM\lPOKéMON lub użycie odpowiedniego przedmiotu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The key to making your POKéMON\nstrong is to battle and win often.\lThe EXP. (Experience) Points earned\lby winning battles accumulate to\llevel up POKéMON that participated in\lthem. Battle wild POKéMON often to\llevel up your party.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kluczem do uczynienia swoich POKéMONÓW silnymi\njest częste walczenie i wygrywanie.\lPunkty EXP. (Doświadczenia) zdobyte poprzez\lwygrywanie bitew kumulują się, aby podnieść\lpoziom POKéMONÓW, które w nich\luczestniczyły. Często walcz z dzikimi POKéMONAMI,\laby podnieść poziom swojej drużyny.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Use the FAME CHECKER among the\nKEY ITEMS in your BAG.\lIt may give you a hint, so try it out.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użyj PRZYPOMINACZ wśród\nKLUCZOWYCH PRZEDMIOTÓW w twojej TORBIE.\lTo może dać ci wskazówkę, więc spróbuj.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The FAME CHECKER will be closed.</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRZYPOMINACZ został zamknięty.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Try to catch wild POKéMON by throwing\nthe special SAFARI BALLS.\lYou may keep any item you find, too.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Spróbuj złapać dzikie POKéMONY,\nrzucając specjalne SAFARI BALLS.\lMożesz też zatrzymać każdy przedmiot, który znajdziesz.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Your SAFARI GAME ends once you have\ntraveled a certain distance or thrown\lall your SAFARI BALLS.\lOpen the MENU to check the remaining\lnumber of steps and SAFARI BALLS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Twoja GRA SAFARI kończy się,\ngdy przebyjesz określony dystans lub\lużyjesz wszystkich swoich SAFARI BALLS.\lOtwórz MENU, aby sprawdzić pozostałą\lliczbę kroków i SAFARI BALLS.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON GYMS are operated by the\nPOKéMON LEAGUE and are training\lfacilities for TRAINERS. They are all\lacross the land in cities and towns.\lEach one is headed by a LEADER, who\lis a very skilled TRAINER. Beat the\lLEADER to collect a BADGE.</seg></tuv>
+      <tuv xml:lang="pl"><seg>SALA POKéMON są prowadzone przez LIGĘ\nPOKéMON i są miejscami treningowymi dla\lTRENERÓW. Znajdują się one w\lcałym kraju w miastach i miasteczkach.\lKażdą z nich kieruje LIDER,\lktóry jest bardzo wykwalifikowanym TRENEREM.\lPokonaj LIDERA, aby zdobyć ODZNAKĘ.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “SWITCH”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “ZAMIANA”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Using “ITEM”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użył “PRZEDMIOTU”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select to throw the special POKé\n   BALL used only in the SAFARI ZONE.\nWhen wild POKéMON appear, throw lots\nof SAFARI BALLS to catch them!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz, aby rzucić specjalną POKéBALL\nużywaną tylko w STREFIE SAFARI.\nGdy pojawią się dzikie POKéMONY, rzucaj\nwieloma SAFARI BALLS, aby je złapać!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “HALL OF FAME” on the PC.\n{CIRCLE_2} The POKéMON that have entered the\n   HALL OF FAME can be examined.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wybierz “HALA SŁAWY” na PC.{CIRCLE_1}\n{CIRCLE_2} POKéMON, które weszły do\nSALI SŁAW, mogą zostać zbadane.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Reading the “POKéDEX”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czytanie “POKéDEX”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “POKéDEX” on the MENU.\n{CIRCLE_2} Choose POKéMON using commands such\n   as “POKéMON LIST,”\n   “HABITATS OF POKéMON,” and\n   “SEARCH.”\n{CIRCLE_3} Select a POKéMON to obtain detailed\n   information.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “POKéDEX” w MENU.\n{CIRCLE_2} Wybierz POKéMON-a,\nużywając poleceń takich jak\n“LISTA POKéMONÓW”, “SIEDLISKA\nPOKéMONÓW” i “SZUKAJ”.\n{CIRCLE_3} Wybierz POKéMON-a, aby\nuzyskać szczegółowe informacje.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “POKéMON” on the MENU.\n{CIRCLE_2} Choose a POKéMON in your party.\n{CIRCLE_3} Select “SUMMARY,” “SWITCH,”\n   or “ITEM.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “POKéMON” w MENU.\n{CIRCLE_2} Wybierz POKéMONA w swojej drużynie.\n{CIRCLE_3} Wybierz “PODSUMOWANIE”,\n“PRZEŁĄCZ” lub “ELEMENT.”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Choose the POKéMON you want to\n   switch around.\n{CIRCLE_2} Select “SWITCH.”\n{CIRCLE_3} Select the POKéMON to switch with\n   the first one.\nThe POKéMON at the left of the screen\nwill be the first one out in a battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz POKéMONA,\nktórego chcesz zamienić.\n{CIRCLE_2} Wybierz “ZMIANA.” {CIRCLE_3}\nWybierz POKéMONA, którego\nchcesz zamienić z pierwszym.\nPOKéMON po lewej stronie ekranu będzie\ntym, który wyjdzie jako pierwszy w walce.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “ITEM.”\n{CIRCLE_2} Select whether you want to “GIVE”\n   an item to the POKéMON to hold,\n   or “TAKE” an item it is holding.\nA POKéMON can hold no more than one\nitem!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “PRZEDMIOT.” {CIRCLE_2}\nWybierz, czy chcesz “DAĆ” przedmiot,\naby POKéMON go trzymał, czy\n“WZIĄĆ” przedmiot, który trzyma.\nPOKéMON nie może trzymać\nwięcej niż jednego przedmiotu!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “BAG” on the MENU.\n{CIRCLE_2} Press left or right on the {PLUS} Control\n   Pad to check the data headings:\n   “ITEMS”\n   “KEY ITEMS”\n   “POKé BALLS”\n   Press up or down to select an item.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “TORBA” w MENU.\n{CIRCLE_2} Naciśnij w lewo lub w prawo na\n{PLUS} Panelu sterowania, aby sprawdzić nagłówki danych:\n   “PRZEDMIOTY”\n“KLUCZOWE PRZEDMIOTY” “POKé BALLS”\nNaciśnij w górę lub w\ndół, aby wybrać przedmiot.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select the “ITEMS” POCKET.\n{CIRCLE_2} Press up or down on the {PLUS} Control\n   Pad to select an item.\n{CIRCLE_3} Select “USE” to use the selected\n   item.\nSome items may not be used depending\non the place and/or situation.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz kieszeń “PRZEDMIOTY”.\n{CIRCLE_2} Naciśnij w górę lub w dół\nna {PLUS} Panelu sterowania, aby wybrać element.\n{CIRCLE_3} Wybierz “UŻYJ”, aby\nużyć wybranego przedmiotu.\nNiektóre przedmioty mogą nie być używane\nw zależności od miejsca i\nlub sytuacji.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select the “KEY ITEMS” POCKET.\n{CIRCLE_2} Press up or down on the {PLUS} Control\n   Pad to select a key item.\n{CIRCLE_3} Select “USE” to use the selected\n   key item.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz kieszeń “KLUCZOWE PRZEDMIOTY”.\n{CIRCLE_2} Naciśnij w górę lub w dół na\n{PLUS} Panelu sterowania, aby wybrać kluczowy przedmiot.\n{CIRCLE_3} Wybierz “UŻYJ”, aby\nużyć wybranego kluczowego przedmiotu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} While battling a wild POKéMON,\n   select the BAG's “POKé BALLS”\n   POCKET.\n{CIRCLE_2} Press up or down on the {PLUS} Control\n   Pad to select a POKé BALL.\n{CIRCLE_3} Select “USE” to throw the selected\n   POKé BALL.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Podczas walki z\ndzikim POKéMONEM, wybierz\n“POKé BALLE” w TORBIE.\n{CIRCLE_2} Naciśnij w górę lub w dół na\n{PLUS} Padzie sterowania, aby wybrać POKé BALL.\n{CIRCLE_3} Wybierz “UŻYJ”, aby\nrzucić wybraną POKé BALL.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “{PLAYER}” on the MENU.\n{CIRCLE_2} Your TRAINER CARD is displayed face\n   up with basic information. Press the\n   A Button to turn the CARD over.\n{CIRCLE_3} A variety of data can be found on\n   the reverse side of the CARD.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wybierz “{PLAYER}” w MENU.{CIRCLE_1}\n{CIRCLE_2} Twoja KARTA TRENERA jest wyświetlana\nstroną do góry z podstawowymi informacjami.\nNaciśnij przycisk A, aby odwrócić KARTĘ.\n{CIRCLE_3} Różne dane można\nznaleźć na odwrocie KARTY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “SAVE” on the MENU.\n{CIRCLE_2} Select “YES” and your progress is\n   recorded in the save file.\nOnce the game is saved, you may turn\noff the game. Your game can be resumed\nfrom where you saved.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “ZAPISZ” w MENU.\n{CIRCLE_2} Wybierz “TAK”, a Twój postęp\nzostanie zapisany w pliku zapisu.\nPo zapisaniu gry możesz ją\nwyłączyć. Grę można wznowić od\nmiejsca, w którym ją zapisano.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “OPTION” on the MENU.\n{CIRCLE_2} Press up or down on the {PLUS} Control\n   Pad to select an optional item, then\n   press left or right to alter the\n   settings.\n{CIRCLE_3} Select “CANCEL” or press the\n   B Button after making changes.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “OPCJĘ” w MENU.\n{CIRCLE_2} Naciśnij w górę lub w\ndół na {PLUS} Panelu Sterowania, aby\nwybrać opcjonalny element, następnie naciśnij w lewo\nlub w prawo, aby zmienić ustawienia.\n{CIRCLE_3} Wybierz “ANULUJ” lub naciśnij\nprzycisk B po wprowadzeniu zmian.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Open the MENU.\n{CIRCLE_2} Press up or down on the {PLUS} Control\n   Pad and select “BAG.”\n{CIRCLE_3} Select “POTION” in the “ITEMS”\n   POCKET.\n{CIRCLE_4} Select “USE.”\n{CIRCLE_5} Select the POKéMON to be healed.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Otwórz MENU.\n{CIRCLE_2} Naciśnij w górę lub\nw dół na {PLUS} Panelu\nSterowania i wybierz “TORBA.” {CIRCLE_3}\nWybierz “MIKSTURA” w przegródce “PRZEDMIOTY.”\n{CIRCLE_4} Wybierz “UŻYJ.” {CIRCLE_5}\nWybierz POKéMONA do wyleczenia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Open the MENU.\n{CIRCLE_2} Press up or down on the {PLUS} Control\n   Pad and select “BAG.”\n{CIRCLE_3} Press left or right to open the\n   “KEY ITEMS” POCKET, then press\n   up or down to select “TOWN MAP.” \n{CIRCLE_4} Select “USE” to open the TOWN MAP.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Otwórz MENU.\n{CIRCLE_2} Naciśnij w górę lub w dół na\n{PLUS} Panelu Sterowania i wybierz “TORBĘ”. {CIRCLE_3}\nNaciśnij w lewo lub w prawo, aby\notworzyć przegródkę “KLUCZOWE PRZEDMIOTY”, a następnie naciśnij w\ngórę lub w dół, aby wybrać “MAPA MIASTA”.\n{CIRCLE_4} Wybierz “UŻYJ”, aby otworzyć MAPĘ.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Open the MENU.\n{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\n   “BAG.”\n{CIRCLE_3} “OPEN” the TM CASE.\n{CIRCLE_4} Select and “USE” a TM.\n{CIRCLE_5} Select a POKéMON that can learn the\n   move in the TM.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Otwórz MENU.\n{CIRCLE_2} Otwórz KIESZEŃ “KLUCZOWE\nPRZEDMIOTY” w “TORBIE” {CIRCLE_3}\n“OTWÓRZ” etui z TM.\n{CIRCLE_4} Wybierz i “UŻYJ” TM.\n{CIRCLE_5} Wybierz POKéMONA, który może\nnauczyć się ruchu z TM.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Open the MENU.\n{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\n   “BAG.”\n{CIRCLE_3} “OPEN” the TM CASE.\n{CIRCLE_4} Select and “USE” an HM.\n{CIRCLE_5} Select a POKéMON that can learn it.\nHMs are hard to remove, so be careful!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Otwórz MENU.\n{CIRCLE_2} Otwórz KIESZEŃ “KLUCZOWE\nPRZEDMIOTY” w “TORBA.” {CIRCLE_3}\n“OTWÓRZ” etui z TM.\n{CIRCLE_4} Wybierz i “UŻYJ” HM.\n{CIRCLE_5} Wybierz POKéMONA, który może się go nauczyć.\nHMs są trudne do usunięcia, więc bądź ostrożny!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Open the MENU.\n{CIRCLE_2} Select “POKéMON.”\n{CIRCLE_3} Select a POKéMON that knows an\n   HM move. The usable HM move(s)\n   will be shown in blue. Select and\n   use the desired move to destroy an\n   obstacle, fly, surf, etc.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Otwórz MENU.\n{CIRCLE_2} Wybierz “POKéMON.” {CIRCLE_3} Wybierz\nPOKéMONA, który zna ruch\nHM. Dostępne ruchy HM będą\npokazane na niebiesko. Wybierz i\nużyj pożądanego ruchu, aby\nzniszczyć przeszkodę, latać, surfować itp.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Open the MENU. Open the\n   “KEY ITEMS” POCKET in the “BAG”\n   and select the “BICYCLE.”\n{CIRCLE_2} The BICYCLE can be ridden by\n   selecting “USE.” You may also\n   “REGISTER” it for instant use by\n   pressing SELECT.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Otwórz MENU. Otwórz\nkieszeń “KLUCZOWE PRZEDMIOTY” w\n“PLECAKU” i wybierz “ROWER.”\n{CIRCLE_2} ROWER można\nużywać, wybierając “UŻYJ.” Możesz\nrównież “ZAREJESTROWAĆ” go do\nnatychmiastowego użycia, naciskając WYIBERZ.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Move the cursor to the letter you\n   want with the {PLUS} Control Pad, then\n   press the A Button to enter it.\n{CIRCLE_2} Press the B Button to back up.\n{CIRCLE_3} Press SELECT to switch between\n   uppercase and lowercase letters.\n{CIRCLE_4} Press the A Button on “OK.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Przesuń kursor na literę, którą chcesz\nwybrać, za pomocą {PLUS} Panelu sterowania, a\nnastępnie naciśnij przycisk A, aby ją wprowadzić.\n{CIRCLE_2} Naciśnij przycisk B, aby cofnąć.\n{CIRCLE_3} Naciśnij WYBIERZ, aby przełączać się\nmiędzy wielkimi i małymi literami.\n{CIRCLE_4} Naciśnij przycisk A na “OK.”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>“POKéMON JUMP”\pMake your POKéMON skip the\nVINE WHIP rope with the A Button.\pOnly mini POKéMON around 28 inches\nor less may participate.\pPOKéMON that only swim, burrow, or\nfly are not good at jumping.\pAs a result, those POKéMON may not\nparticipate.\pGood things happen if everyone\njumps in time.</seg></tuv>
+      <tuv xml:lang="pl"><seg>“POKéMON JUMP”\pSpraw, aby twój POKéMON przeskoczył przez\nlinę WIĄZAŃCĄ WĄZEM przyciskiem A.\pUczestniczyć mogą tylko mini POKéMON o\ndługości około 28 cali lub mniej.\pPOKéMON, które tylko pływają, kopią lub\nlatają, nie są dobre w skakaniu.\pW rezultacie te POKéMONY\nmogą nie uczestniczyć.\pDobre rzeczy się dzieją,\njeśli wszyscy skaczą w rytmie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>“DODRIO BERRY-PICKING”\pCommand DODRIO's three heads to\ncatch falling BERRIES.\pPress right, up, or left on the\n{PLUS} Control Pad to move the heads.\pTo play this game, you must have\na DODRIO.</seg></tuv>
+      <tuv xml:lang="pl"><seg>“DODRIO ZBIÓR OWOCÓW”\pRozkaż trzem głowom DODRIO,\naby łapały spadające JAGODY.\pNaciśnij w prawo, w górę lub w lewo\nna padzie sterującym {PLUS} , aby poruszać głowami.\pAby grać w tę\ngrę, musisz mieć DODRIO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select a POKéMON in the open BOX\n   with the {PLUS} Control Pad.\n{CIRCLE_2} Select “WITHDRAW” to remove the\n   POKéMON from the BOX and add it to\n   your party.\nYou may not withdraw a POKéMON if you\nalready have six POKéMON with you!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz POKéMONA w otwartym POKEBOKSIE\nza pomocą {PLUS} Panelu Sterowania.\n{CIRCLE_2} Wybierz “WYCOFAJ”, aby usunąć\nPOKéMONA z PUDEŁKA i\ndodać go do swojej drużyny.\nNie możesz wycofać POKéMONA, jeśli masz\njuż przy sobie sześć POKéMONÓW!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select a POKéMON in your party with\n   the {PLUS} Control Pad.\n{CIRCLE_2} Select “DEPOSIT.”\n{CIRCLE_3} Select the BOX, then press the\n   A Button to store the POKéMON.\nIf you have only one POKéMON with you,\nit may not be stored!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz POKéMONA w swojej drużynie\nza pomocą {PLUS} Panelu Sterowania.\n{CIRCLE_2} Wybierz “WPŁATA.” {CIRCLE_3} Wybierz\nSKRZYNKĘ, a następnie naciśnij\nprzycisk A, aby przechować POKéMONA.\nJeśli masz tylko jednego POKéMONA przy\nsobie, może on nie zostać przechowany!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select a POKéMON in the open BOX.\n{CIRCLE_2} Pick up the POKéMON by selecting\n   “MOVE” and move it anywhere with\n   the {PLUS} Control Pad.\n{CIRCLE_3} Move the POKéMON to the BOX name\n   and press left or right to move it\n   to another BOX.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz POKéMONA w otwartym PUDLE.\n{CIRCLE_2} Podnieś POKéMONA, wybierając “PRZENIEŚ”\ni przesuń go w dowolne miejsce\nza pomocą {PLUS} panelu sterowania.\n{CIRCLE_3} Przenieś POKéMONA do POKOJU i\nnaciśnij w lewo lub w prawo,\naby przenieść go do innego POKOJU.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “{PLAYER}'s PC” on the PC.\n{CIRCLE_2} Select either “ITEM STORAGE” or\n   “MAILBOX.”\nYou may store things in your own PC\nif your BAG is full. You may also\nwithdraw items stored in your PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Na komputerze wybierz “PC {PLAYER}”.{CIRCLE_1}\n{CIRCLE_2} Wybierz “PRZECHOWYWANIE PRZEDMIOTÓW” lub\n“POCZTA.” Możesz przechowywać rzeczy\nw swoim PC, jeśli Twoja TORBA\njest pełny. Możesz także wypłacać\nprzedmioty przechowywane w swoim PC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “DEPOSIT ITEM.”\n{CIRCLE_2} Select the item in the BAG to be\n   deposited using the {PLUS} Control Pad.\n{CIRCLE_3} If there is more than one \n   item to be deposited, enter the\n   quantity with the {PLUS} Control Pad,\n   then press the A Button.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “DEPOSIT ITEM.” {CIRCLE_2} Wybierz\nprzedmiot w TORBIE, który ma\nzostać zdeponowany, używając {PLUS} Panelu Sterowania.\n{CIRCLE_3} Jeśli do wpłaty jest\nwięcej niż jeden przedmiot, wprowadź\nilość za pomocą {PLUS} panelu sterowania,\na następnie naciśnij przycisk A.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When MAIL is taken from a POKéMON,\nit is moved to the MAILBOX. If it has\nno MAIL, the MAILBOX can't be used.\n{CIRCLE_1} Select “{PLAYER}'S PC” on the PC.\n{CIRCLE_2} Select “MAILBOX” to read MAIL or\n   make a POKéMON hold MAIL.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kiedy POCZTA jest zabrana od POKéMONA, jest\nprzenoszona do SKRZYNKI POCZTOWEJ. Jeśli nie\nma POCZTY, nie można użyć SKRZYNKI POCZTOWEJ.\n{CIRCLE_1} Wybierz “{PLAYER}'S PC” na komputerze.\n{CIRCLE_2} Wybierz “SKRZYNKA” aby przeczytać POCZTĘ\nlub spraw, aby POKéMON trzymał POCZTĘ.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “PROF. OAK'S PC” on the PC.\n{CIRCLE_2} PROF. OAK will evaluate your\n   POKéDEX.\nHis evaluations should give you hints\nfor catching more POKéMON!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wybierz “PC PROF. OAKA” na komputerze.{CIRCLE_1}\n{CIRCLE_2} PROF. OAK\noceni twój POKéDEX.\nJego oceny powinny dać Ci\nwskazówki, jak złapać więcej POKéMONÓW!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “FIGHT.”\n{CIRCLE_2} Select one of the moves shown,\nand that move will be used!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “WALCZ.” {CIRCLE_2} Wybierz\njeden z pokazanych ruchów,\na ten ruch zostanie użyty!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>“POKéMON JUMP” is open to POKéMON\naround 28 inches or less.\pWhat you can't enter are those\nPOKéMON that can't jump.\pYou know, like POKéMON that only\nswim, burrow, or fly.\pThat's all you need to know.</seg></tuv>
+      <tuv xml:lang="pl"><seg>“POKéMON JUMP” jest otwarte dla POKéMON\no wysokości około 28 cali lub mniej.\pTych Pokémonów, które nie\npotrafią skakać, nie można wprowadzać.\pWiesz, jak POKéMON, które tylko\npływają, kopią tunele albo latają.\pTo wszystko, co musisz wiedzieć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>“DODRIO BERRY-PICKING”…\nWell, the name says it all.\pYou have to have a DODRIO to play\nthis game.</seg></tuv>
+      <tuv xml:lang="pl"><seg>“DODRIO ZBIÓR OWOCÓW BERRY”…\nCóż, sama nazwa mówi wszystko.\pMusisz mieć DODRIO, aby\nzagrać w tę grę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “POKéMON.”\n{CIRCLE_2} Select the POKéMON in your party\n   that you want to use.\n{CIRCLE_3} If you have two or more POKéMON\n   with you, they may be switched by\n   selecting “SHIFT.” Check POKéMON\n   data by selecting “SUMMARY.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “POKéMON.” {CIRCLE_2}\nWybierz POKéMON w twojej\ndrużynie, którego chcesz użyć.\n{CIRCLE_3} Jeśli masz przy sobie\ndwóch lub więcej POKéMON, mogą\none zostać zamienione, wybierając “ZMIEŃ”.\nSprawdź dane POKéMON, wybierając “PODSUMOWANIE”.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This command switches the POKéMON in\nbattle with another one in your party.\n{CIRCLE_1} Select the POKéMON to be sent out.\n{CIRCLE_2} Select “SHIFT.”\n{CIRCLE_3} The selected POKéMON will switch\n   places with the POKéMON in battle!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ta komenda zamienia POKéMONA w walce\nna innego z twojej drużyny.\n{CIRCLE_1} Wybierz POKéMONA, którego chcesz wysłać.\n{CIRCLE_2} Wybierz “ZAMIEŃ.” {CIRCLE_3}\nWybrany POKéMON zamieni się miejscami\nz POKéMON-em w walce!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “SUMMARY.”\n{CIRCLE_2} Press left or right on the {PLUS} Control\n   Pad to check the information:\n   “POKéMON INFO”\n   “POKéMON SKILLS”\n   “KNOWN MOVES”</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “PODSUMOWANIE.” {CIRCLE_2} Naciśnij w\nlewo lub w prawo na\n{PLUS} Płycie sterującej, aby sprawdzić informacje:\n  \n“INFORMACJE O POKéMON” “UMIEJĘTNOŚCI\nPOKéMON” “ZNANE RUCHY”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “BAG.”\n{CIRCLE_2} Press left or right on the {PLUS} Control\n   Pad to check the data headings:\n   “ITEMS”\n   “KEY ITEMS”\n   “POKé BALLS”\n   Press up or down to select an item.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “TORBA.” {CIRCLE_2} Naciśnij w\nlewo lub w prawo na {PLUS}\nPadzie kontrolnym, aby sprawdzić nagłówki danych:\n   “PRZEDMIOTY”\n“KLUCZOWE PRZEDMIOTY” “POKé BALLS”\nNaciśnij w górę lub w\ndół, aby wybrać przedmiot.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_3} Select “AREA” to display the TOWN\n   MAP with the POKéMON's habitat(s).</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_3} Wybierz “OBSZAR”, aby wyświetlić\nMAPĘ z siedliskami POKéMONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_3} Select “NEXT DATA” to display the\n   TOWN MAP with its habitat(s).</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_3} Wybierz “NASTĘPNE DANE”, aby wyświetlić\nMAPĘ z jego siedliskiem(s).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Go up to the PC at home, then press\n   the A Button.\n{CIRCLE_2} The PC will turn on.\n{CIRCLE_3} Select either “ITEM STORAGE” or\n   “MAILBOX.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Podejdź do komputera w domu,\na następnie naciśnij przycisk A.\n{CIRCLE_2} Komputer włączy się.\n{CIRCLE_3} Wybierz “PRZECHOWYWANIE PRZEDMIOTÓW”\nlub “POCZTA”.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “WITHDRAW ITEM” to withdraw\n   an item stored on your PC.\n{CIRCLE_2} Select “DEPOSIT ITEM” to put \n   an item from your BAG into your PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “WYCOFAJ PRZEDMIOT”, aby wycofać\nprzedmiot przechowywany na Twoim komputerze.\n{CIRCLE_2} Wybierz “DEPONUJ”, aby włożyć\nprzedmiot z TORBY do swojego PC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “WITHDRAW ITEM.”\n{CIRCLE_2} Select the item to be withdrawn.\n{CIRCLE_3} The item can be withdrawn and\n   placed in the BAG's ITEMS POCKET.\n   It may also be directly given to a\n   POKéMON to hold.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “WYCOFAJ PRZEDMIOT.”\n{CIRCLE_2} Wybierz przedmiot do wycofania.\n{CIRCLE_3} Przedmiot można wyjąć i\numieścić w KIESZENI PRZEDMIOTÓW TORBY.\n   Może być również\nbezpośrednio podane POKéMONOWI do trzymania.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “DEPOSIT ITEM.”\n{CIRCLE_2} Select the item in the BAG to be\n   deposited using the {PLUS} Control Pad.\n{CIRCLE_3} If there is nothing in the BAG, this\n   command can't be used!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “DEPOSIT ITEM.” {CIRCLE_2} Wybierz\nprzedmiot w TORBIE, który ma\nzostać zdeponowany, używając {PLUS} Panelu Sterowania.\n{CIRCLE_3} Jeśli w TORBIE nie ma\nnic, tego polecenia nie można użyć!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You may not “RUN” from a TRAINER\nbattle!\n{CIRCLE_1} You may “RUN” from a wild POKéMON.\n{CIRCLE_2} Your chance of escape is improved\n   if your POKéMON in battle is fast.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie możesz “UCIEC” z\nwalki z TRENEREM!\n{CIRCLE_1} Możesz “UCIEC” przed dzikim POKéMONEM.\n{CIRCLE_2} Twoja szansa na ucieczkę zwiększa się,\njeśli twój POKéMON w walce jest szybki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You may “REGISTER” a key item for\ninstant use by pressing SELECT!\n{CIRCLE_1} Open the “KEY ITEMS” POCKET.\n{CIRCLE_2} Select the key item, then select\n   “REGISTER.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Możesz “ZAREJESTROWAĆ” kluczowy przedmiot\ndo natychmiastowego użycia, naciskając WYBIERZ!\n{CIRCLE_1} Otwórz KIESZEŃ “KLUCZOWE PRZEDMIOTY”.\n{CIRCLE_2} Wybierz kluczowy przedmiot,\na następnie wybierz “REJESTRACJA.”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Select “FIGHT,” and the MENU of moves\nwill appear. Consider the type\lmatchups, and use the most effective\lmoves. You can check the effects of\lmoves by opening “POKéMON,”\lpicking a POKéMON, opening “SUMMARY,”\lthen opening “POKéMON SKILLS.”</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wybierz “WALKA”, a pojawi\nsię MENU ruchów. Weź pod\luwagę dopasowania typów i\lużywaj najskuteczniejszych ruchów. Możesz\lsprawdzić efekty ruchów, otwierając\l“POKéMON”, wybierając POKéMONA, otwierając “PODSUMOWANIE”,\la następnie “UMIEJĘTNOŚCI POKéMONA”.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A POKéMON CENTER is identified by its\nred roof and a “P.C” sign. Every\lPOKéMON CENTER offers such services as\lfully healing POKéMON and free PC use,\lmaking it essential for your travels.\lOn the upper floor are facilities for\llinking with friends and others.</seg></tuv>
+      <tuv xml:lang="pl"><seg>CENTRUM POKéMON rozpoznaje się po czerwonym dachu\ni znaku “P.C”. Każde CENTRUM POKéMON\loferuje takie usługi jak pełne leczenie POKéMON\li bezpłatne korzystanie z komputera, co\lczyni je niezbędnym w czasie twoich podróży.\lNa górnym piętrze znajdują się udogodnienia\ldo łączenia się z przyjaciółmi i innymi.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A POKéMON MART is identified by its\nblue roof and a “MART” sign.\lItems can be bought and sold at any\lPOKéMON MART. Some MARTS carry items\lthat are available only in their towns.</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKLEP POKéMON jest rozpoznawalny po\nniebieskim dachu i znaku “MART”.\lPrzedmioty można kupować i sprzedawać w\lkażdym POKéMON MARCIE. Niektóre MARCET mają\lprzedmioty dostępne tylko w ich miastach.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You can safely end your game by\nselecting “SAVE” on the MENU.\lOnce you have saved, the game can be\lsafely turned off. When the game is\lturned back on, you can resume from\lwhere you last saved.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Możesz bezpiecznie zakończyć swoją\ngrę, wybierając “ZAPISZ” w MENU.\lGdy zapiszesz grę, można ją\lbezpiecznie wyłączyć. Po ponownym włączeniu\lgry możesz kontynuować od\lmiejsca, w którym ostatnio zapisałeś.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If you would like to cut your SAFARI\nGAME short, open the MENU and select\l“RETIRE” at the top of the list.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jeśli chcesz zakończyć swoją GRĘ\nSAFARI wcześniej, otwórz MENU i wybierz\l“WYCOFAJ SIĘ” na górze listy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You can choose whether or not a\nTRAINER can switch a POKéMON after\lit has made its foe faint.\lSet to “SHIFT” if you would like the\lchance to switch a POKéMON after it\lhas made its foe faint.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Możesz wybrać, czy TRENER może\nzmienić POKéMONA po tym, jak\lsprawił, że jego przeciwnik zemdlał.\lUstaw na “SHIFT”, jeśli chcesz\lmieć szansę zamienić POKéMONA po\ltym, jak pokona swojego wroga.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Set to “HELP” to display help messages\nby pressing the L or R Button.\lSet to “LR” to enable the switching\lof the POKéDEX pages and BAG POCKETS\lusing the L and R Buttons.\lSet to “L=A” to make the L Button\lwork the same as the A Button.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ustaw na “POMOC”, aby wyświetlać komunikaty\npomocy naciskając przycisk L lub R.\lUstaw na “LR”, aby włączyć przełączanie\lstron POKéDEX-a i KIESZENI PLECAKA\lza pomocą przycisków L i R.\lUstaw na “L=A”, aby przycisk L\ldziałał tak samo jak przycisk A.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EXP. Points stands for “Experience\nPoints.” POKéMON gain EXP. Points by\lparticipating in winning battles.\lWhen a POKéMON accumulates sufficient\lEXP. Points, it levels up. The EXP. Bar\lindicates accumulated EXP. Points.\lIt returns to zero upon leveling up.</seg></tuv>
+      <tuv xml:lang="pl"><seg>EXP. Points oznacza “Punkty Doświadczenia”.\nPOKéMON zdobywają Punkty Doświadczenia,\lbiorąc udział w zwycięskich walkach.\lKiedy POKéMON zgromadzi wystarczającą ilość punktów\lEXP, awansuje na wyższy poziom.\lPasek EXP wskazuje zgromadzone punkty EXP.\lWróci do zera po osiągnięciu poziomu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HIDDEN moves are those that are\nespecially important for your\ladventure. To use such a move outside\lof battle, open the “POKéMON” MENU\land make the POKéMON that knows the\lmove use it. A fainted POKéMON may use\la HIDDEN move outside of battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ruchy UKRYTE to takie, które są\nszczególnie ważne w Twojej przygodzie.\lAby użyć takiego ruchu poza walką,\lotwórz MENU “POKéMON” i spraw, aby\lPOKéMON, który zna ten ruch, go\lużył. POKéMON, który stracił przytomność,\lmoże użyć ruchu UKRYTEGO poza walką.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OT stands for “Original TRAINER,”\nthe first TRAINER to have caught the\lselected POKéMON.\lEven if the POKéMON is traded, the OT\lname will remain unchanged.</seg></tuv>
+      <tuv xml:lang="pl"><seg>OT oznacza “Oryginalny\nTRENER”, pierwszy TRENER, który\lzłapał wybranego POKéMONA.\lNawet jeśli POKéMON zostanie\lwymieniony, nazwa OT pozostanie niezmieniona.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All POKéMON have a personality,\nor “NATURE.” The POKéMON's\lnature appears to affect how the\lPOKéMON will grow upon leveling up.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wszystkie POKéMON mają osobowość, czyli “CHARAKTER”.\nCharakter POKéMON wydaje się wpływać\lna to, jak POKéMON będzie\lrozwijać się w miarę zdobywania poziomów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PP stands for “Power Points.”\nIt indicates the number of times a\lcertain move can be used in battle.\lLike HP, PP can be restored by visiting\la POKéMON CENTER or using certain\litems.</seg></tuv>
+      <tuv xml:lang="pl"><seg>PP oznacza “Power Points” (Punkty\nMocy). Wskazuje, ile razy dana umiejętność\lmoże być użyta w walce.\lPodobnie jak HP, PP\lmożna odzyskać, odwiedzając CENTRUM POKéMON\llub używając niektórych przedmiotów.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FNT stands for “fainted.”\nA POKéMON faints if its HP is reduced\lto zero. It becomes incapable of taking\lpart in battle.\lRestore a fainted POKéMON at a POKéMON\lCENTER, or use an item.</seg></tuv>
+      <tuv xml:lang="pl"><seg>FNT oznacza “zemdlał”. POKéMON mdleje,\njeśli jego HP spadnie do\lzera. Staje się wtedy\lniezdolny do udziału w walce.\lPrzywróć przytomność omdlałemu POKéMONOWI w\lCENTRUM POKéMON, lub użyj przedmiotu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SP. ATK (Special Attack) indicates the\npower of a special attack move.\lThe higher this stat, the more powerful\lthe special attack move.\lIt is applied for the following move\ltypes: FIRE, WATER, ELECTRIC, GRASS,\lICE, PSYCHIC, DRAGON, and DARK.</seg></tuv>
+      <tuv xml:lang="pl"><seg>SP. ATAK (Atak Specjalny)\noznacza siłę ruchu ataku specjalnego.\lIm wyższa ta statystyka,\ltym potężniejszy specjalny atak.\lStosuje się go do następujących\ltypów ruchów: OGIEŃ, WODA, ELEKTRYCZNY, TRAWIASTY,\lLÓD, PSYCHO, SMOK i MROCZNY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All POKéMON can be made to hold one\nitem each. Some items will be used by\lthe POKéMON automatically in certain\lsituations. To make a POKéMON hold an\litem, select the item from the BAG and\l“GIVE” it to the POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wszystkie POKéMONY mogą trzymać po\njednym przedmiocie. Niektóre przedmioty będą używane\lautomatycznie przez POKéMONY w określonych\lsytuacjach. Aby sprawić, że POKéMON\lbędzie trzymał przedmiot, wybierz przedmiot z\lTORBA i “DAJ” go POKéMONOWI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ordinary items bought at any POKéMON\nMART are placed in the ITEMS POCKET.\lItems may be used, given to a POKéMON\lto hold, or tossed out as garbage.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwykłe przedmioty kupione w dowolnym POKéMON\nSKLEPIE umieszczane są w KIESZENI PRZEDMIOTÓW.\lPrzedmioty mogą być używane, przekazywane Pokémonowi\ldo trzymania lub wyrzucane jako śmieci.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKé BALLS, which are used for\ncatching wild POKéMON, are placed in\lthe POKé BALLS POCKET.\lPOKé BALLS may be bought at POKéMON\lMARTS. They may be used, given to a\lPOKéMON to hold, or tossed out as\lgarbage.</seg></tuv>
+      <tuv xml:lang="pl"><seg>PIŁKI POKé, które służą do\nłapania dzikich POKéMON, są umieszczane\lw KIESZENI NA POKé BALLS.\lPOKé BALLS mogą być kupowane\lw POKéMON SKLEPIE. Mogą być\lużywane, przekazywane POKéMONOWI do\ltrzymania lub wyrzucane jako śmieci.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The POKéMON LEAGUE BADGES that you\nhave won are registered and shown.\lEarn BADGES by defeating GYM LEADERS\lin various cities and towns.</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZDOBYTE ODZNAKI LIGI POKéMON\nsą zarejestrowane i wyświetlane.\lZdobywaj ODZNAKI, pokonując LIDERÓW SAL\lw różnych miastach i miasteczkach.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Whenever you win a battle against a\nTRAINER, you are given prize money.\lSave up your prize money so you can\lenjoy shopping at POKéMON MARTS!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Za każdym razem, gdy wygrasz bitwę\nz TRENEREM, otrzymujesz nagrodę pieniężną.\lOszczędzaj swoją nagrodę pieniężną, aby móc\lcieszyć się zakupami w POKéMON SKLEPIE!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This indicates the number of POKéMON\nLEAGUE BADGES that you have won.\lEarn BADGES by defeating GYM LEADERS\lin various cities and towns.</seg></tuv>
+      <tuv xml:lang="pl"><seg>To wskazuje liczbę ODZNAK\nLIGI POKéMON, które wygrałeś.\lZdobywaj ODZNAKI, pokonując LIDERÓW SAL\lw różnych miastach i miasteczkach.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The help messages change depending on\nhow much you have progressed in the\lgame. They are designed to support you\lwhen you need them. If there is\lanything that you don't understand,\lplease look up the HELP System!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wiadomości pomocy zmieniają się w zależności\nod tego, jak bardzo zaawansowany\ljesteś w grze. Zostały zaprojektowane,\laby wspierać cię, gdy ich potrzebujesz.\lJeśli jest coś, czego nie rozumiesz,\lproszę, zajrzyj do Systemu POMOCY!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Wireless Adapter</seg></tuv>
+      <tuv xml:lang="pl"><seg>Łącze bezprzewodowego</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This game communicates over a wireless\nlink using the Wireless Adapter.\pGo wireless anywhere, anytime, and\nwith anybody!\pTry playing with the Wireless Adapter\nalways attached!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ta gra komunikuje się za pomocą\nłącza bezprzewodowego przy użyciu Adaptera Bezprzewodowego.\pKorzystaj z bezprzewodowego połączenia wszędzie, o\nkażdej porze i z każdym!\pSpróbuj grać z zawsze\npodłączonym Wireless Adapter!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The HALL OF FAME STICKER was\napplied to the TRAINER CARD.</seg></tuv>
+      <tuv xml:lang="pl"><seg>NAKLEJKA HALA SŁAW\nzostała przyklejona do KARTY TRENERA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HP UP{CLEAR_TO 0x65}{FONT_SMALL}1,000</seg></tuv>
+      <tuv xml:lang="pl"><seg>HP UP{CLEAR_TO 0x65}{FONT_SMALL}1,000</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PP UP{CLEAR_TO 0x65}{FONT_SMALL}3,000</seg></tuv>
+      <tuv xml:lang="pl"><seg>PP UP{CLEAR_TO 0x65}{FONT_SMALL}3,000</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{PLAYER}'s BATTLE RESULTS</seg></tuv>
+      <tuv xml:lang="pl"><seg>{PLAYER} WYNIKI BITEW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TOTAL RECORD W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}</seg></tuv>
+      <tuv xml:lang="pl"><seg>SUMA REKORDÓW W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Your party's full!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Twoja drużyna jest pełna!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAIL can't be stored!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie można złożyć LISTU!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>JUMP</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKOCZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Upon winning a battle:</seg></tuv>
+      <tuv xml:lang="pl"><seg>Po wygraniu bitwy:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Upon losing a battle:</seg></tuv>
+      <tuv xml:lang="pl"><seg>Po przegranej bitwie:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What's hip and happening?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Co jest modne i popularne?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Interview</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wywiad</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>QUESTIONNAIRE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KWESTIONARIUSZ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON CENTER</seg></tuv>
+      <tuv xml:lang="pl"><seg>CENTRUM POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Waiting for the other TRAINER to\nfinish reading your TRAINER CARD.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czekanie, aż drugi TRENER\nskończy czytać twoją KARTĘ TRENERA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{FONT_SMALL}MAX.{FONT_NORMAL} HP</seg></tuv>
+      <tuv xml:lang="pl"><seg>{FONT_SMALL}MAKS.{FONT_NORMAL} HP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Machine set!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Maszyna gotowa!\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Exiting the chat‥</seg></tuv>
+      <tuv xml:lang="pl"><seg>Opuszczanie czatu‥</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The LEADER, {DYNAMIC 0x00}, has\nleft, ending the chat.</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIDER, {DYNAMIC 0x00},\nopuścił, kończąc czat.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The registered text has been changed.\nIs it okay to save the game?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zarejestrowany tekst został zmieniony.\nCzy zapisać grę?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If the LEADER leaves, the chat\nwill end. Is that okay?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jeśli LIDER opuści, czat zostanie\nzakończony. Czy to w porządku?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SORRY</seg></tuv>
+      <tuv xml:lang="pl"><seg>SORRY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This document is issued in\nrecognition of your magnificent\nachievement - the completion of\nthe {DYNAMIC 0x01} POKéDEX.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ten dokument został wydany\nw uznaniu Twojego\nwspaniałego osiągnięcia -\nukończenia {DYNAMIC 0x01} POKéDEX.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Clear all save data areas?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyczyścić wszystkie dane zapisane?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Clearing data‥\nPlease wait.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyczyszczanie danych‥\nProszę czekać.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SOMEONE</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZYJIŚ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Somebody dropped out.\nThe link will be canceled.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ktoś się wycofał.\nLink zostanie anulowany.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Communication error…\nPlease check all connections,\nthen turn the power OFF and ON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Błąd komunikacji…\nProszę sprawdzić wszystkie połączenia, a\nnastępnie wyłączyć i włączyć zasilanie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BRONZE</seg></tuv>
+      <tuv xml:lang="pl"><seg>BRĄZOWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GOLD</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZŁOTY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COPPER</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIEDŹIANY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BATTLES: {DYNAMIC 0} WINS  {DYNAMIC 2} LOSSES\nTRADES:  {DYNAMIC 3} TIMES\p“{DYNAMIC 4} {DYNAMIC 5}\n{DYNAMIC 6} {DYNAMIC 7}”\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>BITWY: {DYNAMIC 0} ZWYCIĘSTWA {DYNAMIC 2}\nPORAŻKI WYMIANY: {DYNAMIC 3} CZAS\p“{DYNAMIC 4} {DYNAMIC 5}\n{DYNAMIC 6} {DYNAMIC 7}”\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CARDS</seg></tuv>
+      <tuv xml:lang="pl"><seg>KARTY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NAME{CLEAR_TO 0x3C}WANTED{CLEAR_TO 0x6E}OFFER{CLEAR_TO 0xC6}LV.</seg></tuv>
+      <tuv xml:lang="pl"><seg>IMIĘ{CLEAR_TO 0x3C}POSZUKIWANY{CLEAR_TO 0x6E}OFERTA{CLEAR_TO 0xC6}LV.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You can't make a trade for\n{STR_VAR_1}'s POKéMON right now.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie możesz teraz wymienić\nsię POKéMONEM {STR_VAR_1}.\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EGG TRADE</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYMIANA JAJ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Would you like to ask {STR_VAR_1} to\nmake a trade?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy chciałbyś poprosić {STR_VAR_1}\no dokonanie wymiany?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please choose the type of POKéMON\nthat you would like in the trade.\n</seg></tuv>
+      <tuv xml:lang="pl"><seg>Proszę wybrać typ POKéMONA,\nktórego chciałbyś wymienić.\n</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Which of your party POKéMON will\nyou offer in trade?\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Którego ze swoich Pokémonów z\ndrużyny chcesz wymienić?\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Cancel the registration of your\nEGG?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Anulować rejestrację\nswojego JAJA?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1}: What would you like to\ndo now?</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1}: Co\nchciałbyś teraz zrobić?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} has contacted you.{PAUSE 60}</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} \n{PAUSE 60}\nkontaktuje się.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Awaiting a response from\n{STR_VAR_1}…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Oczekiwanie na odpowiedź\n{STR_VAR_1}...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Somebody has contacted you.{PAUSE 60}</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ktoś się z tobą skontaktował.{PAUSE 60}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Awaiting a response from\nthe other TRAINER…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Oczekiwanie na odpowiedź\nod drugiego TRENERA…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There is an offer to trade your\nregistered EGG.\lWill you accept this trade offer?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Istnieje oferta wymiany\ntwojego zarejestrowanego JAJA.\lCzy zaakceptujesz tę ofertę wymiany?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sure thing! As my “Greetings,”\nhere's my TRAINER CARD.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pewnie! Jako moje “Pozdrowienia,”\noto moja KARTA TRENERA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thanks for waiting!\nLet's get our battle started!{PAUSE 60}</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dzięki!\nWeźmy się do walki! {PAUSE 60}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sorry I made you wait!\nLet's get started!{PAUSE 60}</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wybacz, że musiałeś czekać!\nZaczynamy! {PAUSE 60}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The trade will be started.{PAUSE 60}</seg></tuv>
+      <tuv xml:lang="pl"><seg>Rozpocznie się wymiana. {PAUSE 60}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The battle will be started.{PAUSE 60}</seg></tuv>
+      <tuv xml:lang="pl"><seg>Rozpocznie się walka. {PAUSE 60}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Huh? My TRAINER CARD…\nWhere'd it go now?\lSorry! I'll show you another time!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hę? Moja Karta Trenera...\nGdzie się podziała?\lPrzykro mi! Pokażę ci ją innym\prazem!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If you want to do something with\nme, just give me a shout!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Daj mi znać jak będziesz\nchciał coś ze mną\pporobić!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If you want to do something with\nme, don't be shy.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Daj mi znać jak będziesz\nchciał coś ze mną\pporobić!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If you want to battle, you need\ntwo POKéMON that are below\lLv. 30.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Do walki potrzebujesz dwóch\nPokémonów poniżej Poziomu\l30.\p30.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For a battle, you need two\nPOKéMON that are below Lv. 30.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Do walki potrzebujesz dwóch\nPokémonów poniżej Poziomu\l30.\n30.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, all right.\nCome see me anytime, okay?\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, jasna\nsprawa. Zawsze do\pusług!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Whoa!\nI can tell you're pretty tough!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Kurczę!\nWidzę, że jesteś\psilny!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You used that move?\nThat's good strategy!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Użyłeś tego ruchu?\nCiekawa strategia!\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Way to go!\nThat was an eye-opener!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Świetnie! To\nbyło niesamowite!\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh! How could you use that\nPOKéMON in that situation?\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och! Jak mogłeś użyć\nw tej sytuacji tego\pPokémona?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>That POKéMON…\nIt's been raised really well!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ten Pokémon...\nJest świetnie wytrenowany!\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>That's it!\nThis is the right move now!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Właśnie tak!\nTo idealny moment na ten\pruch!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>That's awesome!\nYou can battle that way?\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>To cudowne!\nPotrafisz tak\pwalczyć?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You have exquisite timing for\nswitching POKéMON!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Świetny moment na zmianę Pokémona!\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ahaha!\nWhat is that about?\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ah\naha! Co\pto?!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm just showing my TRAINER CARD\nas my way of greeting.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>W ramach powitania chcę ci tylko\npokazać moją Kartę\pTrenera.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I hope I get to know you better!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Mam nadzieję, że poznamy się\plepiej!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>We're showing each other our\nTRAINER CARDS to get acquainted.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Żeby się zapoznać\npokazujemy sobie Karty\pTrenera.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Glad to meet you.\nPlease don't be a stranger!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Miło cię\npoznać. Poznajmy się\plepiej!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Finally, a trade got me that\nPOKéMON I'd wanted a long time.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nareszcie dostałem\nPokémona, którego tyle czasu\pszukałem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm trading POKéMON right now.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Właśnie wymieniam się Pokémonami.\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I finally got that POKéMON I\nwanted in a trade!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nareszcie dostałem Pokémona,\nktórego tyle czasu\pszukałem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All right!\nLet's chat!{PAUSE 60}</seg></tuv>
+      <tuv xml:lang="pl"><seg>W porządku!\nPorozmawiajmy!{PAUSE 60}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sorry I made you wait!\nLet's chat.{PAUSE 60}</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przepraszam, że musiałeś\nmusiałaś czekać!\nPorozmawiajmy.{PAUSE 60}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Entering the chat…{PAUSE 60}</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wchodzenie na czat…{PAUSE 60}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sorry! My POKéMON don't seem to\nbe feeling too well right now.\lLet me battle you another time.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Sorry! Przepraszam,\nale moje Pokémony nie czują się teraz zbyt dobrze. \lPowalczymy\pinnym razem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm terribly sorry, but my POKéMON\naren't feeling well…\pLet's battle another time.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przepraszam, ale moje Pokémony nie\nczują się teraz zbyt\pdobrze. \nPowalczymy innym razem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh? Now where did I put my\nTRAINER CARD?…\lSorry! I'll show you later!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och?\nGdzie teraz położyłem\nmoją KARTĘ TRENERA?…\lPrzepraszam!\nPochwalę się innym razem!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Whoops! Sorry, but I have to do\nsomething else.\lAnother time, okay?\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ups! Przykro mi, ale muszę zrobić\ncoś innego.\lNastępnym razem,\pdobrze?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh…\nPlease come by anytime.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och...\nWpadnij w każdej chwili.\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Yeahah!\nI really wanted this POKéMON!\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jeej!\nNaprawdę chciałem tego POKéMONA!\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Welcome to the TRADING BOARD.\pYou may register your POKéMON\nand offer it up for a trade.\pWould you like to register one of\nyour POKéMON?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witamy na TABLICY WYMIAN.\pMożesz zarejestrować swojego POKéMONA\ni zaoferować go do wymiany.\pCzy chciałbyś zarejestrować jednego\nze swoich POKéMONÓW?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} checked the\nTRADING BOARD.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} sprawdził\nTABLICĘ WYMIAN.\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An “OK” was sent\nto {STR_VAR_1}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wiadomość “OK” została wysłana\ndo {STR_VAR_1}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There is a member who can no\nlonger remain available.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jeden z członków nie\nmoże brać dalej\pudziału.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} sent back an “OK”!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} wysłał wiadomość “OK”!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1}!\nAwaiting other members!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1}Szybkości!\nOczekiwanie na graczy!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Awaiting {STR_VAR_1}'s response about\nthe trade…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Oczekuję na odpowiedź {STR_VAR_1}\nw sprawie wymiany…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_2} contacted you for\n{STR_VAR_1}. Accept?</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_2} skontaktował się z\ntobą w sprawie {STR_VAR_1}. Akceptujesz?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The other TRAINER appears\nunavailable…\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Drugi TRENER\nwydaje się niedostępny…\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DEL. ALL{CLEAR_TO 0x57}CANCEL{CLEAR_TO 0xA4}OK</seg></tuv>
+      <tuv xml:lang="pl"><seg>USŃ. WSZY{CLEAR_TO 0x57}ANULUJ{CLEAR_TO 0xA4}OK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FRIEND</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRZYJACIEL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A variety of events will be imported\nover Wireless Communication.</seg></tuv>
+      <tuv xml:lang="pl"><seg>A variety of events will be imported\nover Wireless Communication.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Read the WONDER CARDS in your\npossession.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Read the WONDER CARDS in your\npossession.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You don't have a WONDER CARD,\nso a new CARD will be input.</seg></tuv>
+      <tuv xml:lang="pl"><seg>You don't have a WONDER CARD,\nso a new CARD will be input.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You don't have any WONDER NEWS,\nso new NEWS will be input.</seg></tuv>
+      <tuv xml:lang="pl"><seg>You don't have any WONDER NEWS,\nso new NEWS will be input.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Where should the WONDER CARD\nbe accessed?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Where should the WONDER CARD\nbe accessed?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Where should the WONDER NEWS\nbe accessed?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Where should the WONDER NEWS\nbe accessed?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Communicating…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Communicating…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Communication completed.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Communication completed.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Communication error.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Błąd komunikacji.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Communication has been canceled.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wyszukiwanie SYSTEMU KOMUNIKACJI\nBEZPRZEWODOWEJ zostało anulowane.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Throw away the WONDER CARD\nand input a new CARD?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Throw away the WONDER CARD\nand input a new CARD?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You haven't received the CARD's gift\nyet. Input a new CARD anyway?</seg></tuv>
+      <tuv xml:lang="pl"><seg>You haven't received the CARD's gift\nyet. Input a new CARD anyway?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A new WONDER CARD has been\nreceived.</seg></tuv>
+      <tuv xml:lang="pl"><seg>You can’t accept a WONDER CARD\nfrom this TRAINER.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A new WONDER NEWS item has been\nreceived.</seg></tuv>
+      <tuv xml:lang="pl"><seg>A new TRAINER has arrived.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A new STAMP has been received.</seg></tuv>
+      <tuv xml:lang="pl"><seg>A new STAMP has been received.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A new TRAINER has arrived.</seg></tuv>
+      <tuv xml:lang="pl"><seg>A new WONDER NEWS item has been\nreceived.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You already had that\nWONDER CARD.</seg></tuv>
+      <tuv xml:lang="pl"><seg>You already had that\nWONDER CARD.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You already had that\nWONDER NEWS item.</seg></tuv>
+      <tuv xml:lang="pl"><seg>You already had that\nWONDER NEWS item.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You already had that\nSTAMP.</seg></tuv>
+      <tuv xml:lang="pl"><seg>You already had that\nSTAMP.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There's no more room for adding\nSTAMPS.</seg></tuv>
+      <tuv xml:lang="pl"><seg>There's no more room for adding\nSTAMPS.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Your record has been uploaded via\nWIRELESS COMMUNICATION.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Communication has been canceled.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You can't accept a WONDER CARD\nfrom this TRAINER.</seg></tuv>
+      <tuv xml:lang="pl"><seg>You can't accept a WONDER CARD\nfrom this TRAINER.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You can't accept WONDER NEWS\nfrom this TRAINER.</seg></tuv>
+      <tuv xml:lang="pl"><seg>You can't accept WONDER NEWS\nfrom this TRAINER.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Nothing was sent over…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nothing was sent over…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What would you like to do\nwith the WONDER CARDS?</seg></tuv>
+      <tuv xml:lang="pl"><seg>What would you like to do\nwith the WONDER CARDS?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What would you like to do\nwith the WONDER NEWS?</seg></tuv>
+      <tuv xml:lang="pl"><seg>What would you like to do\nwith the WONDER NEWS?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sending your WONDER CARD…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Sending your WONDER CARD…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sending your WONDER NEWS item…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Sending your WONDER NEWS item…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The other TRAINER has the same\nWONDER CARD already.</seg></tuv>
+      <tuv xml:lang="pl"><seg>The other TRAINER has the same\nWONDER CARD already.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The other TRAINER has the same\nWONDER NEWS already.</seg></tuv>
+      <tuv xml:lang="pl"><seg>The other TRAINER has the same\nWONDER NEWS already.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The other TRAINER has the same\nSTAMP already.</seg></tuv>
+      <tuv xml:lang="pl"><seg>The other TRAINER has the same\nSTAMP already.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The other TRAINER canceled\ncommunication.</seg></tuv>
+      <tuv xml:lang="pl"><seg>The other TRAINER canceled\ncommunication.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You can't send a MYSTERY GIFT to\nthis TRAINER.</seg></tuv>
+      <tuv xml:lang="pl"><seg>You can't send a MYSTERY GIFT to\nthis TRAINER.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If you throw away the CARD,\nits event won't happen. Okay?</seg></tuv>
+      <tuv xml:lang="pl"><seg>If you throw away the CARD,\nits event won't happen. Okay?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Is it okay to discard this\nNEWS item?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Is it okay to discard this\nNEWS item?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You haven't received the\nGIFT. Is it okay to discard?</seg></tuv>
+      <tuv xml:lang="pl"><seg>You haven't received the\nGIFT. Is it okay to discard?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Data will be saved.\nPlease wait.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Data will be saved.\nPlease wait.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The WONDER CARD was thrown away.</seg></tuv>
+      <tuv xml:lang="pl"><seg>KARTA CUDU została wyrzucona.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Link standby...\n... ... B Button: Cancel</seg></tuv>
+      <tuv xml:lang="pl"><seg>Łącze w trybie oczekiwania...\n… Przycisk B: Anuluj</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Return to the title screen.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Powróć do ekranu tytułowego.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Read the NEWS that arrived.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przeczytaj WIADOMOŚCI, które nadeszły.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Waiting for your friend\nto finish…</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Oczekiwanie na przyjaciela...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Your friend wants\nto trade POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Twój przyjaciel chce\nwymienić się POKéMON.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_2} will be\nsent to {STR_VAR_1}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_2} zostanie wysłany\ndo {STR_VAR_1}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} sent over {STR_VAR_3}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} wysyła\n {STR_VAR_3}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRADE</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYMIANA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>\n\nGraphic Designer\n\n\n\n</seg></tuv>
+      <tuv xml:lang="pl"><seg>Projektantem Graficzn\n\nym!\n\n\n\n</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Special Thanks\n\n\n\n\n\n</seg></tuv>
+      <tuv xml:lang="pl"><seg>Specjalne podziękow\n\nania\n\n\n\n</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>\nEnvironment &amp; Tool Programmers\n\n\n\n\n</seg></tuv>
+      <tuv xml:lang="pl"><seg>\nEnvironment &amp; Tool Programmers\n\n\n\n\n</seg></tuv>
     </tu>
   </body>
 </tmx>

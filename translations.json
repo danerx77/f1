@@ -10070,10 +10070,15 @@
  },
  "src.txt::src.txt_2160": {
   "source": "\\nEnvironment & Tool Programmers\\n\\n\\n\\n\\n",
-  "target": "",
-  "status": "new",
+  "target": "\\nEnvironment & Tool Programmers\\n\\n\\n\\n\\n",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "manual_skip": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327271.7333653,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1639": {
   "source": "You look gentle, so I think I can\\nbeat you.\\pI'll give it a go!",
@@ -11251,10 +11256,15 @@
  },
  "src.txt::src.txt_2145": {
   "source": "\\n\\nHitoshi Yamagami\\nGakuji Nomoto\\n\\n\\n",
-  "target": "",
-  "status": "new",
+  "target": "\\n\\nHitoshi Yamagami\\nGakuji Nomoto\\n\\n\\n",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "manual_skip": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327283.7208478,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1037": {
   "source": "WHISMUR",
@@ -33608,7 +33618,13 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327280.626968,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_159": {
   "source": "FENCE WIDTH",
@@ -34775,10 +34791,15 @@
  },
  "src.txt::src.txt_2174": {
   "source": "\\n\\nGraphic Designer\\n\\n\\n\\n",
-  "target": "",
-  "status": "new",
+  "target": "Projektantem Graficzn\\n\\nym!\\n\\n\\n\\n",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "manual_skip": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327269.6044724,
+  "touched": true
  },
  "datatext.txt::datatext.txt_222": {
   "source": "FIVE ISLAND",
@@ -35501,10 +35522,15 @@
  },
  "src.txt::src.txt_2168": {
   "source": "Special Thanks\\n\\n\\n\\n\\n\\n",
-  "target": "",
-  "status": "new",
+  "target": "Specjalne podziękow\\n\\nania\\n\\n\\n\\n",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "manual_skip": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327270.0738833,
+  "touched": true
  },
  "src.txt::src.txt_2291": {
   "source": "A WONDER NEWS item has been\\nreceived from {STR_VAR_1}.",
@@ -47884,12 +47910,13 @@
  },
  "src.txt::src.txt_2222": {
   "source": "TRADE",
-  "target": "WYMIE",
+  "target": "WYMIANA",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363358.5270329
+  "updated": 1792327269.0792308,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1872": {
   "source": "PROF. OAK",
@@ -97520,7 +97547,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327243.751887,
+  "updated": 1792327254.0594912,
   "touched": true
  },
  "datatext.txt::datatext.txt_188": {
