@@ -9513,7 +9513,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323722.6364791,
+  "updated": 1792324116.6504674,
   "touched": true
  },
  "src.txt::src.txt_2060": {
@@ -35127,7 +35127,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323724.1958423,
+  "updated": 1792324123.481667,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1325": {
@@ -95214,7 +95214,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323724.3761,
+  "updated": 1792324118.8488717,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_51": {
@@ -95335,12 +95335,12 @@
  },
  "datatext.txt::datatext.txt_600": {
   "source": "{CIRCLE_1} Select to throw the special POKé\\n   BALL used only in the SAFARI ZONE.\\nWhen wild POKéMON appear, throw lots\\nof SAFARI BALLS to catch them!",
-  "target": "{CIRCLE_1} Wybierz, aby rzucić specjalną POKéBALL\\nużywaną tylko w STREFIE SAFARI.\\nGdy pojawią się dzikie POKéMONY, rzucaj\\nwieloma KULAMI SAFARI, aby je złapać!",
+  "target": "{CIRCLE_1} Wybierz, aby rzucić specjalną POKéBALL\\nużywaną tylko w STREFIE SAFARI.\\nGdy pojawią się dzikie POKéMONY, rzucaj\\nwieloma SAFARI BALLS, aby je złapać!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323721.7163227,
+  "updated": 1792324112.444647,
   "touched": true
  },
  "src.txt::src.txt_1168": {
@@ -95826,12 +95826,12 @@
  },
  "datatext.txt::datatext.txt_599": {
   "source": "You may “REGISTER” a key item for\\ninstant use by pressing SELECT!\\n{CIRCLE_1} Open the “KEY ITEMS” POCKET.\\n{CIRCLE_2} Select the key item, then select\\n   “REGISTER.”",
-  "target": "Możesz „ZAREJESTROWAĆ” kluczowy przedmiot\\ndo natychmiastowego użycia, naciskając SELECT!\\n{CIRCLE_1} Otwórz KIESZEŃ „KLUCZOWE PRZEDMIOTY”.\\n{CIRCLE_2} Wybierz kluczowy przedmiot,\\na następnie wybierz „REJESTRACJA.”",
+  "target": "Możesz „ZAREJESTROWAĆ” kluczowy przedmiot\\ndo natychmiastowego użycia, naciskając WYBIERZ!\\n{CIRCLE_1} Otwórz KIESZEŃ „KLUCZOWE PRZEDMIOTY”.\\n{CIRCLE_2} Wybierz kluczowy przedmiot,\\na następnie wybierz „REJESTRACJA.”",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324083.4733503,
+  "updated": 1792324098.9745157,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_632": {
