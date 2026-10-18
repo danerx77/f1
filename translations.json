@@ -2827,12 +2827,12 @@
  },
  "datatext.txt::datatext.txt_586": {
   "source": "{CIRCLE_1} Select “POKéMON.”\\n{CIRCLE_2} Select the POKéMON in your party\\n   that you want to use.\\n{CIRCLE_3} If you have two or more POKéMON\\n   with you, they may be switched by\\n   selecting “SHIFT.” Check POKéMON\\n   data by selecting “SUMMARY.”",
-  "target": "{CIRCLE_1} Wybierz „POKéMON.” {CIRCLE_2}\\nWybierz POKéMON w twojej\\ndrużynie, którego chcesz użyć.\\n{CIRCLE_3} Jeśli masz przy sobie\\ndwóch lub więcej POKéMON, mogą\\none zostać zamienione, wybierając „SHIFT”.\\nSprawdź dane POKéMON, wybierając „PODSUMOWANIE”.",
+  "target": "{CIRCLE_1} Wybierz „POKéMON.” {CIRCLE_2}\\nWybierz POKéMON w twojej\\ndrużynie, którego chcesz użyć.\\n{CIRCLE_3} Jeśli masz przy sobie\\ndwóch lub więcej POKéMON, mogą\\none zostać zamienione, wybierając „ZMIEŃ”.\\nSprawdź dane POKéMON, wybierając „PODSUMOWANIE”.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323963.452073,
+  "updated": 1792323986.8943524,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_648": {
@@ -27061,7 +27061,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323713.1165283,
+  "updated": 1792323987.2222843,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_793": {
@@ -53446,12 +53446,12 @@
  },
  "datatext.txt::datatext.txt_589": {
   "source": "{CIRCLE_1} Select “BAG.”\\n{CIRCLE_2} Press left or right on the {PLUS} Control\\n   Pad to check the data headings:\\n   “ITEMS”\\n   “KEY ITEMS”\\n   “POKé BALLS”\\n   Press up or down to select an item.",
-  "target": "{CIRCLE_1} Wybierz „TORBA.” {CIRCLE_2} Naciśnij w\\nlewo lub w prawo na {PLUS}\\nPadzie kontrolnym, aby sprawdzić nagłówki danych:\\n   „PRZEDMIOTY”\\n„KLUCZOWE PRZEDMIOTY” „PIŁKI POKé”\\nNaciśnij w górę lub w\\ndół, aby wybrać przedmiot.",
+  "target": "{CIRCLE_1} Wybierz „TORBA.” {CIRCLE_2} Naciśnij w\\nlewo lub w prawo na {PLUS}\\nPadzie kontrolnym, aby sprawdzić nagłówki danych:\\n   „PRZEDMIOTY”\\n„KLUCZOWE PRZEDMIOTY” „POKé BALLS”\\nNaciśnij w górę lub w\\ndół, aby wybrać przedmiot.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323714.7276204,
+  "updated": 1792324003.04065,
   "touched": true
  },
  "data maps.txt::data maps.txt_100": {
@@ -65609,7 +65609,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323712.16681,
+  "updated": 1792324002.0691001,
   "touched": true
  },
  "src.txt::src.txt_1556": {
@@ -85528,7 +85528,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323960.174286,
+  "updated": 1792323977.2606966,
   "touched": true
  },
  "datascript.txt::datascript.txt_69": {
@@ -98869,7 +98869,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323713.896747,
+  "updated": 1792324003.469412,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_459": {
