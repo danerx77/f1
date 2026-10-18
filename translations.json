@@ -30420,12 +30420,12 @@
  },
  "datatext.txt::datatext.txt_744": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: FIGHTING, POISON\\p   {TRIANGLE}: PSYCHIC, STEEL\\p   {BIG_MULT_X}: DARK",
-  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: WALKA, TRUCIZNA\\p   {TRIANGLE}: PSYCHIC, STAL\\p   {BIG_MULT_X}: CIEMNY",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: WALCZĄCY, TRUJĄCY\\p   {TRIANGLE}: PSYCHO, STALOWY\\p   {BIG_MULT_X}: MROCZNY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322356.9066515,
+  "updated": 1792322592.0929484,
   "touched": true
  },
  "data maps.txt::data maps.txt_1640": {
@@ -47225,7 +47225,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322355.8326354,
+  "updated": 1792322603.4112313,
   "touched": true
  },
  "data maps.txt::data maps.txt_2429": {
@@ -85397,7 +85397,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322563.3820195,
+  "updated": 1792322565.544541,
   "touched": true
  },
  "data maps.txt::data maps.txt_2733": {
