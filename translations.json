@@ -3299,6 +3299,17 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2232": {
+  "source": "{STR_VAR_2} will be\\nsent to {STR_VAR_1}.",
+  "target": "{STR_VAR_2} zostanie wysłany\\ndo {STR_VAR_1}.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327240.8672822,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_947": {
   "source": "UPBEAT",
   "target": "",
@@ -3308,13 +3319,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586289.0126336
- },
- "src.txt::src.txt_2232": {
-  "source": "{STR_VAR_2} will be\\nsent to {STR_VAR_1}.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_583": {
   "source": "<<< FILE: maps/FourIsland_LoreleisHouse/text.inc >>>",
@@ -6992,6 +6996,17 @@
   "updated": 1791131735.4040558,
   "touched": true
  },
+ "src.txt::src.txt_2230": {
+  "source": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Waiting for your friend\\nto finish…",
+  "target": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Oczekiwanie na przyjaciela...",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327211.8548913,
+  "touched": true
+ },
  "srcdatadecoration.txt::srcdatadecoration.txt_188": {
   "source": "SPIKES MAT",
   "target": "",
@@ -7001,13 +7016,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586295.5233536
- },
- "src.txt::src.txt_2230": {
-  "source": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Waiting for your friend\\nto finish…",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1155": {
   "source": "It is sturdier than any kind of metal.\\nIt hardened due to pressure underground\\nover tens of thousands of years.",
@@ -45047,7 +45055,10 @@
   "target": "Pa-pa, {STR_VAR_2}!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327242.4760487,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_436": {
   "source": "MAGIC COAT",
@@ -55851,7 +55862,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790795558.5141912
+  "updated": 1792327208.774417,
+  "touched": true
  },
  "data maps.txt::data maps.txt_463": {
   "source": "I'm the middle kid of the BIRD\\nBROTHERS.\\pThe best thing about birds…\\nIt has to be the wings.",
@@ -65824,10 +65836,14 @@
  },
  "src.txt::src.txt_2231": {
   "source": "Your friend wants\\nto trade POKéMON.",
-  "target": "",
-  "status": "new",
+  "target": "Twój przyjaciel chce\\nwymienić się POKéMON.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327233.2981253,
+  "touched": true
  },
  "data maps.txt::data maps.txt_966": {
   "source": "By the way, {PLAYER}, you're from\\nPALLET TOWN, aren't you?\\pI've heard that it's a quiet and\\npleasant place.\\pBILL's hometown is GOLDENROD CITY,\\nwhere his folks still live.\\pI've heard that it's quite the\\nfestive, bustling city.\\pI'd like to go there one day.",
@@ -73549,7 +73565,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327203.718444,
+  "updated": 1792327203.9094703,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_83": {
@@ -85107,7 +85123,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327199.4480433,
+  "updated": 1792327205.8686795,
   "touched": true
  },
  "src.txt::src.txt_2722": {
@@ -97498,10 +97514,14 @@
  },
  "src.txt::src.txt_2234": {
   "source": "{STR_VAR_1} sent over {STR_VAR_3}.",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1} wysyła\\n {STR_VAR_3}.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327243.751887,
+  "touched": true
  },
  "datatext.txt::datatext.txt_188": {
   "source": "CERULEAN CITY",
