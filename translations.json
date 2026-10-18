@@ -2520,7 +2520,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323701.9869797,
+  "updated": 1792323901.629414,
   "touched": true
  },
  "data maps.txt::data maps.txt_2140": {
@@ -16786,12 +16786,12 @@
  },
  "datatext.txt::datatext.txt_579": {
   "source": "{CIRCLE_1} Select “{PLAYER}'s PC” on the PC.\\n{CIRCLE_2} Select either “ITEM STORAGE” or\\n   “MAILBOX.”\\nYou may store things in your own PC\\nif your BAG is full. You may also\\nwithdraw items stored in your PC.",
-  "target": "Na komputerze wybierz „PC {PLAYER}”.{CIRCLE_1}\\n{CIRCLE_2} Wybierz „PRZECHOWYWANIE PRZEDMIOTÓW” lub\\n„SKRZYNKĘ POCZTOWĄ.” Możesz przechowywać rzeczy\\nw swoim PC, jeśli Twój PLECAK\\njest pełny. Możesz także wypłacać\\nprzedmioty przechowywane w swoim PC.",
+  "target": "Na komputerze wybierz „PC {PLAYER}”.{CIRCLE_1}\\n{CIRCLE_2} Wybierz „PRZECHOWYWANIE PRZEDMIOTÓW” lub\\n„POCZTA.” Możesz przechowywać rzeczy\\nw swoim PC, jeśli Twój PLECAK\\njest pełny. Możesz także wypłacać\\nprzedmioty przechowywane w swoim PC.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323704.0274673,
+  "updated": 1792323923.4565034,
   "touched": true
  },
  "data maps.txt::data maps.txt_269": {
@@ -17112,7 +17112,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323703.5813248,
+  "updated": 1792323908.4996161,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_97": {
@@ -20390,7 +20390,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323883.4575758,
+  "updated": 1792323883.9906058,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1012": {
@@ -43743,7 +43743,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323705.2163365,
+  "updated": 1792323904.2758656,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_752": {
@@ -79867,7 +79867,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323700.3440309,
+  "updated": 1792323887.282688,
   "touched": true
  },
  "src.txt::src.txt_1265": {
@@ -85029,7 +85029,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323701.166229,
+  "updated": 1792323895.6788392,
   "touched": true
  },
  "data maps.txt::data maps.txt_779": {
