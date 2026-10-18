@@ -74064,10 +74064,14 @@
  },
  "datatext.txt::datatext.txt_736": {
   "source": "Own POKéMON type: WATER",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON typ: WODNY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319090.2026787,
+  "touched": true
  },
  "src.txt::src.txt_2358": {
   "source": "JOS & ANNE",
@@ -78755,13 +78759,13 @@
  },
  "datatext.txt::datatext.txt_734": {
   "source": "Own POKéMON type: FIRE",
-  "target": "Own POKéMON type: FIRE",
+  "target": "POKéMON typ: OGIEŃ",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792319057.0124242,
+  "updated": 1792319096.9981194,
   "touched": true
  },
  "src.txt::src.txt_341": {
@@ -108022,14 +108026,13 @@
  },
  "datatext.txt::datatext.txt_735": {
   "source": "Own move type: WATER",
-  "target": "",
-  "status": "new",
+  "target": "Własny ruch Typ: WODNY",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791741358.035914,
+  "updated": 1792319081.833531,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_755": {
