@@ -20528,7 +20528,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326102.3272235,
+  "updated": 1792326181.0535417,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_643": {
@@ -24412,6 +24412,16 @@
   "ignored": true,
   "manual_skip": true
  },
+ "src.txt::src.txt_2852": {
+  "source": "All right!\\nLet's chat!{PAUSE 60}",
+  "target": "W porządku!\\nPorozmawiajmy!{PAUSE 60}",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326178.4991102,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_805": {
   "source": "OMANYTE",
   "target": "",
@@ -24421,13 +24431,6 @@
   "manual_skip": true,
   "cleared": true,
   "updated": 1791583770.6323676
- },
- "src.txt::src.txt_2852": {
-  "source": "All right!\\nLet's chat!{PAUSE 60}",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_800": {
   "source": "<<< FILE: maps/MtEmber_RubyPath_B3F/text.inc >>>",
@@ -41530,7 +41533,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326163.6744714,
+  "updated": 1792326169.4345608,
   "touched": true
  },
  "data maps.txt::data maps.txt_123": {
@@ -97362,10 +97365,13 @@
  },
  "src.txt::src.txt_2854": {
   "source": "Sorry I made you wait!\\nLet's chat.{PAUSE 60}",
-  "target": "",
-  "status": "new",
+  "target": "Przepraszam, że musiałeś/nmusiałaś czekać!\\nPorozmawiajmy.{PAUSE 60}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326203.6440144,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1181": {
   "source": "????????",
