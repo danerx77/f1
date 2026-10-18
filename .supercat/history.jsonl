@@ -3193,3 +3193,7 @@
 {"time": "2026-10-11T19:56:17", "file": "datatext.txt", "seg_id": "datatext.txt_712", "source": "Own POKéMON type: FIGHTING", "old": "Own POKéMON Typ: Walczący", "new": "", "translator": "Antrix", "method": "clear"}
 {"time": "2026-10-11T20:53:19", "file": "datatext.txt", "seg_id": "datatext.txt_712", "source": "Own POKéMON type: FIGHTING", "old": "", "new": "Own POKéMON Typ: Walczący", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-11T20:53:19", "file": "datatext.txt", "seg_id": "datatext.txt_712", "source": "Own POKéMON type: FIGHTING", "old": "", "new": "Own POKéMON Typ: Walczący", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T11:47:16", "file": "datatext.txt", "seg_id": "datatext.txt_712", "source": "Own POKéMON type: FIGHTING", "old": "Own POKéMON Typ: Walczący", "new": "OPOKéMON typ:  Walczący", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T11:47:19", "file": "datatext.txt", "seg_id": "datatext.txt_712", "source": "Own POKéMON type: FIGHTING", "old": "OPOKéMON typ:  Walczący", "new": "POKéMON typ:  Walczący", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T11:47:26", "file": "datatext.txt", "seg_id": "datatext.txt_713", "source": "Own move type: GRASS", "old": "", "new": "Own move type: BUG", "translator": "Antrix", "method": "auto_tm"}
+{"time": "2026-10-18T11:47:26", "file": "datatext.txt", "seg_id": "datatext.txt_713", "source": "Own move type: GRASS", "old": "", "new": "Own move type: BUG", "translator": "Antrix", "method": "manual"}

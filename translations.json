@@ -1535,7 +1535,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "src.txt::src.txt_724": {
@@ -1920,14 +1920,14 @@
  },
  "srcdata.txt::srcdata.txt_573": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "src.txt::src.txt_1010": {
@@ -3797,10 +3797,14 @@
  },
  "datatext.txt::datatext.txt_713": {
   "source": "Own move type: GRASS",
-  "target": "",
-  "status": "new",
+  "target": "Own move type: BUG",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792316860.2445488,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_317": {
   "source": "HYPER FANG",
@@ -6365,7 +6369,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_1152": {
@@ -7589,7 +7593,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5901961,
+  "updated": 1791734970.5977106,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_174": {
@@ -9713,7 +9717,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5835164,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "src.txt::src.txt_2161": {
@@ -11910,7 +11914,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1433": {
@@ -13240,7 +13244,8 @@
   "ignored": true,
   "manual_skip": true,
   "cleared": true,
-  "updated": 1791734970.575651,
+  "translator": "Antrix",
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_96": {
@@ -13404,7 +13409,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_914": {
@@ -13968,7 +13973,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5655136,
+  "updated": 1791734970.5868573,
   "touched": true
  },
  "src.txt::src.txt_318": {
@@ -15153,7 +15158,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.4762924,
+  "updated": 1791734970.5510733,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_584": {
@@ -15468,7 +15473,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5277855,
+  "updated": 1791734970.5360522,
   "touched": true
  },
  "src.txt::src.txt_2160": {
@@ -17315,7 +17320,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_130": {
@@ -18149,7 +18154,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "src.txt::src.txt_1535": {
@@ -18850,7 +18855,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_178": {
@@ -21913,7 +21918,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5360522,
+  "updated": 1791734970.5868573,
   "touched": true
  },
  "data maps.txt::data maps.txt_2131": {
@@ -24914,7 +24919,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_716": {
@@ -25910,7 +25915,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.542719,
+  "updated": 1791734970.5655136,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_581": {
@@ -26325,7 +26330,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "src.txt::src.txt_2304": {
@@ -26395,14 +26400,14 @@
  },
  "srcdata.txt::srcdata.txt_448": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "datatext.txt::datatext.txt_180": {
@@ -26502,7 +26507,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734970.5868573,
   "touched": true
  },
  "data maps.txt::data maps.txt_2196": {
@@ -27702,7 +27707,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.542719,
+  "updated": 1791734970.5868573,
   "touched": true
  },
  "data maps.txt::data maps.txt_3284": {
@@ -28207,7 +28212,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_3065": {
@@ -28718,14 +28723,14 @@
  },
  "srcdata.txt::srcdata.txt_387": {
   "source": "????????",
-  "target": "",
-  "status": "new",
+  "target": "????????",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5577855,
+  "updated": 1791734970.5723386,
   "touched": true
  },
  "data maps.txt::data maps.txt_3260": {
@@ -28985,7 +28990,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "data maps.txt::data maps.txt_2263": {
@@ -31442,7 +31447,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_418": {
@@ -32644,7 +32649,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_2297": {
@@ -33122,7 +33127,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "src.txt::src.txt_2682": {
@@ -33289,7 +33294,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "src.txt::src.txt_20": {
@@ -35067,7 +35072,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5655136,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "data maps.txt::data maps.txt_664": {
@@ -36007,7 +36012,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1167": {
@@ -36019,7 +36024,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "datatext.txt::datatext.txt_730": {
@@ -39414,14 +39419,14 @@
  },
  "srcdata.txt::srcdata.txt_569": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "data maps.txt::data maps.txt_3078": {
@@ -39439,7 +39444,8 @@
   "ignored": true,
   "manual_skip": true,
   "cleared": true,
-  "updated": 1791734970.5835164,
+  "translator": "Antrix",
+  "updated": 1791734970.5977106,
   "touched": true
  },
  "data maps.txt::data maps.txt_882": {
@@ -40439,7 +40445,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734970.5868573,
   "touched": true
  },
  "datatext.txt::datatext.txt_126": {
@@ -42189,14 +42195,14 @@
  },
  "srcdata.txt::srcdata.txt_949": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734970.5868573,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_63": {
@@ -42255,7 +42261,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1861": {
@@ -44528,7 +44534,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.575651,
+  "updated": 1791734970.5977106,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_16": {
@@ -45906,7 +45912,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5901961,
+  "updated": 1791734970.5977106,
   "touched": true
  },
  "src.txt::src.txt_2518": {
@@ -48009,7 +48015,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_37": {
@@ -49171,7 +49177,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "src.txt::src.txt_518": {
@@ -50302,7 +50308,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.542719,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_1431": {
@@ -51251,7 +51257,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1796": {
@@ -51751,7 +51757,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.542719,
+  "updated": 1791734970.5795407,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_6": {
@@ -53593,7 +53599,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_580": {
@@ -54862,10 +54868,10 @@
  },
  "srcdata.txt::srcdata.txt_711": {
   "source": "MASTER BALL",
-  "target": "MASTER BALL",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true
  },
@@ -57286,7 +57292,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5360522,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "data maps.txt::data maps.txt_3250": {
@@ -58526,7 +58532,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5835164,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "src.txt::src.txt_605": {
@@ -58925,7 +58931,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_531": {
@@ -59852,7 +59858,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5360522,
+  "updated": 1791734970.5795407,
   "touched": true
  },
  "datatext.txt::datatext.txt_161": {
@@ -65766,7 +65772,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5132256,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "src.txt::src.txt_33": {
@@ -66255,7 +66261,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5655136,
+  "updated": 1791734970.5795407,
   "touched": true
  },
  "data maps.txt::data maps.txt_152": {
@@ -66307,7 +66313,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5277855,
+  "updated": 1791734970.5795407,
   "touched": true
  },
  "src.txt::src.txt_2932": {
@@ -67725,10 +67731,10 @@
  },
  "srcdata.txt::srcdata.txt_334": {
   "source": "MASTER BALL",
-  "target": "",
-  "status": "new",
+  "target": "MASTER BALL",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true
  },
@@ -67912,7 +67918,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5360522,
+  "updated": 1791734970.5655136,
   "touched": true
  },
  "data maps.txt::data maps.txt_880": {
@@ -68460,7 +68466,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734970.5868573,
   "touched": true
  },
  "data maps.txt::data maps.txt_2421": {
@@ -73163,7 +73169,7 @@
  "srcdatapokemon.txt::srcdatapokemon.txt_776": {
   "source": "This is a newly discovered POKéMON. It is\\ncurrently under investigation. No detailed\\ninformation is available at this time.",
   "target": "To jest nowo odkryty POKéMON. Aktualnie\\nprowadzone są nad nim badania. Chwilowo\\nbrak jakichkolwiek innych informacji.",
-  "status": "approved",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -75859,7 +75865,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5577855,
+  "updated": 1791734970.5655136,
   "touched": true
  },
  "datatext.txt::datatext.txt_930": {
@@ -76184,7 +76190,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "datatext.txt::datatext.txt_917": {
@@ -78574,13 +78580,13 @@
  },
  "datatext.txt::datatext.txt_712": {
   "source": "Own POKéMON type: FIGHTING",
-  "target": "Own POKéMON Typ: Walczący",
+  "target": "POKéMON typ:  Walczący",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792316811.7168033,
+  "updated": 1792316846.2167773,
   "touched": true
  },
  "datatext.txt::datatext.txt_100": {
@@ -79289,7 +79295,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "datatext.txt::datatext.txt_1199": {
@@ -79931,14 +79937,14 @@
  },
  "srcdata.txt::srcdata.txt_575": {
   "source": "????????",
-  "target": "",
-  "status": "new",
+  "target": "????????",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5360522,
+  "updated": 1791734970.5723386,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1002": {
@@ -80451,7 +80457,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_30": {
@@ -81676,7 +81682,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_238": {
@@ -82059,7 +82065,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791744779.6925445,
+  "updated": 1792316833.2793932,
   "touched": true
  },
  "data maps.txt::data maps.txt_2964": {
@@ -83063,7 +83069,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_1304": {
@@ -84141,14 +84147,14 @@
  },
  "srcdata.txt::srcdata.txt_1165": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_450": {
@@ -84848,7 +84854,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "src.txt::src.txt_593": {
@@ -87765,7 +87771,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "src.txt::src.txt_1439": {
@@ -87918,14 +87924,14 @@
  },
  "srcdata.txt::srcdata.txt_511": {
   "source": "????????",
-  "target": "",
-  "status": "new",
+  "target": "????????",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5277855,
+  "updated": 1791734970.5723386,
   "touched": true
  },
  "datatext.txt::datatext.txt_494": {
@@ -88339,7 +88345,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5510733,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_3364": {
@@ -88514,14 +88520,14 @@
  },
  "srcdata.txt::srcdata.txt_579": {
   "source": "????????",
-  "target": "",
-  "status": "new",
+  "target": "????????",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5360522,
+  "updated": 1791734970.5723386,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_596": {
@@ -89249,7 +89255,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "src.txt::src.txt_606": {
@@ -89405,7 +89411,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_1650": {
@@ -89708,7 +89714,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5577855,
+  "updated": 1791734970.5868573,
   "touched": true
  },
  "datatext.txt::datatext.txt_1213": {
@@ -91514,7 +91520,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5835164,
+  "updated": 1791734970.5977106,
   "touched": true
  },
  "data maps.txt::data maps.txt_2185": {
@@ -92692,7 +92698,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "datatext.txt::datatext.txt_779": {
@@ -93972,14 +93978,14 @@
  },
  "srcdata.txt::srcdata.txt_939": {
   "source": "????????",
-  "target": "",
-  "status": "new",
+  "target": "????????",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.542719,
+  "updated": 1791734970.5723386,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1239": {
@@ -94245,7 +94251,7 @@
  "srcdatapokemon.txt::srcdatapokemon.txt_390": {
   "source": "This is a newly discovered POKéMON. It is\\ncurrently under investigation. No detailed\\ninformation is available at this time.",
   "target": "To jest nowo odkryty POKéMON. Aktualnie\\nprowadzone są nad nim badania. Chwilowo\\nbrak jakichkolwiek innych informacji.",
-  "status": "draft",
+  "status": "approved",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -94519,7 +94525,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1003": {
@@ -94596,7 +94602,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_544": {
@@ -95322,7 +95328,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5901961,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "data maps.txt::data maps.txt_280": {
@@ -96303,7 +96309,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_500": {
@@ -96538,7 +96544,8 @@
   "ignored": true,
   "manual_skip": true,
   "cleared": true,
-  "updated": 1791734970.575651,
+  "translator": "Antrix",
+  "updated": 1791734970.5977106,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_463": {
@@ -97695,7 +97702,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "src.txt::src.txt_336": {
@@ -98746,7 +98753,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "src.txt::src.txt_1881": {
@@ -99928,7 +99935,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "datatext.txt::datatext.txt_1131": {
@@ -105694,7 +105701,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5689816,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_284": {
@@ -105974,7 +105981,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1969": {
@@ -106977,7 +106984,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.4990437,
+  "updated": 1791734970.5577855,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_693": {
@@ -109193,7 +109200,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5655136,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_1362": {
