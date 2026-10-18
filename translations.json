@@ -65056,17 +65056,23 @@
   "notes": "",
   "ignored": false
  },
- "src.txt::src.txt_818": {
-  "source": "Forgets about\\nsomething and\\nsharply raises\\nSP. DEF.",
-  "target": "Zapomina o\\nczymś i zwiększa\\nznacznie SP. OBR.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "src.txt::src.txt_2094": {
   "source": "\\nArt Director\\n\\nBattle Director\\n\\n\\n",
   "target": "",
   "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325419.5578039,
+  "touched": true
+ },
+ "src.txt::src.txt_818": {
+  "source": "Forgets about\\nsomething and\\nsharply raises\\nSP. DEF.",
+  "target": "Zapomina o\\nczymś i zwiększa\\nznacznie SP. OBR.",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -95697,10 +95703,14 @@
  },
  "src.txt::src.txt_2178": {
   "source": "Communication error…\\nPlease check all connections,\\nthen turn the power OFF and ON.",
-  "target": "",
-  "status": "new",
+  "target": "Communication error…\\nPlease check all connections,\\nthen turn the power OFF and ON.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325443.5389256,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_1000": {
   "source": "HAH",
@@ -108371,7 +108381,7 @@
   "ignored": false,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1790363581.3223085,
+  "updated": 1792325409.9212008,
   "touched": true
  },
  "data maps.txt::data maps.txt_686": {
