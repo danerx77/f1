@@ -2431,7 +2431,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327384.1907096,
+  "updated": 1792327439.8566935,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_578": {
@@ -43216,7 +43216,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327384.2396846,
+  "updated": 1792327443.7255106,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_575": {
@@ -46895,12 +46895,12 @@
  },
  "src.txt::src.txt_1041": {
   "source": "Obtained a {STR_VAR_2} BERRY!\\nDad has it at PETALBURG GYM.",
-  "target": "Zdobyto {STR_VAR_2} JAGODY\\nTata ma to w GIMNAZJUM PETALBURG.",
+  "target": "Zdobyto {STR_VAR_2} JAGODY\\nTata ma to w SALI PETALBURG.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327403.7522898,
+  "updated": 1792327407.2211885,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1977": {
@@ -51220,12 +51220,12 @@
  },
  "src.txt::src.txt_1042": {
   "source": "The {STR_VAR_1} BERRY transformed into\\none {STR_VAR_2} BERRY.",
-  "target": "{STR_VAR_1} BERRY przemieniła się\\nw jedną {STR_VAR_2} BERRY.",
+  "target": "{STR_VAR_1} JAGODY przemieniła się\\nw jedną {STR_VAR_2} JAGODĘ.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327384.515918,
+  "updated": 1792327436.2566772,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_530": {
