@@ -4091,10 +4091,13 @@
  },
  "src.txt::src.txt_2895": {
   "source": "{STR_VAR_1} checked the\\nTRADING BOARD.\\p",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1} sprawdził\\nTABLICĘ WYMIAN.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326563.7145915,
+  "touched": true
  },
  "datatext.txt::datatext.txt_340": {
   "source": "LITTLE BOY",
@@ -24929,7 +24932,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326523.6916559,
+  "updated": 1792326529.7703388,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_845": {
@@ -43942,7 +43945,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326149.9034321,
+  "updated": 1792326531.456558,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_706": {
@@ -83026,10 +83029,13 @@
  },
  "src.txt::src.txt_2896": {
   "source": "Welcome to the TRADING BOARD.\\pYou may register your POKéMON\\nand offer it up for a trade.\\pWould you like to register one of\\nyour POKéMON?",
-  "target": "",
-  "status": "new",
+  "target": "Witamy na TABLICY WYMIAN.\\pMożesz zarejestrować swojego POKéMONA\\ni zaoferować go do wymiany.\\pCzy chciałbyś zarejestrować jednego\\nze swoich POKéMONÓW?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326558.2856352,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_994": {
   "source": "When held by a POKéMON, it will be\\\\nused in battle to restore 30 HP.",
