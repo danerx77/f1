@@ -31739,7 +31739,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323683.106387,
+  "updated": 1792323755.30052,
   "touched": true
  },
  "datatext.txt::datatext.txt_383": {
@@ -35120,6 +35120,16 @@
   "updated": 1791732687.7550821,
   "touched": true
  },
+ "datatext.txt::datatext.txt_603": {
+  "source": "{CIRCLE_1} Select “HALL OF FAME” on the PC.\\n{CIRCLE_2} The POKéMON that have entered the\\n   HALL OF FAME can be examined.",
+  "target": "Wybierz „HALL OF FAME” na PC.{CIRCLE_1}\\n{CIRCLE_2} POKéMON, które weszły do\\nSALI SŁAW, mogą zostać zbadane.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323724.1958423,
+  "touched": true
+ },
  "srcdata.txt::srcdata.txt_1325": {
   "source": "TM20",
   "target": "",
@@ -35127,13 +35137,6 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true
- },
- "datatext.txt::datatext.txt_603": {
-  "source": "{CIRCLE_1} Select “HALL OF FAME” on the PC.\\n{CIRCLE_2} The POKéMON that have entered the\\n   HALL OF FAME can be examined.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_1644": {
   "source": "Maybe I'm not cut out for battles.\\nI'm not the right type, I guess.",
@@ -64128,7 +64131,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323686.1179278,
+  "updated": 1792323763.443757,
   "touched": true
  },
  "data maps.txt::data maps.txt_419": {
@@ -70054,7 +70057,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323723.4434814,
+  "updated": 1792323732.2256253,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1416": {
@@ -75281,7 +75284,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323681.3106346,
+  "updated": 1792323747.7899227,
   "touched": true
  },
  "src.txt::src.txt_2420": {
@@ -81041,7 +81044,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323681.6748853,
+  "updated": 1792323750.4071474,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_446": {
@@ -95206,10 +95209,13 @@
  },
  "datatext.txt::datatext.txt_602": {
   "source": "{CIRCLE_1} Select to throw a rock lying on\\n   the ground in the SAFARI ZONE.\\nThrowing a rock at a POKéMON may \\nmake it run away, but it becomes easier\\nto catch!",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz, aby rzucić kamień leżący\\nna ziemi w STREFIE SAFARI.\\nRzucenie kamieniem w POKéMONA może\\nsprawić, że ucieknie, ale\\nstanie się łatwiejszy do złapania!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323724.3761,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_51": {
   "source": "A fizzy soda drink.\\nIt restores the HP of one POKéMON\\nby 60 points.",
@@ -98991,7 +98997,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323680.8298814,
+  "updated": 1792323741.8893108,
   "touched": true
  },
  "datatext.txt::datatext.txt_711": {
