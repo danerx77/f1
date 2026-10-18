@@ -7448,10 +7448,13 @@
  },
  "src.txt::src.txt_2780": {
   "source": "3 players\\nneeded.",
-  "target": "",
-  "status": "new",
+  "target": "Potrzeba 3\\ngraczy.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326817.614995,
+  "touched": true
  },
  "src.txt::src.txt_2558": {
   "source": "QUAGSIRE",
@@ -32032,10 +32035,13 @@
  },
  "src.txt::src.txt_2779": {
   "source": "2 players\\nneeded.",
-  "target": "",
-  "status": "new",
+  "target": "Potrzebni są\\n2 gracze.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326817.4892223,
+  "touched": true
  },
  "src.txt::src.txt_343": {
   "source": "A bell chimed!",
@@ -79490,10 +79496,13 @@
  },
  "src.txt::src.txt_2760": {
   "source": "Please start over from the beginning.",
-  "target": "",
-  "status": "new",
+  "target": "Proszę zacząć od początku.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326837.4592485,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2544": {
   "source": "めちゃめちゃに　こわされてる\\nとうぶん　なおりそうに　ない‥",
@@ -83938,10 +83947,13 @@
  },
  "src.txt::src.txt_2778": {
   "source": "1 player\\nneeded.",
-  "target": "",
-  "status": "new",
+  "target": "Potrzebny 1\\ngracz.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326829.3557894,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_432": {
   "source": "WISH",
@@ -92193,10 +92205,13 @@
  },
  "src.txt::src.txt_2785": {
   "source": "5-PLAYER\\nMODE",
-  "target": "",
-  "status": "new",
+  "target": "TRYB DLA\\n5 GRACZY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326807.3753214,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_814": {
   "source": "Very smart and very vengeful. Grabbing\\none of its many tails could result in a\\n1,000-year curse.",
@@ -94043,10 +94058,13 @@
  },
  "src.txt::src.txt_2784": {
   "source": "4-PLAYER\\nMODE",
-  "target": "",
-  "status": "new",
+  "target": "TRYB DLA\\n4 GRACZY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326807.2493882,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3051": {
   "source": "Those BIKERS ran off, and\\nLOSTELLE was found safe.\\pEverything turned out for the best!",
@@ -95753,17 +95771,20 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2783": {
+  "source": "3-PLAYER\\nMODE",
+  "target": "TRYB DLA\\n3 GRACZY",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326807.3620687,
+  "touched": true
+ },
  "src.txt::src.txt_539": {
   "source": "a DARK move",
   "target": "MROCZNY ruch",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2783": {
-  "source": "3-PLAYER\\nMODE",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -96989,10 +97010,13 @@
  },
  "src.txt::src.txt_2761": {
   "source": "The WIRELESS COMMUNICATION\\nSYSTEM search has been canceled.",
-  "target": "",
-  "status": "new",
+  "target": "Wyszukiwanie SYSTEMU KOMUNIKACJI\\nBEZPRZEWODOWEJ zostało anulowane.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326840.5027785,
+  "touched": true
  },
  "datascript.txt::datascript.txt_57": {
   "source": "“POKéMON JUMP”\\pMake your POKéMON skip the\\nVINE WHIP rope with the A Button.\\pOnly mini POKéMON around 28 inches\\nor less may participate.\\pPOKéMON that only swim, burrow, or\\nfly are not good at jumping.\\pAs a result, those POKéMON may not\\nparticipate.\\pGood things happen if everyone\\njumps in time.",
@@ -105101,10 +105125,13 @@
  },
  "src.txt::src.txt_2782": {
   "source": "2-PLAYER\\nMODE",
-  "target": "",
-  "status": "new",
+  "target": "TRYB DLA\\n2 GRACZY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326812.5780637,
+  "touched": true
  },
  "src.txt::src.txt_2032": {
   "source": "SAVING...\\nDON'T TURN OFF THE POWER.",
