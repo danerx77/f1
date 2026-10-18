@@ -15685,7 +15685,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325172.0935588,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1883": {
   "source": "Right now, I'm in a triathlon meet.",
@@ -23883,7 +23888,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325163.4782352,
+  "updated": 1792325165.9396029,
   "touched": true
  },
  "src.txt::src.txt_174": {
@@ -101667,10 +101672,13 @@
  },
  "src.txt::src.txt_1976": {
   "source": "Exiting the chat‥",
-  "target": "Exiting the chat…",
+  "target": "Opuszczanie czatu‥",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325203.5174232,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1408": {
   "source": "In mountains, you'll often find\\nROCK-type POKéMON.",
