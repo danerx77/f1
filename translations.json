@@ -5487,10 +5487,13 @@
  },
  "data.txt::data.txt_49": {
   "source": "Oh, your party appears to be full.\\pPlease come see me after storing\\na POKéMON on a PC.",
-  "target": "",
-  "status": "new",
+  "target": "Och, wygląda na to, że twoja drużyna jest pełna.\\pProszę, przyjdź do mnie\\npo umieszczeniu POKéMONA w PC.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792319739.4842908,
+  "touched": true
  },
  "src.txt::src.txt_1532": {
   "source": "BICYCLE{CLEAR_TO 0x49}{FONT_SMALL}¥1,000,000",
@@ -48154,7 +48157,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792319697.0021942,
+  "updated": 1792319699.9442444,
   "touched": true
  },
  "datatext.txt::datatext.txt_146": {
@@ -70150,10 +70153,13 @@
  },
  "data.txt::data.txt_48": {
   "source": "Thank you for using the MYSTERY\\nGIFT System.\\pFrom the POKéMON CENTER we\\nhave a gift - a POKéMON EGG!\\pPlease raise it with love and\\nkindness.",
-  "target": "",
-  "status": "new",
+  "target": "Dziękujemy za korzystanie z\\nsystemu MYSTERY GIFT.\\pZ POKéMON CENTER mamy\\nprezent - POKéMONOWE JAJO!\\pProszę wychowuj go z\\nmiłością i życzliwością.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792319730.9958093,
+  "touched": true
  },
  "datatext.txt::datatext.txt_548": {
   "source": " Using “RUN”",
