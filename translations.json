@@ -1700,10 +1700,13 @@
  },
  "datatext.txt::datatext.txt_1016": {
   "source": "No way! You've gone into the\\nHALL OF FAME that many times?\\pYou're beyond incredible, yup!\\nThat's it, I have to give you this.",
-  "target": "",
-  "status": "new",
+  "target": "Nie wierzę! Wszedłeś do\\nSALONU SŁAW tylu razy?\\pJesteś niesamowity, tak!\\nTo wszystko, muszę ci to dać.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323201.2858975,
+  "touched": true
  },
  "src.txt::src.txt_1875": {
   "source": "{DPAD_RIGHT}PAGE {A_BUTTON}CANCEL",
@@ -13666,10 +13669,13 @@
  },
  "datatext.txt::datatext.txt_1015": {
   "source": "Whoa! You've made it into the\\nHALL OF FAME that often?\\lThat's seriously incredible, yup!\\pYou own the POKéMON LEAGUE!\\nI'll give you one of these.",
-  "target": "",
-  "status": "new",
+  "target": "Whoa! Tak często trafiasz\\ndo HALI SŁAW?\\lTo naprawdę niesamowite, tak!\\pJesteś właścicielem LIGI POKéMON!\\nDam ci jedną z tych.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323200.218606,
+  "touched": true
  },
  "src.txt::src.txt_2577": {
   "source": "AZUMARILL",
@@ -33145,10 +33151,13 @@
  },
  "datatext.txt::datatext.txt_1013": {
   "source": "Oh, wow, you made it into the\\nHALL OF FAME.\\pThat's pretty good, yup!\\nI'll give you one of these.",
-  "target": "",
-  "status": "new",
+  "target": "O, wow, trafiłeś\\ndo SALONU SŁAW.\\pTo całkiem dobre, tak!\\nDam ci jedną z tych.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323197.0783288,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1128": {
   "source": "An item to be held by a POKéMON.\\\\nA teardrop-shaped gem that boosts\\\\nthe power of WATER-type moves.",
@@ -40330,10 +40339,13 @@
  },
  "datatext.txt::datatext.txt_1018": {
   "source": "Hmm…\\pCome back with a better story next\\ntime, okay?",
-  "target": "",
-  "status": "new",
+  "target": "Hmm…\\pWróć następnym razem z\\nlepszą historią, okej?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323202.2396164,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_736": {
   "source": "BELLSPROUT",
@@ -46418,10 +46430,13 @@
  },
  "datatext.txt::datatext.txt_1012": {
   "source": "Oh, hi!\\nHere comes the braggart.\\pWhat are you going to brag about\\ntoday?",
-  "target": "",
-  "status": "new",
+  "target": "O, cześć!\\nOto nadęty chwalipięta.\\pCzym dziś\\nzamierzasz się chwalić?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323194.470965,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_415": {
   "source": "SWALLOW",
@@ -48901,12 +48916,12 @@
  },
  "datatext.txt::datatext.txt_759": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: GROUND, PSYCHIC\\p   {TRIANGLE}: GRASS, FIGHTING, POISON, BUG",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ZIEMIA, PSYCHICZNY\\p   {TRIANGLE}: TRAWA, WALKI, TRUJĄCE, ROBACZKOWE",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ZIEMIA, PSYCHICZNY\\p   {TRIANGLE}: TRAWIASTY, WALKI, TRUJĄCE, ROBACZKOWE",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323163.4031088,
+  "updated": 1792323177.2644122,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_551": {
@@ -73432,6 +73447,16 @@
   "ignored": true,
   "auto_excluded": true
  },
+ "datatext.txt::datatext.txt_1014": {
+  "source": "Oh, wow, you've entered the\\nHALL OF FAME often!\\pThat's impressive, yup!\\nI'll give you one of these.",
+  "target": "O, wow, często wchodzisz\\ndo SALONU SŁAW!\\pTo imponujące, tak!\\nDam ci jedną z tych.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323197.98485,
+  "touched": true
+ },
  "srcdatadecoration.txt::srcdatadecoration.txt_185": {
   "source": "POWDER SNOW MAT",
   "target": "",
@@ -73441,13 +73466,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586295.5125175
- },
- "datatext.txt::datatext.txt_1014": {
-  "source": "Oh, wow, you've entered the\\nHALL OF FAME often!\\pThat's impressive, yup!\\nI'll give you one of these.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_2960": {
   "source": "Your gang of followers have been\\nraising havoc on their bikes.\\pDo you have any idea how much\\ntrouble they've caused us on the\\lisland?",
@@ -81510,10 +81528,13 @@
  },
  "datatext.txt::datatext.txt_1009": {
   "source": "Giggle…\\nI collected a ton of STICKERS.\\lI wish I could show them off…",
-  "target": "",
-  "status": "new",
+  "target": "Chichot…\\nZebrałem mnóstwo NAKLEJEK.\\lChciałbym móc się nimi pochwalić…",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323203.4358974,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_30": {
   "source": "ROUTE 16",
@@ -83066,10 +83087,13 @@
  },
  "datatext.txt::datatext.txt_1010": {
   "source": "Oh, excellent!\\nYou've come to the right place!\\pLook, look! See? See?\\nThese are my STICKERS!\\lLook how many I got!\\pI bet you want some.\\nI bet you do!\\pI'll give a STICKER if you can tell\\nme something awesome about\\lyourself.\\pWhat will you brag about?",
-  "target": "",
-  "status": "new",
+  "target": "O, doskonale!\\nPrzyszedłeś we właściwe miejsce!\\pPatrz, patrz! Widzisz? Widzisz?\\nTo są moje NAKLEJKI!\\lSpójrz, ile ich mam!\\pZałożę się, że chcesz trochę.\\nZałożę się, że tak!\\pDam NAKLEJKĘ, jeśli\\npowiesz mi coś\\lniesamowitego o sobie.\\pCzym będziesz się chwalić?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323203.2791986,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_37": {
   "source": "A small fence that\\nblocks passage.",
@@ -98564,14 +98588,14 @@
  },
  "datatext.txt::datatext.txt_1011": {
   "source": "Brag about something for me.\\nI'll give you a STICKER.",
-  "target": "",
-  "status": "new",
+  "target": "Pochwal się czymś przede mną.\\nDam ci NAKLEJKĘ.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791656207.970899
+  "updated": 1792323193.453102,
+  "touched": true
  },
  "src.txt::src.txt_2198": {
   "source": "VOICES",
@@ -108475,10 +108499,14 @@
  },
  "datatext.txt::datatext.txt_1017": {
   "source": "The HALL OF FAME STICKER was\\napplied to the TRAINER CARD.",
-  "target": "",
-  "status": "new",
+  "target": "NAKLEJKA HALI SŁAWY została\\nnaklejona na KARTĘ TRENERA.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792323199.4153054,
+  "touched": true
  },
  "data maps.txt::data maps.txt_255": {
   "source": "You better make room for your\\nBICYCLE!",
