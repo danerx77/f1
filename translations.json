@@ -20390,7 +20390,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323696.6059558,
+  "updated": 1792323883.4575758,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1012": {
@@ -65729,7 +65729,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323695.2458227,
+  "updated": 1792323851.2516012,
   "touched": true
  },
  "datatext.txt::datatext.txt_827": {
@@ -78130,12 +78130,12 @@
  },
  "datatext.txt::datatext.txt_571": {
   "source": "{CIRCLE_1} Open the MENU. Open the\\n   “KEY ITEMS” POCKET in the “BAG”\\n   and select the “BICYCLE.”\\n{CIRCLE_2} The BICYCLE can be ridden by\\n   selecting “USE.” You may also\\n   “REGISTER” it for instant use by\\n   pressing SELECT.",
-  "target": "{CIRCLE_1} Otwórz MENU. Otwórz\\nkieszeń „KLUCZOWE PRZEDMIOTY” w\\n„PLECAKU” i wybierz „ROWER.”\\n{CIRCLE_2} ROWER można\\nużywać, wybierając „UŻYJ.” Możesz\\nrównież „ZAREJESTROWAĆ” go do\\nnatychmiastowego użycia, naciskając SELECT.",
+  "target": "{CIRCLE_1} Otwórz MENU. Otwórz\\nkieszeń „KLUCZOWE PRZEDMIOTY” w\\n„PLECAKU” i wybierz „ROWER.”\\n{CIRCLE_2} ROWER można\\nużywać, wybierając „UŻYJ.” Możesz\\nrównież „ZAREJESTROWAĆ” go do\\nnatychmiastowego użycia, naciskając WYIBERZ.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323694.9889064,
+  "updated": 1792323866.101326,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_725": {
@@ -97055,12 +97055,12 @@
  },
  "datatext.txt::datatext.txt_572": {
   "source": "{CIRCLE_1} Move the cursor to the letter you\\n   want with the {PLUS} Control Pad, then\\n   press the A Button to enter it.\\n{CIRCLE_2} Press the B Button to back up.\\n{CIRCLE_3} Press SELECT to switch between\\n   uppercase and lowercase letters.\\n{CIRCLE_4} Press the A Button on “OK.”",
-  "target": "{CIRCLE_1} Przesuń kursor na literę, którą chcesz\\nwybrać, za pomocą {PLUS} Panelu sterowania, a\\nnastępnie naciśnij przycisk A, aby ją wprowadzić.\\n{CIRCLE_2} Naciśnij przycisk B, aby cofnąć.\\n{CIRCLE_3} Naciśnij SELECT, aby przełączać się\\nmiędzy wielkimi i małymi literami.\\n{CIRCLE_4} Naciśnij przycisk A na „OK.”",
+  "target": "{CIRCLE_1} Przesuń kursor na literę, którą chcesz\\nwybrać, za pomocą {PLUS} Panelu sterowania, a\\nnastępnie naciśnij przycisk A, aby ją wprowadzić.\\n{CIRCLE_2} Naciśnij przycisk B, aby cofnąć.\\n{CIRCLE_3} Naciśnij WYBIERZ, aby przełączać się\\nmiędzy wielkimi i małymi literami.\\n{CIRCLE_4} Naciśnij przycisk A na „OK.”",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323700.9565976,
+  "updated": 1792323881.9032056,
   "touched": true
  },
  "datatext.txt::datatext.txt_829": {
@@ -103694,12 +103694,12 @@
  },
  "datatext.txt::datatext.txt_569": {
   "source": "{CIRCLE_1} Open the MENU.\\n{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\\n   “BAG.”\\n{CIRCLE_3} “OPEN” the TM CASE.\\n{CIRCLE_4} Select and “USE” an HM.\\n{CIRCLE_5} Select a POKéMON that can learn it.\\nHMs are hard to remove, so be careful!",
-  "target": "{CIRCLE_1} Otwórz MENU.\\n{CIRCLE_2} Otwórz KIESZEŃ „KLUCZOWE\\nPRZEDMIOTY” w „PLECAKU.” {CIRCLE_3}\\n„OTWÓRZ” etui z TM.\\n{CIRCLE_4} Wybierz i „UŻYJ” HM.\\n{CIRCLE_5} Wybierz POKéMONA, który może się go nauczyć.\\nHMs są trudne do usunięcia, więc bądź ostrożny!",
+  "target": "{CIRCLE_1} Otwórz MENU.\\n{CIRCLE_2} Otwórz KIESZEŃ „KLUCZOWE\\nPRZEDMIOTY” w „TORBA.” {CIRCLE_3}\\n„OTWÓRZ” etui z TM.\\n{CIRCLE_4} Wybierz i „UŻYJ” HM.\\n{CIRCLE_5} Wybierz POKéMONA, który może się go nauczyć.\\nHMs są trudne do usunięcia, więc bądź ostrożny!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323843.4410946,
+  "updated": 1792323849.0082421,
   "touched": true
  },
  "data maps.txt::data maps.txt_2992": {
