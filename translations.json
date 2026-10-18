@@ -30051,11 +30051,11 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1790524797.9821374,
+  "updated": 1792328365.0454824,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_760": {
@@ -81202,11 +81202,11 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1790524797.9738693,
+  "updated": 1792328362.0131254,
   "touched": true
  },
  "src.txt::src.txt_2683": {
@@ -102712,9 +102712,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
+  "updated": 1792328353.7483716,
   "touched": true
  },
  "src.txt::src.txt_276": {
