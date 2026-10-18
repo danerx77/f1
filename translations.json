@@ -3168,12 +3168,12 @@
  },
  "src.txt::src.txt_2334": {
   "source": "DEL. ALL{CLEAR_TO 0x57}CANCEL{CLEAR_TO 0xA4}OK",
-  "target": "us. ALL{CLEAR_TO 0x57}ANULUJ{CLEAR_TO 0xA4}OK",
+  "target": "USŃ. WSZY{CLEAR_TO 0x57}ANULUJ{CLEAR_TO 0xA4}OK",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326883.7330825,
+  "updated": 1792326899.6694012,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_26": {
@@ -7876,7 +7876,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326904.303316,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1424": {
   "source": "<<< FILE: maps/Route10/text.inc >>>",
@@ -89367,7 +89372,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326907.4467263,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1641": {
   "source": "I'm afraid of BIKERS. They look so\\nugly and mean!",
@@ -109286,10 +109296,14 @@
  },
  "src.txt::src.txt_2329": {
   "source": "FRIEND",
-  "target": "",
-  "status": "new",
+  "target": "PRZYJACIEL",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326903.8991842,
+  "touched": true
  },
  "src.txt::src.txt_466": {
   "source": "You throw a BALL now, right?\\nI… I'll do my best!",
