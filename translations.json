@@ -3803,7 +3803,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792316940.218694,
+  "updated": 1792316940.9877656,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_317": {
@@ -11216,7 +11216,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792316936.459237,
+  "updated": 1792316948.7893388,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1843": {
@@ -26588,12 +26588,12 @@
  },
  "datatext.txt::datatext.txt_715": {
   "source": "Own move type: GHOST",
-  "target": "Własny ruch Typ: ",
+  "target": "Własny ruch Typ: DUCH",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792316883.6053953,
+  "updated": 1792316946.630205,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1035": {
@@ -87497,13 +87497,13 @@
  },
  "datatext.txt::datatext.txt_718": {
   "source": "Own POKéMON type: ICE",
-  "target": "Własny ruch Typ:",
+  "target": "POKéMON typ: LODOWY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792316889.0935261,
+  "updated": 1792316980.2133982,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_798": {
@@ -89336,10 +89336,13 @@
  },
  "datatext.txt::datatext.txt_716": {
   "source": "Own POKéMON type: GHOST",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON typ: DUCH",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792316972.6232886,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_282": {
   "source": "FEELING",
@@ -96106,13 +96109,13 @@
  },
  "datatext.txt::datatext.txt_717": {
   "source": "Own move type: ICE",
-  "target": "Własny ruch Typ: ",
+  "target": "Własny ruch Typ: LODOWY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792316887.0777216,
+  "updated": 1792316972.9750636,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_127": {
