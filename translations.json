@@ -43216,7 +43216,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327443.7255106,
+  "updated": 1792327448.0824614,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_575": {
@@ -70570,12 +70570,12 @@
  },
  "src.txt::src.txt_1045": {
   "source": "The POKéDEX has been upgraded\\nwith the NATIONAL MODE.",
-  "target": "POKéDEX został ulepszony\\no TRYB KRAJOWY.",
+  "target": "POKéDEX został ulepszony\\no TRYB NARODOWY.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327385.4289901,
+  "updated": 1792327483.136302,
   "touched": true
  },
  "datatext.txt::datatext.txt_379": {
