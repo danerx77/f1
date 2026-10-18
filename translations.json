@@ -3254,11 +3254,12 @@
  },
  "datatext.txt::datatext.txt_692": {
   "source": "Wireless Adapter",
-  "target": "",
-  "status": "new",
+  "target": "łącza bezprzewodowego",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1792324723.4714503,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_313": {
@@ -10315,14 +10316,13 @@
  },
  "datatext.txt::datatext.txt_699": {
   "source": "This game communicates over a wireless\\nlink using the Wireless Adapter.\\pGo wireless anywhere, anytime, and\\nwith anybody!\\pTry playing with the Wireless Adapter\\nalways attached!",
-  "target": "",
-  "status": "new",
+  "target": "Ta gra komunikuje się za pomocą\\nłącza bezprzewodowego przy użyciu Adaptera Bezprzewodowego.\\pKorzystaj z bezprzewodowego połączenia wszędzie, o\\nkażdej porze i z każdym!\\pSpróbuj grać z zawsze\\npodłączonym adapterem bezprzewodowym!",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733864.7613814,
+  "updated": 1792324719.1706178,
   "touched": true
  },
  "src.txt::src.txt_1681": {
@@ -20165,10 +20165,13 @@
  },
  "datatext.txt::datatext.txt_702": {
   "source": "Some of the obstacles in your way can\\nbe removed once your POKéMON learn\\lspecific moves.",
-  "target": "",
-  "status": "new",
+  "target": "Niektóre przeszkody na twojej drodze\\nmożna usunąć, gdy twoje\\lPOKéMON nauczą się określonych ruchów.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324709.0356874,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_566": {
   "source": "It usually forages for food on the ground\\nbut may, on rare occasions, hop onto\\nbranches to peck at shoots.",
@@ -45550,6 +45553,16 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_701": {
+  "source": "On your adventure, you will be faced\\nwith many obstacles. Every obstacle\\lcan be overcome by doing something\\lor by solving mysteries. Some obstacles\\lare affected by something that happens\\lfar away.",
+  "target": "Podczas swojej przygody napotkasz\\nwiele przeszkód. Każdą przeszkodę\\lmożna pokonać, robiąc coś\\llub rozwiązując zagadki. Niektóre przeszkody\\lsą zależne od czegoś,\\lco dzieje się daleko.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324708.6964617,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_907": {
   "source": "<<< FILE: maps/OneIsland_KindleRoad_EmberSpa/text.inc >>>",
   "target": "",
@@ -45557,13 +45570,6 @@
   "notes": "",
   "ignored": true,
   "auto_excluded": true
- },
- "datatext.txt::datatext.txt_701": {
-  "source": "On your adventure, you will be faced\\nwith many obstacles. Every obstacle\\lcan be overcome by doing something\\lor by solving mysteries. Some obstacles\\lare affected by something that happens\\lfar away.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "datatext.txt::datatext.txt_1149": {
   "source": "Be a rebel!",
@@ -48737,10 +48743,13 @@
  },
  "datatext.txt::datatext.txt_700": {
   "source": "Visit every city and town, travel every\\nroad, explore every cave, and face\\levery challenge as you strive to\\lbecome the greatest TRAINER of\\lPOKéMON!",
-  "target": "",
-  "status": "new",
+  "target": "Odwiedź każde miasto i\\nmiasteczko, podróżuj każdą drogą, eksploruj\\lkażdą jaskinię i staw\\lczoła każdemu wyzwaniu, dążąc do\\lzostania najlepszym TRENEREM POKéMONÓW!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324707.7224689,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1718": {
   "source": "You don't have any room for this.",
@@ -56784,12 +56793,12 @@
  },
  "datatext.txt::datatext.txt_693": {
   "source": "Game fundamentals 1",
-  "target": "",
-  "status": "new",
+  "target": "Podstawy gry 1",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
-  "updated": 1791733853.3271906,
+  "translator": "Antrix",
+  "updated": 1792324686.4365807,
   "touched": true
  },
  "src.txt::src.txt_972": {
@@ -63040,14 +63049,13 @@
  },
  "datatext.txt::datatext.txt_703": {
   "source": "POKéMON are wondrous creatures that\\nare shrouded in mystery. You may meet\\lthem all over the world…in tall\\lgrass, caves, the sea, and more.\\lThey appear to grow obedient to the\\lTRAINERS that caught them.",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON to cudowne stworzenia owiane tajemnicą.\\nMożesz spotkać je na całym\\lświecie… w wysokiej trawie, w\\ljaskiniach, w morzu i nie tylko.\\lWygląda na to, że stają się\\lposłuszne TRENEROM, którzy je złapali.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733871.4205704,
+  "updated": 1792324710.3550894,
   "touched": true
  },
  "datatext.txt::datatext.txt_197": {
@@ -69232,12 +69240,12 @@
  },
  "datatext.txt::datatext.txt_695": {
   "source": "Game fundamentals 3",
-  "target": "",
-  "status": "new",
+  "target": "Podstawy gry 3",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
-  "updated": 1791733853.3318696,
+  "translator": "Antrix",
+  "updated": 1792324683.7204251,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_774": {
@@ -70258,14 +70266,13 @@
  },
  "datatext.txt::datatext.txt_697": {
   "source": "The help messages change depending on\\nhow much you have progressed in the\\lgame. They are designed to support you\\lwhen you need them. If there is\\lanything that you don't understand,\\lplease look up the HELP System!",
-  "target": "",
-  "status": "new",
+  "target": "Wiadomości pomocy zmieniają się w zależności\\nod tego, jak bardzo zaawansowany\\ljesteś w grze. Zostały zaprojektowane,\\laby wspierać cię, gdy ich potrzebujesz.\\lJeśli jest coś, czego nie rozumiesz,\\lproszę, zajrzyj do Systemu POMOCY!",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733857.3353827,
+  "updated": 1792324698.3827717,
   "touched": true
  },
  "data maps.txt::data maps.txt_179": {
@@ -99672,12 +99679,12 @@
  },
  "datatext.txt::datatext.txt_694": {
   "source": "Game fundamentals 2",
-  "target": "",
-  "status": "new",
+  "target": "Podstawy gry 2",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
-  "updated": 1791733853.3298717,
+  "translator": "Antrix",
+  "updated": 1792324683.5386705,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_779": {
