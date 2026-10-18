@@ -252,7 +252,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327956.8426986,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1813": {
   "source": "TERRY",
@@ -23208,10 +23213,13 @@
  },
  "src.txt::src.txt_2048": {
   "source": "It filled its storage space.",
-  "target": "",
-  "status": "new",
+  "target": "Wypełniło swoją przestrzeń magazynową.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327937.7645626,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_898": {
   "source": "NIGHT",
@@ -33211,10 +33219,14 @@
  },
  "src.txt::src.txt_2050": {
   "source": "Somebody dropped out.\\nThe link will be canceled.",
-  "target": "",
-  "status": "new",
+  "target": "Ktoś się wycofał.\\nLink zostanie anulowany.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327942.547861,
+  "touched": true
  },
  "data maps.txt::data maps.txt_589": {
   "source": "We've had a great and powerful\\nTRAINER grow up on this island.\\pI bet even you'd know her.\\nIt's LORELEI of the ELITE FOUR!\\pWhen LORELEI was just a tyke,\\nI taught her about POKéMON.",
@@ -64528,6 +64540,16 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2047": {
+  "source": "You can't hold any more...",
+  "target": "Nie możesz już dłużej wytrzymać...",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327934.8058727,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_926": {
   "source": "SILVER",
   "target": "",
@@ -64537,13 +64559,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586288.939833
- },
- "src.txt::src.txt_2047": {
-  "source": "You can't hold any more...",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "src.txt::src.txt_2335": {
   "source": "<<< FILE: src/trainer_tower_sets.c >>>",
@@ -69485,10 +69500,13 @@
  },
  "src.txt::src.txt_2046": {
   "source": "The first-place winner gets\\nthis {DYNAMIC 00}!",
-  "target": "",
-  "status": "new",
+  "target": "Zwycięzca pierwszego miejsca dostaje\\nto {DYNAMIC 00}!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327933.1057467,
+  "touched": true
  },
  "src.txt::src.txt_2564": {
   "source": "KANGASKHAN",
@@ -72926,6 +72944,18 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2058": {
+  "source": "You have no BERRIES.\\nThe game will be canceled.",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327947.1540568,
+  "touched": true
+ },
  "src.txt::src.txt_1821": {
   "source": "{DPAD_UPDOWN}PICK",
   "target": "{DPAD_UPDOWN}WYBÓR",
@@ -72934,13 +72964,6 @@
   "ignored": false,
   "translator": "Antrix",
   "updated": 1790362187.1879675
- },
- "src.txt::src.txt_2058": {
-  "source": "You have no BERRIES.\\nThe game will be canceled.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data.txt::data.txt_19": {
   "source": "Okay, I'll take your POKéMON for a\\nfew seconds.",
