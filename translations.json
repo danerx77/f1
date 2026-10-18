@@ -60849,7 +60849,12 @@
   "status": "new",
   "notes": "",
   "ignored": true,
-  "manual_skip": true
+  "manual_skip": true,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319958.036412,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_386": {
   "source": "????????",
@@ -81933,7 +81938,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792319937.0619092,
+  "updated": 1792319957.3413773,
   "touched": true
  },
  "datatext.txt::datatext.txt_1093": {
