@@ -18312,7 +18312,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327603.7434053,
+  "updated": 1792327607.1716187,
   "touched": true
  },
  "src.txt::src.txt_2414": {
@@ -35408,10 +35408,14 @@
  },
  "src.txt::src.txt_1403": {
   "source": "Return to a healing spot.",
-  "target": "",
-  "status": "new",
+  "target": "Zwab dzikie POKéMONY.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327620.941737,
+  "touched": true
  },
  "data maps.txt::data maps.txt_311": {
   "source": "You have no interest in BERRIES?\\pYoung one, it's important to take an\\ninterest in all sorts of things.",
@@ -41125,10 +41129,14 @@
  },
  "src.txt::src.txt_1494": {
   "source": "TOUGH",
-  "target": "",
-  "status": "new",
+  "target": "TWARDY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327640.2893195,
+  "touched": true
  },
  "datatext.txt::datatext.txt_132": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}You… You're not GIOVANNI's kid,\\nare you?\\pNo, that can't be right.\\nGIOVANNI's kid has red hair.",
@@ -41870,10 +41878,13 @@
  },
  "src.txt::src.txt_1493": {
   "source": "SMART",
-  "target": "…mądry…",
+  "target": "MĄDRY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327632.4558978,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1247": {
   "source": "DEVON GOODS",
@@ -43586,10 +43597,14 @@
  },
  "src.txt::src.txt_1492": {
   "source": "CUTE",
-  "target": "",
-  "status": "new",
+  "target": "SŁODKI",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327629.1777825,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1781": {
   "source": "NAOMI",
@@ -92594,17 +92609,21 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_1490": {
+  "source": "COOL",
+  "target": "FAJNY",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327643.768621,
+  "touched": true
+ },
  "srcdatapokemon.txt::srcdatapokemon.txt_736": {
   "source": "Protected by a hard shell, its body is\\nvery sturdy. It skewers prey with its\\nclaws to feed.",
   "target": "Chroniony przez twardą skorupę, jego\\nciało jest bardzo mocne. Szaszłyki\\ndrapieżne z pazurami.",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_1490": {
-  "source": "COOL",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },

@@ -4841,3 +4841,20 @@
 {"time": "2026-10-18T14:46:08", "file": "src.txt", "seg_id": "src.txt_1080", "source": "The 1M sub-circuit board is\\nnot installed.", "old": "", "new": "Płytka podobwodowa 1M\\nnie jest zainstalowana.", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:46:47", "file": "src.txt", "seg_id": "src.txt_1403", "source": "Return to a healing spot.", "old": "", "new": "Zwab dzikie POKéMONY.", "translator": "Antrix", "method": "auto_tm"}
 {"time": "2026-10-18T14:46:47", "file": "src.txt", "seg_id": "src.txt_1403", "source": "Return to a healing spot.", "old": "", "new": "Zwab dzikie POKéMONY.", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:06", "file": "src.txt", "seg_id": "src.txt_1492", "source": "CUTE", "old": "", "new": "SŁODKI", "translator": "Antrix", "method": "auto_tm", "tm_source": " Return to a healing spot. → Zwab dzikie POKéMONY.)"}
+{"time": "2026-10-18T14:47:06", "file": "src.txt", "seg_id": "src.txt_1492", "source": "CUTE", "old": "", "new": "SŁODKI", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:11", "file": "src.txt", "seg_id": "src.txt_1493", "source": "SMART", "old": "…mądry…", "new": "MĄDRY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:11", "file": "src.txt", "seg_id": "src.txt_1493", "source": "SMART", "old": "…mądry…", "new": "MĄDRY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:13", "file": "src.txt", "seg_id": "src.txt_1494", "source": "TOUGH", "old": "", "new": "You may trade your POKéMON here\\nwith another TRAINER.", "translator": "Antrix", "method": "auto_tm", "tm_source": " CUTE → SŁODKI)"}
+{"time": "2026-10-18T14:47:13", "file": "src.txt", "seg_id": "src.txt_1494", "source": "TOUGH", "old": "", "new": "You may trade your POKéMON here\\nwith another TRAINER.", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:15", "file": "src.txt", "seg_id": "src.txt_1494", "source": "TOUGH", "old": "You may trade your POKéMON here\\nwith another TRAINER.", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T14:47:18", "file": "src.txt", "seg_id": "src.txt_1494", "source": "TOUGH", "old": "", "new": "TWARDY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:18", "file": "src.txt", "seg_id": "src.txt_1494", "source": "TOUGH", "old": "", "new": "TWARDY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:20", "file": "src.txt", "seg_id": "src.txt_1490", "source": "COOL", "old": "", "new": "FAJNY", "translator": "Antrix", "method": "auto_tm"}
+{"time": "2026-10-18T14:47:20", "file": "src.txt", "seg_id": "src.txt_1490", "source": "COOL", "old": "", "new": "FAJNY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:24", "file": "src.txt", "seg_id": "src.txt_1496", "source": "BLACK", "old": "", "new": "Czarny", "translator": "Antrix", "method": "auto_tm", "tm_source": " COOL → FAJNY)"}
+{"time": "2026-10-18T14:47:24", "file": "src.txt", "seg_id": "src.txt_1496", "source": "BLACK", "old": "", "new": "Czarny", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:27", "file": "src.txt", "seg_id": "src.txt_1496", "source": "BLACK", "old": "Czarny", "new": "CZ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:28", "file": "src.txt", "seg_id": "src.txt_1496", "source": "BLACK", "old": "CZ", "new": "CZA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:28", "file": "src.txt", "seg_id": "src.txt_1496", "source": "BLACK", "old": "CZA", "new": "CZAR", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:47:29", "file": "src.txt", "seg_id": "src.txt_1496", "source": "BLACK", "old": "CZAR", "new": "CZARN", "translator": "Antrix", "method": "manual"}
