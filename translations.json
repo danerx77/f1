@@ -35122,12 +35122,12 @@
  },
  "datatext.txt::datatext.txt_603": {
   "source": "{CIRCLE_1} Select “HALL OF FAME” on the PC.\\n{CIRCLE_2} The POKéMON that have entered the\\n   HALL OF FAME can be examined.",
-  "target": "Wybierz „HALL OF FAME” na PC.{CIRCLE_1}\\n{CIRCLE_2} POKéMON, które weszły do\\nSALI SŁAW, mogą zostać zbadane.",
+  "target": "Wybierz “HALA SŁAWY” na PC.{CIRCLE_1}\\n{CIRCLE_2} POKéMON, które weszły do\\nSALI SŁAW, mogą zostać zbadane.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324123.481667,
+  "updated": 1792324159.8644981,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1325": {
@@ -95831,7 +95831,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324098.9745157,
+  "updated": 1792324163.4888349,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_632": {
