@@ -28114,12 +28114,12 @@
  },
  "datascript.txt::datascript.txt_36": {
   "source": "I'm awfully sorry.\\pWe're not set up to conduct trades\\nwith TRAINERS far away in another\\lregion yet…",
-  "target": "Bardzo przepraszam.\\pNie jesteśmy jeszcze przygotowani\\ndo przeprowadzania transakcji z TRENERAMI\\ldaleko w innej regionie…",
+  "target": "Bardzo przepraszam.\\pNie jesteśmy jeszcze przygotowani\\ndo przeprowadzania transakcji z TRENERAMI\\ldaleko w innym regionie…",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792320558.1618168,
+  "updated": 1792320567.7324057,
   "touched": true
  },
  "src.txt::src.txt_572": {
@@ -55113,10 +55113,14 @@
  },
  "datascript.txt::datascript.txt_39": {
   "source": "The Wireless Adapter is not\\nconnected properly.",
-  "target": "",
-  "status": "new",
+  "target": "Adapter bezprzewodowy nie\\njest prawidłowo podłączony.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792320597.3609805,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1011": {
   "source": "CACNEA",
@@ -67588,10 +67592,14 @@
  },
  "datascript.txt::datascript.txt_38": {
   "source": "You have at least one POKéMON\\nthat can't be taken.",
-  "target": "",
-  "status": "new",
+  "target": "Masz przynajmniej jednego Pokémona,\\nktóry nie może wziąć udziału.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792320576.5023506,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1023": {
   "source": "MEDITITE",
@@ -106349,10 +106357,13 @@
  },
  "datascript.txt::datascript.txt_37": {
   "source": "The other TRAINER is not ready.",
-  "target": "",
-  "status": "new",
+  "target": "Drugi TRENER nie jest gotowy.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792320570.9482918,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1073": {
   "source": "It stomps on the ground to build power.\\nIt can send a 10-ton truck flying with a\\nstraight-arm punch.",
