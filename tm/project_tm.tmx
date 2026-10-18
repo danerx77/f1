@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T130717Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T134127Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -681,10 +681,6 @@
     <tu>
       <tuv xml:lang="en"><seg>CHIEF!\pWe just shipped two thousand\nmore POKéMON as slot prizes\lagain today!</seg></tuv>
       <tuv xml:lang="pl"><seg>SZEFIE!\pWłaśnie dostarczyliśmy dziś\ndwa tysiące POKéMONÓW jako\lnagrody!</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Don't touch the poster at the GAME\nCORNER!\pThere's no secret switch behind it!</seg></tuv>
-      <tuv xml:lang="pl"><seg>Nie dotykaj plakatu w SALONIE\nGIER!\pNie ma tam żadnego sekretnego\nprzycisku!</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>A POKé FLUTE awakens sleeping\nPOKéMON. You know that.\pIt does so with a sound that only\nthey can hear.</seg></tuv>
@@ -70181,10 +70177,6 @@
     <tu>
       <tuv xml:lang="en"><seg>was used on\n</seg></tuv>
       <tuv xml:lang="pl"><seg>użyty na\n</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>'s level rose to\n</seg></tuv>
-      <tuv xml:lang="pl"><seg>poziom wzrósł\n</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>2, and ‥ ‥ ‥</seg></tuv>
@@ -293735,10 +293727,6 @@
       <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nsystemu KARTY PIECZĄTEK.\pMasz jeszcze {STR_VAR_1} do zebrania, aby\nwypełnić swoją KARTĘ Z NAKLEJKAMI.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>Thank you for using the MYSTERY\nGIFT System.\pFrom the POKéMON CENTER we\nhave a gift - a POKéMON EGG!\pPlease raise it with love and\nkindness.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pZ POKéMON CENTER mamy\nprezent - POKéMONOWE JAJO!\pProszę wychowuj go z\nmiłością i życzliwością.</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>Oh, your party appears to be full.\pPlease come see me after storing\na POKéMON on a PC.</seg></tuv>
       <tuv xml:lang="pl"><seg>Och, wygląda na to, że twoja drużyna jest pełna.\pProszę, przyjdź do mnie\npo umieszczeniu POKéMONA w PC.</seg></tuv>
     </tu>
@@ -293963,10 +293951,6 @@
       <tuv xml:lang="pl"><seg>Czytanie “POKéDEX”</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “POKéDEX” on the MENU.\n{CIRCLE_2} Choose POKéMON using commands such\n   as “POKéMON LIST,”\n   “HABITATS OF POKéMON,” and\n   “SEARCH.”\n{CIRCLE_3} Select a POKéMON to obtain detailed\n   information.</seg></tuv>
-      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “POKéDEX” w MENU.\n{CIRCLE_2} Wybierz POKéMON-a,\nużywając poleceń takich jak\n“LISTA POKéMONÓW”, “SIEDLISKA\nPOKéMONÓW” i “SZUKAJ”.\n{CIRCLE_3} Wybierz POKéMON-a, aby\nuzyskać szczegółowe informacje.</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>{CIRCLE_1} Select “POKéMON” on the MENU.\n{CIRCLE_2} Choose a POKéMON in your party.\n{CIRCLE_3} Select “SUMMARY,” “SWITCH,”\n   or “ITEM.”</seg></tuv>
       <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “POKéMON” w MENU.\n{CIRCLE_2} Wybierz POKéMONA w swojej drużynie.\n{CIRCLE_3} Wybierz “PODSUMOWANIE”,\n“PRZEŁĄCZ” lub “ELEMENT.”</seg></tuv>
     </tu>
@@ -294087,10 +294071,6 @@
       <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “POKéMON.” {CIRCLE_2}\nWybierz POKéMON w twojej\ndrużynie, którego chcesz użyć.\n{CIRCLE_3} Jeśli masz przy sobie\ndwóch lub więcej POKéMON, mogą\none zostać zamienione, wybierając “ZMIEŃ”.\nSprawdź dane POKéMON, wybierając “PODSUMOWANIE”.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>This command switches the POKéMON in\nbattle with another one in your party.\n{CIRCLE_1} Select the POKéMON to be sent out.\n{CIRCLE_2} Select “SHIFT.”\n{CIRCLE_3} The selected POKéMON will switch\n   places with the POKéMON in battle!</seg></tuv>
-      <tuv xml:lang="pl"><seg>Ta komenda zamienia POKéMONA w walce\nna innego z twojej drużyny.\n{CIRCLE_1} Wybierz POKéMONA, którego chcesz wysłać.\n{CIRCLE_2} Wybierz “ZAMIEŃ.” {CIRCLE_3}\nWybrany POKéMON zamieni się miejscami\nz POKéMON-em w walce!</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>{CIRCLE_1} Select “SUMMARY.”\n{CIRCLE_2} Press left or right on the {PLUS} Control\n   Pad to check the information:\n   “POKéMON INFO”\n   “POKéMON SKILLS”\n   “KNOWN MOVES”</seg></tuv>
       <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “PODSUMOWANIE.” {CIRCLE_2} Naciśnij w\nlewo lub w prawo na\n{PLUS} Płycie sterującej, aby sprawdzić informacje:\n  \n“INFORMACJE O POKéMON” “UMIEJĘTNOŚCI\nPOKéMON” “ZNANE RUCHY”</seg></tuv>
     </tu>
@@ -294153,10 +294133,6 @@
     <tu>
       <tuv xml:lang="en"><seg>You can choose whether or not a\nTRAINER can switch a POKéMON after\lit has made its foe faint.\lSet to “SHIFT” if you would like the\lchance to switch a POKéMON after it\lhas made its foe faint.</seg></tuv>
       <tuv xml:lang="pl"><seg>Możesz wybrać, czy TRENER może\nzmienić POKéMONA po tym, jak\lsprawił, że jego przeciwnik zemdlał.\lUstaw na “SHIFT”, jeśli chcesz\lmieć szansę zamienić POKéMONA po\ltym, jak pokona swojego wroga.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Set to “HELP” to display help messages\nby pressing the L or R Button.\lSet to “LR” to enable the switching\lof the POKéDEX pages and BAG POCKETS\lusing the L and R Buttons.\lSet to “L=A” to make the L Button\lwork the same as the A Button.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Ustaw na “POMOC”, aby wyświetlać komunikaty\npomocy naciskając przycisk L lub R.\lUstaw na “LR”, aby włączyć przełączanie\lstron POKéDEX-a i KIESZENI PLECAKA\lza pomocą przycisków L i R.\lUstaw na “L=A”, aby przycisk L\ldziałał tak samo jak przycisk A.</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>EXP. Points stands for “Experience\nPoints.” POKéMON gain EXP. Points by\lparticipating in winning battles.\lWhen a POKéMON accumulates sufficient\lEXP. Points, it levels up. The EXP. Bar\lindicates accumulated EXP. Points.\lIt returns to zero upon leveling up.</seg></tuv>
@@ -294309,10 +294285,6 @@
     <tu>
       <tuv xml:lang="en"><seg>SORRY</seg></tuv>
       <tuv xml:lang="pl"><seg>SORRY</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>This document is issued in\nrecognition of your magnificent\nachievement - the completion of\nthe {DYNAMIC 0x01} POKéDEX.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Ten dokument został wydany\nw uznaniu Twojego\nwspaniałego osiągnięcia -\nukończenia {DYNAMIC 0x01} POKéDEX.</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Clear all save data areas?</seg></tuv>
@@ -294925,6 +294897,78 @@
     <tu>
       <tuv xml:lang="en"><seg>TV</seg></tuv>
       <tuv xml:lang="pl"><seg>TV</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Captured POKéMON are registered\nwith an ID No. and the OT.\pOT stands for “Original TRAINER” -\nthe TRAINER that caught it first.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Złapane POKéMONY rejestrowane są\nz numerami ID i OT.\pOT oznacza “Oryginalnego TRENERA”  \nTRENERA, który złapał go pierwszy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Don't touch the poster at the GAME\nCORNER!\pThere's no secret switch behind it!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Nie dotykaj plakatu w SALONIE\nGIER!\pNie ma tam żadnego sekretnego\nprzycisku!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} replied, “No…”\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} odpowiedział: “Nie…”\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} replied, “No…”</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} odpowiedział: “Nie…”</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAN: Hello there, laddie!\nHave I got a deal just for you!\pI'll let you have a secret POKéMON\n- a MAGIKARP - for just ¥500!\pSo, you'll buy it, am I right?</seg></tuv>
+      <tuv xml:lang="pl"><seg>MĘŻCZYZNA: Witaj, chłopcze!\nMam dla ciebie coś specjalnego!\pDam ci tego sekretnego POKéMONA\n MAGIKARPIA za jedyne ¥500!\pWięc, kupisz go, mam rację?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MAN: Hello there, sweetie pie!\nHave I got a deal just for you!\pI'll let you have a secret POKéMON\n- a MAGIKARP - for just ¥500!\pSo, you'll buy it, am I right?</seg></tuv>
+      <tuv xml:lang="pl"><seg>MĘŻCZYZNA: Witaj, złotko!\nMam coś specjalnego dla ciebie!\pDam ci tego sekretnego POKéMONA\n MAGIKARPIA za jedyne ¥500!\pWięc, kupisz go, mam rację?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRAINER TIPS\pFULL HEAL cures all ailments like\nburns, paralysis, poisoning,\lfreezing, and sleep.\pIt costs a bit more, but it's more\nconvenient than buying other items.</seg></tuv>
+      <tuv xml:lang="pl"><seg>PORADA\pUZDROWIENIE leczy każde schorzenie \npoparzenia, paraliż, zatrucie,\lzamrożenie i sen.\pKosztuje trochę więcej, ale jest\nbardziej przydatne niż inne \pprzedmioty.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thank you for using the MYSTERY\nGIFT System.\pFrom the POKéMON CENTER we\nhave a gift - a POKéMON EGG!\pPlease raise it with love and\nkindness.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pZ POKéMON CENTER mamy\nprezent POKéMONOWE JAJO!\pProszę wychowuj go z\nmiłością i życzliwością.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The SAFARI ZONE's huge, wouldn't\nyou say?\pFUCHSIA's GYM LEADER, KOGA, \npatrols the grounds every so often.\pThanks to him, we can play here\nknowing that we're safe.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}STREFA SAFARI jest wielka,\nco nie?\pLIDER SALI w FUCHSIA KOGA,\npatroluje ten teren, gdy tylko może.\pDzięki temu, możemy się bawić\nwiedząc, że jesteśmy bezpieczni.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are several kinds of items.\nSome can be used only on the field.\lSome are only for use during battle.\lSome can be used anytime.\lTry using an item - if it can't be used,\lyou will be alerted.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jest kilka rodzajów przedmiotów.\nNiektóre mogą być używane tylko\lna polu. Inne w trakcie walki.\lNiektórych można używać zawsze.\lSpróbuj użyć przdmiotu jeżeli się nie uda,\ldowiesz się o tym.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A TRAINER is a person who raises\nPOKéMON through battling.\lTRAINERS will challenge you \lwherever they are - it could be on\la road, in forests, caves, anywhere.\lIf your eyes meet, you have to accept\ltheir challenge. So be careful!</seg></tuv>
+      <tuv xml:lang="pl"><seg>TRENER to osoba, która\nwychowuje POKéMONY poprzez walkę.\lTRENERZY będą cię wyzywać, gdziekolwiek się\lznajdują może to być\lna drodze, w lasach, jaskiniach, wszędzie.\lJeśli wasze spojrzenia się spotkają, musisz\lprzyjąć ich wyzwanie. Więc bądź ostrożny!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{CIRCLE_1} Select “POKéDEX” on the MENU.\n{CIRCLE_2} Choose POKéMON using commands such\n   as “POKéMON LIST,”\n   “HABITATS OF POKéMON,” and\n   “SEARCH.”\n{CIRCLE_3} Select a POKéMON to obtain detailed\n   information.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{CIRCLE_1} Wybierz “POKéDEX” w MENU.\n{CIRCLE_2} Wybierz POKéMONA,\nużywając poleceń takich jak\n“LISTA POKéMONÓW”, “SIEDLISKA\nPOKéMONÓW” i “SZUKAJ”.\n{CIRCLE_3} Wybierz POKéMONA, aby\nuzyskać szczegółowe informacje.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This command switches the POKéMON in\nbattle with another one in your party.\n{CIRCLE_1} Select the POKéMON to be sent out.\n{CIRCLE_2} Select “SHIFT.”\n{CIRCLE_3} The selected POKéMON will switch\n   places with the POKéMON in battle!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ta komenda zamienia POKéMONA w walce\nna innego z twojej drużyny.\n{CIRCLE_1} Wybierz POKéMONA, którego chcesz wysłać.\n{CIRCLE_2} Wybierz “ZAMIEŃ.” {CIRCLE_3}\nWybrany POKéMON zamieni się miejscami\nz POKéMONEM w walce!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Set to “HELP” to display help messages\nby pressing the L or R Button.\lSet to “LR” to enable the switching\lof the POKéDEX pages and BAG POCKETS\lusing the L and R Buttons.\lSet to “L=A” to make the L Button\lwork the same as the A Button.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ustaw na “POMOC”, aby wyświetlać komunikaty\npomocy naciskając przycisk L lub R.\lUstaw na “LR”, aby włączyć przełączanie\lstron POKéDEXA i KIESZENI PLECAKA\lza pomocą przycisków L i R.\lUstaw na “L=A”, aby przycisk L\ldziałał tak samo jak przycisk A.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>'s level rose to\n</seg></tuv>
+      <tuv xml:lang="pl"><seg>poziom wzrósł\n</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This document is issued in\nrecognition of your magnificent\nachievement - the completion of\nthe {DYNAMIC 0x01} POKéDEX.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ten dokument został wydany\nw uznaniu Twojego\nwspaniałego osiągnięcia \nukończenia {DYNAMIC 0x01} POKéDEX.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Move closer to your link partner(s).\nAvoid obstacles between partners.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przybliż się do swojego(ich) partnera(ów) w łączu.\nUnikaj przeszkód między partnerami.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It makes its nest at the bottom of \nswamps. It will eat anything - if it is\nalive, WHISCASH will eat it.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Tworzy swoje gniazdo na dnie bagien.\nBędzie jadł wszystko, jeśli coś żyje,\nto WHISCASH go zje.</seg></tuv>
     </tu>
   </body>
 </tmx>
