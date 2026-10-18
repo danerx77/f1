@@ -8977,10 +8977,13 @@
  },
  "src.txt::src.txt_2842": {
   "source": "{STR_VAR_1}: Oh, hi, {PLAYER}!\\nWe're having a chat now.\\lWould you like to join us?",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1}: Och, cześć, {PLAYER}!\\nRozmawiamy teraz.\\lCzy chciałbyś do nas dołączyć?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326010.1589322,
+  "touched": true
  },
  "src.txt::src.txt_2698": {
   "source": "DRAGONAIR",
@@ -12903,10 +12906,13 @@
  },
  "src.txt::src.txt_2843": {
   "source": "……\\nThe TRAINER appears to be busy…\\p",
-  "target": "",
-  "status": "new",
+  "target": "……\\nTRENER wydaje się być zajęty…\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326010.3847291,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_116": {
   "source": "A large doll.\\nPlace it on a mat\\nor a desk.",
@@ -12938,10 +12944,13 @@
  },
  "src.txt::src.txt_2833": {
   "source": "There is an offer to trade your\\nregistered Lv. {DYNAMIC 0} {DYNAMIC 1}\\pin exchange for a\\nLv. {DYNAMIC 2} {DYNAMIC 3}.\\pWill you accept this trade\\noffer?",
-  "target": "",
-  "status": "new",
+  "target": "Jest oferta wymiany twojego zarejestrowanego\\nPoziomu {DYNAMIC 0} {DYNAMIC 1}\\pw zamian za poziom\\n{DYNAMIC 2} {DYNAMIC 3}\\pCzy zaakceptujesz\\ntę ofertę wymiany?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326026.1944542,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_212": {
   "source": "MONEAN CHAMBER",
@@ -14461,10 +14470,13 @@
  },
  "src.txt::src.txt_2844": {
   "source": "A battle, huh?\\nAll right, just give me some time.",
-  "target": "",
-  "status": "new",
+  "target": "Bitwa, co?\\nDobrze, daj mi tylko trochę czasu.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326011.159009,
+  "touched": true
  },
  "src.txt::src.txt_376": {
   "source": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} sent\\nout {B_BUFF1}!",
@@ -16245,6 +16257,16 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2834": {
+  "source": "There is an offer to trade your\\nregistered EGG.\\lWill you accept this trade offer?",
+  "target": "Istnieje oferta wymiany\\ntwojego zarejestrowanego JAJA.\\lCzy zaakceptujesz tę ofertę wymiany?",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326034.4173415,
+  "touched": true
+ },
  "srcdatadecoration.txt::srcdatadecoration.txt_19": {
   "source": "A small chair made\\nof rock.",
   "target": "",
@@ -16254,13 +16276,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586294.9349027
- },
- "src.txt::src.txt_2834": {
-  "source": "There is an offer to trade your\\nregistered EGG.\\lWill you accept this trade offer?",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_873": {
   "source": "ANOTHER",
@@ -22928,10 +22943,13 @@
  },
  "src.txt::src.txt_2849": {
   "source": "As my introduction, I'll show you\\nmy TRAINER CARD.",
-  "target": "",
-  "status": "new",
+  "target": "Jako moje wprowadzenie, pokażę\\nwam moją KARTĘ TRENERA.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326012.8245316,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1343": {
   "source": "Uh-oh, that ruckus somehow opened\\nthe door!",
@@ -23871,10 +23889,13 @@
  },
  "src.txt::src.txt_2840": {
   "source": "{STR_VAR_1}: Hey, {PLAYER}!\\nWe're having a chat right now.\\lWant to join us?",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1}: Hej, {PLAYER}!\\nRozmawiamy teraz.\\lChcesz do nas dołączyć?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326010.4978204,
+  "touched": true
  },
  "src.txt::src.txt_1534": {
   "source": "ABRA{CLEAR_TO 0x55}{FONT_SMALL} 180 COINS",
@@ -26544,10 +26565,13 @@
  },
  "src.txt::src.txt_2839": {
   "source": "Oh, hey! We're in a chat right now.\\nWant to join us?",
-  "target": "",
-  "status": "new",
+  "target": "Och, hej! Jesteśmy teraz na czacie.\\nChcesz do nas dołączyć?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326043.6489756,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1376": {
   "source": "That sleeping POKéMON on ROUTE 12\\nforced me to take this detour.",
@@ -35825,10 +35849,13 @@
  },
  "src.txt::src.txt_2835": {
   "source": "The chat has been dropped.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Czat został przerwany.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326035.838773,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_611": {
   "source": "In a south sea nation, the people live in\\ncommunities that are built on groups of\\nthese POKéMON.",
@@ -36012,10 +36039,13 @@
  },
  "src.txt::src.txt_2847": {
   "source": "A battle? Of course, but I need\\ntime to get ready.",
-  "target": "",
-  "status": "new",
+  "target": "Bitwa? Oczywiście, ale potrzebuję\\nczasu, aby się przygotować.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326011.6904411,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3078": {
   "source": "Oh!\\nHello, welcome to my shop!\\pWe've only opened up recently.\\pOur merchandise is limited, but I\\nhope we can serve your needs.",
@@ -49988,10 +50018,13 @@
  },
  "src.txt::src.txt_2846": {
   "source": "Sure thing! As my “Greetings,”\\nhere's my TRAINER CARD.",
-  "target": "",
-  "status": "new",
+  "target": "Pewnie! Jako moje „Pozdrowienia,”\\noto moja KARTA TRENERA.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326011.635103,
+  "touched": true
  },
  "datatext.txt::datatext.txt_583": {
   "source": "{CIRCLE_1} Select “PROF. OAK'S PC” on the PC.\\n{CIRCLE_2} PROF. OAK will evaluate your\\n   POKéDEX.\\nHis evaluations should give you hints\\nfor catching more POKéMON!",
@@ -56445,10 +56478,13 @@
  },
  "src.txt::src.txt_2830": {
   "source": "The other TRAINER showed\\nyou their TRAINER CARD.\\pWould you like to show your\\nTRAINER CARD?",
-  "target": "",
-  "status": "new",
+  "target": "Drugi TRENER pokazał ci\\nswoją KARTĘ TRENERA.\\pCzy chciałbyś pokazać\\nswoją KARTĘ TRENERA?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326015.6370876,
+  "touched": true
  },
  "src.txt::src.txt_2239": {
   "source": "People battling:",
@@ -56853,10 +56889,13 @@
  },
  "src.txt::src.txt_2838": {
   "source": "The chat was ended.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Czat został zakończony.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326038.7559795,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3273": {
   "source": "I'm furious!",
@@ -62644,10 +62683,13 @@
  },
  "src.txt::src.txt_2831": {
   "source": "The other TRAINER challenges you\\nto battle.\\pWill you accept the battle\\nchallenge?",
-  "target": "",
-  "status": "new",
+  "target": "Drugi TRENER wyzywa\\ncię na pojedynek.\\pCzy przyjmiesz\\nwyzwanie na pojedynek?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326020.3475182,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1099": {
   "source": "There aren't many serious POKéMON\\nTRAINERS here.\\pThey're all like BUG CATCHERS,\\nyou know, just hobbyists.\\pBut PEWTER GYM's BROCK isn't like\\nthat, not one bit.",
@@ -65743,10 +65785,13 @@
  },
  "src.txt::src.txt_2845": {
   "source": "You want to chat, huh?\\nSure, just wait a little.",
-  "target": "",
-  "status": "new",
+  "target": "Chcesz porozmawiać, co?\\nPewnie, poczekaj chwilę.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326012.396178,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_521": {
   "source": "MONEY",
@@ -68009,17 +68054,20 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2848": {
+  "source": "Did you want to chat?\\nOkay, but please wait a moment.",
+  "target": "Chciałeś porozmawiać?\\nDobrze, ale proszę poczekać chwilę.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326013.415211,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_2365": {
   "source": "BROCK's the last word on cool,\\nend of story!\\pNow there's a guy who I want to\\nbe like!",
   "target": "BROCK to synonim do świetny,\\nkoniec pieśni!\\pChciałbym zostać taki\\njak on!",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2848": {
-  "source": "Did you want to chat?\\nOkay, but please wait a moment.",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -79291,10 +79339,13 @@
  },
  "src.txt::src.txt_2841": {
   "source": "Oh, hi! We're having a chat now.\\nWould you like to join us?",
-  "target": "",
-  "status": "new",
+  "target": "Och, cześć! Teraz rozmawiamy.\\nCzy chciałbyś do nas dołączyć?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326008.9953492,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1384": {
   "source": "A move that steals the effects of\\\\nany status-changing or healing move\\\\nthat the foe tries to use.",
@@ -83331,10 +83382,13 @@
  },
  "src.txt::src.txt_2837": {
   "source": "You declined the offer.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Odrzuciłeś ofertę.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326037.8464859,
+  "touched": true
  },
  "src.txt::src.txt_2767": {
   "source": "マルチバトルを かいさいする",
@@ -93581,10 +93635,13 @@
  },
  "src.txt::src.txt_2836": {
   "source": "You declined the offer.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Odrzuciłeś ofertę.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326036.9930527,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_502": {
   "source": "FLOWERS",
@@ -108969,10 +109026,13 @@
  },
  "src.txt::src.txt_2832": {
   "source": "The other TRAINER invites you\\nto chat.\\pWill you accept the chat\\ninvitation?",
-  "target": "",
-  "status": "new",
+  "target": "Drugi TRENER zaprasza\\nCię do rozmowy.\\pCzy przyjmiesz\\nzaproszenie do rozmowy?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326021.9004714,
+  "touched": true
  },
  "src.txt::src.txt_2325": {
   "source": "{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}EXIT",
