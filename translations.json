@@ -214,10 +214,13 @@
  },
  "datatext.txt::datatext.txt_490": {
   "source": "Select “FIGHT,” and the MENU of moves\\nwill appear. Consider the type\\lmatchups, and use the most effective\\lmoves. You can check the effects of\\lmoves by opening “POKéMON,”\\lpicking a POKéMON, opening “SUMMARY,”\\lthen opening “POKéMON SKILLS.”",
-  "target": "",
-  "status": "new",
+  "target": "Wybierz „WALKA”, a pojawi\\nsię MENU ruchów. Weź pod\\luwagę dopasowania typów i\\lużywaj najskuteczniejszych ruchów. Możesz\\lsprawdzić efekty ruchów, otwierając\\l„POKéMON”, wybierając POKéMONA, otwierając „PODSUMOWANIE”,\\la następnie „UMIEJĘTNOŚCI POKéMONA”.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323377.997937,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_177": {
   "source": "WHIRLWIND",
@@ -2474,10 +2477,13 @@
  },
  "datatext.txt::datatext.txt_503": {
   "source": "Your SAFARI GAME ends once you have\\ntraveled a certain distance or thrown\\lall your SAFARI BALLS.\\lOpen the MENU to check the remaining\\lnumber of steps and SAFARI BALLS.",
-  "target": "",
-  "status": "new",
+  "target": "Twoja GRA SAFARI kończy się,\\ngdy przebyjesz określony dystans lub\\lużyjesz wszystkich swoich PIŁEK SAFARI.\\lOtwórz MENU, aby sprawdzić pozostałą\\lliczbę kroków i PIŁEK SAFARI.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323388.0571773,
+  "touched": true
  },
  "data maps.txt::data maps.txt_61": {
   "source": "<<< FILE: maps/CeladonCity_DepartmentStore_2F/text.inc >>>",
@@ -10859,10 +10865,13 @@
  },
  "datatext.txt::datatext.txt_487": {
   "source": "Wild POKéMON will appear in tall grass,\\non roads, and in forests. They will\\lappear anywhere in dark caves.\\lThere are no wild POKéMON or TRAINERS\\lin towns, so they are safe places.",
-  "target": "",
-  "status": "new",
+  "target": "Dziko żyjące POKéMON pojawią się w\\nwysokiej trawie, na drogach i w lasach.\\lPojawią się wszędzie w ciemnych jaskiniach.\\lW miastach nie ma dzikich POKéMON\\lani TRENERÓW, więc są to bezpieczne miejsca.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323376.8028328,
+  "touched": true
  },
  "src.txt::src.txt_289": {
   "source": "fell!",
@@ -11463,10 +11472,13 @@
  },
  "datatext.txt::datatext.txt_489": {
   "source": "HIDDEN moves are those that are\\nespecially important for your\\ladventure. To use such a move outside\\lof battle, open the “POKéMON” MENU\\land make the POKéMON that knows the\\lmove use it. A fainted POKéMON may use\\la HIDDEN move outside of battle.",
-  "target": "",
-  "status": "new",
+  "target": "Ruchy UKRYTE to takie, które są\\nszczególnie ważne w Twojej przygodzie.\\lAby użyć takiego ruchu poza walką,\\lotwórz MENU „POKéMON” i spraw, aby\\lPOKéMON, który zna ten ruch, go\\lużył. POKéMON, który stracił przytomność,\\lmoże użyć ruchu UKRYTEGO poza walką.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323376.6982617,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1638": {
   "source": "STAN",
@@ -15681,10 +15693,13 @@
  },
  "datatext.txt::datatext.txt_491": {
   "source": "The most a POKéMON can learn is four\\nmoves. They are learned as the\\lPOKéMON levels up. It can also be\\ltaught a move using a TM (Technical\\lMachine) or HM (Hidden Machine).\\lThere are also people who teach moves.",
-  "target": "",
-  "status": "new",
+  "target": "Najwięcej, czego POKéMON może się nauczyć,\\nto cztery ruchy. Uczą się ich w\\lmiarę zdobywania poziomów przez POKéMONA. Można\\lmu również nauczyć ruchu za pomocą TM\\l(Maszyna Techniczna) lub HM (Ukryta Maszyna).\\lSą też ludzie, którzy uczą ruchów.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323379.038664,
+  "touched": true
  },
  "src.txt::src.txt_865": {
   "source": "A move that cuts\\n2 to 5 PP from the\\nmove last used by\\nthe foe.",
@@ -17305,10 +17320,13 @@
  },
  "datatext.txt::datatext.txt_486": {
   "source": "To beat a TRAINER in battle, use\\nPOKéMON that have type advantages\\lover the foe's POKéMON. You may also\\luse highly trained POKéMON with\\loverwhelming power. Outnumbering the\\lfoe's POKéMON is another obvious\\ltactic.",
-  "target": "",
-  "status": "new",
+  "target": "Aby pokonać TRENERA w walce,\\nużywaj POKéMONÓW, które mają\\lprzewagę typową nad POKéMONAMI przeciwnika.\\lMożesz również używać wysoko\\lwyszkolonych POKéMONÓW o przytłaczającej sile.\\lPrzewaga liczebna nad POKéMONAMI\\lprzeciwnika to kolejna oczywista taktyka.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323376.2473533,
+  "touched": true
  },
  "src.txt::src.txt_1089": {
   "source": "Lボタン",
@@ -18577,14 +18595,14 @@
  },
  "datatext.txt::datatext.txt_480": {
   "source": "A status problem refers to an ailment\\nthat is inflicted on a POKéMON by its\\lfoe's attack. These include burns,\\lparalysis, poisoning, sleep, and\\lfreezing. These can be healed by\\lvisiting a POKéMON CENTER or using\\lthe appropriate item.",
-  "target": "",
-  "status": "new",
+  "target": "Problem statusowy odnosi się do\\ndolegliwości, która jest zadawana POKéMONowi\\lprzez atak wroga. Należą do\\lnich oparzenia, paraliż, zatrucie, sen\\li zamrożenie. Mogą one zostać\\lwyleczone poprzez wizytę w CENTRUM\\lPOKéMON lub użycie odpowiedniego przedmiotu.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791587763.2107353
+  "updated": 1792323368.595244,
+  "touched": true
  },
  "src.txt::src.txt_1437": {
   "source": "WITHDRAW\\nITEM",
@@ -19811,10 +19829,13 @@
  },
  "datatext.txt::datatext.txt_501": {
   "source": "A HIDDEN move is taught to a POKéMON\\nusing an HM (Hidden Machine).\\lA HIDDEN move is important for helping\\lyour adventure. For example, one is\\lused to light up dark caves. Another\\lcuts down small trees. There is one\\lfor traveling on water, and so on.",
-  "target": "",
-  "status": "new",
+  "target": "Ukryty ruch jest nauczany POKéMONA\\nza pomocą HM (Ukrytej Maszyny).\\lUKRYTY ruch jest ważny, aby pomóc\\lw twojej przygodzie. Na przykład, jeden\\lsłuży do oświetlania ciemnych jaskiń. Inny\\lścina małe drzewa. Jest jeden do\\lpodróżowania po wodzie i tak dalej.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323387.067906,
+  "touched": true
  },
  "data maps.txt::data maps.txt_556": {
   "source": "Your POKéMON are growing up\\nadmirably well!",
@@ -19908,6 +19929,16 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_488": {
+  "source": "POKéMON may learn up to four different\\ntechniques, or moves. There is a great\\lvariety of moves including attacks and\\lthose with special effects. The kinds\\lof moves that can be learned vary\\lfor each POKéMON. Some moves\\lcan be learned from machines.",
+  "target": "POKéMON może nauczyć się maksymalnie czterech\\nróżnych technik, czyli ruchów. Istnieje\\logromna różnorodność ruchów, w tym ataków\\loraz takich o specjalnych efektach. Rodzaje\\lruchów, które można opanować, różnią się\\lw zależności od POKéMONA. Niektóre\\lruchy można nauczyć się z maszyn.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323376.079148,
+  "touched": true
+ },
  "srcdatadecoration.txt::srcdatadecoration.txt_156": {
   "source": "SOLID BOARD",
   "target": "",
@@ -19917,13 +19948,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586295.4159303
- },
- "datatext.txt::datatext.txt_488": {
-  "source": "POKéMON may learn up to four different\\ntechniques, or moves. There is a great\\lvariety of moves including attacks and\\lthose with special effects. The kinds\\lof moves that can be learned vary\\lfor each POKéMON. Some moves\\lcan be learned from machines.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_673": {
   "source": "WE'RE",
@@ -20855,14 +20879,13 @@
  },
  "datatext.txt::datatext.txt_499": {
   "source": "POKéMON are living beings about which\\nmany mysteries still remain. You may\\lsee them in grass, the sea, and caves.\\lThey appear to obey the wishes of the\\lTRAINERS that caught them.",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON to istoty żywe, wokół których wciąż\\npozostaje wiele tajemnic. Możesz je zobaczyć\\lw trawie, na morzu i w jaskiniach.\\lZdają się podporządkowywać życzeniom\\lTRENERÓW, którzy je złapali.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791732784.2812912,
+  "updated": 1792323385.2389002,
   "touched": true
  },
  "data maps.txt::data maps.txt_2664": {
@@ -23507,10 +23530,13 @@
  },
  "datatext.txt::datatext.txt_494": {
   "source": "Unlike roads and forests, wild POKéMON\\ncan appear anywhere in caves.\\lIf your POKéMON are hurt in a cave,\\lrush to a POKéMON CENTER or use items\\lto heal them right away. It is very\\ldangerous to force your luck in caves.",
-  "target": "",
-  "status": "new",
+  "target": "W przeciwieństwie do dróg i lasów, dzikie\\nPOKéMON mogą pojawiać się wszędzie w jaskiniach.\\lJeśli twoje POKéMON są ranne w\\ljaskini, natychmiast udaj się do CENTRUM POKéMON\\llub użyj przedmiotów, aby je wyleczyć. Ryzykowne\\ljest poleganie na szczęściu w jaskiniach.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323381.0623329,
+  "touched": true
  },
  "datatext.txt::datatext.txt_511": {
   "source": " Using “BAG”",
@@ -24005,10 +24031,13 @@
  },
  "datatext.txt::datatext.txt_492": {
   "source": "The key to making your POKéMON\\nstrong is to battle and win often.\\lThe EXP. (Experience) Points earned\\lby winning battles accumulate to\\llevel up POKéMON that participated in\\lthem. Battle wild POKéMON often to\\llevel up your party.",
-  "target": "",
-  "status": "new",
+  "target": "Kluczem do uczynienia swoich POKéMONów silnymi\\njest częste walczenie i wygrywanie.\\lPunkty EXP. (Doświadczenia) zdobyte poprzez\\lwygrywanie bitew kumulują się, aby podnieść\\lpoziom POKéMONÓW, które w nich\\luczestniczyły. Często walcz z dzikimi POKéMONAMI,\\laby podnieść poziom swojej drużyny.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323380.468376,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_840": {
   "source": "CLEFFA",
@@ -29082,6 +29111,16 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_483": {
+  "source": "There are shops, known as POKéMON\\nMARTS, that sell items.\\lYou will not find POKéMON MARTS on\\lroads, in forests, or in caves.\\lStock up on needed items while you are\\lvisiting a town with a POKéMON MART.",
+  "target": "Są sklepy, znane jako\\nPOKéMON MARTY, które sprzedają przedmioty.\\lNie znajdziesz POKéMON MARTS na drogach,\\lw lasach ani w jaskiniach.\\lZaopatrz się w potrzebne przedmioty, gdy\\lodwiedzasz miasto z POKéMON MART.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323373.8277419,
+  "touched": true
+ },
  "src.txt::src.txt_187": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} is hurt\\nby SPIKES!",
   "target": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} raniony\\nKOLCAMI!",
@@ -29091,13 +29130,6 @@
   "translator": "Antrix",
   "updated": 1791131585.6375744,
   "touched": true
- },
- "datatext.txt::datatext.txt_483": {
-  "source": "There are shops, known as POKéMON\\nMARTS, that sell items.\\lYou will not find POKéMON MARTS on\\lroads, in forests, or in caves.\\lStock up on needed items while you are\\lvisiting a town with a POKéMON MART.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdata.txt::srcdata.txt_87": {
   "source": "Raises the ATTACK stat of POKéMON\\nin battle. Wears off if the POKéMON\\nis withdrawn.",
@@ -29737,12 +29769,15 @@
   "updated": 1792323302.7628818,
   "touched": true
  },
- "src.txt::src.txt_1613": {
-  "source": "10F",
-  "target": "10P",
+ "datatext.txt::datatext.txt_498": {
+  "source": "You can safely end your game by\\nselecting “SAVE” on the MENU.\\lOnce you have saved, the game can be\\lsafely turned off. When the game is\\lturned back on, you can resume from\\lwhere you last saved.",
+  "target": "Możesz bezpiecznie zakończyć swoją\\ngrę, wybierając „ZAPISZ” w MENU.\\lGdy zapiszesz grę, można ją\\lbezpiecznie wyłączyć. Po ponownym włączeniu\\lgry możesz kontynuować od\\lmiejsca, w którym ostatnio zapisałeś.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323384.047198,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1095": {
   "source": "If your first POKé BALL fails to\\ncatch the POKéMON, don't give up!\\pKeep throwing POKé BALLS…\\nIt's bound to work sometime!\\pAll righty, be seeing you!\\pRemember, TRAINERS, a good deed\\na day brings happiness to stay!",
@@ -29754,10 +29789,10 @@
   "updated": 1791734679.1062965,
   "touched": true
  },
- "datatext.txt::datatext.txt_498": {
-  "source": "You can safely end your game by\\nselecting “SAVE” on the MENU.\\lOnce you have saved, the game can be\\lsafely turned off. When the game is\\lturned back on, you can resume from\\lwhere you last saved.",
-  "target": "",
-  "status": "new",
+ "src.txt::src.txt_1613": {
+  "source": "10F",
+  "target": "10P",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -30281,14 +30316,13 @@
  },
  "datatext.txt::datatext.txt_484": {
   "source": "You may buy POKé BALLS at any\\nPOKéMON MART in any town.\\lYou will not find POKéMON MARTS on\\lroads, in forests, or in caves.\\lStock up on POKé BALLS while you are\\lvisiting a town with a POKéMON MART.",
-  "target": "",
-  "status": "new",
+  "target": "Możesz kupić POKé BALLE w każdym\\nPOKéMON MARKCIE w dowolnym mieście.\\lNie znajdziesz SKLEPÓW POKéMON na drogach,\\lw lasach ani w jaskiniach.\\lZaopatrz się w POKé BALLS, gdy\\lodwiedzasz miasto z POKéMON MART.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791732796.243934,
+  "updated": 1792323373.7978985,
   "touched": true
  },
  "src.txt::src.txt_1571": {
@@ -33157,10 +33191,13 @@
  },
  "datatext.txt::datatext.txt_482": {
   "source": "If a wild POKéMON escapes from a POKé\\nBALL, it's obviously still feisty.\\lTry reducing its HP some more, and\\ltry to weaken it with paralysis or sleep\\lbefore trying to catch it.\\lIf the POKé BALL rocks for a while,\\lthe quarry is close to being caught!",
-  "target": "",
-  "status": "new",
+  "target": "Jeśli dziki POKéMON ucieknie z POKé\\nBALLA, oczywiście wciąż jest porywczy.\\lSpróbuj jeszcze bardziej zmniejszyć jego HP\\li spróbuj osłabić go za pomocą paraliżu\\llub snu, zanim spróbujesz go złapać.\\lJeśli POKé BALL potrząsa się przez\\lchwilę, zdobycz jest bliska złapania!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323373.907516,
+  "touched": true
  },
  "src.txt::src.txt_2713": {
   "source": "MAREEP",
@@ -39151,10 +39188,13 @@
  },
  "datatext.txt::datatext.txt_504": {
   "source": "If you would like to cut your SAFARI\\nGAME short, open the MENU and select\\l“RETIRE” at the top of the list.",
-  "target": "",
-  "status": "new",
+  "target": "Jeśli chcesz zakończyć swoją GRĘ\\nSAFARI wcześniej, otwórz MENU i wybierz\\l„WYCOFAJ SIĘ” na górze listy.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323387.9071195,
+  "touched": true
  },
  "datatext.txt::datatext.txt_855": {
   "source": "Your rival's name, what was it now?",
@@ -42282,10 +42322,13 @@
  },
  "datatext.txt::datatext.txt_495": {
   "source": "Trust your own knowledge and power.\\nBelieve in yourself and find your way!",
-  "target": "",
-  "status": "new",
+  "target": "Ufaj własnej wiedzy i sile.\\nUwierz w siebie i znajdź swoją drogę!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323381.3077993,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_13": {
   "source": "ROUTE 4",
@@ -48319,10 +48362,13 @@
  },
  "datatext.txt::datatext.txt_485": {
   "source": "A TRAINER is a person who raises\\nPOKéMON through battling.\\lTRAINERS will challenge you \\lwherever they are - it could be on\\la road, in forests, caves, anywhere.\\lIf your eyes meet, you have to accept\\ltheir challenge. So be careful!",
-  "target": "",
-  "status": "new",
+  "target": "TRENER to osoba, która\\nwychowuje POKéMONY poprzez walkę.\\lTRENERZY będą cię wyzywać, gdziekolwiek się\\lznajdują - może to być\\lna drodze, w lasach, jaskiniach, wszędzie.\\lJeśli wasze spojrzenia się spotkają, musisz\\lprzyjąć ich wyzwanie. Więc bądź ostrożny!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323374.8275805,
+  "touched": true
  },
  "src.txt::src.txt_1502": {
   "source": "SMART",
@@ -50804,14 +50850,13 @@
  },
  "datatext.txt::datatext.txt_500": {
   "source": "Use the FAME CHECKER among the\\nKEY ITEMS in your BAG.\\lIt may give you a hint, so try it out.",
-  "target": "",
-  "status": "new",
+  "target": "Użyj SPRAWDZACZA SŁAWY wśród\\nKLUCZOWYCH PRZEDMIOTÓW w twojej TORBIE.\\lTo może dać ci wskazówkę, więc spróbuj.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791732768.5062792,
+  "updated": 1792323386.2182436,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_198": {
@@ -56409,17 +56454,20 @@
   "translator": "Antrix",
   "updated": 1791586295.4458947
  },
+ "datatext.txt::datatext.txt_505": {
+  "source": "POKéMON GYMS are operated by the\\nPOKéMON LEAGUE and are training\\lfacilities for TRAINERS. They are all\\lacross the land in cities and towns.\\lEach one is headed by a LEADER, who\\lis a very skilled TRAINER. Beat the\\lLEADER to collect a BADGE.",
+  "target": "SIŁOWNIE POKéMON są prowadzone przez LIGĘ\\nPOKéMON i są miejscami treningowymi dla\\lTRENERÓW. Znajdują się one w\\lcałym kraju w miastach i miasteczkach.\\lKażdą z nich kieruje LIDER,\\lktóry jest bardzo wykwalifikowanym TRENEREM.\\lPokonaj LIDERA, aby zdobyć ODZNAKĘ.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323389.8577695,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_679": {
   "source": "You can't become a good TRAINER\\nwith just one strong POKéMON.\\pBut raising many POKéMON evenly\\nis no easy task, either.",
   "target": "Nie staniesz się dobrym TRENEREM\\nmając tylko jednego POKéMONA.\\pWychowywanie wielu POKéMONÓW\\nteż jednak nie jest łatwe.",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_505": {
-  "source": "POKéMON GYMS are operated by the\\nPOKéMON LEAGUE and are training\\lfacilities for TRAINERS. They are all\\lacross the land in cities and towns.\\lEach one is headed by a LEADER, who\\lis a very skilled TRAINER. Beat the\\lLEADER to collect a BADGE.",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -57301,14 +57349,14 @@
  },
  "datatext.txt::datatext.txt_481": {
   "source": "If all the POKéMON in your party\\n(all the POKéMON with you) faint, you\\llose some MONEY, and you are\\lreturned home or to a POKéMON\\lCENTER. To reduce that chance, visit\\lPOKéMON CENTERS often. Also, get\\lin the habit of saving often.",
-  "target": "",
-  "status": "new",
+  "target": "Jeśli wszystkie POKéMON w twojej\\ndrużynie (wszystkie POKéMONy z tobą) zemdleją,\\lstracisz trochę PIENIĘDZY i zostaniesz\\lodesłany do domu lub do CENTRUM\\lPOKéMON. Aby zmniejszyć to ryzyko,\\lodwiedzaj często CENTRA POKéMON. Również przyzwyczaj\\lsię do częstego zapisywania gry.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791587758.2210047
+  "updated": 1792323370.5930269,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1074": {
   "source": "It's a big map of the KANTO region.\\nNow this would be useful!",
@@ -70751,6 +70799,16 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_493": {
+  "source": "If your foes are too strong, try\\nleveling up your POKéMON some more.\\lGo back the way you came and battle\\lwild POKéMON to level up your party.\\lYou may also battle TRAINERS whom you\\lhave not battled before.",
+  "target": "Jeśli twoi wrogowie są zbyt silni,\\nspróbuj jeszcze trochę podnieść poziom swoich POKéMONÓW.\\lWróć tą samą drogą i walcz z\\ldzikimi POKéMON, aby podnieść poziom swojej drużyny.\\lMożesz także walczyć z TRENERAMI,\\lz którymi wcześniej nie walczyłeś.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323380.5580132,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_579": {
   "source": "THIS IS IT!",
   "target": "",
@@ -70760,13 +70818,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586287.7785208
- },
- "datatext.txt::datatext.txt_493": {
-  "source": "If your foes are too strong, try\\nleveling up your POKéMON some more.\\lGo back the way you came and battle\\lwild POKéMON to level up your party.\\lYou may also battle TRAINERS whom you\\lhave not battled before.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdata.txt::srcdata.txt_608": {
   "source": "EON TICKET",
@@ -74573,14 +74624,13 @@
  },
  "datatext.txt::datatext.txt_478": {
   "source": "A POKéMON's vitality is expressed in HP.\\nIf a POKéMON is hurt in battle, HP is\\lsubtracted. If its HP drops to zero,\\lthe POKéMON faints.\\lHeal hurt or fainted POKéMON at a\\lPOKéMON CENTER or by using items.",
-  "target": "",
-  "status": "new",
+  "target": "Witalność POKéMONA wyrażana jest w HP.\\nJeśli POKéMON zostaje ranny w walce,\\lHP jest odejmowane. Jeśli jego\\lHP spadnie do zera, POKéMON mdleje.\\lLecz ranne lub zemdlałe POKéMON w\\lCENTRUM POKéMON lub używając przedmiotów.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791732741.9815671,
+  "updated": 1792323403.1432843,
   "touched": true
  },
  "src.txt::src.txt_1248": {
@@ -87258,10 +87308,13 @@
  },
  "datatext.txt::datatext.txt_477": {
   "source": "First, fully heal the POKéMON in your\\nparty (the POKéMON with you) at any\\lPOKéMON CENTER.\\lYou should also buy healing items for\\lemergencies at a POKéMON MART.",
-  "target": "",
-  "status": "new",
+  "target": "Najpierw w pełni wylecz POKéMONA w\\nswojej drużynie (POKéMONA, który jest\\lz tobą) w dowolnym CENTRUM POKéMON.\\lPowinieneś również kupić przedmioty lecznicze\\lna wypadki w SKLEPIE POKéMON.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323394.77363,
+  "touched": true
  },
  "datatext.txt::datatext.txt_661": {
   "source": "Moves are also classified by types.\\nIf a POKéMON of a certain type uses\\la move of the same type, the move's\\lpower is boosted. If the move's type\\lhas a matchup advantage against the\\ltarget, its effectiveness is also\\lboosted.",
@@ -92347,10 +92400,13 @@
  },
  "datatext.txt::datatext.txt_496": {
   "source": "A POKéMON CENTER is identified by its\\nred roof and a “P.C” sign. Every\\lPOKéMON CENTER offers such services as\\lfully healing POKéMON and free PC use,\\lmaking it essential for your travels.\\lOn the upper floor are facilities for\\llinking with friends and others.",
-  "target": "",
-  "status": "new",
+  "target": "CENTRUM POKéMON rozpoznaje się po czerwonym dachu\\ni znaku „P.C”. Każde CENTRUM POKéMON\\loferuje takie usługi jak pełne leczenie POKéMON\\li bezpłatne korzystanie z komputera, co\\lczyni je niezbędnym w czasie twoich podróży.\\lNa górnym piętrze znajdują się udogodnienia\\ldo łączenia się z przyjaciółmi i innymi.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323384.388882,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_624": {
   "source": "TM03",
@@ -92676,10 +92732,13 @@
  },
  "datatext.txt::datatext.txt_497": {
   "source": "A POKéMON MART is identified by its\\nblue roof and a “MART” sign.\\lItems can be bought and sold at any\\lPOKéMON MART. Some MARTS carry items\\lthat are available only in their towns.",
-  "target": "",
-  "status": "new",
+  "target": "SKLEP POKéMON jest rozpoznawalny po\\nniebieskim dachu i znaku „MART”.\\lPrzedmioty można kupować i sprzedawać w\\lkażdym POKéMON MARCIE. Niektóre MARCET mają\\lprzedmioty dostępne tylko w ich miastach.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323383.2194023,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_993": {
   "source": "SITRUS BERRY",
@@ -103647,10 +103706,13 @@
  },
  "datatext.txt::datatext.txt_502": {
   "source": "Try to catch wild POKéMON by throwing\\nthe special SAFARI BALLS.\\lYou may keep any item you find, too.",
-  "target": "",
-  "status": "new",
+  "target": "Spróbuj złapać dzikie POKéMONY,\\nrzucając specjalne KULE SAFARI.\\lMożesz też zatrzymać każdy przedmiot, który znajdziesz.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323387.3275242,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1071": {
   "source": "KYOGRE",
@@ -109351,14 +109413,14 @@
  },
  "datatext.txt::datatext.txt_479": {
   "source": "A POKéMON CENTER is like an inn for\\nPOKéMON. It will fully heal POKéMON of\\lany status problems and fully restore\\ltheir HP using a special machine.\\lThis service is free, so get in the\\lhabit of healing your POKéMON often.",
-  "target": "",
-  "status": "new",
+  "target": "CENTRUM POKéMON jest jak zajazd dla\\nPOKéMONÓW. Całkowicie wyleczy POKéMONY z wszelkich\\lproblemów ze stanem i w pełni przywróci\\lich HP za pomocą specjalnej maszyny.\\lTa usługa jest darmowa, więc przyzwyczaj\\lsię do częstego leczenia swoich POKéMONÓW.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791587780.1968994
+  "updated": 1792323403.4300032,
+  "touched": true
  },
  "src.txt::src.txt_231": {
   "source": "Electricity's power was\\nweakened!",
