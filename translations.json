@@ -4208,7 +4208,7 @@
  "srcdatapokemon.txt::srcdatapokemon.txt_776": {
   "source": "This is a newly discovered POKéMON. It is\\ncurrently under investigation. No detailed\\ninformation is available at this time.",
   "target": "To jest nowo odkryty POKéMON. Aktualnie\\nprowadzone są nad nim badania. Chwilowo\\nbrak jakichkolwiek innych informacji.",
-  "status": "approved",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -4770,7 +4770,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "src.txt::src.txt_2279": {
@@ -11511,7 +11511,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "src.txt::src.txt_2470": {
@@ -16750,7 +16750,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_362": {
@@ -20725,7 +20725,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1000": {
@@ -23077,8 +23077,8 @@
  },
  "srcdata.txt::srcdata.txt_1381": {
   "source": "TM48",
-  "target": "",
-  "status": "new",
+  "target": "TM48",
+  "status": "draft",
   "notes": "",
   "ignored": true,
   "manual_skip": true,
@@ -23181,7 +23181,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1620": {
@@ -24635,10 +24635,14 @@
  },
  "datatext.txt::datatext.txt_725": {
   "source": "Own move type: DRAGON",
-  "target": "",
-  "status": "new",
+  "target": "Own move Typ: Smoczy",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792318977.0033987,
+  "touched": true
  },
  "src.txt::src.txt_2180": {
   "source": "Move closer to your link partner(s).\\nAvoid obstacles between partners.",
@@ -34946,7 +34950,7 @@
  },
  "datatext.txt::datatext.txt_538": {
   "source": " Using “POKéMON”",
-  "target": " Użył “POKéMON”",
+  "target": " Using “POKéMON”",
   "status": "draft",
   "notes": "",
   "ignored": false,
@@ -44569,10 +44573,10 @@
  },
  "src.txt::src.txt_2481": {
   "source": "VAPOREON",
-  "target": "",
-  "status": "new",
+  "target": "VAPOREON",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -45488,7 +45492,7 @@
  "srcdatapokemon.txt::srcdatapokemon.txt_390": {
   "source": "This is a newly discovered POKéMON. It is\\ncurrently under investigation. No detailed\\ninformation is available at this time.",
   "target": "To jest nowo odkryty POKéMON. Aktualnie\\nprowadzone są nad nim badania. Chwilowo\\nbrak jakichkolwiek innych informacji.",
-  "status": "draft",
+  "status": "approved",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -47408,7 +47412,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_491": {
@@ -57146,8 +57150,8 @@
  },
  "srcdata.txt::srcdata.txt_669": {
   "source": "TM48",
-  "target": "TM48",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": true,
   "manual_skip": true,
@@ -57528,13 +57532,13 @@
  },
  "datatext.txt::datatext.txt_723": {
   "source": "Own move type: POISON",
-  "target": "Własny ruch Typ: Trujący",
+  "target": "Własny ruch Typ: TRUJĄCY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792318257.6590462,
+  "updated": 1792318960.5825033,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_704": {
@@ -58639,7 +58643,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1546": {
@@ -59523,7 +59527,7 @@
  },
  "datatext.txt::datatext.txt_507": {
   "source": " Using “POKéMON”",
-  "target": " Using “POKéMON”",
+  "target": " Użył “POKéMON”",
   "status": "draft",
   "notes": "",
   "ignored": false,
@@ -59937,10 +59941,10 @@
  },
  "src.txt::src.txt_1526": {
   "source": "VAPOREON",
-  "target": "VAPOREON",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -60092,13 +60096,13 @@
  },
  "datatext.txt::datatext.txt_724": {
   "source": "Own POKéMON type: POISON",
-  "target": "Own POKéMON Typ: Trujący",
+  "target": "POKéMON typ: TRUJĄCY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792318928.1022692,
+  "updated": 1792318951.7259219,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_435": {
@@ -86091,7 +86095,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "src.txt::src.txt_2071": {
@@ -89006,8 +89010,8 @@
  },
  "src.txt::src.txt_2939": {
   "source": "GREETINGS",
-  "target": "POWITANIA",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
@@ -99126,8 +99130,8 @@
  },
  "src.txt::src.txt_2196": {
   "source": "GREETINGS",
-  "target": "",
-  "status": "new",
+  "target": "POWITANIA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
@@ -106167,7 +106171,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_687": {
