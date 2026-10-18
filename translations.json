@@ -4236,7 +4236,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326143.842981,
+  "updated": 1792326509.3853085,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_522": {
@@ -18126,10 +18126,13 @@
  },
  "src.txt::src.txt_2882": {
   "source": "Hmhm… What?\\nSo is this what you're saying?\\p",
-  "target": "",
-  "status": "new",
+  "target": "Hmhm… Co?\\nWięc czy to właśnie mówisz?\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326492.9308264,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_524": {
   "source": "SOUL DEW",
@@ -24926,7 +24929,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326148.976566,
+  "updated": 1792326523.6916559,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_845": {
@@ -32709,7 +32712,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326472.1455178,
+  "updated": 1792326495.110695,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1043": {
@@ -39680,10 +39683,13 @@
  },
  "src.txt::src.txt_2885": {
   "source": "Yes, that's exactly it!\\nThat's what I meant.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Tak, dokładnie o to chodzi!\\nO to mi chodziło.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326503.609469,
+  "touched": true
  },
  "datatext.txt::datatext.txt_16": {
   "source": "I'm the DAY-CARE LADY.\\pWe can raise POKéMON for you.\\pWould you like us to raise one?",
@@ -49798,7 +49804,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326483.6863825,
+  "updated": 1792326488.9762502,
   "touched": true
  },
  "src.txt::src.txt_252": {
@@ -50520,7 +50526,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326482.233807,
+  "updated": 1792326490.5049317,
   "touched": true
  },
  "data maps.txt::data maps.txt_1079": {
@@ -51957,10 +51963,13 @@
  },
  "src.txt::src.txt_2881": {
   "source": "Oh?\\nSomething like that happened.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Och?\\nCoś takiego się stało.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326491.4554734,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1435": {
   "source": "FAME CHECKER",
@@ -60364,7 +60373,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326144.7914686,
+  "updated": 1792326511.8611662,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_707": {
@@ -66439,7 +66448,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326142.44463,
+  "updated": 1792326508.1286726,
   "touched": true
  },
  "data maps.txt::data maps.txt_1861": {
@@ -67652,10 +67661,13 @@
  },
  "src.txt::src.txt_2886": {
   "source": "In other words…\\nYes! That's right!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Innymi słowy…\\nTak! To prawda!\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326504.7236416,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_218": {
   "source": "AZURILL DOLL",
@@ -70829,6 +70841,16 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2883": {
+  "source": "Is that right?\\nI didn't know that.\\p",
+  "target": "Czy to prawda?\\nNie wiedziałem tego.\\p",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326493.9289117,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_52": {
   "source": "Makes escaping easier.",
   "target": "Ułatwia ucieczkę.",
@@ -70839,13 +70861,6 @@
   "translator": "Antrix",
   "updated": 1791587133.0986402,
   "touched": true
- },
- "src.txt::src.txt_2883": {
-  "source": "Is that right?\\nI didn't know that.\\p",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdata.txt::srcdata.txt_1968": {
   "source": "LAURA",
@@ -83280,6 +83295,16 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2891": {
+  "source": "Yeahah!\\nI really wanted this POKéMON!\\p",
+  "target": "Jeej!\\nNaprawdę chciałem tego POKéMONA!\\p",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326521.697369,
+  "touched": true
+ },
  "srcdata.txt::srcdata.txt_1449": {
   "source": "MYSTICTICKET",
   "target": "TAJEMNY BILET",
@@ -83288,13 +83313,6 @@
   "ignored": false,
   "translator": "Antrix",
   "updated": 1790376356.5059223
- },
- "src.txt::src.txt_2891": {
-  "source": "Yeahah!\\nI really wanted this POKéMON!\\p",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "src.txt::src.txt_1175": {
   "source": "WALK",
@@ -85925,7 +85943,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326145.7763364,
+  "updated": 1792326513.385233,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_748": {
@@ -97910,7 +97928,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326147.9821508,
+  "updated": 1792326523.5726151,
   "touched": true
  },
  "datatext.txt::datatext.txt_1049": {
