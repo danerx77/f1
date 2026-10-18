@@ -4379,3 +4379,17 @@
 {"time": "2026-10-18T14:11:59", "file": "src.txt", "seg_id": "src.txt_2184", "source": "BRONZE", "old": "BRĄZ", "new": "BRĄZO", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:11:59", "file": "src.txt", "seg_id": "src.txt_2184", "source": "BRONZE", "old": "BRĄZO", "new": "BRĄZOW", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:11:59", "file": "src.txt", "seg_id": "src.txt_2184", "source": "BRONZE", "old": "BRĄZOW", "new": "BRĄZOWY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:10", "file": "src.txt", "seg_id": "src.txt_2187", "source": "GOLD", "old": "", "new": "Złoty", "translator": "Antrix", "method": "auto_tm", "tm_source": " Communication error…\\nPlease c → Communication error…\\nPlease c)"}
+{"time": "2026-10-18T14:12:10", "file": "src.txt", "seg_id": "src.txt_2187", "source": "GOLD", "old": "", "new": "Złoty", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:13", "file": "src.txt", "seg_id": "src.txt_2187", "source": "GOLD", "old": "Złoty", "new": "ZŁ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:13", "file": "src.txt", "seg_id": "src.txt_2187", "source": "GOLD", "old": "ZŁ", "new": "ZŁO", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:13", "file": "src.txt", "seg_id": "src.txt_2187", "source": "GOLD", "old": "ZŁO", "new": "ZŁOT", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:13", "file": "src.txt", "seg_id": "src.txt_2187", "source": "GOLD", "old": "ZŁOT", "new": "ZŁOTY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:18", "file": "src.txt", "seg_id": "src.txt_2185", "source": "COPPER", "old": "Miedź", "new": "MI", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:18", "file": "src.txt", "seg_id": "src.txt_2185", "source": "COPPER", "old": "MI", "new": "MIE", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:20", "file": "src.txt", "seg_id": "src.txt_2185", "source": "COPPER", "old": "MIE", "new": "MIED", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:21", "file": "src.txt", "seg_id": "src.txt_2185", "source": "COPPER", "old": "MIED", "new": "MIEDŹ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:21", "file": "src.txt", "seg_id": "src.txt_2185", "source": "COPPER", "old": "MIEDŹ", "new": "MIEDŹI", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:22", "file": "src.txt", "seg_id": "src.txt_2185", "source": "COPPER", "old": "MIEDŹI", "new": "MIEDŹIA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:22", "file": "src.txt", "seg_id": "src.txt_2185", "source": "COPPER", "old": "MIEDŹIA", "new": "MIEDŹIAN", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:12:22", "file": "src.txt", "seg_id": "src.txt_2185", "source": "COPPER", "old": "MIEDŹIAN", "new": "MIEDŹIANY", "translator": "Antrix", "method": "manual"}

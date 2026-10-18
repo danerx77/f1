@@ -57966,7 +57966,10 @@
   "target": "{A_BUTTON}{B_BUTTON}ANULUJ",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325560.2177932,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_562": {
   "source": "Mingled with other TRAINERS in\\nthe UNION ROOM.",
@@ -103368,10 +103371,14 @@
  },
  "src.txt::src.txt_2187": {
   "source": "GOLD",
-  "target": "",
-  "status": "new",
+  "target": "ZŁOTY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325535.4081771,
+  "touched": true
  },
  "datatext.txt::datatext.txt_610": {
   "source": "SP. DEF",
@@ -110037,12 +110044,12 @@
  },
  "src.txt::src.txt_2185": {
   "source": "COPPER",
-  "target": "Miedź",
+  "target": "MIEDŹIANY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325523.603727,
+  "updated": 1792325558.2349293,
   "touched": true
  },
  "data maps.txt::data maps.txt_2662": {
