@@ -10315,7 +10315,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322871.3765106,
+  "updated": 1792323119.295779,
   "touched": true
  },
  "datatext.txt::datatext.txt_949": {
@@ -25036,7 +25036,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322372.9674957,
+  "updated": 1792323098.2705872,
   "touched": true
  },
  "data maps.txt::data maps.txt_1234": {
@@ -27750,12 +27750,12 @@
  },
  "datatext.txt::datatext.txt_763": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FIGHTING\\p   {BIG_MULT_X}: GHOST",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: WALKI\\p   {BIG_MULT_X}: DUCH",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: WALCZĄCY\\p   {BIG_MULT_X}: DUCH",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323083.4018524,
+  "updated": 1792323092.2797542,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1367": {
@@ -34218,7 +34218,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322372.3332634,
+  "updated": 1792323100.9677563,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_911": {
@@ -48906,7 +48906,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322371.543104,
+  "updated": 1792323109.6247141,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_551": {
@@ -71312,7 +71312,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322375.5127244,
+  "updated": 1792323095.5521028,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_744": {
@@ -83589,7 +83589,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322367.5880284,
+  "updated": 1792323123.4351413,
   "touched": true
  },
  "data maps.txt::data maps.txt_2862": {
@@ -97588,7 +97588,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322862.219601,
+  "updated": 1792323115.433895,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1203": {
