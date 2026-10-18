@@ -11681,7 +11681,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322358.4161885,
+  "updated": 1792322643.4310994,
   "touched": true
  },
  "datatext.txt::datatext.txt_270": {
@@ -47220,12 +47220,12 @@
  },
  "datatext.txt::datatext.txt_745": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: BUG, GHOST, DARK\\p   {TRIANGLE}: FIGHTING, PSYCHIC",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ROBAK, DUCH, MROCZNY\\p   {TRIANGLE}: WALCZĄCY, PSIONICZNY",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ROBACZY, DUCH, MROCZNY\\p   {TRIANGLE}: WALCZĄCY, PSYCHO",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322603.4112313,
+  "updated": 1792322633.8991215,
   "touched": true
  },
  "data maps.txt::data maps.txt_2429": {
