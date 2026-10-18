@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T103940Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T105417Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -238955,10 +238955,6 @@
       <tuv xml:lang="pl"><seg>Walczyć możesz ze swoimi znajomymi.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>You have at least one POKéMON\nthat can't be taken.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Masz przynajmniej jednego Pokémona,\nktóry nie może wziąć udziału.</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>Return to a healing spot.</seg></tuv>
       <tuv xml:lang="pl"><seg>Zwab dzikie POKéMONY.</seg></tuv>
     </tu>
@@ -293861,6 +293857,78 @@
     <tu>
       <tuv xml:lang="en"><seg>Thank you for using the MYSTERY\nGIFT System.\pYour BATTLE COUNT CARD keeps\ntrack of your battle record against\lTRAINERS with the same CARD.\pLook for and battle TRAINERS who\nhave the same CARD as you.\pYou may check the overall rankings\nby reading the NEWS.\pPlease do give it a try!</seg></tuv>
       <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pTwoja KARTA LICZNIKA WALK śledzi\nTwój rekord walk z\lTRENERAMI posiadającymi tę samą KARTĘ.\pSzukaj i walcz z TRENERAMI, którzy\nmają taką samą KARTĘ jak ty.\pMożesz sprawdzić ogólne\nrankingi, czytając AKTUALNOŚCI.\pProszę, spróbuj tego!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hi, welcome!\nYou can play games over the\lWireless Communication System.\pCan you wait just a little bit?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hi, welcome!\nMożesz wziąć tam ze sobą pokémona\lWireless Communication System.\pCan you wait just a little bit?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If you want to play a game,\nplease tell the man beside me.</seg></tuv>
+      <tuv xml:lang="pl"><seg>If you want to play a game,\nplease tell the man beside me.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>“DODRIO BERRY-PICKING”\pCommand DODRIO's three heads to\ncatch falling BERRIES.\pPress right, up, or left on the\n{PLUS} Control Pad to move the heads.\pTo play this game, you must have\na DODRIO.</seg></tuv>
+      <tuv xml:lang="pl"><seg>„DODRIO ZBIÓR OWOCÓW”\pRozkaż trzem głowom DODRIO,\naby łapały spadające JAGODY.\pNaciśnij w prawo, w górę lub w lewo\nna padzie sterującym {PLUS} , aby poruszać głowami.\pAby grać w tę\ngrę, musisz mieć DODRIO.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All right, which game did you want\nto play?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dobrze, w jaką\ngrę chciałeś zagrać?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Okay, you're all good to go.\nDon't let the others beat you!</seg></tuv>
+      <tuv xml:lang="pl"><seg>W porządku, możesz iść.\nNie pozwól, aby inni cię pokonali!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It doesn't look like you have any\nPOKéMON that you can enter…\pWould you like me to explain what\nkinds of POKéMON can enter?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygląda na to, że nie masz\nżadnych POKéMON, które mógłbyś wprowadzić…\pChciałbyś, żebym wyjaśnił, jakie\nrodzaje POKéMON mogą wejść?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>“POKéMON JUMP” is open to POKéMON\naround 28 inches or less.\pWhat you can't enter are those\nPOKéMON that can't jump.\pYou know, like POKéMON that only\nswim, burrow, or fly.\pThat's all you need to know.</seg></tuv>
+      <tuv xml:lang="pl"><seg>„POKéMON JUMP” jest otwarte dla POKéMON\no wysokości około 28 cali lub mniej.\pTych Pokémonów, które nie\npotrafią skakać, nie można wprowadzać.\pWiesz, jak POKéMON, które tylko\npływają, kopią tunele albo latają.\pTo wszystko, co musisz wiedzieć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>“DODRIO BERRY-PICKING”…\nWell, the name says it all.\pYou have to have a DODRIO to play\nthis game.</seg></tuv>
+      <tuv xml:lang="pl"><seg>„DODRIO ZBIÓR OWOCÓW BERRY”…\nCóż, sama nazwa mówi wszystko.\pMusisz mieć DODRIO, aby\nzagrać w tę grę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'm awfully sorry.\pWe're not set up to conduct trades\nwith TRAINERS far away in another\lregion yet…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Bardzo przepraszam.\pNie jesteśmy jeszcze przygotowani\ndo przeprowadzania transakcji z TRENERAMI\ldaleko w innym regionie…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You have at least one POKéMON\nthat can't be taken.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Masz przynajmniej jednego Pokémona,\nktóry nie może wziąć udziału.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Participants are asked to step up\nto the reception counter.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Uczestników prosimy o\npodejście do recepcji.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Wireless Adapter is not\nconnected properly.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wireless Adapter nie\njest prawidłowo podłączony.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You may trade your POKéMON here\nwith another TRAINER.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Możesz handlować swoimi POKéMONAMI\ntutaj z innym TRENEREM.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Two to five TRAINERS can make\nBERRY POWDER together.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Od dwóch do pięciu TRENERÓW może\nprzygotować PROSZEK Z OWOCÓW razem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>To enter the UNION ROOM, you must\nhave at least two POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>To enter the UNION ROOM, you must\nhave at least two POKéMON.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>To use the BERRY CRUSH service,\nyou must have at least one BERRY.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Aby korzystać z usługi BERRY CRUSH,\nmusisz mieć przynajmniej jedną JAGODĘ.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>No POKéMON holding the {STR_VAR_1}\nBERRY may enter the UNION ROOM.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Żaden POKéMON trzymający {STR_VAR_1} JAGODĘ nie\nmoże wejść do POKOJU UNION.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is the POKéMON WIRELESS CLUB\nUNION ROOM.\pUnfortunately, your Wireless\nAdapter is not connected properly.\pPlease do come again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>To jest POKéMON BEZPRZEWODOWY\nKLUB POKÓJ UNION.\pNiestety, Twój adapter bezprzewodowy\nnie jest prawidłowo podłączony.\pProszę, przyjdź ponownie.</seg></tuv>
     </tu>
   </body>
 </tmx>
