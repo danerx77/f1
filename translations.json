@@ -5131,7 +5131,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326105.5027845,
+  "updated": 1792326211.7500794,
   "touched": true
  },
  "src.txt::src.txt_1962": {
@@ -32303,13 +32303,13 @@
  },
  "src.txt::src.txt_2858": {
   "source": "Sorry! My POKéMON don't seem to\\nbe feeling too well right now.\\lLet me battle you another time.\\p",
-  "target": "Sorry! Przepraszam,\\nale moje Pokémony nie czują się teraz zbyt dobrze. fPowalczymy\\linnym\\prazem.",
+  "target": "Sorry! Przepraszam,\\nale moje Pokémony nie czują się teraz zbyt dobrze. \\lPowalczymy\\linnym\\prazem.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326107.7237933,
+  "updated": 1792326243.6390872,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_986": {
@@ -36423,7 +36423,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326104.624562,
+  "updated": 1792326210.5530617,
   "touched": true
  },
  "src.txt::src.txt_1240": {
@@ -89920,10 +89920,13 @@
  },
  "src.txt::src.txt_2857": {
   "source": "Entering the chat…{PAUSE 60}",
-  "target": "",
-  "status": "new",
+  "target": "Wchodzenie na czat…{PAUSE 60}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326222.1771944,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1294": {
   "source": "The user calms its spirit and\\\\nfocuses its mind to raise its\\\\nSP. ATK and SP. DEF stats.",
@@ -97365,12 +97368,12 @@
  },
  "src.txt::src.txt_2854": {
   "source": "Sorry I made you wait!\\nLet's chat.{PAUSE 60}",
-  "target": "Przepraszam, że musiałeś/nmusiałaś czekać!\\nPorozmawiajmy.{PAUSE 60}",
+  "target": "Przepraszam, że musiałeś\\nmusiałaś czekać!\\nPorozmawiajmy.{PAUSE 60}",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326203.6440144,
+  "updated": 1792326206.7450671,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1181": {
