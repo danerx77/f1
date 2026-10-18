@@ -61288,7 +61288,10 @@
   "target": "STREFA SAFARI jest wielka,\\nco nie?\\pLIDER SALI w FUCHSIA - KOGA,\\npatroluje ten teren, gdy tylko może.\\pDzięki temu, możemy się bawić\\nwiedząc, że jesteśmy bezpieczni.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792329657.1117306,
+  "touched": true
  },
  "src.txt::src.txt_721": {
   "source": "A reckless, full-\\nbody charge attack\\nthat also hurts the\\nuser a little.",
@@ -78181,10 +78184,13 @@
  },
  "data maps.txt::data maps.txt_2049": {
   "source": "MAN: Hello there, sweetie pie!\\nHave I got a deal just for you!\\pI'll let you have a secret POKéMON\\n- a MAGIKARP - for just ¥500!\\pSo, you'll buy it, am I right?",
-  "target": "MĘŻCZYZNA: Witaj, złotko!\\nMam coś specjalnego dla ciebie!\\pDam ci tego sekretnego POKéMONA\\n- MAGIKARPIA - za jedyne ¥500!\\pWięc, kupisz go, mam rację?",
+  "target": "MĘŻCZYZNA: Witaj, złotko!\\nMam coś specjalnego dla ciebie!\\pDam ci tego sekretnego POKéMONA\\n MAGIKARPIA za jedyne ¥500!\\pWięc, kupisz go, mam rację?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792329643.720086,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_44": {
   "source": "UNDERGROUND PATH",
@@ -93221,10 +93227,13 @@
  },
  "data maps.txt::data maps.txt_2048": {
   "source": "MAN: Hello there, laddie!\\nHave I got a deal just for you!\\pI'll let you have a secret POKéMON\\n- a MAGIKARP - for just ¥500!\\pSo, you'll buy it, am I right?",
-  "target": "MĘŻCZYZNA: Witaj, chłopcze!\\nMam dla ciebie coś specjalnego!\\pDam ci tego sekretnego POKéMONA\\n- MAGIKARPIA - za jedyne ¥500!\\pWięc, kupisz go, mam rację?",
+  "target": "MĘŻCZYZNA: Witaj, chłopcze!\\nMam dla ciebie coś specjalnego!\\pDam ci tego sekretnego POKéMONA\\n MAGIKARPIA za jedyne ¥500!\\pWięc, kupisz go, mam rację?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792329632.0867498,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1012": {
   "source": "{RIVAL}: My POKéMON looks a lot\\ntougher than yours.",
