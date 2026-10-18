@@ -23521,7 +23521,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324283.3213294,
+  "updated": 1792324396.276379,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1056": {
@@ -30166,12 +30166,12 @@
  },
  "datatext.txt::datatext.txt_657": {
   "source": "OT stands for “Original TRAINER,”\\nthe first TRAINER to have caught the\\lselected POKéMON.\\lEven if the POKéMON is traded, the OT\\lname will remain unchanged.",
-  "target": "OT oznacza „Oryginalny\\nTRENER”, pierwszy TRENER, który\\lzłapał wybranego POKéMONA.\\lNawet jeśli POKéMON zostanie\\lwymieniony, nazwa OT pozostanie niezmieniona.",
+  "target": "OT oznacza “Oryginalny\\nTRENER”, pierwszy TRENER, który\\lzłapał wybranego POKéMONA.\\lNawet jeśli POKéMON zostanie\\lwymieniony, nazwa OT pozostanie niezmieniona.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324294.181643,
+  "updated": 1792324368.0128825,
   "touched": true
  },
  "data maps.txt::data maps.txt_1480": {
@@ -41635,12 +41635,12 @@
  },
  "datatext.txt::datatext.txt_662": {
   "source": "All POKéMON have a personality,\\nor “NATURE.” The POKéMON's\\lnature appears to affect how the\\lPOKéMON will grow upon leveling up.",
-  "target": "Wszystkie POKéMON mają osobowość, czyli „CHARAKTER”.\\nCharakter POKéMON wydaje się wpływać\\lna to, jak POKéMON będzie\\lrozwijać się w miarę zdobywania poziomów.",
+  "target": "Wszystkie POKéMON mają osobowość, czyli “CHARAKTER”.\\nCharakter POKéMON wydaje się wpływać\\lna to, jak POKéMON będzie\\lrozwijać się w miarę zdobywania poziomów.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324297.021321,
+  "updated": 1792324368.0129037,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_63": {
@@ -43278,7 +43278,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324274.5319226,
+  "updated": 1792324381.7681067,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_141": {
@@ -46073,12 +46073,12 @@
  },
  "datatext.txt::datatext.txt_676": {
   "source": "You can choose whether or not a\\nTRAINER can switch a POKéMON after\\lit has made its foe faint.\\lSet to “SHIFT” if you would like the\\lchance to switch a POKéMON after it\\lhas made its foe faint.",
-  "target": "Możesz wybrać, czy TRENER może\\nzmienić POKéMONA po tym, jak\\lsprawił, że jego przeciwnik zemdlał.\\lUstaw na „SHIFT”, jeśli chcesz\\lmieć szansę zamienić POKéMONA po\\ltym, jak pokona swojego wroga.",
+  "target": "Możesz wybrać, czy TRENER może\\nzmienić POKéMONA po tym, jak\\lsprawił, że jego przeciwnik zemdlał.\\lUstaw na “SHIFT”, jeśli chcesz\\lmieć szansę zamienić POKéMONA po\\ltym, jak pokona swojego wroga.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324310.7883508,
+  "updated": 1792324368.012933,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_457": {
@@ -62733,12 +62733,12 @@
  },
  "datatext.txt::datatext.txt_678": {
   "source": "Set to “HELP” to display help messages\\nby pressing the L or R Button.\\lSet to “LR” to enable the switching\\lof the POKéDEX pages and BAG POCKETS\\lusing the L and R Buttons.\\lSet to “L=A” to make the L Button\\lwork the same as the A Button.",
-  "target": "Ustaw na „POMOC”, aby wyświetlać komunikaty\\npomocy naciskając przycisk L lub R.\\lUstaw na „LR”, aby włączyć przełączanie\\lstron POKéDEX-a i KIESZENI PLECAKA\\lza pomocą przycisków L i R.\\lUstaw na „L=A”, aby przycisk L\\ldziałał tak samo jak przycisk A.",
+  "target": "Ustaw na “POMOC”, aby wyświetlać komunikaty\\npomocy naciskając przycisk L lub R.\\lUstaw na “LR”, aby włączyć przełączanie\\lstron POKéDEX-a i KIESZENI PLECAKA\\lza pomocą przycisków L i R.\\lUstaw na “L=A”, aby przycisk L\\ldziałał tak samo jak przycisk A.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324312.9669228,
+  "updated": 1792324368.0129435,
   "touched": true
  },
  "src.txt::src.txt_1594": {
@@ -71224,7 +71224,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324285.7921722,
+  "updated": 1792324403.5147436,
   "touched": true
  },
  "data maps.txt::data maps.txt_767": {
@@ -73409,12 +73409,12 @@
  },
  "datatext.txt::datatext.txt_648": {
   "source": "EXP. Points stands for “Experience\\nPoints.” POKéMON gain EXP. Points by\\lparticipating in winning battles.\\lWhen a POKéMON accumulates sufficient\\lEXP. Points, it levels up. The EXP. Bar\\lindicates accumulated EXP. Points.\\lIt returns to zero upon leveling up.",
-  "target": "EXP. Points oznacza „Punkty Doświadczenia”.\\nPOKéMON zdobywają Punkty Doświadczenia,\\lbiorąc udział w zwycięskich walkach.\\lKiedy POKéMON zgromadzi wystarczającą ilość punktów\\lEXP, awansuje na wyższy poziom.\\lPasek EXP wskazuje zgromadzone punkty EXP.\\lWróci do zera po osiągnięciu poziomu.",
+  "target": "EXP. Points oznacza “Punkty Doświadczenia”.\\nPOKéMON zdobywają Punkty Doświadczenia,\\lbiorąc udział w zwycięskich walkach.\\lKiedy POKéMON zgromadzi wystarczającą ilość punktów\\lEXP, awansuje na wyższy poziom.\\lPasek EXP wskazuje zgromadzone punkty EXP.\\lWróci do zera po osiągnięciu poziomu.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324363.4890275,
+  "updated": 1792324377.4261081,
   "touched": true
  },
  "data maps.txt::data maps.txt_1484": {
@@ -79273,12 +79273,12 @@
  },
  "datatext.txt::datatext.txt_664": {
   "source": "PP stands for “Power Points.”\\nIt indicates the number of times a\\lcertain move can be used in battle.\\lLike HP, PP can be restored by visiting\\la POKéMON CENTER or using certain\\litems.",
-  "target": "PP oznacza „Power Points” (Punkty\\nMocy). Wskazuje, ile razy dana umiejętność\\lmoże być użyta w walce.\\lPodobnie jak HP, PP\\lmożna odzyskać, odwiedzając CENTRUM POKéMON\\llub używając niektórych przedmiotów.",
+  "target": "PP oznacza “Power Points” (Punkty\\nMocy). Wskazuje, ile razy dana umiejętność\\lmoże być użyta w walce.\\lPodobnie jak HP, PP\\lmożna odzyskać, odwiedzając CENTRUM POKéMON\\llub używając niektórych przedmiotów.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324302.380852,
+  "updated": 1792324368.0129132,
   "touched": true
  },
  "data maps.txt::data maps.txt_703": {
@@ -82303,12 +82303,12 @@
  },
  "datatext.txt::datatext.txt_667": {
   "source": "FNT stands for “fainted.”\\nA POKéMON faints if its HP is reduced\\lto zero. It becomes incapable of taking\\lpart in battle.\\lRestore a fainted POKéMON at a POKéMON\\lCENTER, or use an item.",
-  "target": "FNT oznacza „zemdlał”. POKéMON mdleje,\\njeśli jego HP spadnie do\\lzera. Staje się wtedy\\lniezdolny do udziału w walce.\\lPrzywróć przytomność omdlałemu POKéMONOWI w\\lCENTRUM POKéMON, lub użyj przedmiotu.",
+  "target": "FNT oznacza “zemdlał”. POKéMON mdleje,\\njeśli jego HP spadnie do\\lzera. Staje się wtedy\\lniezdolny do udziału w walce.\\lPrzywróć przytomność omdlałemu POKéMONOWI w\\lCENTRUM POKéMON, lub użyj przedmiotu.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324303.1875155,
+  "updated": 1792324368.0129228,
   "touched": true
  },
  "datatext.txt::datatext.txt_419": {
@@ -98681,12 +98681,12 @@
  },
  "datatext.txt::datatext.txt_683": {
   "source": "HIDDEN moves are those that are\\nespecially important for your\\ladventure. To use such a move outside\\lof battle, open the “POKéMON” MENU\\land make the POKéMON that knows the\\lmove use it. A fainted POKéMON may use\\la HIDDEN move outside of battle.",
-  "target": "Ruchy UKRYTE to takie, które są\\nszczególnie ważne w Twojej przygodzie.\\lAby użyć takiego ruchu poza walką,\\lotwórz MENU „POKéMON” i spraw, aby\\lPOKéMON, który zna ten ruch, go\\lużył. POKéMON, który stracił przytomność,\\lmoże użyć ruchu UKRYTEGO poza walką.",
+  "target": "Ruchy UKRYTE to takie, które są\\nszczególnie ważne w Twojej przygodzie.\\lAby użyć takiego ruchu poza walką,\\lotwórz MENU “POKéMON” i spraw, aby\\lPOKéMON, który zna ten ruch, go\\lużył. POKéMON, który stracił przytomność,\\lmoże użyć ruchu UKRYTEGO poza walką.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324313.8374474,
+  "updated": 1792324368.0129526,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_8": {
@@ -99137,12 +99137,12 @@
  },
  "datatext.txt::datatext.txt_658": {
   "source": "All POKéMON can be made to hold one\\nitem each. Some items will be used by\\lthe POKéMON automatically in certain\\lsituations. To make a POKéMON hold an\\litem, select the item from the BAG and\\l“GIVE” it to the POKéMON.",
-  "target": "Wszystkie POKéMONY mogą trzymać po\\njednym przedmiocie. Niektóre przedmioty będą używane\\lautomatycznie przez POKéMONY w określonych\\lsytuacjach. Aby sprawić, że POKéMON\\lbędzie trzymał przedmiot, wybierz przedmiot z\\lPLECAKA i „DAJ” go POKéMONOWI.",
+  "target": "Wszystkie POKéMONY mogą trzymać po\\njednym przedmiocie. Niektóre przedmioty będą używane\\lautomatycznie przez POKéMONY w określonych\\lsytuacjach. Aby sprawić, że POKéMON\\lbędzie trzymał przedmiot, wybierz przedmiot z\\lPLECAKA i “DAJ” go POKéMONOWI.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324293.5065057,
+  "updated": 1792324368.0128927,
   "touched": true
  },
  "data maps.txt::data maps.txt_2181": {
@@ -100407,7 +100407,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324278.2083778,
+  "updated": 1792324393.1133409,
   "touched": true
  },
  "data maps.txt::data maps.txt_279": {
