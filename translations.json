@@ -18306,14 +18306,13 @@
  },
  "src.txt::src.txt_1080": {
   "source": "The 1M sub-circuit board is\\nnot installed.",
-  "target": "",
-  "status": "new",
+  "target": "Płytka podobwodowa 1M\\nnie jest zainstalowana.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791737239.8412735,
+  "updated": 1792327603.7434053,
   "touched": true
  },
  "src.txt::src.txt_2414": {
@@ -29974,7 +29973,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327563.7179344,
+  "updated": 1792327563.7832193,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1018": {
