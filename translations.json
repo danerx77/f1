@@ -38196,10 +38196,14 @@
  },
  "src.txt::src.txt_1639": {
   "source": "----",
-  "target": "----",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1792324811.9424548,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_568": {
   "source": "Its fleece grows continually. In the\\nsummer, the fleece is fully shed, but it\\ngrows back in a week.",
@@ -60955,10 +60959,15 @@
  },
  "src.txt::src.txt_1638": {
   "source": "-------",
-  "target": "-------",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1792324811.9369378,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2980": {
   "source": "You've got seriously impressive\\nPOKéMON with you.",
@@ -77086,11 +77095,12 @@
  },
  "src.txt::src.txt_1641": {
   "source": "\\n                              ",
-  "target": "SALA POKéMON CELADON\\nLIDER: ERIKA\\pZWYCIĘZCY:\\n{RIVAL}                              ",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": true,
   "manual_skip": true,
+  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
   "updated": 1792324803.465425,
@@ -79808,17 +79818,20 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_1634": {
+  "source": "PP UP{CLEAR_TO 0x65}{FONT_SMALL}3,000",
+  "target": "PP UP{CLEAR_TO 0x65}{FONT_SMALL}3,000",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324827.6728542,
+  "touched": true
+ },
  "src.txt::src.txt_1961": {
   "source": "{DYNAMIC 0x00} learned\\n{DYNAMIC 0x01}!",
   "target": "{DYNAMIC 0x00} poznaje\\n{DYNAMIC 0x01}!",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_1634": {
-  "source": "PP UP{CLEAR_TO 0x65}{FONT_SMALL}3,000",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -95398,10 +95411,14 @@
  },
  "src.txt::src.txt_1635": {
   "source": "{PLAYER}'s BATTLE RESULTS",
-  "target": "",
-  "status": "new",
+  "target": "{PLAYER} WYNIKI BITEW",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792324839.1358833,
+  "touched": true
  },
  "src.txt::src.txt_1054": {
   "source": "<<< FILE: src/strings.c >>>",
@@ -104673,10 +104690,14 @@
  },
  "src.txt::src.txt_1633": {
   "source": "HP UP{CLEAR_TO 0x65}{FONT_SMALL}1,000",
-  "target": "",
-  "status": "new",
+  "target": "HP UP{CLEAR_TO 0x65}{FONT_SMALL}1,000",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792324822.714719,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_71": {
   "source": "SEVII ISLE 8",
