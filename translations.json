@@ -32709,7 +32709,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326138.790077,
+  "updated": 1792326472.1455178,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1043": {
@@ -42454,7 +42454,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326131.2098868,
+  "updated": 1792326450.9282246,
   "touched": true
  },
  "src.txt::src.txt_1694": {
@@ -45573,7 +45573,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326132.333582,
+  "updated": 1792326452.4703622,
   "touched": true
  },
  "data maps.txt::data maps.txt_3070": {
@@ -49793,10 +49793,13 @@
  },
  "src.txt::src.txt_2879": {
   "source": "Oh, I see!\\nThis is educational!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Och, rozumiem!\\nTo jest edukacyjne!\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326483.6863825,
+  "touched": true
  },
  "src.txt::src.txt_252": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\nmade {B_CURRENT_MOVE} useless!",
@@ -50512,10 +50515,13 @@
  },
  "src.txt::src.txt_2880": {
   "source": "Don't say anything funny anymore!\\nI'm sore from laughing!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Nie mów już nic zabawnego!\\nBoli mnie od śmiechu!\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326482.233807,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1079": {
   "source": "DAISY: Okay, I'll get it looking\\nnice in no time.",
@@ -83386,7 +83392,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326128.0648758,
+  "updated": 1792326446.749586,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_2081": {
@@ -93096,7 +93102,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326130.2484894,
+  "updated": 1792326449.6329598,
   "touched": true
  },
  "datatext.txt::datatext.txt_496": {
@@ -98748,7 +98754,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326129.1436079,
+  "updated": 1792326448.001655,
   "touched": true
  },
  "src.txt::src.txt_923": {
@@ -100856,7 +100862,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326443.7042449,
+  "updated": 1792326445.4995255,
   "touched": true
  },
  "src.txt::src.txt_617": {
