@@ -6106,10 +6106,13 @@
  },
  "src.txt::src.txt_2905": {
   "source": "Cancel the registration of your\\nEGG?",
-  "target": "",
-  "status": "new",
+  "target": "Anulować rejestrację\\nswojego EGG?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325848.8675098,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2062": {
   "source": "JOY & MEG",
@@ -16059,10 +16062,13 @@
  },
  "src.txt::src.txt_2903": {
   "source": "The trade has been canceled.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Transakcja została anulowana.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325883.6033218,
+  "touched": true
  },
  "src.txt::src.txt_840": {
   "source": "The user throws a\\nbone that hits the\\nfoe once, then once\\nagain on return.",
@@ -24439,6 +24445,16 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2899": {
+  "source": "Please choose the type of POKéMON\\nthat you would like in the trade.\\n",
+  "target": "Proszę wybrać typ POKéMONA,\\nktórego chciałbyś wymienić.\\n",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325861.5155244,
+  "touched": true
+ },
  "srcdatapokemon.txt::srcdatapokemon.txt_4": {
   "source": "SEED",
   "target": "NASIENNY",
@@ -24448,13 +24464,6 @@
   "translator": "Antrix",
   "updated": 1791655632.7260625,
   "touched": true
- },
- "src.txt::src.txt_2899": {
-  "source": "Please choose the type of POKéMON\\nthat you would like in the trade.\\n",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "datatext.txt::datatext.txt_238": {
   "source": "POKéMON LEAGUE",
@@ -28194,10 +28203,13 @@
  },
  "src.txt::src.txt_2902": {
   "source": "Registration has been completed.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Rejestracja została zakończona.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325882.4959393,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_117": {
   "source": "HUGE POWER",
@@ -80480,10 +80492,13 @@
  },
  "src.txt::src.txt_2906": {
   "source": "The registration has been canceled.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Rejestracja została anulowana.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325848.797546,
+  "touched": true
  },
  "data maps.txt::data maps.txt_518": {
   "source": "Oh…\\nHow disappointing.",
@@ -84264,10 +84279,13 @@
  },
  "src.txt::src.txt_2901": {
   "source": "Registration has been canceled.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Rejestracja została anulowana.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325881.2578576,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_690": {
   "source": "It feeds on gemstone crystals.\\nIn darkness, its eyes sparkle with the\\nglitter of jewels.",
@@ -95314,10 +95332,13 @@
  },
  "src.txt::src.txt_2904": {
   "source": "Cancel the registration of your\\nLv. {STR_VAR_2} {STR_VAR_1}?",
-  "target": "",
-  "status": "new",
+  "target": "Anulować rejestrację twojego\\nLv. {STR_VAR_2} {STR_VAR_1}?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325848.9684188,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_889": {
   "source": "????????",
@@ -98358,6 +98379,16 @@
   "updated": 1791131745.5997584,
   "touched": true
  },
+ "src.txt::src.txt_2900": {
+  "source": "Which of your party POKéMON will\\nyou offer in trade?\\p",
+  "target": "Którego ze swoich Pokémonów z\\ndrużyny chcesz wymienić?\\p",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325878.7975628,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_232": {
   "source": "BECOMES",
   "target": "",
@@ -98367,13 +98398,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586286.6102211
- },
- "src.txt::src.txt_2900": {
-  "source": "Which of your party POKéMON will\\nyou offer in trade?\\p",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "datatext.txt::datatext.txt_866": {
   "source": "{PLAYER} put the COINS away in\\nthe COIN CASE.",
