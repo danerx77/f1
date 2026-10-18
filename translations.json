@@ -4114,7 +4114,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325941.1420836,
+  "updated": 1792325992.40281,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_325": {
@@ -42740,7 +42740,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325963.6198947,
+  "updated": 1792325973.4405253,
   "touched": true
  },
  "data maps.txt::data maps.txt_2404": {
@@ -73078,10 +73078,13 @@
  },
  "src.txt::src.txt_2827": {
   "source": "Awaiting a response from\\nthe other TRAINER…",
-  "target": "",
-  "status": "new",
+  "target": "Oczekiwanie na odpowiedź\\nod drugiego TRENERA…",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325988.0784864,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1156": {
   "source": "OLD COUPLE",
@@ -79643,7 +79646,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325946.8281152,
+  "updated": 1792325975.6979246,
   "touched": true
  },
  "datatext.txt::datatext.txt_623": {
