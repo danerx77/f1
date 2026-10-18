@@ -34480,7 +34480,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323575.4474406,
+  "updated": 1792324798.1789367,
   "touched": true
  },
  "src.txt::src.txt_2174": {
@@ -77086,10 +77086,15 @@
  },
  "src.txt::src.txt_1641": {
   "source": "\\n                              ",
-  "target": "",
-  "status": "new",
+  "target": "SALA POKéMON CELADON\\nLIDER: ERIKA\\pZWYCIĘZCY:\\n{RIVAL}                              ",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792324803.465425,
+  "touched": true
  },
  "src.txt::src.txt_806": {
   "source": "A large egg is\\nhurled with great\\nforce at the foe to\\ninflict damage.",
@@ -80813,7 +80818,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324763.4746435,
+  "updated": 1792324766.0865974,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_178": {
@@ -108909,13 +108914,13 @@
  },
  "datatext.txt::datatext.txt_1017": {
   "source": "The HALL OF FAME STICKER was\\napplied to the TRAINER CARD.",
-  "target": "",
-  "status": "new",
+  "target": "NAKLEJKA HALA SŁAW\\nzostała przyklejona do KARTY TRENERA.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792323259.071638,
+  "updated": 1792324786.9426546,
   "touched": true
  },
  "data maps.txt::data maps.txt_255": {
