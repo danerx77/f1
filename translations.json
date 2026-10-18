@@ -7792,10 +7792,13 @@
  },
  "src.txt::src.txt_2929": {
   "source": "Searching for a WIRELESS\\nCOMMUNICATION SYSTEM. Wait...",
-  "target": "",
-  "status": "new",
+  "target": "Poszukiwanie BEZPRZEWODOWEGO\\nSYSTEMU KOMUNIKACJI. Czekaj...",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325784.384474,
+  "touched": true
  },
  "datatext.txt::datatext.txt_89": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}It's a photo of BLAINE and\\nMR. FUJI.\\pThey're standing shoulder to\\nshoulder with big grins.",
@@ -25958,10 +25961,13 @@
  },
  "src.txt::src.txt_2925": {
   "source": "Please choose the TRAINER who is\\nsharing WONDER NEWS.",
-  "target": "",
-  "status": "new",
+  "target": "Proszę wybrać TRENERA, który\\ndzieli się WSPANIAŁYMI WIEŚCIAMI.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325781.983361,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1363": {
   "source": "Ayaya!",
@@ -32800,7 +32806,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325763.5802271,
+  "updated": 1792325769.8970573,
   "touched": true
  },
  "data maps.txt::data maps.txt_2935": {
@@ -33015,10 +33021,13 @@
  },
  "src.txt::src.txt_2917": {
   "source": "EGG TRADE",
-  "target": "",
-  "status": "new",
+  "target": "HANDEL JAJAMI",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325778.7943382,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1267": {
   "source": "How's your POKéDEX coming?\\nI just caught a CUBONE!\\pI can't find the bigger MAROWAK.\\nWhere could they be?\\pI bet there aren't any left!\\pWell, I better get going.\\nI've got a lot to accomplish,\\lunlike you.\\pSmell ya later!",
@@ -39604,10 +39613,13 @@
  },
  "src.txt::src.txt_2926": {
   "source": "Jump with mini POKéMON!\\nPlease choose the LEADER.",
-  "target": "",
-  "status": "new",
+  "target": "Skacz z mini POKéMON!\\nProszę wybrać LIDERA.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325783.4110436,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2289": {
   "source": "Yow!\\nStubbed fingers!",
@@ -40811,10 +40823,13 @@
  },
  "src.txt::src.txt_2923": {
   "source": "Please choose the TRAINER to\\ntrade with.",
-  "target": "",
-  "status": "new",
+  "target": "Proszę wybrać TRENERA, z\\nktórym chcesz handlować.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325781.9952748,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_516": {
   "source": "Found near the mouth of a volcano.\\nThis fire-breather's body temperature is\\nnearly 2,200 degrees Fahrenheit.",
@@ -45408,6 +45423,16 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2927": {
+  "source": "BERRY CRUSH!\\nPlease choose the LEADER.",
+  "target": "BURZA OWOCÓW!\\nProszę wybrać LIDERA.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325785.4004433,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_615": {
   "source": "{PLAYER} left PROF. OAK's POKéMON\\nRESEARCH LAB.",
   "target": "{PLAYER} opuścił LABORATORIUM\\nPROFESORA OAKA.",
@@ -45417,13 +45442,6 @@
   "translator": "Antrix",
   "updated": 1791655595.1242008,
   "touched": true
- },
- "src.txt::src.txt_2927": {
-  "source": "BERRY CRUSH!\\nPlease choose the LEADER.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_2106": {
   "source": "Hi, how's it going?",
@@ -58408,10 +58426,13 @@
  },
  "src.txt::src.txt_2919": {
   "source": "Please choose a TRAINER.",
-  "target": "",
-  "status": "new",
+  "target": "Proszę wybrać TRENERA.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325779.240298,
+  "touched": true
  },
  "src.txt::src.txt_380": {
   "source": "{B_LINK_OPPONENT1_NAME} sent out\\n{B_BUFF1}!",
@@ -63100,10 +63121,13 @@
  },
  "src.txt::src.txt_2928": {
   "source": "DODRIO BERRY-PICKING!\\nPlease choose the LEADER.",
-  "target": "",
-  "status": "new",
+  "target": "DODRIO ZBIERANIE OWOCÓW BERRY!\\nProszę wybrać LIDERA.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325786.3217373,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_58": {
   "source": "Restores a selected move's PP by\\n10 points for one POKéMON.",
@@ -63507,10 +63531,13 @@
  },
  "src.txt::src.txt_2921": {
   "source": "Please choose a TRAINER for\\na DOUBLE BATTLE.",
-  "target": "",
-  "status": "new",
+  "target": "Proszę wybrać TRENERA\\ndo PODWÓJNEJ WALKI.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325780.6661737,
+  "touched": true
  },
  "src.txt::src.txt_1382": {
   "source": "FIRST",
@@ -69288,10 +69315,13 @@
  },
  "src.txt::src.txt_2918": {
   "source": "{DPAD_UPDOWN}CHOOSE  {A_BUTTON}JOIN  {B_BUTTON}CANCEL",
-  "target": "",
-  "status": "new",
+  "target": "{DPAD_UPDOWN}WYBIERZ {A_BUTTON}DOŁĄCZ {B_BUTTON}ANULUJ",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325779.3251224,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_395": {
   "source": "MOONLIGHT",
@@ -69477,10 +69507,13 @@
  },
  "src.txt::src.txt_2915": {
   "source": "You can't make a trade for\\n{STR_VAR_1}'s POKéMON right now.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Nie możesz teraz wymienić\\nsię POKéMONEM {STR_VAR_1}.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325802.1387746,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_856": {
   "source": "An item that prevents stat reduction\\\\namong party POKéMON for five turns\\\\nafter use.",
@@ -69970,10 +70003,13 @@
  },
  "src.txt::src.txt_2912": {
   "source": "You don't have a {STR_VAR_2}-type\\nPOKéMON that {STR_VAR_1} wants.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Nie masz Pokémona typu\\n{STR_VAR_2}, którego chce {STR_VAR_1}.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325788.6347804,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_644": {
   "source": "MRS.",
@@ -77230,10 +77266,13 @@
  },
  "src.txt::src.txt_2916": {
   "source": "Your trade offer was rejected.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Twoja oferta wymiany została odrzucona.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325803.6012533,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_699": {
   "source": "TEACHY TV",
@@ -77667,10 +77706,13 @@
  },
  "src.txt::src.txt_2924": {
   "source": "Please choose the TRAINER who is\\nsharing WONDER CARDS.",
-  "target": "",
-  "status": "new",
+  "target": "Proszę wybrać TRENERA, który\\nrozdaje KARTY CUDÓW.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325781.963454,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_321": {
   "source": "BRUTAL",
@@ -82492,10 +82534,13 @@
  },
  "src.txt::src.txt_2914": {
   "source": "{STR_VAR_1} can't make a trade for\\nyour POKéMON right now.\\p",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1} nie może teraz\\ndokonać wymiany twojego POKéMON.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325793.741565,
+  "touched": true
  },
  "datatext.txt::datatext.txt_667": {
   "source": "FNT stands for “fainted.”\\nA POKéMON faints if its HP is reduced\\lto zero. It becomes incapable of taking\\lpart in battle.\\lRestore a fainted POKéMON at a POKéMON\\lCENTER, or use an item.",
@@ -84447,10 +84492,13 @@
  },
  "src.txt::src.txt_2913": {
   "source": "You don't have an EGG that\\n{STR_VAR_1} wants.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Nie masz JAJKA,\\nktórego {STR_VAR_1} chce.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325790.679626,
+  "touched": true
  },
  "src.txt::src.txt_171": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\\nwas disabled!",
@@ -90164,10 +90212,13 @@
  },
  "src.txt::src.txt_2920": {
   "source": "Please choose a TRAINER for\\na SINGLE BATTLE.",
-  "target": "",
-  "status": "new",
+  "target": "Proszę wybrać TRENERA\\ndo POJEDYNCZEJ WALKI.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325780.4243832,
+  "touched": true
  },
  "src.txt::src.txt_555": {
   "source": "<<< FILE: src/berry.c >>>",
@@ -99587,10 +99638,13 @@
  },
  "src.txt::src.txt_2922": {
   "source": "Please choose the LEADER\\nfor a MULTI BATTLE.",
-  "target": "",
-  "status": "new",
+  "target": "Proszę wybrać LIDERA\\ndo WIELKIEJ BITWY.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325780.6058025,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2076": {
   "source": "HECTOR",
