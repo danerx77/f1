@@ -14547,7 +14547,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325576.7067473,
+  "updated": 1792325696.8108888,
   "touched": true
  },
  "data maps.txt::data maps.txt_1040": {
@@ -16532,7 +16532,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325702.8158991,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_209": {
   "source": "An item to be held by a POKéMON.\\nIts tricky aroma slightly reduces\\nthe foe's accuracy.",
@@ -28286,7 +28291,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790524736.0765626
+  "updated": 1792325692.1889184,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1629": {
   "source": "ISAIAH",
@@ -31739,6 +31745,17 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2949": {
+  "source": "CARDS",
+  "target": "KARTY",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325702.3625655,
+  "touched": true
+ },
  "srcdata.txt::srcdata.txt_1902": {
   "source": "GRUNT",
   "target": "",
@@ -31746,13 +31763,6 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true
- },
- "src.txt::src.txt_2949": {
-  "source": "CARDS",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_1053": {
   "source": "I study POKéMON as PROF. OAK's\\nAIDE.",
@@ -51189,7 +51199,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325683.5854833,
+  "updated": 1792325687.339372,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_29": {
@@ -68717,10 +68727,13 @@
  },
  "src.txt::src.txt_2943": {
   "source": "NAME{CLEAR_TO 0x3C}WANTED{CLEAR_TO 0x6E}OFFER{CLEAR_TO 0xC6}LV.",
-  "target": "",
-  "status": "new",
+  "target": "IMIĘ{CLEAR_TO 0x3C}POSZUKIWANY{CLEAR_TO 0x6E}OFERTA{CLEAR_TO 0xC6}LV.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325723.5987136,
+  "touched": true
  },
  "src.txt::src.txt_1940": {
   "source": "Close this MENU window.",
@@ -80526,7 +80539,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325595.2288394,
+  "updated": 1792325690.6508675,
   "touched": true
  },
  "data maps.txt::data maps.txt_1467": {
@@ -82016,7 +82029,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790524746.7325814
+  "updated": 1792325698.6024437,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2175": {
   "source": "Bwahaha!\\nGreat! I was bored, eh!",
