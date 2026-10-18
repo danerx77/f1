@@ -11517,7 +11517,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327165.3534098,
+  "updated": 1792327168.5373032,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_33": {
@@ -39572,14 +39572,13 @@
  },
  "src.txt::src.txt_2275": {
   "source": "A variety of events will be imported\\nover Wireless Communication.",
-  "target": "",
-  "status": "new",
+  "target": "Różnorodne wydarzenia będą importowane\\nprzez komunikację bezprzewodową.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326946.512296,
+  "updated": 1792327180.2349553,
   "touched": true
  },
  "datatext.txt::datatext.txt_504": {
@@ -41305,14 +41304,13 @@
  },
  "src.txt::src.txt_2276": {
   "source": "Read the WONDER CARDS in your\\npossession.",
-  "target": "",
-  "status": "new",
+  "target": "Przeczytaj KARTY\\nCUDÓW, które posiadasz.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326946.5200846,
+  "updated": 1792327191.5899758,
   "touched": true
  },
  "data maps.txt::data maps.txt_223": {
@@ -73546,10 +73544,13 @@
  },
  "src.txt::src.txt_2227": {
   "source": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Communication standby…\\nPlease wait.",
-  "target": "",
-  "status": "new",
+  "target": "Oczekiwanie na komunikację…{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}\\nProszę czekać.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327203.718444,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_83": {
   "source": "SEVAULT CANYON",
@@ -85101,10 +85102,13 @@
  },
  "src.txt::src.txt_2228": {
   "source": "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}The trade has been canceled.",
-  "target": "",
-  "status": "new",
+  "target": "Transakcja została anulowana.{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327199.4480433,
+  "touched": true
  },
  "src.txt::src.txt_2722": {
   "source": "CAMDEN",
