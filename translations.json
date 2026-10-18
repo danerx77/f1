@@ -1639,7 +1639,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.5167081,
+  "touched": true
  },
  "src.txt::src.txt_1543": {
   "source": "PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 6,500 COINS",
@@ -5788,7 +5791,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.440484,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1687": {
   "source": "We like just hanging here.\\nWhat's it to you?",
@@ -6246,7 +6252,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "auto_inserted": true,
@@ -7310,7 +7316,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.7440495,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_785": {
   "source": "GOLDEEN",
@@ -8004,7 +8013,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.9840848,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2703": {
   "source": "<<< FILE: maps/SixIsland_Mart/text.inc >>>",
@@ -13204,7 +13216,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "touched": true
@@ -14013,14 +14025,15 @@
  },
  "src.txt::src.txt_2132": {
   "source": "Special Thanks\\n\\n\\n\\n\\n\\n",
-  "target": "Specjalne podziękow\\n\\nania\\n\\n\\n\\n",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
+  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327270.0738833,
+  "updated": 1792328250.216924,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_814": {
@@ -14755,6 +14768,18 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2327": {
+  "source": "WONDER NEWS",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326907.4467263,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_1018": {
   "source": "OKAY",
   "target": "",
@@ -14771,18 +14796,6 @@
   "status": "draft",
   "notes": "",
   "ignored": false
- },
- "src.txt::src.txt_2327": {
-  "source": "WONDER NEWS",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false,
-  "cleared": true,
-  "auto_inserted": true,
-  "translator": "Antrix",
-  "updated": 1792326907.4467263,
-  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_69": {
   "source": "LOOKS",
@@ -17790,7 +17803,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.592011,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1051": {
   "source": "A POKéMON that was feared as a forest\\nguardian. It can read the foe's mind and\\ntake preemptive action.",
@@ -18808,7 +18824,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.8805897,
+  "touched": true
  },
  "datatext.txt::datatext.txt_782": {
   "source": "Hmmm?\\nThis isn't a {STR_VAR_1}.\\pThink of me if you get one.",
@@ -19198,10 +19217,10 @@
  },
  "srcdata.txt::srcdata.txt_733": {
   "source": "PREMIER BALL",
-  "target": "",
-  "status": "new",
+  "target": "PREMIER BALL",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -22077,7 +22096,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328243.0523915,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_790": {
   "source": "SAND STREAM",
@@ -22268,7 +22290,13 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325073.5494666,
+  "touched": true
  },
  "src.txt::src.txt_374": {
   "source": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} sent\\nout {B_OPPONENT_MON1_NAME}!{PAUSE 60}",
@@ -23742,7 +23770,7 @@
   "ignored": false,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1790363581.3223085,
+  "updated": 1792325409.9212008,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_44": {
@@ -24578,7 +24606,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327632.4558978,
+  "updated": 1792327689.9665813,
   "touched": true
  },
  "data maps.txt::data maps.txt_850": {
@@ -25207,7 +25235,7 @@
  },
  "datatext.txt::datatext.txt_538": {
   "source": " Using “POKéMON”",
-  "target": " Użył “POKéMON”",
+  "target": " Using “POKéMON”",
   "status": "draft",
   "notes": "",
   "ignored": false,
@@ -26697,7 +26725,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324222.4552593,
+  "updated": 1792324222.4553719,
   "touched": true
  },
  "src.txt::src.txt_2883": {
@@ -27989,7 +28017,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.7050183,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_897": {
   "source": "MOON STONE",
@@ -28266,7 +28297,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.610421,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_841": {
   "source": "WATER VEIL",
@@ -30000,11 +30034,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1790524797.9821374
+  "updated": 1790524797.9821374,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_760": {
   "source": "A medicine that revives a fainted\\\\nPOKéMON, restoring HP fully.",
@@ -32726,7 +32761,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.9500387,
+  "touched": true
  },
  "src.txt::src.txt_1442": {
   "source": "さんか する",
@@ -34462,7 +34500,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.8434644,
+  "touched": true
  },
  "src.txt::src.txt_1954": {
   "source": "1, ",
@@ -35556,12 +35597,13 @@
  },
  "src.txt::src.txt_1985": {
   "source": "TRADE",
-  "target": "HANDEL",
+  "target": "WYMIANA",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363358.5270329
+  "updated": 1792327269.0792308,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_192": {
   "source": "An item to be held by a POKéMON.\\nAn unbreakable stone that boosts\\nthe power of ROCK-type moves.",
@@ -37036,17 +37078,20 @@
   "updated": 1792324683.5386705,
   "touched": true
  },
- "srcdatapokemon.txt::srcdatapokemon.txt_302": {
-  "source": "KITTEN",
-  "target": "KOCIAK",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "src.txt::src.txt_2102": {
   "source": "Graphic Designers\\n\\n\\n\\n\\n\\n",
   "target": "",
   "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.5724416,
+  "touched": true
+ },
+ "srcdatapokemon.txt::srcdatapokemon.txt_302": {
+  "source": "KITTEN",
+  "target": "KOCIAK",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -38137,7 +38182,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328243.0701103,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1547": {
   "source": "HERMAN",
@@ -43437,8 +43485,8 @@
  },
  "src.txt::src.txt_2939": {
   "source": "GREETINGS",
-  "target": "POWITANIA",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
@@ -45118,8 +45166,8 @@
  },
  "src.txt::src.txt_2196": {
   "source": "GREETINGS",
-  "target": "",
-  "status": "new",
+  "target": "POWITANIA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
@@ -47540,7 +47588,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.6280553,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2270": {
   "source": "{PLAYER}“やあ！　こんにちは！\\nきみ　ポケモン　すきかい？\\p{PLAYER}“ぼく　じゃなくって\\nきみに　きいてるんだ　けど\\p{PLAYER}“‥‥　えー　なんだよ！\\nヘンな　やつ　だなあ！\\pモノマネむすめ“‥‥　なに？\\nひとの　マネ　すんなって？\\pだって　あたし　\\nものまね　しゅみ　なんだ　もん！”",
@@ -48296,7 +48347,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.8034215,
+  "touched": true
  },
  "src.txt::src.txt_275": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX} transformed!",
@@ -48567,7 +48621,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.686488,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1583": {
   "source": "BILLY",
@@ -48960,7 +49017,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -50719,7 +50776,7 @@
   "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325101.7698276,
+  "updated": 1792328082.0952005,
   "touched": true
  },
  "src.txt::src.txt_2030": {
@@ -50978,7 +51035,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.4593904,
+  "touched": true
  },
  "src.txt::src.txt_1625": {
   "source": "ENERGY ROOT{CLEAR_TO 0x74}{FONT_SMALL}80",
@@ -51833,7 +51893,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.933068,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1238": {
   "source": "An awesome, high-tech fishing rod.\\\\nUse it by any body of water to fish\\\\nfor wild POKéMON.",
@@ -53098,7 +53161,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.5341115,
+  "touched": true
  },
  "data.txt::data.txt_35": {
   "source": "わぁー　すごい！\\n{STR_VAR_1}{STR_VAR_3}{STR_VAR_2}だー！\\pありがとー\\nまた　よろしくねー！",
@@ -57260,7 +57326,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "auto_inserted": true,
@@ -59954,7 +60020,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328243.017814,
+  "touched": true
  },
  "datatext.txt::datatext.txt_949": {
   "source": "Would you like to exit the SAFARI\\nZONE right now?",
@@ -60365,7 +60434,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.7839434,
+  "touched": true
  },
  "src.txt::src.txt_1799": {
   "source": "もう これいじょう たべない みたい‥",
@@ -64555,7 +64627,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.966531,
+  "touched": true
  },
  "data maps.txt::data maps.txt_649": {
   "source": "Where there is light, there is\\nshadow!\\pLight and shadow!\\nWhich do you choose?",
@@ -65334,7 +65409,7 @@
  },
  "datatext.txt::datatext.txt_507": {
   "source": " Using “POKéMON”",
-  "target": " Using “POKéMON”",
+  "target": " Użył “POKéMON”",
   "status": "draft",
   "notes": "",
   "ignored": false,
@@ -75249,7 +75324,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328243.001186,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1273": {
   "source": "RM. 2 KEY",
@@ -77048,7 +77126,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -77826,10 +77904,10 @@
  },
  "srcdata.txt::srcdata.txt_345": {
   "source": "PREMIER BALL",
-  "target": "PREMIER BALL",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -79084,7 +79162,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.647221,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_241": {
   "source": "LACKS",
@@ -81053,11 +81134,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1790524797.9738693
+  "updated": 1790524797.9738693,
+  "touched": true
  },
  "src.txt::src.txt_2683": {
   "source": "MILTANK",
@@ -84214,7 +84296,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328243.0346885,
+  "touched": true
  },
  "src.txt::src.txt_1623": {
   "source": "UNION ROOM",
@@ -84448,7 +84533,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.8620307,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2691": {
   "source": "<<< FILE: maps/SixIsland_DottedHole_SapphireRoom/text.inc >>>",
@@ -88749,7 +88837,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.4795804,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1017": {
   "source": "The HALL OF FAME STICKER was\\napplied to the TRAINER CARD.",
@@ -89392,7 +89483,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.498062,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2517": {
   "source": "Nice try, but the boardroom is up\\none more floor.",
@@ -90483,7 +90577,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.6645513,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1167": {
   "source": "SUPER NERD",
@@ -91597,7 +91694,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.7245948,
+  "touched": true
  },
  "src.txt::src.txt_75": {
   "source": "{B_DEF_NAME_WITH_PREFIX} is already\\npoisoned.",
@@ -93002,7 +93102,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328243.086997,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2048": {
   "source": "MAN: Hello there, laddie!\\nHave I got a deal just for you!\\pI'll let you have a secret POKéMON\\n- a MAGIKARP - for just ¥500!\\pSo, you'll buy it, am I right?",
@@ -94844,7 +94947,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.915334,
+  "touched": true
  },
  "src.txt::src.txt_2601": {
   "source": "CLEFAIRY",
@@ -95225,7 +95331,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328243.1037698,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1445": {
   "source": "RAINBOW PASS",
@@ -96725,6 +96834,18 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_1567": {
+  "source": "BERRY CRUSH",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325101.7698276,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_219": {
   "source": "EXPENSIVE",
   "target": "",
@@ -96734,13 +96855,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586286.5678618
- },
- "src.txt::src.txt_1567": {
-  "source": "BERRY CRUSH",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "src.txt::src.txt_1575": {
   "source": "BIRTH ISLAND",
@@ -99066,7 +99180,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.897669,
+  "touched": true
  },
  "src.txt::src.txt_2459": {
   "source": "PARASECT",
@@ -100232,7 +100349,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.7643461,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_20": {
   "source": "LEARN",
@@ -100265,6 +100385,16 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2101": {
+  "source": "\\nTetsuya Watanabe\\nAkito Mori\\nHisashi Sogabe\\nSousuke Tamada\\n\\n",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.5544102,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_216": {
   "source": "OVERWHELMING",
   "target": "",
@@ -100274,13 +100404,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586286.5577765
- },
- "src.txt::src.txt_2101": {
-  "source": "\\nTetsuya Watanabe\\nAkito Mori\\nHisashi Sogabe\\nSousuke Tamada\\n\\n",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "src.txt::src.txt_2844": {
   "source": "A battle, huh?\\nAll right, just give me some time.",
@@ -102491,8 +102614,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
-  "manual_skip": true
+  "ignored": false,
+  "manual_skip": true,
+  "cleared": true,
+  "touched": true
  },
  "src.txt::src.txt_276": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\\ntook the attack!",
@@ -102843,7 +102968,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519206.868924
+  "updated": 1792327796.81022,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1636": {
   "source": "DIRK",
@@ -104578,7 +104704,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328242.8226216,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_776": {
   "source": "GHOST",
@@ -109180,7 +109309,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736687.1397307,
+  "updated": 1792328012.7844436,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_10": {
@@ -109208,7 +109337,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325381.015741,
+  "updated": 1792327942.547861,
   "touched": true
  },
  "data maps.txt::data maps.txt_1676": {
@@ -109366,24 +109495,31 @@
  },
  "src.txt::src.txt_1293": {
   "source": "TRADE",
-  "target": "WYMIE",
+  "target": "WYMIANA",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790363358.5270329
- },
- "data maps.txt::data maps.txt_478": {
-  "source": "Oh, it's you from that time…\\pI still have that thing I wanted\\nyou to have as my thanks.",
-  "target": "Och, to znowu ty…\\pOczywiście nadal trzymam dla\\nciebie mój prezent.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
+  "updated": 1792327269.0792308,
+  "touched": true
  },
  "src.txt::src.txt_2134": {
   "source": "Special Thanks\\n\\n\\n\\n\\n\\n",
   "target": "",
   "status": "new",
+  "notes": "",
+  "ignored": false,
+  "manual_skip": true,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327270.0738833,
+  "touched": true
+ },
+ "data maps.txt::data maps.txt_478": {
+  "source": "Oh, it's you from that time…\\pI still have that thing I wanted\\nyou to have as my thanks.",
+  "target": "Och, to znowu ty…\\pOczywiście nadal trzymam dla\\nciebie mój prezent.",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
