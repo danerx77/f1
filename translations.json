@@ -10315,7 +10315,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322364.2765636,
+  "updated": 1792322871.3765106,
   "touched": true
  },
  "datatext.txt::datatext.txt_949": {
@@ -49144,7 +49144,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322385.3372347,
+  "updated": 1792322877.5821211,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_2039": {
@@ -72240,12 +72240,12 @@
  },
  "datatext.txt::datatext.txt_772": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: GRASS, PSYCHIC, DARK\\p   {TRIANGLE}: FIRE, FIGHTING, POISON,\\n       FLYING, GHOST, STEEL",
-  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: TRAWA, PSYCHICZNY, MROCZNY\\p   {TRIANGLE}: OGNIOWY,\\nWALKI, TRUJĄCY, LATAJĄCY, DUCH, STALOWY",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: TRAWI, PSYCHICZNY, MROCZNY\\p   {TRIANGLE}: OGNIOWY,\\nWALKI, TRUJĄCY, LATAJĄCY, DUCH, STALOWY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322384.3021636,
+  "updated": 1792322883.413178,
   "touched": true
  },
  "src.txt::src.txt_2166": {
@@ -97583,12 +97583,12 @@
  },
  "datatext.txt::datatext.txt_752": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: GRASS, GROUND, FLYING, DRAGON\\p   {TRIANGLE}: FIRE, WATER, ICE, STEEL",
-  "target": "Wpływ na przeciwnika POKéMON:\\pTRAWA, ZIEMNY, LATAJĄCY, SMOK{CIRCLE_DOT}\\p   {TRIANGLE}: OGIEŃ, WODA, LÓD, STAL",
+  "target": "Wpływ na przeciwnika POKéMON:\\pTRAWIASTY, ZIEMNY, LATAJĄCY, SMOK{CIRCLE_DOT}\\p   {TRIANGLE}: OGIEŃ, WODA, LÓD, STAL",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322843.4143932,
+  "updated": 1792322862.219601,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1203": {
