@@ -4608,10 +4608,14 @@
  },
  "src.txt::src.txt_2865": {
   "source": "If you want to battle, you need\\ntwo POKéMON that are below\\lLv. 30.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Do walki potrzebujesz dwóch\\nPokémonów poniżej Poziomu\\l30.\\p30.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326116.3543713,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1175": {
   "source": "I hope you won't toss in the towel.\\nKeep it up.",
@@ -5117,10 +5121,14 @@
  },
  "src.txt::src.txt_2856": {
   "source": "The battle will be started.{PAUSE 60}",
-  "target": "",
-  "status": "new",
+  "target": "Rozpocznie się walka. {PAUSE 60}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326105.5027845,
+  "touched": true
  },
  "src.txt::src.txt_1962": {
   "source": "UPPER",
@@ -9194,10 +9202,14 @@
  },
  "src.txt::src.txt_2867": {
   "source": "Oh, all right.\\nCome see me anytime, okay?\\p",
-  "target": "",
-  "status": "new",
+  "target": "Och, jasna\\nsprawa. Zawsze do\\pusług!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326118.675854,
+  "touched": true
  },
  "data maps.txt::data maps.txt_579": {
   "source": "N-no way!\\nI'm not telling you that!",
@@ -20506,10 +20518,14 @@
  },
  "src.txt::src.txt_2853": {
   "source": "Sorry I made you wait!\\nLet's get started!{PAUSE 60}",
-  "target": "",
-  "status": "new",
+  "target": "Wybacz, że musiałeś czekać!\\nZaczynamy! {PAUSE 60}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326102.3272235,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_643": {
   "source": "MR.",
@@ -22948,7 +22964,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326012.8245316,
+  "updated": 1792326088.3198519,
   "touched": true
  },
  "data maps.txt::data maps.txt_1343": {
@@ -32276,10 +32292,14 @@
  },
  "src.txt::src.txt_2858": {
   "source": "Sorry! My POKéMON don't seem to\\nbe feeling too well right now.\\lLet me battle you another time.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Sorry! Przepraszam,\\nale moje Pokémony nie czują się teraz zbyt dobrze. fPowalczymy\\linnym\\prazem.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326107.7237933,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_986": {
   "source": "CLAYDOL",
@@ -36382,10 +36402,14 @@
  },
  "src.txt::src.txt_2855": {
   "source": "The trade will be started.{PAUSE 60}",
-  "target": "",
-  "status": "new",
+  "target": "Rozpocznie się wymiana. {PAUSE 60}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326104.624562,
+  "touched": true
  },
  "src.txt::src.txt_1240": {
   "source": "Your COINS:\\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}",
@@ -36970,10 +36994,14 @@
  },
  "src.txt::src.txt_2866": {
   "source": "For a battle, you need two\\nPOKéMON that are below Lv. 30.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Do walki potrzebujesz dwóch\\nPokémonów poniżej Poziomu\\l30.\\n30.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326117.523211,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_820": {
   "source": "The fluid that oozes from its mouth isn't\\ndrool. It is a nectar that is used to\\nattract prey.",
@@ -41484,10 +41512,14 @@
  },
  "src.txt::src.txt_2851": {
   "source": "Thanks for waiting!\\nLet's get our battle started!{PAUSE 60}",
-  "target": "",
-  "status": "new",
+  "target": "Dzięki!\\nWeźmy się do walki! {PAUSE 60}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326099.6308672,
+  "touched": true
  },
  "data maps.txt::data maps.txt_123": {
   "source": "Wins seem to come and go.\\nNothing's a sure thing.",
@@ -44422,10 +44454,14 @@
  },
  "src.txt::src.txt_2859": {
   "source": "I'm terribly sorry, but my POKéMON\\naren't feeling well…\\pLet's battle another time.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Przepraszam, ale moje Pokémony nie\\nczują się teraz zbyt\\pdobrze. fPowalczymy innym\\prazem.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326109.0256267,
+  "touched": true
  },
  "src.txt::src.txt_922": {
   "source": "An attack that\\nvaries in type and\\nintensity depending\\non the user.",
@@ -58638,6 +58674,17 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2868": {
+  "source": "Oh…\\nPlease come by anytime.\\p",
+  "target": "O\\nch...\\pPa.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326119.8204432,
+  "touched": true
+ },
  "datatext.txt::datatext.txt_135": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}DAISY",
   "target": "{COLOR BLUE}{SHADOW LIGHT_BLUE}DAISY",
@@ -58649,13 +58696,6 @@
   "source": "TEAM ROCKET ran away, and it's all\\nbecause of you!",
   "target": "ZESPÓŁ R zbiegł i to wszystko\\ndzięki tobie!",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2868": {
-  "source": "Oh…\\nPlease come by anytime.\\p",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -66694,10 +66734,14 @@
  },
  "src.txt::src.txt_2863": {
   "source": "If you want to do something with\\nme, don't be shy.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Daj mi znać jak będziesz\\nchciał coś ze mną\\pporobić!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326113.76455,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3300": {
   "source": "Well, now, I've had my coffee, and\\nthat's what I need to get going!\\pBut I made it too strong.\\nIt gave me a headache…\\pIncidentally, is my old TEACHY TV\\nhelping you?",
@@ -68061,7 +68105,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326083.6650088,
+  "updated": 1792326084.0477855,
   "touched": true
  },
  "data maps.txt::data maps.txt_2365": {
@@ -71145,10 +71189,14 @@
  },
  "src.txt::src.txt_2864": {
   "source": "Whoops! Sorry, but I have to do\\nsomething else.\\lAnother time, okay?\\p",
-  "target": "",
-  "status": "new",
+  "target": "Ups! Przykro mi, ale muszę zrobić\\ncoś innego.\\lfNastępnym razem,\\pdobrze?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326114.973565,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2177": {
   "source": "You sure had guts standing up to\\nme there, eh?",
@@ -95997,10 +96045,14 @@
  },
  "src.txt::src.txt_2862": {
   "source": "If you want to do something with\\nme, just give me a shout!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Daj mi znać jak będziesz\\nchciał coś ze mną\\pporobić!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326112.5684636,
+  "touched": true
  },
  "src.txt::src.txt_1566": {
   "source": "COLOSSEUM",
@@ -99277,10 +99329,14 @@
  },
  "src.txt::src.txt_2860": {
   "source": "Huh? My TRAINER CARD…\\nWhere'd it go now?\\lSorry! I'll show you another time!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Hę? Moja Karta Trenera...\\nGdzie się podziała?\\lPrzykro mi! Pokażę ci ją innym\\prazem!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326110.1963134,
+  "touched": true
  },
  "src.txt::src.txt_813": {
   "source": "The foe is clamped\\nand squeezed by\\nthe user's shell for\\ntwo to five turns.",
@@ -103070,10 +103126,14 @@
  },
  "src.txt::src.txt_2861": {
   "source": "Oh? Now where did I put my\\nTRAINER CARD?…\\lSorry! I'll show you later!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Och?\\nNow where did I put my\\nTRAINER CARD?…\\lSorry!\\nPochwalę się innym razem!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326111.4052022,
+  "touched": true
  },
  "datatext.txt::datatext.txt_515": {
   "source": " Using “{PLAYER}”",
