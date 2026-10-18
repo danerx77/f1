@@ -3797,13 +3797,13 @@
  },
  "datatext.txt::datatext.txt_713": {
   "source": "Own move type: GRASS",
-  "target": "Własny ruch Typ: BUG",
+  "target": "Własny ruch Typ: TRAWIASTY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792316873.0757825,
+  "updated": 1792316940.218694,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_317": {
@@ -11209,6 +11209,16 @@
   "ignored": true,
   "manual_skip": true
  },
+ "datatext.txt::datatext.txt_714": {
+  "source": "Own POKéMON type: GRASS",
+  "target": "POKéMON typ: TRAWIASTY",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792316936.459237,
+  "touched": true
+ },
  "srcdata.txt::srcdata.txt_1843": {
   "source": "LEAH",
   "target": "",
@@ -11216,13 +11226,6 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true
- },
- "datatext.txt::datatext.txt_714": {
-  "source": "Own POKéMON type: GRASS",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_378": {
   "source": "DISAPPOINT",
@@ -12481,7 +12484,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792316900.2212555,
+  "updated": 1792316904.2233427,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_888": {
@@ -78587,13 +78590,13 @@
  },
  "datatext.txt::datatext.txt_712": {
   "source": "Own POKéMON type: FIGHTING",
-  "target": "POKéMON typ:  Walczący",
+  "target": "POKéMON typ: Walczący",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792316846.2167773,
+  "updated": 1792316909.5199661,
   "touched": true
  },
  "datatext.txt::datatext.txt_100": {
