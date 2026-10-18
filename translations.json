@@ -133,10 +133,13 @@
  },
  "src.txt::src.txt_2815": {
   "source": "Communicating with {STR_VAR_1}{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.",
-  "target": "",
-  "status": "new",
+  "target": "Komunikowanie się z {STR_VAR_1}{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326626.6652842,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2816": {
   "source": "<<< FILE: maps/SixIsland_WaterPath_House1/text.inc >>>",
@@ -56486,10 +56489,13 @@
  },
  "src.txt::src.txt_2816": {
   "source": "Please wait a while{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.",
-  "target": "",
-  "status": "new",
+  "target": "Proszę chwilę poczekać{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326629.6394556,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1161": {
   "source": "You always get to ride your\\nPOKéMON…\\pIt looks so relaxing.\\nCan I have it if I win?",
@@ -68987,10 +68993,13 @@
  },
  "src.txt::src.txt_2813": {
   "source": "Awaiting {STR_VAR_1}'s response about\\nthe trade…",
-  "target": "",
-  "status": "new",
+  "target": "Oczekuję na odpowiedź {STR_VAR_1}\\nw sprawie wymiany…",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326643.7281003,
+  "touched": true
  },
  "src.txt::src.txt_1964": {
   "source": "OTHERS",
@@ -70372,10 +70381,13 @@
  },
  "src.txt::src.txt_2817": {
   "source": "Hiya! Is there something that you\\nwanted to do?",
-  "target": "",
-  "status": "new",
+  "target": "Cześć! Czy jest coś,\\nco chciałeś zrobić?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326637.1589456,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_926": {
   "source": "A pretty red sand with a loose,\\\\nsilky feel.\\\\nIt can be sold at a high price.",
