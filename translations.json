@@ -21110,8 +21110,8 @@
  },
  "src.txt::src.txt_2952": {
   "source": "POKéMON JUMP",
-  "target": "POKéMON SKOKI",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -64406,7 +64406,10 @@
   "target": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}STREFA SAFARI jest wielka,\\nco nie?\\pLIDER SALI w FUCHSIA - KOGA,\\npatroluje ten teren, gdy tylko może.\\pDzięki temu, możemy się bawić\\nwiedząc, że jesteśmy bezpieczni.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792329777.1017208,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1118": {
   "source": "A rough customer that wildly flails its\\ngiant claws. It is said to be extremely\\nhard to raise.",
@@ -109423,12 +109426,12 @@
  },
  "data.txt::data.txt_48": {
   "source": "Thank you for using the MYSTERY\\nGIFT System.\\pFrom the POKéMON CENTER we\\nhave a gift - a POKéMON EGG!\\pPlease raise it with love and\\nkindness.",
-  "target": "Dziękujemy za korzystanie z\\nsystemu MYSTERY GIFT.\\pZ POKéMON CENTER mamy\\nprezent - POKéMONOWE JAJO!\\pProszę wychowuj go z\\nmiłością i życzliwością.",
+  "target": "Dziękujemy za korzystanie z\\nsystemu MYSTERY GIFT.\\pZ POKéMON CENTER mamy\\nprezent POKéMONOWE JAJO!\\pProszę wychowuj go z\\nmiłością i życzliwością.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792319730.9958093,
+  "updated": 1792329762.147237,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_2022": {
