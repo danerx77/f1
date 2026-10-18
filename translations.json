@@ -64466,10 +64466,14 @@
  },
  "src.txt::src.txt_1978": {
   "source": "The registered text has been changed.\\nIs it okay to save the game?",
-  "target": "",
-  "status": "new",
+  "target": "Zarejestrowany tekst został zmieniony.\\nCzy zapisać grę?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325234.893381,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_93": {
   "source": "TRAINER TOWER",
@@ -68277,10 +68281,14 @@
  },
  "src.txt::src.txt_1982": {
   "source": "If the LEADER leaves, the chat\\nwill end. Is that okay?",
-  "target": "",
-  "status": "new",
+  "target": "Jeśli LIDER opuści, czat zostanie\\nzakończony. Czy to w porządku?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325243.5220554,
+  "touched": true
  },
  "src.txt::src.txt_1650": {
   "source": "{DYNAMIC 0x00} was deposited.",
@@ -81798,10 +81806,13 @@
  },
  "src.txt::src.txt_1977": {
   "source": "The LEADER, {DYNAMIC 0x00}, has\\nleft, ending the chat.",
-  "target": "",
-  "status": "new",
+  "target": "LIDER, {DYNAMIC 0x00},\\nopuścił, kończąc czat.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325213.994553,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1050": {
   "source": "LAIRON",
@@ -101677,7 +101688,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325203.5174232,
+  "updated": 1792325204.0811727,
   "touched": true
  },
  "data maps.txt::data maps.txt_1408": {
