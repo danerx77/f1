@@ -1311,10 +1311,13 @@
  },
  "src.txt::src.txt_1636": {
   "source": "TOTAL RECORD W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}",
-  "target": "",
-  "status": "new",
+  "target": "SUMA REKORD W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324883.6597683,
+  "touched": true
  },
  "src.txt::src.txt_2532": {
   "source": "NIDOQUEEN",
