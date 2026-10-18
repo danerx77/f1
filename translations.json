@@ -64,10 +64,11 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_161": {
   "source": "STAND",
-  "target": "STAN",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
   "updated": 1792328673.8975675,
   "touched": true
@@ -500,13 +501,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_226": {
   "source": "KISS CUSHION",
-  "target": "",
-  "status": "new",
+  "target": "PODUSZKA DO CAŁOWANIA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6522367
+  "updated": 1792328697.3329813,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_76": {
   "source": "A large poster with\\na SMOOCHUM print.",
@@ -11487,13 +11488,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_243": {
   "source": "REGISTEEL DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA REGISTEEL",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.7123845
+  "updated": 1792328702.9168823,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_751": {
   "source": "DODUO",
@@ -26118,13 +26119,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_239": {
   "source": "BLASTOISE DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA SQUIRTLE'A",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6984794
+  "updated": 1792328701.300321,
+  "touched": true
  },
  "src.txt::src.txt_113": {
   "source": "{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\\nraised DEFENSE a little!",
@@ -30563,13 +30564,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_233": {
   "source": "WATER CUSHION",
-  "target": "",
-  "status": "new",
+  "target": "PODUSZKA WODNA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6769187
+  "updated": 1792328699.3774197,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_925": {
   "source": "Only a very few people ever see this\\nPOKéMON. Its intelligence is said to\\nmatch that of humans.",
@@ -31377,12 +31378,12 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_168": {
   "source": "TV",
-  "target": "Telewizor",
+  "target": "TV",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328680.0539844,
+  "updated": 1792328728.2384045,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_679": {
@@ -32806,13 +32807,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_227": {
   "source": "ZIGZAG CUSHION",
-  "target": "",
-  "status": "new",
+  "target": "PODUSZKA Z ZYGZAKIEM",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.65594
+  "updated": 1792328697.3437257,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1804": {
   "source": "Help!",
@@ -34318,10 +34319,11 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_157": {
   "source": "SLIDE",
-  "target": "SLIDE",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
   "updated": 1792328672.848881,
   "touched": true
@@ -40489,13 +40491,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_229": {
   "source": "DIAMOND CUSHION",
-  "target": "",
-  "status": "new",
+  "target": "DIAMENTOWA PODUSZKA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6625316
+  "updated": 1792328697.663077,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1036": {
   "source": "Its arms are rock-hard. With one swing,\\nthey can batter down its foe. It makes its\\nnest on beautiful beaches.",
@@ -44626,7 +44628,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328697.1199012,
+  "updated": 1792328710.0217366,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_779": {
@@ -44811,13 +44813,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_234": {
   "source": "SNORLAX DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA SNORLAXA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6802676
+  "updated": 1792328700.0014687,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3304": {
   "source": "TRAINER TIPS\\pCatch POKéMON and expand your\\ncollection.\\pThe more you have, the easier it\\nis to battle.",
@@ -46399,13 +46401,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_238": {
   "source": "CHARIZARD DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA CHARIZARD",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.694655
+  "updated": 1792328701.6573832,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1266": {
   "source": "A device used to search for\\\\nlife-forms in water.\\\\nIt looks too difficult to use.",
@@ -57321,23 +57323,23 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_242": {
   "source": "REGICE DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LAMPA REGICE",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.7092216
+  "updated": 1792328702.4924812,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_241": {
   "source": "REGIROCK DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA REGIROCK",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.7055259
+  "updated": 1792328701.68743,
+  "touched": true
  },
  "src.txt::src.txt_1318": {
   "source": "Received the {STR_VAR_2}\\nfrom {STR_VAR_1}.{PAUSE_UNTIL_PRESS}",
@@ -64010,13 +64012,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_228": {
   "source": "SPIN CUSHION",
-  "target": "",
-  "status": "new",
+  "target": "PODUSZKA OBROTOWA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.659446
+  "updated": 1792328697.9592514,
+  "touched": true
  },
  "datatext.txt::datatext.txt_674": {
   "source": "You can adjust how quickly the text is\\ndisplayed. Choose one: SLOW, MID,\\lor FAST.",
@@ -67478,13 +67480,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_230": {
   "source": "BALL CUSHION",
-  "target": "",
-  "status": "new",
+  "target": "PODUSZKA PIŁKARSKA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6657577
+  "updated": 1792328698.6298637,
+  "touched": true
  },
  "src.txt::src.txt_1503": {
   "source": "TOUGH",
@@ -74769,13 +74771,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_231": {
   "source": "GRASS CUSHION",
-  "target": "",
-  "status": "new",
+  "target": "PODUSZKA TRAWIANA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6689694
+  "updated": 1792328698.6483772,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3155": {
   "source": "Ah, you have a TRI-PASS.\\pWould you like to board\\na SEAGALLOP ferry?",
@@ -82332,13 +82334,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_236": {
   "source": "LAPRAS DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA LAPRAS",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6866832
+  "updated": 1792328700.2228928,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3233": {
   "source": "Our CHAIRMAN is very vocal about\\nPOKéMON.",
@@ -84913,13 +84915,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_232": {
   "source": "FIRE CUSHION",
-  "target": "",
-  "status": "new",
+  "target": "PODUSZKA OGNIOWA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.672954
+  "updated": 1792328698.8938956,
+  "touched": true
  },
  "src.txt::src.txt_164": {
   "source": "{B_ATK_NAME_WITH_PREFIX} transformed\\ninto {B_BUFF1}!",
@@ -100241,13 +100243,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_237": {
   "source": "VENUSAUR DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA WULFENUSAURA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.690945
+  "updated": 1792328700.5529864,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2784": {
   "source": "A battle with you, so high up!",
@@ -102917,13 +102919,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_235": {
   "source": "RHYDON DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA RHYDON",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.683556
+  "updated": 1792328699.833771,
+  "touched": true
  },
  "src.txt::src.txt_663": {
   "source": "KELPSY",
@@ -104222,13 +104224,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_240": {
   "source": "WAILMER DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA WAILMER",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.7016764
+  "updated": 1792328702.407808,
+  "touched": true
  },
  "datatext.txt::datatext.txt_462": {
   "source": "You become the main character,\\nexploring the world of POKéMON.\\lBy talking to people and solving\\lmysteries, new paths will open to you.\\lStrive for the goal together with your\\lwonderful POKéMON.",
@@ -106917,7 +106919,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328678.7355278,
+  "updated": 1792328737.1064537,
   "touched": true
  },
  "src.txt::src.txt_1520": {

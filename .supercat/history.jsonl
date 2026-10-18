@@ -5012,3 +5012,6 @@
 {"time": "2026-10-18T15:02:34", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "POKéMON SK", "new": "POKéMON SKO", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T15:02:34", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "POKéMON SKO", "new": "POKéMON SKOK", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T15:02:34", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "POKéMON SKOK", "new": "POKéMON SKOKI", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:05:12", "file": "srcdatadecoration.txt", "seg_id": "srcdatadecoration.txt_157", "source": "SLIDE", "old": "SLIDE", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T15:05:20", "file": "srcdatadecoration.txt", "seg_id": "srcdatadecoration.txt_161", "source": "STAND", "old": "STAN", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T15:05:25", "file": "srcdatadecoration.txt", "seg_id": "srcdatadecoration.txt_168", "source": "TV", "old": "Telewizor", "new": "TV", "translator": "Antrix", "method": "manual"}
