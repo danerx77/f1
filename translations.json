@@ -14098,7 +14098,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325603.5926187,
+  "updated": 1792325603.6144946,
   "touched": true
  },
  "src.txt::src.txt_2081": {
@@ -51184,12 +51184,12 @@
  },
  "src.txt::src.txt_2964": {
   "source": "BATTLES: {DYNAMIC 0} WINS  {DYNAMIC 2} LOSSES\\nTRADES:  {DYNAMIC 3} TIMES\\p“{DYNAMIC 4} {DYNAMIC 5}\\n{DYNAMIC 6} {DYNAMIC 7}”\\p",
-  "target": "BITWY: {DYNAMIC 0} ZWYCIĘSTWA {DYNAMIC 2}\\nPORAŻKI TRANSAKCJE: {DYNAMIC 3} RAZY\\p„{DYNAMIC 4} {DYNAMIC 5}\\n{DYNAMIC 6} {DYNAMIC 7}”\\p",
+  "target": "BITWY: {DYNAMIC 0} ZWYCIĘSTWA {DYNAMIC 2}\\nPORAŻKI WYMIANY: {DYNAMIC 3} CZAS\\p„{DYNAMIC 4} {DYNAMIC 5}\\n{DYNAMIC 6} {DYNAMIC 7}”\\p",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325596.308956,
+  "updated": 1792325643.5724747,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_29": {
@@ -96278,7 +96278,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325597.3594337,
+  "updated": 1792325607.3994966,
   "touched": true
  },
  "data maps.txt::data maps.txt_347": {
