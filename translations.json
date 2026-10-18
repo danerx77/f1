@@ -7152,10 +7152,13 @@
  },
  "src.txt::src.txt_1973": {
   "source": "{DYNAMIC 0x00} left the chat.",
-  "target": "",
-  "status": "new",
+  "target": "{DYNAMIC 0x00} opuścił czat.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327801.8785045,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_355": {
   "source": "GIDDY",
@@ -11166,10 +11169,14 @@
  },
  "src.txt::src.txt_1970": {
   "source": "Register text here?",
-  "target": "",
-  "status": "new",
+  "target": "Zarejestruj tekst tutaj?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327801.6761067,
+  "touched": true
  },
  "src.txt::src.txt_1314": {
   "source": "MAIL must be removed before\\nholding an item.{PAUSE_UNTIL_PRESS}",
@@ -15820,14 +15827,13 @@
  },
  "src.txt::src.txt_1968": {
   "source": "Quit chatting?",
-  "target": "",
-  "status": "new",
+  "target": "Przestać rozmawiać?",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325172.0935588,
+  "updated": 1792327803.4984267,
   "touched": true
  },
  "data maps.txt::data maps.txt_1883": {
@@ -21018,10 +21024,14 @@
  },
  "src.txt::src.txt_1971": {
   "source": "Input text.",
-  "target": "",
-  "status": "new",
+  "target": "Wprowadź tekst.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327801.6640081,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_769": {
   "source": "CUTE",
@@ -26853,7 +26863,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519214.9362485
+  "updated": 1792327796.81022,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_403": {
   "source": "SURPRISE",
@@ -63393,10 +63404,14 @@
  },
  "src.txt::src.txt_1969": {
   "source": "Register text where?",
-  "target": "",
-  "status": "new",
+  "target": "Gdzie zarejestrować tekst?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327803.7189932,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2997": {
   "source": "Where are you off to in such\\na hurry?",
@@ -82566,10 +82581,13 @@
  },
  "src.txt::src.txt_1972": {
   "source": "{DYNAMIC 0x00} joined the chat!",
-  "target": "",
-  "status": "new",
+  "target": "{DYNAMIC 0x00} dołączył do czatu!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327801.8453023,
+  "touched": true
  },
  "src.txt::src.txt_1221": {
   "source": "DEPOSIT ITEM",

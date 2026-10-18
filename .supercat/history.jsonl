@@ -4910,3 +4910,9 @@
 {"time": "2026-10-18T14:48:47", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "CENTRUM WYM", "new": "CENTRUM WYMI", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:48:47", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "CENTRUM WYMI", "new": "CENTRUM WYMIA", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:48:47", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "CENTRUM WYMIA", "new": "CENTRUM WYMIAN", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:49:50", "file": "src.txt", "seg_id": "src.txt_1970", "source": "Register text here?", "old": "", "new": "If the LEADER leaves, the chat\\nwill end. Is that okay?", "translator": "Antrix", "method": "auto_tm"}
+{"time": "2026-10-18T14:49:50", "file": "src.txt", "seg_id": "src.txt_1970", "source": "Register text here?", "old": "", "new": "If the LEADER leaves, the chat\\nwill end. Is that okay?", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:49:51", "file": "src.txt", "seg_id": "src.txt_1969", "source": "Register text where?", "old": "", "new": "Register text where?", "translator": "Antrix", "method": "auto_tm", "tm_source": " Register text here? → If the LEADER leaves, the chat)"}
+{"time": "2026-10-18T14:49:51", "file": "src.txt", "seg_id": "src.txt_1969", "source": "Register text where?", "old": "", "new": "Register text where?", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:49:52", "file": "src.txt", "seg_id": "src.txt_1971", "source": "Input text.", "old": "", "new": "Input text.", "translator": "Antrix", "method": "auto_tm", "tm_source": " Register text where?<<KON>> → Register text where?)"}
+{"time": "2026-10-18T14:49:52", "file": "src.txt", "seg_id": "src.txt_1971", "source": "Input text.", "old": "", "new": "Input text.", "translator": "Antrix", "method": "manual"}
