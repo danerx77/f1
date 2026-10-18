@@ -13951,10 +13951,14 @@
  },
  "datascript.txt::datascript.txt_58": {
   "source": "“DODRIO BERRY-PICKING”\\pCommand DODRIO's three heads to\\ncatch falling BERRIES.\\pPress right, up, or left on the\\n{PLUS} Control Pad to move the heads.\\pTo play this game, you must have\\na DODRIO.",
-  "target": "",
-  "status": "new",
+  "target": "„DODRIO ZBIÓR OWOCÓW”\\pRozkaż trzem głowom DODRIO,\\naby łapały spadające JAGODY.\\pNaciśnij w prawo, w górę lub w lewo\\nna padzie sterującym {PLUS} , aby poruszać głowami.\\pAby grać w tę\\ngrę, musisz mieć DODRIO.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792320254.5450866,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_84": {
   "source": "Raises the PP of a selected move\\nto its maximum level for one\\nPOKéMON.",
@@ -35386,7 +35390,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792320158.9030037,
+  "updated": 1792320274.7236266,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_526": {
@@ -78621,7 +78625,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792320155.7692158,
+  "updated": 1792320278.1354554,
   "touched": true
  },
  "src.txt::src.txt_2764": {
