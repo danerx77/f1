@@ -25097,10 +25097,13 @@
  },
  "src.txt::src.txt_2869": {
   "source": "Oh, sorry!\\nI just can't right this instant.\\lLet's chat another time.\\p",
-  "target": "",
-  "status": "new",
+  "target": "O, przepraszam!\\nPo prostu nie mogę w tej chwili.\\lPorozmawiajmy innym razem.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326436.8215668,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_801": {
   "source": "SHOAL SALT",
@@ -58703,13 +58706,13 @@
  },
  "src.txt::src.txt_2868": {
   "source": "Oh…\\nPlease come by anytime.\\p",
-  "target": "Och...Wpadnij w każdej\\pchwili.",
+  "target": "Och...\\nWpadnij w każdej chwili.\\p",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326404.7972918,
+  "updated": 1792326419.9974995,
   "touched": true
  },
  "datatext.txt::datatext.txt_135": {
@@ -68460,10 +68463,13 @@
  },
  "src.txt::src.txt_2870": {
   "source": "Oh, I'm sorry.\\nI have too much to do right now.\\lLet's chat some other time.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Och, przepraszam.\\nMam teraz za dużo do zrobienia.\\lPorozmawiajmy innym razem.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326439.3349268,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_255": {
   "source": "TIMES",
@@ -71389,7 +71395,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326124.739897,
+  "updated": 1792326441.4361522,
   "touched": true
  },
  "datatext.txt::datatext.txt_594": {
@@ -96596,7 +96602,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326125.769854,
+  "updated": 1792326443.2904046,
   "touched": true
  },
  "data maps.txt::data maps.txt_2711": {
@@ -100850,7 +100856,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326126.951781,
+  "updated": 1792326443.7042449,
   "touched": true
  },
  "src.txt::src.txt_617": {
