@@ -4999,3 +4999,7 @@
 {"time": "2026-10-18T15:01:22", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymieiający:", "new": "Ludzie wymierający:", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T15:01:31", "file": "src.txt", "seg_id": "src.txt_2240", "source": "People in the UNION ROOM:", "old": "Ludzie w POKOJU UNII:", "new": "Ludzie w POKOJU UNION :", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T15:01:33", "file": "src.txt", "seg_id": "src.txt_2240", "source": "People in the UNION ROOM:", "old": "Ludzie w POKOJU UNION :", "new": "Ludzie w POKOJU UNION:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:54", "file": "src.txt", "seg_id": "src.txt_2331", "source": "RECEIVE", "old": "", "new": "OTRZYMAJ", "translator": "Antrix", "method": "auto_tm", "tm_source": " Wireless Communication Status< → Wireless Communication Status)"}
+{"time": "2026-10-18T15:01:54", "file": "src.txt", "seg_id": "src.txt_2331", "source": "RECEIVE", "old": "", "new": "OTRZYMAJ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:02:08", "file": "src.txt", "seg_id": "src.txt_2939", "source": "GREETINGS", "old": "", "new": "POWITANIA", "translator": "Antrix", "method": "auto_tm", "tm_source": " RECEIVE → OTRZYMAJ)"}
+{"time": "2026-10-18T15:02:08", "file": "src.txt", "seg_id": "src.txt_2939", "source": "GREETINGS", "old": "", "new": "POWITANIA", "translator": "Antrix", "method": "manual"}

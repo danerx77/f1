@@ -6251,7 +6251,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328506.2136974,
+  "touched": true
  },
  "src.txt::src.txt_512": {
   "source": "\\n",
@@ -7748,7 +7751,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328525.5762072,
+  "touched": true
  },
  "data maps.txt::data maps.txt_971": {
   "source": "I traded POKéMON with my boyfriend\\nfar away!\\pEveryone's saying that we can\\nthank you and CELIO.\\pSo, thank you!",
@@ -43520,13 +43526,13 @@
  },
  "src.txt::src.txt_2939": {
   "source": "GREETINGS",
-  "target": "",
-  "status": "new",
+  "target": "POWITANIA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736821.6129003,
+  "updated": 1792328535.0631094,
   "touched": true
  },
  "data maps.txt::data maps.txt_569": {
@@ -101541,17 +101547,21 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2331": {
+  "source": "RECEIVE",
+  "target": "OTRZYMAJ",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792328522.7903433,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_674": {
   "source": "What?\\nNo EGG should know any moves.",
   "target": "Co?\\nJAJKA nie potrafią atakować.",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2331": {
-  "source": "RECEIVE",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -104079,7 +104089,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328497.0852764,
+  "updated": 1792328503.148075,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_167": {
