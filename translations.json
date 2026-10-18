@@ -9852,10 +9852,14 @@
  },
  "datatext.txt::datatext.txt_731": {
   "source": "Own move type: FLYING",
-  "target": "",
-  "status": "new",
+  "target": "FNT",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319216.9851654,
+  "touched": true
  },
  "data maps.txt::data maps.txt_861": {
   "source": "<<< FILE: maps/OneIsland_House2/text.inc >>>",
@@ -35180,7 +35184,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792319175.5259979,
+  "updated": 1792319200.336938,
   "touched": true
  },
  "src.txt::src.txt_1276": {
@@ -44310,10 +44314,14 @@
  },
  "datatext.txt::datatext.txt_729": {
   "source": "Own move type: STEEL",
-  "target": "",
-  "status": "new",
+  "target": "Własny ruch Typ: STALOWY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319204.273436,
+  "touched": true
  },
  "data maps.txt::data maps.txt_716": {
   "source": "Yo!\\nChamp in the making!\\pAt the POKéMON LEAGUE, you will\\nface the ELITE FOUR all in a row.\\pIf you lose, you have to start all\\nover again!\\pThis is it!\\nGo for it!",
@@ -92916,10 +92924,14 @@
  },
  "datatext.txt::datatext.txt_730": {
   "source": "Own POKéMON type: STEEL",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON typ: STALOWY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319213.6922636,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_281": {
   "source": "A rapid jolt of electricity strikes\\nthe foe. This attack is impossible\\nto evade.",
@@ -103228,6 +103240,17 @@
   "translator": "Antrix",
   "updated": 1790505893.008147
  },
+ "datatext.txt::datatext.txt_728": {
+  "source": "Own POKéMON type: NORMAL",
+  "target": "POKéMON typ: NORMALNY",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319187.9305642,
+  "touched": true
+ },
  "srcdatadecoration.txt::srcdatadecoration.txt_183": {
   "source": "THUNDER MAT",
   "target": "",
@@ -103237,13 +103260,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586295.5049613
- },
- "datatext.txt::datatext.txt_728": {
-  "source": "Own POKéMON type: NORMAL",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdata.txt::srcdata.txt_1980": {
   "source": "LAYTON",
