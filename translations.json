@@ -794,10 +794,13 @@
  },
  "src.txt::src.txt_2238": {
   "source": "People trading:",
-  "target": "",
-  "status": "new",
+  "target": "Ludzie wymierający:",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792328484.338503,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_200": {
   "source": "NOISY",
@@ -30014,10 +30017,13 @@
  },
  "src.txt::src.txt_2240": {
   "source": "People in the UNION ROOM:",
-  "target": "",
-  "status": "new",
+  "target": "Ludzie w POKOJU UNION:",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792328493.5483916,
+  "touched": true
  },
  "data maps.txt::data maps.txt_747": {
   "source": "Did you buy some REVIVES?\\nThey revive any fainted POKéMON!",
@@ -49956,10 +49962,13 @@
  },
  "src.txt::src.txt_2239": {
   "source": "People battling:",
-  "target": "",
-  "status": "new",
+  "target": "Ludzie walczący:",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792328486.0744324,
+  "touched": true
  },
  "src.txt::src.txt_1417": {
   "source": "ITEM STORAGE",
@@ -51705,13 +51714,13 @@
  },
  "src.txt::src.txt_2237": {
   "source": "Wireless Communication Status",
-  "target": "Wireless Communication Status",
+  "target": "Status komunikacji bezprzewodowej",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792328457.042526,
+  "updated": 1792328460.391888,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1096": {
@@ -104065,10 +104074,13 @@
  },
  "src.txt::src.txt_2241": {
   "source": "People communicating:",
-  "target": "",
-  "status": "new",
+  "target": "Ludzie komunikujący się:",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792328497.0852764,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_167": {
   "source": "GLASS ORNAMENT",

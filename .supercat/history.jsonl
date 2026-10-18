@@ -4979,3 +4979,23 @@
 {"time": "2026-10-18T14:58:04", "file": "src.txt", "seg_id": "src.txt_2174", "source": "\\n\\nGraphic Designer\\n\\n\\n\\n", "old": "Projektantem Graficzn\\n\\nym!\\n\\n\\n\\n", "new": "", "translator": "Antrix", "method": "clear"}
 {"time": "2026-10-18T15:00:48", "file": "src.txt", "seg_id": "src.txt_2237", "source": "Wireless Communication Status", "old": "", "new": "Wireless Communication Status", "translator": "Antrix", "method": "auto_tm"}
 {"time": "2026-10-18T15:00:48", "file": "src.txt", "seg_id": "src.txt_2237", "source": "Wireless Communication Status", "old": "", "new": "Wireless Communication Status", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:08", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie handlujący:", "new": "Ludzie w:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:08", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie w:", "new": "Ludzie wy:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:09", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wy:", "new": "Ludzie wym:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:09", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wym:", "new": "Ludzie wymi:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:10", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymi:", "new": "Ludzie wymie:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:10", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymie:", "new": "Ludzie wymien:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:10", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymien:", "new": "Ludzie wymieni:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:10", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymieni:", "new": "Ludzie wymienia:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:12", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymienia:", "new": "Ludzie wymieni:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:12", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymieni:", "new": "Ludzie wymien:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:12", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymien:", "new": "Ludzie wymie:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:17", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymie:", "new": "Ludzie wymiei:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:17", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymiei:", "new": "Ludzie wymieia:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:18", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymieia:", "new": "Ludzie wymieiaj:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:18", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymieiaj:", "new": "Ludzie wymieiają:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:18", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymieiają:", "new": "Ludzie wymieiając:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:18", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymieiając:", "new": "Ludzie wymieiający:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:22", "file": "src.txt", "seg_id": "src.txt_2238", "source": "People trading:", "old": "Ludzie wymieiający:", "new": "Ludzie wymierający:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:31", "file": "src.txt", "seg_id": "src.txt_2240", "source": "People in the UNION ROOM:", "old": "Ludzie w POKOJU UNII:", "new": "Ludzie w POKOJU UNION :", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:01:33", "file": "src.txt", "seg_id": "src.txt_2240", "source": "People in the UNION ROOM:", "old": "Ludzie w POKOJU UNION :", "new": "Ludzie w POKOJU UNION:", "translator": "Antrix", "method": "manual"}
