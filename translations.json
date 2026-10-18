@@ -3203,13 +3203,13 @@
  },
  "src.txt::src.txt_2298": {
   "source": "You already had that\\nSTAMP.",
-  "target": "You already had that\\nSTAMP.",
+  "target": "Ty już\\nmiałeś tę PIECZĘĆ.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326975.3657932,
+  "updated": 1792327024.2913973,
   "touched": true
  },
  "data.txt::data.txt_14": {
@@ -3565,13 +3565,13 @@
  },
  "src.txt::src.txt_2289": {
   "source": "You haven't received the CARD's gift\\nyet. Input a new CARD anyway?",
-  "target": "You haven't received the CARD's gift\\nyet. Input a new CARD anyway?",
+  "target": "Nie otrzymałeś jeszcze prezentu z KARTY.\\nWpisać nową KARTĘ mimo to?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326964.5742557,
+  "updated": 1792327041.415996,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_223": {
@@ -10780,13 +10780,13 @@
  },
  "src.txt::src.txt_2305": {
   "source": "What would you like to do\\nwith the WONDER NEWS?",
-  "target": "What would you like to do\\nwith the WONDER NEWS?",
+  "target": "Co chciałbyś zrobić\\nz WONDER NEWS?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326984.1368256,
+  "updated": 1792327026.965871,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_944": {
@@ -13643,13 +13643,13 @@
  },
  "src.txt::src.txt_2300": {
   "source": "Your record has been uploaded via\\nWIRELESS COMMUNICATION.",
-  "target": "Communication has been canceled.",
+  "target": "Twój rekord został przesłany\\nza pomocą KOMUNIKACJI BEZPRZEWODOWEJ.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326977.6148822,
+  "updated": 1792327025.365265,
   "touched": true
  },
  "src.txt::src.txt_2447": {
@@ -19246,13 +19246,13 @@
  },
  "src.txt::src.txt_2301": {
   "source": "You can't accept a WONDER CARD\\nfrom this TRAINER.",
-  "target": "You can't accept a WONDER CARD\\nfrom this TRAINER.",
+  "target": "Nie możesz przyjąć KARTY\\nCUDU od tego TRENERA.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326978.7817261,
+  "updated": 1792327025.4902995,
   "touched": true
  },
  "src.txt::src.txt_1722": {
@@ -24452,13 +24452,13 @@
  },
  "src.txt::src.txt_2297": {
   "source": "You already had that\\nWONDER NEWS item.",
-  "target": "You already had that\\nWONDER NEWS item.",
+  "target": "Już miałeś\\ntę FANTASTYCZNĄ WIADOMOŚĆ.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326973.9758656,
+  "updated": 1792327024.250829,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_672": {
@@ -24742,13 +24742,13 @@
  },
  "src.txt::src.txt_2306": {
   "source": "Sending your WONDER CARD…",
-  "target": "Sending your WONDER CARD…",
+  "target": "Wysyłanie twojej KARTY CUDÓW…",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326985.230612,
+  "updated": 1792327027.0951385,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_883": {
@@ -28213,13 +28213,13 @@
  },
  "src.txt::src.txt_2307": {
   "source": "Sending your WONDER NEWS item…",
-  "target": "Sending your WONDER NEWS item…",
+  "target": "Wysyłanie Twojej wiadomości WONDER NEWS…",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326986.091154,
+  "updated": 1792327027.8661902,
   "touched": true
  },
  "src.txt::src.txt_1050": {
@@ -29677,13 +29677,13 @@
  },
  "src.txt::src.txt_2318": {
   "source": "Is it okay to discard this\\nNEWS item?",
-  "target": "Is it okay to discard this\\nNEWS item?",
+  "target": "Czy można\\nodrzucić tę wiadomość?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327001.1171455,
+  "updated": 1792327031.2446218,
   "touched": true
  },
  "src.txt::src.txt_2637": {
@@ -35500,10 +35500,13 @@
  },
  "src.txt::src.txt_2291": {
   "source": "A WONDER NEWS item has been\\nreceived from {STR_VAR_1}.",
-  "target": "",
-  "status": "new",
+  "target": "Otrzymano wspaniałą\\nwiadomość od {STR_VAR_1}.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327023.1655283,
+  "touched": true
  },
  "data maps.txt::data maps.txt_944": {
   "source": "CELIO: {PLAYER}, I'm really sorry\\nthat we sent you off alone today.\\pI promise, I will show you around\\nthese islands sometime.",
@@ -36099,13 +36102,13 @@
  },
  "src.txt::src.txt_2312": {
   "source": "The other TRAINER has the same\\nWONDER CARD already.",
-  "target": "The other TRAINER has the same\\nWONDER CARD already.",
+  "target": "Drugi TRENER ma już\\ntę samą KARTĘ CUDU.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326993.8395343,
+  "updated": 1792327029.1746702,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_182": {
@@ -45390,13 +45393,13 @@
  },
  "src.txt::src.txt_2296": {
   "source": "You already had that\\nWONDER CARD.",
-  "target": "You already had that\\nWONDER CARD.",
+  "target": "Już miałeś\\ntę KARTĘ CUDÓW.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326972.8451982,
+  "updated": 1792327024.0241199,
   "touched": true
  },
  "data maps.txt::data maps.txt_126": {
@@ -46973,13 +46976,13 @@
  },
  "src.txt::src.txt_2303": {
   "source": "Nothing was sent over…",
-  "target": "Nothing was sent over…",
+  "target": "Nic nie zostało wysłane…",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326982.0138714,
+  "updated": 1792327026.7169197,
   "touched": true
  },
  "src.txt::src.txt_2603": {
@@ -47722,13 +47725,13 @@
  },
  "src.txt::src.txt_2302": {
   "source": "You can't accept WONDER NEWS\\nfrom this TRAINER.",
-  "target": "You can't accept WONDER NEWS\\nfrom this TRAINER.",
+  "target": "Nie możesz zaakceptować WONDER\\nNEWS od tego TRENERA.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326981.0192368,
+  "updated": 1792327025.964534,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_402": {
@@ -53384,13 +53387,13 @@
  },
  "src.txt::src.txt_2299": {
   "source": "There's no more room for adding\\nSTAMPS.",
-  "target": "There's no more room for adding\\nSTAMPS.",
+  "target": "Nie ma już miejsca\\nna dodawanie ZNACZKÓW.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326976.47234,
+  "updated": 1792327025.8011215,
   "touched": true
  },
  "datatext.txt::datatext.txt_361": {
@@ -55989,13 +55992,13 @@
  },
  "src.txt::src.txt_2313": {
   "source": "The other TRAINER has the same\\nWONDER NEWS already.",
-  "target": "The other TRAINER has the same\\nWONDER NEWS already.",
+  "target": "Drugi TRENER ma już\\nte same NOWINY O CZUDACH.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326995.1794004,
+  "updated": 1792327030.1141958,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_788": {
@@ -59156,13 +59159,13 @@
  },
  "src.txt::src.txt_2295": {
   "source": "A new TRAINER has arrived.",
-  "target": "A new WONDER NEWS item has been\\nreceived.",
+  "target": "Nowy TRENER przybył.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326971.86831,
+  "updated": 1792327024.020981,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_13": {
@@ -62830,7 +62833,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326959.3235228,
+  "updated": 1792327017.3240755,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_240": {
@@ -63125,10 +63128,14 @@
  },
  "src.txt::src.txt_2320": {
   "source": "Data will be saved.\\nPlease wait.",
-  "target": "",
-  "status": "new",
+  "target": "Dane zostaną zapisane.\\nProszę czekać.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327032.704899,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1154": {
   "source": "Come again!",
@@ -66147,13 +66154,13 @@
  },
  "src.txt::src.txt_2317": {
   "source": "If you throw away the CARD,\\nits event won't happen. Okay?",
-  "target": "If you throw away the CARD,\\nits event won't happen. Okay?",
+  "target": "Jeśli wyrzucisz KARTĘ, jej wydarzenie\\nsię nie wydarzy. W porządku?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326999.7509365,
+  "updated": 1792327031.260014,
   "touched": true
  },
  "datatext.txt::datatext.txt_341": {
@@ -66714,10 +66721,13 @@
  },
  "src.txt::src.txt_2308": {
   "source": "Your WONDER CARD has been sent\\nto {STR_VAR_1}.",
-  "target": "",
-  "status": "new",
+  "target": "Twoja KARTA CUDU została\\nwysłana do {STR_VAR_1}.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327027.9748428,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1441": {
   "source": "I'm too tired.\\nI wasn't up for it.",
@@ -75254,13 +75264,13 @@
  },
  "src.txt::src.txt_2288": {
   "source": "Throw away the WONDER CARD\\nand input a new CARD?",
-  "target": "Throw away the WONDER CARD\\nand input a new CARD?",
+  "target": "Wyrzucić KARTĘ CUD i\\nwprowadzić nową KARTĘ?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326963.5459452,
+  "updated": 1792327039.195233,
   "touched": true
  },
  "datatext.txt::datatext.txt_1054": {
@@ -79238,13 +79248,13 @@
  },
  "src.txt::src.txt_2304": {
   "source": "What would you like to do\\nwith the WONDER CARDS?",
-  "target": "What would you like to do\\nwith the WONDER CARDS?",
+  "target": "Co chciałbyś zrobić\\nz KARTAMI CUDÓW?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326983.0647423,
+  "updated": 1792327026.8245559,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_784": {
@@ -84327,13 +84337,13 @@
  },
  "src.txt::src.txt_2319": {
   "source": "You haven't received the\\nGIFT. Is it okay to discard?",
-  "target": "You haven't received the\\nGIFT. Is it okay to discard?",
+  "target": "Nie otrzymałeś PREZENTU. Czy\\nmożna go wyrzucić?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327002.862501,
+  "updated": 1792327031.5295947,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_15": {
@@ -85101,10 +85111,13 @@
  },
  "src.txt::src.txt_2309": {
   "source": "Your WONDER NEWS item has been\\nsent to {STR_VAR_1}.",
-  "target": "",
-  "status": "new",
+  "target": "Twój artykuł WONDER NEWS\\nzostał wysłany do {STR_VAR_1}.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327028.3488672,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_517": {
   "source": "Its two long pincer horns are powerful.\\nOnce they grip an enemy, they won't\\nrelease until the foe is torn.",
@@ -85344,13 +85357,13 @@
  },
  "src.txt::src.txt_2294": {
   "source": "A new STAMP has been received.",
-  "target": "A new STAMP has been received.",
+  "target": "Otrzymano nową pieczątkę.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326971.0127575,
+  "updated": 1792327023.0344367,
   "touched": true
  },
  "datatext.txt::datatext.txt_537": {
@@ -87808,13 +87821,13 @@
  },
  "src.txt::src.txt_2292": {
   "source": "A new WONDER CARD has been\\nreceived.",
-  "target": "You can’t accept a WONDER CARD\\nfrom this TRAINER.",
+  "target": "Otrzymano nową\\nKARTĘ CUDU.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326968.5516174,
+  "updated": 1792327022.9346237,
   "touched": true
  },
  "data maps.txt::data maps.txt_1678": {
@@ -89654,10 +89667,13 @@
  },
  "src.txt::src.txt_2290": {
   "source": "A WONDER CARD has been received\\nfrom {STR_VAR_1}.",
-  "target": "",
-  "status": "new",
+  "target": "ODBIERZONO KARTĘ\\nCUDU od {STR_VAR_1}.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327043.7528875,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_932": {
   "source": "Be careful if it turns its back during\\nbattle. It means that it will attack with\\nthe fire on its back.",
@@ -91586,13 +91602,13 @@
  },
  "src.txt::src.txt_2293": {
   "source": "A new WONDER NEWS item has been\\nreceived.",
-  "target": "A new TRAINER has arrived.",
+  "target": "Otrzymano nowy\\nelement wiadomości WONDER.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326970.0361733,
+  "updated": 1792327022.986783,
   "touched": true
  },
  "data maps.txt::data maps.txt_2540": {
@@ -102049,13 +102065,13 @@
  },
  "src.txt::src.txt_2314": {
   "source": "The other TRAINER has the same\\nSTAMP already.",
-  "target": "The other TRAINER has the same\\nSTAMP already.",
+  "target": "Drugi TRENER ma już\\ntę samą PIECZĘĆ.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326996.3847675,
+  "updated": 1792327029.8938937,
   "touched": true
  },
  "datatext.txt::datatext.txt_1168": {
@@ -105450,13 +105466,13 @@
  },
  "src.txt::src.txt_2315": {
   "source": "The other TRAINER canceled\\ncommunication.",
-  "target": "The other TRAINER canceled\\ncommunication.",
+  "target": "Drugi TRENER\\nanulował komunikację.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326997.5425663,
+  "updated": 1792327030.1464977,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_794": {
@@ -109334,13 +109350,13 @@
  },
  "src.txt::src.txt_2287": {
   "source": "Communication has been canceled.",
-  "target": "Wyszukiwanie SYSTEMU KOMUNIKACJI\\nBEZPRZEWODOWEJ zostało anulowane.",
+  "target": "Komunikacja została anulowana.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326962.2332,
+  "updated": 1792327036.2819812,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1064": {
@@ -109573,10 +109589,13 @@
  },
  "src.txt::src.txt_2310": {
   "source": "A STAMP has been sent to {STR_VAR_1}.",
-  "target": "",
-  "status": "new",
+  "target": "ZNACZEK został wysłany do {STR_VAR_1}.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327028.4963567,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_700": {
   "source": "NIDORINO",
@@ -109748,17 +109767,20 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2311": {
+  "source": "A GIFT has been sent to {STR_VAR_1}.",
+  "target": "PREZENT został wysłany do {STR_VAR_1}.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327028.9749043,
+  "touched": true
+ },
  "srcdataregionmap.txt::srcdataregionmap.txt_171": {
   "source": "FIVE ISLAND",
   "target": "WYSPA FIVE",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2311": {
-  "source": "A GIFT has been sent to {STR_VAR_1}.",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -110398,13 +110420,13 @@
  },
  "src.txt::src.txt_2316": {
   "source": "You can't send a MYSTERY GIFT to\\nthis TRAINER.",
-  "target": "You can't send a MYSTERY GIFT to\\nthis TRAINER.",
+  "target": "Nie możesz wysłać TAJEMNICZEGO\\nPREZENTU temu TRENEROWI.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326998.6710954,
+  "updated": 1792327030.4438612,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1045": {
