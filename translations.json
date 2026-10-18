@@ -2045,10 +2045,13 @@
  },
  "src.txt::src.txt_2960": {
   "source": "It's a COPPER CARD!",
-  "target": "",
-  "status": "new",
+  "target": "To jest MIEDZIANA KARTA!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325601.853902,
+  "touched": true
  },
  "src.txt::src.txt_1479": {
   "source": "Left",
@@ -14090,10 +14093,13 @@
  },
  "src.txt::src.txt_2962": {
   "source": "It's a GOLD CARD!",
-  "target": "",
-  "status": "new",
+  "target": "To ZŁOTA KARTA!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325603.5926187,
+  "touched": true
  },
  "src.txt::src.txt_2081": {
   "source": "Pressing-Power Rankings",
@@ -14536,10 +14542,13 @@
  },
  "src.txt::src.txt_2967": {
   "source": "Finished checking {DYNAMIC 1}'s\\nTRAINER CARD.{PAUSE 60}",
-  "target": "",
-  "status": "new",
+  "target": "Zakończono sprawdzanie KARTY TRENERA\\n{DYNAMIC 1}.{PAUSE 60}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325576.7067473,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1040": {
   "source": "{PLAYER} received five POKé BALLS.",
@@ -51175,10 +51184,13 @@
  },
  "src.txt::src.txt_2964": {
   "source": "BATTLES: {DYNAMIC 0} WINS  {DYNAMIC 2} LOSSES\\nTRADES:  {DYNAMIC 3} TIMES\\p“{DYNAMIC 4} {DYNAMIC 5}\\n{DYNAMIC 6} {DYNAMIC 7}”\\p",
-  "target": "",
-  "status": "new",
+  "target": "BITWY: {DYNAMIC 0} ZWYCIĘSTWA {DYNAMIC 2}\\nPORAŻKI TRANSAKCJE: {DYNAMIC 3} RAZY\\p„{DYNAMIC 4} {DYNAMIC 5}\\n{DYNAMIC 6} {DYNAMIC 7}”\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325596.308956,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_29": {
   "source": "COME",
@@ -66412,10 +66424,13 @@
  },
  "src.txt::src.txt_2968": {
   "source": "Canceled reading the Card.",
-  "target": "",
-  "status": "new",
+  "target": "Odczyt karty anulowany.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325582.9075785,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_4": {
   "source": "PEWTER CITY",
@@ -72449,10 +72464,13 @@
  },
  "src.txt::src.txt_2958": {
   "source": "It's a NORMAL CARD.",
-  "target": "",
-  "status": "new",
+  "target": "To JEST ZWYKŁA KARTA.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325599.7735138,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1922": {
   "source": "I saw your feat from the grass!",
@@ -80503,10 +80521,13 @@
  },
  "src.txt::src.txt_2965": {
   "source": "{DYNAMIC 1}: Glad to have met you!{PAUSE 60}",
-  "target": "",
-  "status": "new",
+  "target": "{DYNAMIC 1}: Miło było Cię poznać!{PAUSE 60}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325595.2288394,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1467": {
   "source": "I just became a TRAINER.\\nBut, I think I can win.",
@@ -96252,10 +96273,13 @@
  },
  "src.txt::src.txt_2963": {
   "source": "This is {DYNAMIC 0} {DYNAMIC 1}'s\\nTRAINER CARD…\\l{DYNAMIC 2}\\pPOKéDEX: {DYNAMIC 3}\\nTIME:    {DYNAMIC 4}:{DYNAMIC 5}\\p",
-  "target": "",
-  "status": "new",
+  "target": "To jest KARTA TRENERA\\n{DYNAMIC 1} {DYNAMIC 0}…\\l{DYNAMIC 2}\\pPOKéDEX: {DYNAMIC 3} CZAS:\\n{DYNAMIC 4}:{DYNAMIC 5}\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325597.3594337,
+  "touched": true
  },
  "data maps.txt::data maps.txt_347": {
   "source": "Make space for this, child!",
@@ -96671,10 +96695,13 @@
  },
  "src.txt::src.txt_2961": {
   "source": "It's a SILVER CARD!",
-  "target": "",
-  "status": "new",
+  "target": "To jest SREBRNA KARTA!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325602.5177495,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_57": {
   "source": "Trades accuracy for power.",
@@ -105851,10 +105878,13 @@
  },
  "src.txt::src.txt_2959": {
   "source": "It's a BRONZE CARD!",
-  "target": "",
-  "status": "new",
+  "target": "To jest KARTA BRĄZOWA!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325600.632209,
+  "touched": true
  },
  "data maps.txt::data maps.txt_873": {
   "source": "I took a break from swimming,\\nonly to have you challenge me?",
