@@ -4241,3 +4241,14 @@
 {"time": "2026-10-18T14:01:35", "file": "src.txt", "seg_id": "src.txt_1636", "source": "TOTAL RECORD W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}", "old": "SUMA REKORDÓ W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}", "new": "SUMA REKORDÓW W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:01:59", "file": "src.txt", "seg_id": "src.txt_1657", "source": "Your party's full!", "old": "", "new": "Twoja drużyna jest pełna!", "translator": "Antrix", "method": "auto_tm"}
 {"time": "2026-10-18T14:01:59", "file": "src.txt", "seg_id": "src.txt_1657", "source": "Your party's full!", "old": "", "new": "Twoja drużyna jest pełna!", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:02:19", "file": "src.txt", "seg_id": "src.txt_1672", "source": "MAIL can't be stored!", "old": "", "new": "Nie można złożyć LISTU!", "translator": "Antrix", "method": "auto_tm", "tm_source": " Your party’s full! → Twoja drużyna jest pełna!)"}
+{"time": "2026-10-18T14:02:19", "file": "src.txt", "seg_id": "src.txt_1672", "source": "MAIL can't be stored!", "old": "", "new": "Nie można złożyć LISTU!", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:02:31", "file": "src.txt", "seg_id": "src.txt_1683", "source": "JUMP", "old": "", "new": "SIMPLE", "translator": "Antrix", "method": "auto_tm", "tm_source": " MAIL can't be stored! → Nie można złożyć LISTU!)"}
+{"time": "2026-10-18T14:02:31", "file": "src.txt", "seg_id": "src.txt_1683", "source": "JUMP", "old": "", "new": "SIMPLE", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:02:33", "file": "src.txt", "seg_id": "src.txt_1683", "source": "JUMP", "old": "SIMPLE", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T14:02:42", "file": "src.txt", "seg_id": "src.txt_1683", "source": "JUMP", "old": "", "new": "Skocz", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:02:42", "file": "src.txt", "seg_id": "src.txt_1683", "source": "JUMP", "old": "", "new": "Skocz", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:02:43", "file": "src.txt", "seg_id": "src.txt_1683", "source": "JUMP", "old": "Skocz", "new": "SK", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:02:44", "file": "src.txt", "seg_id": "src.txt_1683", "source": "JUMP", "old": "SK", "new": "SKO", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:02:44", "file": "src.txt", "seg_id": "src.txt_1683", "source": "JUMP", "old": "SKO", "new": "SKOC", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:02:44", "file": "src.txt", "seg_id": "src.txt_1683", "source": "JUMP", "old": "SKOC", "new": "SKOCZ", "translator": "Antrix", "method": "manual"}

@@ -5148,6 +5148,16 @@
   "updated": 1791655785.015262,
   "touched": true
  },
+ "src.txt::src.txt_1665": {
+  "source": "Please remove the MAIL.",
+  "target": "Proszę usunąć LIST.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324938.6992319,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_3163": {
   "source": "Oh, hello, {PLAYER}!\\nHow are you doing?\\pIt's me, one of PROF. OAK's AIDES.\\pDid you meet the other AIDE?\\pHe had a package from PROF. OAK\\nfor you, {PLAYER}.\\pHe said he'd look for you around\\nROUTE 2, {PLAYER}.\\pIf you're in the ROUTE 2 area,\\nplease look for him.",
   "target": "Och, witaj, {PLAYER}!\\nJak leci?\\pTo ja, jeden z POMOCNIKÓW PROF.\\pOAKA.\\pCzy spotkałeś innego POMOCNIKA?\\nMiał dla ciebie paczkę od\\pPROFESORA OAKA, {PLAYER}.\\nPowiedział, że szuka cię przy\\pDRODZE 2, {PLAYER}.\\nZnajdź go, jeśli będziesz gdzieś \\pprzy DRODZE 2.",
@@ -5156,13 +5166,6 @@
   "ignored": false,
   "translator": "Antrix",
   "updated": 1790516822.716223
- },
- "src.txt::src.txt_1665": {
-  "source": "Please remove the MAIL.",
-  "target": "Proszę usunąć LIST.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_2345": {
   "source": "{PLAYER} received TM29\\nfrom MR. PSYCHIC.",
@@ -14948,10 +14951,14 @@
  },
  "src.txt::src.txt_1683": {
   "source": "JUMP",
-  "target": "",
-  "status": "new",
+  "target": "Skocz",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792324963.5012546,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_774": {
   "source": "A very bitter medicine powder.\\\\nIt heals all the status problems of\\\\none POKéMON.",
@@ -70530,7 +70537,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792324923.463186,
+  "updated": 1792324926.9684389,
   "touched": true
  },
  "src.txt::src.txt_311": {
@@ -81254,6 +81261,17 @@
   "translator": "Antrix",
   "updated": 1791586295.6802676
  },
+ "src.txt::src.txt_1672": {
+  "source": "MAIL can't be stored!",
+  "target": "Nie można złożyć LISTU!",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792324946.2436326,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_683": {
   "source": "<<< FILE: src/data/easy_chat/easy_chat_group_speech.h >>>",
   "target": "",
@@ -81264,13 +81282,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586288.123231
- },
- "src.txt::src.txt_1672": {
-  "source": "MAIL can't be stored!",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_282": {
   "source": "The ATTACK stat of all your\\nPOKéMON increases a little bit.\\pIt also lets you use the move\\nFLASH outside of battle.",
