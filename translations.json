@@ -64,13 +64,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_161": {
   "source": "STAND",
-  "target": "",
-  "status": "new",
+  "target": "STAN",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4320774
+  "updated": 1792328673.8975675,
+  "touched": true
  },
  "data maps.txt::data maps.txt_38": {
   "source": "I wrote the story!\\nIsn't ERIKA cute?\\pI like MISTY a lot, too!\\nOh, and SABRINA, I like her!",
@@ -965,13 +965,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_185": {
   "source": "POWDER SNOW MAT",
-  "target": "",
-  "status": "new",
+  "target": "MATA ŚNIEGOWA PROSZKOWA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5125175
+  "updated": 1792328683.3198278,
+  "touched": true
  },
  "src.txt::src.txt_440": {
   "source": "someone's",
@@ -1706,13 +1706,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_206": {
   "source": "JIGGLYPUFF DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA JIGGLYPUFF",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5847764
+  "updated": 1792328689.9895208,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1258": {
   "source": "Did you come to pay respects?\\pBless your POKéMON-loving heart,\\nson.",
@@ -2841,13 +2841,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_149": {
   "source": "YELLOW BRICK",
-  "target": "",
-  "status": "new",
+  "target": "ŻÓŁTA CEGŁA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.393002
+  "updated": 1792328670.3865943,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_719": {
   "source": "MEOWTH",
@@ -3185,13 +3185,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_212": {
   "source": "TORCHIC DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA TORCHIC",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6055906
+  "updated": 1792328692.2634265,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1093": {
   "source": "It can swallow a tire whole in one gulp.\\nIt secretes a horribly toxic fluid from\\nthe pores on its body.",
@@ -3311,13 +3311,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_186": {
   "source": "ATTRACT MAT",
-  "target": "",
-  "status": "new",
+  "target": "MATA PRZYCIĄGAJĄCA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5161002
+  "updated": 1792328683.3571115,
+  "touched": true
  },
  "src.txt::src.txt_199": {
   "source": "{B_ATK_NAME_WITH_PREFIX} foresaw\\nan attack!",
@@ -4972,13 +4972,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_177": {
   "source": "F NOTE MAT",
-  "target": "",
-  "status": "new",
+  "target": "F NUTA MAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.485027
+  "updated": 1792328679.895752,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_540": {
   "source": "TOURNAMENT",
@@ -5978,13 +5978,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_171": {
   "source": "GLITTER MAT",
-  "target": "",
-  "status": "new",
+  "target": "MATA BŁYSZCZĄCA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.465278
+  "updated": 1792328677.5370693,
+  "touched": true
  },
  "datascript.txt::datascript.txt_105": {
   "source": "There is an obstacle above.\\nDIVE can't be used here.",
@@ -6393,13 +6393,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_203": {
   "source": "CYNDAQUIL DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA CYNDAQUILA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.57467
+  "updated": 1792328688.8855362,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_365": {
   "source": "HEAL POWDER",
@@ -6538,13 +6538,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_196": {
   "source": "SEA POSTER",
-  "target": "",
-  "status": "new",
+  "target": "PLAŻOWY PLAKAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5501013
+  "updated": 1792328686.956625,
+  "touched": true
  },
  "src.txt::src.txt_529": {
   "source": "a GHOST move",
@@ -6660,13 +6660,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_143": {
   "source": "TROPICAL PLANT",
-  "target": "",
-  "status": "new",
+  "target": "ROŚLINA TROPIKALNA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3709378
+  "updated": 1792328668.774092,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1007": {
   "source": "It swings its long snout around playfully,\\nbut because it is so strong, this can be\\ndangerous.",
@@ -9453,13 +9453,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_173": {
   "source": "SPIN MAT",
-  "target": "",
-  "status": "new",
+  "target": "MATA DO SPINANIA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4724765
+  "updated": 1792328678.4289892,
+  "touched": true
  },
  "src.txt::src.txt_606": {
   "source": "くちびるが まがって しまうほど からい.",
@@ -9582,13 +9582,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_202": {
   "source": "TOGEPI DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA TOGEPI",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5704048
+  "updated": 1792328688.6273954,
+  "touched": true
  },
  "src.txt::src.txt_2718": {
   "source": "LANTURN",
@@ -10722,13 +10722,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_187": {
   "source": "FISSURE MAT",
-  "target": "",
-  "status": "new",
+  "target": "MATRYCA SZCZELINOWA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.519525
+  "updated": 1792328683.4919505,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1797": {
   "source": "ARTHUR",
@@ -11402,13 +11402,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_204": {
   "source": "CHIKORITA DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA CHIKORITA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.578079
+  "updated": 1792328689.8598244,
+  "touched": true
  },
  "data maps.txt::data maps.txt_184": {
   "source": "Welcome to CELADON GYM!\\pYou'd better not underestimate\\nthe nice ladies here.",
@@ -11982,13 +11982,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_225": {
   "source": "ROUND CUSHION",
-  "target": "",
-  "status": "new",
+  "target": "OKRĄGŁA PODUSZKA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6491282
+  "updated": 1792328696.4387121,
+  "touched": true
  },
  "src.txt::src.txt_1589": {
   "source": "びょう",
@@ -14893,13 +14893,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_115": {
   "source": "A large doll.\\nPlace it on a mat\\nor a desk.",
-  "target": "",
-  "status": "new",
+  "target": "Duża lalka.\\nUmieść to na\\nmacie lub biurku.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.2955005
+  "updated": 1792328658.230187,
+  "touched": true
  },
  "datatext.txt::datatext.txt_13": {
   "source": "ポケモンを　ひきとりたい　ときは\\nばさんに　いって　おくれ",
@@ -15759,13 +15759,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_215": {
   "source": "WYNAUT DOLL",
-  "target": "",
-  "status": "new",
+  "target": "WYNAUT LALKA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6157715
+  "updated": 1792328692.5672133,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3192": {
   "source": "Grand! I like your style.\\nI think we can be friends.\\pTake this and fish, young friend!",
@@ -17761,13 +17761,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_214": {
   "source": "DUSKULL DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA DUSKULL",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6125975
+  "updated": 1792328692.5768542,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1465": {
   "source": "That was electric!",
@@ -19100,13 +19100,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_116": {
   "source": "A large doll.\\nPlace it on a mat\\nor a desk.",
-  "target": "",
-  "status": "new",
+  "target": "Duża lalka.\\nUmieść to na\\nmacie lub biurku.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.2955005
+  "updated": 1792328658.5691512,
+  "touched": true
  },
  "src.txt::src.txt_2572": {
   "source": "QUAGSIRE",
@@ -20102,13 +20102,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_146": {
   "source": "BIG PLANT",
-  "target": "",
-  "status": "new",
+  "target": "DUŻA ROŚLINA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.381482
+  "updated": 1792328670.0493264,
+  "touched": true
  },
  "src.txt::src.txt_754": {
   "source": "A gravity-fed throw\\nthat causes damage\\nmatching the user's\\nlevel.",
@@ -23270,13 +23270,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_213": {
   "source": "MUDKIP DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA MUDKIPA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.609298
+  "updated": 1792328692.5868614,
+  "touched": true
  },
  "src.txt::src.txt_2149": {
   "source": "\\n\\n\\nSatoshi Tajiri\\n\\n\\n",
@@ -24689,13 +24689,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_154": {
   "source": "RED TENT",
-  "target": "",
-  "status": "new",
+  "target": "CZERWONY NAMIOT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.409891
+  "updated": 1792328672.1670563,
+  "touched": true
  },
  "datatext.txt::datatext.txt_948": {
   "source": "<<< FILE: text/safari_zone.inc >>>",
@@ -25796,13 +25796,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_182": {
   "source": "SURF MAT",
-  "target": "",
-  "status": "new",
+  "target": "MATA DO SURFINGU",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.501464
+  "updated": 1792328681.9874384,
+  "touched": true
  },
  "src.txt::src.txt_2805": {
   "source": "You stopped being a member.\\p",
@@ -25997,13 +25997,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_137": {
   "source": "COMFORT CHAIR",
-  "target": "",
-  "status": "new",
+  "target": "KRZESŁO KOMFORTOWE",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3493714
+  "updated": 1792328666.43311,
+  "touched": true
  },
  "src.txt::src.txt_2253": {
   "source": "The two don't seem to like\\neach other much.",
@@ -27182,23 +27182,23 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_207": {
   "source": "MEOWTH DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA MEOWTHA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5886922
+  "updated": 1792328690.2378263,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_184": {
   "source": "FIRE BLAST MAT",
-  "target": "",
-  "status": "new",
+  "target": "MATA OGNISTEGO WYBUCHU",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.508932
+  "updated": 1792328682.8445296,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_201": {
   "source": "ICEFALL CAVE",
@@ -29696,13 +29696,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_158": {
   "source": "FENCE LENGTH",
-  "target": "",
-  "status": "new",
+  "target": "DŁUGOŚĆ OGRODZENIA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4228404
+  "updated": 1792328673.4673865,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_50": {
   "source": "Awakens quickly from sleep.",
@@ -31377,13 +31377,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_168": {
   "source": "TV",
-  "target": "",
-  "status": "new",
+  "target": "Telewizor",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.455927
+  "updated": 1792328680.0539844,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_679": {
   "source": "TO HER",
@@ -32285,13 +32285,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_188": {
   "source": "SPIKES MAT",
-  "target": "",
-  "status": "new",
+  "target": "MATA Z KOLCAMI",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5233536
+  "updated": 1792328684.1273267,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_91": {
   "source": "WATER ABSORB",
@@ -33456,13 +33456,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_119": {
   "source": "A large doll.\\nPlace it on a mat\\nor a desk.",
-  "target": "",
-  "status": "new",
+  "target": "Duża lalka.\\nUmieść to na\\nmacie lub biurku.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.2955005
+  "updated": 1792328660.754318,
+  "touched": true
  },
  "src.txt::src.txt_2150": {
   "source": "\\n\\nExecutive Producer\\n\\n\\n\\n",
@@ -33594,13 +33594,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_163": {
   "source": "BREAKABLE DOOR",
-  "target": "",
-  "status": "new",
+  "target": "ŁAMANE DRZWI",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.43925
+  "updated": 1792328675.9978368,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_754": {
   "source": "A spray-type wound medicine.\\\\nIt restores the HP of one POKéMON\\\\nby 50 points.",
@@ -34318,13 +34318,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_157": {
   "source": "SLIDE",
-  "target": "",
-  "status": "new",
+  "target": "SLIDE",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4189148
+  "updated": 1792328672.848881,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_392": {
   "source": "????????",
@@ -35207,13 +35207,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_145": {
   "source": "COLORFUL PLANT",
-  "target": "",
-  "status": "new",
+  "target": "KOLOROWA ROŚLINA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.378172
+  "updated": 1792328669.106499,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_100": {
   "source": "TANOBY KEY",
@@ -35363,13 +35363,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_130": {
   "source": "BRICK DESK",
-  "target": "",
-  "status": "new",
+  "target": "BIURKO Z CEGŁY",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3257432
+  "updated": 1792328664.7888324,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_423": {
   "source": "HERE GOES",
@@ -36555,13 +36555,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_183": {
   "source": "THUNDER MAT",
-  "target": "",
-  "status": "new",
+  "target": "MATA GRZMOTU",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5049613
+  "updated": 1792328682.2889671,
+  "touched": true
  },
  "src.txt::src.txt_2680": {
   "source": "NIA & CARL",
@@ -38208,13 +38208,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_176": {
   "source": "E NOTE MAT",
-  "target": "",
-  "status": "new",
+  "target": "E NOTATKA MAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.481865
+  "updated": 1792328679.6373425,
+  "touched": true
  },
  "src.txt::src.txt_2129": {
   "source": "\\nTeruyuki Yoshioka\\nTakao Nakano\\n\\nSatoshi Mitsuhara\\nDaisuke Hoshino\\n",
@@ -39566,13 +39566,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_197": {
   "source": "SKY POSTER",
-  "target": "",
-  "status": "new",
+  "target": "PLAKAT NA NIEBIE",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.553218
+  "updated": 1792328687.2431219,
+  "touched": true
  },
  "data maps.txt::data maps.txt_281": {
   "source": "Come visit me anytime you wish.",
@@ -39855,13 +39855,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_123": {
   "source": "SMALL DESK",
-  "target": "",
-  "status": "new",
+  "target": "MAŁE BIURKO",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.305843
+  "updated": 1792328660.995597,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_3": {
   "source": "SEED",
@@ -39896,13 +39896,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_138": {
   "source": "RAGGED CHAIR",
-  "target": "",
-  "status": "new",
+  "target": "ZDARTY KRZESŁO",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.352542
+  "updated": 1792328667.6762006,
+  "touched": true
  },
  "datatext.txt::datatext.txt_65": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}LT. SURGE installed the traps in\\nthe GYM himself.\\pHe set up double locks everywhere.",
@@ -44389,13 +44389,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_120": {
   "source": "A large doll.\\nPlace it on a mat\\nor a desk.",
-  "target": "",
-  "status": "new",
+  "target": "Duża lalka.\\nUmieść to na\\nmacie lub biurku.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.2955005
+  "updated": 1792328662.796319,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1478": {
   "source": "JOSH",
@@ -44621,13 +44621,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_136": {
   "source": "PRETTY CHAIR",
-  "target": "",
-  "status": "new",
+  "target": "ŁADNE KRZESŁO",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3460503
+  "updated": 1792328697.1199012,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_779": {
   "source": "MAX ETHER",
@@ -44946,13 +44946,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_192": {
   "source": "BLUE POSTER",
-  "target": "",
-  "status": "new",
+  "target": "NIEBIESKI PLAKAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.536255
+  "updated": 1792328685.8942664,
+  "touched": true
  },
  "src.txt::src.txt_1824": {
   "source": "A mystical mountain that is known\\nfor its frequent meteor falls.\\nThe shards of stars that fall\\nhere are known as MOON STONES.",
@@ -45651,13 +45651,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_131": {
   "source": "CAMP DESK",
-  "target": "",
-  "status": "new",
+  "target": "BIURKO POLNE",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3289015
+  "updated": 1792328665.3258846,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1538": {
   "source": "{PLAYER} received a SUPER ROD from\\nthe FISHING GURU's brother.",
@@ -46360,13 +46360,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_142": {
   "source": "RED PLANT",
-  "target": "",
-  "status": "new",
+  "target": "CZERWONA ROŚLINA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3673909
+  "updated": 1792328668.7826712,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_189": {
   "source": "HORN ATTACK",
@@ -47065,13 +47065,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_127": {
   "source": "RAGGED DESK",
-  "target": "",
-  "status": "new",
+  "target": "Zniszczone biurko",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3156693
+  "updated": 1792328663.9039493,
+  "touched": true
  },
  "src.txt::src.txt_1294": {
   "source": "HP",
@@ -47171,13 +47171,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_216": {
   "source": "BALTOY DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA BALTOY",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.619004
+  "updated": 1792328693.495174,
+  "touched": true
  },
  "data maps.txt::data maps.txt_497": {
   "source": "I'm thinking of having a pool\\nmade specially for POKéMON.",
@@ -48041,13 +48041,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_159": {
   "source": "FENCE WIDTH",
-  "target": "",
-  "status": "new",
+  "target": "SZEROKOŚĆ OGRODZENIA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4261115
+  "updated": 1792328673.7456484,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_870": {
   "source": "On the night of a full moon, if shadows\\nmove on their own and laugh, it must be\\nGENGAR's doing.",
@@ -48500,13 +48500,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_124": {
   "source": "SMALL DESK",
-  "target": "",
-  "status": "new",
+  "target": "MAŁE BIURKO",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.305843
+  "updated": 1792328662.0834944,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1730": {
   "source": "Hi! Remember me?\\nI'm one of PROF. OAK's AIDES.\\pIf your POKéDEX has complete data\\non 40 species, I'm supposed to\\lgive you a reward.\\pPROF. OAK entrusted me with an\\nAMULET COIN for you.\\pSo, {PLAYER}, let me ask you.\\pHave you gathered data on at least\\n40 kinds of POKéMON?",
@@ -49400,13 +49400,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_141": {
   "source": "HARD CHAIR",
-  "target": "",
-  "status": "new",
+  "target": "TWARDY KRZESŁO",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3640804
+  "updated": 1792328667.9638836,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2184": {
   "source": "Hahahaha!\\nBring it on!",
@@ -51284,13 +51284,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_180": {
   "source": "B NOTE MAT",
-  "target": "",
-  "status": "new",
+  "target": "B NOTA MAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4950194
+  "updated": 1792328681.1775186,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1585": {
   "source": "I don't know anything about\\nPOKéMON actually.\\pThe ones I use… I picked them\\nfor their looks!",
@@ -52334,13 +52334,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_151": {
   "source": "RED BALLOON",
-  "target": "",
-  "status": "new",
+  "target": "CZERWONY BALON",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.399757
+  "updated": 1792328671.3109982,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_398": {
   "source": "This POKéMON is very popular as a pet.\\nIts fur-covered tail is a symbol of its\\nlongevity.",
@@ -53365,13 +53365,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_217": {
   "source": "KECLEON DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA KECLEON",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6228054
+  "updated": 1792328693.6575239,
+  "touched": true
  },
  "datatext.txt::datatext.txt_543": {
   "source": "Using the PC at home",
@@ -55142,13 +55142,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_223": {
   "source": "SEEDOT DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA SEEDOT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6422975
+  "updated": 1792328696.108213,
+  "touched": true
  },
  "data maps.txt::data maps.txt_370": {
   "source": "{PLAYER}!\\nYou beat that firebrand!",
@@ -56038,13 +56038,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_155": {
   "source": "BLUE TENT",
-  "target": "",
-  "status": "new",
+  "target": "NIEBIESKI NAMIOT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4129038
+  "updated": 1792328672.4375336,
+  "touched": true
  },
  "src.txt::src.txt_897": {
   "source": "The foe is fixed\\nwith a mean look\\nthat prevents it\\nfrom escaping.",
@@ -56205,13 +56205,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_189": {
   "source": "BALL POSTER",
-  "target": "",
-  "status": "new",
+  "target": "PLAKAT Z PIŁKĄ",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.526758
+  "updated": 1792328684.7446058,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_896": {
   "source": "HOUNDOOM",
@@ -56461,13 +56461,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_134": {
   "source": "POKéMON CHAIR",
-  "target": "",
-  "status": "new",
+  "target": "KRZESŁO POKÉMON",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3388844
+  "updated": 1792328666.1773248,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_447": {
   "source": "HEY?",
@@ -58822,13 +58822,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_224": {
   "source": "PIKA CUSHION",
-  "target": "",
-  "status": "new",
+  "target": "PIKA PODUSZKA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.645742
+  "updated": 1792328696.2184916,
+  "touched": true
  },
  "datatext.txt::datatext.txt_603": {
   "source": "{CIRCLE_1} Select “HALL OF FAME” on the PC.\\n{CIRCLE_2} The POKéMON that have entered the\\n   HALL OF FAME can be examined.",
@@ -58936,13 +58936,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_181": {
   "source": "C High NOTE MAT",
-  "target": "",
-  "status": "new",
+  "target": "C Wysoka NUTA MAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4980004
+  "updated": 1792328681.3077147,
+  "touched": true
  },
  "data maps.txt::data maps.txt_798": {
   "source": "I think I tried to overdo it…",
@@ -59267,13 +59267,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_135": {
   "source": "HEAVY CHAIR",
-  "target": "",
-  "status": "new",
+  "target": "CIĘŻKI FOTEL",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.342852
+  "updated": 1792328666.672014,
+  "touched": true
  },
  "src.txt::src.txt_112": {
   "source": "{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\\nraised DEFENSE!",
@@ -59394,13 +59394,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_164": {
   "source": "SAND ORNAMENT",
-  "target": "",
-  "status": "new",
+  "target": "PIASKOWA OZDOBNA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4428825
+  "updated": 1792328675.6672063,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_18": {
   "source": "TINY BIRD",
@@ -59458,13 +59458,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_140": {
   "source": "CAMP CHAIR",
-  "target": "",
-  "status": "new",
+  "target": "KRZESŁO TURYSTYCZNE",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3606129
+  "updated": 1792328668.0278666,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_193": {
   "source": "SEED",
@@ -59829,13 +59829,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_208": {
   "source": "CLEFAIRY DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA CLEFAIRY",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.592173
+  "updated": 1792328690.9790714,
+  "touched": true
  },
  "data maps.txt::data maps.txt_785": {
   "source": "Huh, what?",
@@ -60183,13 +60183,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_166": {
   "source": "GOLD SHIELD",
-  "target": "",
-  "status": "new",
+  "target": "ZŁOTA TARCZA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4488707
+  "updated": 1792328676.1040363,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_912": {
   "source": "?????",
@@ -61544,13 +61544,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_160": {
   "source": "TIRE",
-  "target": "",
-  "status": "new",
+  "target": "OPONA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.429105
+  "updated": 1792328673.8793356,
+  "touched": true
  },
  "src.txt::src.txt_2298": {
   "source": "You already had that\\nSTAMP.",
@@ -64161,13 +64161,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_198": {
   "source": "KISS POSTER",
-  "target": "",
-  "status": "new",
+  "target": "PLAKAT KISS",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5569508
+  "updated": 1792328687.2523649,
+  "touched": true
  },
  "data maps.txt::data maps.txt_271": {
   "source": "Splash!\\pI'm first up!\\nLet's do it!",
@@ -65286,13 +65286,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_172": {
   "source": "JUMP MAT",
-  "target": "",
-  "status": "new",
+  "target": "MATA DO SKOKÓW",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4684176
+  "updated": 1792328678.2780707,
+  "touched": true
  },
  "src.txt::src.txt_2625": {
   "source": "MANTINE",
@@ -66460,13 +66460,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_153": {
   "source": "YELLOW BALLOON",
-  "target": "",
-  "status": "new",
+  "target": "ŻÓŁTY BALON",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4067316
+  "updated": 1792328671.6929064,
+  "touched": true
  },
  "src.txt::src.txt_2689": {
   "source": "MANTINE",
@@ -66824,13 +66824,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_133": {
   "source": "SMALL CHAIR",
-  "target": "",
-  "status": "new",
+  "target": "MAŁY KRZESEŁKO",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3350558
+  "updated": 1792328665.3217554,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1081": {
   "source": "What are status problems?",
@@ -67429,13 +67429,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_132": {
   "source": "HARD DESK",
-  "target": "",
-  "status": "new",
+  "target": "TWARDY DYSK",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.331989
+  "updated": 1792328665.0169303,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2070": {
   "source": "Oh? You only have one POKéMON\\nwith you.",
@@ -70523,13 +70523,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_152": {
   "source": "BLUE BALLOON",
-  "target": "",
-  "status": "new",
+  "target": "NIEBIESKI BALON",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4027412
+  "updated": 1792328671.5280402,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1078": {
   "source": "CHIMECHO",
@@ -73733,13 +73733,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_169": {
   "source": "ROUND TV",
-  "target": "",
-  "status": "new",
+  "target": "OKRĄGŁY TELEWIZOR",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4593027
+  "updated": 1792328677.1226156,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_557": {
   "source": "Took on {DYNAMIC 0x00} in a SINGLE BATTLE.\\nIt was a hotly contested match that\\nresulted in a {DYNAMIC 0x01}.",
@@ -74497,13 +74497,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_210": {
   "source": "SMOOCHUM DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA SMOOCHUM",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.598908
+  "updated": 1792328691.462893,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_725": {
   "source": "GROWLITHE",
@@ -76791,13 +76791,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_156": {
   "source": "SOLID BOARD",
-  "target": "",
-  "status": "new",
+  "target": "PEŁNA PŁYTA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4159303
+  "updated": 1792328672.679773,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1015": {
   "source": "Whoa! You've made it into the\\nHALL OF FAME that often?\\lThat's seriously incredible, yup!\\pYou own the POKéMON LEAGUE!\\nI'll give you one of these.",
@@ -77157,13 +77157,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_125": {
   "source": "POKéMON DESK",
-  "target": "",
-  "status": "new",
+  "target": "BIURKO POKéMON",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3096187
+  "updated": 1792328662.6633933,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1176": {
   "source": "CINNABAR, in the west, has a LAB\\nfor POKéMON.\\pMy daddy works there.",
@@ -80185,13 +80185,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_194": {
   "source": "PIKA POSTER",
-  "target": "",
-  "status": "new",
+  "target": "PLAKAT PIKA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.543587
+  "updated": 1792328685.8562524,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_565": {
   "source": "HIGHS",
@@ -80501,13 +80501,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_222": {
   "source": "LOTAD DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA LOTAD",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6388903
+  "updated": 1792328695.0375054,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_682": {
   "source": "BEEDRILL",
@@ -81155,13 +81155,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_190": {
   "source": "GREEN POSTER",
-  "target": "",
-  "status": "new",
+  "target": "ZIELONY PLAKAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5298939
+  "updated": 1792328684.4980462,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3197": {
   "source": "Oh, no!\\pI had a nice gift for you, but you\\nhave no room for it!",
@@ -81634,13 +81634,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_117": {
   "source": "A large doll.\\nPlace it on a mat\\nor a desk.",
-  "target": "",
-  "status": "new",
+  "target": "Duża lalka.\\nUmieść to na\\nmacie lub biurku.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.2955005
+  "updated": 1792328659.8381257,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_677": {
   "source": "CATERPIE",
@@ -82959,13 +82959,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_220": {
   "source": "SWABLU DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA SWABLU",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6324487
+  "updated": 1792328694.7500176,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_732": {
   "source": "It appears to have been born from clay\\ndolls made by ancient people. It uses\\ntelekinesis to float and move.",
@@ -84769,13 +84769,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_199": {
   "source": "PICHU DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA PICHU",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.560101
+  "updated": 1792328687.6869133,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_100": {
   "source": "THIN",
@@ -85543,13 +85543,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_178": {
   "source": "G NOTE MAT",
-  "target": "",
-  "status": "new",
+  "target": "G NUTA MAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.488575
+  "updated": 1792328681.06817,
+  "touched": true
  },
  "src.txt::src.txt_2548": {
   "source": "VAPOREON",
@@ -85578,13 +85578,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_191": {
   "source": "RED POSTER",
-  "target": "",
-  "status": "new",
+  "target": "CZERWONY PLAKAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5331492
+  "updated": 1792328684.998018,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1546": {
   "source": "MARK",
@@ -87495,13 +87495,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_195": {
   "source": "LONG POSTER",
-  "target": "",
-  "status": "new",
+  "target": "DŁUGI PLAKAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5467439
+  "updated": 1792328686.398368,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1778": {
   "source": "CAROLINE",
@@ -88876,13 +88876,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_118": {
   "source": "A large doll.\\nPlace it on a mat\\nor a desk.",
-  "target": "",
-  "status": "new",
+  "target": "Duża lalka.\\nUmieść to na\\nmacie lub biurku.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.2955005
+  "updated": 1792328659.5747068,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1410": {
   "source": "A flute that is said to instantly\\\\nawaken any POKéMON. It has a\\\\nlovely tone.",
@@ -90318,13 +90318,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_193": {
   "source": "CUTE POSTER",
-  "target": "",
-  "status": "new",
+  "target": "SŁODKI PLAKAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5402396
+  "updated": 1792328685.567099,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_284": {
   "source": "Summons a sandstorm that lasts for\\nfive turns. It damages all types\\nexcept ROCK, GROUND, and STEEL.",
@@ -90342,13 +90342,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_205": {
   "source": "TOTODILE DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA TOTODILE",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.581303
+  "updated": 1792328690.0068705,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1096": {
   "source": "Hey, everyone!\\nDo you all have TMs?\\pA TM, Technical Machine, is an\\namazingly great item!\\pIt teaches POKéMON a move that\\nit may not learn when leveling up!\\pIsn't that just great? What a\\nconvenient world we live in!\\pOpen the TM CASE and check out\\nthe TMs you have.\\pYou can check them out in detail,\\ntoo.",
@@ -90497,13 +90497,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_113": {
   "source": "A large doll.\\nPlace it on a mat\\nor a desk.",
-  "target": "",
-  "status": "new",
+  "target": "Duża lalka.\\nUmieść to na\\nmacie lub biurku.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.2955005
+  "updated": 1792328657.1331325,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_277": {
   "source": "METRONOME",
@@ -90960,13 +90960,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_200": {
   "source": "PIKACHU DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA PIKACHU",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5636194
+  "updated": 1792328688.3885095,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_402": {
   "source": "The wings are protected by rain-repellent\\ndust. As a result, this POKéMON can fly\\nabout even in rain.",
@@ -91180,13 +91180,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_162": {
   "source": "MUD BALL",
-  "target": "",
-  "status": "new",
+  "target": "KULA BŁOTNA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.435169
+  "updated": 1792328675.0426412,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1222": {
   "source": "JOY: We've gotten stronger!\\nLots and lots!",
@@ -91475,13 +91475,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_126": {
   "source": "HEAVY DESK",
-  "target": "",
-  "status": "new",
+  "target": "CIĘŻKI BIURKO",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.312687
+  "updated": 1792328663.593663,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2340": {
   "source": "<<< FILE: maps/SaffronCity_Mart/text.inc >>>",
@@ -91711,13 +91711,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_121": {
   "source": "A large doll.\\nPlace it on a mat\\nor a desk.",
-  "target": "",
-  "status": "new",
+  "target": "Duża lalka.\\nUmieść to na\\nmacie lub biurku.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.2955005
+  "updated": 1792328662.8048089,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2808": {
   "source": "MIU: It makes me all sad inside\\nwhen we lose…",
@@ -93703,13 +93703,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_128": {
   "source": "COMFORT DESK",
-  "target": "",
-  "status": "new",
+  "target": "BIURKO COMFORT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3186958
+  "updated": 1792328663.9733155,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1002": {
   "source": "<<< FILE: maps/PalletTown_PlayersHouse_2F/text.inc >>>",
@@ -96463,13 +96463,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_147": {
   "source": "GORGEOUS PLANT",
-  "target": "",
-  "status": "new",
+  "target": "PIĘKNA ROŚLINA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.384857
+  "updated": 1792328669.849231,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3055": {
   "source": "TRAINERS are awaiting your\\nchallenge up to the eighth floor.",
@@ -97304,13 +97304,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_221": {
   "source": "GULPIN DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA GULPIN",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.635461
+  "updated": 1792328695.1714277,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1970": {
   "source": "Hello, are you here alone?\\pIf you're out at CERULEAN's cape…\\nWell, it should be as a couple.",
@@ -99237,13 +99237,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_218": {
   "source": "AZURILL DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA AZURILL",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6263347
+  "updated": 1792328696.0298495,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2478": {
   "source": "JON: When I'm with EVE, I feel\\ngiddy whether I win or lose.\\pIt's magical!",
@@ -99837,13 +99837,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_165": {
   "source": "SILVER SHIELD",
-  "target": "",
-  "status": "new",
+  "target": "SREBRNA TARCZA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4458947
+  "updated": 1792328674.9829292,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1045": {
   "source": "BANETTE",
@@ -101610,13 +101610,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_175": {
   "source": "D NOTE MAT",
-  "target": "",
-  "status": "new",
+  "target": "D NOTATKA MAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.478824
+  "updated": 1792328679.52572,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3005": {
   "source": "Did I just win?\\nOr did I lose?",
@@ -101727,13 +101727,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_201": {
   "source": "MARILL DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LAMIGOTKA LALKA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.566953
+  "updated": 1792328689.08147,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_751": {
   "source": "INTIMIDATE",
@@ -104095,13 +104095,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_167": {
   "source": "GLASS ORNAMENT",
-  "target": "",
-  "status": "new",
+  "target": "SZKLANA OZDOBĄ",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4519272
+  "updated": 1792328676.2776904,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_649": {
   "source": "It has a very tenacious nature. Its acute\\nsense of smell lets it chase a chosen\\nprey without ever losing track.",
@@ -104331,13 +104331,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_144": {
   "source": "PRETTY FLOWERS",
-  "target": "",
-  "status": "new",
+  "target": "ŁADNE KWIATY",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3749342
+  "updated": 1792328669.0375578,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3384": {
   "source": "Hey, wait up!\\nWhat's the hurry? Why the rush?",
@@ -104362,13 +104362,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_211": {
   "source": "TREECKO DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA TREECKO",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6021135
+  "updated": 1792328691.4189112,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_92": {
   "source": "OBLIVIOUS",
@@ -104426,13 +104426,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_170": {
   "source": "CUTE TV",
-  "target": "",
-  "status": "new",
+  "target": "SŁODKA TELEWIZJA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4622972
+  "updated": 1792328677.2586012,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2134": {
   "source": "Look what you did to my poor, cute\\nPOKéMON!",
@@ -105030,13 +105030,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_139": {
   "source": "BRICK CHAIR",
-  "target": "",
-  "status": "new",
+  "target": "KRZESŁO Z CEGŁY",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3567646
+  "updated": 1792328667.6766815,
+  "touched": true
  },
  "src.txt::src.txt_43": {
   "source": "But, {B_BUFF1} can't learn\\nmore than four moves.\\p",
@@ -106657,13 +106657,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_179": {
   "source": "A NOTE MAT",
-  "target": "",
-  "status": "new",
+  "target": "NOTATNIK",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4919744
+  "updated": 1792328680.7474303,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2829": {
   "source": "<<< FILE: maps/SSAnne_1F_Corridor/text.inc >>>",
@@ -106832,13 +106832,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_209": {
   "source": "DITTO DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA DITTO",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.5955749
+  "updated": 1792328691.426645,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_619": {
   "source": "ROOT FOSSIL",
@@ -106912,13 +106912,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_174": {
   "source": "C Low NOTE MAT",
-  "target": "",
-  "status": "new",
+  "target": "C Niskie NOTY MAT",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.4757917
+  "updated": 1792328678.7355278,
+  "touched": true
  },
  "src.txt::src.txt_1520": {
   "source": "HALL OF FAME",
@@ -107280,13 +107280,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_114": {
   "source": "A large doll.\\nPlace it on a mat\\nor a desk.",
-  "target": "",
-  "status": "new",
+  "target": "Duża lalka.\\nUmieść to na\\nmacie lub biurku.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.2955005
+  "updated": 1792328657.2044857,
+  "touched": true
  },
  "src.txt::src.txt_2843": {
   "source": "……\\nThe TRAINER appears to be busy…\\p",
@@ -107444,13 +107444,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_129": {
   "source": "PRETTY DESK",
-  "target": "",
-  "status": "new",
+  "target": "ŁADNE BIURKO",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3223064
+  "updated": 1792328663.9111779,
+  "touched": true
  },
  "src.txt::src.txt_1006": {
   "source": "The foe is made to\\nlaugh, reducing its\\nATTACK and DEFENSE\\nstats.",
@@ -109719,13 +109719,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_219": {
   "source": "SKITTY DOLL",
-  "target": "",
-  "status": "new",
+  "target": "LALKA SKITTY",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.6294339
+  "updated": 1792328693.728468,
+  "touched": true
  },
  "src.txt::src.txt_2011": {
   "source": "Quit playing?",
@@ -110460,13 +110460,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_148": {
   "source": "RED BRICK",
-  "target": "",
-  "status": "new",
+  "target": "CZERWONA CEGŁA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3887646
+  "updated": 1792328670.2066255,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_593": {
   "source": "CHOICE",
@@ -111120,13 +111120,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_150": {
   "source": "BLUE BRICK",
-  "target": "",
-  "status": "new",
+  "target": "NIEBIESKA CEGŁA",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.3965204
+  "updated": 1792328670.9168844,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1572": {
   "source": "Good going!\\nYou totally won!",
