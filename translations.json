@@ -28114,10 +28114,13 @@
  },
  "datascript.txt::datascript.txt_36": {
   "source": "I'm awfully sorry.\\pWe're not set up to conduct trades\\nwith TRAINERS far away in another\\lregion yet…",
-  "target": "",
-  "status": "new",
+  "target": "Bardzo przepraszam.\\pNie jesteśmy jeszcze przygotowani\\ndo przeprowadzania transakcji z TRENERAMI\\ldaleko w innej regionie…",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792320558.1618168,
+  "touched": true
  },
  "src.txt::src.txt_572": {
   "source": "そだつのに じかんが かかるが たいせつに",
@@ -53759,7 +53762,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792320518.1468167,
+  "updated": 1792320537.5052285,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1165": {
