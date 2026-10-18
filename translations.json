@@ -27617,12 +27617,12 @@
  },
  "datatext.txt::datatext.txt_748": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: WATER, GROUND, ROCK\\p   {TRIANGLE}: FIRE, GRASS, POISON, FLYING,\\n       BUG, DRAGON, STEEL",
-  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: WODNY, ZIEMNY, KAMIENNY\\p   {TRIANGLE}: OGNISTY, TRAWA,\\nTRUJĄCY, LATAJĄCY, ROBACZEK, SMOK, STAL",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: WODNY, ZIEMNY, KAMIENNY\\p   {TRIANGLE}: OGNISTY, TTRAWIASTY,\\nTRUJĄCY, LATAJĄCY, ROBACZY, SMOK, STALOWY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322723.42704,
+  "updated": 1792322745.8869474,
   "touched": true
  },
  "data maps.txt::data maps.txt_688": {
@@ -79910,12 +79910,12 @@
  },
  "datatext.txt::datatext.txt_749": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FIRE, ICE, POISON, FLYING, BUG\\p   {TRIANGLE}: WATER, ELECTRIC, GRASS, GROUND",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: OGIEŃ, LÓD, TRUCIZNA, LOT, OWAD\\p   {TRIANGLE}: WODA, ELEKTRYCZNY, TRAWA, ZIEMIA",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: OGNISTY, LÓD, TRUCIZNA, LOT, OWAD\\p   {TRIANGLE}: WODA, ELEKTRYCZNY, TRAWA, ZIEMIA",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322360.9248323,
+  "updated": 1792322763.4162314,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_554": {
