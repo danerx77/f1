@@ -16244,10 +16244,14 @@
  },
  "src.txt::src.txt_1946": {
   "source": "{FONT_SMALL}MAX.{FONT_NORMAL} HP",
-  "target": "",
-  "status": "new",
+  "target": "{FONT_SMALL}MAKS.{FONT_NORMAL} HP",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325143.813487,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1135": {
   "source": "TRIATHLETE",
@@ -16743,6 +16747,18 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_1953": {
+  "source": "{FONT_SMALL}-{FONT_NORMAL}",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325151.3554056,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_568": {
   "source": "Switched {DYNAMIC 0x01} in {DYNAMIC 0x00}\\nwith {DYNAMIC 0x02} in the party.",
   "target": "Zmienił {DYNAMIC 0x01} w {DYNAMIC 0x00}\\nz {DYNAMIC 0x02} w drużynie.",
@@ -16757,13 +16773,6 @@
   "source": "ROUTE 22",
   "target": "DROGA 22",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_1953": {
-  "source": "{FONT_SMALL}-{FONT_NORMAL}",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -23868,10 +23877,14 @@
  },
  "src.txt::src.txt_1959": {
   "source": "Machine set!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Maszyna gotowa!\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325163.4782352,
+  "touched": true
  },
  "src.txt::src.txt_174": {
   "source": "{B_ATK_NAME_WITH_PREFIX}'s ENCORE\\nended!",
@@ -33467,13 +33480,13 @@
  },
  "src.txt::src.txt_1900": {
   "source": "Waiting for the other TRAINER to\\nfinish reading your TRAINER CARD.",
-  "target": "Waiting for the other TRAINER to\\nfinish reading your TRAINER CARD.",
+  "target": "Czekanie, aż drugi TRENER\\nskończy czytać twoją KARTĘ TRENERA.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325123.5731497,
+  "updated": 1792325135.041005,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_1002": {
@@ -44428,7 +44441,13 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325144.128399,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1770": {
   "source": "CYCLING ROAD\\nSlope ends here!",
