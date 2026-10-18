@@ -659,12 +659,12 @@
  },
  "datatext.txt::datatext.txt_768": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: GRASS, ICE, BUG, STEEL\\p   {TRIANGLE}: FIRE, WATER, ROCK, DRAGON",
-  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: TRAWA, LÓD, ROBAK, STAL\\p   {TRIANGLE}: OGIEŃ, WODA, SKAŁA, SMOK",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: TRAWIASTY, LÓD, ROBACZY, STAL\\p   {TRIANGLE}: OGIEŃ, WODA, SKAŁA, SMOK",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322380.0375187,
+  "updated": 1792322963.4106994,
   "touched": true
  },
  "data maps.txt::data maps.txt_2226": {
@@ -4742,12 +4742,12 @@
  },
  "datatext.txt::datatext.txt_769": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: WATER, GROUND, ROCK\\p   {TRIANGLE}: FIRE, GRASS, ICE, BUG, STEEL",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: WODA, ZIEMIA, SKAŁA\\p   {TRIANGLE}: OGNIEŃ, TRAWA, LÓD, ROBAL, STAL",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: WODA, ZIEMIA, SKAŁA\\p   {TRIANGLE}: OGNIEŃ, TRAWA, LÓD, ROBACZY, STAL",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322380.3288026,
+  "updated": 1792322950.9676151,
   "touched": true
  },
  "datatext.txt::datatext.txt_1096": {
@@ -86971,12 +86971,12 @@
  },
  "datatext.txt::datatext.txt_770": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: FIRE, GROUND, ROCK\\p   {TRIANGLE}: WATER, GRASS, DRAGON",
-  "target": "Wpływ na przeciwnika POKéMON:\\p{CIRCLE_DOT}: OGNISTY, ZIEMIA, SKAŁA\\p   {TRIANGLE}: WODA, TRAWa, SMOK",
+  "target": "Wpływ na przeciwnika POKéMON:\\p{CIRCLE_DOT}: OGNISTY, ZIEMIA, KAMENNY\\p   {TRIANGLE}: WODA, TRAWIASTY, SMOK",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322923.3852823,
+  "updated": 1792322935.9573421,
   "touched": true
  },
  "data maps.txt::data maps.txt_713": {
