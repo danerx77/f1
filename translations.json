@@ -32232,13 +32232,13 @@
  },
  "src.txt::src.txt_2034": {
   "source": "BERRIES picked:",
-  "target": "ZBIERANIE OWOCÓW:",
+  "target": "ZBIERANIE JAGODÓW:",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327883.8882363,
+  "updated": 1792327894.6616328,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_934": {
@@ -37274,7 +37274,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327882.8826861,
+  "updated": 1792327923.1474478,
   "touched": true
  },
  "data maps.txt::data maps.txt_1986": {
@@ -94936,10 +94936,12 @@
  },
  "src.txt::src.txt_2038": {
   "source": "10P     30P     50P     {EMOJI_MINUS}50P",
-  "target": "10P 30P 50P {EMOJI_MINUS}50P",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
   "updated": 1792327882.941851,
   "touched": true
@@ -98930,12 +98932,12 @@
  },
  "src.txt::src.txt_2036": {
   "source": "BERRIES picked in a row with\\nfive players:",
-  "target": "OWOCE jagodowe zbierane w\\nrzędzie przez pięciu graczy:",
+  "target": "JAGODY jagodowe zbierane w\\nrzędzie przez pięciu graczy:",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327881.6623552,
+  "updated": 1792327903.830653,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1211": {
@@ -103729,12 +103731,12 @@
  },
  "src.txt::src.txt_2037": {
   "source": "Announcing BERRY-PICKING results!",
-  "target": "Ogłaszanie wyników ZBIERANIA OWOCÓW!",
+  "target": "Ogłaszanie wyników ZBIERANIA JAGODÓW!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327881.796371,
+  "updated": 1792327912.0412307,
   "touched": true
  },
  "datatext.txt::datatext.txt_515": {
