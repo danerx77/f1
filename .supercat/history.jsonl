@@ -4261,3 +4261,17 @@
 {"time": "2026-10-18T14:03:25", "file": "src.txt", "seg_id": "src.txt_1764", "source": "Upon winning a battle:", "old": "Po zwycięstwie w bitwie:", "new": "Po wygraniu bitwy:", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:03:26", "file": "src.txt", "seg_id": "src.txt_1765", "source": "Upon losing a battle:", "old": "", "new": "Upon losing a battle:", "translator": "Antrix", "method": "auto_tm"}
 {"time": "2026-10-18T14:03:26", "file": "src.txt", "seg_id": "src.txt_1765", "source": "Upon losing a battle:", "old": "", "new": "Upon losing a battle:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:31", "file": "src.txt", "seg_id": "src.txt_1765", "source": "Upon losing a battle:", "old": "Upon losing a battle:", "new": "Po przegranej bitwie:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:31", "file": "src.txt", "seg_id": "src.txt_1765", "source": "Upon losing a battle:", "old": "Upon losing a battle:", "new": "Po przegranej bitwie:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:34", "file": "src.txt", "seg_id": "src.txt_1767", "source": "What's hip and happening?", "old": "", "new": "What's hip and happening?", "translator": "Antrix", "method": "auto_tm", "tm_source": " Upon losing a battle:<<KON>> → Upon losing a battle:)"}
+{"time": "2026-10-18T14:03:34", "file": "src.txt", "seg_id": "src.txt_1767", "source": "What's hip and happening?", "old": "", "new": "What's hip and happening?", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:38", "file": "src.txt", "seg_id": "src.txt_1767", "source": "What's hip and happening?", "old": "What's hip and happening?", "new": "Co jest modne i popularne?", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:38", "file": "src.txt", "seg_id": "src.txt_1767", "source": "What's hip and happening?", "old": "What's hip and happening?", "new": "Co jest modne i popularne?", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:42", "file": "src.txt", "seg_id": "src.txt_1768", "source": "Interview", "old": "", "new": "Interview", "translator": "Antrix", "method": "auto_tm"}
+{"time": "2026-10-18T14:03:42", "file": "src.txt", "seg_id": "src.txt_1768", "source": "Interview", "old": "", "new": "Interview", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:44", "file": "src.txt", "seg_id": "src.txt_1768", "source": "Interview", "old": "Interview", "new": "Wywiad", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:44", "file": "src.txt", "seg_id": "src.txt_1768", "source": "Interview", "old": "Interview", "new": "Wywiad", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:47", "file": "src.txt", "seg_id": "src.txt_1770", "source": "QUESTIONNAIRE", "old": "", "new": "QUESTIONNAIRE", "translator": "Antrix", "method": "auto_tm"}
+{"time": "2026-10-18T14:03:47", "file": "src.txt", "seg_id": "src.txt_1770", "source": "QUESTIONNAIRE", "old": "", "new": "QUESTIONNAIRE", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:50", "file": "src.txt", "seg_id": "src.txt_1770", "source": "QUESTIONNAIRE", "old": "QUESTIONNAIRE", "new": "KWESTIONARIUSZ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:50", "file": "src.txt", "seg_id": "src.txt_1770", "source": "QUESTIONNAIRE", "old": "QUESTIONNAIRE", "new": "KWESTIONARIUSZ", "translator": "Antrix", "method": "manual"}

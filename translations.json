@@ -18576,10 +18576,14 @@
  },
  "src.txt::src.txt_1767": {
   "source": "What's hip and happening?",
-  "target": "",
-  "status": "new",
+  "target": "Co jest modne i popularne?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325021.8307438,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1099": {
   "source": "Wow, I talked a lot today!\\nAll righty, be seeing you!\\pRemember, TRAINERS, a good deed\\na day brings happiness to stay!",
@@ -21199,10 +21203,14 @@
  },
  "src.txt::src.txt_1770": {
   "source": "QUESTIONNAIRE",
-  "target": "",
-  "status": "new",
+  "target": "KWESTIONARIUSZ",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325041.2548158,
+  "touched": true
  },
  "src.txt::src.txt_1325": {
   "source": "{STR_VAR_1} and {STR_VAR_2}\\nare not compatible.\\p{STR_VAR_2} can't be\\nlearned.{PAUSE_UNTIL_PRESS}",
@@ -31575,7 +31583,10 @@
   "target": "POKéMON CENTER",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325043.4602723,
+  "touched": true
  },
  "data maps.txt::data maps.txt_788": {
   "source": "Wait!\\nBut how?",
@@ -50680,13 +50691,13 @@
  },
  "src.txt::src.txt_1764": {
   "source": "Upon winning a battle:",
-  "target": "Po zwycięstwie w bitwie:",
+  "target": "Po wygraniu bitwy:",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325003.5031326,
+  "updated": 1792325006.4826534,
   "touched": true
  },
  "src.txt::src.txt_989": {
@@ -64321,10 +64332,14 @@
  },
  "src.txt::src.txt_1768": {
   "source": "Interview",
-  "target": "",
-  "status": "new",
+  "target": "Wywiad",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325027.2719295,
+  "touched": true
  },
  "src.txt::src.txt_324": {
   "source": "Rain continues to fall.",
@@ -107063,10 +107078,14 @@
  },
  "src.txt::src.txt_1765": {
   "source": "Upon losing a battle:",
-  "target": "",
-  "status": "new",
+  "target": "Po przegranej bitwie:",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325014.2751021,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1880": {
   "source": "AMIRA",
