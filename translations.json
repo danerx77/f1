@@ -78755,10 +78755,14 @@
  },
  "datatext.txt::datatext.txt_734": {
   "source": "Own POKéMON type: FIRE",
-  "target": "",
-  "status": "new",
+  "target": "Own POKéMON type: FIRE",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319057.0124242,
+  "touched": true
  },
  "src.txt::src.txt_341": {
   "source": "It was too weak to make\\na SUBSTITUTE!",
@@ -105508,7 +105512,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792319016.9933577,
+  "updated": 1792319054.1749635,
   "touched": true
  },
  "datatext.txt::datatext.txt_564": {
