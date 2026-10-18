@@ -1880,7 +1880,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323690.005565,
+  "updated": 1792323798.0620344,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_228": {
@@ -5430,7 +5430,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323690.5169473,
+  "updated": 1792323801.8460805,
   "touched": true
  },
  "src.txt::src.txt_1356": {
@@ -6195,7 +6195,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323691.184938,
+  "updated": 1792323803.440751,
   "touched": true
  },
  "data maps.txt::data maps.txt_168": {
@@ -39725,7 +39725,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323685.7855296,
+  "updated": 1792323789.7858167,
   "touched": true
  },
  "src.txt::src.txt_609": {
@@ -64126,12 +64126,12 @@
  },
  "datatext.txt::datatext.txt_559": {
   "source": "{CIRCLE_1} Select “BAG” on the MENU.\\n{CIRCLE_2} Press left or right on the {PLUS} Control\\n   Pad to check the data headings:\\n   “ITEMS”\\n   “KEY ITEMS”\\n   “POKé BALLS”\\n   Press up or down to select an item.",
-  "target": "{CIRCLE_1} Wybierz „TORBA” w MENU.\\n{CIRCLE_2} Naciśnij w lewo lub w prawo na\\n{PLUS} Panelu sterowania, aby sprawdzić nagłówki danych:\\n   „PRZEDMIOTY”\\n„KLUCZOWE PRZEDMIOTY” „PIŁKI POKé”\\nNaciśnij w górę lub w\\ndół, aby wybrać przedmiot.",
+  "target": "{CIRCLE_1} Wybierz „TORBA” w MENU.\\n{CIRCLE_2} Naciśnij w lewo lub w prawo na\\n{PLUS} Panelu sterowania, aby sprawdzić nagłówki danych:\\n   „PRZEDMIOTY”\\n„KLUCZOWE PRZEDMIOTY” „POKé BALLS”\\nNaciśnij w górę lub w\\ndół, aby wybrać przedmiot.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323763.443757,
+  "updated": 1792323767.830386,
   "touched": true
  },
  "data maps.txt::data maps.txt_419": {
@@ -74782,12 +74782,12 @@
  },
  "datatext.txt::datatext.txt_560": {
   "source": "{CIRCLE_1} Select the “ITEMS” POCKET.\\n{CIRCLE_2} Press up or down on the {PLUS} Control\\n   Pad to select an item.\\n{CIRCLE_3} Select “USE” to use the selected\\n   item.\\nSome items may not be used depending\\non the place and/or situation.",
-  "target": "{CIRCLE_1} Wybierz kieszeń „PRZEDMIOTY”.\\n{CIRCLE_2} Naciśnij w górę lub w dół\\nna {PLUS} Panelu sterowania, aby wybrać element.\\n{CIRCLE_3} Wybierz „UŻYJ”, aby\\nużyć wybranego przedmiotu.\\nNiektóre przedmioty mogą nie być używane\\nw zależności od miejsca i/lub sytuacji.",
+  "target": "{CIRCLE_1} Wybierz kieszeń „PRZEDMIOTY”.\\n{CIRCLE_2} Naciśnij w górę lub w dół\\nna {PLUS} Panelu sterowania, aby wybrać element.\\n{CIRCLE_3} Wybierz „UŻYJ”, aby\\nużyć wybranego przedmiotu.\\nNiektóre przedmioty mogą nie być używane\\nw zależności od miejsca i\\nlub sytuacji.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323686.5156147,
+  "updated": 1792323785.9762168,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_300": {
@@ -95727,7 +95727,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323688.2366445,
+  "updated": 1792323794.2761347,
   "touched": true
  },
  "src.txt::src.txt_407": {
