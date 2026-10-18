@@ -11382,7 +11382,10 @@
   "target": "Okej, wszystko na miejscu, by\\nwypłynąć na specjalnym promie.\\pSEAGALLOP HI-SPEED 10 jest gotowy\\ndo wypłynięcia.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792329737.1011076,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3174": {
   "source": "It's not easy opening that door.\\pLT. SURGE was always famous for\\nhis cautious nature in the Army.",
