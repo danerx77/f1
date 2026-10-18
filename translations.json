@@ -11511,13 +11511,13 @@
  },
  "src.txt::src.txt_2277": {
   "source": "Read the NEWS that arrived.",
-  "target": "Read the NEWS that arrived.",
+  "target": "Przeczytaj WIADOMOŚCI, które nadeszły.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326949.259433,
+  "updated": 1792327165.3534098,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_33": {
@@ -17740,13 +17740,13 @@
  },
  "src.txt::src.txt_2282": {
   "source": "Where should the WONDER NEWS\\nbe accessed?",
-  "target": "Where should the WONDER NEWS\\nbe accessed?",
+  "target": "Gdzie powinny być\\ndostępne WONDER NEWS?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326955.1533682,
+  "updated": 1792327147.7611887,
   "touched": true
  },
  "data maps.txt::data maps.txt_2453": {
@@ -32477,13 +32477,13 @@
  },
  "src.txt::src.txt_2281": {
   "source": "Where should the WONDER CARD\\nbe accessed?",
-  "target": "Where should the WONDER CARD\\nbe accessed?",
+  "target": "Gdzie należy uzyskać dostęp\\ndo KARTY CUDÓW?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326953.8996813,
+  "updated": 1792327144.7592983,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_643": {
@@ -47250,7 +47250,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327126.5371616,
+  "updated": 1792327132.182078,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_796": {
@@ -58265,13 +58265,13 @@
  },
  "src.txt::src.txt_2279": {
   "source": "You don't have a WONDER CARD,\\nso a new CARD will be input.",
-  "target": "You don't have a WONDER CARD,\\nso a new CARD will be input.",
+  "target": "Nie masz KARTY CUDU,\\nwięc zostanie wprowadzona nowa KARTA.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326951.5596528,
+  "updated": 1792327142.2369938,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_604": {
@@ -101649,13 +101649,13 @@
  },
  "src.txt::src.txt_2278": {
   "source": "Return to the title screen.",
-  "target": "powrócić\\nna ekran tytułowy.",
+  "target": "Powróć do ekranu tytułowego.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326950.3285084,
+  "updated": 1792327161.3366182,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_627": {
@@ -110116,13 +110116,13 @@
  },
  "src.txt::src.txt_2280": {
   "source": "You don't have any WONDER NEWS,\\nso new NEWS will be input.",
-  "target": "You don't have any WONDER NEWS,\\nso new NEWS will be input.",
+  "target": "Nie masz żadnych FANTASTYCZNYCH WIADOMOŚCI,\\nwięc zostaną wprowadzone nowe WIADOMOŚCI.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326952.74003,
+  "updated": 1792327143.9879978,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_333": {
