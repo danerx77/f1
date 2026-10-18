@@ -79910,12 +79910,12 @@
  },
  "datatext.txt::datatext.txt_749": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FIRE, ICE, POISON, FLYING, BUG\\p   {TRIANGLE}: WATER, ELECTRIC, GRASS, GROUND",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: OGNISTY, LÓD, TRUCIZNA, LOT, OWAD\\p   {TRIANGLE}: WODA, ELEKTRYCZNY, TRAWA, ZIEMIA",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: OGNISTY, LÓD, TRUCIZNA, LOT, ROBACZY\\p   {TRIANGLE}: WODA, ELEKTRYCZNY, TRAWA, ZIEMIA",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322763.4162314,
+  "updated": 1792322803.3892746,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_554": {
