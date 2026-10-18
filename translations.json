@@ -87340,12 +87340,12 @@
  },
  "src.txt::src.txt_2184": {
   "source": "BRONZE",
-  "target": "BRĄZ",
+  "target": "BRĄZOWY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325483.5716808,
+  "updated": 1792325522.4932969,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1090": {
@@ -105032,7 +105032,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790795666.6452959
+  "updated": 1792325523.2446203,
+  "touched": true
  },
  "datatext.txt::datatext.txt_879": {
   "source": "Accessed BILL's PC.",
@@ -110041,7 +110042,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325481.7859743,
+  "updated": 1792325523.603727,
   "touched": true
  },
  "data maps.txt::data maps.txt_2662": {
