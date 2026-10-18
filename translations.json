@@ -35377,13 +35377,13 @@
  },
  "datascript.txt::datascript.txt_59": {
   "source": "If you want to play a game,\\nplease tell the man beside me.",
-  "target": "If you want to play a game,\\nplease tell the man beside me.",
+  "target": "Jeśli chcesz zagrać w grę,\\nproszę powiedz mężczyźnie obok mnie.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792320158.171738,
+  "updated": 1792320158.9030037,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_526": {
@@ -78613,7 +78613,7 @@
  },
  "datascript.txt::datascript.txt_60": {
   "source": "Hi, welcome!\\nYou can play games over the\\lWireless Communication System.\\pCan you wait just a little bit?",
-  "target": "Hi, welcome!\\nMożesz wziąć tam ze sobą pokémona\\lWireless Communication System.\\pCan you wait just a little bit?",
+  "target": "Cześć, witaj!\\nMożesz grać w gry\\lza pośrednictwem systemu komunikacji bezprzewodowej.\\pCzy możesz poczekać tylko chwilę?",
   "status": "draft",
   "notes": "",
   "ignored": false,
@@ -98305,10 +98305,13 @@
  },
  "datascript.txt::datascript.txt_56": {
   "source": "I can explain game rules to you,\\nif you'd like.\\pWhich game should I describe?",
-  "target": "",
-  "status": "new",
+  "target": "Mogę ci wyjaśnić zasady\\ngry, jeśli chcesz.\\pKtórą grę powinienem opisać?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792320198.105714,
+  "touched": true
  },
  "src.txt::src.txt_2424": {
   "source": "RHYDON",
