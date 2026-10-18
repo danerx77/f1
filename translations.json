@@ -15661,10 +15661,13 @@
  },
  "src.txt::src.txt_2183": {
   "source": "{STR_VAR_1}P LINK",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1}P LINK",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325471.6961315,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1751": {
   "source": "Why, you!",
@@ -27562,10 +27565,13 @@
  },
  "src.txt::src.txt_2181": {
   "source": "A Button: Registration Counter",
-  "target": "",
-  "status": "new",
+  "target": "Przycisk A: Stanowisko rejestracyjne",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325468.2077184,
+  "touched": true
  },
  "src.txt::src.txt_2245": {
   "source": "{DYNAMIC 0x03} players",
@@ -56212,10 +56218,13 @@
  },
  "src.txt::src.txt_2182": {
   "source": "A Button: Title Screen",
-  "target": "",
-  "status": "new",
+  "target": "Przycisk A: Ekran tytułowy",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325469.9746673,
+  "touched": true
  },
  "src.txt::src.txt_1363": {
   "source": "Can't use that here.",
@@ -87331,10 +87340,13 @@
  },
  "src.txt::src.txt_2184": {
   "source": "BRONZE",
-  "target": "",
-  "status": "new",
+  "target": "BRĄZ",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325483.5716808,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1090": {
   "source": "It guides VOLBEAT to draw signs in night\\nskies. There are scientists that study the\\npatterns it creates.",
@@ -95703,13 +95715,13 @@
  },
  "src.txt::src.txt_2178": {
   "source": "Communication error…\\nPlease check all connections,\\nthen turn the power OFF and ON.",
-  "target": "Communication error…\\nPlease check all connections,\\nthen turn the power OFF and ON.",
+  "target": "Błąd komunikacji…\\nProszę sprawdzić wszystkie połączenia, a\\nnastępnie wyłączyć i włączyć zasilanie.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325443.5389256,
+  "updated": 1792325457.8153055,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_1000": {
@@ -98802,10 +98814,13 @@
  },
  "src.txt::src.txt_2179": {
   "source": "Communication error…",
-  "target": "",
-  "status": "new",
+  "target": "Błąd komunikacji…",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325459.831353,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_189": {
   "source": "COTTONWEED",
@@ -102321,10 +102336,13 @@
  },
  "src.txt::src.txt_2180": {
   "source": "Move closer to your link partner(s).\\nAvoid obstacles between partners.",
-  "target": "",
-  "status": "new",
+  "target": "Przybliż się do swojego(-ich) partnera(-ów) w łączu.\\nUnikaj przeszkód między partnerami.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325464.9098322,
+  "touched": true
  },
  "src.txt::src.txt_1386": {
   "source": "NOT ABLE",
@@ -110018,10 +110036,13 @@
  },
  "src.txt::src.txt_2185": {
   "source": "COPPER",
-  "target": "",
-  "status": "new",
+  "target": "Miedź",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325481.7859743,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2662": {
   "source": "That's as far as you'll go!",
