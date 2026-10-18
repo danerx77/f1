@@ -39772,10 +39772,13 @@
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_728": {
   "source": "It makes its nest at the bottom of \\nswamps. It will eat anything - if it is\\nalive, WHISCASH will eat it.",
-  "target": "Tworzy swoje gniazdo na dnie bagien.\\nBędzie jadł wszystko - jesli coś żyje,\\nto WHISCASH go zje.",
+  "target": "Tworzy swoje gniazdo na dnie bagien.\\nBędzie jadł wszystko  jesli coś żyje,\\nto WHISCASH go zje.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792330017.0967567,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_221": {
   "source": "IMPOSSIBLE",
@@ -81085,10 +81088,14 @@
  },
  "src.txt::src.txt_2264": {
   "source": "----------",
-  "target": "----------",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1792329984.8232183,
+  "touched": true
  },
  "datatext.txt::datatext.txt_349": {
   "source": "PHOTO",
