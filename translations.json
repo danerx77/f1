@@ -15375,7 +15375,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325363.4841352,
+  "updated": 1792325381.015741,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_126": {
@@ -87720,17 +87720,23 @@
   "ignored": true,
   "manual_skip": true
  },
- "srcdatatext.txt::srcdatatext.txt_128": {
-  "source": "EARLY BIRD",
-  "target": "RANNY PTAK",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "src.txt::src.txt_2093": {
   "source": "\\n\\n\\nJunichi Masuda\\n\\n\\n",
   "target": "",
   "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325401.009334,
+  "touched": true
+ },
+ "srcdatatext.txt::srcdatatext.txt_128": {
+  "source": "EARLY BIRD",
+  "target": "RANNY PTAK",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
