@@ -4067,10 +4067,13 @@
  },
  "src.txt::src.txt_2027": {
   "source": "You can't hold any more!",
-  "target": "",
-  "status": "new",
+  "target": "Nie możesz już więcej wytrzymać!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327839.9052863,
+  "touched": true
  },
  "datatext.txt::datatext.txt_530": {
   "source": "  Moving items",
@@ -7157,7 +7160,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327801.8785045,
+  "updated": 1792327812.6929257,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_355": {
@@ -9953,10 +9956,13 @@
  },
  "src.txt::src.txt_2026": {
   "source": "There's no room left now.",
-  "target": "",
-  "status": "new",
+  "target": "Nie ma już teraz miejsca.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327839.124235,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1041": {
   "source": "HUNTAIL",
@@ -11175,7 +11181,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327801.6761067,
+  "updated": 1792327806.1069474,
   "touched": true
  },
  "src.txt::src.txt_1314": {
@@ -15537,10 +15543,13 @@
  },
  "src.txt::src.txt_2025": {
   "source": "Awesome score! You've\\nwon {DYNAMIC 01} {DYNAMIC 00}!",
-  "target": "",
-  "status": "new",
+  "target": "Niesamowity wynik! Wygrałeś {DYNAMIC\\n01} {DYNAMIC 00}!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327838.7056744,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_813": {
   "source": "When it is born, it has just one snow-\\nwhite tail. The tail splits from its tip as\\nit grows older.",
@@ -21030,7 +21039,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327801.6640081,
+  "updated": 1792327806.8913088,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_769": {
@@ -47445,10 +47454,14 @@
  },
  "src.txt::src.txt_2022": {
   "source": "Jumps in a row:",
-  "target": "",
-  "status": "new",
+  "target": "Skoki w rzędzie:",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327842.0229092,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_995": {
   "source": "FIGY BERRY",
@@ -47961,14 +47974,13 @@
  },
  "src.txt::src.txt_2024": {
   "source": "EXCELLENTS in a row:",
-  "target": "",
-  "status": "new",
+  "target": "DOSKONAŁE z rzędu:",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736595.1628137,
+  "updated": 1792327843.7544224,
   "touched": true
  },
  "src.txt::src.txt_2222": {
@@ -63410,7 +63422,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327803.7189932,
+  "updated": 1792327804.6347466,
   "touched": true
  },
  "data maps.txt::data maps.txt_2997": {
@@ -65858,14 +65870,13 @@
  },
  "src.txt::src.txt_1983": {
   "source": "HELLO",
-  "target": "",
-  "status": "new",
+  "target": "CZEŚĆ",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325253.6968243,
+  "updated": 1792327830.8226292,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_509": {
@@ -66035,12 +66046,13 @@
  },
  "src.txt::src.txt_2023": {
   "source": "Best score:",
-  "target": "",
-  "status": "new",
+  "target": "Najlepszy wynik:",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1789924543.4200869
+  "updated": 1792327842.4308808,
+  "touched": true
  },
  "src.txt::src.txt_2013": {
   "source": "おしえテレビ",
@@ -82586,7 +82598,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327801.8453023,
+  "updated": 1792327807.907346,
   "touched": true
  },
  "src.txt::src.txt_1221": {

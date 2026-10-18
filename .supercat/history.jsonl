@@ -4916,3 +4916,7 @@
 {"time": "2026-10-18T14:49:51", "file": "src.txt", "seg_id": "src.txt_1969", "source": "Register text where?", "old": "", "new": "Register text where?", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:49:52", "file": "src.txt", "seg_id": "src.txt_1971", "source": "Input text.", "old": "", "new": "Input text.", "translator": "Antrix", "method": "auto_tm", "tm_source": " Register text where?<<KON>> → Register text where?)"}
 {"time": "2026-10-18T14:49:52", "file": "src.txt", "seg_id": "src.txt_1971", "source": "Input text.", "old": "", "new": "Input text.", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:50:16", "file": "src.txt", "seg_id": "src.txt_1983", "source": "HELLO", "old": "", "new": "CZEŚĆ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:50:16", "file": "src.txt", "seg_id": "src.txt_1983", "source": "HELLO", "old": "", "new": "CZEŚĆ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:50:31", "file": "src.txt", "seg_id": "src.txt_2022", "source": "Jumps in a row:", "old": "", "new": "Recording your game results in the\\nsave file.\\nPlease wait.", "translator": "Antrix", "method": "auto_tm"}
+{"time": "2026-10-18T14:50:31", "file": "src.txt", "seg_id": "src.txt_2022", "source": "Jumps in a row:", "old": "", "new": "Recording your game results in the\\nsave file.\\nPlease wait.", "translator": "Antrix", "method": "manual"}
