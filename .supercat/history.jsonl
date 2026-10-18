@@ -5003,3 +5003,12 @@
 {"time": "2026-10-18T15:01:54", "file": "src.txt", "seg_id": "src.txt_2331", "source": "RECEIVE", "old": "", "new": "OTRZYMAJ", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T15:02:08", "file": "src.txt", "seg_id": "src.txt_2939", "source": "GREETINGS", "old": "", "new": "POWITANIA", "translator": "Antrix", "method": "auto_tm", "tm_source": " RECEIVE → OTRZYMAJ)"}
 {"time": "2026-10-18T15:02:08", "file": "src.txt", "seg_id": "src.txt_2939", "source": "GREETINGS", "old": "", "new": "POWITANIA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:02:25", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "", "new": "REKORDY SKOKÓW", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:02:25", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "", "new": "REKORDY SKOKÓW", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:02:30", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "REKORDY SKOKÓW", "new": "POKéMONSKOKÓW", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:02:30", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "POKéMONSKOKÓW", "new": "POKéMON SKOKÓW", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:02:32", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "POKéMON SKOKÓW", "new": "POKéMON SKo", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:02:34", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "POKéMON SKo", "new": "POKéMON SK", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:02:34", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "POKéMON SK", "new": "POKéMON SKO", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:02:34", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "POKéMON SKO", "new": "POKéMON SKOK", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T15:02:34", "file": "src.txt", "seg_id": "src.txt_2952", "source": "POKéMON JUMP", "old": "POKéMON SKOK", "new": "POKéMON SKOKI", "translator": "Antrix", "method": "manual"}

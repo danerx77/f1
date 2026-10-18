@@ -21106,11 +21106,12 @@
  },
  "src.txt::src.txt_2952": {
   "source": "POKéMON JUMP",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON SKOKI",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1792328554.9122996,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_774": {
