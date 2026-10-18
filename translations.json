@@ -41855,12 +41855,12 @@
  },
  "datatext.txt::datatext.txt_668": {
   "source": "Ordinary items bought at any POKéMON\\nMART are placed in the ITEMS POCKET.\\lItems may be used, given to a POKéMON\\lto hold, or tossed out as garbage.",
-  "target": "Zwykłe przedmioty kupione w dowolnym POKéMON\\nMART umieszczane są w KIESZENI PRZEDMIOTÓW.\\lPrzedmioty mogą być używane, przekazywane Pokémonowi\\ldo trzymania lub wyrzucane jako śmieci.",
+  "target": "Zwykłe przedmioty kupione w dowolnym POKéMON\\nSKLEPIE umieszczane są w KIESZENI PRZEDMIOTÓW.\\lPrzedmioty mogą być używane, przekazywane Pokémonowi\\ldo trzymania lub wyrzucane jako śmieci.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324305.319836,
+  "updated": 1792324503.6944668,
   "touched": true
  },
  "src.txt::src.txt_2367": {
@@ -43700,12 +43700,12 @@
  },
  "datatext.txt::datatext.txt_670": {
   "source": "POKé BALLS, which are used for\\ncatching wild POKéMON, are placed in\\lthe POKé BALLS POCKET.\\lPOKé BALLS may be bought at POKéMON\\lMARTS. They may be used, given to a\\lPOKéMON to hold, or tossed out as\\lgarbage.",
-  "target": "PIŁKI POKé, które służą do\\nłapania dzikich POKéMON, są umieszczane\\lw KIESZENI NA PIŁKI POKé.\\lKULE POKé mogą być kupowane\\lw POKéMON MARKETACH. Mogą być\\lużywane, przekazywane POKéMONOWI do\\ltrzymania lub wyrzucane jako śmieci.",
+  "target": "PIŁKI POKé, które służą do\\nłapania dzikich POKéMON, są umieszczane\\lw KIESZENI NA POKé BALLS.\\lPOKé BALLS mogą być kupowane\\lw POKéMON MARKETACH. Mogą być\\lużywane, przekazywane POKéMONOWI do\\ltrzymania lub wyrzucane jako śmieci.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324307.0060852,
+  "updated": 1792324523.4833956,
   "touched": true
  },
  "data maps.txt::data maps.txt_1409": {
@@ -51436,7 +51436,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324307.135787,
+  "updated": 1792324513.3450358,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_549": {
@@ -82308,7 +82308,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324483.496349,
+  "updated": 1792324483.8722022,
   "touched": true
  },
  "datatext.txt::datatext.txt_419": {
@@ -93003,7 +93003,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324306.4762137,
+  "updated": 1792324508.9332414,
   "touched": true
  },
  "datatext.txt::datatext.txt_1216": {
