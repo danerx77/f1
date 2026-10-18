@@ -3168,12 +3168,13 @@
  },
  "src.txt::src.txt_2334": {
   "source": "DEL. ALL{CLEAR_TO 0x57}CANCEL{CLEAR_TO 0xA4}OK",
-  "target": "DEL. ALL{CLEAR_TO 0x57}ANULUJ{CLEAR_TO 0xA4}3OK",
+  "target": "us. ALL{CLEAR_TO 0x57}ANULUJ{CLEAR_TO 0xA4}OK",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790524827.5242865
+  "updated": 1792326883.7330825,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_26": {
   "source": "ROUTE 12",
@@ -26242,10 +26243,13 @@
  },
  "src.txt::src.txt_2764": {
   "source": "{STR_VAR_1}! Awaiting link!\\nPress START when everyone's ready.",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1}! Oczekiwanie na link!\\nNaciśnij START, gdy wszyscy będą gotowi.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326864.4167747,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_626": {
   "source": "TM05",
@@ -87101,17 +87105,20 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2763": {
+  "source": "{STR_VAR_1}! Awaiting\\ncommunication from another player.",
+  "target": "{STR_VAR_1}! Oczekiwanie na komunikację\\nod innego gracza.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326847.700652,
+  "touched": true
+ },
  "srcdatapokemon.txt::srcdatapokemon.txt_25": {
   "source": "SNAKE",
   "target": "WĄŻ",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2763": {
-  "source": "{STR_VAR_1}! Awaiting\\ncommunication from another player.",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -109186,13 +109193,15 @@
  },
  "src.txt::src.txt_2336": {
   "source": "$$$$$$$$$$",
-  "target": "$$$$$$$$$$",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": true,
   "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790524818.828923
+  "updated": 1790524818.828923,
+  "touched": true
  },
  "src.txt::src.txt_849": {
   "source": "The user creates a\\ndecoy using one-\\nquarter of its full\\nHP.",
