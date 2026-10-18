@@ -1969,10 +1969,13 @@
  },
  "src.txt::src.txt_2789": {
   "source": "{STR_VAR_2} contacted you.\\nWill you share {STR_VAR_1}?",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_2} skontaktował się z tobą.\\nCzy podzielisz się {STR_VAR_1}?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326683.7375576,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_164": {
   "source": "MEGA PUNCH",
@@ -10633,10 +10636,13 @@
  },
  "src.txt::src.txt_2792": {
   "source": "Cancel {STR_VAR_1} MODE\\nwith these members?",
-  "target": "",
-  "status": "new",
+  "target": "Anulować tryb {STR_VAR_1}\\nz tymi członkami?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326660.8362343,
+  "touched": true
  },
  "datatext.txt::datatext.txt_9": {
   "source": "Well then, I'll keep it.\\nThanks!",
@@ -20449,10 +20455,13 @@
  },
  "src.txt::src.txt_2790": {
   "source": "{STR_VAR_2} contacted you.\\nAdd to the members?",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_2} skontaktował się z tobą.\\nDodać do członków?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326660.8763425,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3339": {
   "source": "You can go on to the POKéMON\\nLEAGUE only by defeating our GYM\\lLEADER!",
@@ -21875,10 +21884,13 @@
  },
  "src.txt::src.txt_2788": {
   "source": "{STR_VAR_2} contacted you for\\n{STR_VAR_1}. Accept?",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_2} skontaktował się z\\ntobą w sprawie {STR_VAR_1}. Akceptujesz?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326682.3700671,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1692": {
   "source": "You little rat!",
@@ -57847,10 +57859,13 @@
  },
  "src.txt::src.txt_2791": {
   "source": "{STR_VAR_1}!\\nAre these members OK?",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1}!\\nCzy ci członkowie są w porządku?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326660.3162858,
+  "touched": true
  },
  "data maps.txt::data maps.txt_708": {
   "source": "WARDEN: Thanks, son!\\nYou're a real lifesaver!\\pNo one could understand a word\\nthat I said, not a one!\\pI was too ashamed to show my face\\naround the OFFICE, even.\\pLet me give you something for your\\ntrouble.",
@@ -68998,7 +69013,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326643.7281003,
+  "updated": 1792326647.4935818,
   "touched": true
  },
  "src.txt::src.txt_1964": {
