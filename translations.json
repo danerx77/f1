@@ -9795,10 +9795,14 @@
  },
  "src.txt::src.txt_1548": {
   "source": "TRADE CENTER",
-  "target": "",
-  "status": "new",
+  "target": "CENTRUM HANDLOWE",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327724.4653418,
+  "touched": true
  },
  "src.txt::src.txt_6": {
   "source": "FIGHT",
@@ -13187,13 +13191,13 @@
  },
  "src.txt::src.txt_1501": {
   "source": "CUTE",
-  "target": "UROC",
+  "target": "UROCZY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327683.7231715,
+  "updated": 1792327685.665231,
   "touched": true
  },
  "data maps.txt::data maps.txt_2061": {
@@ -24032,11 +24036,13 @@
  },
  "src.txt::src.txt_1524": {
   "source": "FLAREON",
-  "target": "FLAREON",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
-  "manual_skip": true
+  "manual_skip": true,
+  "cleared": true,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2477": {
   "source": "JON: When I'm with EVE,\\nit doesn't feel like I've lost!",
@@ -30405,14 +30411,15 @@
  },
  "src.txt::src.txt_1523": {
   "source": "EEVEE",
-  "target": "EEVEE",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1790524797.9821374
+  "updated": 1790524797.9821374,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_547": {
   "source": "PHONE",
@@ -48963,10 +48970,13 @@
  },
  "src.txt::src.txt_1502": {
   "source": "SMART",
-  "target": "…mądry…",
+  "target": "MĄDRY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327689.9665813,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3137": {
   "source": "<<< FILE: maps/VermilionCity/text.inc >>>",
@@ -99454,10 +99464,14 @@
  },
  "src.txt::src.txt_1503": {
   "source": "TOUGH",
-  "target": "",
-  "status": "new",
+  "target": "TWARDY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327700.8067708,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_921": {
   "source": "GREEN",
@@ -104727,14 +104741,15 @@
  },
  "src.txt::src.txt_1526": {
   "source": "VAPOREON",
-  "target": "VAPOREON",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1790524797.9738693
+  "updated": 1790524797.9738693,
+  "touched": true
  },
  "data maps.txt::data maps.txt_692": {
   "source": "Good luck!",

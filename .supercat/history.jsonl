@@ -4897,3 +4897,16 @@
 {"time": "2026-10-18T14:48:08", "file": "src.txt", "seg_id": "src.txt_1502", "source": "SMART", "old": "Mądry", "new": "MĄDRY", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:48:10", "file": "src.txt", "seg_id": "src.txt_1503", "source": "TOUGH", "old": "", "new": "TWARDY", "translator": "Antrix", "method": "auto_tm", "tm_source": " CUTE → Możesz zmierzyć się z innym\\nT)"}
 {"time": "2026-10-18T14:48:10", "file": "src.txt", "seg_id": "src.txt_1503", "source": "TOUGH", "old": "", "new": "TWARDY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:22", "file": "src.txt", "seg_id": "src.txt_1524", "source": "FLAREON", "old": "FLAREON", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T14:48:26", "file": "src.txt", "seg_id": "src.txt_1526", "source": "VAPOREON", "old": "VAPOREON", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T14:48:28", "file": "src.txt", "seg_id": "src.txt_1523", "source": "EEVEE", "old": "EEVEE", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T14:48:38", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "", "new": "TRADE CENTER", "translator": "Antrix", "method": "auto_tm", "tm_source": " TOUGH → TWARDY)"}
+{"time": "2026-10-18T14:48:38", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "", "new": "TRADE CENTER", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:44", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "TRADE CENTER", "new": "CENTRUM HANDLOWE", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:44", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "TRADE CENTER", "new": "CENTRUM HANDLOWE", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:46", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "CENTRUM HANDLOWE", "new": "CENTRUM W", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:47", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "CENTRUM W", "new": "CENTRUM WY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:47", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "CENTRUM WY", "new": "CENTRUM WYM", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:47", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "CENTRUM WYM", "new": "CENTRUM WYMI", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:47", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "CENTRUM WYMI", "new": "CENTRUM WYMIA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:48:47", "file": "src.txt", "seg_id": "src.txt_1548", "source": "TRADE CENTER", "old": "CENTRUM WYMIA", "new": "CENTRUM WYMIAN", "translator": "Antrix", "method": "manual"}
