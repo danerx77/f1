@@ -4974,3 +4974,6 @@
 {"time": "2026-10-18T14:54:25", "file": "src.txt", "seg_id": "src.txt_2078", "source": "Crushing Results", "old": "", "new": "Crushing Results", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:57:27", "file": "src.txt", "seg_id": "src.txt_2132", "source": "Special Thanks\\n\\n\\n\\n\\n\\n", "old": "Specjalne podziękow\\n\\nania\\n\\n\\n\\n", "new": "", "translator": "Antrix", "method": "clear"}
 {"time": "2026-10-18T14:57:36", "file": "src.txt", "seg_id": "src.txt_2134", "source": "Special Thanks\\n\\n\\n\\n\\n\\n", "old": "Specjalne podziękow\\n\\nania\\n\\n\\n\\n", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T14:57:47", "file": "src.txt", "seg_id": "src.txt_2160", "source": "\\nEnvironment & Tool Programmers\\n\\n\\n\\n\\n", "old": "\\nEnvironment & Tool Programmers\\n\\n\\n\\n\\n", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T14:57:56", "file": "src.txt", "seg_id": "src.txt_2168", "source": "Special Thanks\\n\\n\\n\\n\\n\\n", "old": "Specjalne podziękow\\n\\nania\\n\\n\\n\\n", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T14:58:04", "file": "src.txt", "seg_id": "src.txt_2174", "source": "\\n\\nGraphic Designer\\n\\n\\n\\n", "old": "Projektantem Graficzn\\n\\nym!\\n\\n\\n\\n", "new": "", "translator": "Antrix", "method": "clear"}

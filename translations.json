@@ -3964,7 +3964,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328281.2631786,
+  "touched": true
  },
  "src.txt::src.txt_1230": {
   "source": "Deposited {STR_VAR_2}\\n{STR_VAR_1}(s).",
@@ -8072,6 +8075,16 @@
   "translator": "Antrix",
   "updated": 1791586287.8084295
  },
+ "src.txt::src.txt_2142": {
+  "source": "Coordinators\\n\\n\\n\\n\\n\\n",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.8149276,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_576": {
   "source": "handily",
   "target": "łatwy",
@@ -8082,13 +8095,6 @@
   "translator": "Antrix",
   "updated": 1791737697.5253224,
   "touched": true
- },
- "src.txt::src.txt_2142": {
-  "source": "Coordinators\\n\\n\\n\\n\\n\\n",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdatatext.txt::srcdatatext.txt_978": {
   "source": "SURSKIT",
@@ -19964,14 +19970,15 @@
  },
  "src.txt::src.txt_2160": {
   "source": "\\nEnvironment & Tool Programmers\\n\\n\\n\\n\\n",
-  "target": "\\nEnvironment & Tool Programmers\\n\\n\\n\\n\\n",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
+  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327271.7333653,
+  "updated": 1792328268.8506317,
   "touched": true
  },
  "data maps.txt::data maps.txt_30": {
@@ -20761,7 +20768,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.8986228,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_498": {
   "source": "Its tongue is twice the length of its\\nbody. It can be moved like an arm for\\ngrabbing food and attacking.",
@@ -21528,7 +21538,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.9827392,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_138": {
   "source": "FLAME",
@@ -23255,17 +23268,20 @@
   "translator": "Antrix",
   "updated": 1791586295.609298
  },
- "srcdata.txt::srcdata.txt_486": {
-  "source": "POMEG BERRY",
-  "target": "POMEGJAGODA",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "src.txt::src.txt_2149": {
   "source": "\\n\\n\\nSatoshi Tajiri\\n\\n\\n",
   "target": "",
   "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.932029,
+  "touched": true
+ },
+ "srcdata.txt::srcdata.txt_486": {
+  "source": "POMEG BERRY",
+  "target": "POMEGJAGODA",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -25706,14 +25722,15 @@
  },
  "src.txt::src.txt_2174": {
   "source": "\\n\\nGraphic Designer\\n\\n\\n\\n",
-  "target": "Projektantem Graficzn\\n\\nym!\\n\\n\\n\\n",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
+  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327269.6044724,
+  "updated": 1792328286.0629547,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_582": {
@@ -33439,7 +33456,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.9487665,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_532": {
   "source": "WORK",
@@ -34971,7 +34991,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328273.1471584,
+  "touched": true
  },
  "data maps.txt::data maps.txt_390": {
   "source": "Oh, you're still not done yet?",
@@ -35932,7 +35955,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.7814581,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1053": {
   "source": "You are good at POKéMON, but how\\nis your chemistry grade?",
@@ -41887,7 +41913,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328264.0665667,
+  "touched": true
  },
  "datatext.txt::datatext.txt_902": {
   "source": "Your POKéDEX is coming along quite\\nwell!\\pI've given one of my AIDES an\\nAMULET COIN. Be sure to get it!",
@@ -49913,7 +49942,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.999712,
+  "touched": true
  },
  "src.txt::src.txt_1446": {
   "source": "VICTORIES",
@@ -51441,7 +51473,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328264.1001923,
+  "touched": true
  },
  "data.txt::data.txt_22": {
   "source": "どこか　とおくの　とびらが\\nひらいたような　おとだ‥‥",
@@ -52022,7 +52057,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.748288,
+  "touched": true
  },
  "src.txt::src.txt_561": {
   "source": "やわらかいので はこぶときは ちゅうい.",
@@ -53576,7 +53614,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328281.2122126,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_664": {
   "source": "It dislikes cold seasons. They migrate to\\nother lands in search of warmth, flying\\nover 180 miles a day.",
@@ -54087,7 +54128,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328273.1814013,
+  "touched": true
  },
  "src.txt::src.txt_375": {
   "source": "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} sent\\nout {B_OPPONENT_MON1_NAME} and {B_OPPONENT_MON2_NAME}!{PAUSE 60}",
@@ -54889,6 +54933,16 @@
   "cleared": true,
   "updated": 1791583770.9950237
  },
+ "src.txt::src.txt_2133": {
+  "source": "\\nHiro Nakamura\\nHiroyuki Uesugi\\nTeruki Murakawa\\n\\nKazuya Suyama\\n",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.6819258,
+  "touched": true
+ },
  "src.txt::src.txt_2841": {
   "source": "Oh, hi! We're having a chat now.\\nWould you like to join us?",
   "target": "Och, cześć! Teraz rozmawiamy.\\nCzy chciałbyś do nas dołączyć?",
@@ -54898,13 +54952,6 @@
   "translator": "Antrix",
   "updated": 1792326049.4284444,
   "touched": true
- },
- "src.txt::src.txt_2133": {
-  "source": "\\nHiro Nakamura\\nHiroyuki Uesugi\\nTeruki Murakawa\\n\\nKazuya Suyama\\n",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_3257": {
   "source": "Is VICTORY ROAD too tough?",
@@ -57716,12 +57763,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327283.7208478,
+  "updated": 1792328263.8656473,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_403": {
@@ -60210,14 +60257,14 @@
  },
  "src.txt::src.txt_2168": {
   "source": "Special Thanks\\n\\n\\n\\n\\n\\n",
-  "target": "Specjalne podziękow\\n\\nania\\n\\n\\n\\n",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
-  "auto_inserted": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1792327270.0738833,
+  "updated": 1792328277.3716214,
   "touched": true
  },
  "data maps.txt::data maps.txt_3097": {
@@ -62797,7 +62844,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328264.0832932,
+  "touched": true
  },
  "src.txt::src.txt_452": {
   "source": "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\\ndefrosted it!",
@@ -62958,7 +63008,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328273.2326207,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1176": {
   "source": "?????",
@@ -63965,6 +64018,16 @@
   "updated": 1791131537.079634,
   "touched": true
  },
+ "src.txt::src.txt_2144": {
+  "source": "\\nTask Managers\\n\\n\\n\\n\\n",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.8488307,
+  "touched": true
+ },
  "src.txt::src.txt_1924": {
   "source": "RTCを リセットします\\nAで けってい Bで キャンセル",
   "target": "",
@@ -63972,13 +64035,6 @@
   "notes": "",
   "ignored": true,
   "auto_excluded": true
- },
- "src.txt::src.txt_2144": {
-  "source": "\\nTask Managers\\n\\n\\n\\n\\n",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdatatext.txt::srcdatatext.txt_695": {
   "source": "SANDSLASH",
@@ -66833,7 +66889,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328281.2798634,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_38": {
   "source": "A spray-type medicine.\\nIt heals one POKéMON from a\\npoisoning.",
@@ -69706,7 +69765,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328273.1645277,
+  "touched": true
  },
  "src.txt::src.txt_2359": {
   "source": "RAPIDASH",
@@ -73131,7 +73193,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.7150474,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_671": {
   "source": "CHARMANDER",
@@ -78447,7 +78512,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.8821363,
+  "touched": true
  },
  "src.txt::src.txt_1682": {
   "source": "NAME",
@@ -86762,7 +86830,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328281.2295926,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_843": {
   "source": "TOGETIC",
@@ -90269,17 +90340,20 @@
   "updated": 1791734674.1247716,
   "touched": true
  },
- "srcdataregionmap.txt::srcdataregionmap.txt_124": {
-  "source": "ROUTE 10",
-  "target": "DROGA 10",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "src.txt::src.txt_2167": {
   "source": "\\n\\nNational Information Library\\n{CLEAR_TO 0x2D}Service\\nMargaret Campion\\n\\n",
   "target": "",
   "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328273.249598,
+  "touched": true
+ },
+ "srcdataregionmap.txt::srcdataregionmap.txt_124": {
+  "source": "ROUTE 10",
+  "target": "DROGA 10",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -91713,7 +91787,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328273.198153,
+  "touched": true
  },
  "data maps.txt::data maps.txt_645": {
   "source": "Awoo!",
@@ -92902,7 +92979,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.7317748,
+  "touched": true
  },
  "data maps.txt::data maps.txt_595": {
   "source": "Boioing!",
@@ -93672,7 +93752,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328264.032818,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1298": {
   "source": "A move that leaves the foe badly\\\\npoisoned. Its poison damage worsens\\\\nevery turn.",
@@ -93731,7 +93814,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.7979157,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_433": {
   "source": "????????",
@@ -94768,7 +94854,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.9654808,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1581": {
   "source": "Oh!\\nYou little beast!",
@@ -100194,7 +100283,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.7649503,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_60": {
   "source": "Powers up with PLUS.",
@@ -100565,7 +100657,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328273.2154548,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1617": {
   "source": "I need to burn some time.\\nShut up and battle.",
@@ -102123,7 +102218,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328264.0161424,
+  "touched": true
  },
  "data maps.txt::data maps.txt_521": {
   "source": "<<< FILE: maps/FiveIsland_RocketWarehouse/text.inc >>>",
@@ -103368,7 +103466,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.9152694,
+  "touched": true
  },
  "src.txt::src.txt_2371": {
   "source": "GENGAR",
@@ -108272,7 +108373,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328281.2464924,
+  "touched": true
  },
  "data maps.txt::data maps.txt_623": {
   "source": "My father is the GYM LEADER of\\nthis town.\\pI'm training to use POISON POKéMON\\nas well as my father.",
@@ -108959,7 +109063,10 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328263.831807,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_606": {
   "source": "{POKEBLOCK} CASE",
@@ -109508,12 +109615,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327270.0738833,
+  "updated": 1792328263.6987514,
   "touched": true
  },
  "data maps.txt::data maps.txt_478": {
@@ -109622,6 +109729,16 @@
   "ignored": true,
   "auto_excluded": true
  },
+ "src.txt::src.txt_2156": {
+  "source": "\\nTranslator\\n\\nText Editor\\n\\n\\n",
+  "target": "",
+  "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "updated": 1792328264.04994,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_1929": {
   "source": "I lost, too!",
   "target": "O! Koniec!",
@@ -109630,13 +109747,6 @@
   "ignored": false,
   "translator": "Antrix",
   "updated": 1790512449.240886
- },
- "src.txt::src.txt_2156": {
-  "source": "\\nTranslator\\n\\nText Editor\\n\\n\\n",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "datatext.txt::datatext.txt_1200": {
   "source": "You really must love coming to\\nNUGGET BRIDGE.",
