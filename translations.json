@@ -22630,10 +22630,13 @@
  },
  "src.txt::src.txt_2807": {
   "source": "The WIRELESS COMMUNICATION\\nSYSTEM link has been dropped…",
-  "target": "",
-  "status": "new",
+  "target": "Połączenie SYSTEMU KOMUNIKACJI\\nBEZPRZEWODOWEJ zostało przerwane…",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326787.0480204,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_553": {
   "source": "SEA INCENSE",
@@ -31456,10 +31459,13 @@
  },
  "src.txt::src.txt_2804": {
   "source": "Quit being a member?",
-  "target": "",
-  "status": "new",
+  "target": "Przestać być członkiem?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326779.724139,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1803": {
   "source": "I tried diving for POKéMON, but it\\nwas a no-go.",
@@ -39714,7 +39720,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326763.7226899,
+  "updated": 1792326767.0609827,
   "touched": true
  },
  "src.txt::src.txt_2885": {
@@ -76046,10 +76052,13 @@
  },
  "src.txt::src.txt_2808": {
   "source": "The link with your friend has been\\ndropped…",
-  "target": "",
-  "status": "new",
+  "target": "Połączenie z twoim\\nprzyjacielem zostało zerwane…",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326788.531021,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_757": {
   "source": "BEAUTY",
@@ -81965,10 +81974,13 @@
  },
  "src.txt::src.txt_2806": {
   "source": "The WIRELESS COMMUNICATION\\nSYSTEM link has been established.",
-  "target": "",
-  "status": "new",
+  "target": "Połączenie SYSTEMU KOMUNIKACJI\\nBEZPRZEWODOWEJ zostało nawiązane.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326802.443396,
+  "touched": true
  },
  "data maps.txt::data maps.txt_919": {
   "source": "BILL: Well, absolutely!\\nHow's your research coming along?\\p…Oh, wait a sec.",
@@ -89814,10 +89826,13 @@
  },
  "src.txt::src.txt_2809": {
   "source": "{STR_VAR_1} replied, “No…”",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1} odpowiedział: „Nie…”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326793.9450471,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_654": {
   "source": "RESTAURANT",
@@ -98793,17 +98808,20 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2805": {
+  "source": "You stopped being a member.\\p",
+  "target": "Przestałeś być członkiem.\\p",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326781.505805,
+  "touched": true
+ },
  "src.txt::src.txt_752": {
   "source": "A low, tripping kick\\nthat inflicts more\\ndamage on heavier\\nfoes.",
   "target": "Niski kop, który\\nzadaje tym więcej\\nobrażeń im cięższy\\nwróg.",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2805": {
-  "source": "You stopped being a member.\\p",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
