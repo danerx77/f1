@@ -49355,7 +49355,10 @@
   "target": "Uh-huh…",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792329697.093413,
+  "touched": true
  },
  "datatext.txt::datatext.txt_260": {
   "source": "ROCKET WAREHOUSE",
@@ -91606,12 +91609,13 @@
  },
  "data maps.txt::data maps.txt_2250": {
   "source": "TRAINER TIPS\\pFULL HEAL cures all ailments like\\nburns, paralysis, poisoning,\\lfreezing, and sleep.\\pIt costs a bit more, but it's more\\nconvenient than buying other items.",
-  "target": "PORADA\\pUZDROWIENIE leczy każde schorzenie -\\npoparzenia, paraliż, zatrucie,\\lzamrożenie i sen.\\pKosztuje trochę więcej, ale jest\\nbardziej przydatne niż inne \\pprzedmioty.",
+  "target": "PORADA\\pUZDROWIENIE leczy każde schorzenie \\npoparzenia, paraliż, zatrucie,\\lzamrożenie i sen.\\pKosztuje trochę więcej, ale jest\\nbardziej przydatne niż inne \\pprzedmioty.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790515774.895656
+  "updated": 1792329681.752852,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_449": {
   "source": "SECRET POWER",
