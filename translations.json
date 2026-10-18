@@ -4108,10 +4108,14 @@
  },
  "src.txt::src.txt_2828": {
   "source": "Awaiting a response from\\n{STR_VAR_1}…",
-  "target": "",
-  "status": "new",
+  "target": "Oczekiwanie na odpowiedź\\n{STR_VAR_1}...",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325941.1420836,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_325": {
   "source": "BERRY",
@@ -42730,10 +42734,14 @@
  },
  "src.txt::src.txt_2825": {
   "source": "Somebody has contacted you.{PAUSE 60}",
-  "target": "",
-  "status": "new",
+  "target": "Ktoś się z tobą skontaktował.{PAUSE 60}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325963.6198947,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2404": {
   "source": "SEVEN ISLAND\\nQuest Island of Infinity",
@@ -79629,10 +79637,14 @@
  },
  "src.txt::src.txt_2826": {
   "source": "{STR_VAR_1} has contacted you.{PAUSE 60}",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1} \\n{PAUSE 60}\\nkontaktuje się.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325946.8281152,
+  "touched": true
  },
  "datatext.txt::datatext.txt_623": {
   "source": "ACCURACY",
@@ -108949,7 +108961,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325924.2107587,
+  "updated": 1792325927.835859,
   "touched": true
  },
  "src.txt::src.txt_2832": {
