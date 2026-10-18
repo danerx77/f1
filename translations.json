@@ -21076,7 +21076,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322367.8939981,
+  "updated": 1792323148.7416477,
   "touched": true
  },
  "data maps.txt::data maps.txt_2422": {
@@ -25031,12 +25031,12 @@
  },
  "datatext.txt::datatext.txt_761": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: ICE, DRAGON\\p   {TRIANGLE}: FIRE, WATER, ELECTRIC, GRASS",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: LÓD, SMOK\\p   {TRIANGLE}: OGIEŃ, WODA, ELEKTRYCZNY, TRAWA",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: LÓD, SMOK\\p   {TRIANGLE}: OGIEŃ, WODA, ELEKTRYCZNY, TRAWIASTY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323098.2705872,
+  "updated": 1792323159.5905237,
   "touched": true
  },
  "data maps.txt::data maps.txt_1234": {
@@ -34218,7 +34218,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323100.9677563,
+  "updated": 1792323161.5666566,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_911": {
@@ -39968,7 +39968,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322369.0821323,
+  "updated": 1792323151.5345776,
   "touched": true
  },
  "data maps.txt::data maps.txt_3153": {
@@ -48906,7 +48906,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323109.6247141,
+  "updated": 1792323163.4031088,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_551": {
@@ -83584,12 +83584,12 @@
  },
  "datatext.txt::datatext.txt_754": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: FIRE, ELECTRIC, POISON, ROCK,\\n       STEEL\\p   {TRIANGLE}: GRASS, BUG\\n   {BIG_MULT_X}: FLYING",
-  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}:\\nOGIEŃ, ELEKTRYCZNY, TRUJĄCY, SKAŁA, STAL\\p   {TRIANGLE}:\\nTRAWIASTY, ROBACZEK {BIG_MULT_X}: LATAJĄCY",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}:\\nOGIEŃ, ELEKTRYCZNY, TRUJĄCY, SKAŁA, STAL\\p   {TRIANGLE}:\\nTRAWIASTY, ROBACZY {BIG_MULT_X}: LATAJĄCY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323123.4351413,
+  "updated": 1792323129.1818798,
   "touched": true
  },
  "data maps.txt::data maps.txt_2862": {
@@ -91245,7 +91245,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322368.8316607,
+  "updated": 1792323143.1083696,
   "touched": true
  },
  "data maps.txt::data maps.txt_595": {
