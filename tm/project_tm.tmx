@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261011T175656Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T095107Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -89549,10 +89549,6 @@
     <tu>
       <tuv xml:lang="en"><seg>Own POKéMON type: FIGHTING</seg></tuv>
       <tuv xml:lang="pl"><seg>Own POKéMON type: WATER</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Own move type: GRASS</seg></tuv>
-      <tuv xml:lang="pl"><seg>Own move type: BUG</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Own POKéMON type: GRASS</seg></tuv>
@@ -293725,6 +293721,46 @@
     <tu>
       <tuv xml:lang="en"><seg>It appears as if {STR_VAR_1} is playing\nright now.\lGo for it!</seg></tuv>
       <tuv xml:lang="pl"><seg>Wygląda na to, że\n {STR_VAR_1} gra teraz.\lDziałaj!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own move type: ELECTRIC</seg></tuv>
+      <tuv xml:lang="pl"><seg>Własny ruch Typ:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own POKéMON type: FIGHTING</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMON typ: Walczący</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own POKéMON type: GRASS</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMON typ: TRAWIASTY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own move type: GRASS</seg></tuv>
+      <tuv xml:lang="pl"><seg>Własny ruch Typ: TRAWIASTY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own move type: GHOST</seg></tuv>
+      <tuv xml:lang="pl"><seg>Własny ruch Typ: DUCH</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own POKéMON type: GHOST</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMON typ: DUCH</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own move type: ICE</seg></tuv>
+      <tuv xml:lang="pl"><seg>Własny ruch Typ: LODOWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own POKéMON type: ICE</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMON typ: LODOWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own move type: GROUND</seg></tuv>
+      <tuv xml:lang="pl"><seg>Własny ruch Typ: ZIEMNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Own POKéMON type: GROUND</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMON typ: ZIEMNY</seg></tuv>
     </tu>
   </body>
 </tmx>
