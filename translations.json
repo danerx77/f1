@@ -44477,13 +44477,13 @@
  },
  "src.txt::src.txt_2859": {
   "source": "I'm terribly sorry, but my POKéMON\\naren't feeling well…\\pLet's battle another time.\\p",
-  "target": "Przepraszam, ale moje Pokémony nie\\nczują się teraz zbyt\\pdobrze. fPowalczymy innym\\prazem.",
+  "target": "Przepraszam, ale moje Pokémony nie\\nczują się teraz zbyt\\pdobrze. \\nPowalczymy innym razem.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326283.6730623,
+  "updated": 1792326311.9369185,
   "touched": true
  },
  "src.txt::src.txt_922": {
@@ -99404,7 +99404,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326110.1963134,
+  "updated": 1792326319.3221424,
   "touched": true
  },
  "src.txt::src.txt_813": {
@@ -103205,7 +103205,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326111.4052022,
+  "updated": 1792326323.684341,
   "touched": true
  },
  "datatext.txt::datatext.txt_515": {
