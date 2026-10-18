@@ -6195,7 +6195,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323803.440751,
+  "updated": 1792323806.098394,
   "touched": true
  },
  "data maps.txt::data maps.txt_168": {
@@ -59434,7 +59434,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323692.199104,
+  "updated": 1792323809.6499832,
   "touched": true
  },
  "src.txt::src.txt_2453": {
@@ -91333,12 +91333,12 @@
  },
  "datatext.txt::datatext.txt_568": {
   "source": "{CIRCLE_1} Open the MENU.\\n{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\\n   “BAG.”\\n{CIRCLE_3} “OPEN” the TM CASE.\\n{CIRCLE_4} Select and “USE” a TM.\\n{CIRCLE_5} Select a POKéMON that can learn the\\n   move in the TM.",
-  "target": "{CIRCLE_1} Otwórz MENU.\\n{CIRCLE_2} Otwórz KIESZEŃ „KLUCZOWE\\nPRZEDMIOTY” w „PLECAKU.” {CIRCLE_3}\\n„OTWÓRZ” etui z TM.\\n{CIRCLE_4} Wybierz i „UŻYJ” TM.\\n{CIRCLE_5} Wybierz POKéMONA, który może\\nnauczyć się ruchu z TM.",
+  "target": "{CIRCLE_1} Otwórz MENU.\\n{CIRCLE_2} Otwórz KIESZEŃ „KLUCZOWE\\nPRZEDMIOTY” w „TORBIE” {CIRCLE_3}\\n„OTWÓRZ” etui z TM.\\n{CIRCLE_4} Wybierz i „UŻYJ” TM.\\n{CIRCLE_5} Wybierz POKéMONA, który może\\nnauczyć się ruchu z TM.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323695.745757,
+  "updated": 1792323840.5283518,
   "touched": true
  },
  "datatext.txt::datatext.txt_766": {
@@ -100317,12 +100317,12 @@
  },
  "datatext.txt::datatext.txt_567": {
   "source": "{CIRCLE_1} Open the MENU.\\n{CIRCLE_2} Press up or down on the {PLUS} Control\\n   Pad and select “BAG.”\\n{CIRCLE_3} Press left or right to open the\\n   “KEY ITEMS” POCKET, then press\\n   up or down to select “TOWN MAP.” \\n{CIRCLE_4} Select “USE” to open the TOWN MAP.",
-  "target": "{CIRCLE_1} Otwórz MENU.\\n{CIRCLE_2} Naciśnij w górę lub w dół na\\n{PLUS} Panelu Sterowania i wybierz „TORBĘ”. {CIRCLE_3}\\nNaciśnij w lewo lub w prawo, aby\\notworzyć przegródkę „KLUCZOWE PRZEDMIOTY”, a następnie naciśnij w\\ngórę lub w dół, aby wybrać „MAPA MIASTA”.\\n{CIRCLE_4} Wybierz „UŻYJ”, aby otworzyć MAPĘ MIASTA.",
+  "target": "{CIRCLE_1} Otwórz MENU.\\n{CIRCLE_2} Naciśnij w górę lub w dół na\\n{PLUS} Panelu Sterowania i wybierz „TORBĘ”. {CIRCLE_3}\\nNaciśnij w lewo lub w prawo, aby\\notworzyć przegródkę „KLUCZOWE PRZEDMIOTY”, a następnie naciśnij w\\ngórę lub w dół, aby wybrać „MAPA MIASTA”.\\n{CIRCLE_4} Wybierz „UŻYJ”, aby otworzyć MAPĘ.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323693.3026147,
+  "updated": 1792323818.5178592,
   "touched": true
  },
  "src.txt::src.txt_1932": {
@@ -103699,7 +103699,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323697.479614,
+  "updated": 1792323843.4410946,
   "touched": true
  },
  "data maps.txt::data maps.txt_2992": {
