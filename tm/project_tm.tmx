@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T124127Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T125452Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -88871,10 +88871,6 @@
       <tuv xml:lang="pl"><seg>SAVING\.\nDON’T TURN OFF THE POWER.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>Register text here?</seg></tuv>
-      <tuv xml:lang="pl"><seg>If the LEADER leaves, the chat\nwill end. Is that okay?</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>The registered text has been changed.\nIs it okay to save the game?</seg></tuv>
       <tuv xml:lang="pl"><seg>WRÓĆ</seg></tuv>
     </tu>
@@ -150043,14 +150039,6 @@
       <tuv xml:lang="pl"><seg>ULUBIONY</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>COOL</seg></tuv>
-      <tuv xml:lang="pl"><seg>FAJNY</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>CUTE</seg></tuv>
-      <tuv xml:lang="pl"><seg>SŁODKI</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>SUGGESTED</seg></tuv>
       <tuv xml:lang="pl"><seg>POLECANY</seg></tuv>
     </tu>
@@ -184333,10 +184321,6 @@
     <tu>
       <tuv xml:lang="en"><seg>BABY</seg></tuv>
       <tuv xml:lang="pl"><seg>DZIDZIA</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>HELLO</seg></tuv>
-      <tuv xml:lang="pl"><seg>CZEŚĆ</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>OH WELL</seg></tuv>
@@ -238923,16 +238907,8 @@
       <tuv xml:lang="pl"><seg>Walczyć możesz ze swoimi znajomymi.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>Return to a healing spot.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Zwab dzikie POKéMONY.</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>NORMAL</seg></tuv>
       <tuv xml:lang="pl"><seg>NORMALY</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>SMART</seg></tuv>
-      <tuv xml:lang="pl"><seg>MĄDRY</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>BECOME LEADER</seg></tuv>
@@ -294359,10 +294335,6 @@
       <tuv xml:lang="pl"><seg>CZYJIŚ</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>Somebody dropped out.\nThe link will be canceled.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Ktoś się wycofał.\nLink zostanie anulowany.</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>Communication error…\nPlease check all connections,\nthen turn the power OFF and ON.</seg></tuv>
       <tuv xml:lang="pl"><seg>Błąd komunikacji…\nProszę sprawdzić wszystkie połączenia, a\nnastępnie wyłączyć i włączyć zasilanie.</seg></tuv>
     </tu>
@@ -294821,6 +294793,130 @@
     <tu>
       <tuv xml:lang="en"><seg>\nEnvironment &amp; Tool Programmers\n\n\n\n\n</seg></tuv>
       <tuv xml:lang="pl"><seg>\nEnvironment &amp; Tool Programmers\n\n\n\n\n</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Obtained a {STR_VAR_2} BERRY!\nDad has it at PETALBURG GYM.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zdobyto {STR_VAR_2} JAGODY\nTata ma to w SALI PETALBURG.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The {STR_VAR_1} BERRY transformed into\none {STR_VAR_2} BERRY.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} JAGODY przemieniła się\nw jedną {STR_VAR_2} JAGODĘ.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The POKéDEX has been upgraded\nwith the NATIONAL MODE.</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéDEX został ulepszony\no TRYB NARODOWY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This data can't be used in\nthis version.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Tych danych nie\nmożna używać w tej wersji.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You have collected all STAMPs!\nWant to input a CARD as a prize?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zebrałeś wszystkie ZNACZKI!\nChcesz wprowadzić KARTĘ jako nagrodę?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Wireless Adapter is not\nconnected.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wireless Adapter nie\njest prawidłowo podłączony.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MYSTERY GIFT can't be used while\nthe Wireless Adapter is attached.</seg></tuv>
+      <tuv xml:lang="pl"><seg>PREZENT MISTERY nie może być użyty,\ngdy Wireless Adapter jest podłączony.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The 1M sub-circuit board is\nnot installed.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Płytka podobwodowa 1M\nnie jest zainstalowana.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Return to a healing spot.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zwab dzikie POKéMONY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CUTE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SŁODKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BLACK</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZARNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PINK</seg></tuv>
+      <tuv xml:lang="pl"><seg>RÓŻOWY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>COOL</seg></tuv>
+      <tuv xml:lang="pl"><seg>FAJNY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CUTE</seg></tuv>
+      <tuv xml:lang="pl"><seg>UROCZY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SMART</seg></tuv>
+      <tuv xml:lang="pl"><seg>MĄDRY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TOUGH</seg></tuv>
+      <tuv xml:lang="pl"><seg>TWARDY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRADE CENTER</seg></tuv>
+      <tuv xml:lang="pl"><seg>CENTRUM WYMIAN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Register text here?</seg></tuv>
+      <tuv xml:lang="pl"><seg>If the LEADER leaves, the chat\nwill end. Is that okay?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Register text where?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Register text where?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Input text.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Input text.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HELLO</seg></tuv>
+      <tuv xml:lang="pl"><seg>CZEŚĆ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Jumps in a row:</seg></tuv>
+      <tuv xml:lang="pl"><seg>Skoki w rzędzie:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON JUMP RECORDS</seg></tuv>
+      <tuv xml:lang="pl"><seg>REKORDY SKOKÓW POKÉMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DODRIO BERRY-PICKING RECORDS</seg></tuv>
+      <tuv xml:lang="pl"><seg>DODRIO REKORDY Z ZBIERANIA JAGÓD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BERRIES picked:</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZBIERANIE JAGODÓW:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BERRIES picked in a row with\nfive players:</seg></tuv>
+      <tuv xml:lang="pl"><seg>JAGODY jagodowe zbierane w\nrzędzie przez pięciu graczy:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Announcing BERRY-PICKING results!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ogłaszanie wyników ZBIERANIA JAGODÓW!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Somebody dropped out.\nThe link will be canceled.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ktoś się wycofał.\nLink zostanie anulowany.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Are you ready to BERRY-CRUSH?\nPlease pick a BERRY for use.\p</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy jesteś gotowy na BERRY-CRUSH?\nProszę wybrać JAGODY do użycia.\p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>No. of Presses Rankings</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ranking liczby naciśnięć</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Crushing Results</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ogromne Wyniki</seg></tuv>
     </tu>
   </body>
 </tmx>
