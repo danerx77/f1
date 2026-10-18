@@ -14484,12 +14484,12 @@
  },
  "datatext.txt::datatext.txt_750": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: PSYCHIC, GHOST\\p   {TRIANGLE}: DARK, STEEL\\p   {BIG_MULT_X}: NORMAL",
-  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: PSYCHIC, DUCH\\p   {TRIANGLE}: CIEMNY, STALOWY\\p   {BIG_MULT_X}: NORMALNY",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: PSYCHO, DUCH\\p   {TRIANGLE}: MROCZNY, STALOWY\\p   {BIG_MULT_X}: NORMALNY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322363.482996,
+  "updated": 1792322818.9682362,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_167": {
@@ -79915,7 +79915,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322803.3892746,
+  "updated": 1792322807.3593597,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_554": {
@@ -82689,12 +82689,12 @@
  },
  "datatext.txt::datatext.txt_751": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: GHOST, DARK\\p   {TRIANGLE}: POISON, BUG\\p   {BIG_MULT_X}: NORMAL, FIGHTING",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: DUCH, CIEMNOŚĆ\\p   {TRIANGLE}: TRUCIZNA, ROBAL\\p   {BIG_MULT_X}: NORMALNY, WALCZĄCY",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: DUCH, MROCZNY\\p   {TRIANGLE}: TRUCIZNA, ROBACZY\\p   {BIG_MULT_X}: NORMALNY, WALCZĄCY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322364.2980196,
+  "updated": 1792322832.7600799,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_491": {
@@ -97583,12 +97583,12 @@
  },
  "datatext.txt::datatext.txt_752": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: GRASS, GROUND, FLYING, DRAGON\\p   {TRIANGLE}: FIRE, WATER, ICE, STEEL",
-  "target": "Wpływ na przeciwnika POKéMON:\\pTRAWA, ZIEMIA, LATAJĄCY, SMOK{CIRCLE_DOT}\\p   {TRIANGLE}: OGIEŃ, WODA, LÓD, STAL",
+  "target": "Wpływ na przeciwnika POKéMON:\\pTRAWA, ZIEMNY, LATAJĄCY, SMOK{CIRCLE_DOT}\\p   {TRIANGLE}: OGIEŃ, WODA, LÓD, STAL",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322363.8430655,
+  "updated": 1792322843.4143932,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1203": {
