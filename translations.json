@@ -23665,13 +23665,13 @@
  },
  "src.txt::src.txt_2284": {
   "source": "Communicating…",
-  "target": "Communicating…",
+  "target": "Komunikowanie…",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326957.5845954,
+  "updated": 1792327121.1660352,
   "touched": true
  },
  "data maps.txt::data maps.txt_371": {
@@ -29683,7 +29683,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327031.2446218,
+  "updated": 1792327086.6762607,
   "touched": true
  },
  "src.txt::src.txt_2637": {
@@ -46382,6 +46382,17 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2322": {
+  "source": "The WONDER CARD was thrown away.",
+  "target": "KARTA CUDU została wyrzucona.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327101.7007594,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_946": {
   "source": "SHADY",
   "target": "",
@@ -46391,13 +46402,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586289.009233
- },
- "src.txt::src.txt_2322": {
-  "source": "The WONDER CARD was thrown away.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_276": {
   "source": "CERULEAN POKéMON GYM\\nLEADER: MISTY\\pWINNING TRAINERS:\\n{RIVAL}",
@@ -47240,13 +47244,13 @@
  },
  "src.txt::src.txt_2283": {
   "source": "Link standby...\\n... ... B Button: Cancel",
-  "target": "Link standby...\\n... ... B Button: Cancel",
+  "target": "Łącze w trybie oczekiwania...\\n… Przycisk B: Anuluj",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326956.4508524,
+  "updated": 1792327126.5371616,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_796": {
@@ -54624,7 +54628,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790524862.0439365
+  "updated": 1792327092.0806155,
+  "touched": true
  },
  "src.txt::src.txt_2218": {
   "source": "Is this trade okay?",
@@ -58447,13 +58452,13 @@
  },
  "src.txt::src.txt_2285": {
   "source": "Communication completed.",
-  "target": "Communication completed.",
+  "target": "Komunikacja zakończona.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326958.4887586,
+  "updated": 1792327118.0040853,
   "touched": true
  },
  "src.txt::src.txt_2706": {
@@ -66160,7 +66165,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327031.260014,
+  "updated": 1792327085.8327594,
   "touched": true
  },
  "datatext.txt::datatext.txt_341": {
@@ -84343,7 +84348,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327031.5295947,
+  "updated": 1792327090.3290067,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_15": {
@@ -86924,10 +86929,13 @@
  },
  "src.txt::src.txt_2323": {
   "source": "The WONDER NEWS was thrown away.",
-  "target": "",
-  "status": "new",
+  "target": "WONDER NEWS zostało wyrzucone.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327102.551948,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_643": {
   "source": "It has a flame sac inside its belly that\\nperpetually burns. It feels warm if it is\\nhugged.",
@@ -102071,7 +102079,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327083.7292764,
+  "updated": 1792327084.449744,
   "touched": true
  },
  "datatext.txt::datatext.txt_1168": {
@@ -105472,7 +105480,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327030.1464977,
+  "updated": 1792327084.780932,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_794": {
@@ -110426,7 +110434,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327030.4438612,
+  "updated": 1792327085.1393042,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1045": {
