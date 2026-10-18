@@ -1875,10 +1875,13 @@
  },
  "datatext.txt::datatext.txt_563": {
   "source": "{CIRCLE_1} Select “{PLAYER}” on the MENU.\\n{CIRCLE_2} Your TRAINER CARD is displayed face\\n   up with basic information. Press the\\n   A Button to turn the CARD over.\\n{CIRCLE_3} A variety of data can be found on\\n   the reverse side of the CARD.",
-  "target": "",
-  "status": "new",
+  "target": "Wybierz „{PLAYER}” w MENU.{CIRCLE_1}\\n{CIRCLE_2} Twoja KARTA TRENERA jest wyświetlana\\nstroną do góry z podstawowymi informacjami.\\nNaciśnij przycisk A, aby odwrócić KARTĘ.\\n{CIRCLE_3} Różne dane można\\nznaleźć na odwrocie KARTY.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323690.005565,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_228": {
   "source": "SEISMIC TOSS",
@@ -2512,10 +2515,13 @@
  },
  "datatext.txt::datatext.txt_576": {
   "source": "{CIRCLE_1} Select a POKéMON in your party with\\n   the {PLUS} Control Pad.\\n{CIRCLE_2} Select “DEPOSIT.”\\n{CIRCLE_3} Select the BOX, then press the\\n   A Button to store the POKéMON.\\nIf you have only one POKéMON with you,\\nit may not be stored!",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz POKéMONA w swojej drużynie\\nza pomocą {PLUS} Panelu Sterowania.\\n{CIRCLE_2} Wybierz „WPŁATA.” {CIRCLE_3} Wybierz\\nSKRZYNKĘ, a następnie naciśnij\\nprzycisk A, aby przechować POKéMONA.\\nJeśli masz tylko jednego POKéMONA przy\\nsobie, może on nie zostać przechowany!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323701.9869797,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2140": {
   "source": "Stop!\\pDon't be so mean to my CLEFAIRY!",
@@ -2821,10 +2827,13 @@
  },
  "datatext.txt::datatext.txt_586": {
   "source": "{CIRCLE_1} Select “POKéMON.”\\n{CIRCLE_2} Select the POKéMON in your party\\n   that you want to use.\\n{CIRCLE_3} If you have two or more POKéMON\\n   with you, they may be switched by\\n   selecting “SHIFT.” Check POKéMON\\n   data by selecting “SUMMARY.”",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „POKéMON.” {CIRCLE_2}\\nWybierz POKéMON w twojej\\ndrużynie, którego chcesz użyć.\\n{CIRCLE_3} Jeśli masz przy sobie\\ndwóch lub więcej POKéMON, mogą\\none zostać zamienione, wybierając „SHIFT”.\\nSprawdź dane POKéMON, wybierając „PODSUMOWANIE”.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323711.236448,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_648": {
   "source": "MY",
@@ -5416,10 +5425,13 @@
  },
  "datatext.txt::datatext.txt_564": {
   "source": "{CIRCLE_1} Select “SAVE” on the MENU.\\n{CIRCLE_2} Select “YES” and your progress is\\n   recorded in the save file.\\nOnce the game is saved, you may turn\\noff the game. Your game can be resumed\\nfrom where you saved.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „ZAPISZ” w MENU.\\n{CIRCLE_2} Wybierz „TAK”, a Twój postęp\\nzostanie zapisany w pliku zapisu.\\nPo zapisaniu gry możesz ją\\nwyłączyć. Grę można wznowić od\\nmiejsca, w którym ją zapisano.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323690.5169473,
+  "touched": true
  },
  "src.txt::src.txt_1356": {
   "source": "Teach which POKéMON?",
@@ -6178,10 +6190,13 @@
  },
  "datatext.txt::datatext.txt_565": {
   "source": "{CIRCLE_1} Select “OPTION” on the MENU.\\n{CIRCLE_2} Press up or down on the {PLUS} Control\\n   Pad to select an optional item, then\\n   press left or right to alter the\\n   settings.\\n{CIRCLE_3} Select “CANCEL” or press the\\n   B Button after making changes.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „OPCJĘ” w MENU.\\n{CIRCLE_2} Naciśnij w górę lub w\\ndół na {PLUS} Panelu Sterowania, aby\\nwybrać opcjonalny element, następnie naciśnij w lewo\\nlub w prawo, aby zmienić ustawienia.\\n{CIRCLE_3} Wybierz „ANULUJ” lub naciśnij\\nprzycisk B po wprowadzeniu zmian.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323691.184938,
+  "touched": true
  },
  "data maps.txt::data maps.txt_168": {
   "source": "Bleaah!\\nI hope ERIKA wipes you out!",
@@ -9493,10 +9508,13 @@
  },
  "datatext.txt::datatext.txt_601": {
   "source": "{CIRCLE_1} Select to throw the special food\\n   used only in the SAFARI ZONE.\\nIt is POKéMON food rolled up into\\na ball for easy eating. When BAIT is\\nthrown, the wild POKéMON may get\\nattracted by it, and may not flee!",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz, aby rzucić specjalne jedzenie\\nużywane tylko w STREFIE SAFARI.\\nTo jedzenie POKéMON zwinięte w kulkę\\ndla łatwego jedzenia. Kiedy PRZYNĘTA zostanie\\nrzucona, dzikie POKéMON mogą zostać\\nnią przyciągnięte i mogą nie uciec!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323722.6364791,
+  "touched": true
  },
  "src.txt::src.txt_2060": {
   "source": "Time's up.\\pGood BERRY POWDER could not be\\nmade…\\p",
@@ -13311,10 +13329,13 @@
  },
  "datatext.txt::datatext.txt_584": {
   "source": "{CIRCLE_1} Press START.\\n{CIRCLE_2} The MENU will open on the right.\\n{CIRCLE_3} Depending on the situation, the MENU\\n   may feature different headings.\\nThe MENU will not open in certain\\nsituations such as when talking, doing\\nsomething, battling, etc.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Naciśnij START.\\n{CIRCLE_2} MENU otworzy się po prawej.\\n{CIRCLE_3} W zależności od sytuacji,\\nMENU może zawierać różne nagłówki.\\nMENU nie otworzy się w\\nniektórych sytuacjach, takich jak\\nrozmowa, wykonywanie czegoś, walka itp.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323711.196499,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1653": {
   "source": "CONNIE",
@@ -16763,17 +16784,20 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_579": {
+  "source": "{CIRCLE_1} Select “{PLAYER}'s PC” on the PC.\\n{CIRCLE_2} Select either “ITEM STORAGE” or\\n   “MAILBOX.”\\nYou may store things in your own PC\\nif your BAG is full. You may also\\nwithdraw items stored in your PC.",
+  "target": "Na komputerze wybierz „PC {PLAYER}”.{CIRCLE_1}\\n{CIRCLE_2} Wybierz „PRZECHOWYWANIE PRZEDMIOTÓW” lub\\n„SKRZYNKĘ POCZTOWĄ.” Możesz przechowywać rzeczy\\nw swoim PC, jeśli Twój PLECAK\\njest pełny. Możesz także wypłacać\\nprzedmioty przechowywane w swoim PC.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323704.0274673,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_269": {
   "source": "You overwhelmed me!",
   "target": "Przegrzałeś mnie!",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_579": {
-  "source": "{CIRCLE_1} Select “{PLAYER}'s PC” on the PC.\\n{CIRCLE_2} Select either “ITEM STORAGE” or\\n   “MAILBOX.”\\nYou may store things in your own PC\\nif your BAG is full. You may also\\nwithdraw items stored in your PC.",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -17083,10 +17107,13 @@
  },
  "datatext.txt::datatext.txt_578": {
   "source": "{CIRCLE_1} Faintly shown POKéMON can be made\\n   to hold an item by selecting it and\\n   pressing the A Button.\\n{CIRCLE_2} Clearly shown POKéMON can be made\\n   to give the item they are holding to\\n   another POKéMON, or return the item\\n   to the BAG with the A Button.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Słabo widocznemu POKéMON\\nmożna nadać przedmiot, wybierając go\\ni naciskając przycisk A.\\n{CIRCLE_2} Wyraźnie pokazano, że\\nPOKéMON może przekazać trzymany przedmiot\\ninnemu POKéMON, lub zwrócić przedmiot\\ndo PLECAKA przyciskiem A.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323703.5813248,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_97": {
   "source": "ALTERING CAVE",
@@ -19201,10 +19228,13 @@
  },
  "datatext.txt::datatext.txt_592": {
   "source": "{CIRCLE_3} Select “NEXT DATA” to display the\\n   TOWN MAP with its habitat(s).",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_3} Wybierz „NASTĘPNE DANE”, aby wyświetlić\\nMAPĘ MIASTA z jego siedliskiem(s).",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323715.1368356,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1196": {
   "source": "I am BRUNO of the ELITE FOUR!\\pThrough rigorous training, people\\nand POKéMON can become stronger\\lwithout limit.\\pI've lived and trained with my\\nfighting POKéMON!\\lAnd that will never change!\\p{PLAYER}!\\pWe will grind you down with our\\nsuperior power!\\pHoo hah!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}",
@@ -20355,10 +20385,13 @@
  },
  "datatext.txt::datatext.txt_573": {
   "source": "{CIRCLE_1} Go to any POKéMON CENTER, go up\\n   to the PC, then press the A Button.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Idź do dowolnego CENTRUM POKéMON, podejdź\\ndo PC, a następnie naciśnij przycisk A.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323696.6059558,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1012": {
   "source": "It is always bursting with energy. To make\\nitself stronger, it keeps on fighting even\\nif it loses.",
@@ -21033,10 +21066,13 @@
  },
  "datatext.txt::datatext.txt_580": {
   "source": "{CIRCLE_1} Select “WITHDRAW ITEM.”\\n{CIRCLE_2} Select the item to be withdrawn.\\n{CIRCLE_3} The item can be withdrawn and\\n   placed in the BAG's ITEMS POCKET.\\n   It may also be directly given to a\\n   POKéMON to hold.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „WYCOFAJ PRZEDMIOT.”\\n{CIRCLE_2} Wybierz przedmiot do wycofania.\\n{CIRCLE_3} Przedmiot można wyjąć i\\numieścić w KIESZENI PRZEDMIOTÓW TORBY.\\n   Może być również\\nbezpośrednio podane POKéMONOWI do trzymania.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323706.3861256,
+  "touched": true
  },
  "data maps.txt::data maps.txt_356": {
   "source": "My theories are too complicated\\nfor you to understand.",
@@ -27020,10 +27056,13 @@
  },
  "datatext.txt::datatext.txt_587": {
   "source": "This command switches the POKéMON in\\nbattle with another one in your party.\\n{CIRCLE_1} Select the POKéMON to be sent out.\\n{CIRCLE_2} Select “SHIFT.”\\n{CIRCLE_3} The selected POKéMON will switch\\n   places with the POKéMON in battle!",
-  "target": "",
-  "status": "new",
+  "target": "Ta komenda zamienia POKéMONA w walce\\nna innego z twojej drużyny.\\n{CIRCLE_1} Wybierz POKéMONA, którego chcesz wysłać.\\n{CIRCLE_2} Wybierz „ZAMIEŃ.” {CIRCLE_3}\\nWybrany POKéMON zamieni się miejscami\\nz POKéMON-em w walce!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323713.1165283,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_793": {
   "source": "MAGMAR",
@@ -31566,10 +31605,13 @@
  },
  "datatext.txt::datatext.txt_596": {
   "source": "{CIRCLE_1} Select “DEPOSIT ITEM.”\\n{CIRCLE_2} Select the item in the BAG to be\\n   deposited using the {PLUS} Control Pad.\\n{CIRCLE_3} If there is nothing in the BAG, this\\n   command can't be used!",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „DEPOSIT ITEM.” {CIRCLE_2} Wybierz\\nprzedmiot w TORBIE, który ma\\nzostać zdeponowany, używając {PLUS} Panelu Sterowania.\\n{CIRCLE_3} Jeśli w TORBIE nie ma\\nnic, tego polecenia nie można użyć!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323717.9666464,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_542": {
   "source": "EVENT",
@@ -38987,10 +39029,13 @@
  },
  "datatext.txt::datatext.txt_591": {
   "source": "{CIRCLE_3} Select “AREA” to display the TOWN\\n   MAP with the POKéMON's habitat(s).",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_3} Wybierz „OBSZAR”, aby wyświetlić\\nMAPĘ MIASTA z siedliskami POKéMONÓW.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323713.4149215,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3214": {
   "source": "My POKéMON was poisoned!\\nIt fainted while we were walking!",
@@ -39672,10 +39717,13 @@
  },
  "datatext.txt::datatext.txt_561": {
   "source": "{CIRCLE_1} Select the “KEY ITEMS” POCKET.\\n{CIRCLE_2} Press up or down on the {PLUS} Control\\n   Pad to select a key item.\\n{CIRCLE_3} Select “USE” to use the selected\\n   key item.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz kieszeń „KLUCZOWE PRZEDMIOTY”.\\n{CIRCLE_2} Naciśnij w górę lub w dół na\\n{PLUS} Panelu sterowania, aby wybrać kluczowy przedmiot.\\n{CIRCLE_3} Wybierz „UŻYJ”, aby\\nużyć wybranego kluczowego przedmiotu.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323685.7855296,
+  "touched": true
  },
  "src.txt::src.txt_609": {
   "source": "うえないと みが つかないときも ある.",
@@ -40139,17 +40187,20 @@
   "updated": 1791655794.2564366,
   "touched": true
  },
+ "datatext.txt::datatext.txt_581": {
+  "source": "{CIRCLE_1} Select “DEPOSIT ITEM.”\\n{CIRCLE_2} Select the item in the BAG to be\\n   deposited using the {PLUS} Control Pad.\\n{CIRCLE_3} If there is more than one \\n   item to be deposited, enter the\\n   quantity with the {PLUS} Control Pad,\\n   then press the A Button.",
+  "target": "{CIRCLE_1} Wybierz „DEPOSIT ITEM.” {CIRCLE_2} Wybierz\\nprzedmiot w TORBIE, który ma\\nzostać zdeponowany, używając {PLUS} Panelu Sterowania.\\n{CIRCLE_3} Jeśli do wpłaty jest\\nwięcej niż jeden przedmiot, wprowadź\\nilość za pomocą {PLUS} panelu sterowania,\\na następnie naciśnij przycisk A.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323706.6374443,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_1976": {
   "source": "No!?\\nNow don't be so cold!\\pCome on, you gotta help a guy in\\ndeep, deep trouble!\\pWhat do you say, beautiful?\\nPlease?\\lOkay?\\lAll right!",
   "target": "Nie?\\nNie bądź taka zimna!\\pProszę, pomóż kumplowi\\nw tarapatach!\\pCo powiesz, kochanie?\\nProooooszę?\\lOkej?\\lŚwietnie!",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_581": {
-  "source": "{CIRCLE_1} Select “DEPOSIT ITEM.”\\n{CIRCLE_2} Select the item in the BAG to be\\n   deposited using the {PLUS} Control Pad.\\n{CIRCLE_3} If there is more than one \\n   item to be deposited, enter the\\n   quantity with the {PLUS} Control Pad,\\n   then press the A Button.",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -43682,6 +43733,16 @@
   "ignored": true,
   "manual_skip": true
  },
+ "datatext.txt::datatext.txt_577": {
+  "source": "{CIRCLE_1} Select a POKéMON in the open BOX.\\n{CIRCLE_2} Pick up the POKéMON by selecting\\n   “MOVE” and move it anywhere with\\n   the {PLUS} Control Pad.\\n{CIRCLE_3} Move the POKéMON to the BOX name\\n   and press left or right to move it\\n   to another BOX.",
+  "target": "{CIRCLE_1} Wybierz POKéMONA w otwartym PUDLE.\\n{CIRCLE_2} Podnieś POKéMONA, wybierając „PRZENIEŚ”\\ni przesuń go w dowolne miejsce\\nza pomocą {PLUS} panelu sterowania.\\n{CIRCLE_3} Przenieś POKéMONA do POKOJU i\\nnaciśnij w lewo lub w prawo,\\naby przenieść go do innego POKOJU.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323705.2163365,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_752": {
   "source": "ROCK HEAD",
   "target": "",
@@ -43691,13 +43752,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586288.3478563
- },
- "datatext.txt::datatext.txt_577": {
-  "source": "{CIRCLE_1} Select a POKéMON in the open BOX.\\n{CIRCLE_2} Pick up the POKéMON by selecting\\n   “MOVE” and move it anywhere with\\n   the {PLUS} Control Pad.\\n{CIRCLE_3} Move the POKéMON to the BOX name\\n   and press left or right to move it\\n   to another BOX.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "src.txt::src.txt_2634": {
   "source": "MACHAMP",
@@ -49741,17 +49795,20 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_583": {
+  "source": "{CIRCLE_1} Select “PROF. OAK'S PC” on the PC.\\n{CIRCLE_2} PROF. OAK will evaluate your\\n   POKéDEX.\\nHis evaluations should give you hints\\nfor catching more POKéMON!",
+  "target": "Wybierz „PC PROF. OAKA” na komputerze.{CIRCLE_1}\\n{CIRCLE_2} PROF. OAK\\noceni twój POKéDEX.\\nJego oceny powinny dać Ci\\nwskazówki, jak złapać więcej POKéMONÓW!",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323708.8842306,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_403": {
   "source": "PSYCH UP",
   "target": "AUTOSUGESTIA",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_583": {
-  "source": "{CIRCLE_1} Select “PROF. OAK'S PC” on the PC.\\n{CIRCLE_2} PROF. OAK will evaluate your\\n   POKéDEX.\\nHis evaluations should give you hints\\nfor catching more POKéMON!",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -53386,10 +53443,13 @@
  },
  "datatext.txt::datatext.txt_589": {
   "source": "{CIRCLE_1} Select “BAG.”\\n{CIRCLE_2} Press left or right on the {PLUS} Control\\n   Pad to check the data headings:\\n   “ITEMS”\\n   “KEY ITEMS”\\n   “POKé BALLS”\\n   Press up or down to select an item.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „TORBA.” {CIRCLE_2} Naciśnij w\\nlewo lub w prawo na {PLUS}\\nPadzie kontrolnym, aby sprawdzić nagłówki danych:\\n   „PRZEDMIOTY”\\n„KLUCZOWE PRZEDMIOTY” „PIŁKI POKé”\\nNaciśnij w górę lub w\\ndół, aby wybrać przedmiot.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323714.7276204,
+  "touched": true
  },
  "data maps.txt::data maps.txt_100": {
   "source": "You don't have space for this!",
@@ -57297,10 +57357,13 @@
  },
  "datatext.txt::datatext.txt_595": {
   "source": "{CIRCLE_1} Select “WITHDRAW ITEM.”\\n{CIRCLE_2} Select the item to be withdrawn.\\n{CIRCLE_3} The item can be withdrawn and\\n   placed in the BAG's ITEMS POCKET.\\n   It may also be directly given to a\\n   POKéMON to hold.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „WYCOFAJ PRZEDMIOT.”\\n{CIRCLE_2} Wybierz przedmiot do wycofania.\\n{CIRCLE_3} Przedmiot można wyjąć i\\numieścić w KIESZENI PRZEDMIOTÓW TORBY.\\n   Może być również\\nbezpośrednio podane POKéMONOWI do trzymania.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323719.0863175,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3057": {
   "source": "Okay, I'll get the clock started,\\nso give it everything you have.\\pOn your marks…\\pGet set…\\pGo!",
@@ -59363,10 +59426,13 @@
  },
  "datatext.txt::datatext.txt_566": {
   "source": "{CIRCLE_1} Open the MENU.\\n{CIRCLE_2} Press up or down on the {PLUS} Control\\n   Pad and select “BAG.”\\n{CIRCLE_3} Select “POTION” in the “ITEMS”\\n   POCKET.\\n{CIRCLE_4} Select “USE.”\\n{CIRCLE_5} Select the POKéMON to be healed.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Otwórz MENU.\\n{CIRCLE_2} Naciśnij w górę lub\\nw dół na {PLUS} Panelu\\nSterowania i wybierz „TORBA.” {CIRCLE_3}\\nWybierz „MIKSTURA” w przegródce „PRZEDMIOTY.”\\n{CIRCLE_4} Wybierz „UŻYJ.” {CIRCLE_5}\\nWybierz POKéMONA do wyleczenia.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323692.199104,
+  "touched": true
  },
  "src.txt::src.txt_2453": {
   "source": "JIGGLYPUFF",
@@ -62103,10 +62169,13 @@
  },
  "datatext.txt::datatext.txt_593": {
   "source": "{CIRCLE_1} Go up to the PC at home, then press\\n   the A Button.\\n{CIRCLE_2} The PC will turn on.\\n{CIRCLE_3} Select either “ITEM STORAGE” or\\n   “MAILBOX.”",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Podejdź do komputera w domu,\\na następnie naciśnij przycisk A.\\n{CIRCLE_2} Komputer włączy się.\\n{CIRCLE_3} Wybierz „PRZECHOWYWANIE PRZEDMIOTÓW”\\nlub „SKRZYNKA POCZTOWA”.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323717.516231,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_408": {
   "source": "X ATTACK",
@@ -63285,10 +63354,13 @@
  },
  "datatext.txt::datatext.txt_582": {
   "source": "When MAIL is taken from a POKéMON,\\nit is moved to the MAILBOX. If it has\\nno MAIL, the MAILBOX can't be used.\\n{CIRCLE_1} Select “{PLAYER}'S PC” on the PC.\\n{CIRCLE_2} Select “MAILBOX” to read MAIL or\\n   make a POKéMON hold MAIL.",
-  "target": "",
-  "status": "new",
+  "target": "Kiedy POCZTA jest zabrana od POKéMONA, jest\\nprzenoszona do SKRZYNKI POCZTOWEJ. Jeśli nie\\nma POCZTY, nie można użyć SKRZYNKI POCZTOWEJ.\\n{CIRCLE_1} Wybierz “{PLAYER}'S PC” na komputerze.\\n{CIRCLE_2} Wybierz „SKRZYNKA” aby przeczytać POCZTĘ\\nlub spraw, aby POKéMON trzymał POCZTĘ.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323708.47616,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2859": {
   "source": "I am but a solitary traveler…\\pMy sole companions and friends are\\nPOKéMON I caught on my journeys…",
@@ -64051,10 +64123,13 @@
  },
  "datatext.txt::datatext.txt_559": {
   "source": "{CIRCLE_1} Select “BAG” on the MENU.\\n{CIRCLE_2} Press left or right on the {PLUS} Control\\n   Pad to check the data headings:\\n   “ITEMS”\\n   “KEY ITEMS”\\n   “POKé BALLS”\\n   Press up or down to select an item.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „TORBA” w MENU.\\n{CIRCLE_2} Naciśnij w lewo lub w prawo na\\n{PLUS} Panelu sterowania, aby sprawdzić nagłówki danych:\\n   „PRZEDMIOTY”\\n„KLUCZOWE PRZEDMIOTY” „PIŁKI POKé”\\nNaciśnij w górę lub w\\ndół, aby wybrać przedmiot.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323686.1179278,
+  "touched": true
  },
  "data maps.txt::data maps.txt_419": {
   "source": "An amber pipe!",
@@ -65526,10 +65601,13 @@
  },
  "datatext.txt::datatext.txt_588": {
   "source": "{CIRCLE_1} Select “SUMMARY.”\\n{CIRCLE_2} Press left or right on the {PLUS} Control\\n   Pad to check the information:\\n   “POKéMON INFO”\\n   “POKéMON SKILLS”\\n   “KNOWN MOVES”",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „PODSUMOWANIE.” {CIRCLE_2} Naciśnij w\\nlewo lub w prawo na\\n{PLUS} Płycie sterującej, aby sprawdzić informacje:\\n  \\n„INFORMACJE O POKéMON” „UMIEJĘTNOŚCI\\nPOKéMON” „ZNANE RUCHY”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323712.16681,
+  "touched": true
  },
  "src.txt::src.txt_1556": {
   "source": "BERRY POUCH",
@@ -65643,10 +65721,13 @@
  },
  "datatext.txt::datatext.txt_570": {
   "source": "{CIRCLE_1} Open the MENU.\\n{CIRCLE_2} Select “POKéMON.”\\n{CIRCLE_3} Select a POKéMON that knows an\\n   HM move. The usable HM move(s)\\n   will be shown in blue. Select and\\n   use the desired move to destroy an\\n   obstacle, fly, surf, etc.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Otwórz MENU.\\n{CIRCLE_2} Wybierz „POKéMON.” {CIRCLE_3} Wybierz\\nPOKéMONA, który zna ruch\\nHM. Dostępne ruchy HM będą\\npokazane na niebiesko. Wybierz i\\nużyj pożądanego ruchu, aby\\nzniszczyć przeszkodę, latać, surfować itp.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323695.2458227,
+  "touched": true
  },
  "datatext.txt::datatext.txt_827": {
   "source": "CASSIE",
@@ -69973,7 +70054,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323683.4311912,
+  "updated": 1792323723.4434814,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1416": {
@@ -70878,10 +70959,13 @@
  },
  "datatext.txt::datatext.txt_594": {
   "source": "{CIRCLE_1} Select “WITHDRAW ITEM” to withdraw\\n   an item stored on your PC.\\n{CIRCLE_2} Select “DEPOSIT ITEM” to put \\n   an item from your BAG into your PC.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „WYCOFAJ PRZEDMIOT”, aby wycofać\\nprzedmiot przechowywany na Twoim komputerze.\\n{CIRCLE_2} Wybierz „DEPOSIT ITEM”, aby włożyć\\nprzedmiot z PLECAKA do swojego PC.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323716.5510714,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1854": {
   "source": "KIRI & JAN",
@@ -72743,10 +72827,13 @@
  },
  "datatext.txt::datatext.txt_597": {
   "source": "When MAIL is taken from a POKéMON,\\nit is moved to the MAILBOX. If it has\\nno MAIL, the MAILBOX can't be used.\\n{CIRCLE_1} Select MAIL by name to read it or\\n   make a POKéMON hold it.",
-  "target": "",
-  "status": "new",
+  "target": "Kiedy POCZTA jest zabrana od POKéMONA, jest\\nprzenoszona do SKRZYNKI POCZTOWEJ. Jeśli nie\\nma POCZTY, nie można użyć SKRZYNKI POCZTOWEJ.\\n{CIRCLE_1} Wybierz POCZTĘ według nazwy, aby ją\\nprzeczytać lub spraw, by POKéMON ją trzymał.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323720.0488982,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1123": {
   "source": "You look gentle, so I think I can\\nbeat you.\\pI'll give it one more go!",
@@ -74692,10 +74779,13 @@
  },
  "datatext.txt::datatext.txt_560": {
   "source": "{CIRCLE_1} Select the “ITEMS” POCKET.\\n{CIRCLE_2} Press up or down on the {PLUS} Control\\n   Pad to select an item.\\n{CIRCLE_3} Select “USE” to use the selected\\n   item.\\nSome items may not be used depending\\non the place and/or situation.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz kieszeń „PRZEDMIOTY”.\\n{CIRCLE_2} Naciśnij w górę lub w dół\\nna {PLUS} Panelu sterowania, aby wybrać element.\\n{CIRCLE_3} Wybierz „UŻYJ”, aby\\nużyć wybranego przedmiotu.\\nNiektóre przedmioty mogą nie być używane\\nw zależności od miejsca i/lub sytuacji.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323686.5156147,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_300": {
   "source": "WITH",
@@ -76816,10 +76906,13 @@
  },
  "datatext.txt::datatext.txt_598": {
   "source": "You may not “RUN” from a TRAINER\\nbattle!\\n{CIRCLE_1} You may “RUN” from a wild POKéMON.\\n{CIRCLE_2} Your chance of escape is improved\\n   if your POKéMON in battle is fast.",
-  "target": "",
-  "status": "new",
+  "target": "Nie możesz „UCIEC” z\\nwalki z TRENEREM!\\n{CIRCLE_1} Możesz „UCIEC” przed dzikim POKéMONEM.\\n{CIRCLE_2} Twoja szansa na ucieczkę zwiększa się,\\njeśli twój POKéMON w walce jest szybki.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323721.6351259,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_890": {
   "source": "The whole body is swathed with wide vines\\nthat are similar to seaweed. The vines\\nsway as it walks.",
@@ -78034,10 +78127,13 @@
  },
  "datatext.txt::datatext.txt_571": {
   "source": "{CIRCLE_1} Open the MENU. Open the\\n   “KEY ITEMS” POCKET in the “BAG”\\n   and select the “BICYCLE.”\\n{CIRCLE_2} The BICYCLE can be ridden by\\n   selecting “USE.” You may also\\n   “REGISTER” it for instant use by\\n   pressing SELECT.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Otwórz MENU. Otwórz\\nkieszeń „KLUCZOWE PRZEDMIOTY” w\\n„PLECAKU” i wybierz „ROWER.”\\n{CIRCLE_2} ROWER można\\nużywać, wybierając „UŻYJ.” Możesz\\nrównież „ZAREJESTROWAĆ” go do\\nnatychmiastowego użycia, naciskając SELECT.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323694.9889064,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_725": {
   "source": "GROWLITHE",
@@ -79763,10 +79859,13 @@
  },
  "datatext.txt::datatext.txt_574": {
   "source": "{CIRCLE_1} Select “{STR_VAR_1}'S PC” on the PC.\\n{CIRCLE_2} Select from one of the top three\\n   MENU items to access the POKéMON\\n   Storage System.\\nIf you catch a POKéMON when you have\\nsix in your party, the POKéMON is sent\\nautomatically to a BOX in the System!",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz “PC {STR_VAR_1}” na komputerze.\\n{CIRCLE_2} Wybierz jeden z trzech\\nnajlepszych elementów MENU, aby uzyskać\\ndostęp do systemu przechowywania POKéMON.\\nJeśli złapiesz POKéMONA, gdy masz\\nsześć w drużynie, POKéMON zostaje automatycznie\\nwysłany do SKRZYNKI w Systemie!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323700.3440309,
+  "touched": true
  },
  "src.txt::src.txt_1265": {
   "source": "Quit shopping.",
@@ -84922,10 +85021,13 @@
  },
  "datatext.txt::datatext.txt_575": {
   "source": "{CIRCLE_1} Select a POKéMON in the open BOX\\n   with the {PLUS} Control Pad.\\n{CIRCLE_2} Select “WITHDRAW” to remove the\\n   POKéMON from the BOX and add it to\\n   your party.\\nYou may not withdraw a POKéMON if you\\nalready have six POKéMON with you!",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz POKéMONA w otwartym POKEBOKSIE\\nza pomocą {PLUS} Panelu Sterowania.\\n{CIRCLE_2} Wybierz „WYCOFAJ”, aby usunąć\\nPOKéMONA z PUDEŁKA i\\ndodać go do swojej drużyny.\\nNie możesz wycofać POKéMONA, jeśli masz\\njuż przy sobie sześć POKéMONÓW!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323701.166229,
+  "touched": true
  },
  "data maps.txt::data maps.txt_779": {
   "source": "What the…?\\nYou're in the way. Get lost.",
@@ -85418,10 +85520,13 @@
  },
  "datatext.txt::datatext.txt_585": {
   "source": "{CIRCLE_1} Select “FIGHT.”\\n{CIRCLE_2} Select one of the moves shown,\\nand that move will be used!",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „WALCZ.” {CIRCLE_2} Wybierz\\njeden z pokazanych ruchów,\\na ten ruch zostanie użyty!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323707.976822,
+  "touched": true
  },
  "datascript.txt::datascript.txt_69": {
   "source": "“DODRIO BERRY-PICKING”…\\nWell, the name says it all.\\pYou have to have a DODRIO to play\\nthis game.",
@@ -91225,10 +91330,13 @@
  },
  "datatext.txt::datatext.txt_568": {
   "source": "{CIRCLE_1} Open the MENU.\\n{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\\n   “BAG.”\\n{CIRCLE_3} “OPEN” the TM CASE.\\n{CIRCLE_4} Select and “USE” a TM.\\n{CIRCLE_5} Select a POKéMON that can learn the\\n   move in the TM.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Otwórz MENU.\\n{CIRCLE_2} Otwórz KIESZEŃ „KLUCZOWE\\nPRZEDMIOTY” w „PLECAKU.” {CIRCLE_3}\\n„OTWÓRZ” etui z TM.\\n{CIRCLE_4} Wybierz i „UŻYJ” TM.\\n{CIRCLE_5} Wybierz POKéMONA, który może\\nnauczyć się ruchu z TM.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323695.745757,
+  "touched": true
  },
  "datatext.txt::datatext.txt_766": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: GRASS, FIGHTING, BUG\\p   {TRIANGLE}: ELECTRIC, ROCK, STEEL",
@@ -95221,10 +95329,13 @@
  },
  "datatext.txt::datatext.txt_600": {
   "source": "{CIRCLE_1} Select to throw the special POKé\\n   BALL used only in the SAFARI ZONE.\\nWhen wild POKéMON appear, throw lots\\nof SAFARI BALLS to catch them!",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz, aby rzucić specjalną POKéBALL\\nużywaną tylko w STREFIE SAFARI.\\nGdy pojawią się dzikie POKéMONY, rzucaj\\nwieloma KULAMI SAFARI, aby je złapać!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323721.7163227,
+  "touched": true
  },
  "src.txt::src.txt_1168": {
   "source": "TIME",
@@ -95605,10 +95716,13 @@
  },
  "datatext.txt::datatext.txt_562": {
   "source": "{CIRCLE_1} While battling a wild POKéMON,\\n   select the BAG's “POKé BALLS”\\n   POCKET.\\n{CIRCLE_2} Press up or down on the {PLUS} Control\\n   Pad to select a POKé BALL.\\n{CIRCLE_3} Select “USE” to throw the selected\\n   POKé BALL.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Podczas walki z\\ndzikim POKéMONEM, wybierz\\n„POKé BALLE” w TORBIE.\\n{CIRCLE_2} Naciśnij w górę lub w dół na\\n{PLUS} Padzie sterowania, aby wybrać POKé BALL.\\n{CIRCLE_3} Wybierz „UŻYJ”, aby\\nrzucić wybraną POKé BALL.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323688.2366445,
+  "touched": true
  },
  "src.txt::src.txt_407": {
   "source": "!",
@@ -95706,10 +95820,13 @@
  },
  "datatext.txt::datatext.txt_599": {
   "source": "You may “REGISTER” a key item for\\ninstant use by pressing SELECT!\\n{CIRCLE_1} Open the “KEY ITEMS” POCKET.\\n{CIRCLE_2} Select the key item, then select\\n   “REGISTER.”",
-  "target": "",
-  "status": "new",
+  "target": "Możesz „ZAREJESTROWAĆ” kluczowy przedmiot\\ndo natychmiastowego użycia, naciskając SELECT!\\n{CIRCLE_1} Otwórz KIESZEŃ „KLUCZOWE PRZEDMIOTY”.\\n{CIRCLE_2} Wybierz kluczowy przedmiot,\\na następnie wybierz „REJESTRACJA.”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323721.7563014,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_632": {
   "source": "HER",
@@ -96932,10 +97049,13 @@
  },
  "datatext.txt::datatext.txt_572": {
   "source": "{CIRCLE_1} Move the cursor to the letter you\\n   want with the {PLUS} Control Pad, then\\n   press the A Button to enter it.\\n{CIRCLE_2} Press the B Button to back up.\\n{CIRCLE_3} Press SELECT to switch between\\n   uppercase and lowercase letters.\\n{CIRCLE_4} Press the A Button on “OK.”",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Przesuń kursor na literę, którą chcesz\\nwybrać, za pomocą {PLUS} Panelu sterowania, a\\nnastępnie naciśnij przycisk A, aby ją wprowadzić.\\n{CIRCLE_2} Naciśnij przycisk B, aby cofnąć.\\n{CIRCLE_3} Naciśnij SELECT, aby przełączać się\\nmiędzy wielkimi i małymi literami.\\n{CIRCLE_4} Naciśnij przycisk A na „OK.”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323700.9565976,
+  "touched": true
  },
  "datatext.txt::datatext.txt_829": {
   "source": "SEDA",
@@ -98738,10 +98858,13 @@
  },
  "datatext.txt::datatext.txt_590": {
   "source": "{CIRCLE_1} POKéMON that you have caught are\\n   identified by a POKé BALL mark on\\n   the POKéDEX list.\\n{CIRCLE_2} A caught POKéMON will provide a\\n   large amount of data.\\n",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} POKéMON, które złapałeś,\\nsą oznaczone symbolem POKé\\nBALL na liście POKéDEX.\\n{CIRCLE_2} Złapany POKéMON dostarczy\\ndużą ilość danych.\\n",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323713.896747,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_459": {
   "source": "YAHOO",
@@ -100188,10 +100311,13 @@
  },
  "datatext.txt::datatext.txt_567": {
   "source": "{CIRCLE_1} Open the MENU.\\n{CIRCLE_2} Press up or down on the {PLUS} Control\\n   Pad and select “BAG.”\\n{CIRCLE_3} Press left or right to open the\\n   “KEY ITEMS” POCKET, then press\\n   up or down to select “TOWN MAP.” \\n{CIRCLE_4} Select “USE” to open the TOWN MAP.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Otwórz MENU.\\n{CIRCLE_2} Naciśnij w górę lub w dół na\\n{PLUS} Panelu Sterowania i wybierz „TORBĘ”. {CIRCLE_3}\\nNaciśnij w lewo lub w prawo, aby\\notworzyć przegródkę „KLUCZOWE PRZEDMIOTY”, a następnie naciśnij w\\ngórę lub w dół, aby wybrać „MAPA MIASTA”.\\n{CIRCLE_4} Wybierz „UŻYJ”, aby otworzyć MAPĘ MIASTA.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323693.3026147,
+  "touched": true
  },
  "src.txt::src.txt_1932": {
   "source": "ゲ-ムない じかんの しゅうせい システムが\\nつかえる ように なりました!",
@@ -103562,10 +103688,13 @@
  },
  "datatext.txt::datatext.txt_569": {
   "source": "{CIRCLE_1} Open the MENU.\\n{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\\n   “BAG.”\\n{CIRCLE_3} “OPEN” the TM CASE.\\n{CIRCLE_4} Select and “USE” an HM.\\n{CIRCLE_5} Select a POKéMON that can learn it.\\nHMs are hard to remove, so be careful!",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Otwórz MENU.\\n{CIRCLE_2} Otwórz KIESZEŃ „KLUCZOWE\\nPRZEDMIOTY” w „PLECAKU.” {CIRCLE_3}\\n„OTWÓRZ” etui z TM.\\n{CIRCLE_4} Wybierz i „UŻYJ” HM.\\n{CIRCLE_5} Wybierz POKéMONA, który może się go nauczyć.\\nHMs są trudne do usunięcia, więc bądź ostrożny!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323697.479614,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2992": {
   "source": "Beware of wild, BERRY-loving\\nPOKéMON!",
