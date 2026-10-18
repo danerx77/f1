@@ -9631,7 +9631,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328003.7428887,
+  "updated": 1792328008.0532622,
   "touched": true
  },
  "src.txt::src.txt_511": {
@@ -69564,12 +69564,12 @@
  },
  "src.txt::src.txt_2053": {
   "source": "Are you ready to BERRY-CRUSH?\\nPlease pick a BERRY for use.\\p",
-  "target": "Czy jesteś gotowy na NISZCZENIE OWOCÓW?\\nProszę wybrać OWOC jagodowy do użycia.\\p",
+  "target": "Czy jesteś gotowy na BERRY-CRUSH?\\nProszę wybrać JAGODY do użycia.\\p",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327977.9185877,
+  "updated": 1792328033.631651,
   "touched": true
  },
  "src.txt::src.txt_1753": {
@@ -71225,10 +71225,13 @@
  },
  "src.txt::src.txt_2069": {
   "source": "Silkiness:",
-  "target": "",
-  "status": "new",
+  "target": "Jedwabistość:",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792328040.7696238,
+  "touched": true
  },
  "src.txt::src.txt_2883": {
   "source": "Is that right?\\nI didn't know that.\\p",
@@ -73590,7 +73593,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736687.1397307,
+  "updated": 1792328012.7844436,
   "touched": true
  },
  "src.txt::src.txt_443": {
@@ -78173,14 +78176,13 @@
  },
  "src.txt::src.txt_2068": {
   "source": "Pressing Speed:",
-  "target": "",
-  "status": "new",
+  "target": "Prędkość prasowania:",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736687.5093539,
+  "updated": 1792328043.749767,
   "touched": true
  },
  "data maps.txt::data maps.txt_2274": {
