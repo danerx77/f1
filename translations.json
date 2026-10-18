@@ -45250,10 +45250,13 @@
  },
  "datatext.txt::datatext.txt_685": {
   "source": "Status problems include:\\nSleep: Can't use moves.\\lPoison: Causes steady HP loss.\\lParalysis: May prevent moves.\\lBurn: HP loss and lowers ATTACK.\\lFreeze: Can't use moves.\\lThese can be healed with items, etc.",
-  "target": "",
-  "status": "new",
+  "target": "Problemy ze statusem obejmują:\\nSen: Nie można używać ruchów.\\lTrucizna: powoduje stałą utratę punktów HP.\\lParaliż: Może uniemożliwić ruchy.\\lSpalenie: utrata HP i obniżenie ATAKU.\\lZamrożenie: Nie można używać ruchów.\\lTe można leczyć za pomocą przedmiotów itp.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324323.4777563,
+  "touched": true
  },
  "data maps.txt::data maps.txt_989": {
   "source": "PALLET TOWN\\nShades of your journey await!",
@@ -73411,7 +73414,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324280.3360436,
+  "updated": 1792324363.4890275,
   "touched": true
  },
  "data maps.txt::data maps.txt_1484": {
@@ -76212,7 +76215,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792324323.4637184,
+  "updated": 1792324346.0761828,
   "touched": true
  },
  "datatext.txt::datatext.txt_1258": {
