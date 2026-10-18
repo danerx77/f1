@@ -61850,10 +61850,13 @@
  },
  "src.txt::src.txt_2001": {
   "source": "Clearing data‥\\nPlease wait.",
-  "target": "",
-  "status": "new",
+  "target": "Wyczyszczanie danych‥\\nProszę czekać.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325323.4887576,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_59": {
   "source": "THREE ISLAND",
@@ -100566,13 +100569,13 @@
  },
  "src.txt::src.txt_2000": {
   "source": "Clear all save data areas?",
-  "target": "Wyczyścić wszystkie obszary danych zapisanych?",
+  "target": "Wyczyścić wszystkie dane zapisane?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325283.5899498,
+  "updated": 1792325314.4048407,
   "touched": true
  },
  "data maps.txt::data maps.txt_3216": {
