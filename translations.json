@@ -48144,6 +48144,16 @@
   "translator": "Antrix",
   "updated": 1791586295.6769187
  },
+ "data.txt::data.txt_62": {
+  "source": "Thank you for using the MYSTERY\\nGIFT System.\\pRecently, there have been rumors\\nof rare POKéMON appearances.\\pThe rumors are about ALTERING\\nCAVE on OUTCAST ISLAND.\\pWhy not visit there and check if\\nthe rumors are indeed true?",
+  "target": "Dziękujemy za korzystanie z\\nSystemu MYSTERY GIFT\\pRecently, there have been rumors\\nof rare POKéMON appearances.\\pThe rumors are about ALTERING\\nCAVE on OUTCAST ISLAND.\\pWhy not visit there and check if\\nthe rumors are indeed true?",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792319336.9669375,
+  "touched": true
+ },
  "datatext.txt::datatext.txt_146": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: KOGA\\nTo: {PLAYER}\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}You and I, we must both set our\\nsights higher and work towards\\lmeeting our challenges.\\pNow, I must go train my daughter.",
   "target": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\\nKOGA Do: {PLAYER}\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ty i ja,\\noboje musimy mierzyć wyżej i\\lpracować nad sprostaniem naszym wyzwaniom.\\pTeraz muszę iść trenować moją córkę.",
@@ -48155,13 +48165,6 @@
   "source": "I saw them!\\nI'm sure they're from TEAM ROCKET!",
   "target": "Widziałem ich!\\nSą pewnie z ZESPOŁU R!",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data.txt::data.txt_62": {
-  "source": "Thank you for using the MYSTERY\\nGIFT System.\\pRecently, there have been rumors\\nof rare POKéMON appearances.\\pThe rumors are about ALTERING\\nCAVE on OUTCAST ISLAND.\\pWhy not visit there and check if\\nthe rumors are indeed true?",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -69612,7 +69615,11 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "translator": "Antrix",
+  "updated": 1792319306.1836128,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1863": {
   "source": "RELI",
@@ -104836,10 +104843,11 @@
  },
  "datatext.txt::datatext.txt_739": {
   "source": "Depending on the matchup of the\\nmove type and the target POKéMON's\\ltype, the move's effectiveness varies:\\l{CIRCLE_DOT}: Super effective!\\l{TRIANGLE}: Not very effective\\l{BIG_MULT_X}: Not effective at all\\l(No changes for other matchups.)",
-  "target": "W zależności od tego co na niej się\\nmove type and the target POKéMON's\\ltype, the move's effectiveness varies:\\l{CIRCLE_DOT}: Super effective!\\l{TRIANGLE}: Not very effective\\l{BIG_MULT_X}: Not effective at all\\l(No changes for other matchups.)",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
   "updated": 1792319297.0075746,
   "touched": true
