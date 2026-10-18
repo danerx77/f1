@@ -43249,12 +43249,12 @@
  },
  "datatext.txt::datatext.txt_673": {
   "source": "The POKéMON LEAGUE BADGES that you\\nhave won are registered and shown.\\lEarn BADGES by defeating GYM LEADERS\\lin various cities and towns.",
-  "target": "ZDOBYTE PRZYPINKI LIGI POKéMON\\nsą zarejestrowane i wyświetlane.\\lZdobywaj ODZNAKI, pokonując LIDERÓW SIŁOWNI\\lw różnych miastach i miasteczkach.",
+  "target": "ZDOBYTE ODZNAKI LIGI POKéMON\\nsą zarejestrowane i wyświetlane.\\lZdobywaj ODZNAKI, pokonując LIDERÓW SIŁOWNI\\lw różnych miastach i miasteczkach.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324309.1666982,
+  "updated": 1792324563.4623313,
   "touched": true
  },
  "data maps.txt::data maps.txt_2556": {
@@ -43700,12 +43700,12 @@
  },
  "datatext.txt::datatext.txt_670": {
   "source": "POKé BALLS, which are used for\\ncatching wild POKéMON, are placed in\\lthe POKé BALLS POCKET.\\lPOKé BALLS may be bought at POKéMON\\lMARTS. They may be used, given to a\\lPOKéMON to hold, or tossed out as\\lgarbage.",
-  "target": "PIŁKI POKé, które służą do\\nłapania dzikich POKéMON, są umieszczane\\lw KIESZENI NA POKé BALLS.\\lPOKé BALLS mogą być kupowane\\lw POKéMON MARKETACH. Mogą być\\lużywane, przekazywane POKéMONOWI do\\ltrzymania lub wyrzucane jako śmieci.",
+  "target": "PIŁKI POKé, które służą do\\nłapania dzikich POKéMON, są umieszczane\\lw KIESZENI NA POKé BALLS.\\lPOKé BALLS mogą być kupowane\\lw POKéMON SKLEPIE. Mogą być\\lużywane, przekazywane POKéMONOWI do\\ltrzymania lub wyrzucane jako śmieci.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324523.4833956,
+  "updated": 1792324538.2776332,
   "touched": true
  },
  "data maps.txt::data maps.txt_1409": {
@@ -51436,7 +51436,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324513.3450358,
+  "updated": 1792324540.4607043,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_549": {
@@ -69423,7 +69423,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324308.6901586,
+  "updated": 1792324551.4035249,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_328": {
@@ -71533,7 +71533,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324307.5628793,
+  "updated": 1792324544.016269,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_758": {
