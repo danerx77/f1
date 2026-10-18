@@ -9795,13 +9795,13 @@
  },
  "src.txt::src.txt_1548": {
   "source": "TRADE CENTER",
-  "target": "CENTRUM HANDLOWE",
+  "target": "CENTRUM WYMIAN",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327724.4653418,
+  "updated": 1792327752.743203,
   "touched": true
  },
  "src.txt::src.txt_6": {
