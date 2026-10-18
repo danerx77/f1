@@ -3203,10 +3203,14 @@
  },
  "src.txt::src.txt_2298": {
   "source": "You already had that\\nSTAMP.",
-  "target": "",
-  "status": "new",
+  "target": "You already had that\\nSTAMP.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326975.3657932,
+  "touched": true
  },
  "data.txt::data.txt_14": {
   "source": "{PLAYER} booted up the PC.",
@@ -3561,10 +3565,14 @@
  },
  "src.txt::src.txt_2289": {
   "source": "You haven't received the CARD's gift\\nyet. Input a new CARD anyway?",
-  "target": "",
-  "status": "new",
+  "target": "You haven't received the CARD's gift\\nyet. Input a new CARD anyway?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326964.5742557,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_223": {
   "source": "SWINE",
@@ -10772,10 +10780,14 @@
  },
  "src.txt::src.txt_2305": {
   "source": "What would you like to do\\nwith the WONDER NEWS?",
-  "target": "",
-  "status": "new",
+  "target": "What would you like to do\\nwith the WONDER NEWS?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326984.1368256,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_944": {
   "source": "TREECKO",
@@ -13631,10 +13643,14 @@
  },
  "src.txt::src.txt_2300": {
   "source": "Your record has been uploaded via\\nWIRELESS COMMUNICATION.",
-  "target": "",
-  "status": "new",
+  "target": "Communication has been canceled.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326977.6148822,
+  "touched": true
  },
  "src.txt::src.txt_2447": {
   "source": "NIDOKING",
@@ -19230,10 +19246,14 @@
  },
  "src.txt::src.txt_2301": {
   "source": "You can't accept a WONDER CARD\\nfrom this TRAINER.",
-  "target": "",
-  "status": "new",
+  "target": "You can't accept a WONDER CARD\\nfrom this TRAINER.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326978.7817261,
+  "touched": true
  },
  "src.txt::src.txt_1722": {
   "source": "Can't take any more POKéMON.",
@@ -24432,10 +24452,14 @@
  },
  "src.txt::src.txt_2297": {
   "source": "You already had that\\nWONDER NEWS item.",
-  "target": "",
-  "status": "new",
+  "target": "You already had that\\nWONDER NEWS item.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326973.9758656,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_672": {
   "source": "HM01",
@@ -24716,12 +24740,16 @@
   "updated": 1791587100.8307614,
   "touched": true
  },
- "src.txt::src.txt_1321": {
-  "source": "This POKéMON is holding an\\nitem. It cannot hold MAIL.{PAUSE_UNTIL_PRESS}",
-  "target": "Ten POKéMON coś trzyma.\\nNie możesz dać mu LISTU.{PAUSE_UNTIL_PRESS}",
+ "src.txt::src.txt_2306": {
+  "source": "Sending your WONDER CARD…",
+  "target": "Sending your WONDER CARD…",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326985.230612,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_883": {
   "source": "NEXT",
@@ -24733,10 +24761,10 @@
   "translator": "Antrix",
   "updated": 1791586288.7955875
  },
- "src.txt::src.txt_2306": {
-  "source": "Sending your WONDER CARD…",
-  "target": "",
-  "status": "new",
+ "src.txt::src.txt_1321": {
+  "source": "This POKéMON is holding an\\nitem. It cannot hold MAIL.{PAUSE_UNTIL_PRESS}",
+  "target": "Ten POKéMON coś trzyma.\\nNie możesz dać mu LISTU.{PAUSE_UNTIL_PRESS}",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
@@ -28185,10 +28213,14 @@
  },
  "src.txt::src.txt_2307": {
   "source": "Sending your WONDER NEWS item…",
-  "target": "",
-  "status": "new",
+  "target": "Sending your WONDER NEWS item…",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326986.091154,
+  "touched": true
  },
  "src.txt::src.txt_1050": {
   "source": "バトルタワーに　あらたな\\nたいせんしゃが　あらわれた！",
@@ -29645,10 +29677,14 @@
  },
  "src.txt::src.txt_2318": {
   "source": "Is it okay to discard this\\nNEWS item?",
-  "target": "",
-  "status": "new",
+  "target": "Is it okay to discard this\\nNEWS item?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327001.1171455,
+  "touched": true
  },
  "src.txt::src.txt_2637": {
   "source": "SNORLAX",
@@ -36063,10 +36099,14 @@
  },
  "src.txt::src.txt_2312": {
   "source": "The other TRAINER has the same\\nWONDER CARD already.",
-  "target": "",
-  "status": "new",
+  "target": "The other TRAINER has the same\\nWONDER CARD already.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326993.8395343,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_182": {
   "source": "WOOL",
@@ -45350,10 +45390,14 @@
  },
  "src.txt::src.txt_2296": {
   "source": "You already had that\\nWONDER CARD.",
-  "target": "",
-  "status": "new",
+  "target": "You already had that\\nWONDER CARD.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326972.8451982,
+  "touched": true
  },
  "data maps.txt::data maps.txt_126": {
   "source": "They offer rare POKéMON that can\\nbe exchanged for your COINS.\\pBut, I just can't seem to win!",
@@ -46929,10 +46973,14 @@
  },
  "src.txt::src.txt_2303": {
   "source": "Nothing was sent over…",
-  "target": "",
-  "status": "new",
+  "target": "Nothing was sent over…",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326982.0138714,
+  "touched": true
  },
  "src.txt::src.txt_2603": {
   "source": "LISA&LEAH",
@@ -47674,10 +47722,14 @@
  },
  "src.txt::src.txt_2302": {
   "source": "You can't accept WONDER NEWS\\nfrom this TRAINER.",
-  "target": "",
-  "status": "new",
+  "target": "You can't accept WONDER NEWS\\nfrom this TRAINER.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326981.0192368,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_402": {
   "source": "DRINK",
@@ -53332,10 +53384,14 @@
  },
  "src.txt::src.txt_2299": {
   "source": "There's no more room for adding\\nSTAMPS.",
-  "target": "",
-  "status": "new",
+  "target": "There's no more room for adding\\nSTAMPS.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326976.47234,
+  "touched": true
  },
  "datatext.txt::datatext.txt_361": {
   "source": "POKéMON JOURNAL\\pSpecial Feature: FUCHSIA GYM\\nLEADER KOGA!\\pKOGA is said to have a thorough\\nknowledge of medicine.\\pHe even concocts medicine to nurse\\nhis POKéMON to health.",
@@ -55933,10 +55989,14 @@
  },
  "src.txt::src.txt_2313": {
   "source": "The other TRAINER has the same\\nWONDER NEWS already.",
-  "target": "",
-  "status": "new",
+  "target": "The other TRAINER has the same\\nWONDER NEWS already.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326995.1794004,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_788": {
   "source": "In battle, it flaps its wings at great\\nspeed to release highly toxic dust into\\nthe air.",
@@ -59096,10 +59156,14 @@
  },
  "src.txt::src.txt_2295": {
   "source": "A new TRAINER has arrived.",
-  "target": "",
-  "status": "new",
+  "target": "A new WONDER NEWS item has been\\nreceived.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326971.86831,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_13": {
   "source": "SAID",
@@ -66083,10 +66147,14 @@
  },
  "src.txt::src.txt_2317": {
   "source": "If you throw away the CARD,\\nits event won't happen. Okay?",
-  "target": "",
-  "status": "new",
+  "target": "If you throw away the CARD,\\nits event won't happen. Okay?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326999.7509365,
+  "touched": true
  },
  "datatext.txt::datatext.txt_341": {
   "source": "OLD MAN",
@@ -79170,10 +79238,14 @@
  },
  "src.txt::src.txt_2304": {
   "source": "What would you like to do\\nwith the WONDER CARDS?",
-  "target": "",
-  "status": "new",
+  "target": "What would you like to do\\nwith the WONDER CARDS?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326983.0647423,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_784": {
   "source": "Fully restores the PP of all moves\\\\nfor one POKéMON.",
@@ -84255,10 +84327,14 @@
  },
  "src.txt::src.txt_2319": {
   "source": "You haven't received the\\nGIFT. Is it okay to discard?",
-  "target": "",
-  "status": "new",
+  "target": "You haven't received the\\nGIFT. Is it okay to discard?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327002.862501,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_15": {
   "source": "Negates weather effects.",
@@ -85268,10 +85344,14 @@
  },
  "src.txt::src.txt_2294": {
   "source": "A new STAMP has been received.",
-  "target": "",
-  "status": "new",
+  "target": "A new STAMP has been received.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326971.0127575,
+  "touched": true
  },
  "datatext.txt::datatext.txt_537": {
   "source": " Using “FIGHT”",
@@ -87728,10 +87808,14 @@
  },
  "src.txt::src.txt_2292": {
   "source": "A new WONDER CARD has been\\nreceived.",
-  "target": "",
-  "status": "new",
+  "target": "You can’t accept a WONDER CARD\\nfrom this TRAINER.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326968.5516174,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1678": {
   "source": "Hi! Remember me?\\nI'm one of PROF. OAK's AIDES.\\pIf your POKéDEX has complete data\\non {STR_VAR_1} species, I'm supposed to\\lgive you a reward.\\pPROF. OAK entrusted me with the\\n{STR_VAR_2} for you.\\pSo, {PLAYER}, let me ask you.\\pHave you gathered data on at least\\n{STR_VAR_1} kinds of POKéMON?",
@@ -91502,10 +91586,14 @@
  },
  "src.txt::src.txt_2293": {
   "source": "A new WONDER NEWS item has been\\nreceived.",
-  "target": "",
-  "status": "new",
+  "target": "A new TRAINER has arrived.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326970.0361733,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2540": {
   "source": "The monitor has POKéMON on it!",
@@ -101961,10 +102049,14 @@
  },
  "src.txt::src.txt_2314": {
   "source": "The other TRAINER has the same\\nSTAMP already.",
-  "target": "",
-  "status": "new",
+  "target": "The other TRAINER has the same\\nSTAMP already.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326996.3847675,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1168": {
   "source": "Are you jealous that I'm\\nvacationing on SEAFOAM?",
@@ -105358,10 +105450,14 @@
  },
  "src.txt::src.txt_2315": {
   "source": "The other TRAINER canceled\\ncommunication.",
-  "target": "",
-  "status": "new",
+  "target": "The other TRAINER canceled\\ncommunication.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326997.5425663,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_794": {
   "source": "When hunting, it skims the surface of\\nwater at high speed to pick off unwary\\nprey such as MAGIKARP.",
@@ -110300,6 +110396,17 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2316": {
+  "source": "You can't send a MYSTERY GIFT to\\nthis TRAINER.",
+  "target": "You can't send a MYSTERY GIFT to\\nthis TRAINER.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326998.6710954,
+  "touched": true
+ },
  "srcdata.txt::srcdata.txt_1045": {
   "source": "LIECHI BERRY",
   "target": "LIECHIJAGODA",
@@ -110309,13 +110416,6 @@
   "translator": "Antrix",
   "updated": 1791655807.434767,
   "touched": true
- },
- "src.txt::src.txt_2316": {
-  "source": "You can't send a MYSTERY GIFT to\\nthis TRAINER.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_751": {
   "source": "TEAM ROCKET will do anything for\\nthe sake of money!\\pThere is no job too dirty, no deed\\ntoo heinous, no crime too wicked!",
