@@ -24635,13 +24635,13 @@
  },
  "datatext.txt::datatext.txt_725": {
   "source": "Own move type: DRAGON",
-  "target": "Own move Typ: Smoczy",
+  "target": "Własny ruch Typ: Smoczy",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792318982.671182,
+  "updated": 1792319129.5535562,
   "touched": true
  },
  "src.txt::src.txt_2180": {
@@ -57538,7 +57538,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792318960.5825033,
+  "updated": 1792319125.936258,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_704": {
@@ -60102,7 +60102,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792318951.7259219,
+  "updated": 1792319133.5387294,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_435": {
@@ -78759,13 +78759,13 @@
  },
  "datatext.txt::datatext.txt_734": {
   "source": "Own POKéMON type: FIRE",
-  "target": "POKéMON typ: OGIEŃ",
+  "target": "POKéMON typ: OGNISTY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792319096.9981194,
+  "updated": 1792319100.372072,
   "touched": true
  },
  "src.txt::src.txt_341": {
@@ -85764,10 +85764,14 @@
  },
  "datatext.txt::datatext.txt_733": {
   "source": "Own move type: FIRE",
-  "target": "",
-  "status": "new",
+  "target": "Własny ruch Typ: OGNISTY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319117.518222,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2640": {
   "source": "Thank you so much!",
@@ -105510,13 +105514,13 @@
  },
  "datatext.txt::datatext.txt_726": {
   "source": "Own POKéMON type: DRAGON",
-  "target": "Own POKéMON type: DRAGON",
+  "target": "POKéMON typ:  DRAGON",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792319054.1749635,
+  "updated": 1792319136.9979508,
   "touched": true
  },
  "datatext.txt::datatext.txt_564": {
