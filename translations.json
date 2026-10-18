@@ -659,10 +659,13 @@
  },
  "datatext.txt::datatext.txt_768": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: GRASS, ICE, BUG, STEEL\\p   {TRIANGLE}: FIRE, WATER, ROCK, DRAGON",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: TRAWA, LÓD, ROBAK, STAL\\p   {TRIANGLE}: OGIEŃ, WODA, SKAŁA, SMOK",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322380.0375187,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2226": {
   "source": "<<< FILE: maps/SafariZone_West_RestHouse/text.inc >>>",
@@ -4739,10 +4742,13 @@
  },
  "datatext.txt::datatext.txt_769": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: WATER, GROUND, ROCK\\p   {TRIANGLE}: FIRE, GRASS, ICE, BUG, STEEL",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: WODA, ZIEMIA, SKAŁA\\p   {TRIANGLE}: OGNIEŃ, TRAWA, LÓD, ROBAL, STAL",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322380.3288026,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1096": {
   "source": "I love fishing, don't get me wrong.\\nBut, I wish I had more work…\\l…It's hard to give up fishing!",
@@ -10304,10 +10310,13 @@
  },
  "datatext.txt::datatext.txt_753": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FIRE, FIGHTING, ROCK, STEEL\\p   {TRIANGLE}: ICE",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: OGNIEŃ, WALKA, SKAŁA, STAL\\p   {TRIANGLE}: LÓD",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322364.2765636,
+  "touched": true
  },
  "datatext.txt::datatext.txt_949": {
   "source": "Would you like to exit the SAFARI\\nZONE right now?",
@@ -14475,10 +14484,13 @@
  },
  "datatext.txt::datatext.txt_750": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: PSYCHIC, GHOST\\p   {TRIANGLE}: DARK, STEEL\\p   {BIG_MULT_X}: NORMAL",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: PSYCHIC, DUCH\\p   {TRIANGLE}: CIEMNY, STALOWY\\p   {BIG_MULT_X}: NORMALNY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322363.482996,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_167": {
   "source": "ONE ISLAND",
@@ -21059,10 +21071,13 @@
  },
  "datatext.txt::datatext.txt_757": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: GROUND\\p   {TRIANGLE}: ELECTRIC, FLYING, STEEL",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ZIEMIA\\p   {TRIANGLE}: ELEKTRYCZNY, LATAJĄCY, STALOWY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322367.8939981,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2422": {
   "source": "<<< FILE: maps/SevenIsland_Mart/text.inc >>>",
@@ -25016,10 +25031,13 @@
  },
  "datatext.txt::datatext.txt_761": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: ICE, DRAGON\\p   {TRIANGLE}: FIRE, WATER, ELECTRIC, GRASS",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: LÓD, SMOK\\p   {TRIANGLE}: OGIEŃ, WODA, ELEKTRYCZNY, TRAWA",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322372.9674957,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1234": {
   "source": "The switches here open and close\\nalternating sets of doors.",
@@ -27732,10 +27750,13 @@
  },
  "datatext.txt::datatext.txt_763": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FIGHTING\\p   {BIG_MULT_X}: GHOST",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: WALKI\\p   {BIG_MULT_X}: DUCH",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322375.9626923,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1367": {
   "source": "TM41",
@@ -33929,7 +33950,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322363.4205935,
+  "updated": 1792322403.427289,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_700": {
@@ -34192,10 +34213,13 @@
  },
  "datatext.txt::datatext.txt_760": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: DRAGON\\p   {TRIANGLE}: STEEL",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: SMOK\\p   {TRIANGLE}: STAL",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322372.3332634,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_911": {
   "source": "It accumulates negative ions in the\\natmosphere to blast out 10,000-volt\\nlightning bolts.",
@@ -34933,10 +34957,13 @@
  },
  "datatext.txt::datatext.txt_767": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: ELECTRIC, ICE, ROCK\\p   {TRIANGLE}: GRASS, FIGHTING, BUG\\p   {BIG_MULT_X}: GROUND",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ELEKTRYCZNY, LÓD, SKAŁA\\p   {TRIANGLE}: TRAWA, WALKA, ROBACZEK\\p   {BIG_MULT_X}: ZIEMIA",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322381.344456,
+  "touched": true
  },
  "src.txt::src.txt_855": {
   "source": "The user predicts\\nthe foe's action to\\nensure its next\\nattack hits.",
@@ -39936,10 +39963,13 @@
  },
  "datatext.txt::datatext.txt_756": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: WATER, FLYING\\p   {TRIANGLE}: ELECTRIC, GRASS, DRAGON\\p   {BIG_MULT_X}: GROUND",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: WODA, LATANIE\\p   {TRIANGLE}: ELEKTRYCZNY, ROŚLINNY, SMOK\\p   {BIG_MULT_X}: ZIEMIA",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322369.0821323,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3153": {
   "source": "{FONT_NORMAL}{PLAYER} doesn't have the needed\\nS.S. TICKET.\\p{FONT_MALE}Sorry!\\pYou need a ticket to get aboard.",
@@ -47079,10 +47109,13 @@
  },
  "datatext.txt::datatext.txt_771": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: ELECTRIC, GRASS\\p   {TRIANGLE}: FIRE, WATER, ICE, STEEL",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ELEKTRYCZNY, TRAWA\\p   {TRIANGLE}: OGIEŃ, WODA, LÓD, STAL",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322383.7232697,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1123": {
   "source": "BUG MANIAC",
@@ -48868,10 +48901,13 @@
  },
  "datatext.txt::datatext.txt_759": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: GROUND, PSYCHIC\\p   {TRIANGLE}: GRASS, FIGHTING, POISON, BUG",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ZIEMIA, PSYCHICZNY\\p   {TRIANGLE}: TRAWA, WALKI, TRUJĄCE, ROBACZKOWE",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322371.543104,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_551": {
   "source": "POPULAR",
@@ -49103,10 +49139,13 @@
  },
  "datatext.txt::datatext.txt_773": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FIRE, FLYING, ROCK\\p   {TRIANGLE}: GRASS, FIGHTING, GROUND",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: OGNIOWY, LATAJĄCY, KAMIEŃ\\p   {TRIANGLE}: TRAWA, WALKA, ZIEMIA",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322385.3372347,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2039": {
   "source": "COREY",
@@ -71266,6 +71305,16 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_762": {
+  "source": "Effect on the opposing POKéMON:\\p   {TRIANGLE}: ROCK, STEEL\\p   {BIG_MULT_X}: GHOST",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {TRIANGLE}: SKAŁA, STAL\\p   {BIG_MULT_X}: DUCH",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322375.5127244,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_744": {
   "source": "<<< FILE: src/data/easy_chat/easy_chat_group_status.h >>>",
   "target": "",
@@ -71276,13 +71325,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586288.321165
- },
- "datatext.txt::datatext.txt_762": {
-  "source": "Effect on the opposing POKéMON:\\p   {TRIANGLE}: ROCK, STEEL\\p   {BIG_MULT_X}: GHOST",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "src.txt::src.txt_2675": {
   "source": "GENGAR",
@@ -72198,10 +72240,13 @@
  },
  "datatext.txt::datatext.txt_772": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: GRASS, PSYCHIC, DARK\\p   {TRIANGLE}: FIRE, FIGHTING, POISON,\\n       FLYING, GHOST, STEEL",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: TRAWA, PSYCHICZNY, MROCZNY\\p   {TRIANGLE}: OGNIOWY,\\nWALKI, TRUJĄCY, LATAJĄCY, DUCH, STALOWY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322384.3021636,
+  "touched": true
  },
  "src.txt::src.txt_2166": {
   "source": "\\nBraille Code Check\\n\\n\\n\\n\\n",
@@ -82644,10 +82689,13 @@
  },
  "datatext.txt::datatext.txt_751": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: GHOST, DARK\\p   {TRIANGLE}: POISON, BUG\\p   {BIG_MULT_X}: NORMAL, FIGHTING",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: DUCH, CIEMNOŚĆ\\p   {TRIANGLE}: TRUCIZNA, ROBAL\\p   {BIG_MULT_X}: NORMALNY, WALCZĄCY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322364.2980196,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_491": {
   "source": "TREASURE",
@@ -83534,6 +83582,16 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_754": {
+  "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: FIRE, ELECTRIC, POISON, ROCK,\\n       STEEL\\p   {TRIANGLE}: GRASS, BUG\\n   {BIG_MULT_X}: FLYING",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}:\\nOGIEŃ, ELEKTRYCZNY, TRUJĄCY, SKAŁA, STAL\\p   {TRIANGLE}:\\nTRAWIASTY, ROBACZEK {BIG_MULT_X}: LATAJĄCY",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322367.5880284,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_2862": {
   "source": "<<< FILE: maps/SSAnne_2F_Corridor/text.inc >>>",
   "target": "",
@@ -83541,13 +83599,6 @@
   "notes": "",
   "ignored": true,
   "auto_excluded": true
- },
- "datatext.txt::datatext.txt_754": {
-  "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: FIRE, ELECTRIC, POISON, ROCK,\\n       STEEL\\p   {TRIANGLE}: GRASS, BUG\\n   {BIG_MULT_X}: FLYING",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_3306": {
   "source": "VIRIDIAN CITY POKéMON GYM",
@@ -86920,10 +86971,13 @@
  },
  "datatext.txt::datatext.txt_770": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: FIRE, GROUND, ROCK\\p   {TRIANGLE}: WATER, GRASS, DRAGON",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p{CIRCLE_DOT}: OGNIA, ZIEMIA, SKAŁA\\p   {TRIANGLE}: WODA, TRAWa, SMOK",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322383.300289,
+  "touched": true
  },
  "data maps.txt::data maps.txt_713": {
   "source": "POKéMON photos and fossils are on\\ndisplay.",
@@ -88383,10 +88437,13 @@
  },
  "datatext.txt::datatext.txt_758": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: GRASS\\p   {TRIANGLE}: POISON, GROUND, ROCK, GHOST\\p   {BIG_MULT_X}: STEEL",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: TRAWa\\p   {TRIANGLE}: TRUCIZNA, ZIEMIA, SKAŁA, DUCH\\p   {BIG_MULT_X}: STAL",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322372.3434458,
+  "touched": true
  },
  "src.txt::src.txt_2327": {
   "source": "WONDER NEWS",
@@ -91046,10 +91103,13 @@
  },
  "datatext.txt::datatext.txt_766": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: GRASS, FIGHTING, BUG\\p   {TRIANGLE}: ELECTRIC, ROCK, STEEL",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: TRAWA, WALKA, ROBACZEK\\p   {TRIANGLE}: ELEKTRYCZNY, ROCK, STAL",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322379.4169047,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1380": {
   "source": "The foe is struck with steel-hard\\\\nwings. It may also raise the user's\\\\nDEFENSE stat.",
@@ -91180,10 +91240,13 @@
  },
  "datatext.txt::datatext.txt_755": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: WATER, GRASS, ICE\\p   {TRIANGLE}: POISON, ROCK\\p   {BIG_MULT_X}: ELECTRIC",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: WODA, TRAWA, LÓD\\p   {TRIANGLE}: TRUCIZNA, SKAŁA\\p   {BIG_MULT_X}: ELEKTRYCZNY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322368.8316607,
+  "touched": true
  },
  "data maps.txt::data maps.txt_595": {
   "source": "Boioing!",
@@ -94937,10 +95000,13 @@
  },
  "datatext.txt::datatext.txt_764": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: ICE, ROCK\\p   {TRIANGLE}: FIRE, WATER, ELECTRIC, STEEL",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: LÓD, SKAŁA\\p   {TRIANGLE}: OGIEŃ, WODA, ELEKTRYCZNY, STAL",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322376.0725458,
+  "touched": true
  },
  "src.txt::src.txt_1635": {
   "source": "{PLAYER}'s BATTLE RESULTS",
@@ -96196,10 +96262,13 @@
  },
  "datatext.txt::datatext.txt_765": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FIRE, FIGHTING, GROUND\\n   {TRIANGLE}: NORMAL, GRASS, ICE, FLYING,\\l       PSYCHIC, BUG, ROCK, GHOST,\\l       DRAGON, DARK, STEEL\\l   {BIG_MULT_X}: POISON",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}:\\nOGIEŃ, WALKI, ZIEMIA {TRIANGLE}:\\lNORMALNY, ROŚLINNY, LODOWY, LOT, PSYCHICZNY,\\lOWAD, SKAŁA, DUCH, SMOK,\\lCIEMNY, STAL {BIG_MULT_X}: TRUJĄCY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322376.1685445,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1016": {
   "source": "SOLROCK",
@@ -97514,10 +97583,13 @@
  },
  "datatext.txt::datatext.txt_752": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: GRASS, GROUND, FLYING, DRAGON\\p   {TRIANGLE}: FIRE, WATER, ICE, STEEL",
-  "target": "",
-  "status": "new",
+  "target": "Wpływ na przeciwnika POKéMON:\\pTRAWA, ZIEMIA, LATAJĄCY, SMOK{CIRCLE_DOT}\\p   {TRIANGLE}: OGIEŃ, WODA, LÓD, STAL",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792322363.8430655,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1203": {
   "source": "????????",
