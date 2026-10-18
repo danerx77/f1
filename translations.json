@@ -249,14 +249,13 @@
  },
  "src.txt::src.txt_2059": {
   "source": "A member dropped out.\\nThe game will be canceled.",
-  "target": "",
-  "status": "new",
+  "target": "Jeden z członków zrezygnował.\\nGra zostanie odwołana.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327956.8426986,
+  "updated": 1792327997.1405306,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1813": {
@@ -5550,10 +5549,13 @@
  },
  "src.txt::src.txt_2054": {
   "source": "Please wait while each member\\nchooses a BERRY.",
-  "target": "",
-  "status": "new",
+  "target": "Proszę czekać, aż każdy\\nczłonek wybierze OWOC.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327980.6951046,
+  "touched": true
  },
  "data maps.txt::data maps.txt_607": {
   "source": "SAFARI GAME\\nPOKéMON-U-CATCH!",
@@ -9624,10 +9626,13 @@
  },
  "src.txt::src.txt_2060": {
   "source": "Time's up.\\pGood BERRY POWDER could not be\\nmade…\\p",
-  "target": "",
-  "status": "new",
+  "target": "Czas minął.\\pDobre PROSZEK Z OWOCÓW\\nJAGODOWYCH nie mogło zostać zrobione…\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792328003.7428887,
+  "touched": true
  },
  "src.txt::src.txt_511": {
   "source": "\\n",
@@ -10144,17 +10149,20 @@
   "ignored": true,
   "auto_excluded": true
  },
+ "src.txt::src.txt_2055": {
+  "source": "{PAUSE_MUSIC}{PLAY_BGM MUS_LEVEL_UP}You ended up with {STR_VAR_1} units of\\nsilky-smooth BERRY POWDER.{RESUME_MUSIC}\\pYour total amount of BERRY POWDER\\nis {STR_VAR_2}.\\p",
+  "target": "{PAUSE_MUSIC}{PLAY_BGM MUS_LEVEL_UP}Otrzymałeś {STR_VAR_1} jednostki\\njedwabno-gładkiego PROSZKU Z OWOCÓW BERRY.{RESUME_MUSIC}\\pTwoja łączna ilość PROSZKU\\nZ OWOCÓW BERRY wynosi {STR_VAR_2}.\\p",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327988.6561544,
+  "touched": true
+ },
  "srcdata.txt::srcdata.txt_439": {
   "source": "PEARL",
   "target": "PERŁA",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2055": {
-  "source": "{PAUSE_MUSIC}{PLAY_BGM MUS_LEVEL_UP}You ended up with {STR_VAR_1} units of\\nsilky-smooth BERRY POWDER.{RESUME_MUSIC}\\pYour total amount of BERRY POWDER\\nis {STR_VAR_2}.\\p",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -69556,10 +69564,13 @@
  },
  "src.txt::src.txt_2053": {
   "source": "Are you ready to BERRY-CRUSH?\\nPlease pick a BERRY for use.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Czy jesteś gotowy na NISZCZENIE OWOCÓW?\\nProszę wybrać OWOC jagodowy do użycia.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327977.9185877,
+  "touched": true
  },
  "src.txt::src.txt_1753": {
   "source": "ことばを ぜんぶ けすことは できません!",
@@ -72946,14 +72957,13 @@
  },
  "src.txt::src.txt_2058": {
   "source": "You have no BERRIES.\\nThe game will be canceled.",
-  "target": "",
-  "status": "new",
+  "target": "Nie masz żadnych JAGÓD.\\nGra zostanie odwołana.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327947.1540568,
+  "updated": 1792327994.4563978,
   "touched": true
  },
  "src.txt::src.txt_1821": {
@@ -89019,10 +89029,13 @@
  },
  "src.txt::src.txt_2057": {
   "source": "Want to play BERRY CRUSH again?",
-  "target": "",
-  "status": "new",
+  "target": "Chcesz zagrać w BERRY CRUSH ponownie?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327992.580451,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_31": {
   "source": "SEARCH",
@@ -96083,10 +96096,13 @@
  },
  "src.txt::src.txt_2056": {
   "source": "Recording your game results in the\\nsave file.\\nPlease wait.",
-  "target": "",
-  "status": "new",
+  "target": "Zapisywanie wyników gry\\nw pliku zapisu.\\nProszę czekać.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327990.2841184,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1024": {
   "source": "The EGG STICKER was applied\\nto the TRAINER CARD.",
