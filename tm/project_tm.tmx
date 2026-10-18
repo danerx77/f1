@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T125526Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T125838Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -294781,18 +294781,6 @@
     <tu>
       <tuv xml:lang="en"><seg>TRADE</seg></tuv>
       <tuv xml:lang="pl"><seg>WYMIANA</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>\n\nGraphic Designer\n\n\n\n</seg></tuv>
-      <tuv xml:lang="pl"><seg>Projektantem Graficzn\n\nym!\n\n\n\n</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Special Thanks\n\n\n\n\n\n</seg></tuv>
-      <tuv xml:lang="pl"><seg>Specjalne podziękow\n\nania\n\n\n\n</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>\nEnvironment &amp; Tool Programmers\n\n\n\n\n</seg></tuv>
-      <tuv xml:lang="pl"><seg>\nEnvironment &amp; Tool Programmers\n\n\n\n\n</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Obtained a {STR_VAR_2} BERRY!\nDad has it at PETALBURG GYM.</seg></tuv>
