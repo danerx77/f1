@@ -5704,12 +5704,12 @@
  },
  "datatext.txt::datatext.txt_689": {
   "source": "This indicates the number of POKéMON\\nLEAGUE BADGES that you have won.\\lEarn BADGES by defeating GYM LEADERS\\lin various cities and towns.",
-  "target": "To wskazuje liczbę ODZNAK\\nLIGI POKéMON, które wygrałeś.\\lZdobywaj ODZNAKI, pokonując LIDERÓW SIŁOWNI\\lw różnych miastach i miasteczkach.",
+  "target": "To wskazuje liczbę ODZNAK\\nLIGI POKéMON, które wygrałeś.\\lZdobywaj ODZNAKI, pokonując LIDERÓW SAL\\lw różnych miastach i miasteczkach.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324320.2914062,
+  "updated": 1792324666.721115,
   "touched": true
  },
  "datatext.txt::datatext.txt_1198": {
@@ -21430,12 +21430,12 @@
  },
  "datatext.txt::datatext.txt_688": {
   "source": "Whenever you win a battle against a\\nTRAINER, you are given prize money.\\lSave up your prize money so you can\\lenjoy shopping at POKéMON MARTS!",
-  "target": "Za każdym razem, gdy wygrasz bitwę\\nz TRENEREM, otrzymujesz nagrodę pieniężną.\\lOszczędzaj swoją nagrodę pieniężną, aby móc\\lcieszyć się zakupami w POKéMON MARTS!",
+  "target": "Za każdym razem, gdy wygrasz bitwę\\nz TRENEREM, otrzymujesz nagrodę pieniężną.\\lOszczędzaj swoją nagrodę pieniężną, aby móc\\lcieszyć się zakupami w POKéMON SKLEPIE!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324318.738007,
+  "updated": 1792324656.9356081,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_886": {
@@ -53392,7 +53392,10 @@
   "target": "System POMOCY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324669.8130074,
+  "touched": true
  },
  "datatext.txt::datatext.txt_624": {
   "source": "FNT",
@@ -104749,7 +104752,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324320.6047156,
+  "updated": 1792324646.6378968,
   "touched": true
  },
  "src.txt::src.txt_905": {
@@ -106847,7 +106850,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324643.5164204,
+  "updated": 1792324644.2887843,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_371": {
