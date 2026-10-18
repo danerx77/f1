@@ -1326,10 +1326,13 @@
  },
  "datatext.txt::datatext.txt_684": {
   "source": "Among POKéMON, there are some that\\nundergo major changes (evolution) upon\\lgrowing to certain levels. Evolution\\lcauses a POKéMON to alter form, change\\lits name, and perhaps change the moves\\lit may learn. Some POKéMON evolve\\ldue to reasons other than leveling up.",
-  "target": "",
-  "status": "new",
+  "target": "Wśród POKéMONÓW są takie, które przechodzą\\nznaczące zmiany (ewolucję) po osiągnięciu określonych\\lpoziomów. Ewolucja powoduje, że POKéMON zmienia\\lswoją formę, zmienia nazwę, a\\lbyć może zmienia też ruchy, których\\lmoże się nauczyć. Niektóre POKéMONY ewoluują\\lz powodów innych niż zdobywanie poziomów.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324314.9250221,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3288": {
   "source": "This POKéMON GYM is always closed.\\pI wonder who the LEADER is?",
@@ -2437,10 +2440,13 @@
  },
  "datatext.txt::datatext.txt_665": {
   "source": "POWER indicates the strength of an\\nattack. The higher this number, the\\lgreater the damage that can be\\linflicted on the foe!",
-  "target": "",
-  "status": "new",
+  "target": "SIŁA wskazuje na moc\\nataku. Im wyższa ta\\lliczba, tym większe\\lobrażenia można zadać przeciwnikowi!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324299.9526196,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_108": {
   "source": "A BALL cushion.\\nPlace it on a mat\\nor a desk.",
@@ -5698,10 +5704,13 @@
  },
  "datatext.txt::datatext.txt_689": {
   "source": "This indicates the number of POKéMON\\nLEAGUE BADGES that you have won.\\lEarn BADGES by defeating GYM LEADERS\\lin various cities and towns.",
-  "target": "",
-  "status": "new",
+  "target": "To wskazuje liczbę ODZNAK\\nLIGI POKéMON, które wygrałeś.\\lZdobywaj ODZNAKI, pokonując LIDERÓW SIŁOWNI\\lw różnych miastach i miasteczkach.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324320.2914062,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1198": {
   "source": "Okay!\\nI'll stomp you!",
@@ -17147,6 +17156,16 @@
   "translator": "Antrix",
   "updated": 1791586288.9189174
  },
+ "datatext.txt::datatext.txt_679": {
+  "source": "You may choose the design of the frame\\naround certain menus. Try them out and\\lsee what you like.",
+  "target": "Możesz wybrać projekt ramki wokół\\nniektórych menu. Wypróbuj je i\\lzobacz, co ci się podoba.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324311.0272644,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_897": {
   "source": "KINGDRA",
   "target": "",
@@ -17161,13 +17180,6 @@
   "source": "An item to be held by a POKéMON.\\\\nIt snaps the holder out of\\\\ninfatuation. It can be used once.",
   "target": "Przedmiot do trzymania.\\\\nOtrząsa trzymającego z zauroczenia.\\\\nDo jednorazowego użytku.",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_679": {
-  "source": "You may choose the design of the frame\\naround certain menus. Try them out and\\lsee what you like.",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -21416,6 +21428,16 @@
   "translator": "Antrix",
   "updated": 1791586286.181048
  },
+ "datatext.txt::datatext.txt_688": {
+  "source": "Whenever you win a battle against a\\nTRAINER, you are given prize money.\\lSave up your prize money so you can\\lenjoy shopping at POKéMON MARTS!",
+  "target": "Za każdym razem, gdy wygrasz bitwę\\nz TRENEREM, otrzymujesz nagrodę pieniężną.\\lOszczędzaj swoją nagrodę pieniężną, aby móc\\lcieszyć się zakupami w POKéMON MARTS!",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324318.738007,
+  "touched": true
+ },
  "srcdata.txt::srcdata.txt_886": {
   "source": "?????",
   "target": "",
@@ -21427,13 +21449,6 @@
   "translator": "Antrix",
   "updated": 1791734982.034896,
   "touched": true
- },
- "datatext.txt::datatext.txt_688": {
-  "source": "Whenever you win a battle against a\\nTRAINER, you are given prize money.\\lSave up your prize money so you can\\lenjoy shopping at POKéMON MARTS!",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdata.txt::srcdata.txt_1980": {
   "source": "LAYTON",
@@ -30149,17 +30164,20 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_657": {
+  "source": "OT stands for “Original TRAINER,”\\nthe first TRAINER to have caught the\\lselected POKéMON.\\lEven if the POKéMON is traded, the OT\\lname will remain unchanged.",
+  "target": "OT oznacza „Oryginalny\\nTRENER”, pierwszy TRENER, który\\lzłapał wybranego POKéMONA.\\lNawet jeśli POKéMON zostanie\\lwymieniony, nazwa OT pozostanie niezmieniona.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324294.181643,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_1480": {
   "source": "Whoa!\\nYou spark plug!",
   "target": "Łał!\\nPoszła iskra!",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_657": {
-  "source": "OT stands for “Original TRAINER,”\\nthe first TRAINER to have caught the\\lselected POKéMON.\\lEven if the POKéMON is traded, the OT\\lname will remain unchanged.",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -31913,10 +31931,13 @@
  },
  "datatext.txt::datatext.txt_660": {
   "source": "Whenever you win a battle against a\\nTRAINER, you are given prize money.\\lSave up your prize money so you can\\lenjoy shopping at POKéMON MARTS!",
-  "target": "",
-  "status": "new",
+  "target": "Za każdym razem, gdy wygrasz bitwę\\nz TRENEREM, otrzymujesz nagrodę pieniężną.\\lOszczędzaj swoją nagrodę pieniężną, aby móc\\lcieszyć się zakupami w POKéMON MARTS!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324300.1852643,
+  "touched": true
  },
  "datatext.txt::datatext.txt_311": {
   "source": "DEREK",
@@ -41614,10 +41635,13 @@
  },
  "datatext.txt::datatext.txt_662": {
   "source": "All POKéMON have a personality,\\nor “NATURE.” The POKéMON's\\lnature appears to affect how the\\lPOKéMON will grow upon leveling up.",
-  "target": "",
-  "status": "new",
+  "target": "Wszystkie POKéMON mają osobowość, czyli „CHARAKTER”.\\nCharakter POKéMON wydaje się wpływać\\lna to, jak POKéMON będzie\\lrozwijać się w miarę zdobywania poziomów.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324297.021321,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_63": {
   "source": "A blue glass flute that awakens\\na sleeping POKéMON.",
@@ -41831,10 +41855,13 @@
  },
  "datatext.txt::datatext.txt_668": {
   "source": "Ordinary items bought at any POKéMON\\nMART are placed in the ITEMS POCKET.\\lItems may be used, given to a POKéMON\\lto hold, or tossed out as garbage.",
-  "target": "",
-  "status": "new",
+  "target": "Zwykłe przedmioty kupione w dowolnym POKéMON\\nMART umieszczane są w KIESZENI PRZEDMIOTÓW.\\lPrzedmioty mogą być używane, przekazywane Pokémonowi\\ldo trzymania lub wyrzucane jako śmieci.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324305.319836,
+  "touched": true
  },
  "src.txt::src.txt_2367": {
   "source": "AERODACTYL",
@@ -42074,10 +42101,13 @@
  },
  "datatext.txt::datatext.txt_653": {
   "source": "SP. DEF (Special Defense) indicates\\nthe resistance a POKéMON has against\\lspecial attacks.\\lThe higher this stat, the less damage\\lsustained from a foe's special attack.",
-  "target": "",
-  "status": "new",
+  "target": "OBR. SPEC. (Obrona\\nSpecjalna) wskazuje odporność POKéMONA\\lna ataki specjalne.\\lIm wyższa ta statystyka, tym mniej\\lobrażeń otrzymujesz od specjalnego ataku wroga.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324289.791443,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_682": {
   "source": "When it stamps its feet and bellows, it\\ngenerates ultrasonic waves that can blow\\napart a house.",
@@ -43219,10 +43249,13 @@
  },
  "datatext.txt::datatext.txt_673": {
   "source": "The POKéMON LEAGUE BADGES that you\\nhave won are registered and shown.\\lEarn BADGES by defeating GYM LEADERS\\lin various cities and towns.",
-  "target": "",
-  "status": "new",
+  "target": "ZDOBYTE PRZYPINKI LIGI POKéMON\\nsą zarejestrowane i wyświetlane.\\lZdobywaj ODZNAKI, pokonując LIDERÓW SIŁOWNI\\lw różnych miastach i miasteczkach.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324309.1666982,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2556": {
   "source": "Hey, kid!\\nWhat are you wandering here for?",
@@ -43667,10 +43700,13 @@
  },
  "datatext.txt::datatext.txt_670": {
   "source": "POKé BALLS, which are used for\\ncatching wild POKéMON, are placed in\\lthe POKé BALLS POCKET.\\lPOKé BALLS may be bought at POKéMON\\lMARTS. They may be used, given to a\\lPOKéMON to hold, or tossed out as\\lgarbage.",
-  "target": "",
-  "status": "new",
+  "target": "PIŁKI POKé, które służą do\\nłapania dzikich POKéMON, są umieszczane\\lw KIESZENI NA PIŁKI POKé.\\lKULE POKé mogą być kupowane\\lw POKéMON MARKETACH. Mogą być\\lużywane, przekazywane POKéMONOWI do\\ltrzymania lub wyrzucane jako śmieci.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324307.0060852,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1409": {
   "source": "I don't often come here, but I will\\nbattle you.",
@@ -46034,10 +46070,13 @@
  },
  "datatext.txt::datatext.txt_676": {
   "source": "You can choose whether or not a\\nTRAINER can switch a POKéMON after\\lit has made its foe faint.\\lSet to “SHIFT” if you would like the\\lchance to switch a POKéMON after it\\lhas made its foe faint.",
-  "target": "",
-  "status": "new",
+  "target": "Możesz wybrać, czy TRENER może\\nzmienić POKéMONA po tym, jak\\lsprawił, że jego przeciwnik zemdlał.\\lUstaw na „SHIFT”, jeśli chcesz\\lmieć szansę zamienić POKéMONA po\\ltym, jak pokona swojego wroga.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324310.7883508,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_457": {
   "source": "TEETER DANCE",
@@ -49941,10 +49980,13 @@
  },
  "datatext.txt::datatext.txt_681": {
   "source": "A TM (Technical Machine) is a device\\nused to teach a move to a POKéMON.\\lThere are many different kinds.\\lMoves can be taught only to those\\lPOKéMON capable of using them.\\lA TM breaks after a single use.",
-  "target": "",
-  "status": "new",
+  "target": "TM (Maszyna Techniczna) to urządzenie\\nużywane do nauczenia ruchu POKéMONA.\\lJest wiele różnych rodzajów.\\lRuchów można nauczyć tylko tych POKéMONÓW,\\lktóre są w stanie ich używać.\\lTM psuje się po jednokrotnym użyciu.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324315.8812284,
+  "touched": true
  },
  "datatext.txt::datatext.txt_447": {
   "source": "I want to add more moves.",
@@ -51386,10 +51428,13 @@
  },
  "datatext.txt::datatext.txt_671": {
   "source": "This indicates the number of species of\\nPOKéMON you have caught and/or\\levolved to fill the POKéDEX.\\lTry hard to catch all sorts of\\lPOKéMON!",
-  "target": "",
-  "status": "new",
+  "target": "To wskazuje liczbę gatunków\\nPOKéMON, które złapałeś i/lub\\lewoluowałeś, aby wypełnić POKéDEX.\\lStaraj się złapać\\lwszelkiego rodzaju POKéMONY!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324307.135787,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_549": {
   "source": "DRAGON FANG",
@@ -60191,10 +60236,13 @@
  },
  "datatext.txt::datatext.txt_680": {
   "source": "The settings will be changed to the\\nselections shown in red, and you will\\lreturn to the MENU.",
-  "target": "",
-  "status": "new",
+  "target": "Ustawienia zostaną zmienione na wybrane\\nopcje pokazane na czerwono,\\la Ty wrócisz do MENU.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324311.3524868,
+  "touched": true
  },
  "src.txt::src.txt_722": {
   "source": "The user rampages\\nabout for two to\\nthree turns, then\\nbecomes confused.",
@@ -62682,10 +62730,13 @@
  },
  "datatext.txt::datatext.txt_678": {
   "source": "Set to “HELP” to display help messages\\nby pressing the L or R Button.\\lSet to “LR” to enable the switching\\lof the POKéDEX pages and BAG POCKETS\\lusing the L and R Buttons.\\lSet to “L=A” to make the L Button\\lwork the same as the A Button.",
-  "target": "",
-  "status": "new",
+  "target": "Ustaw na „POMOC”, aby wyświetlać komunikaty\\npomocy naciskając przycisk L lub R.\\lUstaw na „LR”, aby włączyć przełączanie\\lstron POKéDEX-a i KIESZENI PLECAKA\\lza pomocą przycisków L i R.\\lUstaw na „L=A”, aby przycisk L\\ldziałał tak samo jak przycisk A.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324312.9669228,
+  "touched": true
  },
  "src.txt::src.txt_1594": {
   "source": "son",
@@ -69364,10 +69415,13 @@
  },
  "datatext.txt::datatext.txt_674": {
   "source": "You can adjust how quickly the text is\\ndisplayed. Choose one: SLOW, MID,\\lor FAST.",
-  "target": "",
-  "status": "new",
+  "target": "Możesz dostosować, jak szybko wyświetlany\\njest tekst. Wybierz jedną\\lopcję: WOLNO, ŚREDNIO lub SZYBKO.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324308.6901586,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_328": {
   "source": "JUDGE",
@@ -70387,10 +70441,13 @@
  },
  "datatext.txt::datatext.txt_654": {
   "source": "SPEED indicates the agility of a\\nPOKéMON. If this stat exceeds the foe's\\lin battle, the POKéMON can make a move\\lbefore its slower opponent.",
-  "target": "",
-  "status": "new",
+  "target": "SZYBKOŚĆ oznacza zwinność POKéMONA. Jeśli\\nta statystyka przewyższa przeciwnika w\\lwalce, POKéMON może wykonać\\lruch przed swoim wolniejszym przeciwnikiem.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324286.1766703,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1995": {
   "source": "BERNIE",
@@ -71159,10 +71216,13 @@
  },
  "datatext.txt::datatext.txt_652": {
   "source": "SP. ATK (Special Attack) indicates the\\npower of a special attack move.\\lThe higher this stat, the more powerful\\lthe special attack move.\\lIt is applied for the following move\\ltypes: FIRE, WATER, ELECTRIC, GRASS,\\lICE, PSYCHIC, DRAGON, and DARK.",
-  "target": "",
-  "status": "new",
+  "target": "SP. ATAK (Atak Specjalny)\\noznacza siłę ruchu ataku specjalnego.\\lIm wyższa ta statystyka,\\ltym potężniejszy specjalny atak.\\lStosuje się go do następujących\\ltypów ruchów: OGIEŃ, WODA, ELEKTRYCZNY, TRAWA,\\lLÓD, PSYCHICZNY, SMOK i MROCZNY.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324285.7921722,
+  "touched": true
  },
  "data maps.txt::data maps.txt_767": {
   "source": "POKéMON FAN MAGAZINE\\nMonthly Grand Prize Drawing!\\pThe application form is…\\pGone! It's been clipped out.\\nSomeone must have applied already.",
@@ -71410,10 +71470,13 @@
  },
  "datatext.txt::datatext.txt_655": {
   "source": "Lv. (Level) indicates the growth and\\nstrength of a POKéMON.\\lIn general, when a POKéMON levels up,\\lits stats such as HP, ATTACK, and\\lDEFENSE rise, making it stronger.\\lPOKéMON may learn a new move upon\\lleveling up.",
-  "target": "",
-  "status": "new",
+  "target": "Lv. (Poziom) wskazuje rozwój\\ni siłę POKéMONA.\\lOgólnie rzecz biorąc, gdy POKéMON awansuje na\\lwyższy poziom, jego statystyki takie jak HP,\\lATAK i OBRONA rosną, czyniąc go silniejszym.\\lPOKéMON może nauczyć się nowego ruchu\\lpo awansowaniu na wyższy poziom.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324293.940677,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1168": {
   "source": "HIKER",
@@ -71462,10 +71525,13 @@
  },
  "datatext.txt::datatext.txt_672": {
   "source": "This is the total amount of time that\\nyou have played this game.",
-  "target": "",
-  "status": "new",
+  "target": "To jest całkowity czas, który\\nspędziłeś grając w tę grę.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324307.5628793,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_758": {
   "source": "During the spawning season, countless\\nLUVDISC congregate at coral reefs,\\nturning the waters pink.",
@@ -73086,10 +73152,13 @@
  },
  "datatext.txt::datatext.txt_675": {
   "source": "You can choose to turn the battle\\nanimation ON or OFF.",
-  "target": "",
-  "status": "new",
+  "target": "Możesz wybrać włączenie lub\\nwyłączenie animacji walki.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324308.7088459,
+  "touched": true
  },
  "src.txt::src.txt_2095": {
   "source": "\\n\\nKen Sugimori\\n\\nShigeki Morimoto\\n\\n",
@@ -75476,10 +75545,13 @@
  },
  "datatext.txt::datatext.txt_677": {
   "source": "You can choose between MONO and\\nSTEREO sound output.",
-  "target": "",
-  "status": "new",
+  "target": "Możesz wybrać między wyjściem\\ndźwięku MONO a STEREO.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324310.0663507,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_697": {
   "source": "It stores static electricity in its fur\\nfor discharging. It gives off sparks if a\\nstorm approaches.",
@@ -76134,14 +76206,13 @@
  },
  "datatext.txt::datatext.txt_647": {
   "source": "HP indicates a POKéMON's vitality.\\nIf a POKéMON's HP drops to zero, it\\lfaints and is unable to battle.\\lSo, the key in battle is to try to\\lreduce the foe's HP to zero.\\lIf your POKéMON are hurt, restore their\\lHP at a POKéMON CENTER or use items.",
-  "target": "",
-  "status": "new",
+  "target": "HP wskazuje na witalność POKéMONA.\\nJeżeli punkty HP POKéMONA spadną do\\lzera, pada on i nie może walczyć.\\lWięc kluczem w walce jest próba\\lzmniejszenia HP wroga do zera.\\lJeśli twoje POKéMON są ranne, przywróć ich\\lHP w CENTRUM POKéMON lub użyj przedmiotów.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791733837.6262,
+  "updated": 1792324323.4637184,
   "touched": true
  },
  "datatext.txt::datatext.txt_1258": {
@@ -78031,10 +78102,13 @@
  },
  "datatext.txt::datatext.txt_659": {
   "source": "All POKéMON have a special ABILITY.\\nThere are many different kinds of these\\labilities, some used in battle, some\\lelsewhere. The abilities differ from\\lspecies to species. Some species may\\lhave more than one kind of ability.",
-  "target": "",
-  "status": "new",
+  "target": "Wszystkie POKéMONY mają specjalną UMIEJĘTNOŚĆ.\\nIstnieje wiele różnych rodzajów tych umiejętności,\\lniektóre używane w walce, inne w\\linnych sytuacjach. Umiejętności różnią się w\\lzależności od gatunku. Niektóre gatunki mogą\\lmieć więcej niż jeden rodzaj umiejętności.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324297.5915406,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_929": {
   "source": "YES, SIR!",
@@ -79196,10 +79270,13 @@
  },
  "datatext.txt::datatext.txt_664": {
   "source": "PP stands for “Power Points.”\\nIt indicates the number of times a\\lcertain move can be used in battle.\\lLike HP, PP can be restored by visiting\\la POKéMON CENTER or using certain\\litems.",
-  "target": "",
-  "status": "new",
+  "target": "PP oznacza „Power Points” (Punkty\\nMocy). Wskazuje, ile razy dana umiejętność\\lmoże być użyta w walce.\\lPodobnie jak HP, PP\\lmożna odzyskać, odwiedzając CENTRUM POKéMON\\llub używając niektórych przedmiotów.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324302.380852,
+  "touched": true
  },
  "data maps.txt::data maps.txt_703": {
   "source": "WARDEN: Hif fuff hefifoo!\\pHa lof ha feef ee hafahi ho.\\nHeff hee fwee!",
@@ -81435,10 +81512,13 @@
  },
  "datatext.txt::datatext.txt_663": {
   "source": "The ID No. is a special number assigned\\nspecifically to you as a TRAINER.\\lTogether with the OT name, the ID No.\\lis used to precisely identify the\\lOriginal TRAINER.\\lThe ID No. does not change even if the\\lPOKéMON is traded.",
-  "target": "",
-  "status": "new",
+  "target": "Numer ID to specjalny numer\\nprzypisany wyłącznie tobie jako TRENEROWI.\\lRazem z nazwą OT, nr ID.\\lsłuży do precyzyjnego\\lzidentyfikowania oryginalnego TRENERA.\\lNumer ID nie zmienia się,\\lnawet jeśli POKéMON zostanie wymieniony.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324303.5880237,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1282": {
   "source": "I must have been dreaming…",
@@ -82220,10 +82300,13 @@
  },
  "datatext.txt::datatext.txt_667": {
   "source": "FNT stands for “fainted.”\\nA POKéMON faints if its HP is reduced\\lto zero. It becomes incapable of taking\\lpart in battle.\\lRestore a fainted POKéMON at a POKéMON\\lCENTER, or use an item.",
-  "target": "",
-  "status": "new",
+  "target": "FNT oznacza „zemdlał”. POKéMON mdleje,\\njeśli jego HP spadnie do\\lzera. Staje się wtedy\\lniezdolny do udziału w walce.\\lPrzywróć przytomność omdlałemu POKéMONOWI w\\lCENTRUM POKéMON, lub użyj przedmiotu.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324303.1875155,
+  "touched": true
  },
  "datatext.txt::datatext.txt_419": {
   "source": "What should I be doing?",
@@ -85808,10 +85891,13 @@
  },
  "datatext.txt::datatext.txt_682": {
   "source": "An HM (Hidden Machine) is a device used\\nto teach a HIDDEN move to a POKéMON.\\lA HIDDEN move can be taught only to\\lthose POKéMON capable of using it.\\lUnlike a TM, an HM can be used over\\land over. A HIDDEN move can be tough\\lfor a POKéMON to forget.",
-  "target": "",
-  "status": "new",
+  "target": "HM (Ukryta Maszyna) to urządzenie używane\\ndo nauczenia POKéMONA ukrytego ruchu.\\lUKRYTY ruch może być nauczony tylko\\ltym POKéMONOM, które potrafią go używać.\\lW przeciwieństwie do TM, HM można\\lużywać wielokrotnie. Ruch UKRYTY może\\lbyć trudny do zapomnienia dla POKéMONA.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324315.3871033,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1975": {
   "source": "CORDELL",
@@ -87465,10 +87551,13 @@
  },
  "datatext.txt::datatext.txt_661": {
   "source": "Moves are also classified by types.\\nIf a POKéMON of a certain type uses\\la move of the same type, the move's\\lpower is boosted. If the move's type\\lhas a matchup advantage against the\\ltarget, its effectiveness is also\\lboosted.",
-  "target": "",
-  "status": "new",
+  "target": "Ruchy są również klasyfikowane według typów.\\nJeżeli POKéMON określonego typu\\lużyje ruchu tego samego typu,\\ljego moc zostaje zwiększona. Jeżeli\\ltyp ruchu ma przewagę\\lw starciu z celem,\\ljego skuteczność również zostaje zwiększona.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324297.6411748,
+  "touched": true
  },
  "data maps.txt::data maps.txt_610": {
   "source": "FUCHSIA CITY POKéMON GYM\\nLEADER: KOGA\\lThe Poisonous Ninja Master",
@@ -92906,10 +92995,13 @@
  },
  "datatext.txt::datatext.txt_669": {
   "source": "Important items that you find or \\nreceive from people are placed in the\\lKEY ITEMS POCKET.\\lKey items may be used, or registered\\lfor use instantly with SELECT. Once\\lregistered, the item can be used\\lwithout opening the MENU and BAG.",
-  "target": "",
-  "status": "new",
+  "target": "Ważne przedmioty, które znajdziesz lub\\notrzymasz od innych osób, umieszczane są\\lw KIESZENI NA KLUCZOWE PRZEDMIOTY.\\lKluczowe przedmioty mogą być używane lub\\lzarejestrowane do natychmiastowego użycia za pomocą\\lPRZYCISKU WYBIERZ. Po zarejestrowaniu, przedmiot może być\\lużywany bez otwierania MENU i PLECAKA.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324306.4762137,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1216": {
   "source": "MIK: Together with KIA, we're\\nafraid of nothing!\\pWe'll prove it to you this time!",
@@ -93846,10 +93938,13 @@
  },
  "datatext.txt::datatext.txt_656": {
   "source": "POKéMON and moves are classified by\\ntype. Every type has advantageous and\\ldisadvantageous matchups against\\lother types. For example, like a rock-\\lpaper-scissors game, the WATER type is\\lstrong against the FIRE type and weak\\lagainst the GRASS type.",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON i ruchy są klasyfikowane\\nwedług typu. Każdy typ ma\\lkorzystne i niekorzystne starcia z\\linnymi typami. Na przykład, podobnie jak\\lw grze papier-kamień-nożyce, typ WODNY\\ljest silny przeciwko typowi OGIEŃ\\li słaby przeciwko typowi ROŚLINNY.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324290.5567563,
+  "touched": true
  },
  "src.txt::src.txt_2599": {
   "source": "CHINCHOU",
@@ -96494,10 +96589,13 @@
  },
  "datatext.txt::datatext.txt_666": {
   "source": "ACCURACY indicates the probability of\\nthe move hitting the foe.\\lThe higher this number, the more likely\\lthe move will strike the target.",
-  "target": "",
-  "status": "new",
+  "target": "CELNOŚĆ wskazuje prawdopodobieństwo trafienia\\nprzeciwnika przez ruch.\\lIm wyższa ta liczba, tym większe\\lprawdopodobieństwo, że ruch trafi w cel.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324302.7339017,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1525": {
   "source": "PHILLIP",
@@ -98580,10 +98678,13 @@
  },
  "datatext.txt::datatext.txt_683": {
   "source": "HIDDEN moves are those that are\\nespecially important for your\\ladventure. To use such a move outside\\lof battle, open the “POKéMON” MENU\\land make the POKéMON that knows the\\lmove use it. A fainted POKéMON may use\\la HIDDEN move outside of battle.",
-  "target": "",
-  "status": "new",
+  "target": "Ruchy UKRYTE to takie, które są\\nszczególnie ważne w Twojej przygodzie.\\lAby użyć takiego ruchu poza walką,\\lotwórz MENU „POKéMON” i spraw, aby\\lPOKéMON, który zna ten ruch, go\\lużył. POKéMON, który stracił przytomność,\\lmoże użyć ruchu UKRYTEGO poza walką.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324313.8374474,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_8": {
   "source": "COLLECT",
@@ -99033,10 +99134,13 @@
  },
  "datatext.txt::datatext.txt_658": {
   "source": "All POKéMON can be made to hold one\\nitem each. Some items will be used by\\lthe POKéMON automatically in certain\\lsituations. To make a POKéMON hold an\\litem, select the item from the BAG and\\l“GIVE” it to the POKéMON.",
-  "target": "",
-  "status": "new",
+  "target": "Wszystkie POKéMONY mogą trzymać po\\njednym przedmiocie. Niektóre przedmioty będą używane\\lautomatycznie przez POKéMONY w określonych\\lsytuacjach. Aby sprawić, że POKéMON\\lbędzie trzymał przedmiot, wybierz przedmiot z\\lPLECAKA i „DAJ” go POKéMONOWI.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324293.5065057,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2181": {
   "source": "I got up early every day to raise\\nmy POKéMON from cocoons!",
@@ -104637,10 +104741,13 @@
  },
  "datatext.txt::datatext.txt_687": {
   "source": "The ID No. is a special number assigned\\nspecifically to you as a TRAINER.\\lTogether with the OT name, the ID No.\\lis used to precisely identify the\\lOriginal TRAINER.\\lThe ID No. does not change even if the\\lPOKéMON is traded.",
-  "target": "",
-  "status": "new",
+  "target": "Numer ID to specjalny numer\\nprzypisany wyłącznie tobie jako TRENEROWI.\\lWraz z nazwą OT, nr ID.\\lsłuży do precyzyjnego\\lzidentyfikowania oryginalnego TRENERA.\\lNumer ID nie zmienia się,\\lnawet jeśli POKéMON zostanie wymieniony.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324320.6047156,
+  "touched": true
  },
  "src.txt::src.txt_905": {
   "source": "The user adds its\\nHP to the foe's HP,\\nthen equally shares\\nthe total HP.",
@@ -106732,10 +106839,13 @@
  },
  "datatext.txt::datatext.txt_686": {
   "source": "POKéMON is a name given to describe\\nwondrous creatures that inhabit all\\lcorners of this world.\\lPeople raise POKéMON to be their pets,\\luse them for battling, and so on.",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON to nazwa używana do\\nopisania cudownych stworzeń, które\\lzamieszkują wszystkie zakątki tego świata.\\lLudzie hodują POKéMONY jako swoje zwierzęta domowe,\\lużywają ich do walk i tak dalej.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792324317.7104585,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_371": {
   "source": "LAVA COOKIE",
