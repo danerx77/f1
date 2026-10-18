@@ -43453,12 +43453,12 @@
  },
  "src.txt::src.txt_2809": {
   "source": "{STR_VAR_1} replied, “No…”",
-  "target": "{STR_VAR_1} odpowiedział: „Nie…”",
+  "target": "{STR_VAR_1} odpowiedział: “Nie…”",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326793.9450471,
+  "updated": 1792329542.6590147,
   "touched": true
  },
  "datatext.txt::datatext.txt_982": {
@@ -56294,7 +56294,10 @@
   "target": "Och!\\nTo-tt-to…",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792329577.09851,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_657": {
   "source": "WARDEN'S HOME",
@@ -61109,12 +61112,12 @@
  },
  "src.txt::src.txt_2802": {
   "source": "{STR_VAR_1} replied, “No…”\\p",
-  "target": "{STR_VAR_1} odpowiedział: „Nie…”\\p",
+  "target": "{STR_VAR_1} odpowiedział: “Nie…”\\p",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326762.4931428,
+  "updated": 1792329542.658992,
   "touched": true
  },
  "data maps.txt::data maps.txt_2169": {
