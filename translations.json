@@ -55113,13 +55113,13 @@
  },
  "datascript.txt::datascript.txt_39": {
   "source": "The Wireless Adapter is not\\nconnected properly.",
-  "target": "Adapter bezprzewodowy nie\\njest prawidłowo podłączony.",
+  "target": "Wireless Adapter nie\\njest prawidłowo podłączony.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792320597.3609805,
+  "updated": 1792320620.7082,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1011": {
@@ -84272,10 +84272,14 @@
  },
  "datascript.txt::datascript.txt_40": {
   "source": "Participants are asked to step up\\nto the reception counter.",
-  "target": "",
-  "status": "new",
+  "target": "Uczestników prosimy o\\npodejście do recepcji.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792320611.9449654,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_215": {
   "source": "MOLD",
@@ -105319,10 +105323,14 @@
  },
  "datascript.txt::datascript.txt_43": {
   "source": "You may trade your POKéMON here\\nwith another TRAINER.",
-  "target": "",
-  "status": "new",
+  "target": "You may trade your POKéMON here\\nwith another TRAINER.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792320638.2213311,
+  "touched": true
  },
  "src.txt::src.txt_1066": {
   "source": "POKéMON",
