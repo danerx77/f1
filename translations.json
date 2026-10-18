@@ -36224,7 +36224,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792319857.066441,
+  "updated": 1792319861.3716972,
   "touched": true
  },
  "src.txt::src.txt_1599": {
@@ -106925,10 +106925,13 @@
  },
  "data.txt::data.txt_51": {
   "source": "Thank you for using the MYSTERY\\nGIFT System.\\pA TRAINER has arrived in the SEVII\\nISLANDS looking for you.\\pWe hope you will enjoy\\nbattling the visiting TRAINER.\\pYou may invite other TRAINERS by\\nentering other passwords.\\pTry looking for other passwords\\nthat may work.",
-  "target": "",
-  "status": "new",
+  "target": "Dziękujemy za korzystanie z\\nsystemu MYSTERY GIFT.\\pTRENER przybył na WYSPY\\nSEVII szukając ciebie.\\pMamy nadzieję, że spodoba ci\\nsię walka z odwiedzającym TRENEREM.\\pMożesz zaprosić innych TRENERÓW,\\nwprowadzając inne hasła.\\pSpróbuj poszukać innych haseł,\\nktóre mogą działać.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792319904.2325294,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_469": {
   "source": "CHAT",
