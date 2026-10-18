@@ -39772,12 +39772,12 @@
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_728": {
   "source": "It makes its nest at the bottom of \\nswamps. It will eat anything - if it is\\nalive, WHISCASH will eat it.",
-  "target": "Tworzy swoje gniazdo na dnie bagien.\\nBędzie jadł wszystko  jesli coś żyje,\\nto WHISCASH go zje.",
+  "target": "Tworzy swoje gniazdo na dnie bagien.\\nBędzie jadł wszystko, jeśli coś żyje,\\nto WHISCASH go zje.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792330017.0967567,
+  "updated": 1792330023.8137565,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_221": {
@@ -108136,12 +108136,14 @@
  },
  "srcdatatext.txt::srcdatatext.txt_80": {
   "source": "-------",
-  "target": "-------",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791587147.1261077,
+  "updated": 1792330044.7261813,
   "touched": true
  },
  "src.txt::src.txt_2599": {
@@ -109341,16 +109343,19 @@
   "notes": "",
   "ignored": false
  },
- "srcdata.txt::srcdata.txt_1090": {
-  "source": "An item to be held by a POKéMON.\\\\nIt repels wild POKéMON if the\\\\nholder is first in the party.",
-  "target": "Przedmiot do trzymania.\\\\nOdpędza dzikie POKéMONY, jeśli\\\\ntrzymający jest pierwszy w drużynie.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "srcdatatext.txt::srcdatatext.txt_342": {
   "source": "MACH PUNCH",
   "target": "MACH-CIOS",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792330057.1152248,
+  "touched": true
+ },
+ "srcdata.txt::srcdata.txt_1090": {
+  "source": "An item to be held by a POKéMON.\\\\nIt repels wild POKéMON if the\\\\nholder is first in the party.",
+  "target": "Przedmiot do trzymania.\\\\nOdpędza dzikie POKéMONY, jeśli\\\\ntrzymający jest pierwszy w drużynie.",
   "status": "draft",
   "notes": "",
   "ignored": false
