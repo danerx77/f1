@@ -3282,3 +3282,5 @@
 {"time": "2026-10-18T11:51:40", "file": "datatext.txt", "seg_id": "datatext.txt_721", "source": "Own move type: ELECTRIC", "old": "Własny ruch Typ: ELEKTYYCZN", "new": "Własny ruch Typ: ELEKTYYCZNY", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T11:51:42", "file": "datatext.txt", "seg_id": "datatext.txt_721", "source": "Own move type: ELECTRIC", "old": "Własny ruch Typ: ELEKTYYCZNY", "new": "Własny ruch Typ: ELEKTYCZNY", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T11:51:46", "file": "datatext.txt", "seg_id": "datatext.txt_721", "source": "Own move type: ELECTRIC", "old": "Własny ruch Typ: ELEKTYCZNY", "new": "Własny ruch Typ: ELEKTRYCZNY", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T12:10:14", "file": "datatext.txt", "seg_id": "datatext.txt_722", "source": "Own POKéMON type: ELECTRIC", "old": "", "new": "Own POKéMON type: ELECTRIC", "translator": "Antrix", "method": "auto_tm"}
+{"time": "2026-10-18T12:10:14", "file": "datatext.txt", "seg_id": "datatext.txt_722", "source": "Own POKéMON type: ELECTRIC", "old": "", "new": "Own POKéMON type: ELECTRIC", "translator": "Antrix", "method": "manual"}
