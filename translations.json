@@ -34403,7 +34403,10 @@
   "target": "FAME CHECKER zostanie zamknięty.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323563.4194756,
+  "touched": true
  },
  "src.txt::src.txt_2174": {
   "source": "\\n\\nGraphic Designer\\n\\n\\n\\n",
@@ -50850,13 +50853,13 @@
  },
  "datatext.txt::datatext.txt_500": {
   "source": "Use the FAME CHECKER among the\\nKEY ITEMS in your BAG.\\lIt may give you a hint, so try it out.",
-  "target": "Użyj SPRAWDZACZA SŁAWY wśród\\nKLUCZOWYCH PRZEDMIOTÓW w twojej TORBIE.\\lTo może dać ci wskazówkę, więc spróbuj.",
+  "target": "Użyj PRZYPOMINACZ wśród\\nKLUCZOWYCH PRZEDMIOTÓW w twojej TORBIE.\\lTo może dać ci wskazówkę, więc spróbuj.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792323523.4229367,
+  "updated": 1792323548.2623336,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_198": {
@@ -108600,8 +108603,8 @@
  },
  "datatext.txt::datatext.txt_1017": {
   "source": "The HALL OF FAME STICKER was\\napplied to the TRAINER CARD.",
-  "target": "NAKLEJKA HALI SŁAWY została\\nnaklejona na KARTĘ TRENERA.",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
