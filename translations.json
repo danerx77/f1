@@ -11499,10 +11499,14 @@
  },
  "src.txt::src.txt_2277": {
   "source": "Read the NEWS that arrived.",
-  "target": "",
-  "status": "new",
+  "target": "Read the NEWS that arrived.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326949.259433,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_33": {
   "source": "ROUTE 19",
@@ -17720,10 +17724,14 @@
  },
  "src.txt::src.txt_2282": {
   "source": "Where should the WONDER NEWS\\nbe accessed?",
-  "target": "",
-  "status": "new",
+  "target": "Where should the WONDER NEWS\\nbe accessed?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326955.1533682,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2453": {
   "source": "NYA: I'll do my best so I won't\\ndrag down my mentor, LEX!",
@@ -23637,10 +23645,14 @@
  },
  "src.txt::src.txt_2284": {
   "source": "Communicating…",
-  "target": "",
-  "status": "new",
+  "target": "Communicating…",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326957.5845954,
+  "touched": true
  },
  "data maps.txt::data maps.txt_371": {
   "source": "CINNABAR POKéMON GYM\\nLEADER: BLAINE\\pWINNING TRAINERS:\\n{RIVAL}",
@@ -32427,6 +32439,17 @@
   "translator": "Antrix",
   "updated": 1791586295.4428825
  },
+ "src.txt::src.txt_2281": {
+  "source": "Where should the WONDER CARD\\nbe accessed?",
+  "target": "Where should the WONDER CARD\\nbe accessed?",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326953.8996813,
+  "touched": true
+ },
  "srcdata.txt::srcdata.txt_643": {
   "source": "TM22",
   "target": "",
@@ -32434,13 +32457,6 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true
- },
- "src.txt::src.txt_2281": {
-  "source": "Where should the WONDER CARD\\nbe accessed?",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "src.txt::src.txt_1627": {
   "source": "REVIVAL HERB{CLEAR_TO 0x6F}{FONT_SMALL}300",
@@ -39516,7 +39532,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326946.512296,
+  "touched": true
  },
  "datatext.txt::datatext.txt_504": {
   "source": "If you would like to cut your SAFARI\\nGAME short, open the MENU and select\\l“RETIRE” at the top of the list.",
@@ -41244,7 +41265,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326946.5200846,
+  "touched": true
  },
  "data maps.txt::data maps.txt_223": {
   "source": "…Okay.\\nI'll return the TM I stole.",
@@ -45886,6 +45912,16 @@
   "translator": "Antrix",
   "updated": 1791586287.490767
  },
+ "src.txt::src.txt_2267": {
+  "source": "Refused the battle.{PAUSE 0x3C}",
+  "target": "Odrzucił bitwę.{PAUSE 0x3C}",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326939.9773297,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_913": {
   "source": "LARVITAR",
   "target": "",
@@ -45895,13 +45931,6 @@
   "manual_skip": true,
   "cleared": true,
   "updated": 1791583770.9130495
- },
- "src.txt::src.txt_2267": {
-  "source": "Refused the battle.{PAUSE 0x3C}",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_3": {
   "source": "Heheh! This GYM is great!\\nIt's full of women!",
@@ -47160,10 +47189,14 @@
  },
  "src.txt::src.txt_2283": {
   "source": "Link standby...\\n... ... B Button: Cancel",
-  "target": "",
-  "status": "new",
+  "target": "Link standby...\\n... ... B Button: Cancel",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326956.4508524,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_796": {
   "source": "MAGIKARP",
@@ -58164,10 +58197,14 @@
  },
  "src.txt::src.txt_2279": {
   "source": "You don't have a WONDER CARD,\\nso a new CARD will be input.",
-  "target": "",
-  "status": "new",
+  "target": "You don't have a WONDER CARD,\\nso a new CARD will be input.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326951.5596528,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_604": {
   "source": "BASEMENT KEY",
@@ -58345,6 +58382,17 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2285": {
+  "source": "Communication completed.",
+  "target": "Communication completed.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326958.4887586,
+  "touched": true
+ },
  "src.txt::src.txt_2706": {
   "source": "TOGETIC",
   "target": "",
@@ -58352,13 +58400,6 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true
- },
- "src.txt::src.txt_2285": {
-  "source": "Communication completed.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_3047": {
   "source": "We're the KANTO RIDER FEDERATION!\\nVroom! Vavavavooom! Vroom!\\pMy bike's wimpy, so I have to\\nmake exhaust noises myself!",
@@ -62717,6 +62758,17 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2286": {
+  "source": "Communication error.",
+  "target": "Błąd komunikacji.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326959.3235228,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_240": {
   "source": "MYSTERY",
   "target": "",
@@ -62726,13 +62778,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586286.636458
- },
- "src.txt::src.txt_2286": {
-  "source": "Communication error.",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "src.txt::src.txt_314": {
   "source": "{PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} fled!",
@@ -75141,10 +75186,14 @@
  },
  "src.txt::src.txt_2288": {
   "source": "Throw away the WONDER CARD\\nand input a new CARD?",
-  "target": "",
-  "status": "new",
+  "target": "Throw away the WONDER CARD\\nand input a new CARD?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326963.5459452,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1054": {
   "source": "All right!\\nLet's play another game!",
@@ -91614,10 +91663,13 @@
  },
  "src.txt::src.txt_2265": {
   "source": "Communication standby‥\\nAwaiting another player to choose.",
-  "target": "",
-  "status": "new",
+  "target": "Czekanie na komunikację‥ Oczekiwanie na\\ninnego gracza, aby dokonał wyboru.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326934.7985003,
+  "touched": true
  },
  "src.txt::src.txt_693": {
   "source": "The foe is punched\\nwith an icy fist.\\nIt may leave the\\nfoe frozen.",
@@ -97088,10 +97140,13 @@
  },
  "src.txt::src.txt_2266": {
   "source": "The battle was refused.{PAUSE 0x3C}",
-  "target": "",
-  "status": "new",
+  "target": "Bitwa została odrzucona.{PAUSE 0x3C}",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326935.9936147,
+  "touched": true
  },
  "src.txt::src.txt_762": {
   "source": "A cloud of toxic\\ndust is scattered.\\nIt may poison the\\nfoe.",
@@ -101482,10 +101537,14 @@
  },
  "src.txt::src.txt_2278": {
   "source": "Return to the title screen.",
-  "target": "",
-  "status": "new",
+  "target": "powrócić\\nna ekran tytułowy.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326950.3285084,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_627": {
   "source": "Departed from the {STR_VAR_2}\\nfor the next destination.",
@@ -109179,10 +109238,14 @@
  },
  "src.txt::src.txt_2287": {
   "source": "Communication has been canceled.",
-  "target": "",
-  "status": "new",
+  "target": "Wyszukiwanie SYSTEMU KOMUNIKACJI\\nBEZPRZEWODOWEJ zostało anulowane.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326962.2332,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1064": {
   "source": "SALAMENCE",
@@ -109927,10 +109990,14 @@
  },
  "src.txt::src.txt_2280": {
   "source": "You don't have any WONDER NEWS,\\nso new NEWS will be input.",
-  "target": "",
-  "status": "new",
+  "target": "You don't have any WONDER NEWS,\\nso new NEWS will be input.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326952.74003,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_333": {
   "source": "????????",
