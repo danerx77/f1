@@ -4,7 +4,7 @@
   "target_lang": "pl",
   "project_path": "C:\\Users\\L\\SuperCAT_Projects\\f1",
   "created_date": 1785686080.925927,
-  "modified_date": 1792328425.0182157,
+  "modified_date": 1792328764.6592698,
   "current_segment_index": 0,
   "source_files": [
     "data.txt",
@@ -199,7 +199,6 @@
     "srcdataeasychat.txt": "bad",
     "datascript.txt": "ok",
     "datatext.txt": "ok",
-    "srcdatadecoration.txt": "bad",
     "data maps.txt": "ok",
     "srcdata.txt": "ok"
   },
