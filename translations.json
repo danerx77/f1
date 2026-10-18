@@ -7409,7 +7409,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326593.4398365,
+  "updated": 1792326749.1630237,
   "touched": true
  },
  "data maps.txt::data maps.txt_2118": {
@@ -15945,10 +15945,13 @@
  },
  "src.txt::src.txt_2799": {
   "source": "The other TRAINER appears\\nunavailable…\\p",
-  "target": "",
-  "status": "new",
+  "target": "Drugi TRENER\\nwydaje się niedostępny…\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326743.0894585,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1179": {
   "source": "The sea cleanses my body and soul!",
@@ -16225,10 +16228,13 @@
  },
  "src.txt::src.txt_2802": {
   "source": "{STR_VAR_1} replied, “No…”\\p",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1} odpowiedział: „Nie…”\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326762.4931428,
+  "touched": true
  },
  "src.txt::src.txt_1632": {
   "source": "ZINC{CLEAR_TO 0x65}{FONT_SMALL}1,000",
@@ -32285,7 +32291,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326591.1898015,
+  "updated": 1792326734.8776953,
   "touched": true
  },
  "data maps.txt::data maps.txt_3148": {
@@ -39708,7 +39714,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326596.3273945,
+  "updated": 1792326763.7226899,
   "touched": true
  },
  "src.txt::src.txt_2885": {
@@ -59312,7 +59318,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326723.709271,
+  "updated": 1792326723.841457,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_33": {
@@ -91007,10 +91013,13 @@
  },
  "src.txt::src.txt_2801": {
   "source": "{STR_VAR_1} OK'd your registration as\\na member.",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1} zatwierdził Twoją\\nrejestrację jako członka.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326759.3045206,
+  "touched": true
  },
  "src.txt::src.txt_622": {
   "source": "みただけで にがい. あまりにも にがいので",
