@@ -1974,7 +1974,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326683.7375576,
+  "updated": 1792326687.6135561,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_164": {
@@ -10641,7 +10641,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326660.8362343,
+  "updated": 1792326697.2658553,
   "touched": true
  },
  "datatext.txt::datatext.txt_9": {
@@ -20460,7 +20460,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326660.8763425,
+  "updated": 1792326690.586114,
   "touched": true
  },
  "data maps.txt::data maps.txt_3339": {
@@ -43215,7 +43215,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326585.1826286,
+  "updated": 1792326701.9798386,
   "touched": true
  },
  "data maps.txt::data maps.txt_216": {
@@ -51232,10 +51232,13 @@
  },
  "src.txt::src.txt_2795": {
   "source": "You can't transmit with a TRAINER\\nwho is too far away.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Nie możesz nadawać z\\nTRENEREM, który jest zbyt daleko.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326715.61055,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1568": {
   "source": "Wow!\\nYour BADGES are too cool!",
@@ -57482,10 +57485,13 @@
  },
  "src.txt::src.txt_2796": {
   "source": "The other TRAINER(S) is/are not\\nready yet.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Inny TRENER/INNI TRENERZY nie\\nsą jeszcze gotowi.\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326717.4595227,
+  "touched": true
  },
  "src.txt::src.txt_93": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s\\ndream was eaten!",
@@ -57864,7 +57870,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326660.3162858,
+  "updated": 1792326692.5638285,
   "touched": true
  },
  "data maps.txt::data maps.txt_708": {
@@ -59299,6 +59305,16 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2797": {
+  "source": "The {STR_VAR_1} MODE with\\nthese members will be canceled.{PAUSE 90}",
+  "target": "Tryb {STR_VAR_1} z tymi\\nczłonkami zostanie anulowany.{PAUSE 90}",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326723.709271,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_33": {
   "source": "CAUSE",
   "target": "",
@@ -59308,13 +59324,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586285.9462438
- },
- "src.txt::src.txt_2797": {
-  "source": "The {STR_VAR_1} MODE with\\nthese members will be canceled.{PAUSE 90}",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_1695": {
   "source": "Kaboom!",
@@ -105729,10 +105738,13 @@
  },
  "src.txt::src.txt_2794": {
   "source": "The other TRAINER doesn't appear\\nto be available now…\\p",
-  "target": "",
-  "status": "new",
+  "target": "Wygląda na to, że drugi\\nTRENER nie jest teraz dostępny…\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792326714.0038733,
+  "touched": true
  },
  "src.txt::src.txt_786": {
   "source": "An attack with a\\nmirage that inflicts\\ndamage matching\\nthe user's level.",
