@@ -4096,7 +4096,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326563.7145915,
+  "updated": 1792326564.9742854,
   "touched": true
  },
  "datatext.txt::datatext.txt_340": {
@@ -7397,10 +7397,14 @@
  },
  "src.txt::src.txt_2800": {
   "source": "{STR_VAR_1} sent back an “OK”!",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1} wysłał wiadomość “OK”!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326593.4398365,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2118": {
   "source": "All right!\\nLet's play a game!",
@@ -32260,10 +32264,14 @@
  },
  "src.txt::src.txt_2798": {
   "source": "There is a member who can no\\nlonger remain available.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Jeden z członków nie\\nmoże brać dalej\\pudziału.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326591.1898015,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3148": {
   "source": "VERMILION CITY POKéMON GYM\\nLEADER: LT. SURGE\\lThe Lightning American!",
@@ -39679,10 +39687,14 @@
  },
  "src.txt::src.txt_2803": {
   "source": "{STR_VAR_1}!\\nAwaiting other members!",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1}Szybkości!\\nOczekiwanie na graczy!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326596.3273945,
+  "touched": true
  },
  "src.txt::src.txt_2885": {
   "source": "Yes, that's exactly it!\\nThat's what I meant.\\p",
@@ -43182,10 +43194,14 @@
  },
  "src.txt::src.txt_2793": {
   "source": "An “OK” was sent\\nto {STR_VAR_1}.",
-  "target": "",
-  "status": "new",
+  "target": "Wiadomość “OK” została wysłana\\ndo {STR_VAR_1}.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326585.1826286,
+  "touched": true
  },
  "data maps.txt::data maps.txt_216": {
   "source": "Hey!\\nTake it easy!\\lYou won already!",
@@ -83034,7 +83050,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792326558.2856352,
+  "updated": 1792326577.9599462,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_994": {
