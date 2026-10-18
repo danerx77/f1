@@ -22785,10 +22785,13 @@
  },
  "datascript.txt::datascript.txt_44": {
   "source": "You may battle with your friends\\nhere.",
-  "target": "",
-  "status": "new",
+  "target": "Możesz tu walczyć\\nze swoimi przyjaciółmi.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792320650.9418314,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_285": {
   "source": "POND SKATER",
@@ -38416,10 +38419,14 @@
  },
  "datascript.txt::datascript.txt_45": {
   "source": "Two to five TRAINERS can make\\nBERRY POWDER together.",
-  "target": "",
+  "target": "Od dwóch do pięciu TRENERÓW może\\nprzygotować PROSZEK Z OWOCÓW razem.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792320667.71145,
+  "touched": true
  },
  "data maps.txt::data maps.txt_575": {
   "source": "LORELEI: {PLAYER}?!\\nWhat are you doing here?\\pNo, we can catch up later.\\nRight now, I need your help.\\pHelp me kick these poachers out\\nbefore they do anything else.\\pThey've been catching POKéMON\\nhere, then selling them off!\\pAre you ready?\\nYou take that one, please!",
@@ -73200,10 +73207,14 @@
  },
  "datascript.txt::datascript.txt_50": {
   "source": "To use the BERRY CRUSH service,\\nyou must have at least one BERRY.",
-  "target": "",
-  "status": "new",
+  "target": "To use the BERRY CRUSH service,\\nyou must have at least one BERRY.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792320670.9354835,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_637": {
   "source": "PEWTER MUSEUM OF SCIENCE",
@@ -93820,10 +93831,14 @@
  },
  "datascript.txt::datascript.txt_51": {
   "source": "To enter the UNION ROOM, you must\\nhave at least two POKéMON.",
-  "target": "",
-  "status": "new",
+  "target": "To enter the UNION ROOM, you must\\nhave at least two POKéMON.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792320672.567947,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2134": {
   "source": "Look what you did to my poor, cute\\nPOKéMON!",
@@ -105323,13 +105338,13 @@
  },
  "datascript.txt::datascript.txt_43": {
   "source": "You may trade your POKéMON here\\nwith another TRAINER.",
-  "target": "You may trade your POKéMON here\\nwith another TRAINER.",
+  "target": "Możesz handlować swoimi POKéMONAMI\\ntutaj z innym TRENEREM.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792320638.2213311,
+  "updated": 1792320645.0287344,
   "touched": true
  },
  "src.txt::src.txt_1066": {
