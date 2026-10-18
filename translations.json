@@ -3797,13 +3797,13 @@
  },
  "datatext.txt::datatext.txt_713": {
   "source": "Own move type: GRASS",
-  "target": "Own move type: BUG",
+  "target": "Własny ruch Typ: BUG",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792316860.2445488,
+  "updated": 1792316873.0757825,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_317": {
@@ -12475,10 +12475,14 @@
  },
  "datatext.txt::datatext.txt_721": {
   "source": "Own move type: ELECTRIC",
-  "target": "",
-  "status": "new",
+  "target": "Własny ruch Typ: ",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792316900.2212555,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_888": {
   "source": "BEGINNING",
@@ -26581,10 +26585,13 @@
  },
  "datatext.txt::datatext.txt_715": {
   "source": "Own move type: GHOST",
-  "target": "",
-  "status": "new",
+  "target": "Własny ruch Typ: ",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792316883.6053953,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1035": {
   "source": "SWALOT",
@@ -57958,7 +57965,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736569.5104074,
+  "updated": 1792316866.7231033,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_232": {
@@ -87487,10 +87494,14 @@
  },
  "datatext.txt::datatext.txt_718": {
   "source": "Own POKéMON type: ICE",
-  "target": "",
-  "status": "new",
+  "target": "Własny ruch Typ:",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792316889.0935261,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_798": {
   "source": "SHED SKIN",
@@ -96092,10 +96103,14 @@
  },
  "datatext.txt::datatext.txt_717": {
   "source": "Own move type: ICE",
-  "target": "",
-  "status": "new",
+  "target": "Własny ruch Typ: ",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792316887.0777216,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_127": {
   "source": "THICK FAT",
@@ -99783,17 +99798,21 @@
   "updated": 1791132320.4260466,
   "touched": true
  },
+ "datatext.txt::datatext.txt_719": {
+  "source": "Own move type: GROUND",
+  "target": "Własny ruch Typ: ",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792316892.662,
+  "touched": true
+ },
  "src.txt::src.txt_1620": {
   "source": "Now on:",
   "target": "Teraz:",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_719": {
-  "source": "Own move type: GROUND",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
