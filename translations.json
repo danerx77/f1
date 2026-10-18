@@ -47109,12 +47109,12 @@
  },
  "datatext.txt::datatext.txt_771": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: ELECTRIC, GRASS\\p   {TRIANGLE}: FIRE, WATER, ICE, STEEL",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ELEKTRYCZNY, TRAWA\\p   {TRIANGLE}: OGIEŃ, WODA, LÓD, STAL",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ELEKTRYCZNY, TRAWIASTY\\p   {TRIANGLE}: OGIEŃ, WODA, LÓD, STAL",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322383.7232697,
+  "updated": 1792322914.2115433,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1123": {
@@ -72240,12 +72240,12 @@
  },
  "datatext.txt::datatext.txt_772": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: GRASS, PSYCHIC, DARK\\p   {TRIANGLE}: FIRE, FIGHTING, POISON,\\n       FLYING, GHOST, STEEL",
-  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: TRAWI, PSYCHICZNY, MROCZNY\\p   {TRIANGLE}: OGNIOWY,\\nWALKI, TRUJĄCY, LATAJĄCY, DUCH, STALOWY",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: TRAWIASTY, PSYCHO MROCZNY\\p   {TRIANGLE}: OGNIOWY,\\nWALKI, TRUJĄCY, LATAJĄCY, DUCH, STALOWY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322883.413178,
+  "updated": 1792322894.130913,
   "touched": true
  },
  "src.txt::src.txt_2166": {
@@ -86971,12 +86971,12 @@
  },
  "datatext.txt::datatext.txt_770": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: FIRE, GROUND, ROCK\\p   {TRIANGLE}: WATER, GRASS, DRAGON",
-  "target": "Wpływ na przeciwnika POKéMON:\\p{CIRCLE_DOT}: OGNIA, ZIEMIA, SKAŁA\\p   {TRIANGLE}: WODA, TRAWa, SMOK",
+  "target": "Wpływ na przeciwnika POKéMON:\\p{CIRCLE_DOT}: OGNISTY, ZIEMIA, SKAŁA\\p   {TRIANGLE}: WODA, TRAWa, SMOK",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322383.300289,
+  "updated": 1792322923.3852823,
   "touched": true
  },
  "data maps.txt::data maps.txt_713": {
