@@ -96105,7 +96105,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326112.5684636,
+  "updated": 1792326363.6892867,
   "touched": true
  },
  "src.txt::src.txt_1566": {
@@ -103199,13 +103199,13 @@
  },
  "src.txt::src.txt_2861": {
   "source": "Oh? Now where did I put my\\nTRAINER CARD?…\\lSorry! I'll show you later!\\p",
-  "target": "Och?\\nNow where did I put my\\nTRAINER CARD?…\\lSorry!\\nPochwalę się innym razem!",
+  "target": "Och?\\nGdzie teraz położyłem\\nmoją KARTĘ TRENERA?…\\lPrzepraszam!\\nPochwalę się innym razem!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326323.684341,
+  "updated": 1792326359.0820482,
   "touched": true
  },
  "datatext.txt::datatext.txt_515": {
