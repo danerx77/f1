@@ -62062,10 +62062,13 @@
  },
  "data maps.txt::data maps.txt_67": {
   "source": "Captured POKéMON are registered\\nwith an ID No. and the OT.\\pOT stands for “Original TRAINER” -\\nthe TRAINER that caught it first.",
-  "target": "Złapane POKéMONY rejestrowane są\\nz numerami ID i OT.\\pOT oznacza “Oryginalnego TRENERA” -\\nTRENERA, który złapał go pierwszy.",
+  "target": "Złapane POKéMONY rejestrowane są\\nz numerami ID i OT.\\pOT oznacza “Oryginalnego TRENERA”  \\nTRENERA, który złapał go pierwszy.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792329017.06036,
+  "touched": true
  },
  "src.txt::src.txt_2028": {
   "source": "Want to play again?",
