@@ -13279,10 +13279,13 @@
  },
  "data.txt::data.txt_53": {
   "source": "Thank you for using the MYSTERY\\nGIFT System.\\pCongratulations!\\pYou have won a prize for winning\\nthree battles!\\pWe hope you will be inspired to\\nbattle some more.",
-  "target": "",
-  "status": "new",
+  "target": "Dziękujemy za korzystanie z\\nSystemu MYSTERY GIFT\\pGratulacje!\\pYou have won a prize for winning\\nthree battles!\\pWe hope you will be inspired to\\nbattle some more.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792319510.5260987,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2556": {
   "source": "Hey, kid!\\nWhat are you wandering here for?",
@@ -50391,10 +50394,13 @@
  },
  "data.txt::data.txt_47": {
   "source": "Thank you for using the STAMP CARD\\nSystem.\\pYou have {STR_VAR_1} more to collect to\\nfill your STAMP CARD.",
-  "target": "",
-  "status": "new",
+  "target": "Dziękujemy za korzystanie z\\nsystemu KARTY PIECZĄTEK.\\pMasz jeszcze {STR_VAR_1} do zebrania, aby\\nwypełnić swoją KARTĘ Z NAKLEJKAMI.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792319536.9731402,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1053": {
   "source": "I study POKéMON as PROF. OAK's\\nAIDE.",
