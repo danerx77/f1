@@ -1,0 +1,2102 @@
+<<< FILE: src/data/ingame_trades.h >>>
+MIMIEN
+REYLEY
+ZYNX
+DONTAE
+MS. NIDO
+SAIGE
+MR. NIDO
+SAIGE
+CH'DING
+ELYSSA
+NINA
+TURNER
+NINO
+TURNER
+MARC
+HADEN
+ESPHERE
+CLIFTON
+TANGENY
+NORMA
+SEELOR
+GARETT
+<<< FILE: src/data/items.h >>>
+Najlepsza KULA z niesamowitą\njakością działania. Złapie każdego\ndzikiego POKéMONA.
+Wysokiej jakości KULA oferująca\nwyższe szanse złapania POKéMONA\nniż GREAT BALL.
+Dobrej jakości KULA oferująca\ncałkiem duże szanse na złapanie\ndzikiego POKéMONA.
+KULA służąca do łapania dzikich\nPOKéMONÓW. Zaprojektowana\nw stylu kapsuły.
+Specjalna KULA używana tylko w\nSTREFIE SAFARI. Pomalowania\nwe wzorki przypominające kamuflaż.
+Szczególna KULA działająca\nwyjątkowo dobrze na POKéMONY WODNE i\nROBACZE.
+Szczególna KULA działająca\nwyjątkowo dobrze na POKéMONY\ngłęboko w morzu.
+Szczególna KULA działająca\nwyjątkowo dobrze na słabsze\nPOKéMONY.
+Szczególna KULA działająca\nwyjątkowo dobrze na POKéMONY złapane\njuż wcześniej.
+Szczególna KULA, która staje się\ntym lepsza, im więcej tur minęło\njuż w walce.
+Wygodna KULA, która powoduje, że\nzłapany POKéMON staje się\nprzyjazny.
+Rzadka KULA przygotowana\nspecjalnie jako pamiątka\nszczególnego wydarzenia.
+Lek w formie sprayu.\nPrzywraca zdrowie POKéMONA o 20\npunktów.
+Lek w formie sprayu.\nLeczy jednego POKéMONA ze stanu\notrucia.
+Lek w formie sprayu.\nLeczy jednego POKéMONA z poparzeń.
+Lek w formie sprayu.\nRozmraża jednego z POKéMONÓW.
+Lek w formie sprayu.\nBudzi śpiącego POKéMONA.
+Lek w formie sprayu.\nLeczy jednego z POKéMONÓW z\nparaliżu.
+Lek przywracający pełne zdrowie\ni leczący wszelkie zmiany stanu\njednego POKéMONA.
+Lek w formie sprayu.\nW pełni przywraca HP jednemu\nz POKéMONÓW.
+Lek w formie sprayu.\nPrzywraca HP jednego z POKéMONÓW\no 200 punktów.
+Lek w formie sprayu.\nPrzywraca HP jednego z POKéMONÓW\no 50 punktów.
+Lek w formie sprayu.\nLeczy wszystkie zmiany stanu\njednego POKéMONA.
+Lekarstwo pobudzające omdlałego\nPOKéMONA. Przywraca mu połowę\nmaksymalnego HP.
+Lekarstwo pobudzające omdlałego\nPOKéMONA. Przywraca całe HP.
+Woda z dużą zawartością minerałów.\nPrzywraca HP jednego POKéMONA\no 50 punktów.
+Napój z bąbelkami.\nPrzywraca HP jednego z POKéMONÓW\no 60 punktów.
+Słodki napój.\nPrzywraca HP jednego z POKéMONÓW\no 80 punktów.
+Wysokoodżywcze mleko.\nPrzywraca HP jednego z POKéMONÓW\no 100 punktów.
+Bardzo gorzki proszek leczniczy.\nPrzywraca HP jednego POKéMONA\no 50 punktów.
+Gorzki korzeń.\nPrzywraca HP jednego z POKéMONÓW\no 200 punktów.
+Bardzo gorzki proszek leczniczy.\nLeczy wszystkie zmiany statusu\nPOKéMONA.
+Bardzo gorzkie zioło lecznicze.\nPobudza zemdlonego POKéMONA.\nPrzywraca całe HP.
+Przywraca PP wybranego ruchu o\n10 punktów POKéMONOWI.
+W pełni przywraca PP ruchu jednemu\nz POKéMONÓW.
+Przywraca PP wszystkich ruchów\njednego POKéMONA o 10 PP każdy.
+W pełni przywraca PP wszystkich\nruchów POKéMONA.
+Specjalność miasta LAVARIDGE.\nLeczy wszystkie zmiany stanu\njednego POKéMONA.
+Niebieski, szklany flet budzący\nśpiącego POKéMONY.
+Żółty, szklany flet otrząsający\nPOKéMONA z oszołomienia.
+Czerwony, szklany flet wyciągający\nPOKéMONA z zauroczenia.
+Czarny, szklany flet.\nPowoduje, że dzikie POKéMONY\npojawiają się rzadziej.
+Biały, szklany flet.\nPowoduje, że dzikie POKéMONY\npojawiają się częściej.
+100% czystego soku.\nPrzywraca HP jednego POKéMONA\no 20 punktów.
+Pobudza wszystkie POKéMONY\nprzywracając całe HP.
+Czysta sól znaleziona w głębi\nŁAWICZNEJ JASKINI.\nJest nieziemsko słona.
+Piękna muszla znaleziona w głębi\nŁAWICZNEJ JASKINI. Pokryta\nniebieskimi i białymi paskami.
+Mała czerwona skorupa.\nWydaje się być częścią jakiegoś\ndawnego narzędzia.
+Mała niebieska skorupa.\nWydaje się być częścią jakiegoś\ndawnego narzędzia.
+Mała żółta skorupa.\nWydaje się być częścią jakiegoś\ndawnego narzędzia.
+Mała zielona skorupa.\nWydaje się być częścią jakiegoś\ndawnego narzędzia.
+Odżywczy napój dla POKéMONA.\nZwiększa podstawowe HP jednego\nPOKéMONA.
+Odżywczy napój dla POKéMONA.\nZwiększa statystykę ATAKU\njednego POKéMONA.
+Odżywczy napój dla POKéMONA.\nZwiększa statystykę OBRONY\njednego POKéMONA.
+Odżywczy napój dla POKéMONA.\nZwiększa statystykę SZYBKOŚCI\njednego POKéMONA.
+Odżywczy napój dla POKéMONA.\nZwiększa SP. ATAK jednego\nz POKéMONÓW.
+Cukierek wypełniony energią.\nZwiększa poziom jednego POKéMONA\no jeden.
+Nieznacznie zwiększa maksymalne PP\nwybranego ruchu POKéMONA.
+Odżywczy napój dla POKéMONA.\nZwiększa SP. OBRONĘ jednego\nz POKéMONÓW.
+Zwiększa PP wybranego ruchu\ndo maksymalnego stanu\njednego POKéMONA.
+Przedmiot niepozwalający obniżyć\nstatystyki POKéMONÓW w drużynie\nprzez pięć tur.
+Zwiększa szansę krytycznego\ntrafienia w walce. Przestaje działać\nprzy wycofaniu POKéMONA.
+Zwiększa ATAK POKéMONA\nw walce. Przestaje działać, gdy\nPOKéMON zostanie wycofany.
+Zwiększa OBRONĘ POKéMONA\nw walce. Przestaje działać, gdy\nPOKéMON zostanie wycofany.
+Zwiększa SZYBKOŚĆ POKéMONA\nw walce. Przestaje działać, gdy\nPOKéMON zostaje wycofany.
+Zwiększa CELNOŚĆ POKéMONA\nw walce. Przestaje działać, gdy\nPOKéMON zostaje wycofany.
+Zwiększa SP. ATAK POKéMONA\nw walce. Przestaje działać, gdy\nPOKéMON zostaje wycofany.
+Przyciągająca lalka.\nUżywana, by uciec z walki z dzikim\nPOKéMONEM.
+Przyciągający przedmiot.\nUżywany, by uciec z walki z dzikim\nPOKéMONEM.
+Słabe, dzikie POKéMONY nie atakują\nprzez 200 kroków.
+Słabe, dzikie POKéMONY nie atakują\nprzez 250 kroków.
+Długa, trwała lina.\nUżywana, by uciec natychmiast\nz lochu lub jaskini.
+Słabe, dzikie POKéMONY nie atakują\nprzez 100 kroków.
+Szczególny kamień powodujący, że\nniektóre POKéMONY ewoluują.\nJest czerwony jak słońce.
+Szczególny kamień powodujący, że\nniektóre POKéMONY ewoluują.\nJest czarny jak nocne niebo.
+Szczególny kamień powodujący, że\nniektóre POKéMONY ewoluują.\nJest pomarańczowy.
+Szczególny kamień powodujący, że\nniektóre POKéMONY ewoluują.\nMa na sobie symbol błyskawicy.
+Szczególny kamień powodujący, że\nniektóre POKéMONY ewoluują.\nJest jasnobłękitny.
+Szczególny kamień powodujący, że\nniektóre POKéMONY ewoluują.\nMa na sobie znak liścia.
+Mały i rzadki muchomor.\nJest dość popularny wśród niektórych\nludzi.
+Wielki, rzadki muchomor.\nJest popularny wśród niektórych\nludzi.
+Mała perła świecąca pięknym,\nsrebrnym blaskiem. Można ją\nsprzedać za skromną sumkę.
+Dość duża perła świecąca pięknym,\nsrebrnym blaskiem. Można ją\nsprzedać za skromną sumkę.
+Piękny, czerwony piasek.\nJedwabny w dotyku. Można\ngo drogo sprzedać.
+Skorupa pięknego klejnotu\nbłyszcząca na czerwono.\nMożna ją drogo sprzedać.
+Samorodek ze szczerego złota.\nBłyszczy na złoto.\nMożna go bardzo drogo sprzedać.
+Piękna łuska w kształcie serca.\nNiezwykle rzadka. Delikatnie mieni\nsię kolorami tęczy.
+LIST zawierający nadruk z\nZIGZAGOONEM. Daje się go\ndo trzymania POKéMONOWI.
+LIST zawierający nadruk z\nWINGULLEM. Daje się go\ndo trzymania POKéMONOWI.
+LIST zawierający nadruk ze\nsłodkim PIKACHU.\nMoże być trzymany przez POKéMONA.
+LIST zawierający nadruk z\nMAGNEMITEM.\nMoże być trzymany przez POKéMONA.
+LIST zawierający nadruk ze\nSLAKOTHEM.\nMoże być trzymany przez POKéMONA.
+LIST zawierający nadruk z\nWAILMEREM.\nMoże być trzymany przez POKéMONA.
+LIST który może być trzymany\nprzez POKéMONA. Nadrukiem jest\nobrazek POKéMONA trzymającego.
+LIST zawierający nadruk z\nDUSKULLEM.\nMoże być trzymany przez POKéMONA.
+LIST zawierający nadruk z\nBELLOSSOMEM.\nMoże być trzymany przez POKéMONA.
+LIST który może być trzymany\nprzez POKéMONA. Nadrukiem jest\nobrazek POKéMONA trzymającego.
+LIST zawierający niesamowicie\npiękny nadruk.\nMoże być trzymany przez POKéMONA.
+LIST zawierający nadruk z trzema\nsłodkimi POKéMONAMI.\nMoże być trzymany przez POKéMONA.
+Kiedy trzymana przez POKéMONA,\nleczy go z paraliżu w trakcie walki.
+Kiedy trzymana przez POKéMONA,\nobudzi go w trakcie walki.
+Kiedy trzymana przez POKéMONA,\nodtruje go w trakcie walki.
+Kiedy trzymana przez POKéMONA,\nukoi poparzenia w trakcie walki.
+Kiedy trzymana przez POKéMONA,\nrozmrozi go w trakcie walki.
+Kiedy trzymana przez POKéMONA,\nprzywróci mu 10 PP w trakcie walki.
+Kiedy trzymana przez POKéMONA,\nprzywróci mu 10 PP w trakcie walki.
+Kiedy trzymana przez POKéMONA,\nzniweluje oszołomienie w walce.
+Kiedy trzymana przez POKéMONA,\nwyleczy każdą zmianę stanu w walce.
+Kiedy trzymana przez POKéMONA,\nprzywróci mu 30 HP w trakcie walki.
+Przedmiot do trzymania. Przywraca\nHP, ale może oszołomić.
+Przedmiot do trzymania. Przywraca\nHP, ale może oszołomić.
+Przedmiot do trzymania. Przywraca\nHP, ale może oszołomić.
+Przedmiot do trzymania. Przywraca\nHP, ale może oszołomić.
+Przedmiot do trzymania. Przywraca\nHP, ale może oszołomić.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Zwiększa lekko ATAK, gdy trzymana\nprzez POKéMONA.
+Zwiększa lekko OBRONĘ, gdy trzymana\nprzez POKéMONA.
+Zwiększa lekko SZYBKOŚĆ, gdy\ntrzymana przez POKéMONA.
+Zwiększa lekko SP. ATAK, gdy\ntrzymana przez POKéMONA.
+Zwiększa lekko SP. OBR, gdy\ntrzymana przez POKéMONA.
+Kiedy trzymana przez POKéMONA,\nzwiększa lekko częstotliwość ciosów krytycznych.
+Kiedy trzymana przez POKéMONA\nzwiększa lekko jedną ze statystyk.
+Może zostać zmielona na proszek\njako składnik do lekarstwa.
+Przedmiot do trzymania.\nOślepia wroga blaskiem obniżającym jego\ncelność.
+Przedmiot do trzymania.\nPrzywraca każdą obniżoną w walce statystykę.\nDo jednorazowego użytku.
+Przedmiot do trzymania.\nZwiększa przyrost masy mięśniowej,\nobniżając SZYBKOŚĆ.
+Przedmiot do trzymania.\nTrzymający otrzymuje punkty EXP.\nbez potrzeby udziału w walce.
+Przedmiot do trzymania.\nJasny i ostry pazur. Trzymający ma większą\nszansę na pierwszy atak.
+Przedmiot do trzymania.\nDelikatnie brzmiący dzwoneczek.\nUspakaja POKéMONA, któremu został założony.
+Przedmiot do trzymania.\nOtrząsa trzymającego z zauroczenia.\nDo jednorazowego użytku.
+Przedmiot do trzymania.\nZwiększa siłę jednego ataku, staje się\non jedynym używalnym ruchem.
+Przedmiot do trzymania.\nWrogi POKéMON zadający obrażenia\nmoże się potknąć.
+Przedmiot do trzymania.\nŚwiecący, srebrny proszek zwiększający siłę\nataków typu ROBACZEGO.
+Przedmiot do trzymania.\nZwiększa dwukrotnie przychód z walk, w\nktórych brał udział trzymający.
+Przedmiot do trzymania.\nOdpędza dzikie POKéMONY, jeśli\ntrzymający jest pierwszy w drużynie.
+Kula do trzymania przez LATIOSA\nlub LATIASA. Zwiększa SP. ATK\ni SP. OBR.
+Przedmiot do trzymania.\nPazur błyszczący srebrnym blaskiem.\nZwiększa statystykę SP. ATAKU.
+Przedmiot do trzymania.\nKamień mieniący się łagodnym różowym kolorem.\nZwiększa SP. OBRONĘ.
+Przedmiot do trzymania.\nTrzymający POKéMON może uciec przed\nkażdym dzikim POKéMONEM.
+Przedmiot do trzymania.\nTrzymający POKéMON nie może\nprzejść ewolucji.
+Przedmiot do trzymania.\nTrzymający POKéMON może stłumić atak,\npozostawiając sobie, choć 1 HP.
+Przedmiot do trzymania.\nJajo wypełnione szczęściem, pozwala\nzarobić dodatkowe EXP. w walce.
+Przedmiot do trzymania.\nSoczewki podbijające szanse na krytyczne\nciosy trzymającego POKéMONA.
+Przedmiot do trzymania.\nSpecjalna metaliczna powłoka\nZwiększa moc STALOWYCH ruchów.
+Przedmiot do trzymania.\nTrzymający POKéMON stopniowo odzyskuje\nutracone HP w walce.
+Gruba i twarda łuska.\nMoże być trzymana przez POKéMONA\nSMOKA.
+Kula do trzymania przez PIKACHU,\nzwiększająca SP. ATK.\nDotknięcie jej grozi porażeniem.
+Przedmiot do trzymania.\nDelikatny, jedwabisty piasek zwiększający\nsiłę ataków typu ZIEMNEGO.
+Przedmiot do trzymania.\nNiezniszczalny kamień zwiększający siłę\nataków typu KAMIENNEGO.
+Przedmiot do trzymania.\nNasienie przesycone życiem, zwiększający\nsiłę ataków TRAWIASTYCH.
+Przedmiot do trzymania.\nPrzyciemnione okulary zwiększające\nsiłę ataków typu MROCZNEGO.
+Przedmiot do trzymania.\nPas zwiększający zawzięcie i siłę\nataków typu WALCZĄCEGO.
+Przedmiot do trzymania.\nPotężny magnes zwiększający siłę\nataków typu ELEKTRYCZNEGO.
+Przedmiot do trzymania.\nKlejnot w kształcie łzy zwiększający siłę\nataków typu WODNEGO.
+Przedmiot do trzymania.\nDługi, ostry dziób zwiększający siłę\nataków typu LATAJĄCEGO.
+Przedmiot do trzymania.\nMały, trujący kolec zwiększający siłę\nataków typu TRUJĄCEGO.
+Przedmiot do trzymania.\nKawałek lodu pochłaniający ciepło.\nZwiększa siłę LODOWYCH ataków.
+Przedmiot do trzymania.\nZłowieszcza, zła etykieta.\nZwiększa siłę ataków DUCHÓW.
+Przedmiot do trzymania.\nŁyżka wygięta mocami telekinetycznymi.\nZwiększa siłę ataków PSYCHICZNYCH.
+Przedmiot do trzymania.\nMateriał opałowy zwiększający siłę\nataków typu OGNISTEGO.
+Przedmiot do trzymania.\nTwardy i ostry pazur, zwiększający\nsiłę ataków typu SMOCZEGO.
+Przedmiot do trzymania.\nWystawna chustka zwiększająca siłę\nataków typu NORMALNEGO.
+Przezroczyste urządzenie wypełnione\ndanymi.\nWyprodukowane przez SILPH CO.
+Przedmiot do trzymania.\nTrzymający POKéMON odzyskuje trochę HP\npodczas ataku na wroga.
+Przedmiot do trzymania.\nLekko zwiększa siłę ataków typu\nWODNEGO.
+Przedmiot do trzymania.\nJego niecodzienny zapach zmniejsza lekko\ncelność wroga.
+Rękawica do trzymania dla\nCHANSEY.\nZwiększa szansę na cios krytyczny.
+Solidny, szorstki proszek do\ntrzymania przez DITTO.\nZwiększa jego OBRONĘ.
+Twarda kość do trzymania dla\nCUBONE'A bądź MAROWAKA.\nZwiększa ich statystykę ATAKU.
+Liść pora do trzymania przez\nFARFETCH'DA. Zwiększa szanse na\nzadanie ciosu krytycznego.
+Przedmiot do trzymania.\nZwiększa stan COOL POKéMONA\nw czasie KONKURSÓW.
+Przedmiot do trzymania.\nZwiększa stan BEAUTY POKéMONA\nw czasie KONKURSÓW.
+Przedmiot do trzymania.\nZwiększa stan CUTE POKéMONA\nw czasie KONKURSÓW.
+Przedmiot do trzymania.\nZwiększa stan SMART POKéMONA\nw czasie KONKURSÓW.
+Przedmiot do trzymania.\nZwiększa stan TOUGH POKéMONA\nw czasie KONKURSÓW.
+Składany rower poruszający się\ndwa razy szybciej niż pieszy.
+Pokrowiec na ŻETONY otrzymany w\nSALONIE GIER.\nMoże przechować do 9,999 ŻETONÓW.
+Urządzenie służące do szukania\nprzedmiotów. Emituje sygnał, gdy\nw pobliżu ukryty jest przedmiot.
+Stara, zużyta wędka.\nUżyj jej przy dowolnej tafli wody, by\nłowić dzikie POKéMONY.
+Wysokiej jakości wędka.\nUżyj jej przy dowolnej tafli wody,\nby łowić dzikie POKéMONY.
+Świetna, nowoczesna wędka.\nUżyj jej przy dowolnej tafli wody, by\nłowić dzikie POKéMONY.
+Bilet wymagany, by dostać się\nna pokład promu S.S. ANNA.\nMa na sobie rysunek statku.
+Przepustka wymagana do wzięcia\nudziału w KONKURSACH. Ma na\nsobie rysunek wstęgi.
+Wydajna konewka.\nUżywana, by zwiększyć prędkość wzrostu\nJAGÓD zasianych w glebie.
+Paczka zawierająca mechaniczne\nczęści stworzone przez\nKORPORACJE DEVON.
+Wór używany do automatycznego\nzbierania pyłu wulkanicznego\nw trakcie podróży.
+Klucz do NEW MAUVILLE, budowanego\nprzy MAUVILLE\nCITY.
+Składany rower umożliwiający\nwykonywanie różnych sztuczek.
+Pojemnik na {POKEBLOCK}I przygotowane\nw BERRY BLENDER. Wypuszcza\njeden {POKEBLOCK} gdy jest wstrząśnięty.
+Niesamowicie ważny list od\nSTEVENA dla PREZESA KORPORACJI\nDEVON.
+Bilet wymagany do podróży promem na\nodległą południową wyspę.\nNarysowana jest na nim wyspa.
+Kula świecąca się na czerwono.\nPodobno zawiera niesamowitą moc\npradawnych czasów.
+Kula świecąca się na niebiesko.\nPodobno zawiera niesamowitą moc\npradawnych czasów.
+Urządzenie używane do\nwyszukiwania życia pod wodą.\nZbyt skomplikowane, aby używać.
+Para ochronnych gogli.\nPozwalają trenerowi podróżować nawet\nprzez burzę piaskową.
+Meteoryt, który spadł dawno temu\nna KSIĘŻYCOWĄ GÓRĘ.\nJest bryłowaty i twardy.
+Klucz otwierający drzwi do Pokoju\nnr 1 wewnątrz OPUSZCZONEGO STATKU.\nJest stary i łamliwy.
+Klucz otwierający drzwi do Pokoju\nnr 2 wewnątrz OPUSZCZONEGO STATKU.\nJest stary i łamliwy.
+Klucz otwierający drzwi do Pokoju\nnr 4 wewnątrz OPUSZCZONEGO STATKU.\nJest stary i łamliwy.
+Klucz otwierający drzwi do Pokoju\nnr 6 wewnątrz OPUSZCZONEGO STATKU.\nJest stary i łamliwy.
+Klucz otwierający składzik\nwewnątrz OPUSZCZONEGO STATKU.\nJest stary i łamliwy.
+Skamielina pradawnego, podmorskiego\nPOKéMONA. Wydaje się być częścią\nkorzenia rośliny.
+Skamielina pradawnego, podmorskiego\nPOKéMONA. Wydaje się być częścią\npazura.
+Urządzenie sygnalizujące obecność\nniewidocznego POKéMONA.\nStworzone przez KORPORACJĘ DEVON.
+Niesamowicie potężny atak.\nJednak, jeżeli użytkownik zostanie\ntrafiony przed użyciem, potknie się.
+Ostre, wielkie pazury rozcinają\ni szatkują wroga z wielką\nmocą.
+Wróg trafiony jest potężnym ciosem\nwodnym. Oszałamia też\nprzeciwnika.
+Użytkownik uspokaja ducha i\nskupia swój umysł zwiększając\nswe SP. ATK i SP. OBR.
+Oponent zmuszony\njest do zmiany z\nsojusznikiem. Dzika\nwalka kończy się.
+Ruch ostro zatruwający przeciwnika.\nObrażenia z trucizny\nrosną co turę.
+Burza gradu trwająca\npięć tur uszkadza\nPOKéMONY oprócz\ntypu LODOWEGO.
+Użytkownik podnosi\nswoje ciało, aby\nzwiększyć stat.\nATAKU i OBRONY.
+Użytkownik strzela\ndo wrogw. Dwa\ndo pięciu nasion\njest strzelanych.
+Atak zmieniający\nsię pod względem\nintensywności\nużytkownika.
+Słońce świeci\nprzez pięć tur,\nwzmacniając ruchy\nOGNISTE.
+Wróg jest wyśmiewany\nwe wściekłość, która\npozwala mu używać\nruch ataku.
+Wróg zaatakowany\njest lodowym\npromieniem. Może\nzamrozić wroga.
+Wróg miotany jest\nprzez zamieć.\nMoże zamrozić\nwroga.
+Dotkliwie rażący\natak zmuszający\nwroga do tury\nodpoczynku.
+Snop światła zmniejsza obrażenia z\nataku typu\nSP. ATK na 5 tur.
+Umożliwia unikanie ataku.\nMoże się powieść, jeśli\njest używany kolejno.
+Ciężki deszcz pada\nprzez pięć tur,\nwzmacniając ruchy\ntypu WODNEGO.
+Ostry atak, który\npochłania połowę\nzadanych obrażeń,\naby odzyskać HP.
+Chroni stronę użytkownika przed\nwszystkimi statusami przez\npięć tur.
+Ten atak staje się coraz\nsilniejszy, im mniej\nużytkownik ubi TRENERA.
+Dwuturowy ruch, który\nsponiewiera wroga\nabsorbowaną energią\nw 2 turze.
+Atak z twardym jak\nstal ogonem. Może\nobniżyć statystykę\nobrony wroga.
+Potężny atak\nelektryczny, który\nmoże też sparaliżować\nwroga.
+Brutalny atak\npiorunem, który\nmoże dodatkowo\nsparaliżować wroga.
+Trzęsienie ziemi\ntrafia wszystkie\nPOKéMONY w walce\nprócz użytkownika.
+Ten atak staje się\ncoraz silniejszy, im\nmniej użytkownik\nlubi TRENERA.
+Atak trafiający\nw drugiej turze.\nMoże być użyty,\ndo wyjścia z jaskiń.
+Silny atak kinetyczny\nmogący obniżyć\nSP. OBR przeciwnika.
+Mroczna kula jest\nrzucana we wroga.\nMoże obniżyć SP.\nOBRONĘ wroga.
+Atak, który\nprzełamuje każdą\nbarierę taką jak\nEKRAN ŚWIATŁA itp.
+Użytkownik tworzy\niluzje samego siebie,\nby łatwiej unikać\nataków.
+Ściana światła zmniejsza\nobrażenia ataków\nfizycznych przez 5 tur.
+Szybki atak\nelektryczności\nuderza wroga. Nie\nmożna tego uniknąć.
+Wróg parzony jest\nintensywnymi\npłomieniami. Może\ndoznać poparzeń.
+Brudny szlam jest\nrzucany we wroga.\nMoże też zatruć\ncel.
+5-turowa burza\npiaskowa, rani\nkażdy typ oprócz\nKAMIENIA, ZIEMI i STALI.
+Wróg trafiony zostaje\nwielkim płomieniem.\nMoże spowodować\npoparzenia.
+Głazy są rzucane\nna wroga. Obniża\ntakże SZYBKOŚĆ\nwroga, jeśli trafi.
+Niezwykle szybki\natak na jeden cel.\nNie można tego\nuniknąć.
+Rozgniewa wroga,\nprzez co nie jest\nw stanie używać\ntego samego ruchu.
+Atak, który zostanie\nwzmocniony, jeśli\nużytkownik będzie\nzatruty itp.
+Atak, który może\nmieć dodatkowy\nefekt, który zależy\nod danego terenu.
+Użytkownik śpi dwie\ntury, by w pełni\nprzywrócić HP i\nuleczyć zmiany stanu.
+Jeśli jest innej płci,\nwróg jest zauroczony\ni mało prawdopodobny\ndo ataku.
+Atak mogący ukraść\ntrzymany przedmiot\nwroga, gdy\nużywający nic nie trzyma.
+Wróg trafiony jest\nskrzydłami ze stali.\nMoże również\nzwiększyć OBRONĘ.
+Użytkownik wykorzysta\nswoją moc, aby\nzamienić zdolności\nz wrogiem.
+Kradnie efekty\nleczenia wroga\nlub zmiany dowolnego\nstatusu.
+Intensywny atak,\nktóry również\nznacznie zmniejsza\nSP. ATK użytkownika.
+Podstawowy atak.\nMożna nim ściąć\nmałe drzewka oraz\ntrawę.
+Dwuturowy ruch,\ntrafiający w 2 turze.\nUżywany, by latać\ndo znanych miejsc.
+Wielka fala spada\nna wroga. Służy też\ndo podróżowania\npo wodzie.
+Wróg atakowany\nzostaje z pełną siłą.\nMoże też przesuwać\nciężkie głazy.
+Promień światła zmniejsza celność\nwroga. Oświetla\nteż jaskinie.
+Atak, który może\nspowodować obniżenie\nOBRONY. Może\nrównież rozbić skały.
+Potężny atak\nszarżą. Może zostać\nużyty, by wspiąć\nsię na wodospad.
+Użytkownik nurkuje\npod wodą w pierwszej\nturze i uderza w\ndrugiej.
+Paczka dla PROFESORA OAKA\notrzymana w POKéMON MART w\nVIRIDIAN CITY.
+Flet, który podobno ma moc\nprzebudzenia każdego POKéMONA.\nPięknie gra.
+Klucz do drzwi SALI na WYSPIE\nCINNABAR. Jest czerwony i pokryty\nzdobieniami.
+Zanieś ten kupon do SKLEPU\nROWEROWEGO w CERULEAN CITY i\nwymień na rower.
+Sztuczna szczęka zgubiona przez\nDYREKTORA STREFY SAFARI.\nRozświetla jego uśmiech.
+Kawałek bursztynu zawierający\ngeny pradawnego POKéMONA.\nPrzejrzysty w czerwonawym odcieniu.
+Klucz w formie karty otwierający\ndrzwi do BIURA SILPH CO.\nw SAFFRON CITY.
+Klucz obsługujący windę w\nKWATERZE ZESPOŁU R.\nNosi na sobie logo ZESPOŁU R.
+Skamielina pradawnego, podmorskiego\nPOKéMONA. Wydaje się być częścią\nskorupy morskiej.
+Skamielina pradawnego, podmorskiego\nPOKéMONA. Wydaje się być częścią\nmuszli.
+Urządzenie ujawniające\nniewidoczne POKéMONY.\nStworzone przez SILPH CO.
+Składany rower pozwalający\nporuszać się szybciej niż\nw trakcie biegu.
+Bardzo wygodna w użyciu mapa\nregionu KANTO. Pokazuje nawet\ntwoje aktualne położenie.
+Urządzenie wskazujące TRENERÓW\nchcących walczyć. Bateria\nładuje się w czasie podróży.
+Urządzenie pozwalające\nprzypomnieć sobie to, co usłyszałeś\no sławnych osobach.
+Etui przechowujące TMy i HMy.\nZnajduje się w komorze TORBY\nprzeznaczonej na ważne przedmioty.
+Woreczek na JAGODY.\nZnajduje się w komorze TORBY\nprzeznaczonej na ważne przedmioty.
+Telewizor nastawiony na kanał\ndający rady początkującym\nTRENEROM POKéMONÓW.
+Przepustka na promy na WYSPY od\nPIERWSZEJ do TRZECIEJ.\nZawiera rysunek z trzema wyspami.
+Przepustka na kursy między\nVERMILION a WYSPAMI SEVII. Zawiera\nnadruk przedstawiający tęczę.
+Herbata przygotowana\nprzez staruszkę. Zaspokoi nawet\nnajwiększe pragnienie.
+Bilet wymagany, by dostać się na\nSKAŁĘ PĘPKA.\nEmituje tajemnicze światło.
+Bilet wymagany, by dostać się na\nWYSPE NARODZIN.\nEmituje piękne światło.
+Słoik przeznaczony na JAGODOWY\nPROSZEK z BERRY CRUSHERA.
+Wyśmienity, piękny klejnot\nemitujący czerwony blask.\nSymbol zaciekłości.
+Wyśmienity, piękny klejnot\nemitujący niebieski blask.\nSymbol szczerości.
+?????
+????????
+MASTER BALL
+ULTRA BALL
+GREAT BALL
+POKé BALL
+SAFARI BALL
+NET BALL
+DIVE BALL
+NEST BALL
+REPEAT BALL
+TIMER BALL
+LUXURY BALL
+PREMIER BALL
+MISKTURA
+ANTIDOTUM
+LEK OPARZEŃ
+ODMRAŻACZ
+PRZEBUDZACZ
+LEK PARALIŻU
+PEŁNA ODNOWA
+M. MIKSTURA
+H. MIKSTURA
+S. MISKTURA
+UZDROWIENIE
+OCUCACZ
+MAKS. OCUCACZ
+ŚWIEŻA WODA
+SODA POP
+LEMONADE
+MLEKO MOOMOO
+PROCHENERGII
+KORZEŃENERGII
+LECZĄCYPROCH
+ZIELE OCUCANIA
+ETER
+MAKS. ETER
+ELIKSIR
+MAKS. ELIKSIR
+CIASTKOLAWOWE
+NIEBIESKI FLET
+ŻÓŁTY FLET
+CZERWONY FLET
+CZARNY FLET
+BIAŁY FLET
+SOK JAGODOWY
+ŚWIĘTY POPIÓŁ
+SÓL ŁAWICZNA
+MUSZLAŁAWICZNA
+CZER. ODŁAMEK
+NIEB. ODŁAMEK
+ŻÓŁTY ODŁAMEK
+ZIEL. ODŁAMEK
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+WZROST HP
+BIAŁKO
+ŻELAZO
+WĘGLOWODANY
+WAPŃ
+CUKIEREK
+WZROST PP
+CYNK
+MAKSYMALNE PP
+????????
+OCHRONASPEC.
+POTĘŻNY CIOS
+X ATAK
+X OBRONA
+X SZYBKOŚĆ
+X CELNOŚĆ
+X SPECJALNE
+POKé LALKA
+PUSZYSTY OGON
+????????
+S. ODGANIACZ
+M. ODGANIACZ
+LINAUCIECZKI
+ODGANIACZ
+????????
+????????
+????????
+????????
+????????
+????????
+KAMIEŃ SŁOŃCA
+KAMIEŃ KSIĘŻ.
+KAMIEŃ OGNIA
+KAMIEŃ GROMU
+KAMIEŃ WODY
+KAMIEŃLIŚCIA
+????????
+????????
+????????
+????????
+MAŁY MUCHOMOR
+DUŻY MUCHOMOR
+????????
+PERŁA
+DUŻA PERŁA
+GWIEZDNY PYŁ
+CZĘŚĆ GWIAZDY
+SAMORODEK
+SERCOWA ŁUSKA
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+ORANŻOWY LIST
+PORTOWY LIST
+ŚWIECĄCY LIST
+STALOWY LIST
+DREWNIANY LIST
+MORSKI LIST
+KORALOWY LIST
+LIST CIENIA
+TROPIKOWY LIST
+LIST MARZEŃ
+ELEGANCKI LIST
+LIST WSPOMNIEŃ
+CHERIJAGODA
+CHESTOJAGODA
+PECHAJAGODA
+RAWSTJAGODA
+ASPEARJAGODA
+LEPPAJAGODA
+ORANJAGODA
+PERSIMJAGODA
+LUMJAGODA
+SITRUSJAGODA
+FIGYJAGODA
+WIKIJAGODA
+MAGOJAGODA
+AGUAVJAGODA
+IAPAPAJAGODA
+RAZZJAGODA
+BLUKJAGODA
+NANABJAGODA
+WEPEARJAGODA
+PINAPJAGODA
+POMEGJAGODA
+KELPSYJAGODA
+QUALOTJAGODA
+HONDEWJAGODA
+GREPAJAGODA
+TAMATOJAGODA
+CORNNJAGODA
+MAGOSTJAGODA
+RABUTAJAGODA
+NOMELJAGODA
+SPELONJAGODA
+PAMTREJAGODA
+WATMELJAGODA
+DURINJAGODA
+BELUEJAGODA
+LIECHIJAGODA
+GANLONJAGODA
+SALACJAGODA
+PETAYAJAGODA
+APICOTJAGODA
+LANSATJAGODA
+STARFJAGODA
+ENIGMAJAGODA
+????????
+????????
+????????
+JASNY PROSZEK
+BIAŁE ZIELE
+KLAMRA MACZO
+ROZDZIELACZ
+SZYBKI PAZUR
+KOJĄCY DZWONEK
+ZIELE UMYSŁU
+OPASKA WYBORU
+SKAŁA KRÓLA
+PROSZEK SREBRA
+MONETA AMULET
+NALEPKAOBRONY
+ROSA DUSZ
+ZĄB GŁĘBIN
+ŁUSKA GŁĘBIN
+KULA DYMNA
+WIECZNYKAMIEŃ
+OPASKA SKUP.
+JAJO SZCZĘŚCIA
+SOCZEWKA CELU
+POWŁOKA METALU
+RESZTKI
+SMOCZA ŁUSKA
+ŚWIETLNA KULA
+MIĘKKI PIASEK
+TWARDY KAMIEŃ
+NASIONO CUDU
+CIEMNE OKULARY
+CZARNY PAS
+MAGNES
+MISTYCZNAWODA
+OSTRY DZIÓB
+TRUJĄCY KOLEC
+NIETOPLIWYLÓD
+NALEPKA KLĄTWY
+WYGIĘTA ŁYŻKA
+WĘGIEL DRZEWNY
+SMOCZY KIEŁ
+JEDWABNY SZAL
+AKTUALIZACJA
+DZWONEK-MUSZLA
+KAD. MORZA
+KADZ. SPOKOJU
+CIOS SZCZĘŚCIA
+PROSZEKMETALU
+GRUBA KOŚĆ
+PATYK
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+????????
+CZER. SZALIK
+NIEB. SZALIK
+RÓŻOWY SZALIK
+ZIEL. SZALIK
+ŻÓŁTY SZALIK
+KOLARKA
+ETUINAŻETONY
+RZECZOSZUKACZ
+STARA WĘDKA
+DOBRA WĘDKA
+SUPER WĘDKA
+BILET NA PROM
+BILETNAPOKAZY
+????????
+WAILMER-KONEWKA
+TOWARY DEVON
+TORBA NA PYŁ
+KLUCZ WATTSON
+ROWER BMX
+{POKEBLOCK} ETUI
+LIST
+BILET EON
+CZERWONA KULA
+NIEBIESKA KUL
+SKANER
+GO-GOGLE
+METEORYT
+KLUCZ DO P. 1
+KLUCZ DO P. 2
+KLUCZ DO P. 4
+KLUCZ DO P. 6
+KLUCZDOŁADOWN
+SKAM. KORZEN
+SKAM. PAZUR
+SKANER DEVON
+TM01
+TM02
+TM03
+TM04
+TM05
+TM06
+TM07
+TM08
+TM09
+TM10
+TM11
+TM12
+TM13
+TM14
+TM15
+TM16
+TM17
+TM18
+TM19
+TM20
+TM21
+TM22
+TM23
+TM24
+TM25
+TM26
+TM27
+TM28
+TM29
+TM30
+TM31
+TM32
+TM33
+TM34
+TM35
+TM36
+TM37
+TM38
+TM39
+TM40
+TM41
+TM42
+TM43
+TM44
+TM45
+TM46
+TM47
+TM48
+TM49
+TM50
+HM01
+HM02
+HM03
+HM04
+HM05
+HM06
+HM07
+HM08
+????????
+????????
+PACZKA OAKA
+POKé FLET
+TAJEMNY KLUCZ
+KUPON NA ROWER
+ZŁOTE ZĘBY
+STARYBURSZTYN
+KARTA WSTĘPU
+KLUCZDOWINDY
+SKAM. ŚLIMAK
+SKAM. SKORUPA
+SKANER SILPH
+ROWER
+MAPA REGIONU
+TRENERSZUKACZ
+PRZYPOMINACZ
+ETUI TM
+WOREKNAJAGODY
+TELEWIZOREK
+TRÓJ-BILET
+TĘCZOWY BILET
+HERBATA
+TAJEMNY BILET
+BILET ZORZY
+SŁÓJNAPROSZE
+RUBY
+SZAFIR
+<<< FILE: src/data/items.json >>>
+????????
+?????
+MASTER BALL
+Najlepsza KULA z niesamowitą\\njakością działania. Złapie każdego\\ndzikiego POKéMONA.
+ULTRA BALL
+Wysokiej jakości KULA oferująca\\nwyższe szanse złapania POKéMONA\\nniż GREAT BALL.
+GREAT BALL
+Dobrej jakości KULA oferująca\\ncałkiem duże szanse na złapanie\\ndzikiego POKéMONA.
+POK\u00e9 BALL
+KULA służąca do łapania dzikich\\nPOKéMONÓW. Zaprojektowana\\nw stylu kapsuły.
+SAFARI BALL
+Specjalna KULA używana tylko w\\nSTREFIE SAFARI. Pomalowania\\nwe wzorki przypominające kamuflaż.
+NET BALL
+Szczególna KULA działająca\\nwyjątkowo dobrze na POKéMONY WODNE i\\nROBACZE.
+DIVE BALL
+Szczególna KULA działająca\\nwyjątkowo dobrze na POKéMONY\\ngłęboko w morzu.
+NEST BALL
+Szczególna KULA działająca\\nwyjątkowo dobrze na słabsze\\nPOKéMONY.
+REPEAT BALL
+Szczególna KULA działająca\\nwyjątkowo dobrze na POKéMONY złapane\\njuż wcześniej.
+TIMER BALL
+Szczególna KULA, która staje się\\ntym lepsza, im więcej tur minęło\\njuż w walce.
+LUXURY BALL
+Wygodna KULA, która powoduje, że\\nzłapany POKéMON staje się\\nprzyjazny.
+PREMIER BALL
+Rzadka KULA przygotowana\\nspecjalnie jako pamiątka\\nszczególnego wydarzenia.
+MISKTURA
+Lek w formie sprayu.\\nPrzywraca zdrowie POKéMONA o 20\\npunktów.
+ANTIDOTUM
+Lek w formie sprayu.\\nLeczy jednego POKéMONA ze stanu\\notrucia.
+LEK OPARZEŃ
+Lek w formie sprayu.\\nLeczy jednego POKéMONA z poparzeń.
+ODMRAŻACZ
+Lek w formie sprayu.\\nRozmraża jednego z POKéMONÓW.
+PRZEBUDZACZ
+Lek w formie sprayu.\\nBudzi śpiącego POKéMONA.
+LEK PARALIŻU
+Lek w formie sprayu.\\nLeczy jednego z POKéMONÓW z\\nparaliżu.
+PEŁNA ODNOWA
+Lek przywracający pełne zdrowie\\ni leczący wszelkie zmiany stanu\\njednego POKéMONA.
+M. MIKSTURA
+Lek w formie sprayu.\\nW pełni przywraca HP jednemu\\nz POKéMONÓW.
+H. MIKSTURA
+Lek w formie sprayu.\\nPrzywraca HP jednego z POKéMONÓW\\no 200 punktów.
+S. MISKTURA
+Lek w formie sprayu.\\nPrzywraca HP jednego z POKéMONÓW\\no 50 punktów.
+UZDROWIENIE
+Lek w formie sprayu.\\nLeczy wszystkie zmiany stanu\\njednego POKéMONA.
+OCUCACZ
+Lekarstwo pobudzające omdlałego\\nPOKéMONA. Przywraca mu połowę\\nmaksymalnego HP.
+MAKS. OCUCACZ
+Lekarstwo pobudzające omdlałego\\nPOKéMONA. Przywraca całe HP.
+ŚWIEŻA WODA
+Woda z dużą zawartością minerałów.\\nPrzywraca HP jednego POKéMONA\\no 50 punktów.
+SODA POP
+Napój z bąbelkami.\\nPrzywraca HP jednego z POKéMONÓW\\no 60 punktów.
+LEMONADE
+Słodki napój.\\nPrzywraca HP jednego z POKéMONÓW\\no 80 punktów.
+MLEKO MOOMOO
+Wysokoodżywcze mleko.\\nPrzywraca HP jednego z POKéMONÓW\\no 100 punktów.
+PROCHENERGII
+Bardzo gorzki proszek leczniczy.\\nPrzywraca HP jednego POKéMONA\\no 50 punktów.
+KORZEŃENERGII
+Gorzki korzeń.\\nPrzywraca HP jednego z POKéMONÓW\\no 200 punktów.
+LECZĄCYPROCH
+Bardzo gorzki proszek leczniczy.\\nLeczy wszystkie zmiany statusu\\nPOKéMONA.
+ZIELE OCUCANIA
+Bardzo gorzkie zioło lecznicze.\\nPobudza zemdlonego POKéMONA.\\nPrzywraca całe HP.
+ETER
+Przywraca PP wybranego ruchu o\\n10 punktów POKéMONOWI.
+MAKS. ETER
+W pełni przywraca PP ruchu jednemu\\nz POKéMONÓW.
+ELIKSIR
+Przywraca PP wszystkich ruchów\\njednego POKéMONA o 10 PP każdy.
+MAKS. ELIKSIR
+W pełni przywraca PP wszystkich\\nruchów POKéMONA.
+CIASTKOLAWOWE
+Specjalność miasta LAVARIDGE.\\nLeczy wszystkie zmiany stanu\\njednego POKéMONA.
+NIEBIESKI FLET
+Niebieski, szklany flet budzący\\nśpiącego POKéMONY.
+ŻÓŁTY FLET
+Żółty, szklany flet otrząsający\\nPOKéMONA z oszołomienia.
+CZERWONY FLET
+Czerwony, szklany flet wyciągający\\nPOKéMONA z zauroczenia.
+CZARNY FLET
+Czarny, szklany flet.\\nPowoduje, że dzikie POKéMONY\\npojawiają się rzadziej.
+BIAŁY FLET
+Biały, szklany flet.\\nPowoduje, że dzikie POKéMONY\\npojawiają się częściej.
+SOK JAGODOWY
+100% czystego soku.\\nPrzywraca HP jednego POKéMONA\\no 20 punktów.
+ŚWIĘTY POPIÓŁ
+Pobudza wszystkie POKéMONY\\nprzywracając całe HP.
+SÓL ŁAWICZNA
+Czysta sól znaleziona w głębi\\nŁAWICZNEJ JASKINI.\\nJest nieziemsko słona.
+MUSZLAŁAWICZNA
+Piękna muszla znaleziona w głębi\\nŁAWICZNEJ JASKINI. Pokryta\\nniebieskimi i białymi paskami.
+CZER. ODŁAMEK
+Mała czerwona skorupa.\\nWydaje się być częścią jakiegoś\\ndawnego narzędzia.
+NIEB. ODŁAMEK
+Mała niebieska skorupa.\\nWydaje się być częścią jakiegoś\\ndawnego narzędzia.
+ŻÓŁTY ODŁAMEK
+Mała żółta skorupa.\\nWydaje się być częścią jakiegoś\\ndawnego narzędzia.
+ZIEL. ODŁAMEK
+Mała zielona skorupa.\\nWydaje się być częścią jakiegoś\\ndawnego narzędzia.
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+WZROST HP
+Odżywczy napój dla POKéMONA.\\nZwiększa podstawowe HP jednego\\nPOKéMONA.
+BIAŁKO
+Odżywczy napój dla POKéMONA.\\nZwiększa statystykę ATAKU\\njednego POKéMONA.
+ŻELAZO
+Odżywczy napój dla POKéMONA.\\nZwiększa statystykę OBRONY\\njednego POKéMONA.
+WĘGLOWODANY
+Odżywczy napój dla POKéMONA.\\nZwiększa statystykę SZYBKOŚCI\\njednego POKéMONA.
+WAPŃ
+Odżywczy napój dla POKéMONA.\\nZwiększa SP. ATAK jednego\\nz POKéMONÓW.
+CUKIEREK
+Cukierek wypełniony energią.\\nZwiększa poziom jednego POKéMONA\\no jeden.
+WZROST PP
+Nieznacznie zwiększa maksymalne PP\\nwybranego ruchu POKéMONA.
+CYNK
+Odżywczy napój dla POKéMONA.\\nZwiększa SP. OBRONĘ jednego\\nz POKéMONÓW.
+MAKSYMALNE PP
+Zwiększa PP wybranego ruchu\\ndo maksymalnego stanu\\njednego POKéMONA.
+????????
+?????
+OCHRONASPEC.
+Przedmiot niepozwalający obniżyć\\nstatystyki POKéMONÓW w drużynie\\nprzez pięć tur.
+POTĘŻNY CIOS
+Zwiększa szansę krytycznego\\ntrafienia w walce. Przestaje działać\\nprzy wycofaniu POKéMONA.
+X ATAK
+Zwiększa ATAK POKéMONA\\nw walce. Przestaje działać, gdy\\nPOKéMON zostanie wycofany.
+X OBRONA
+Zwiększa OBRONĘ POKéMONA\\nw walce. Przestaje działać, gdy\\nPOKéMON zostanie wycofany.
+X SZYBKOŚĆ
+Zwiększa SZYBKOŚĆ POKéMONA\\nw walce. Przestaje działać, gdy\\nPOKéMON zostaje wycofany.
+X CELNOŚĆ
+Zwiększa CELNOŚĆ POKéMONA\\nw walce. Przestaje działać, gdy\\nPOKéMON zostaje wycofany.
+X SPECJALNE
+Zwiększa SP. ATAK POKéMONA\\nw walce. Przestaje działać, gdy\\nPOKéMON zostaje wycofany.
+POK\u00e9 LALKA
+Przyciągająca lalka.\\nUżywana, by uciec z walki z dzikim\\nPOKéMONEM.
+PUSZYSTY OGON
+Przyciągający przedmiot.\\nUżywany, by uciec z walki z dzikim\\nPOKéMONEM.
+????????
+?????
+S. ODGANIACZ
+Słabe, dzikie POKéMONY nie atakują\\nprzez 200 kroków.
+M. ODGANIACZ
+Słabe, dzikie POKéMONY nie atakują\\nprzez 250 kroków.
+LINAUCIECZKI
+Długa, trwała lina.\\nUżywana, by uciec natychmiast\\nz lochu lub jaskini.
+ODGANIACZ
+Słabe, dzikie POKéMONY nie atakują\\nprzez 100 kroków.
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+KAMIEŃ SŁOŃCA
+Szczególny kamień powodujący, że\\nniektóre POKéMONY ewoluują.\\nJest czerwony jak słońce.
+KAMIEŃ KSIĘŻ.
+Szczególny kamień powodujący, że\\nniektóre POKéMONY ewoluują.\\nJest czarny jak nocne niebo.
+KAMIEŃ OGNIA
+Szczególny kamień powodujący, że\\nniektóre POKéMONY ewoluują.\\nJest pomarańczowy.
+KAMIEŃ GROMU
+Szczególny kamień powodujący, że\\nniektóre POKéMONY ewoluują.\\nMa na sobie symbol błyskawicy.
+KAMIEŃ WODY
+Szczególny kamień powodujący, że\\nniektóre POKéMONY ewoluują.\\nJest jasnobłękitny.
+KAMIEŃLIŚCIA
+Szczególny kamień powodujący, że\\nniektóre POKéMONY ewoluują.\\nMa na sobie znak liścia.
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+MAŁY MUCHOMOR
+Mały i rzadki muchomor.\\nJest dość popularny wśród niektórych\\nludzi.
+DUŻY MUCHOMOR
+Wielki, rzadki muchomor.\\nJest popularny wśród niektórych\\nludzi.
+????????
+?????
+PERŁA
+Mała perła świecąca pięknym,\\nsrebrnym blaskiem. Można ją\\nsprzedać za skromną sumkę.
+DUŻA PERŁA
+Dość duża perła świecąca pięknym,\\nsrebrnym blaskiem. Można ją\\ndrogo sprzedać.
+GWIEZDNY PYŁ
+Piękny, czerwony piasek.\\nJedwabny w dotyku. Można\\ngo drogo sprzedać.
+CZĘŚĆ GWIAZDY
+Skorupa pięknego klejnotu\\nbłyszcząca na czerwono.\\nMożna ją drogo sprzedać.
+SAMORODEK
+Samorodek ze szczerego złota.\\nBłyszczy na złoto.\\nMożna go bardzo drogo sprzedać.
+SERCOWA ŁUSKA
+Piękna łuska w kształcie serca.\\nNiezwykle rzadka. Delikatnie mieni\\nsię kolorami tęczy.
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+ORANŻOWY LIST
+LIST zawierający nadruk z\\nZIGZAGOONEM. Daje się go\\ndo trzymania POKéMONOWI.
+PORTOWY LIST
+LIST zawierający nadruk z\\nWINGULLEM. Daje się go\\ndo trzymania POKéMONOWI.
+ŚWIECĄCY LIST
+LIST zawierający nadruk ze\\nsłodkim PIKACHU.\\nMoże być trzymany przez POKéMONA.
+STALOWY LIST
+LIST zawierający nadruk z\\nMAGNEMITEM.\\nMoże być trzymany przez POKéMONA.
+DREWNIANY LIST
+LIST zawierający nadruk ze\\nSLAKOTHEM.\\nMoże być trzymany przez POKéMONA.
+MORSKI LIST
+LIST zawierający nadruk z\\nWAILMEREM.\\nMoże być trzymany przez POKéMONA.
+KORALOWY LIST
+LIST który może być trzymany\\nprzez POKéMONA. Nadrukiem jest\\nobrazek POKéMONA trzymającego.
+LIST CIENIA
+LIST zawierający nadruk z\\nDUSKULLEM.\\nMoże być trzymany przez POKéMONA.
+TROPIKOWY LIST
+LIST zawierający nadruk z\\nBELLOSSOMEM.\\nMoże być trzymany przez POKéMONA.
+LIST MARZEŃ
+LIST który może być trzymany\\nprzez POKéMONA. Nadrukiem jest\\nobrazek POKéMONA trzymającego.
+ELEGANCKI LIST
+LIST zawierający niesamowicie\\npiękny nadruk.\\nMoże być trzymany przez POKéMONA.
+LIST WSPOMNIEŃ
+LIST zawierający nadruk z trzema\\nsłodkimi POKéMONAMI.\\nMoże być trzymany przez POKéMONA.
+CHERIJAGODA
+Kiedy trzymana przez POKéMONA,\\nleczy go z paraliżu w trakcie walki.
+CHESTOJAGODA
+Kiedy trzymana przez POKéMONA,\\nobudzi go w trakcie walki.
+PECHAJAGODA
+Kiedy trzymana przez POKéMONA,\\nodtruje go w trakcie walki.
+RAWSTJAGODA
+Kiedy trzymana przez POKéMONA,\\nukoi poparzenia w trakcie walki.
+ASPEARJAGODA
+Kiedy trzymana przez POKéMONA,\\nrozmrozi go w trakcie walki.
+LEPPAJAGODA
+Kiedy trzymana przez POKéMONA,\\nprzywróci mu 10 PP w trakcie walki.
+ORANJAGODA
+Kiedy trzymana przez POKéMONA,\\nprzywróci mu 10 PP w trakcie walki.
+PERSIMJAGODA
+Kiedy trzymana przez POKéMONA,\\nzniweluje oszołomienie w walce.
+LUMJAGODA
+Kiedy trzymana przez POKéMONA,\\nwyleczy każdą zmianę stanu w walce.
+SITRUSJAGODA
+Kiedy trzymana przez POKéMONA,\\nprzywróci mu 30 HP w trakcie walki.
+FIGYJAGODA
+Przedmiot do trzymania. Przywraca\\nHP, ale może oszołomić.
+WIKIJAGODA
+Przedmiot do trzymania. Przywraca\\nHP, ale może oszołomić.
+MAGOJAGODA
+Przedmiot do trzymania. Przywraca\\nHP, ale może oszołomić.
+AGUAVJAGODA
+Przedmiot do trzymania. Przywraca\\nHP, ale może oszołomić.
+IAPAPAJAGODA
+Przedmiot do trzymania. Przywraca\\nHP, ale może oszołomić.
+RAZZJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+BLUKJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+NANABJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+WEPEARJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+PINAPJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+POMEGJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+KELPSYJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+QUALOTJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+HONDEWJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+GREPAJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+TAMATOJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+CORNNJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+MAGOSTJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+RABUTAJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+NOMELJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+SPELONJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+PAMTREJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+WATMELJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+DURINJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+BELUEJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+LIECHIJAGODA
+Zwiększa lekko ATAK, gdy trzymana\\nprzez POKéMONA.
+GANLONJAGODA
+Zwiększa lekko OBRONĘ, gdy trzymana\\nprzez POKéMONA.
+SALACJAGODA
+Zwiększa lekko SZYBKOŚĆ, gdy\\ntrzymana przez POKéMONA.
+PETAYAJAGODA
+Zwiększa lekko SP. ATAK, gdy\\ntrzymana przez POKéMONA.
+APICOTJAGODA
+Zwiększa lekko SP. OBR, gdy\\ntrzymana przez POKéMONA.
+LANSATJAGODA
+Kiedy trzymana przez POKéMONA,\\nzwiększa lekko częstotliwość ciosów krytycznych.
+STARFJAGODA
+Kiedy trzymana przez POKéMONA\\nzwiększa lekko jedną ze statystyk.
+ENIGMAJAGODA
+Może zostać zmielona na proszek\\njako składnik do lekarstwa.
+????????
+?????
+????????
+?????
+????????
+?????
+JASNY PROSZEK
+Przedmiot do trzymania.\\nOślepia wroga blaskiem obniżającym jego\\ncelność.
+BIAŁE ZIELE
+Przedmiot do trzymania.\\nPrzywraca każdą obniżoną w walce statystykę.\\nDo jednorazowego użytku.
+KLAMRA MACZO
+Przedmiot do trzymania.\\nZwiększa przyrost masy mięśniowej,\\nobniżając SZYBKOŚĆ.
+ROZDZIELACZ
+Przedmiot do trzymania.\\nTrzymający otrzymuje punkty EXP.\\nbez potrzeby udziału w walce.
+SZYBKI PAZUR
+Przedmiot do trzymania.\\nJasny i ostry pazur. Trzymający ma większą\\nszansę na pierwszy atak.
+KOJĄCY DZWONEK
+Przedmiot do trzymania.\\nDelikatnie brzmiący dzwoneczek.\\nUspakaja POKéMONA, któremu został założony.
+ZIELE UMYSŁU
+Przedmiot do trzymania.\\nOtrząsa trzymającego z zauroczenia.\\nDo jednorazowego użytku.
+OPASKA WYBORU
+Przedmiot do trzymania.\\nZwiększa siłę jednego ataku, staje się\\non jedynym używalnym ruchem.
+SKAŁA KRÓLA
+Przedmiot do trzymania.\\nWrogi POKéMON zadający obrażenia\\nmoże się potknąć.
+PROSZEK SREBRA
+Przedmiot do trzymania.\\nŚwiecący, srebrny proszek zwiększający siłę\\nataków typu ROBACZEGO.
+MONETA AMULET
+Przedmiot do trzymania.\\nZwiększa dwukrotnie przychód z walk, w\\nktórych brał udział trzymający.
+NALEPKAOBRONY
+Przedmiot do trzymania.\\nOdpędza dzikie POKéMONY, jeśli\\ntrzymający jest pierwszy w drużynie.
+ROSA DUSZ
+Kula do trzymania przez LATIOSA\\nlub LATIASA. Zwiększa SP. ATK\\ni SP. OBR.
+ZĄB GŁĘBIN
+Przedmiot do trzymania.\\nPazur błyszczący srebrnym blaskiem.\\nZwiększa statystykę SP. ATAKU.
+ŁUSKA GŁĘBIN
+Przedmiot do trzymania.\\nKamień mieniący się łagodnym różowym kolorem.\\nZwiększa SP. OBRONĘ.
+KULA DYMNA
+Przedmiot do trzymania.\\nTrzymający POKéMON może uciec przed\\nkażdym dzikim POKéMONEM.
+WIECZNYKAMIEŃ
+Przedmiot do trzymania.\\nTrzymający POKéMON nie może\\nprzejść ewolucji.
+OPASKA SKUP.
+Przedmiot do trzymania.\\nTrzymający POKéMON może stłumić atak,\\npozostawiając sobie choć 1 HP.
+JAJO SZCZĘŚCIA
+Przedmiot do trzymania.\\nJajo wypełnione szczęściem, pozwala\\nzarobić dodatkowe EXP. w walce.
+SOCZEWKA CELU
+Przedmiot do trzymania.\\nSoczewki podbijające szanse na krytyczne\\nciosy trzymającego POKéMONA.
+POWŁOKA METALU
+Przedmiot do trzymania.\\nSpecjalna metaliczna powłoka\\nZwiększa moc STALOWYCH ruchów.
+RESZTKI
+Przedmiot do trzymania.\\nTrzymający POKéMON stopniowo odzyskuje\\nutracone HP w walce.
+SMOCZA ŁUSKA
+Gruba i twarda łuska.\\nMoże być trzymana przez POKéMONA\\nSMOKA.
+ŚWIETLNA KULA
+Kula do trzymania przez PIKACHU,\\nzwiększająca SP. ATK.\\nDotknięcie jej grozi porażeniem.
+MIĘKKI PIASEK
+Przedmiot do trzymania.\\nDelikatny, jedwabisty piasek zwiększający\\nsiłę ataków typu ZIEMNEGO.
+TWARDY KAMIEŃ
+Przedmiot do trzymania.\\nNiezniszczalny kamień zwiększający siłę\\nataków typu KAMIENNEGO.
+NASIONO CUDU
+Przedmiot do trzymania.\\nNasienie przesycone życiem, zwiększający\\nsiłę ataków TRAWIASTYCH.
+CIEMNE OKULARY
+Przedmiot do trzymania.\\nPrzyciemnione okulary zwiększające\\nsiłę ataków typu MROCZNEGO.
+CZARNY PAS
+Przedmiot do trzymania.\\nPas zwiększający zawzięcie i siłę\\nataków typu WALCZĄCEGO.
+MAGNES
+Przedmiot do trzymania.\\nPotężny magnes zwiększający siłę\\nataków typu ELEKTRYCZNEGO.
+MISTYCZNAWODA
+Przedmiot do trzymania.\\nKlejnot w kształcie łzy zwiększający siłę\\nataków typu WODNEGO.
+OSTRY DZIÓB
+Przedmiot do trzymania.\\nDługi, ostry dziób zwiększający siłę\\nataków typu LATAJĄCEGO.
+TRUJĄCY KOLEC
+Przedmiot do trzymania.\\nMały, trujący kolec zwiększający siłę\\nataków typu TRUJĄCEGO.
+NIETOPLIWYLÓD
+Przedmiot do trzymania.\\nKawałek lodu pochłaniający ciepło.\\nZwiększa siłę LODOWYCH ataków.
+NALEPKA KLĄTWY
+Przedmiot do trzymania.\\nZłowieszcza, zła etykieta.\\nZwiększa siłę ataków DUCHÓW.
+WYGIĘTA ŁYŻKA
+Przedmiot do trzymania.\\nŁyżka wygięta mocami telekinetycznymi.\\nZwiększa siłę ataków PSYCHICZNYCH.
+WĘGIEL DRZEWNY
+Przedmiot do trzymania.\\nMateriał opałowy zwiększający siłę\\nataków typu OGNISTEGO.
+SMOCZY KIEŁ
+Przedmiot do trzymania.\\nTwardy i ostry pazur, zwiększający\\nsiłę ataków typu SMOCZEGO.
+JEDWABNY SZAL
+Przedmiot do trzymania.\\nWystawna chustka zwiększająca siłę\\nataków typu NORMALNEGO.
+AKTUALIZACJA
+Przezroczyste urządzenie wypełnione\\ndanymi.\\nWyprodukowane przez SILPH CO.
+DZWONEK-MUSZLA
+Przedmiot do trzymania.\\nTrzymający POKéMON odzyskuje trochę HP\\npodczas ataku na wroga.
+KAD. MORZA
+Przedmiot do trzymania.\\nLekko zwiększa siłę ataków typu\\nWODNEGO.
+KADZ. SPOKOJU
+Przedmiot do trzymania.\\nJego niecodzienny zapach zmniejsza lekko\\ncelność wroga.
+CIOS SZCZĘŚCIA
+Rękawica do trzymania dla\\nCHANSEY.\\nZwiększa szansę na cios krytyczny.
+PROSZEKMETALU
+Solidny, szorstki proszek do\\ntrzymania przez DITTO.\\nZwiększa jego OBRONĘ.
+GRUBA KOŚĆ
+Twarda kość do trzymania dla\\nCUBONE'A bądź MAROWAKA.\\nZwiększa ich statystykę ATAKU.
+PATYK
+Liść pora do trzymania przez\\nFARFETCH'DA. Zwiększa szanse na\\nzadanie ciosu krytycznego.
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+????????
+?????
+CZER. SZALIK
+Przedmiot do trzymania.\\nZwiększa stan COOL POKéMONA\\nw czasie KONKURSÓW.
+NIEB. SZALIK
+Przedmiot do trzymania.\\nZwiększa stan BEAUTY POKéMONA\\nw czasie KONKURSÓW.
+RÓŻOWY SZALIK
+Przedmiot do trzymania.\\nZwiększa stan CUTE POKéMONA\\nw czasie KONKURSÓW.
+ZIEL. SZALIK
+Przedmiot do trzymania.\\nZwiększa stan SMART POKéMONA\\nw czasie KONKURSÓW.
+ŻÓŁTY SZALIK
+Przedmiot do trzymania.\\nZwiększa stan TOUGH POKéMONA\\nw czasie KONKURSÓW.
+KOLARKA
+Składany rower poruszający się\\ndwa razy szybciej niż pieszy.
+ETUINAŻETONY
+Pokrowiec na ŻETONY otrzymany w\\nSALONIE GIER.\\nMoże przechować do 9,999 ŻETONÓW.
+RZECZOSZUKACZ
+Urządzenie służące do szukania\\nprzedmiotów. Emituje sygnał, gdy\\nw pobliżu ukryty jest przedmiot.
+STARA WĘDKA
+Stara, zużyta wędka.\\nUżyj jej przy dowolnej tafli wody, by\\nłowić dzikie POKéMONY.
+DOBRA WĘDKA
+Wysokiej jakości wędka.\\nUżyj jej przy dowolnej tafli wody,\\nby łowić dzikie POKéMONY.
+SUPER WĘDKA
+Świetna, nowoczesna wędka.\\nUżyj jej przy dowolnej tafli wody, by\\nłowić dzikie POKéMONY.
+BILET NA PROM
+Bilet wymagany, by dostać się\\nna pokład promu S.S. ANNA.\\nMa na sobie rysunek statku.
+BILETNAPOKAZY
+Przepustka wymagana do wzięcia\\nudziału w KONKURSACH. Ma na\\nsobie rysunek wstęgi.
+????????
+?????
+WAILMER-KONEWKA
+Wydajna konewka.\\nUżywana, by zwiększyć prędkość wzrostu\\nJAGÓD zasianych w glebie.
+TOWARY DEVON
+Paczka zawierająca mechaniczne\\nczęści stworzone przez\\nKORPORACJE DEVON.
+TORBA NA PYŁ
+Wór używany do automatycznego\\nzbierania pyłu wulkanicznego\\nw trakcie podróży.
+KLUCZ WATTSON
+Klucz do NEW MAUVILLE, budowanego\\nprzy MAUVILLE\\nCITY.
+ROWER BMX
+Składany rower umożliwiający\\nwykonywanie różnych sztuczek.
+{POKEBLOCK} ETUI
+Pojemnik na {POKEBLOCK}I przygotowane\\nw BERRY BLENDER. Wypuszcza\\njeden {POKEBLOCK} gdy jest wstrząśnięty.
+LIST
+Niesamowicie ważny list od\\nSTEVENA dla PREZESA KORPORACJI\\nDEVON.
+BILET EON
+Bilet wymagany do podróży promem na\\nodległą południową wyspę.\\nNarysowana jest na nim wyspa.
+CZERWONA KULA
+Kula świecąca się na czerwono.\\nPodobno zawiera niesamowitą moc\\npradawnych czasów.
+NIEBIESKA KUL
+Kula świecąca się na niebiesko.\\nPodobno zawiera niesamowitą moc\\npradawnych czasów.
+SKANER
+Urządzenie używane do\\nwyszukiwania życia pod wodą.\\nZbyt skomplikowane, aby używać.
+GO-GOGLE
+Para ochronnych gogli.\\nPozwalają trenerowi podróżować nawet\\nprzez burzę piaskową.
+METEORYT
+Meteoryt, który spadł dawno temu\\nna KSIĘŻYCOWĄ GÓRĘ.\\nJest bryłowaty i twardy.
+KLUCZ DO P. 1
+Klucz otwierający drzwi do Pokoju\\nnr 1 wewnątrz OPUSZCZONEGO STATKU.\\nJest stary i łamliwy.
+KLUCZ DO P. 2
+Klucz otwierający drzwi do Pokoju\\nnr 2 wewnątrz OPUSZCZONEGO STATKU.\\nJest stary i łamliwy.
+KLUCZ DO P. 4
+Klucz otwierający drzwi do Pokoju\\nnr 4 wewnątrz OPUSZCZONEGO STATKU.\\nJest stary i łamliwy.
+KLUCZ DO P. 6
+Klucz otwierający drzwi do Pokoju\\nnr 6 wewnątrz OPUSZCZONEGO STATKU.\\nJest stary i łamliwy.
+KLUCZDOŁADOWN
+Klucz otwierający składzik\\nwewnątrz OPUSZCZONEGO STATKU.\\nJest stary i łamliwy.
+SKAM. KORZEŃ
+Skamielina pradawnego, podmorskiego\\nPOKéMONA. Wydaje się być częścią\\nkorzenia rośliny.
+SKAM. PAZUR
+Skamielina pradawnego, podmorskiego\\nPOKéMONA. Wydaje się być częścią\\npazura.
+SKANER DEVON
+Urządzenie sygnalizujące obecność\\nniewidocznego POKéMONA.\\nStworzone przez KORPORACJĘ DEVON.
+TM01
+Niesamowicie potężny atak.\\nJednak, jeżeli użytkownik zostanie\\ntrafiony przed użyciem, potknie się.
+TM02
+Ostre, potężne\\npazury haczykują\\ni szybko zadają\\nwrogu wielką siłe.
+TM03
+Wróg trafiony jest potężnym ciosem\\nwodnym. Oszałamia też\\nprzeciwnika.
+TM04
+Użytkownik uspokaja ducha i\\nskupia swój umysł zwiększając\\nswe SP. ATK i SP. OBR.
+TM05
+Oponent zmuszony jest do\\nzmiany z sojusznikiem.\\nDzika walka kończy się.
+TM06
+Ruch ostro zatruwający\\nprzeciwnika.\\nObrażenia z trucizny\\nrosną co turę.
+TM07
+Burza gradu trwająca\\npięć tur uszkadza\\nPOKéMONY oprócz\\ntypu LODOWEGO.
+TM08
+Użytkownik podnosi swoje\\nciało, aby zwiększyć\\nstat. ATAKU i OBRONY.
+TM09
+Użytkownik strzela\\ndo wrogów. Dwa\\ndo pięciu nasion\\njest strzelanych.
+TM10
+Atak zmieniający się pod\\nwzględem intensywności\\nużytkownika.
+TM11
+Słońce świeci przez\\npięć tur, wzmacniając\\nruchy OGNISTE.
+TM12
+Wróg jest wyśmiewany we wściekłość,\\nktóra pozwala mu używać\\nruch ataku.
+TM13
+Wróg zaatakowany jest lodowym\\npromieniem. Może zamrozić\\nwroga.
+TM14
+Wróg miotany jest przez\\nzamieć. Może zamrozić\\nwroga.
+TM15
+Dotkliwie rażący atak\\nzmuszający wroga do\\ntury odpoczynku.
+TM16
+Snop światła zmniejsza obrażenia z\\nataku typu\\nSP. ATK na 5 tur.
+TM17
+Umożliwia unikanie ataku.\\nMoże się powieść, jeśli\\njest używany kolejno.
+TM18
+Ciężki deszcz pada\\nprzez pięć tur,\\numacniając ruchy\\ntypu WODNEGO.
+TM19
+Ostry atak, który\\npochłania połowę \\nzadanych obrażeń,\\naby odzyskać HP.
+TM20
+Chroni stronę\\nużytkownika przed\\nwszystkimi statusami\\nprzez pięć tur.
+TM21
+Ten atak staje się coraz\\nsilniejszy, im mniej użytkownik\\nlubi TRENERA.
+TM22
+Dwuturowy ruch, który\\nsponiewiera wroga\\nabsorbowaną energią\\nw 2 turze.
+TM23
+Atak z twardym jak\\nstal ogonem. Może\\nobniżyć statystykę\\nobrony wroga.
+TM24
+Potężny atak\\nelektryczny, który\\nmoże też sparaliżować\\nwroga.
+TM25
+Brutalny atak\\npiorunem, który\\nmoże dodatkowo\\nsparaliżować wroga.
+TM26
+Trzęsienie ziemi\\ntrafia wszystkie\\nPOKéMONY w walce\\nprócz użytkownika.
+TM27
+Ten atak staje się coraz\\nsilniejszy, im mniej użytkownik\\nubi TRENERA.
+TM28
+Atak trafiający\\nw drugiej turze.\\nMoże być użyty,\\ndo wyjścia z jaskiń.
+TM29
+Silny atak kinetyczny\\nmogący obniżyć\\nSP. OBR przeciwnika.
+TM30
+Mroczna kula jest\\nrzucana we wroga.\\nMoże obniżyć SP.\\nOBRONĘ wroga.
+TM31
+Atak, który\\nprzełamuje każdą\\nbarierę taką jak\\nEKRAN ŚWIATŁA itp.
+TM32
+Użytkownik tworzy\\niluzje samego siebie,\\nby łatwiej unikać\\nataków.
+TM33
+Ściana światła\\nzmniejsza obrażenia\\nataków fizycznych\\nprzez 5 tur.
+TM34
+Szybki atak\\nelektryczności\\nuderza wroga. Nie\\nmożna tego uniknąć.
+TM35
+Wróg parzony jest\\nintensywnymi\\npłomieniami. Może\\ndoznać poparzeń.
+TM36
+Brudny szlam jest\\nrzucany we wroga.\\nMoże też zatruć\\ncel.
+TM37
+5-turowa burza\\npiaskowa, rani\\nkażdy typ oprócz\\nKAMIENIA, ZIEMI i STALI.
+TM38
+Wróg trafiony zostaje wielkim\\npłomieniem. Może spowodować\\noparzenia.
+TM39
+Głazy są rzucane\\nna wroga. Obniża\\ntakże SZYBKOŚĆ\\nwroga, jeśli trafi.
+TM40
+Niezwykle szybki\\natak na jeden cel.\\nNie można tego\\nuniknąć.
+TM41
+Rozgniewa wroga,\\nprzez co nie jest\\nw stanie używać\\ntego samego ruchu.
+TM42
+Atak, który zostanie\\nwzmocniony, jeśli\\nużytkownik będzie\\nzatruty itp.
+TM43
+Atak, który może\\nmieć dodatkowy\\nefekt, który zależy\\nod danego terenu.
+TM44
+Użytkownik śpi dwie\\ntury, by w pełni\\nprzywrócić HP i\\nuleczyć zmiany stanu.
+TM45
+Jeśli jest innej płci,\\nwróg jest zauroczony\\ni mało prawdopodobny\\ndo ataku.
+TM46
+Atak mogący ukraść\\ntrzymany przedmiot\\nwroga, gdy\\nużywający nic nie trzyma.
+TM47
+Wróg trafiony jest\\nskrzydłami ze stali.\\nMoże również\\nzwiększyć OBRONĘ.
+TM48
+Użytkownik wykorzysta\\nswoją moc, aby\\nzamienić zdolności\\nz wrogiem.
+TM49
+Kradnie efekty\\nleczenia wroga\\nlub zmiany dowolnego\\nstatusu.
+TM50
+Intensywny atak,\\nktóry również\\nznacznie zmniejsza\\nSP. ATK użytkownika.
+HM01
+Podstawowy atak.\\nMożna nim ściąć\\nmałe drzewka oraz\\ntrawę.
+HM02
+Dwuturowy ruch,\\ntrafiający w 2 turze.\\nUżywany, by latać\\ndo znanych miejsc.
+HM03
+Wielka fala spada\\nna wroga. Służy też\\ndo podróżowania\\npo wodzie.
+HM04
+Wróg atakowany\\nzostaje z pełną siłą.\\nMoże też przesuwać\\nciężkie głazy.
+HM05
+Promień światła zmniejsza celność\\nwroga. Oświetla\\nteż jaskinie.
+HM06
+Atak, który może\\nspowodować obniżenie\\nOBRONY. Może\\nrównież rozbić skały.
+HM07
+Potężny atak\\nszarżą. Może zostać\\nużyty, by wspiąć\\nsię na wodospad.
+HM08
+Użytkownik nurkuje\\npod wodą w pierwszej\\nturze i uderza w\\ndrugiej.
+????????
+?????
+????????
+?????
+PACZKA OAKA
+Paczka dla PROFESORA OAKA\\notrzymana w POKéMON MART w\\nVIRIDIAN CITY.
+POK\u00e9 FLET
+Flet, który podobno ma moc\\nprzebudzenia każdego POKéMONA.\\nPięknie gra.
+TAJEMNY KLUCZ
+Klucz do drzwi SALI na WYSPIE\\nCINNABAR. Jest czerwony i pokryty\\nzdobieniami.
+KUPON NA ROWER
+Zanieś ten kupon do SKLEPU\\nROWEROWEGO w CERULEAN CITY i\\nwymień na rower.
+ZŁOTE ZĘBY
+Sztuczna szczęka zgubiona przez\\nDYREKTORA STREFY SAFARI.\\nRozświetla jego uśmiech.
+STARYBURSZTYN
+Kawałek bursztynu zawierający\\ngeny pradawnego POKéMONA.\\nPrzejrzysty w czerwonawym odcieniu.
+KARTA WSTĘPU
+Klucz w formie karty otwierający\\ndrzwi do BIURA SILPH CO.\\nw SAFFRON CITY.
+KLUCZDOWINDY
+Klucz obsługujący windę w\\nKWATERZE ZESPOŁU R.\\nNosi na sobie logo ZESPOŁU R.
+SKAM. ŚLIMAK
+Skamielina pradawnego, podmorskiego\\nPOKéMONA. Wydaje się być częścią\\nskorupy morskiej.
+SKAM. SKORUPA
+Skamielina pradawnego, podmorskiego\\nPOKéMONA. Wydaje się być częścią\\nmuszli.
+SKANER SILPH
+Urządzenie ujawniające\\nniewidoczne POKéMONY.\\nStworzone przez SILPH CO.
+ROWER
+Składany rower pozwalający\\nporuszać się szybciej niż\\nw trakcie biegu.
+MAPA REGIONU
+Bardzo wygodna w użyciu mapa\\nregionu KANTO. Pokazuje nawet\\ntwoje aktualne położenie.
+TRENERSZUKACZ
+Urządzenie wskazujące TRENERÓW\\nchcących walczyć. Bateria\\nładuje się w czasie podróży.
+PRZYPOMINACZ
+Urządzenie pozwalające\\nprzypomnieć sobie to, co usłyszałeś\\no sławnych osobach.
+ETUI TM
+Etui przechowujące TMy i HMy.\\nZnajduje się w komorze TORBY\\nprzeznaczonej na ważne przedmioty.
+WOREKNAJAGODY
+Woreczek na JAGODY.\\nZnajduje się w komorze TORBY\\nprzeznaczonej na ważne przedmioty.
+TELEWIZOREK
+Telewizor nastawiony na kanał\\ndający rady początkującym\\nTRENEROM POKéMONÓW.
+TRÓJ-BILET
+Przepustka na promy na WYSPY od\\nPIERWSZEJ do TRZECIEJ.\\nZawiera rysunek z trzema wyspami.
+TĘCZOWY BILET
+Przepustka na kursy między\\nVERMILION a WYSPAMI SEVII. Zawiera\\nnadruk przedstawiający tęczę.
+HERBATA
+Herbata przygotowana\\nprzez staruszkę. Zaspokoi nawet\\nnajwiększe pragnienie.
+TAJEMNY BILET
+Bilet wymagany by dostać się na\\nSKAŁĘ PĘPKA.\\nEmituje tajemnicze światło.
+BILET ZORZY
+Bilet wymagany by dostać się na\\nWYSPE NARODZIN.\\nEmituje piękne światło.
+SŁÓJNAPROSZE
+Słoik przeznaczony na JAGODOWY\\nPROSZEK z BERRY CRUSHERA.
+RUBIN
+Wyśmienity, piękny klejnot\\nemitujący czerwony blask.\\nSymbol zaciekłości.
+SZAFIR
+Wyśmienity, piękny klejnot\\nemitujący niebieski blask.\\nSymbol szczerości.
+<<< FILE: src/data/trainers.h >>>
+SIDNEY
+PHOEBE
+ROXANNE
+BRAWLY
+TATE&LIZA
+MATT
+SHELLY
+TABITHA
+COURTNEY
+WATTSON
+FLANNERY
+NORMAN
+WINONA
+WALLACE
+GLACIA
+DRAKE
+BEN
+CALVIN
+JOSH
+TIMMY
+JOEY
+DAN
+CHAD
+TYLER
+EDDIE
+DILLON
+YASU
+DAVE
+BEN
+RICK
+DOUG
+SAMMY
+COLTON
+GREG
+JAMES
+KENT
+ROBBY
+CALE
+KEIGO
+ELIJAH
+BRENT
+CONNER
+JANICE
+SALLY
+ROBIN
+CRISSY
+MIRIAM
+IRIS
+RELI
+ALI
+HALEY
+ANN
+DAWN
+PAIGE
+ANDREA
+MEGAN
+JULIA
+KAY
+LISA
+EDMOND
+TREVOR
+LEONARD
+DUNCAN
+HUEY
+DYLAN
+PHILLIP
+DWAYNE
+LIAM
+SHANE
+ETHAN
+RICKY
+JEFF
+CHRIS
+DREW
+DIANA
+NANCY
+ISABELLE
+KELSEY
+ALICIA
+CAITLIN
+HEIDI
+CAROL
+SOFIA
+MARTHA
+TINA
+HANNAH
+MARK
+HERMAN
+COOPER
+STEVE
+WINSTON
+DAWSON
+ASHTON
+JOVAN
+MIGUEL
+AIDAN
+GLENN
+LESLIE
+ERIK
+AVERY
+DEREK
+ZAC
+MARCOS
+FRANKLIN
+NOB
+WAYNE
+ALAN
+BRICE
+CLARK
+TRENT
+DUDLEY
+ALLEN
+ERIC
+LENNY
+OLIVER
+LUCAS
+JARED
+MALIK
+ERNEST
+ALEX
+LAO
+HIDEO
+RUBEN
+BILLY
+NIKOLAS
+JAXON
+WILLIAM
+LUKAS
+ISAAC
+GERALD
+QUINN
+RAMON
+DUSTY
+ARNIE
+SIMON
+LEWIS
+BAILY
+BRAXTON
+BERNIE
+DALE
+BARNY
+NED
+CHIP
+HANK
+ELLIOT
+RONALD
+CLAUDE
+WADE
+NOLAN
+ANDREW
+LUIS
+RICHARD
+REECE
+MATTHEW
+DOUGLAS
+DAVID
+TONY
+AXLE
+BARRY
+DEAN
+DARRIN
+SPENCER
+JACK
+JEROME
+ROLAND
+KOJI
+LUKE
+CAMRON
+RAUL
+ISAIAH
+ZEEK
+JAMAL
+COREY
+CHASE
+HUGO
+JASPER
+DIRK
+DARIAN
+STAN
+RICH
+BRIDGET
+TAMIA
+LORI
+LOLA
+SHEILA
+TIFFANY
+NORA
+MELISSA
+GRACE
+OLIVIA
+LAUREN
+ANYA
+ALICE
+CONNIE
+SHIRLEY
+JOHAN
+TYRON
+CAMERON
+PRESTON
+RANDALL
+LUCA
+DALTON
+NELSON
+KIRK
+SHAWN
+GREGORY
+EDWARD
+KAYDEN
+NATE
+PHIL
+EDGAR
+JASON
+COLE
+VINCENT
+JOHN
+SEBASTIAN
+PERRY
+ROBERT
+DONALD
+BENNY
+EDWIN
+CHESTER
+WILTON
+RAMIRO
+JACOB
+ROGER
+REED
+KEITH
+CARTER
+MITCH
+BECK
+MARLON
+KOICHI
+MIKE
+HIDEKI
+AARON
+HITOSHI
+ATSUSHI
+KIYO
+TAKASHI
+DAISUKE
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TED
+CONNOR
+JERRY
+JOSE
+RODNEY
+BEAU
+TAYLOR
+JOSHUA
+PARKER
+ED
+TRAVIS
+BRAYDON
+IVAN
+GIOVANNI
+GIOVANNI
+GIOVANNI
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+SAMUEL
+GEORGE
+COLBY
+PAUL
+ROLANDO
+GILBERT
+OWEN
+BERKE
+YUJI
+WARREN
+MARY
+CAROLINE
+ALEXA
+SHANNON
+NAOMI
+BROOKE
+AUSTINA
+JULIE
+LORELEI
+BRUNO
+AGATHA
+LANCE
+BROCK
+MISTY
+LT. SURGE
+ERIKA
+KOGA
+BLAINE
+SABRINA
+THOMAS
+ARTHUR
+TUCKER
+NORTON
+WALTER
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+TERRY
+PATRICIA
+CARLY
+HOPE
+PAULA
+LAUREL
+JODY
+TAMMY
+RUTH
+KARINA
+JANAE
+ANGELICA
+EMILIA
+JENNIFER
+AMANDA
+STACY
+TASHA
+JEREMY
+ALMA
+SUSIE
+VALERIE
+GWEN
+VIRGIL
+FLINT
+MISSY
+IRENE
+DANA
+ARIANA
+LEAH
+JUSTIN
+YAZMIN
+KINDRA
+BECKY
+CELIA
+BROOKS
+LAMAR
+ELI & ANNE
+RAY & TYRA
+GIA & JES
+KIRI & JAN
+RON & MYA
+LEA & JED
+LIA & LUC
+LIL & IAN
+BEN
+BEN
+CHAD
+RELI
+RELI
+TIMMY
+TIMMY
+TIMMY
+CHAD
+JANICE
+JANICE
+CHAD
+FRANKLIN
+PROF. OAK
+BRENDAN
+MAY
+RED
+LEAF
+GRUNT
+JACLYN
+SHARON
+AMIRA
+ALIZE
+NICOLAS
+MADELINE
+NIKKI
+STANLY
+JACKI
+DAISY
+GOON
+GOON
+GOON
+ANTHONY
+CHARLIE
+ELI & ANNE
+JOHNSON
+RICARDO
+JAREN
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+GRUNT
+ADMIN
+ADMIN
+GIDEON
+AMARA
+MARIA
+ABIGAIL
+FINN
+GARRETT
+TOMMY
+TANYA
+SHEA
+HUGH
+BRYCE
+CLAIRE
+MIK & KIA
+VIOLET
+ALEXIS
+JOY & MEG
+TISHA
+CELINA
+RAYNA
+GILLIAN
+DESTIN
+TOBY
+GRUNT
+GRUNT
+GRUNT
+MILO
+CHAZ
+HAROLD
+TYLOR
+MYMO
+NICOLE
+AVA & GEB
+ROSE
+SAMIR
+DENISE
+MIU & MIA
+EARL
+FOSTER
+LARRY
+DARYL
+HECTOR
+DARIO
+RODETTE
+MIAH
+EVE & JON
+MASON
+CYNDY
+JOCELYN
+EVAN
+MARK
+LOGAN
+JACKSON
+BETH
+KATELYN
+LEROY
+MICHELLE
+LEX & NYA
+BRANDON
+BENJAMIN
+EDNA
+CLIFFORD
+SELPHY
+LAWSON
+LAURA
+BETHANY
+ALLISON
+GARRET
+JONAH
+VANCE
+NASH
+CORDELL
+DALIA
+JOANA
+RILEY
+MARCY
+LAYTON
+KELSEY
+KELSEY
+KELSEY
+RICKY
+RICKY
+RICKY
+JEFF
+JEFF
+JEFF
+ISABELLE
+ISABELLE
+ISABELLE
+YASU
+YASU
+BERNIE
+DARIAN
+CHRIS
+CHRIS
+CHRIS
+ALICIA
+ALICIA
+ALICIA
+JEREMY
+MARK
+HERMAN
+HERMAN
+TRENT
+MEGAN
+MEGAN
+GLENN
+RICH
+JAREN
+ELLIOT
+LUCA
+SHEILA
+ROBERT
+ROBERT
+SUSIE
+SUSIE
+SUSIE
+LUKAS
+BENNY
+BENNY
+MARLON
+MARLON
+GRACE
+CHESTER
+CHESTER
+BECKY
+BECKY
+BECKY
+RON & MYA
+RON & MYA
+RON & MYA
+RUBEN
+CAMRON
+JAXON
+ISAIAH
+COREY
+JACOB
+JACOB
+ALICE
+DARRIN
+MISSY
+MISSY
+WADE
+JACK
+LIL & IAN
+LIL & IAN
+FINN
+SHARON
+SHARON
+TANYA
+TANYA
+SHEA
+SHEA
+HUGH
+HUGH
+MIK & KIA
+MIK & KIA
+AMIRA
+JOY & MEG
+RAYNA
+DESTIN
+ALIZE
+GIA & JES
+GIA & JES
+MILO
+CHAZ
+HAROLD
+NICOLE
+JACLYN
+SAMIR
+EARL
+LARRY
+HECTOR
+DARIO
+RODETTE
+MASON
+NICOLAS
+MADELINE
+CYNDY
+EVAN
+JACKSON
+KATELYN
+LEROY
+MICHELLE
+LEX & NYA
+COLTON
+COLTON
+COLTON
+MATTHEW
+TONY
+MELISSA
+LORELEI
+BRUNO
+AGATHA
+LANCE
+TERRY
+TERRY
+TERRY
+PAXTON

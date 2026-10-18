@@ -1,0 +1,1162 @@
+<<< FILE: src/data/pokemon/pokedex_entries.h >>>
+NIEZNANY
+NASIENNY
+NASIENNY
+NASIENNY
+JASZCZURKA
+PŁOMIENNY
+PŁOMIENNY
+MAŁY ŻÓŁW
+ŻÓŁW
+SKORUPIAK
+ROBAL
+KOKON
+MOTYL
+WŁOSOROBAK
+KOKON
+PSZCZOŁA
+MAŁYPTAK
+PTAK
+PTAK
+MYSZ
+MYSZ
+MAŁYPTAK
+DZIOBATY
+WĄŻ
+KOBRA
+MYSZ
+MYSZ
+MYSZ
+MYSZ
+TRUJĄCY
+TRUJĄCY
+WIERCĄCY
+TRUJĄCY
+TRUJĄCY
+WIERCĄCY
+WRÓŻKA
+WRÓŻKA
+LIS
+LIS
+GWIEZDNY
+GWIEZDNY
+NIETOPERZ
+NIETOPERZ
+CHWAST
+CHWAST
+KWIAT
+MUCHOMOR
+MUCHOMOR
+INSEKT
+TRUJĄCACMA
+KRET
+KRET
+DRAPIKOT
+STYLOWYKOT
+KACZKA
+KACZKA
+ŚWINIOMAŁPA
+ŚWINIOMAŁPA
+SZCZENIAK
+LEGENDARNY
+KIJANKA
+KIJANKA
+KIJANKA
+PSI
+PSI
+PSI
+SUPERSIŁA
+SUPERSIŁA
+SUPERSIŁA
+KWIAT
+MUCHOŁÓWKA
+MUCHOŁÓWKA
+MEDUZA
+MEDUZA
+KAMIENNY
+KAMIENNY
+MEGATONA
+OGNISTYKON
+OGNISTYKON
+GŁUPAWY
+OGONOMUSZLI
+MAGNES
+MAGNES
+DZIKAKACZKA
+DWUPTAK
+TRÓJPTAK
+LEWMORSKI
+LEWMORSKI
+MUŁOWY
+MUŁOWY
+MAŁŻA
+MAŁŻA
+GAZOWY
+GAZOWY
+CIENISTY
+SKALNY WĄŻ
+HIPNOZA
+HIPNOZA
+RZECZNYKRAB
+SZCZYPCOWY
+KULA
+KULA
+JAJO
+KOKOS
+SAMOTNA
+KOŚCIOMIOT
+KOPIĄCY
+UDERZAJĄCY
+LIŻĄCY
+TRUJĄCYGAZ
+TRUJĄCYGAZ
+KOLCZASTY
+WIERCĄCY
+JAJO
+PNĄCZE
+RODZIC
+SMOK
+SMOK
+ZŁOTARYBKA
+ZŁOTARYBKA
+MAŁAMYSZ
+TAJEMNICZY
+BARIEROWY
+MODLISZKA
+CZŁOWIECZNY
+ELEKTRYCZNY
+CHOLERYK
+JELONKOWATY
+DZIKIBYK
+RYBA
+STRASZNY
+PRZEWOŻNIK
+PRZEMIANA
+EWOLUCYJNY
+ODRZUTOWY
+PIORUN
+PŁOMIENNY
+WIRTUALNY
+SPIRALNY
+SPIRALNY
+SKORUPIAK
+SKORUPIAK
+SKAMIELINA
+ŚPIĄCY
+MROŹNY
+ELEKTRYCZNY
+PŁOMIENNY
+SMOK
+SMOK
+SMOK
+GENETYCZNY
+NOWYGATUNEK
+LIŚCIASTY
+LIŚCIASTY
+ZIOŁOWY
+OGNISTAMYSZ
+WULKANICZNY
+WULKANICZNY
+ZEBATY
+ZEBATY
+ZEBATY
+ZWIADOWCA
+PODŁUŻNY
+SOWA
+SOWA
+BIEDRONKA
+BIEDRONKA
+TKACZ
+NICI
+NIETOPERZ
+ŻABNICA
+ŚWIETLNY
+ŚWIETLNY
+MAŁAMYSZ
+GWIEZDNY
+KOLCZASTY
+SZCZEŚLIWY
+MAŁYPTAK
+MYSTYCZNY
+WEŁNIANY
+WEŁNIANY
+ŚWIETLNY
+KWIAT
+WODNAMYSZ
+WODNYKRÓLIK
+IMATACYJNY
+ŻABA
+DMUCHAWIEC
+DMUCHAWIEC
+DMUCHAWIEC
+OGONIASTY
+NASIENNY
+SŁONECZNY
+SKRZYDLATY
+RYBA
+RYBA
+SŁONECZNY
+KSIEŻYCOWY
+MROCZNY
+KRÓLEWSKI
+SKRZECZENIE
+SYMBOL
+CIERPLIWY
+DŁUGOSZYI
+KOSZÓWKA
+KOSZÓWKA
+LĄDOWYWĄŻ
+SKORPIOLOT
+ŻELAZNYWĄŻ
+WRÓŻKA
+WRÓŻKA
+GWIEZDNY
+SZCZYPCOWY
+PLEŚNIAK
+JEDNOROGI
+OSTROSZPON
+MAŁYMIŚ
+HIBERNATOR
+LAWOWY
+LAWOWY
+PROSIAK
+ŚWINIA
+KORALOWIEC
+ODRZUTOWY
+ODRZUTOWY
+DOSTAWCZY
+LATAWIEC
+ZBROJOPTAK
+MROCZNY
+MROCZNY
+SMOK
+DŁUGONOSY
+ZBROJONY
+WIRTUALNY
+WIELKOROGI
+MALARKA
+OSIŁEK
+NAOPAK
+CAŁUJĄCY
+ELEKTRYCZNY
+WEGIELEK
+KROWA
+SZCZEŚLIWY
+PIORUN
+WULKANICZNY
+ZORZA
+GŁAZOSKÓRNY
+TWARDOSKÓRY
+ZBROJONY
+NURKUJĄCY
+TECZOWY
+NADCZASOWY
+LEŚNYGEKON
+LEŚNYGEKON
+LEŚNY
+KURCZAK
+KOGUT
+PŁOMIENNY
+BŁOTNARYBA
+BŁOTNARYBA
+BŁOTNARYBA
+UGRYZIENIE
+UGRYZIENIE
+MAŁYSZOP
+PEDZĄCY
+ROBAL
+KOKON
+MOTYL
+KOKON
+TRUJĄCACMA
+MOCZARKA
+POCIESZNY
+BEZTROSKI
+ŻOŁĄDŹ
+CHYTRY
+NIEGODZIWY
+JASKÓŁECZKA
+PRZEŁKNIECIE
+MEWA
+WODNYPTAK
+UCZUCIOWY
+EMOCJONALNY
+ŚCISKAJĄCY
+NARTNIK
+OKO
+MUCHOMOR
+MUCHOMOR
+OBIBOK
+DZIKAMAŁPA
+LENIWY
+PRAKTYANT
+NINJA
+ŁUSKA
+SZEPCĄCY
+HAŁAŚLIWY
+GŁOŚNY
+ODWAŻNY
+NATARCIE
+GROSZKOWY
+KOMPAS
+KOCIAK
+WYSZUKANY
+MROCZNY
+ZWODNIK
+ŻELAZNY
+ŻELAZNY
+ŻELAZNY
+MEDYTUJĄCY
+MEDYTUJĄCY
+PIORUN
+ROZŁADOWANY
+POCIESZNY
+POCIESZNY
+ŚWIETLIK
+ŚWIETLIK
+CIERNISTY
+ŻOŁĄDKOWY
+TRUJĄCYWÓR
+DZIKI
+BRUTALNY
+KULORYB
+WIELORYB
+ODRETWIAŁY
+ERUPCYJNY
+WEGIELEK
+WYBICIE
+MANIPULACJA
+ŁACIATY
+MROWISKO
+WIBRACYJNY
+MYSTYCZNY
+KAKTUS
+STRASZNY
+BAWEŁNOPTAK
+NUCĄCY
+KOCIAFRETKA
+WĄŻOWYKIEŁ
+METEORYT
+METEORYT
+WĄSATY
+WĄSATY
+SZUBRAWIEC
+SZELMA
+LALKA
+LALKA
+LILIA WODNA
+WĄSONÓG
+PRAKREWETKA
+PŁYTOWY
+RYBA
+WRAŻLIWY
+POGODOWY
+RÓŻNOBARWNY
+KUKIEŁKA
+MARIONETKA
+REQUIEM
+KIWAJĄCY
+OWOCOWY
+DZWONWIATRU
+KATAKLIZM
+JASNY
+ŚNIEŻNY
+TWARZ
+KLASKACZ
+TOCZĄCYKULE
+LODOŁAMACZ
+MAŁŻA
+PODMORSKI
+WÓDPOŁUDNIA
+TRWAŁY
+RENDEZVOUS
+SKAŁOGŁOWY
+WYTRZYMAŁY
+SMOK
+ŻELAZOKULA
+ŻELAZOPAZUR
+ŻELAZOŁAPA
+CZUBEK GÓRY
+GÓRA LODOWA
+ŻELAZO
+EON
+EON
+DNA MORZA
+KONTYNENT
+PODNIEBNY
+ŻYCZENIE
+DNA
+<<< FILE: src/data/pokemon/pokedex_text_fr.h >>>
+To jest nowo odkryty POKéMON. Aktualnie\nprowadzone są nad nim badania. Chwilowo\nbrak jakichkolwiek innych informacji.
+Od czasu narodzin nosi na plecach\ndziwną roślinę. Ta roślina rośnie\nrazem z nim przez cały czas.
+Nosi na plecach cebulkę kwiatu.\nKiedy absorbuje mikroelementy z ziemi,\njego cebulka zakwita w spory kwiat.
+Z jego kwiatu wydobywa się czarujący\nzapach uspokajający przeciwnika\npodczas walki.
+Od czasu jego narodzin, na końcu jego\nogona pali się mały płomień. Gdy\nzgaśnie, ten POKéMON może umrzeć.
+Używa swego ogona, by powalać wrogów.\nPóźniej drapie leżącego przy pomocy\nswych ostrych pazurów.
+Jego silne skrzydła mogą go unieść na\nwysokość 4600 stóp. Zionie ogniem o\nbardzo wysokiej temperaturze.
+Kiedy chowa swoją głowę do skorupy,\ntryska wodnymi biczami z bardzo dużą\nsiłą.
+Ten POKéMON jest popularny jako pupil.\nJego futrzasty ogon symbolizuje jego\nmądrość.
+Przygniata przeciwnika swoim ciężkim\nciałem, by unieruchomić przeciwnika.\nRzadko chowa się w muszli.
+Jest pokryty zieloną skórą. Gdy rośnie,\ntraci skórę, pokrywa się jedwabną nicią\ni zmienia w twardy kokon.
+Mimo, że pokryty twardą skorupą, jego\nciało w środku jest delikatne.   \nNie oprze się silnym atakom.
+Jego skrzydła pokryte są wodoodporną\nwarstwą. Dzięki temu ten POKéMON może\nlatać w czasie deszczu.
+Często występuje w lasach i na polach.\nMa na głowie ostry, trujący kolec,  \ndługi na około dwa cale.
+Ten POKéMON jest w stanie przejściowym\npodczas przemiany swojego ciała. Jest\njuż prawie gotowy do wyjścia.
+Często występuje w większych rojach.\nLata z dużą prędkością, kłując trującym\nżądłem na swoim odwłoku.
+Nie lubi walczyć. Chowa się w\nwysokiej trawie, szukając pożywienia,   \njak małe robaki.
+Ma bardzo dobrze rozwinięte szpony. Może\nprzenosić ofiary, takie jak EXEGGCUTE\nna dystans nawet 100 kilometrów.
+Rozciąga swoje ogromne skrzydła, aby\nstraszyć przeciwników. Fruwa w powietrzu\nz ogromną prędkością.
+Jego kły są długie i bardzo ostre.\nCały czas rosną, więc gryzie twarde   \nrzeczy, aby je wzmocnić.
+Jego tylne nogi mają po trzy palce.\nMa pomiędzy nimi błony, co bardzo\nułatwia pływanie.
+Cały czas uważnie obserwuje teren.\nMimo, że jest dość słaby, może namieszać\nużywając ataku PAPUGOWANIE.
+Jego ogromne, wspaniałe skrzydła mogą go\nunieść bardzo wysoko. Może pozostać w\npowietrzu dzień bez przerwy.
+Bardzo często spotykany na polach, itp.\nPorusza swoim ogonem, by wyczuwać\nzagrożenia w otoczeniu.
+Wzór na jego brzuchu przypomina straszną\ntwarz. Słabe POKéMONY uciekają już na\nsam widok tego wzoru.
+Ma małe elektryczne torebki na obu\npoliczkach. W razie zagrożenia uwalnia\nz nich elektryczność.
+Jego ładunki elektryczne mogą mieć\nnawet 100 tysięcy woltów. Taka energia \nmogłaby powalić nawet DONPHANA.
+Żyje pod ziemią, kopiąc tunele.\nW razie zagrożenia zwija się w kulkę\ndla ochrony przed wrogiem.
+Dobrze opanował technikę atakowania\nprzy pomocy kolców na jego plecach\noraz długich, ostrych pazurów.
+Mimo, że niewielki, trzeba uważać na\ntrujący kolec na jego głowie. Samica ma\no wiele mniejsze kolce.
+Samica ma łagodniejszy charakter.\nEmituje sygnały ultradźwiękowe, które\nmogą oszołomić przeciwnika.
+Jej skóra jest pokryta sztywną \npowłoką, podobną do łusek. Może się\nzjeżyć, kiedy coś się dzieje.
+Wachluje uszami jak skrzydłami, kiedy\nnasłuchuje czegoś z daleka. Jego kolec\nrośnie, gdy jest zdenerwowany.
+Łatwo go zezłościć. Uderzając swoim\ndobrze rozwiniętym rogiem naprawdę\nmocno, może kruszyć diamenty.
+Łatwo go rozpoznać po bardzo twardej\nskórze i rozwiniętym rogu, który\nzawiera naprawdę silny jad.
+Dzięki słodkiemu, niewinnemu wyglądowi\njest popularny jako pupil. Bardzo\ntrudno go złapać.
+Ma bardzo wyczulony zmysł słuchu.\nPotrafi usłyszeć igłę upuszczoną nawet\nsto metrów od niego.
+Młode mają sześć pięknych ogonów.\nGdy rosną, pojawia się kilka\nnowych.
+Ma 9 długich ogonów i futro mieniące\nsię złotym kolorem. Mówią, że może\nżyć 1000 lat.
+Zniewala wrogów pięknymi, okrągłymi\noczami, a następnie śpiewa im      \nusypiającą melodię.
+Ma bardzo delikatne, gęste i miękkie\nfutro. Jest tak przyjemne w dotyku,\nże stało się wzorem luksusu.
+Nie ma oczu. Zamiast nich wykorzystuje\nwłasne fale ultradźwiękowe, aby odnaleźć\ndrogę w ciemnościach.
+Uderza we wroga swymi ostrymi jak\nbrzytwa zębami i łapczywie wysysa  \nkrew z bezbronnych ofiar.
+Jego łacińska nazwa to “Oddium Wanderus.”\nMówią, że nocami odbywa długie wędrówki\nna swych małych nogach.
+Jego płatki zawierają wstrętny aromat.\nTen smród jest tak potworny, że czuć\ngo 2 kilometry od niego.
+Ma największe na świecie płatki.\nRozpyla z nich dookoła ostry pyłek,\nmogący powodować alergie.
+Na plecach tego owada rosną małe\ngrzybki zwane tochukaso. Grzybki rosną\nrazem z tym POKéMONEM.
+Rozrzuca toksyny z kapelusza\nswojego grzyba. W Chinach robi\nsię z nich rozmaite leki.
+Używa swych oczu jako radaru, dzięki\nczemu może być aktywny nocą. Może też\nstrzelać promieniami.
+Jego skrzydła są pokryte łuskami.  \nZawsze, kiedy nimi macha, rozpyla bardzo\ntoksyczną substancję.
+Przekopuje glebę płytko pod powierzchnią\nziemi. Pozostawia za sobą ślad\npodniesionej ziemi.
+W walce, przekopuje glebę i uderza\nzaskoczonego wroga z nieprzewidzianego\nkierunku.
+Cały dzień spędza na śnie.\nW nocy, patroluje swoje terytorium swymi\nświecącymi oczami.
+Ma niesamowity temperament. Uważaj, gdy\npodnosi wysoko ogon. To sygnał, że zaraz\nzacznie skakać i gryźć.
+Cały czas męczy go ból głowy.\nGdy staje się bardzo intensywny, używa\ntajemniczych mocy psychicznych.
+Przednie łapy pokryte są błonami, które\npomagają mu pływać. Pływa z gracją\npo jeziorach, rzekach itd.
+Lekki i zwinny, a także zawsze porywczy.\nGdy zostanie rozgniewany, wpada w\nniekontrolowany szał.
+Jest zawsze strasznie wściekły. Gdy\nzacznie prowadzić pościg, będzie ścigał\nofiarę niezależnie od odległości.
+Bardzo przyjazny i wierny ludziom.\nStara się odpędzić wrogów szczekając i\ngryząc.
+POKéMON opisywany w Chińskich Legendach.\nPodobno porusza się z niesamowitą\nszybkością.
+Jego delikatna skóra jest bardzo cienka.\nSpiralny wzór prześwituje tak, że można\ndostrzec tam organy wewnętrzne.
+Ma bardzo dobrze rozbudowane nogi.\nMimo, że może żyć na lądzie,\npreferuje mieszkanie w wodzie.
+Mistrz pływacki potrafi pływać\nkraulem, motylkiem i wieloma innymi\nstylami. Szybszy niż ludzcy pływacy.
+Śpi 18 godzin na dobę. Używa wielu\ntelekinetycznych mocy nawet w\ntrakcie snu.
+Wydarzyło się to jednego ranka.\nChłopiec o niezwykłych mocach obudził\nsię zmieniony w KADABRĘ.
+Nie lubi używać żadnych fizycznych\nataków. Zamiast tego zręcznie korzysta\nz mocy psychicznych.
+Całe jego ciało zbudowane jest z mięśni.\nMimo że jest rozmiarów dziecka,\nprzewyższa siłą 100 dorosłych.
+Jego ciało nigdy się nie męczy.\nPomaga ludziom wykonując prace takie\njak przenoszenie ciężkich dóbr.
+Jego cztery świetnie rozwinięte\nramiona potrafią zadać grad 1,000 ciosów\nw dwie sekundy.
+Jego dzban wygląda jak ludzka twarz.\nZ uwagi na jego dzbanek, nazywa się go\nlegendarną mandragorą.
+Jego liście służą mu jako noże do\ncięcia wrogów. Pluje fluidem,\nrozkładającym wszystko.
+Zwabia ofiarę do swojej paszczy aromatem\nmiodu. Bezbronna ofiara rozpuszczana jest\nw jego kwasach.
+Jego oczy są przezroczyste jak kryształy.\nStrzela z nich tajemniczymi\npromieniami.
+Ma 80 macek, które mimowolnie się\nruszają. Mogą żądlić, powodując zatrucia\ni ostry, sztyletujący ból.
+Jego okrągły kształt ułatwia mu bycie\nzbieranym. Niektórzy rzucają się nimi\nw trakcie walk na śnieżki.
+Uważaj podróżując po górskich szlakach.\nZ góry może staczać się GRAVELER wcale\nnie zwalniając.
+Zamknięty jest w twardej skorupie, która\njest chropowata jak kamienna płyta.\nRaz w roku zrzuca skórę.
+Ma lekkie ciało i niesamowicie silne\nkopyta. Potrafiłby rozbić górę\nAyers Rock jednym susem.
+Potrafi galopować z prędkością 240\nkilometrów na godzinę. Jest niesamowicie\nszybkim biegaczem.
+Jest zawsze zagubiony w swoich myślach,\nale nikt nie wie, o czym tak rozmyśla.\nBardzo dobrze łowi ryby na swój ogon.
+Kiedy SLOWPOKE wybrał się na ryby,\njego ogon ugryzł SHELLDER.\nTo spowodowało ewolucje w SLOWBRO.
+Porusza się cały czas lewitując.\nRozładowuje ELEKTROFALE i inne ataki\ndzięki magnesom na bokach.
+Połączona jednostka złożona z\nkilku MAGNEMITE'ÓW. Rozładowują silne\nfale magnetyczne pod napięciem.
+Zawsze podróżuje z nacią zakleszczoną\nw dziobie. Łodyga ta używana jest\nprzy budowie gniazda.
+Dwugłowy POKéMON odkryty jako nagła\nmutacja. Potrafi osiągnąć prędkość\n60 mil na godzinę.
+Dziwny, rzadko spotykany gatunek.\nTrzy głowy reprezentują kolejno:\nszczęście, smutek i gniew.
+Jego pokryta błękitnym futrem skóra jest\ntwarda i gruba. Dzięki temu bywa\naktywny w temperaturach do minus 4 stopni.
+Jego ciało pokryte jest śnieżnobiałą\nsierścią. Jego aktywność wzrasta ze\nspadkiem temperatury.
+Szlam narażony na działanie promieni X\nz księżyca zmienił się w GRIMERA. Lubi\njeść ohydne rzeczy.
+Zazwyczaj niewykrywalny, gdyż rozpływa\nsię w podłożu. Dotknięcie go może być\nprzyczyną poważnych zatruć.
+Zamknięty jest w skorupie twardszej niż\ndiament. Wewnątrz jednak jest     \nzadziwiająco miękki.
+Jego skorupa jest strasznie twarda. Nie\nmoże zostać rozkruszona nawet bombą.\nOtwiera się tylko w czasie ataku.
+Twór istniejący w formie rzadkiego gazu.\nMoże powalić Słonia Indyjskiego\npokrywając ofiarę w 2 sekundy.
+Jeśli sądzisz, że ktoś obserwuje cię\nw ciemności, a nie widzisz nikogo,\njest to HAUNTER.
+Podobno wyłania się z ciemności, by\nkraść życia tych, którzy zaginęli w\ngórach.
+Zazwyczaj żyje pod ziemią. Szuka\npożywienia, gdy świdruje ziemię z\nprędkością 50 km/h.
+Potomek legendarnego zwierzęcia\nbaku, które podobno zjadało sny.\nUtalentowany hipnotyzer.
+Nosi urządzenie podobne do wahadełka.\nDoszło raz do wypadku, w którym porwał\nzahipnotyzowane dziecko.
+Znajdowany w okolicach morza. Jego\nszczypce szybko odrastają, gdy zostaną\nwyrwane z nasad.
+Jego olbrzymie szczypce mają siłę\n10,000 koni mechanicznych. Jednak z uwagi\nna rozmiar, są nieporęczne.
+Forma życia o nieznanej tożsamości.\nZnana jest ze swych zdolności do\nSAMOZNISZCZENIA.
+Eksploduje w odpowiedzi na każdy,\nnawet najmniejszy bodziec.  \nNazywa się ją “Bombową Kulą.”
+Mimo iż wygląda jak zgrupowanie\npewnego rodzaju jaj, odkryto, że jest\nto forma życia bliższa nasionom.
+Nazywany jest “Chodzącym Lasem\nRównikowym.” Każdy z kokosów ma własną\ntwarz i osobowość.
+Nosi na głowie czaszkę swojej zmarłej\nmatki. Gdy czuje się samotny, bardzo\ngłośno płacze.
+Od zawsze był mały i bardzo słaby.\nSytuacja zmieniła się, gdy POKéMONY\nte zaczęły używać kości.
+Jego nogi dowolnie rozciągają się.\nDzięki tej zdolności może bezpiecznie\nranić odległego wroga.
+Dusza wspaniałego boksera przepełnia tego\nPOKéMONA. Rozsyła ciosy szybsze niż\nnajszybszy pociąg.
+Jego język jest dwa razy dłuższy niż\njego ciało. Może być poruszany jak dłoń\nłapiąc jedzenie i atakując.
+Jego grube, baloniaste ciało wypełnione\njest trującymi gazami. Dymi, gdy\njest blisko.
+Czasami nagła mutacja powoduje, że dwa\nmałe bliźniacze KOFFINGI zostają\npołączone w WEEZINGA.
+Silny, lecz nie zbyt bystry. Ten POKéMON\npotrafi powalić nawet drapacz chmur\nszarżując PCHNIĘCIEM.
+Po ewolucji zaczyna chodzić na zadnich\nnogach. Swoim rogiem potrafi przebić\nsię przez głazy.
+Składa kilka jaj dziennie. Jaja te bogate\nsą w składniki odżywcze i uznawane są za\nprzysmak.
+Niebieskie pnącza kryją prawdziwą\ntożsamość POKéMONA pod splątaną masą.\nOplątuje wszystko w pobliżu.
+Samica wychowuje swoje dziecko w torbie\nna brzuchu. Jest utalentowanym\nużytkownikiem GRADU CIOSÓW.
+Utrzymuje równowagę dzięki zawiniętemu\nogonkowi. Potrafi strzelać\natramentem z pyszczka.
+Jego ciało najeżone jest kolcami.\nPróba dotknięcia go może skończyć się\nnagłym omdleniem.
+Jego płetwy grzbietowe i piersiowe\npodobne są w budowie do mięśni. Potrafi\npływać z prędkością 5 węzłów.
+Jego róg jest ostry jak wiertło.\nWydłubuje dziury w głazach, by\nstworzyć tam legowisko.
+Spotykany licznie na wybrzeżach.\nNocą, jego środkowa część świeci\nczerwonym blaskiem.
+Ten POKéMON ma geometryczną budowę.\nZ uwagi na kształt, niewykształceni\nludzie traktują go jak kosmitę.
+Mistrz w zabawianiu ludzi. Podobno\npotrafi tworzyć dzięki swym sztukom mima\nściany z powietrza.
+Rozrywa na strzępy ofiarę używając swych\nostrych kos. Rzadko rozkłada skrzydła\ndo lotu.
+Porozumiewa się w języku podobnym do\nludzkiego. Prowadzone są badania, by\nzrozumieć co mówi.
+Uwielbia karmić się elektrycznością.\nCzasami można spotkać go przy wielkich\nelektrowniach itp.
+Spotykany blisko wulkanów.\nTemperatura ciała tego ognistego POKéMONA\nosiąga nawet 1,200 stopni Celsjusza.
+Jego olbrzymie rogi są potężne.\nGdy złapią przeciwnika, nie puszczą go,\npóki go nie rozerwą.
+Gdy chce użyć PCHNIĘCIA, biczuje\nsię kilka razy swoimi długimi\ntrzema ogonami.
+Jest praktycznie bezużyteczny, jeśli chodzi\no siłę i prędkość. To najsłabszy i\nnajbardziej daremny POKéMON świata.
+Ma niesamowicie agresywną naturę.\nHIPERPROMIENIA, którego używa,\ncałkowicie spopiela wszystkie cele.
+Dzięki swej wysokiej inteligencji rozumie\nludzką mowę. Lubi przewozić ludzi\nna swoich plecach.
+Może dowolnie zmieniać swoją strukturę\nkomórkową, by zmieniać się w inne\nformy życia.
+Niesamowicie rzadki POKéMON mogący\newoluować na różne sposoby, zależnie\nod bodźca.
+Budowa jego ciała przypomina cząsteczkowo\nbudowę wody. Potrafi stać się\nniewidzialny w zbiornikach wodnych.
+Przestraszony lub rozzłoszczony, jeży\nswoje futro na całym ciele na kształt\nostrych kolców.
+W swoim ciele posiada torbę na płomienie.\nPo głębokim wdechu potrafi zionąć\nogniem o temperaturze 1,700 stopni.
+Używając zaawansowanej technologii,\nnaukowcom udało się stworzyć pierwszego\nsztucznego POKéMONA.
+Prehistoryczny POKéMON, który żył w\npierwotnym morzu, pływa skręcając swoich\ndziesięć macek.
+Jego macki zbudowane są tak, jakby miały\nsłużyć mu za ręce i nogi. Gryzie, gdy\ntylko złapie ofiarę.
+Ten POKéMON został ożywiony ze\nskamieliny pradawnej istoty. Chroni\nsię w swej twardej skorupie.
+Z łatwością pływa w wodzie. Łapie ofiary\nswoimi łapami przypominającymi kosy i\nwysysa fluidy z ich ciał.
+Został wskrzeszony z materiału\ngenetycznego dinozaura znalezionego\nw bursztynie. Wydaje wysokie dźwięki.
+Nie naje się, jeśli nie zje 400 kilogramów\npożywienia dziennie. Gdy zje swój posiłek,\nnatychmiast idzie spać.
+Jeden z legendarnych POKéMONÓW ptaków.\nWygląda wspaniale w locie, dzięki\nswojemu długiemu ogonowi.
+Jeden z legendarnych POKéMONÓW ptaków.\nW czasie lotu wydaje skrzeczące i\ntrzaskające dźwięki.
+Jeden z legendarnych POKéMONÓW ptaków.\nPosiada niesamowite pomarańczowe\nskrzydła, wyglądające jakby płonęły.
+Nawet młode mogą osiągać 2 metry\ndługości. Rośnie, zrzucając z siebie\nstarą skórę.
+Podobno mieszka w morzach i jeziorach.\nMimo iż nie ma skrzydeł, czasami\nwidziany jest w locie.
+Potrafi latać mimo swojej obszernej\nbudowy ciała. Potrafi okrążyć ziemię w\n16 godzin.
+POKéMON, którego kod genetyczny\nzmieniany był w celach badawczych.\nW rezultacie stał się zdradliwy.
+POKéMON z Pd. Ameryki, do tej pory\nuważany za wymarłego. Jest\ninteligentny i może poznać każdy ruch.
+Z jego szyi emanuje ostry aromat.\nAromat ten jest stymulantem do\nprzywracania zdrowia.
+Oddech MEGANIUM ma moc wskrzeszania\nzwiędłych roślin i trwa. Może je w pełni\nuzdrowić.
+Zazwyczaj siedzi zgarbiony. W stanach\nzagrożenia, strzela z pleców ostrymi\npłomieniami.
+Ten POKéMON jest w pełni pokryty\nognioodpornym futrem. Może znieść każdy\nognisty atak.
+Zna sekretny, niszczycielski ruch.\nPociera o siebie swoje płonące futro,\npowodując eksplozje.
+Jest mały, ale strasznie silny.\nChętnie gryzie wszystko w zasięgu\nwzroku.
+Otwiera swoje wielkie szczęki w\ntrakcie ataku. Jeśli straci zęby\ngryząc, szybko odrastają.
+Ciężko jest mu podtrzymać swój własny\nciężar wychodząc z wody, więc często\nkładzie się na cztery łapy.
+Staje na ogonie, by dokładniej widzieć co\ndzieje się w oddali. Zauważając wroga,\ngłośno krzyczy.
+Ciężko określić, gdzie zaczyna się jego\nogon. Mimo krótkich łap, dość sprawnie\npoluje na RATTATY.
+Ma doskonałe wyczucie czasu. Cokolwiek\nsię nie wydarzy, cały czas rytmicznie\nkiwa głową.
+Gdy chce pomyśleć, obraca głowę o 180\nstopni, by wzmocnić swoje intelektualne\nmoce.
+Gdy robi się zimno, wiele LEDYB\nzbiera się stając blisko siebie, by\nutrzymywać ciepło swoich ciał.
+Gwiezdny wzór na jego plecach rośnie lub\nmaleje w zależności od ilości gwiazd\nna nocnym niebie.
+Tworzy sieć za pomocą silnej i trwałej\nnici. Następnie czeka cierpliwie na\nswoją ofiarę.
+Pojedyncza nić specjalnej sieci\ncały czas wydostaje się z jego odwłoku\nprowadząc do jego gniazda.
+Wykształcone skrzydełka na jego\nnogach pozwalają mu szybko latać,\nale także utrudniają odpoczynek.
+Na mrocznym dnie oceanu, jego jedynym\nśrodkiem komunikacji jest świecenie\nlampkami.
+Oślepia swoją ofiarę silnym strumieniem\nświatła, następnie połyka unieruchomioną\nofiarę.
+Mimo swego małego rozmiaru potrafi\nporazić nawet dorosłych ludzi. Wtedy\njednak zaskakuje nawet siebie.
+Gdy meteory oświetlają nocne\nniebo, zwiększają się doniesienia o\nspotkaniu CLEFFY.
+Jest niezwykle giętki, a jego elastyczne\nciało pozwala mu nieprzerwanie\nodbijać się.
+Przysłowie głosi, że szczęście spotka\nkażdego, kto potrafić będzie obudzić\nśpiącego TOGEPI.
+Bywa przygnębiony, gdy nie zadaje\nsię z miłymi ludźmi. Potrafi lewitować\nbez poruszania skrzydłami.
+Zazwyczaj szuka jedzenia na ziemi, ale\nczasami, choć rzadko, zdarza się, że\nwskakuje na gałęzie.
+W Południowej Ameryce mówi się, że jego\nprawe oko widzi przyszłość, a lewe\nprzeszłość.
+Jego runo rośnie cały czas. W lecie,\ngdy zostaje ścięte, odrasta w pełni w\nciągu tygodnia.
+Jego puchate runo łatwo przechowuje\nelektryczność. Jego gumowa wełna\npomaga zachować ładunek.
+Jasne światło z jego ogona jest widoczne\nz daleka. Od dawnych czasów używane\njako latarnie morskie.
+Licznie zamieszkuje tropiki. Tańcząc,\njego płatki pocierają się o siebie\ntworząc dzwoniący dźwięk.
+Końcówka jego ogona służy jako boja,\ndzięki której nie tonie nawet przy\nporywczych prądach.
+Gdy bawi się w wodzie, składa swoje\nwydłużone uszy, by nie pozwolić na\nzmoknięcie ich wnętrza.
+Maskuje się jako drzewo, by unikać\nataków. Nie cierpi wody, więc znika,\ngdy tylko zaczyna padać.
+Gdy przynajmniej trzy POKéMONY tego\ngatunku spotkają się, śpiewają, głośno\nsię wydzierając.
+Jego ciało jest tak lekkie, że musi\nchwytać się ziemi swoimi łapami,\nby nie być zdmuchniętym.
+Rozkłada płatki, by pochłaniać\nświatło słoneczne. Często wzlatuje,\nby być bliżej słońca.
+Dryfuje na jesiennych wiatrach i\nrozsypuje swoje zarodniki po całym\nświecie, by wydać potomstwo.
+Żyje na wysokich drzewach. Gdy\nprzeskakuje z gałęzi na gałąź, używa\nogona, by utrzymać równowagę.
+Odżywia się kroplami rosy znalezionymi\npod liściami roślin. Podobno żywi się\ntylko tym.
+W czasie dnia biega w szaleńczym\ntempie, ale zatrzymuje się, gdy tylko\nzajdzie słońce.
+Jego wielkie oczy widzą pod kątem\n360 stopni. Patrzy we wszystkich\nkierunkach szukając ofiar.
+Gdy chodzi po twardym gruncie,\npozostawia za sobą szlamową, trującą\nmaź.
+Z uwagi na swoje beztroskie nastawienie,\nczęsto pływając wpada głową na głazy\nalbo przepływające statki.
+Wyczuwając prądy powietrza, może\nprzewidzieć rzeczy takie jak pogoda, czy\nruch oponenta.
+Gdy zapada ciemność, pierścienie na jego\nciele zaczynają świecić, siejąc postrach\nw sercach ludzi.
+Podobno w czasie pościgu, zwabia\natakującego na ciemne szlaki górskie,\ngdzie ten gubi się.
+Gdy został ugryziony w głowę, toksyny\ndostające się do głowy SLOWPOKE'A\nobudziły tajemną moc.
+Kocha gryźć i ciągnąć ludzi za włosy\nod tyłu, bez ostrzeżenia tylko po to, by\nich przerazić.
+Jego płaskie ciało lokuje\nsię zawsze na ścianach. Jego kształt\nma jakieś znaczenie.
+By ukryć swój kruczoczarny ogon,\nżyje spokojnie w ciemnościach. Nigdy nie\natakuje pierwszy.
+Jego ogon, który również zawiera mały\nmózg, może samodzielnie ugryźć,\njeśli zauważy kuszącą rzecz.
+Wisi i czeka na zbliżającą się ofiarę\nw postaci latającego owada. Nie\nporusza się w ogóle.
+Pozostaje niezmiernie zakorzeniony w\nswoim drzewie. Rozprasza kawałki\nskorupy, aby odeprzeć wrogów.
+Jeśli zostanie wykryty, ucieknie, kopiąc\nogonem. Może lekko unosić się za\npomocą skrzydeł.
+Przylega do klifów. Kiedy dostrzega\nswoją zdobycz, rozściela skrzydła\ni ślizga się, aby zaatakować.
+Mówi się, że jeśli ONIX będzie żył ponad\n100 lat, jego kompozycja zmieni się\nna diamentowy kolor.
+Ma aktywny, zabawny charakter. Wiele\nkobiet lubi bawić się z nim ze względu\nna swoje czułe sposoby.
+Ponieważ jego kły są zbyt ciężkie,\nzawsze trzyma głowę pochyloną. \nJednak jego UGRYZIENIE jest mocne.
+Małe kolce pokrywające jego ciało\npowstały z łusek. Wstrzykują toksynę,\nktóra powoduje omdlenie.
+Jego skrzydła nie służą do latania.\nTrzepoczą one z dużą prędkością,\naby dostosować temperaturę.
+Przechowuje JAGODY w swojej muszli.\nAby uniknąć ataków, ukrywa się pod\nskałami i pozostaje nieruchomy.
+Zwykle jest łagodny, ale jeśli\nprzeszkadza mu się popijając miód,\nodpędza intruza swoim rogiem.
+Podstępny w naturze, odpędza\nPIDGEYE ze swoich gniazd i zjada\nim jaja, które zostały w gniazdach.
+Nim zimą zacznie brakować pożywienia,\njego zwyczajem jest gromadzenie\nżywności w wielu miejscach.
+Dzięki umiejętności rozróżniania\nzapachu, niezawodnie znajduje\nkażde głęboko zakopane jedzenie.
+Powszechny widok w obszarach\nwulkanicznych, powoli ślizga się\nw ciągłym poszukiwaniu miejsc.
+Jego skorupa od czasu do\nczasu wydziela intensywne płomienie,\nktóre krążą po jego ciele.
+Jeśli pachnie czymś kuszącym, rzuca\nsię na oślep, aby znaleźć źródło\ntego zapachu.
+Jeśli szarżuje na wroga, włosy na\nplecach stoją mu prosto. Jest bardzo\nwrażliwy na dowolny dźwięk.
+W południowo-zachodnim kraju ludzie\nżyją w społecznościach zbudowanych\nna tych POKéMONACH.
+Używa płetwy grzbietowej jako\nprzyssawki, przylega ona do spodu\nMANTINE'A, by pozbyć się resztek.
+Instynktownie zakrada się w skaliste\ndziury. Jeśli robi się senny, kradnie\ngniazdo innego OCTILLERY.
+Gniazduje na skraju ostrych klifów.\nPrzez cały dzień niesie jedzenie\noczekującym pisklętom.
+Pływając swobodnie po otwartych\nmorzach, może wyskoczyć z wody i nad\nfalami, jeśli osiąga dobrą prędkość.
+Po gniazdowaniu w krzakach jeżozwierza\nskrzydła piskląt stają się twarde od\nzadrapań cierni.
+Aby rzucić łupem, sprawdza swoje\npołożenie za pomocą szczeknięć,\nktóre tylko oni rozumieją.
+Po usłyszeniu jego niesamowitego\nwycia, POKéMON dostaje dreszcze i\nwraca prosto do swego gniazda.
+Śpi głęboko na dnie oceanu, aby\nodzyskać energie. Mówi się, że  \npowoduje tornada, gdy się budzi.
+Jako oznaka uczucia, uderza swoim\npyskiem. Jest jednak tak silny, że\nmoże wysłać cię w powietrze.
+Im dłuższe i większe jego kły, tym\nwyższa jego pozycja w swoim stadzie.\nKły bardzo długo rosną.
+Dalsze badania zwiększyły jego\nmożliwości. Może wykazywać ruchy,\nktóre nie zostały zaprogramowane.
+Ci, którzy patrzą na jego poroże,\nstopniowo tracą kontrole nad zmysłami\ni nie mogą się ostać.
+Kiedy staje się dorosłym, ma \ntendencje, aby jego towarzysze\nsadzili ślady stóp na grzbiecie.
+Mimo że jest mały, nie można go\nzignorować, ponieważ bez żadnego\nostrzeżenia podważy każdy cel.
+Uruchamia kopnięcia podczas wirowania.\nJeśli obraca się z dużą prędkością,\nmoże wbić się w ziemie.
+Zawsze przesuwa głowę powoli do\ntylu i do przodu jakby chciała ona\nkogoś pocałować.
+Nawet w najbardziej okrutnej burzy,\nPOKéMON gra radośnie, jeśli grzmot\ndudni na niebie.
+Występuje w kraterach wulkanicznych.\nJego ciepło ciała przekracza 1100 stopni\nCelsjusza, nie lekceważ go.
+Jeśli urodziło dziecko, mleko,\nktóre wytwarza, zawiera więcej\nskładników odżywczych.
+Ma bardzo współczujący charakter.\nJeśli zobaczy chorego POKéMONA, to\nprzywróci zdrowie cierpiącemu.
+Ten POKéMON ściga się na ziemi,\nszczekając krzykiem, który brzmi jak\nrozgrzmiały grzmot.
+POKéMON, który krąży po ziemi. Mówi\nsię, że rodzi się za każdym razem, gdy\npojawia się nowy wulkan.
+Ten POKéMON ściga się po całej ziemi.\nMówi się, że północne wiatry jakoś\nwybuchną, kiedy się pojawi.
+Narodził się głęboko pod ziemią.\nNie może się pojawić, dopóki nie\npochłonie otaczającej ziemi.
+Nawet zamknięty w skorupie, może\nsię swobodnie poruszać. Mocno i\nszybko, ma dużą siłę niszczenia.
+Mówi się, że jest on strażnikiem mórz.\nKrążą plotki, że widziano go podczas\nnocnej burzy.
+Legenda głosi, że jego ciało świeci\nw siedmiu kolorach tęczy. Tęcza\ntworzy się za nim, kiedy leci.
+Kiedy CELEBI znika głęboko w lesie,\nmówi się, że zostawia za sobą jajko\nprzyniesione z przyszłości.
+Szybko skaluje nawet pionowe ściany.\nCzuje wilgotność ogonem, aby     \nprzewidzieć pogodę następnego dnia.
+Silnie rozwinięte mięśnie zapewniają\nmu zdumiewającą sprawność i\nwydajność skokową.
+Liście na przednich kończynach są\nostre jak miecze. Gwałtownie skacze\nna gałęziach drzew, aby uderzyć.
+Ma w środku brzucha płomień, który\nwiecznie płonie. Czuje się ciepło, gdy\njest przytulany.
+Zwiększa koncentracje, emitując\nostre okrzyki. Jego kopnięcia mają\nniesamowitą siłę niszczenia.
+W obliczu twardego wroga wyzwala płomienie z\nnadgarstków. Jego potężne nogi pozwalają mu\nprzeskakiwać nad budynkami.
+Jego duża płetwa ogonowa przepuszcza\ngo przez wodę z silnym przyspieszeniem.\nJest silny pomimo wielkości.
+Najlepszy na błotnistej ziemi ze\nsłabą podstawą. Szybko przytłacza\nprzeciwników walczących w błocie.
+Jego ramiona są twarde jak skała.\nZa jednym zamachem może naładować\nbaterię. Tworzy gniazdo na pięknej plaży.
+Ma bardzo wytrwały charakter. Jego ostry\nwęch pozwala ścigać wybraną ofiarę,\nnie tracąc przy tym tropu.
+Zawsze będzie on przestrzegać poleceń\nwykwalifikowanego TRENERA. Jego\nzachowanie wynika z czasów starożytnych.
+POKéMON z obfitą ciekawością.\nPokazuje zainteresowanie wszystkim,\nwięc zawsze robi zigi i zagi.
+Podczas biegu w linii prostej może osiągać prędkość\n100 kilometrów na godzinę. Trudno mu jest jednak\npędzić po zakrzywionych drogach.
+Żyje wśród wysokiej trawy i lasów.\nKiedy zostaje zaatakowany, opiera się,\nwskazując wrogom na jadowite kolce.
+Oszczędza on energię, poruszając się\njak najmniej. Oczekuje ewolucji pijąc   \ntylko niewielką ilość wody deszczowej.
+Pomimo swojego wyglądu ma on\nagresywny charakter. Atakuje on,\ndźgając długimi, cienkimi ustami.
+Jego ciało wykonane jest z miękkiego\njedwabiu. Gdy pojawiają się\npęknięcia, ewolucja jest bliska.
+Rozprasza straszliwie toksyczny pył,\nkiedy wyczuwa niebezpieczeństwo. \nGromadzi się w blasku latarni ulicznych.
+Szuka czystej wody. Jeśli nie\npije wody zbyt długo, liść na\ngłowie więdnie.
+Żyje na skraju wody, gdzie jest\nsłonecznie. Śpi na łóżku z trawy wodnej\nw dzień i staje się aktywny w nocy.
+Rytm jasnej, świątecznej muzyki\naktywuje komórki LUDICOLO, czyniąc\ngo silniejszym.
+Jeśli pozostanie w bezruchu, nie da się\ngo odróżnić od prawdziwych orzechów.\nZachwyca on żerowaniem PIDGEYÓW.
+Żyją w otworach wydrążonych w dużych drzewach.\nDźwięk fletowej trawy Nuzleafa napełnia\nsłuchaczy strachem.
+POKéMON, którego obawiano się go\njako opiekuna leśnego. Może odczytać\numysł wroga i podjąć działania.
+Nie lubi zimmych pór roku. Leci do\ninnych krajów w poszukiwaniu ciepła,\nlatając ponad 180 mil dziennie.
+Jeśli jego dwa pióra ogona stają na\nbaczność, jest on dowodem dobrego\nzdrowia. Szybko wznosi się na niebie.
+Porusza się na wiatrach oceanu, jakby\nbył szybowcem. Zimą ukrywa pokarm\nwokół swojego gniazda.
+To latający transporter niosący małe\nPOKéMONY w swoim dziobie. Szybuje\nna falach, żeby sobie odpocząć.
+Jest bardzo dostrojony do emocji ludzi\ni POKéMONÓW. Ukrywa się, kiedy\nwyczuwa wrogość.
+Wesoły duch TRENERA dodaje energii\ndo swojej psychokinetycznej mocy.\nObraca się i tańczy, gdy jest szczęśliwy.
+Ma moc przewidywania przyszłości. Jego\nmoc osiąga szczyt, kiedy chroni swojego\nTRENERA.
+Zwykle żyje na stawach, ale po\nwieczornym prysznicu może pojawić\nsię na kałużach w miastach.
+Anteny mają charakterystyczne wzory, które\nwyglądają jak oczy. Kiedy pada, stają\nsię ciężkie, co uniemożliwia mu latanie.
+Preferuje wilgotne miejsca. Za dnia\npozostaje w cieniu lasu. Uwalnia\ntoksyczny proszek z swojej głowy.
+Nasiona na jego ogonie są wykonane z\ntoksycznych zarodników. Uderza\nprzeciwników za pomocą szybkich ciosów.
+Śpi 20 godzin dziennie. Senność tych,\nktórzy go widzą, jest jedną z jego\numiejętności.
+Jest zawsze głodny, ponieważ nie\nprzestaje szaleć. Nawet podczas jedzenia\nnie może on ustać.
+Jest to najbardziej leniwy Pokémon\nna świecie. Może jednak wyzwolić przerażającą moc, uwalniając jednocześnie stłumioną\nenergię.
+Ponieważ żył prawie całkowicie\npod ziemią, jest prawie ślepy.\nZamiast tego używa swoich anten.
+Ten POKéMON jest szybki, mówi się,\nże jest w stanie uniknąć atak. Lubi\nkarmić się sokiem drzewnym.
+Najbardziej charakterystyczny POKéMON,\nktóry pojawia się w POKé BALLU, gdy\newoluuje.
+Mruczy, ale zaczyna głośno płakać,\ngdy wyczuje niebezpieczeństwo.\nZatrzymuje się, gdy uszy są zamknięte.
+Gdy stempluje stopy i miechy, generuje\non fale ultradźwiękowe, które mogą\nnawet rozerwać dom.
+Emituje on różnorodne dźwięki z dziur w\nswoim całym ciele. Jego głośne okrzyki\nmożna usłyszeć z ponad sześciu mil.
+Zwiększa się dzięki ciężkiemu treningowi.\nTo odważny POKéMON, który potrafi\nwytrzymać każdy atak.
+Tupie on na ziemi, aby zbudować moc.\nMoże wysłać 10-tonowa ciężarówkę z\nswoim prostym ramieniem.
+Walczy, rzucając się wokół ogona,\nktóry jest większy niż jego ciało. Ogon\njest urządzeniem pływającym w wodzie.
+Jego magnetyczny nos konsekwentnie\nskierowany jest na północ. Podróżni\nużywają NOSEPASSA.
+Mówi się, że trudno jest zdobyć jego\nzaufanie. Jest jednak niezwykle popularny\nze względu na ładny wygląd.
+Ulubiony trenerski model TRENERÓW,\nktóry używany jest w rywalizacji o\nswój koci styl oraz futro.
+Żywi się kryształami kamieni\nszlachetnych. W ciemności jego\noczy błyszczą blaskiem.
+Używa swojej potulnie wyglądającej\ntwarzy, aby uciszyć wrogów, a potem\ngryzie swoją ogromną szczęką.
+Zjada on żelazo do budowy swojego\nkorpusu. To szkodnik, który schodzi z\ngór do mostów i torów kolejowych.
+Zazwyczaj pokazuje swoją siłę wraz z\nwielkością iskier, które tworzy,\nwtłaczając stalowe ciało w głazy.
+Twierdzi, że jego jedynym obszarem\njest góra. Bezlitośnie bije tych, którzy\nnaruszają jego przestrzeń.
+Nigdy nie opuszcza codziennego treningu\njogi. Wzmacnia wewnętrzną siłę poprzez\nmedytacje.
+Elegancko unika ataków tanecznymi krokami,\na następnie\nwykonuje druzgocący cios podobnym ruchem.
+Przechowuje elektryczność statyczną\nw futrze w celu rozładowania. Daje\niskry, gdy zbliża się burza.
+Rzadko pojawia się przed ludźmi.\nMówi się, że gniazduje tam, gdzie\npada piorun.
+Kibicuje partnerom, rozpraszając iskry\nz jego ciała. Wspina się na słupy\ntelefoniczne, by absorbować energie.
+Jego niechęc do wody sprawia, że chroni\nsię pod okapem domów podczas deszczu.\nUżywa on pompek z iskier do dopingu.
+Żyje wokół czystych stawów. W nocy\ntylne światła się zapalają. Rozmawia z\ninnymi, błyskając swym światłem.
+Prowadzi VOLBEATA do rysowania znaków\nna nocnym niebie. Są naukowcy, którzy\nbadają wzorce, które tworzy.
+Jego kwiaty wydzielają relaksujący\nzapach. Im silniejszy jest aromat, tym\nzdrowsza jest ROSELIA.
+Nie ma niczego, czego jego żołądek nie może\nstrawić. Podczas trawienia wydalane są nikczemne,\nprzytłaczające gazy.
+Może połknąć całą oponę jednym haustem.\nWydziela strasznie toksyczny płyn\nz porów na ciele.
+Żyje on w rzekach biegnących\nprzez dżungle. Roi się od ofiary,\nktóra wkracza na jego terytorium.
+Drab mórz, ma kły, które mogą schrupać\nstal. Pływa poprzez wystrzeliwanie wody\nze swojego tyłu.
+Gdy zasysa dużą ilość wody morskiej,\nstaje się jak wielka sprężysta piłka.\nCodziennie spożywa tonę jedzenia.
+Jest to jeden z największych POKéMONÓW.\nStada żerują w paczce, a potem połykają\nofiarę jednym haustem.
+Magma prawie 2200 stopni Fahrenheita\nprzechodzi przez jego ciało. Kiedy robi\nsię zimno, magma twardnieje i spowalnia.
+Gdy jest rozgniewany, grzbiety wybuchają\npod prysznicem roztopionej lawy. Żyje\non w kraterach wulkanów.
+Spala węgiel w skorupie. Jeśli zostanie\nzaatakowany, wytwarza gęsty, czarny dym\ni ucieka.
+Najwyraźniej umiera, jeśli przestanie\npodskakiwać. Nosi on perłę od\nCLAMPERLA na głowie.
+Może uzyskać kontrolę nad wrogami\nwykonując dziwne kroki taneczne.  \nCzarne perły na czole są klejnotami.
+Nie mówi się, że dwie SPINDY mają\nidentyczne wzory. Powoduje zamieszanie\nwrogów swoimi ruchami.
+Żyje na suchych pustyniach. Tworzy\nopadającą pułapkę w piasku, gdzie cierpliwie\nczeka na zdobycz.
+Generuje fale ultradźwiękowe gwałtownie\ntrzepocząc skrzydłami. Po zemdleniu\nofiary topi ofiarę trującym kwasem.
+Ukrywa się kopiąc pusty piasek za\npomocą skrzydeł. Czerwone osłony\nchronią oczy przed piaskiem.
+Preferuje trudne warunki, takie jak pustynie. Może przetrwać\n30 dni\nna wodzie zmagazynowanej w swoim ciele.
+Żyje on na pustyniach. Uaktywnia się w\nnocy, kiedy poluje na ofiarę wyczerpaną\ngorącą pustynią.
+Stale pielęgnuje bawełniane\nskrzydła. W przypadku zabrudzenia\nbierze prysznic.
+Jeśli słyszysz piękną melodię, która rozlega\nsię głęboko w górach daleko od ludzi,\nto jest buczenie Altarii.
+Jeśli natknie się na SEVEPERA, jego\nfutrzaste łapy przejmują jego pozę\nbojową. Jego ostre pazury są jego bronią.
+Wyostrza swój mieczopodobny ogon na\ntwardych skałach. Chowa się w wysokiej\ntrawie i uderza jadowitymi kłami.
+Jego zdrowie odpływa i płynie wraz z\ncyklem księżycowym. Pełni moc po\nwystawieniu na działanie księżyca w pełni.
+W ciągu dnia pochłania energię\nsłoneczną. Zawsze bez wyrazu wyczuwa, co\nmyśli jego wróg.
+Sprawdza błotniste koryta rzeki\ndługimi wąsami. Oślizgła błona chroni\njego ciało.
+Tworzy swoje gniazdo na dnie bagien.\nBędzie jadł wszystko - jesli coś żyje,\nto WHISCASH go zje.
+Pochodzi z zagranicy. Jest to bardzo\nodporne stworzenie, które szybko się\nrozprzestrzeni, nawet w brudach.
+Szorstki klient, który dziko macha\ngigantycznymi pazurami. Mówi się,\nże trudno go trenować.
+Został odkryty w starożytnych ruinach.\nPodczas ruchu stale się kręci. Staje na\njednej stopie, nawet kiedy śpi.
+Wygląda na to, że urodził się z\nglinianej lalki stworzonej przez ludzi.\nUżywa telekinezy, aby unosić się.
+Zginął około 100 milionów lat temu.\nZostał zregenerowany ze skamieliny przy\nużyciu zaawansowanych technik.
+Łapie ofiarę ośmioma mackami. Następnie\nprzed karmieniem topi on ofiarę swoim\nsilnym kwasem.
+Jest rodzajem progenitora POKéMON.\nUżywa swoich przedłużających się pazurów,\naby złapać zdobycz ukrywającą się.
+Chroniony przez twardą skorupę, jego\nciało jest bardzo mocne. Szaszłyki\ndrapieżne z pazurami.
+Ze względu na swój brzydki wygląd,\njest ignorowany przez badaczy. Żyje w\nstawach zatkanych chwastami.
+MILOTIC jest oszałamiająco piękny.\nCi, którzy go widzą, zapominają o\nswoim wojowniczym duchu.
+Ma zdolność zmiany formy w słońce,\ndeszcz lub chmurę śnieżną, w\nzależności od pogody.
+Zmienia kolor ciała, by wtopić się w\notoczenie. Zmienia także kolor, jeśli\njest szczęśliwy lub smutny.
+Uwielbia karmić się uczuciami, takimi jak\nzazdrość i złośliwość. Jego pionowy\nróg chwyta emocje.
+Silne uczucie nienawiści zmieniło\nmarionetkę w POKéMONA. Jeśli otwiera\nusta, przeklęta energia ucieka.
+Stając się niewidocznym, cicho podkrada\nsię do ofiary. Ma zdolność prześlizgnięcia\nsię przez ściany.
+Jego ciało jest całkowicie puste. Kiedy\notwiera usta, wciąga wszystko tak, jakby\nbyła czarna dziura.
+Żyje w tropikalnej dżungli. Pęczek\nowoców na jego szyi jest pyszny. Owoce\nrosną dwa razy w roku.
+Podróżuje z wiatrem. Sprytnie używa swojego\ndługiego ogona do zrywania orzechów\ni jagód, które uwielbia jeść.
+Pojawia się, kiedy wyczuwa nadchodzącą\nklęskę żywiołową. W rezultacie został\nbłędnie uznany za zagładę.
+Ma tendencje do poruszania się w paczce.\nGromadzą się w ciasnej grupie,\nby spać w jaskini.
+Mówi się, że dom odwiedzany przez\nSNORUNTA będzie prosperować. Może\nwytrzymać w minus 150 stopni Fahrenheita.
+Ma bryłę lodu, która nie rozpuści się,\nnawet w ogniu. Może natychmiast zamrozić\nwilgoć w atmosferze.
+Jego ciało pokryte jest puszystym\nfutrem. Futro chroni przed zimnem\npodczas toczenia się na lodzie.
+Dotyka on nowych rzeczy nosem, aby\nsprawdzić zapach i odczucie. Bawi \nsię obracając SPHEALA na nosie.
+Płynie przez lodowate morza, rozbijając kry\nlodowymi dużymi kłami. Jest chroniony\nprzez grubą warstwę tłuszczu.
+Jest chroniony przez solidną skorupę.\nRaz w życiu tworzy on wspaniałą\nperłę.
+Żyje głęboko w morzu, gdzie światło\nnigdy nie jest filtrowane. Zapala swój\nmały ogon, by przyciągnąć ofiarę.
+Jego forma pływacka jest niezwykle\nelegancka. Dzięki cienkim ustom zjada\nwodorosty, które są pod kamieniami.
+Pozostał niezmieniony przez 100\nmilionów lat. Został odkryty podczas\neksploracji głębinowych.
+Podczas sezonu niezliczone LUVDISCI\ngromadzą się na rafach koralowych,\nzmieniając wodę na różową.
+Jego twarda jak stal głowa może\nroztrzaskać głazy. Ma nadzieje, że\nniedługo będzie mógł latać.
+Jego zbrojne ciało sprawia, że wszystkie\nataki odbijają się. Pancerz jest jednak\nzbyt mocny, co czyni go ciężkim.
+Staje się nieposłuszny, jeśli jest\nwściekły. Niszczy wszystko, szarpiąc\npazurami i ziejąc ogniem.
+Używa fal magnetycznych do rozmawiania\nze swym gatunkiem. Każda komórka\njest magnetyczna.
+Lata w powietrzu za pomocą magnetyzmu.\nJego ciało jest mocne, że nawet\nzderzenie nie pozostawi zadrapania.
+Tworzą go dwa złączone METANGI.\nMówi się, że jego cztery mózgi są\nlepsze od superkomputerów.
+Jest w całości złożony z kamieni bez\noznak mózgu lub serca. Jest to zagadka\nnawet dla współczesnych naukowców.
+Badania wykazały, że ciało zbudowane\njest z tego samego rodzaju lodu, który\njest na Biegunie Pd.
+Jest mocniejszy niż jakikolwiek metal.\nStwardniał z powodu ciśnienia pod\nziemią przez dziesiątki tysięcy lat.
+Może telepatycznie komunikować się z\nludźmi. Zmienia swój wygląd za pomocą\ntego, co załamuje światło.
+Ma łagodny temperament i nie lubi walki.\nChowając się w przednich łapach, umie\nlatać szybciej niż odrzutowiec.
+Mówi się, że ten POKéMON rozszerzył\nmorze, przynosząc ulewne deszcze.\nMa siłę kontrolowania wody.
+Mówi się, że legendarny POKéMON\nreprezentuje ziemie. Poszedł spać po\npojedynku z KYOGREM.
+Żyje od setek milionów lat w warstwie\nozonowej. Jego latająca forma wygląda\njak deszcz meteorytów.
+Mówi się, że każde życzenie spełni się.\nJest przebudzony tylko przez siedem dni\nna tysiąc lat.
+Ten DEOXYS przekształca się w agresywną\npostać. Może oszukać wrogów,  \nzmieniając swój wygląd na inny.
+<<< FILE: src/data/pokemon/pokedex_text_lg.h >>>
+To jest nowo odkryty POKéMON. Aktualnie\nprowadzone są nad nim badania. Chwilowo\nbrak jakichkolwiek innych informacji.
+Dziwne nasiono zostało zasadzone na jego plecach od urodzenia. Roślina się rozwija i rośnie z tym Pokémonem.
+Kiedy bulwa na plecach powiększa się, wydaje\nsię tracić zdolność do stania na\ntylnych nogach.
+Roślina kwitnie, gdy pochłania energię\nsłoneczną. Pozostaje w ruchu, szukając światła\nsłonecznego.
+Preferuje gorące rzeczy. Kiedy\npada, mówi się, że para tryska\nz czubka ogona.
+Kiedy macha płonącym ogonem, podnosi\ntemperaturę powietrza do nieznośnie\nwysokich poziomów.
+Pluje ogniem, który jest wystarczająco gorący, aby\nstopić głazy. Może to spowodować pożary lasów przez\ndmuchanie płomieni.
+Po urodzeniu plecy puchną i\ntwardnieją w skorupę. Silnie rozpyla\npianę z ust.
+Często chowa się w wodzie, aby prześladować\nnieostrożną ofiarę. Aby szybko pływać, porusza\nuszami, aby zachować równowagę.
+Dysze wodne pod ciśnieniem na tej skorupie\nbrutalnego Pokémona są używane do\nszybkich starć.
+Jego krótkie stopy są zakończone przyssawkami,\nktóre pozwalają mu niestrudzenie wspinać się po\nzboczach i ścianach.
+Ten Pokémon jest podatny na atak, gdy jego\nskorupa jest miękka, odsłaniając swoje słabe\ni delikatne ciało.
+Podczas bitwy trzepocze skrzydłami z dużą\nprędkością, aby uwolnić w powietrze wysoce toksyczny\npył.
+Często spotykany w lasach, jedzący liście.\nMa ostre żądło na głowie, którym\nwstrzykuje truciznę.
+Niemal niezdolny do poruszania się, ten Pokémon może\ntylko utwardzić swoją skorupę, aby chronić\nsię, gdy jest w niebezpieczeństwie.
+Leci z dużą prędkością i atakuje dużymi\njadowitymi żądłami na przednich\nłapach i ogonie.
+Powszechny widok w lasach i lasach. Macha\nskrzydłami na poziomie gruntu, by podnieść\noślepiający piasek.
+Pokémon, bardzo ochronny na swoim\nrozległym obszarze terytorialnym,\nzaciekle dziobnie każdego intruza.
+Podczas polowania szybuje z dużą prędkością\npo powierzchni wody, aby złapać nieostrożne\nofiary, takie jak Magikarp.
+Gryzie wszystko, gdy atakuje. Mały i bardzo\nszybki, to powszechny widok w wielu\nmiejscach.
+Używa wąsów, aby utrzymać równowagę.\nNajwidoczniej zwalnia, jeśli\nzostaną odcięte.
+Zjada robaki w obszarach trawiastych. Musi machać krótkimi\nskrzydłami z dużą prędkością, aby pozostać\nw powietrzu.
+Dzięki ogromnym i wspaniałym skrzydłom może unosić\nsię w górze bez konieczności lądowania na\nodpoczynek.
+Poruszając się cicho i bezszelestnie, zjada\njaja ptaków, takich jak Pidgeyi i\nSpearowów, w całości.
+Mówi się, że dzikie znamiona ostrzegawcze na\njego brzuchu różnią się w zależności od\nmiejsca.
+Kiedy kilka takich Pokémonów się zbierze, ich\nelektryczność może się nagromadzić i spowodować\nburze z piorunami.
+Długi ogon służy jako uziemienie do\nochrony przed własną energią wysokiego\nnapięcia.
+Drąży głęboko pod ziemią w suchych miejscach z dala\nod wody. Wyłania się tylko po to, by polować na\njedzenie.
+Gdy jest zagrożony, zwija się w\nkolczastą piłkę. Zwinięty, może się toczyć, aby\nzaatakować lub uciec.
+Chociaż jadowite kolce są małe, sprawiają, że\nten Pokémon jest niebezpieczny. Samica ma\nmniejsze rogi.
+Rogi samicy rozwijają się powoli.\nPreferuje ataki fizyczne, takie jak drapanie\ni gryzienie.
+Jej twarde łuski zapewniają silną ochronę. Używa\nswojej ogromnej masy do wykonywania\npotężnych ruchów.
+Usztywnia uszy, aby wyczuć niebezpieczeństwo.\nIm większe rogi, tym silniejszy\njest jego wydzielany jad.
+Agresywny Pokémon, który szybko\natakuje. Róg na głowie wydziela\npotężny jad.
+Podczas bitwy używa potężnego ogona, by\nzmiażdżyć, udusić, a następnie złamać kości\nofiary.
+Dzięki swojej magicznej i uroczej urodzie ma wielu\nwielbicieli. Jest rzadki i występuje tylko w\nniektórych obszarach.
+Nieśmiały wróżkowy Pokémon, rzadko widywany,\nucieknie i ukryje się w chwili, gdy wyczuje\nludzi.
+Kiedy się rodzi, ma tylko jeden śnieżnobiały\nogon. Ogon rozdziela się od czubka, gdy\nsię starzeje.
+Bardzo bystry i mściwy. Złapanie jednego\nz jego wielu ogonów może skutkować\ntysiącletnią klątwą.
+Kiedy jego wielkie oczy się rozświetlają,\nśpiewa tajemniczo kojącą melodię,\nktóra usypia wrogów.
+Ciało jest miękkie i gumowate.\nRozgniewany zasysa powietrze i napełnia\nsię do ogromnych rozmiarów.
+Tworzy kolonie w wiecznie ciemnych miejscach i\nwykorzystuje fale ultradźwiękowe do identyfikowania\ncelów i zbliżania się do nich.
+Po zaatakowaniu nie przestanie pobierać energii\nod ofiary, nawet jeśli stanie się zbyt ciężki,\naby latać.
+W ciągu dnia ukrywa twarz w\nziemi. W nocy błąka się, sadzając\nnasiona.
+Płyn, który sączy się z jego ust, to nie ślina.\nJest to nektar wykorzystywany do przyciągania\nzdobyczy.
+Im większe płatki, tym bardziej toksyczny\npyłek zawiera. Jego duża głowa jest ciężka i\ntrudna do utrzymania.
+Zagrzebuje się, aby ssać korzenie drzew. Grzyby na\ngrzbiecie rosną, czerpiąc składniki odżywcze z\nrobaczego żywiciela.
+Para gospodarz-pasożyt, w której pasożyt\nprzejął robaczego gospodarza. Preferuje\nwilgotne miejsca. 
+Żyje w cieniu wysokich drzew, gdzie\nzjada robaki. W nocy przyciąga go\nświatło.
+Łuskowate łuski pokrywające jego skrzydła\nsą oznaczone kolorami, aby wskazać\nrodzaj trucizny.
+Mieszka około 1 metr pod ziemią, gdzie żywi\nsię korzeniami roślin. Czasami pojawia się na\npowierzchni.
+Zespół trojaczków Diglett. Wywołuje\nogromne trzęsienia ziemi, kopiąc 100 km\npod ziemią.
+Uwielbia okrągłe obiekty.\nWędruje nocą po ulicach, szukając\nporzucone drobne
+Chociaż jego futro ma wielu wielbicieli, trudno jest\ngo hodować jako zwierzę domowe ze względu na jego\nkapryśną podłość.
+Usypiając swoich wrogów pustym wzrokiem,\nten przebiegły Pokémon używa mocy\npsychokinetycznych.
+Często postrzegany jak pływa elegancko\nnad brzegiem jeziora. Często mylony jest z\njapońskim potworem Kappa.
+Niezwykle szybko się gniewa. W\njednej chwili może być uległy, a w\nnastępnej szaleje.
+Zawsze wściekły i skłonny do kopnięcia.\nNie porzuci pogoni za zwierzyną,\ndopóki jej nie złapie.
+Bardzo opiekuńczy na punkcie swojego terytorium.\nBędzie szczekać i gryźć, aby odeprzeć\nintruzów z obszaru.
+Pokémon, który był podziwiany od przeszłości\nza swoje piękno. Biega zwinnie jak na\nskrzydłach.
+Nowo wyhodowane nogi uniemożliwiają mu\ndobre chodzenie. Wydaje się, że\nwoli pływać niż chodzić.
+Może żyć w wodzie lub poza nią. Po wyjściu\nz wody nieustannie się poci, aby utrzymać ciało\nśluzowate.
+Pływak biegły zarówno w kraulu, jak i w\nstylu klasycznym. Z łatwością wyprzedza\nnajlepszych pływaków.
+Wykorzystując umiejętność czytania w myślach, wyczuje\nnadciągające niebezpieczeństwo i teleportuje się w bezpieczne\nmiejsce.
+Emituje ze swojego ciała specjalne fale\nalfa, które wywołują bóle głowy, jak będzie\nblisko.
+Jego mózg potrafi przewyższyć superkomputer.\nMówi się, że jego IQ (iloraz inteligencji)\nwynosi 5,000.
+Uwielbia budować mięśnie. Trenuje we wszystkich\nstylach sztuk walki, aby stać się jeszcze\nsilniejszym.
+Jego muskularne ciało jest tak potężne, że musi\nnosić pas oszczędzający energię, aby móc\nregulować swoje ruchy.
+Wykorzystując swoje ciężkie mięśnie, rzuca\npotężnymi ciosami, które mogą posłać ofiarę za\nhoryzont.
+Mięsożerny Pokémon, który łapie i zjada robaki.\nWydaje się, że wykorzystuje swoje korzenie do\nuzupełnienia wilgoci.
+Wypluwa trujący proszek, aby unieruchomić\nwroga, a następnie wykańcza go\nsprayem kwasowym.
+Mówi się, że żyje w wielkich koloniach\ngłęboko w dżungli, chociaż nikt nigdy\nstamtąd nie powrócił.
+Dryfuje na płytkich morzach. Wędkarze, którzy\nzaczepią ich przypadkowo, często są karani\nprzez jego żądła.
+Macki zwykle są krótkie. Podczas polowań\nsą one wydłużane w celu usidlenia i\nunieruchomienia ofiary.
+Znalezione w polach i górach. Myląc je z\ngłazami, ludzie często nadepną na nie lub potkną\nsię o nie.
+Stacza się po zboczach, aby się poruszać. Toczy\nsię po każdej przeszkodzie bez spowalniania lub\nzmiany kierunku.
+Ciało przypominające głaz jest niezwykle\ntwarde. Może z łatwością wytrzymać wybuchy\ndynamitu bez obrażeń.
+Jego kopyta są 10 razy twardsze niż\ndiamenty. Potrafi zadeptać wszystko na\nmiazgę w krótkim odcinku czasu.
+Bardzo konkurencyjny, ten Pokémon będzie ścigał\nwszystko, co porusza się szybko w nadziei na ściganie\nsię z nim.
+Niezwykle powolny i głupkowaty. 5 sekund\nmija, zanim poczuje ból, gdy jest\natakowany.
+Mówi się, że Shellder, który\nzaczepia się o ogon Slowpoke, żeruje na\nresztkach gospodarza.
+Wykorzystuje antygrawitację do utrzymania\nsię. Pojawia się bez ostrzeżenia i używa Fali\nPiorunów i podobnych ruchów.
+Utworzony przez kilka połączonych ze sobą\nMagnemite'ów. Często pojawiają się, gdy rozbłyskują\nplamy słoneczne.
+Trzymana przez nią łodyga jest jego bronią.\nŁodyga jest używana jak miecz do cięcia wszelkiego\nrodzaju rzeczy.
+Ptak, który rekompensuje swoje słabe latanie dzięki\ndużej prędkości stopy. Pozostawia gigantyczne\nślady stóp.
+Wykorzystuje swoje trzy mózgi do wykonywania złożonych\nplanów. Mówi się, że podczas gdy dwie głowy śpią, jedna\ngłowa pozostaje przytomna.
+Wystający róg na głowie jest bardzo twardy.\nSłuży do przebijania się przez grube góry\nlodowe.
+Przechowuje energię cieplną w ciele.\nPływa w stałych ośmiu węzłach nawet w\nbardzo zimnych wodach.
+Pojawia się w brudnych obszarach. Rozwija się\npoprzez zasysanie zanieczyszczonego szlamu\nwypompowywanego z fabryk.
+Grubo pokryty brudnym, wrednym szlamem.\nJest tak toksyczny, że nawet jego odciski stóp\nzawierają truciznę.
+Twarda muszla odeprze każdy rodzaj ataku. Jest podatny\nna atak tylko wtedy, gdy jego muszla jest\notwarta.
+Po zaatakowaniu wystrzeliwuje rogi w szybkich\nsalwach. Jego wnętrzności nigdy nie były\nwidoczne.
+Niemal niewidoczny, ten gazowy\nPokémon obejmuje cel i usypia go bez\nuprzedzenia.
+Mówi się, że ze względu na jego zdolność do\nfazowania przez ściany bloków pochodzi z innego\nwymiaru.
+W noc pełni księżyca, jeśli cienie poruszają\nsię same i śmieją się, musi to być\nsprawka Gengara.
+W miarę rozwoju kamienne części jego\nciała twardnieją i stają się podobne\ndo czarnych diamentów.
+Usypia wrogów, a następnie je\nich sny. Czasami choruje od jedzenia\nzłych snów.
+Kiedy spojrzy na wroga, użyje kombinacji\nruchów PSI, takich jak Hipnoza\ni Konfuzja.
+Jego szczypce są nie tylko potężną bronią, ale\nsłużą do zachowania równowagi podczas chodzenia\nbokiem.
+Większe szczypce mają siłę zgniatającą 10,000 koni\nmechanicznych. Jednak ich ogromny rozmiar sprawia,\nże ​​są nieporęczne w użyciu.
+Zwykle występuje w elektrowniach.\nŁatwo mylony z Poké Ballem,\nporaził wielu ludzi.
+Przechowuje energię elektryczną pod bardzo\nwysokim ciśnieniem. Często wybucha z niewielką lub\nżadną prowokacją.
+Często są mylone z jajkami.\nNiespokojne, szybko zbierają się i atakują\nw rojach.
+Legenda głosi, że w rzadkich przypadkach\njedna z jego głów spadnie i będzie kontynuować\njako Exeggcute.
+Ponieważ nigdy nie zdejmuje czaszkowego hełmu, nikt\nnigdy nie widział prawdziwej twarzy tego\nPokémona.
+Kość, którą trzyma, jest jego kluczową\nbronią. Rzuca kością umiejętnie niczym\nbumerangiem, aby znokautować cele.
+W pośpiechu jego nogi stopniowo\nsię wydłużają. Biegnie płynnie bardzo\ndługimi, z susem krokami.
+Choć najwyraźniej nic nie robi, strzela\npięściami w szybki błyskawicznych salwach, których\nnie można zobaczyć.
+Jego język może się wydłużyć\njak język kameleona. Pozostawia\nmrowienie, gdy liże wrogów.
+Ponieważ przechowuje w swoim ciele kilka rodzajów\ntoksycznych gazów, ma skłonność do\neksplodowania bez ostrzeżenia.
+Tam, gdzie spotykają się dwa rodzaje trujących gazów,\ndwa Koffingi mogą połączyć się w Weezinga\nprzez wiele lat.
+Jego masywne kości są 1000 razy twardsze\nniż kości ludzkie. Może z łatwością posłać\nprzyczepę w górę.
+Chroniony przez zbrojo-podobną skórę, może\nżyć w stopionej lawie o Fahrenheita; 2,000\nstopni Celsjusza.
+Rzadki i nieuchwytny Pokémon, który podobno\nprzynosi szczęście tym, którym uda się\ngo zdobyć.
+Całe ciało pokryte jest szerokimi winoroślami\npodobnymi do wodorostów. Pnącza kołyszą\nsię podczas spaceru.
+Niemowlę rzadko wychodzi z ochronnej\ntorby swojej matki, dopóki nie osiągnie\nwieku 3 lat.
+Znany ze zestrzeliwania latających robaków\nprecyzyjnymi uderzeniami atramentu z\npowierzchni wody.
+Potrafi pływać do tyłu, szybko\ntrzepocząc płetwami piersiowymi i\ngrubym ogonem.
+Płetwa ogonowa faluje jak elegancka\nsuknia balowa, nadając jej przydomek\n"Wodna Królowa".
+W jesiennym okresie tarła można je\nzobaczyć, pływające potężnie w górę rzek i\npotoków.
+Enigmatyczny Pokémon, który może bez wysiłku\nzregenerować każdy odnóż, który straci podczas\nbitwy.
+Jego centralny rdzeń lśni siedmioma\nkolorami tęczy. Niektórzy ludzie cenią\nrdzeń jako klejnot.
+Jeśli mu się przerwie podczas naśladowania,\nnagle podwójnie uderzy sprawcę szerokimi\nrękami.
+Dzięki zwinności i szybkości podobnej do\nninja może stworzyć iluzję, że istnieje\nwięcej niż jeden.
+Kusząco porusza biodrami podczas chodzenia.\nMoże powodować, że ludzie będą z nią\ntańczyć zgodnie.
+Zazwyczaj przebywające w pobliżu elektrowni,\nmogą odejść i spowodować poważne\nawarie w miastach.
+Jego ciało zawsze pali się pomarańczowym blaskiem,\nktóry pozwala mu idealnie chować się w\npłomieniach.
+Jeśli nie zdoła zmiażdżyć wroga\nszczypcami, odwróci się i rzuci\nprzeciwnikiem.
+Kiedy celuje we wroga, wściekle szarżuje,\njednocześnie biczując swoje ciało długimi\nogonami.
+W odległej przeszłości były one nieco\nsilniejsze od strasznie słabych\npotomków, które istnieją dzisiaj.
+Rzadko spotykany na wolności. Ogromny i\nokrutny, jest w stanie zniszczyć całe miasta\nw szale.
+Pokémon, który przez nadmiernie kłusownictwo\njest prawie na skraju wymarcia. Może przewozić\nludzi przez wodę.
+Potrafi skopiować kod genetyczny\nprzeciwnika, aby natychmiast przekształcić\nsię w duplikat wroga.
+Jego kod genetyczny jest nieregularny. Może\nmutować, jeśli zostanie wystawiony na promieniowanie\nz kamieni żywiołów.
+Mieszka blisko wody. Długi ogon jest\nobszyty płetwą, która jest często myloną\nz tą u syreny.
+Gromadzi jony ujemne w atmosferze,\naby wystrzelić pioruny o napięciu\n10000 woltów.
+Podczas magazynowania energii cieplnej w ciele\njej temperatura może wzrosnąć do ponad\n900 stopni Celsjusza.
+Pokémon, który składa się wyłącznie z kodu programistycznego. Zdolny do swobodnego poruszania się w cyberprzestrzeni.
+Chociaż dawno wyginął, w rzadkich przypadkach\nmoże być genetycznie wskrzeszony ze\nskamielin.
+Mimo silnych kłów i macek wyginął,\ngdy ciężka skorupa uniemożliwiła\nzłapanie zdobyczy.
+Pokémon, który został odtworzony ze\nskamieliny znalezionej na dnie oceanu\ndawno temu.
+Jego smukły kształt jest idealny do pływania.\nTnie ofiarę pazurami i wysysa jej płyny\nustrojowe.
+Okrutny, prehistoryczny Pokémon, który\nrzuca się do gardła wroga z ząbkowanymi,\nprzypominającymi piły kłami.
+Bardzo leniwy. Po prostu je i śpi. W miarę powiększania\nsię jego pulchnego brzucha staje się coraz\nbardziej leniwy.
+Legendarny Pokémon-ptak, który podobno pojawia\nsię straconym osobom, które zgubiły się w\nlodowatych górach.
+Legendarny Pokémon-ptak, który podobno\nwyłania się z chmur, ciskając\nogromnymi błyskawicami.
+Mówi się, że to legendarny Pokémon-ptak\nognia. Każde machnięcie skrzydeł\ntworzy olśniewający blask płomieni.
+Dawno uważany za mitycznego Pokémona do\nniedawna, kiedy znaleziono małą kolonię\nżyjącą pod wodą.
+Mistyczny Pokémon, który emanuje\nłagodną aurą. Mówi się, że ma zdolność\ndo zmiany pogody.
+Bardzo niewielu ludzi kiedykolwiek widziało tego\nPokémona. Mówi się, że jego inteligencja\ndorównuje inteligencji ludzi.
+Został stworzony przez naukowca po latach\nprzerażających eksperymentów z podziałem\ngenów i inżynierii DNA.
+Tak rzadki, że wielu ekspertów wciąż\nuważa go za miraż. Tylko kilka osób widziało\ngo na całym świecie.
+Słodki aromat delikatnie unosi się z liścia\nna głowie. Jest łagodny i uwielbia absorbować\npromienie słoneczne.
+Zapach przypraw pochodzi z szyi. W\njakiś sposób wąchanie sprawia, że ​​chcesz\nwalczyć.
+Aromat powstający z płatków zawiera\nsubstancję, która uspokaja agresywne\nuczucia.
+Jest bojaźliwy i zawsze zwija się w kłębek.\nJeśli zostanie zaatakowany, zapala swoje plecy\nw celu ochrony.
+Uważaj, jeśli odwróci się podczas\nbitwy. Oznacza to, że zaatakuje\nogniem na plecach.
+Jeśli jego gniew osiągnie szczyt, stanie się tak\ngorący, że wszystko, co go dotknie, natychmiast staje\nw płomieniach.
+Dobrze rozwinięte szczęki są potężne i\npotrafią zmiażdżyć wszystko. Nawet jego\nTrener musi być ostrożny.
+Jeśli straci kieł, nowy odrośnie na jego\nmiejscu. W jego pysku zawsze znajduje\nsię 48 kłów.
+Kiedy gryzie masywnymi i\npotężnymi szczękami, kręci głową\ni brutalnie rwie ofiarę.
+Bardzo ostrożny Pokémon, podnosi się za\npomocą ogona, aby uzyskać lepszy widok\nna otoczenie.
+Tworzy ​​gniazdo pasujące do jego długiego i chudego\nciała. Dla innego Pokémona wejście do gniazda\njest niemożliwe.
+Zawsze stoi na jednej nodze. Zmienia stopy\ntak szybko, że ruch rzadko jest\nwidoczny.
+Jego oczy są specjalnie przystosowane.\nKoncentrują nawet słabe światło i umożliwiają\nwidzenie w ciemności.
+Jest bardzo nieśmiały. Będzie się bał się\nporuszyć, jeśli będzie sam. Ale będzie aktywny,\njeśli będzie w grupie.
+Kiedy gwiazdy migoczą na nocnym niebie,\ntrzepocze, rozrzucając świecący\nproszek.
+Leży cały czas w tej samej pozie przez kilka dni\nw sieci, czekając, aż niczego niepodejrzewająca\nofiara zbliży się do niego.
+Tka nić nie tylko z tyłu, ale także z\npyska. Trudno powiedzieć, który\nkoniec jest który.
+Leci tak cicho przez ciemność na czterech\nskrzydłach, że może nie zostać zauważony nawet\ngdy jest w pobliżu.
+Wystrzeliwuje dodatnią i\nujemną elektryczność między końcami\ndwóch anten i razi wrogów.
+Światło, które emituje, jest tak jasne, że może\noświetlić powierzchnię morza z głębokości\nponad pięciu kilometrów.
+Nie ma jeszcze umiejętności przechowywania\nenergii elektrycznej. Może wywołać szok, jeśli jest\nrozbawiony lub zaskoczony.
+Ze względu na niezwykłą, podobną do\ngwiazdy sylwetkę ludzie wierzą, że przybył\ntu na meteorze.
+Ma bardzo miękkie ciało. Jeśli zacznie się\ntoczyć, odbije się od siebie i nie będzie\nmożna go zatrzymać.
+Skorupka wydaje się być wypełniona radością.\nMówi się, że podzieli się szczęściem, jeśli będzie\ntraktowany życzliwie.
+Mówią, że pojawi się przed\ndobrodusznymi, troskliwymi ludźmi i obsypie\nich szczęściem.
+Ponieważ jego skrzydła nie są jeszcze w pełni\nrozwinięte, musi skakać, aby się poruszać.\nZawsze na coś patrzy.
+Mówią, że jest stoi cicho i spokojnie,\nponieważ jednocześnie widzi\nprzeszłość i przyszłość.
+Jeśli w jego ciele gromadzi się elektryczność\nstatyczna, jego runo podwaja się. Dotknięcie\ngo porazi ciebie.
+W wyniku magazynowania zbyt dużej ilości\nenergii elektrycznej rozwinął łaty, w których nawet\npuszysta wełna nie będzie rosła.
+Czubek jego ogona świeci jasno i można go zobaczyć\nz daleka. Działa jak latarnia morska dla\nzagubionych ludzi.
+Bellossomy gromadzą się czasami i wydają\nsię tańczyć. Mówią, że ten taniec to\nrytuał przywołania słońca.
+Czubek ogona, który zawiera olej\nlżejszy od wody, pozwala mu pływać\nbez utonięcia.
+Stojąc spokojnie i uważnie słuchając, może nawet\nstwierdzić, co dzieje się w dzikich, szybko płynących\nrzekach.
+Chociaż zawsze udaje, że jest drzewem,\njego skład wydaje się być bliżej\nskały niż rośliny.
+Jeśli Poliwag i Poliwhirl usłyszą jego\nniosące echem odgłos, odpowiadają\nzbierając się z daleka.
+Aby nie dać się zdmuchnąć przez\nwiatrem, zbierają się w skupiska. Lubią\njednak delikatny wietrzyk.
+Kwiat na czubku głowy otwiera się i\nzamyka, gdy temperatura zmienia się w górę\ni w dół.
+Gdy złapie wiatr, zręcznie kontroluje\nzarodniki bawełny, aby unosić się\nnawet na całym świecie.
+Jego ogon jest tak potężny, że może go użyć do\nzłapania gałęzi drzewa i utrzymania się\nw powietrzu.
+Może nagle spaść z nieba. Jeśli zostanie\nzaatakowany przez Spearowa,\ngwałtownie potrząśnie liśćmi.
+Przetwarza światło słoneczne w energię. W\nciemności po zachodzie słońca zamyka płatki i\nstaje się nieruchomy.
+Jeśli trzepocze skrzydłami naprawdę szybko,\nmoże generować fale uderzeniowe, które\nrozbiją okna w okolicy.
+Ten Pokémon żyje w zimnej wodzie. Gdy na\nzewnątrz zrobi się zimno, opuści wodę,\naby szukać jedzenia.
+Ten beztroski Pokémon ma wyluzowaną\nnaturę. Podczas pływania zawsze wpada na\nkadłuby łodzi.
+Używa cienkich włosów pokrywających jego ciało do\nwykrywania prądów powietrza i przewidywania\ndziałań wroga.
+Ten Pokémon, kiedy jest poruszony,\nchroni się, rozpylając trujący pot ze swoich\nporów.
+Niepokojący i znienawidzony przez wielu,\nuważa się, że przynosi nieszczęście wszystkim,\nktórzy zauważą go w nocy.
+Ma niesamowity intelekt i intuicję.\nNiezależnie od sytuacji pozostaje spokojny\ni opanowany.
+Lubi robić psotne sztuczki, takie jak\nkrzyki i lamenty, aby zaskoczyć ludzi w\nnocy. 
+Kształtami wyglądają hieroglify na\nstarożytnych tablicach. Mówi się, że oba są w\njakiś sposób powiązane.
+Nienawidzi światła i szoku. Jeśli zostanie\nzaatakowany, nadyma swoje ciało, aby napompować\nswój kontratak.
+Jego ogon ma mały mózg. Strzeż się!\nJeśli się zbliżysz, może zareagować na\ntwój zapach i ugryźć.
+Lubi zwiększać grubość skorupy, dodając\nwarstwy kory drzewa. Dodatkowa\nwaga mu nie przeszkadza.
+Całe jego ciało jest osłonięte stalową\npowłoką. To, co czai się w zbroi, jest\ncałkowitą tajemnicą.
+Po zauważeniu, ten Pokémon\nucieka do tyłu, wściekle drążąc\nogonem w ziemi.
+Leci prosto na twarz celu, a następnie\nzaciska się na zaskoczonej ofierze,\naby wstrzyknąć truciznę.
+Jego ciało zostało skompresowane głęboko\npod ziemią. W rezultacie jest jeszcze twardszy\nniż diament.
+Choć wygląda przerażająco, jest tak\nnaprawdę miły i czuły. Jest bardzo\npopularny wśród kobiet.
+Jest bojaźliwy i łatwo go przestraszyć. Jeśli\nzostanie zaatakowany, wymachuje się, by odeprzeć\natakującego.
+Aby wystrzelić trujące kolce, musi\nnapompować swoje ciało, pijąc jednocześnie\n10 litrów wody.
+Macha szczypcami w kształcie oczu, aby\nprzestraszyć wrogów. To sprawia, jakby\n​​miał trzy głowy.
+Jagody, które przechowuje w swojej wazo-podobnej\nskorupie, rozkładają i stają się lepkim\npłynem.
+Ten potężny Pokémon wpycha swój cenny róg\npod brzuchy swoich wrogów, a następnie\nunosi ich i rzuca.
+Jego łapy kryją ostre\npazury. Zaatakowany nagle wysuwa\npazury i zaskakuje wroga.
+Jeśli znajdzie miód, jego półksiężyc\nświeci. Zawsze liże łapy, ponieważ są\nnasiąknięte miodem.
+Mimo, że jest dobrym wspinaczem, woli potrząsnąć\ngrube drzewa przednimi kończynami i jeść\nupadające Jagody.
+Nigdy nie śpi. Musi się poruszać, ponieważ\ngdyby się zatrzymał, jego magmowe ciało się\nochłodziło i stwardniało.
+Skorupa na plecach to po prostu skóra,\nktóra ostygła i stwardniała. Lekkie dotknięcie\nłatwo ją łamie.
+Pociera pysk o ziemię, aby znaleźć i\nwykopać jedzenie. Czasami odkrywa gorące\nźródła.
+Ponieważ długie włosy na całym ciele\nzasłaniają jego wzrok, po prostu ciągle\nszarżuje.
+Ciągle zrzuca i rośnie. Czubek jego\ngłowy jest ceniony jako skarb za jego\npiękno.
+Ma doskonałą celność. Woda, którą wystrzeliwuje,\nmoże uderzyć nawet w poruszającą się ofiarę z\nodległości większej niż 100 metrów.
+Łapie wrogów za pomocą przyssawkowych\nmacek, a następnie rozbija ich twardą\njak skała głową.
+Nosi ze sobą jedzenie przez cały dzień. Istnieją\nopowieści o zagubionych ludziach, którzy zostali uratowani\nprzez jego jedzenie.
+Podczas gdy majestatycznie pływa, nie obchodzi go,\nczy Remoraid przyczepi się do niego, aby pożywić\nsię jego resztkami.
+Jego mocne skrzydła wyglądają na ciężkie, ale\nkości są puste i lekkie, co pozwala mu swobodnie\nlatać po niebie.
+Używa różnego rodzaju odgłosów do\nkomunikowania się z innymi swojego gatunku i do\nścigania zdobyczy.
+Jeśli zostaniesz spalony przez płomienie, które\nwystrzeliwują z jego ust, ból nigdy nie\nzniknie.
+Mówi się, że zwykle chowa się w\npodwodnych jaskiniach. Ziewaniem\nmoże tworzyć wiry.
+Swobodnie porusza długim pyskiem, ale\nponieważ jest tak silny, może być też\nniebezpieczny.
+Ma ostre, twarde kły i chropowatą skórę.\nJego Pchnięcie jest wystarczająco silne,\naby zburzyć dom.
+Ta ulepszona wersja Porygona jest\nprzeznaczona do eksploracji kosmosu. Jednakże\nnie może nawet latać.
+Zakrzywione poroże subtelnie zmieniają przepływ powietrza,\ntworząc dziwną przestrzeń, w której rzeczywistość\njest zniekształcona.
+Specjalny płyn sączy się z czubka ogona.\nWszędzie maluje płynem, aby oznaczyć\nswoje terytorium.
+Zawsze tryska energią. Aby stać się\nsilniejszym, nadal walczy, nawet jeśli\nprzegra.
+Jeśli oczarują Cię jego gładkie, eleganckie,\ntaneczne kopnięcia, możesz dać się\nmocno wwiercić.
+Jej usta są najbardziej wrażliwymi częściami\njej ciała. Zawsze najpierw używa ust do\nbadania rzeczy.
+Obraca ramionami, aby wytworzyć\nprąd, ale łatwo się męczy, więc\nładuje się tylko trochę.
+Za każdym razem, gdy wdycha i\nwydycha, gorący żar kapie z jego\nust i nozdrzy.
+Jej mleko jest pełne składników odżywczych, co\nczyni je doskonałym napojem dla chorych lub\nzmęczonych.
+Każdy, kto zjada choćby jeden kęs\njaja Blissey, staje się niezachwianie opiekuńczy\ni miły dla wszystkich.
+Chmury deszczowe, które je nosi, pozwalają\nmu dowolnie strzelać piorunami. Mówią,\nże zstąpił z błyskawicy.
+Wulkany wybuchają, gdy szczeka. Nie będąc w\nstanie utrzymać swojej ekstremalnej mocy,\nbiegnie po całym lądzie.
+Mówi się, że jest reinkarnacją północnych\nwiatrów, może natychmiast oczyścić brudną,\nmętną wodę.
+Żywi się glebą. Po tym, jak\nzje dużą górę, zasypia, aby mógł\nrosnąć.
+Jego skorupa jest twarda jak blacha, a także\njest bardzo mocna. Jego młócenie może\nprzewrócić góry.
+Jego ciało nie może zostać skrzywdzone\nprzez żaden atak, więc bardzo chętnie\npodejmuje wyzwania wrogów.
+Mówi się, że spokojnie spędza czas\ngłęboko na dnie morza, ponieważ\njego moce są zbyt silne.
+Legendy twierdzą, że ten Pokémon nieustannie\nlata na niebie na swoich wspaniałych\nsiedmiokolorowych skrzydłach.
+Ten Pokémon wędruje poprzez\nczas. Trawa i drzewa kwitną w lasach, w\nktórych się pojawił.
+Szybko skaluje nawet pionowe ściany.\nCzuje wilgotność ogonem, aby\nprzewidzieć pogodę następnego dnia.
+Silnie rozwinięte mięśnie zapewniają\nmu zdumiewającą sprawność i\nwydajność skokową.
+Liście na przednich kończynach są\nostre jak miecze. Gwałtownie skacze\nna gałęziach drzew, aby uderzyć.
+Ma w środku brzucha płomień, który\nwiecznie płonie. Czuje się ciepło, gdy\njest przytulany.
+Zwiększa koncentrację, wydając ostre\nodgłosy. Jego kopnięcia mają wyjątkową\nniszczycielską moc.
+W obliczu trudnego przeciwnika traci\npłomienie z nadgarstków. Jego nogi\npozwalają mu przeskakiwać budynki.
+Jego duża płetwa ogonowa przepuszcza\ngo przez wodę z silnym przyspieszeniem.\nJest silny pomimo wielkości.
+Najlepszy na błotnistej ziemi ze\nsłabą podstawą. Szybko przytłacza\nprzeciwników walczących w błocie.
+Jego ramiona są twarde jak skała.\nZa jednym zamachem może naładować\nbaterię. Tworzy gniazdo na pięknej plaży.
+Ma bardzo wytrwały charakter. Jego\nostry zmysł węchu pozwala ścigać wybraną\nzdobycz, nie gubiąc nawet śladu.
+Zawsze będzie przestrzegać poleceń\nwykwalifikowanego trenera. Jego zachowanie wynika\nz życia w stadzie w czasach starożytnych.
+POKéMON z obfitą ciekawością.\nPokazuje zainteresowanie wszystkim,\nwięc zawsze robi zigi i zagi.
+Podczas jazdy w linii prostej może on\npokonać 60 mil w jedną godzinę. Jednak\nma trudne czasy na zakrętach.
+Żyje wśród wysokiej trawy i lasów.\nKiedy zostaje zaatakowany, opiera się,\nwskazując wrogom na jadowite kolce.
+Oszczędza on energię, poruszając się\njak najmniej. Oczekuje ewolucji pijąc\ntylko niewielką ilość wody deszczowej.
+Pomimo swojego wyglądu ma on\nagresywny charakter. Atakuje on,\ndźgając długimi, cienkimi ustami.
+Jego ciało wykonane jest z miękkiego\njedwabiu. Gdy pojawiają się\npęknięcia, ewolucja jest bliska.
+Rozprasza straszliwie toksyczny pył,\nkiedy wyczuwa niebezpieczeństwo.\nGromadzi się w blasku latarni ulicznych.
+Szuka czystej wody. Jeśli nie będzie pił\nwody zbyt długo, liść na jego głowie\nmoże mu zwiędnąć.
+Żyje na skraju wody, gdzie jest \nsłonecznie. Śpi na łóżku z trawy wodnej\nw dzień i staje się aktywny w nocy.
+Rytm jasnej, świątecznej muzyki\naktywuje komórki LUDICOLO, czyniąc\ngo silniejszym.
+Jeśli pozostanie w bezruchu, nie da się\ngo odróżnić od prawdziwych orzechów.\nZachwyca on żerowaniem PIDGEYÓW.
+Żyje w dziurach dużych drzew. Dźwięki\ntrawiastego fletu NUZLEAFA, wypełniają\nsłuchaczy lękiem.
+POKéMON, którego obawiano się go\njako opiekuna leśnego. Może odczytać\numysł wroga i podjąć działania.
+Nie lubi zimnych pór roku. Migrują do innych\nkrajów w poszukiwaniu ciepła, latając ponad\n300 kilometrów dziennie.
+Jeśli jego dwa pióra ogona stają na\nbaczność, jest on dowodem dobrego\nzdrowia. Szybko wznosi się na niebie.
+Porusza się na wiatrach oceanu, jakby\nbył szybowcem. Zimą ukrywa pokarm\nwokół swojego gniazda.
+To latający transporter niosący małe\nPOKéMONY w swoim dziobie. Szybuje\nna falach, żeby sobie odpocząć.
+Jest bardzo dostrojony do emocji ludzi\ni POKéMONÓW. Ukrywa się, kiedy\nwyczuwa wrogość.
+Wesoły duch TRENERA dodaje energii\ndo swojej psychokinetycznej mocy.\nObraca się i tańczy, gdy jest szczęśliwy.
+Ma moc przewidywania przyszłości. Jego\nmoc osiąga szczyt, kiedy chroni swojego\nTRENERA.
+Zwykle żyje na stawach, ale po\nwieczornym prysznicu może pojawić\nsię na kałużach w miastach.
+Anteny mają charakterystyczne wzory,\nktóre wyglądają jak oczy. Kiedy pada,\nstają się ciężkie, co uniemożliwiają lot.
+Preferuje wilgotne miejsca. W dzień\npozostaje w cieniu lasu. Uwalnia\ntoksyczny proszek z głowy.
+Nasiona na jego ogonie są wykonane z\ntoksycznych zarodników. Uderza\nprzeciwników za pomocą szybkich ciosów.
+Śpi 20 godzin dziennie. Senność tych,\nktórzy go widzą, jest jedną z jego\numiejętności.
+Jest zawsze głodny, ponieważ nie\nprzestaje szaleć. Nawet podczas jedzenia\nnie może on ustać.
+To jest najbardziej leniwy POKéMON na\nświecie. Jednak wywołuje przerażającą\nmoc poprzez uwalnianie stłumionej energii.
+Ponieważ żył prawie całkowicie\npod ziemią, jest prawie ślepy.\nZamiast tego używa swoich anten.
+Ten POKéMON jest szybki, mówi się,\nże jest w stanie uniknąć atak. Lubi\nkarmić się sokiem drzewnym.
+Najbardziej charakterystyczny POKéMON,\nktóry pojawia się w POKé BALLU, gdy\newoluuje.
+Mruczy, ale zaczyna głośno płakać,\ngdy wyczuje niebezpieczeństwo.\nZatrzymuje się, gdy uszy są zamknięte.
+Gdy stempluje stopy i miechy, generuje\non fale ultradźwiękowe, które mogą\nnawet rozerwać dom.
+Emituje różnorodne dźwięki z dziur na całym\nciele. Jego głośne okrzyki można usłyszeć\nz odległości ponad dziesięciu kilometrów.
+Staje się silniejszy przez wytrzymanie trudnego treningu. To odważny\nPokémon, który\nmoże wytrzymać każdy atak.
+Tupie on na ziemi, aby zbudować moc.\nMoże wysłać 10-tonowa ciężarówkę z\nswoim prostym ramieniem.
+Walczy, rzucając się wokół ogona,\nktóry jest większy niż jego ciało. Ogon\njest urządzeniem pływającym w wodzie.
+Jego magnetyczny nos konsekwentnie\nskierowany jest na północ. Podróżni\nużywają NOSEPASSA.
+Mówi się, że trudno jest zdobyć jego\nzaufanie. Jest jednak niezwykle popularny\nze względu na ładny wygląd.
+Ulubiony trenerski model TRENERÓW,\nktóry używany jest w rywalizacji o\nswój koci styl oraz futro.
+Żywi się kryształami kamieni\nszlachetnych. W ciemności jego\noczy błyszczą blaskiem.
+Posługuje się łagodną twarzą, aby uspokoić\nwrogów, a następnie gryzie ogromnymi,\nnieustępliwymi szczękami.
+Zjada żelazo, aby zbudować swoje stalowe\nciało. Jest szkodnikiem, który schodzi z\ngór, by jeść mosty i tory kolejowe.
+Zwykle pokazuje swoją siłę wielkością\niskier, które wytwarza, wbijając\nswój stalowy korpus w głaz.
+Twierdzi, że jego jedynym obszarem\njest góra. Bezlitośnie bije tych, którzy\nnaruszają jego przestrzeń.
+Nigdy nie opuszcza codziennego treningu\njogi. Wzmacnia wewnętrzną siłę poprzez\nmedytacje.
+Elegancko unika ataków krokami\npodobnymi do tańca, a potem używa\ndruzgocącego ciosu w tym samym ruchu.
+Przechowuje elektryczność statyczną\nw futrze w celu rozładowania. Daje\niskry, gdy zbliża się burza.
+Rzadko pojawia się przed ludźmi.\nMówi się, że gniazduje tam, gdzie\npada piorun.
+Kibicuje partnerom, rozpraszając iskry\nz jego ciała. Wspina się na słupy\ntelefoniczne, by absorbować energie.
+Niechęć do wody sprawia, że ​​kryje się\nw deszczu pod okapami domów. Do\ndopingowania używa pomponów z iskier.
+Żyje wokół czystych stawów. W nocy\ntylne światła się zapalają. Rozmawia z\ninnymi, błyskając swym światłem.
+Prowadzi VOLBEATA do rysowania znaków\nna nocnym niebie. Są naukowcy, którzy\nbadają wzorce, które tworzy.
+Jej kwiaty wydzielają relaksujący zapach. Im silniejszy aromat, tym\nzdrowsza jest\nRoselia.
+Nie ma nic czego żołądek nie strawi.\nPodczas trawienia wydalane są\nobrzydliwe, przytłaczające gazy.
+Może połknąć oponę w całości jednym\nhaustem. Wydziela potwornie toksyczny\npłyn z porów na jego ciele.
+Żyje w masywnych rzekach przepływających przez\ndżunglę. Rojem otaczają zdobycz, która\nwkracza na jego terytorium.
+Łuskacz mórz, ma kły, które przebijają\nsię przez żelazo. Płynie on, tryskając\nwodą ze swojego tylu.
+Gdy zasysa dużą ilość wody morskiej,\nstaje się jak wielka sprężysta piłka.\nCodziennie spożywa tonę jedzenia.
+Jest to jeden z największych POKéMONÓW.\nStada żerują w paczce, a potem połykają\nofiarę jednym haustem.
+Magma prawie 2200 stopni Fahrenheita\nprzechodzi przez jego ciało. Kiedy robi \nsię zimno, magma twardnieje i spowalnia.
+Gdy jest rozgniewany, grzbiety wybuchają\npod prysznicem roztopionej lawy. Żyje\non w kraterach wulkanów.
+Spala węgiel w swojej skorupie. Jeśli\nzostanie zaatakowany, uderza w gęsty,\ndym i ucieka.
+Najwyraźniej umrze, jeśli przestanie\npodskakiwać. Na głowie nosi perłę od\nClamperla.
+Może uzyskać kontrolę nad wrogami\nwykonując dziwne kroki taneczne.\nCzarne perły na czole są klejnotami.
+Nie mówi się, że dwie SPINDY mają\nidentyczne wzory. Powoduje zamieszanie\nwrogów swoimi ruchami.
+Żyje na suchych pustyniach. Robi\npochyłą pułapkę w piasku, gdzie\ncierpliwie oczekuje ofiary.
+Generuje fale ultradźwiękowe gwałtownie\ntrzepocząc skrzydłami. Po zemdleniu\nofiary topi ofiarę trującym kwasem.
+Ukrywa się, zdmuchując skrzydłami pustynny\npiasek. Czerwone osłony chronią oczy przed\npiaskiem.
+Preferuje trudne środowiska, takie jak\npustynie. Może przetrwać 30 dni z\nwodą przechowywaną w ciele.
+Żyje na pustyniach. Aktywuje się w\nnocy, gdy poluje na zdobycz wyczerpaną\ngorącem pustyni.
+Stale unosi swoje bawełniane skrzydła.\nJeśli chce się umyć od piasku,\nzamacza się w wodzie.
+Jeśli słyszysz piękną melodie trylującą\ngłęboko wśród gór, z dala od ludzi, to\njest nucenie ALTARII.
+Jeśli natknie się na SEVEPERA, jego\nfutrzaste łapy przejmują jego pozę\nbojową. Jego ostre pazury są jego bronią.
+Wyostrza swój mieczopodobny ogon na\ntwardych skałach. Chowa się w wysokiej\ntrawie i uderza jadowitymi kłami.
+Jego zdrowie odpływa i płynie wraz z\ncyklem księżycowym. Pełni moc po\nwystawieniu na działanie księżyca w pełni.
+Pochłania energię słoneczną w ciągu\ndnia. Zawsze bez wyrazu, może wyczuć,\nco myśli jego przeciwnik.
+Sprawdza błotniste koryta rzeki\ndługimi wąsami. Oślizgła błona chroni\njego ciało.
+Tworzy swoje gniazdo na dnie bagien.\nBędzie jadł wszystko - jeśli coś żyje,\nto WHISCASH go zje.
+Pochodzi z zagranicy. Jest to bardzo\nodporne stworzenie, które szybko się\nrozprzestrzeni, nawet w brudach.
+Szorstki klient, który dziko macha\ngigantycznymi pazurami. Mówi się,\nże trudno go trenować.
+Został odkryty w starożytnych ruinach.\nPodczas ruchu stale się kręci. Staje na\njednej stopie, nawet kiedy śpi.
+Wygląda na to, że urodził się z\nglinianej lalki stworzonej przez ludzi.\nUżywa telekinezy, aby unosić się.
+Zginął około 100 milionów lat temu.\nZostał zregenerowany ze skamieliny przy\nużyciu zaawansowanych technik.
+Łapie ofiarę ośmioma mackami. Następnie\nprzed karmieniem topi on ofiarę swoim\nsilnym kwasem.
+Jest rodzajem progenitora POKéMON.\nUżywa swoich przedłużających się pazurów,\naby złapać zdobycz ukrywającą się.
+Chroniony przez twardą skorupę, jego\nciało jest bardzo mocne. Szaszłyki\ndrapieżne z pazurami.
+Ze względu na swój brzydki wygląd,\njest ignorowany przez badaczy. Żyje w\nstawach zatkanych chwastami.
+Milotic jest\nzapierający dech w piersiach piękny. Mówi się, że ci, którzy go widzą, zapominają o swoich konkurencyjnych\nduchach.
+Ma zdolność zmiany formy na słońce,\ndeszcz lub chmurę śniegu, w zależności\nod występującej pogody.
+Zmienia kolor ciała, by wtopić się w\notoczenie. Zmienia także kolor, jeśli\njest szczęśliwy lub smutny.
+Uwielbia karmić się uczuciami, takimi jak\nzazdrość i złośliwość. Jego pionowy\nróg chwyta emocje.
+Silne uczucie nienawiści zmieniło\nmarionetkę w POKéMONA. Jeśli otwiera\nusta, przeklęta energia ucieka.
+Stając się niewidocznym, cicho podkrada\nsię do ofiary. Ma zdolność prześlizgnięcia\nsię przez ściany.
+Jego ciało jest całkowicie puste. Kiedy\notwiera usta, wciąga wszystko tak, jakby\nbyła czarna dziura.
+Żyje w tropikalnej dżungli. Pęczek\nowoców na jego szyi jest pyszny. Owoce\nrosną dwa razy w roku.
+Podróżuje jeżdżąc na wiatrach. Sprytnie\nwykorzystuje swój długi ogon, aby zrywać\norzechy i jagody, które zjada.
+Pojawia się, kiedy wyczuwa nadchodzącą\nklęskę żywiołową. W rezultacie został\nbłędnie uznany za zagładę.
+Ma tendencje do poruszania się w paczce.\nGromadzą się w ciasnej grupie,\nby spać w jaskini.
+Mówi się, że dom odwiedzany przez\nSNORUNTA będzie prosperować. Może\nwytrzymać w minus 150 stopni Fahrenheita.
+Ma ciało z lodu, której nie stopi\nsię nawet ogniem. Może natychmiast\nzamrozić wilgoć w atmosferze.
+Jego ciało pokryte jest puszystym\nfutrem. Futro chroni przed zimnem\npodczas toczenia się na lodzie.
+Dotyka on nowych rzeczy nosem, aby\nsprawdzić zapach i odczucie. Bawi\nsię obracając SPHEALA na nosie.
+Płynie przez oblodzone morza, jednocześnie\nłamiąc kry dużymi kłami. Jest on chroniony\ngrubym tłuszczem.
+Jest chroniony przez solidną skorupę.\nRaz w życiu tworzy on wspaniałą\nperłę.
+Żyje głęboko w morzu, gdzie światło\nnigdy nie jest filtrowane. Zapala swój\nmały ogon, by przyciągnąć ofiarę.
+Jego forma pływacka jest niezwykle\nelegancka. Dzięki cienkim ustom zjada\nwodorosty, które są pod kamieniami.
+Pozostał niezmieniony przez 100\nmilionów lat. Został odkryty podczas\neksploracji głębinowych.
+Podczas sezonu niezliczone LUVDISCI\ngromadzą się na rafach koralowych,\nzmieniając wodę na różową.
+Jego twarda jak stal głowa może\nroztrzaskać głazy. Ma nadzieje, że\nniedługo będzie mógł latać.
+Jego zbrojne ciało sprawia, że wszystkie\nataki odbijają się. Pancerz jest jednak\nzbyt mocny, co czyni go ciężkim.
+Staje się nieposłuszny, jeśli jest\nwściekły. Niszczy wszystko szarpiąc\npazurami i ziejąc ogniem.
+Używa fal magnetycznych do rozmawiania\nze swym gatunkiem. Każda komórka\njest magnetyczna.
+Lata w powietrzu za pomocą magnetyzmu.\nJego ciało jest mocne, że nawet\nzderzenie nie pozostawi zadrapania.
+Tworzą go dwa złączone METANGI.\nMówi się, że jego cztery mózgi są\nlepsze od superkomputerów.
+Jest w całości złożony z kamieni bez\noznak mózgu lub serca. Jest to zagadka\nnawet dla współczesnych naukowców.
+Badania wykazały, że ciało zbudowane\njest z tego samego rodzaju lodu, który\njest na Biegunie Pd.
+Jest mocniejszy niż jakikolwiek metal.\nStwardniał z powodu ciśnienia pod\nziemią przez dziesiątki tysięcy lat.
+Może telepatycznie komunikować się z\nludźmi. Zmienia swój wygląd za pomocą\ntego, co załamuje światło.
+Ma łagodny temperament i nie lubi walki.\nChowając się w przednich łapach, umie\nlatać szybciej niż odrzutowiec.
+Mówi się, że ten POKéMON rozszerzył\nmorze, przynosząc ulewne deszcze.\nMa siłę kontrolowania wody.
+Mówi się, że legendarny POKéMON\nreprezentuje ziemie. Poszedł spać po\npojedynku z KYOGREM.
+Żyje od setek milionów lat w warstwie\nozonowej. Jego latająca forma wygląda\njak deszcz meteorytów.
+Mówi się, że każde życzenie spełni się.\nJest przebudzony tylko przez siedem dni\nna tysiąc lat.
+Kiedy zmienia formę, pojawia się zorza polarna.\nAbsorbuje ataki, zmieniając swoją\nstrukturę komórkową.

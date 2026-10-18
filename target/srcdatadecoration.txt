@@ -1,0 +1,243 @@
+<<< FILE: src/data/decoration/description.h >>>
+Małe biurko zbudowane\ndla jednej osoby.
+Małe biurko\nzbudowane w kształcie\nPOKé BALL.
+Duże biurko wykonane\nze stali. Postaw na\nnim kilka dekoracji.
+Duże biurko zrobione\nz drewna. Postaw na\nnim kilka dekoracji.
+Duże biurko zrobione\nz liści. Połóż na\nnim kilka dekoracji.
+Ogromne biurko wykonane\nze szkła.\nMieści wiele dekoracji.
+Ogromne biurko zrobione\nz cegły.\nMieści wiele dekoracji.
+Ogromne biurko zrobione\nz bali. Połóż na\nnim dużo dekoracji.
+Ogromne biurko wykonane\nz kamieni.\nTrzyma wiele dekoracji.
+Małe krzesło zrobione\ndla jednej osoby.
+Małe krzesło\nzbudowane w kształcie\nPOKé BALL.
+Małe krzesło\nwykonane ze stali.
+Małe krzesło\nzrobione ze szkła.
+Małe krzesło\nzrobione z liści.
+Małe krzesło\nz drewna.
+Małe krzesło\nzrobione z cegły.
+Małe krzesło\nzrobione z kłód.
+Małe krzesło\nz kamienia.
+Jaskrawoczerwona roślina\ndoniczkowa.
+Kwitnąca roślina\ntropikalna w doniczce.
+Doniczka słodkich\nkwiatów.
+Duży garnek\nz wieloma\nkolorowymi kwiatami.
+Duża roślina w\nkształcie parasola\nw dużej doniczce.
+Duża, imponująca roślina\nw dużej doniczce.
+Cegła w kolorze czerwonym.\nDekoracje można\numieścić na wierzchu.
+Cegła w kolorze\nżółtym. Połóż na\nniej kilka dekoracji.
+Niebieska cegła.\nPołóż na niej\ntrochę dekoracji.
+Czerwony balon wypełniony\nwodą. Pęka, jeśli\nsię go nadepnie.
+Niebieski balon napełniony\nwodą. Pęka, jeśli się\nna niego nadepnie.
+Żółta balon\nwypełniona wodą.\nPęka, jeśli się nań nadepnie.
+Duży czerwony namiot.\nMożesz się\nw nim schować.
+Duży niebieski namiot.\nMożesz się\nw nim schować.
+Umieść nad dziurą,\naby przejść\nna drugą stronę.
+Użyj, aby\nzjechać z platformy.
+Mały płot,\nktóry blokuje przejście.
+Mały płot,\nktóry blokuje przejście.
+Stara duża opona.\nDekoracje można\numieścić na wierzchu.
+Duży postument\nz stopniami.
+Duża kula błota.\nKruszą się, jeśli się\nna niego nadepnie.
+Dziwne drzwi, przez\nktóre ludzie mogą\npo prostu przejść.
+Ozdoba z\npiasku. Kruszy się\nprzy dotknięciu.
+Przyznawana za 50\nkolejnych zwycięstw\nw WIEŻY WALKI.
+Przyznawana za 100\nkolejnych zwycięstw\nw WIEŻY WALKI.
+Szklana replika\nsłynnej rzeźby w\nMUZEUM SZTUKI.
+Mały, szary\nzabawkowy telewizor.
+Zabawka telewizora\nwzorowana\nna SEEDOT.
+Zabawka telewizora\nwzorowana na\nwizerunku SKITTY.
+Dziwna mata, która\nbłyszczy, gdy się\nna niej stanie.
+Mata-pułapka, która podskakuje,\ngdy się\nna nią nadepnie.
+Podkładka żartobliwa, która\nobraca się, gdy się\nna nią nadepnie.
+Mata, która wydaje niski\ndźwięk C, gdy\nsię na niej stanie.
+Mata, która\nwydaje dźwięk D\npo nadepnięciu.
+Mata, która\nwydaje dźwięk E\npo nadepnięciu.
+Mata, która\nwydaje dźwięk F\npo nadepnięciu.
+Mata, która\nwydaje dźwięk G\npo nadepnięciu.
+Mata, która\nwydaje dźwięk A\npo nadepnięciu.
+Mata, która\nwydaje dźwięk B\npo nadepnięciu.
+Mata, która wydaje dźwięk\nwysokiego C, gdy\nsię na niej stanie.
+Mata zaprojektowana\nz obrazem SURF.\nUmieść przedmioty na górze.
+Mata zaprojektowana\nz obrazem Pioruna.\nUmieść przedmioty na górze.
+Mata zaprojektowana z\nobrazem POŻARNEGO WYBUCHU.\nUmieść przedmioty na górze.
+Mata z wzorem\nprzedstawiającym PUDROWY ŚNIEG.\nPołóż przedmioty na wierzchu.
+Mata zaprojektowana\nz obrazem ATTRACT.\nPołóż przedmioty na górze.
+Mata zaprojektowana\nz obrazem FISSURE.\nUmieść przedmioty na górze.
+Mata zaprojektowana\nz obrazem SPIKES.\nUmieść przedmioty na górze.
+Mały plakat\nwydrukowany z\nPOKé BALLS.
+Mały plakat\nz nadrukiem TREECKO.
+Mały plakat\nz nadrukiem TORCHIC.
+Mały plakat\nz nadrukiem MUDKIP.
+Mały plakat\nz nadrukiem AZURILL.
+Duży plakat\nz nadrukiem PIKACHU\ni PICHU.
+Duży plakat\nz nadrukiem SEVIPERA.
+Duży plakat\nz nadrukiem RELICANTHA.
+Duży plakat\nz nadrukiem WINGULL.
+Duży plakat\nz nadrukiem SMOOCHUM.
+Lalka Pichu.\nUmieść to na\nmacie lub biurku.
+Lalka Pikachu.\nUmieść to na\nmacie lub biurku.
+Lalka MARILL.\nPołóż ją na\nmatie lub biurku.
+Lalka TOGEPI.\nUmieść to na\nmacie lub biurku.
+Lalka Cyndaquila.\nUmieść to na\nmacie lub biurku.
+Lalka CHIKORITA.\nUmieść to na\nmacie lub biurku.
+Lalka TOTODILE.\nUmieść to na\nmacie lub biurku.
+Lalka Jigglypuff.\nUmieść to na\nmacie lub biurku.
+Lalka MEOWTH.\nUmieść to na\nmacie lub biurku.
+Lalka CLEFAIRY.\nUmieść to na\nmacie lub biurku.
+Lalka DITTO.\nUmieść to na\nmacie lub biurku.
+Lalka SMOOCHUM.\nUmieść to na\nmacie lub biurku.
+Lalka TREECKO.\nUmieść to na\nmacie lub biurku.
+Lalka TORCHIC.\nUmieść to na\nmacie lub biurku.
+Lalka Mudkip.\nUmieść to na\nmacie lub biurku.
+Lalka Duskull.\nUmieść to na\nmacie lub biurku.
+Lalka WYNAUT.\nUmieść to na\nmacie lub biurku.
+Lalka BALTOY.\nUmieść to na\nmacie lub biurku.
+Lalka Kecleona.\nUmieść to na\nmacie lub biurku.
+Lalka AZURILL.\nUmieść to na\nmacie lub biurku.
+Lalka SKITTY.\nUmieść to na\nmacie lub biurku.
+Lalka SWABLU.\nUmieść to na\nmacie lub biurku.
+Lalka GULPIN.\nUmieść to na\nmacie lub biurku.
+Lalka LOTAD.\nUmieść to na\nmacie lub biurku.
+Lalka SEEDOT.\nUmieść to na\nmacie lub biurku.
+Poduszka Pikachu.\nUmieść to na\nmacie lub biurku.
+Poduszka MARILL.\nUmieść to na\nmacie lub biurku.
+Poduszka SMOOCHUM. Umieść\nją na\nmacie lub biurku.
+Poduszka ZIGZAGOON. Umieść\nją na\nmacie lub biurku.
+Poduszka SPINDA.\nUmieść to na\nmacie lub biurku.
+Poduszka SABLEYE.\nUmieść to na\nmacie lub biurku.
+Poduszka w kształcie piłki.\nUmieść to na\nmacie lub biurku.
+Poduszka z oznaczeniem\ntrawy. Umieść ją na\nmacie lub biurku.
+Poduszka z oznaczeniem\nognia. Umieść ją na\nmacie lub biurku.
+Poduszka z wodnym\nznakiem. Umieść ją na\nmacie lub biurku.
+Duża lalka.\nUmieść to na\nmacie lub biurku.
+Duża lalka.\nUmieść to na\nmacie lub biurku.
+Duża lalka.\nUmieść to na\nmacie lub biurku.
+Duża lalka.\nUmieść to na\nmacie lub biurku.
+Duża lalka.\nUmieść to na\nmacie lub biurku.
+Duża lalka.\nUmieść to na\nmacie lub biurku.
+Duża lalka.\nUmieść to na\nmacie lub biurku.
+Duża lalka.\nUmieść to na\nmacie lub biurku.
+Duża lalka.\nUmieść to na\nmacie lub biurku.
+Duża lalka.\nUmieść to na\nmacie lub biurku.
+<<< FILE: src/data/decoration/header.h >>>
+MAŁE BIURKO
+MAŁE BIURKO
+BIURKO POKéMON
+CIĘŻKI BIURKO
+Zniszczone biurko
+BIURKO COMFORT
+ŁADNE BIURKO
+BIURKO Z CEGŁY
+BIURKO POLNE
+TWARDY DYSK
+MAŁY KRZESEŁKO
+KRZESŁO POKÉMON
+CIĘŻKI FOTEL
+ŁADNE KRZESŁO
+KRZESŁO KOMFORTOWE
+ZDARTY KRZESŁO
+KRZESŁO Z CEGŁY
+KRZESŁO TURYSTYCZNE
+TWARDY KRZESŁO
+CZERWONA ROŚLINA
+ROŚLINA TROPIKALNA
+ŁADNE KWIATY
+KOLOROWA ROŚLINA
+DUŻA ROŚLINA
+PIĘKNA ROŚLINA
+CZERWONA CEGŁA
+ŻÓŁTA CEGŁA
+NIEBIESKA CEGŁA
+CZERWONY BALON
+NIEBIESKI BALON
+ŻÓŁTY BALON
+CZERWONY NAMIOT
+NIEBIESKI NAMIOT
+PEŁNA PŁYTA
+SLIDE
+DŁUGOŚĆ OGRODZENIA
+SZEROKOŚĆ OGRODZENIA
+OPONA
+STAND
+KULA BŁOTNA
+ŁAMANE DRZWI
+PIASKOWA OZDOBNA
+SREBRNA TARCZA
+ZŁOTA TARCZA
+SZKLANA OZDOBĄ
+TV
+OKRĄGŁY TELEWIZOR
+SŁODKA TELEWIZJA
+MATA BŁYSZCZĄCA
+MATA DO SKOKÓW
+MATA DO SPINANIA
+C Niskie NOTY MAT
+D NOTATKA MAT
+E NOTATKA MAT
+F NUTA MAT
+G NUTA MAT
+NOTATNIK
+B NOTA MAT
+C Wysoka NUTA MAT
+MATA DO SURFINGU
+MATA GRZMOTU
+MATA OGNISTEGO WYBUCHU
+MATA ŚNIEGOWA PROSZKOWA
+MATA PRZYCIĄGAJĄCA
+MATRYCA SZCZELINOWA
+MATA Z KOLCAMI
+PLAKAT Z PIŁKĄ
+ZIELONY PLAKAT
+CZERWONY PLAKAT
+NIEBIESKI PLAKAT
+SŁODKI PLAKAT
+PLAKAT PIKA
+DŁUGI PLAKAT
+PLAŻOWY PLAKAT
+PLAKAT NA NIEBIE
+PLAKAT KISS
+LALKA PICHU
+LALKA PIKACHU
+LAMIGOTKA LALKA
+LALKA TOGEPI
+LALKA CYNDAQUILA
+LALKA CHIKORITA
+LALKA TOTODILE
+LALKA JIGGLYPUFF
+LALKA MEOWTHA
+LALKA CLEFAIRY
+LALKA DITTO
+LALKA SMOOCHUM
+LALKA TREECKO
+LALKA TORCHIC
+LALKA MUDKIPA
+LALKA DUSKULL
+WYNAUT LALKA
+LALKA BALTOY
+LALKA KECLEON
+LALKA AZURILL
+LALKA SKITTY
+LALKA SWABLU
+LALKA GULPIN
+LALKA LOTAD
+LALKA SEEDOT
+PIKA PODUSZKA
+OKRĄGŁA PODUSZKA
+PODUSZKA DO CAŁOWANIA
+PODUSZKA Z ZYGZAKIEM
+PODUSZKA OBROTOWA
+DIAMENTOWA PODUSZKA
+PODUSZKA PIŁKARSKA
+PODUSZKA TRAWIANA
+PODUSZKA OGNIOWA
+PODUSZKA WODNA
+LALKA SNORLAXA
+LALKA RHYDON
+LALKA LAPRAS
+LALKA WULFENUSAURA
+LALKA CHARIZARD
+LALKA SQUIRTLE'A
+LALKA WAILMER
+LALKA REGIROCK
+LAMPA REGICE
+LALKA REGISTEEL
