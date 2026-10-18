@@ -29085,10 +29085,13 @@
  },
  "datascript.txt::datascript.txt_57": {
   "source": "“POKéMON JUMP”\\pMake your POKéMON skip the\\nVINE WHIP rope with the A Button.\\pOnly mini POKéMON around 28 inches\\nor less may participate.\\pPOKéMON that only swim, burrow, or\\nfly are not good at jumping.\\pAs a result, those POKéMON may not\\nparticipate.\\pGood things happen if everyone\\njumps in time.",
-  "target": "",
-  "status": "new",
+  "target": "„POKéMON JUMP”\\pSpraw, aby twój POKéMON przeskoczył przez\\nlinę WIĄZAŃCĄ WĄZEM przyciskiem A.\\pUczestniczyć mogą tylko mini POKéMON o\\ndługości około 28 cali lub mniej.\\pPOKéMON, które tylko pływają, kopią lub\\nlatają, nie są dobre w skakaniu.\\pW rezultacie te POKéMONY\\nmogą nie uczestniczyć.\\pDobre rzeczy się dzieją,\\njeśli wszyscy skaczą w rytmie.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792320237.2871168,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_636": {
   "source": "TM15",
@@ -56183,7 +56186,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792320142.4188824,
+  "updated": 1792320205.5313811,
   "touched": true
  },
  "data maps.txt::data maps.txt_472": {
@@ -98310,7 +98313,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792320198.105714,
+  "updated": 1792320206.6668892,
   "touched": true
  },
  "src.txt::src.txt_2424": {
