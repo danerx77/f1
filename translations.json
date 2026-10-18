@@ -2426,10 +2426,13 @@
  },
  "src.txt::src.txt_1043": {
   "source": "The {STR_VAR_1} BERRY has already been\\nobtained.",
-  "target": "",
-  "status": "new",
+  "target": "Jagoda {STR_VAR_1}\\nzostała już zdobyta.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327384.1907096,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_578": {
   "source": "????????",
@@ -7413,10 +7416,13 @@
  },
  "src.txt::src.txt_1047": {
   "source": "{STR_VAR_1} was sent over!",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1} został wysłany!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327385.6726668,
+  "touched": true
  },
  "src.txt::src.txt_2800": {
   "source": "{STR_VAR_1} sent back an “OK”!",
@@ -19133,10 +19139,13 @@
  },
  "src.txt::src.txt_1049": {
   "source": "A new TRAINER has arrived in\\nHOENN.",
-  "target": "",
-  "status": "new",
+  "target": "Nowy TRENER\\nprzybył do HOENN.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327386.4454017,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_766": {
   "source": "COOL",
@@ -43202,10 +43211,13 @@
  },
  "src.txt::src.txt_1044": {
   "source": "A special RIBBON was awarded to\\nyour party POKéMON.",
-  "target": "",
-  "status": "new",
+  "target": "Specjalna WSTĄŻKA została przyznana\\ntwojemu drużynie POKéMON.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327384.2396846,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_575": {
   "source": "Whenever three or more of these get\\ntogether, they sing in a loud voice that\\nsounds like bellowing.",
@@ -46883,10 +46895,13 @@
  },
  "src.txt::src.txt_1041": {
   "source": "Obtained a {STR_VAR_2} BERRY!\\nDad has it at PETALBURG GYM.",
-  "target": "",
-  "status": "new",
+  "target": "Zdobyto {STR_VAR_2} JAGODY\\nTata ma to w GIMNAZJUM PETALBURG.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327403.7522898,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1977": {
   "source": "JOANA",
@@ -51205,10 +51220,13 @@
  },
  "src.txt::src.txt_1042": {
   "source": "The {STR_VAR_1} BERRY transformed into\\none {STR_VAR_2} BERRY.",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1} BERRY przemieniła się\\nw jedną {STR_VAR_2} BERRY.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327384.515918,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_530": {
   "source": "MODEST",
@@ -63913,10 +63931,13 @@
  },
  "src.txt::src.txt_1048": {
   "source": "Your party is full.\\n{STR_VAR_1} could not be sent over.",
-  "target": "",
-  "status": "new",
+  "target": "Twoja grupa jest pełna.\\n{STR_VAR_1} nie mógł zostać wysłany.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327388.3903947,
+  "touched": true
  },
  "src.txt::src.txt_2921": {
   "source": "Please choose a TRAINER for\\na DOUBLE BATTLE.",
@@ -70549,10 +70570,13 @@
  },
  "src.txt::src.txt_1045": {
   "source": "The POKéDEX has been upgraded\\nwith the NATIONAL MODE.",
-  "target": "",
-  "status": "new",
+  "target": "POKéDEX został ulepszony\\no TRYB KRAJOWY.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327385.4289901,
+  "touched": true
  },
  "datatext.txt::datatext.txt_379": {
   "source": "There's a pile of snacks here.",
@@ -92960,14 +92984,13 @@
  },
  "src.txt::src.txt_1046": {
   "source": "A rare word has been added.",
-  "target": "",
-  "status": "new",
+  "target": "Dodano rzadkie słowo.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791737224.950208,
+  "updated": 1792327385.3104525,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_765": {
