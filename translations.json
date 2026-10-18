@@ -748,6 +748,17 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_724": {
+  "source": "Own POKéMON type: POISON",
+  "target": "Own POKéMON Typ: Trujący",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792318292.8527436,
+  "touched": true
+ },
  "srcdatatext.txt::srcdatatext.txt_24": {
   "source": "Lowers the foe's ATTACK.",
   "target": "Obniża ATAK wroga.",
@@ -758,13 +769,6 @@
   "translator": "Antrix",
   "updated": 1791587083.8910437,
   "touched": true
- },
- "datatext.txt::datatext.txt_724": {
-  "source": "Own POKéMON type: POISON",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_2538": {
   "source": "Gaah!\\nDemolished!",
@@ -22700,13 +22704,13 @@
  },
  "datatext.txt::datatext.txt_723": {
   "source": "Own move type: POISON",
-  "target": "Own move Typ: Trujący",
+  "target": "Własny ruch Typ: Trujący",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792318251.564199,
+  "updated": 1792318257.6590462,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_547": {
@@ -98932,7 +98936,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792318252.8285077,
+  "updated": 1792318254.3065948,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_643": {
