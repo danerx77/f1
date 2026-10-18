@@ -54654,12 +54654,12 @@
  },
  "datatext.txt::datatext.txt_742": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: FIRE, ICE, FLYING, BUG\\p   {TRIANGLE}: FIGHTING, GROUND, STEEL",
-  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: OGIEŃ, LODOWY, LATANIE, ROBACZY\\p   {TRIANGLE}: WALKA, ZIEMNY, STAL",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: OGNISTY, LODOWY, LATAJACY, ROBACZY\\p   {TRIANGLE}: WALCZĄCY, ZIEMNY, STALOWY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322483.4308264,
+  "updated": 1792322518.1023996,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_418": {
@@ -85397,7 +85397,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322355.821642,
+  "updated": 1792322523.4147072,
   "touched": true
  },
  "data maps.txt::data maps.txt_2733": {
