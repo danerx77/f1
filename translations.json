@@ -6106,12 +6106,12 @@
  },
  "src.txt::src.txt_2905": {
   "source": "Cancel the registration of your\\nEGG?",
-  "target": "Anulować rejestrację\\nswojego EGG?",
+  "target": "Anulować rejestrację\\nswojego JAJA?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325848.8675098,
+  "updated": 1792325899.2110324,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_2062": {
@@ -16067,7 +16067,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325883.6033218,
+  "updated": 1792325884.536045,
   "touched": true
  },
  "src.txt::src.txt_840": {
@@ -80497,7 +80497,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325848.797546,
+  "updated": 1792325900.5629,
   "touched": true
  },
  "data maps.txt::data maps.txt_518": {
@@ -95337,7 +95337,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325848.9684188,
+  "updated": 1792325889.3767722,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_889": {
@@ -108944,10 +108944,13 @@
  },
  "src.txt::src.txt_2823": {
   "source": "{STR_VAR_1}: What would you like to\\ndo now?",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1}: Co\\nchciałbyś teraz zrobić?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325924.2107587,
+  "touched": true
  },
  "src.txt::src.txt_2832": {
   "source": "The other TRAINER invites you\\nto chat.\\pWill you accept the chat\\ninvitation?",
