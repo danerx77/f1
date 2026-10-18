@@ -29968,10 +29968,14 @@
  },
  "src.txt::src.txt_1073": {
   "source": "MYSTERY GIFT can't be used while\\nthe Wireless Adapter is attached.",
-  "target": "",
-  "status": "new",
+  "target": "PREZENT MISTERY nie może być użyty,\\ngdy Wireless Adapter jest podłączony.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327563.7179344,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1018": {
   "source": "SPOINK",
@@ -36316,10 +36320,14 @@
  },
  "src.txt::src.txt_1072": {
   "source": "The Wireless Adapter is not\\nconnected.",
-  "target": "",
-  "status": "new",
+  "target": "Wireless Adapter nie\\njest prawidłowo podłączony.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327556.423497,
+  "touched": true
  },
  "src.txt::src.txt_2409": {
   "source": "MAGBY",
@@ -60871,12 +60879,12 @@
  },
  "src.txt::src.txt_1053": {
   "source": "You have collected all STAMPs!\\nWant to input a CARD as a prize?",
-  "target": "Zebrałeś wszystkie ZN!\\nChcesz wprowadzić KARTĘ jako nagrodę?",
+  "target": "Zebrałeś wszystkie ZNACZKI!\\nChcesz wprowadzić KARTĘ jako nagrodę?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327523.7304394,
+  "updated": 1792327531.5239155,
   "touched": true
  },
  "datatext.txt::datatext.txt_38": {
@@ -97974,12 +97982,14 @@
  },
  "src.txt::src.txt_1058": {
   "source": "MAGMA",
-  "target": "MAGMOZBROJA",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
-  "updated": 1790362646.6828315
+  "updated": 1790362646.6828315,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2818": {
   "source": "Eeeeek!\\nThat's a HERACROSS!\\pPlease, please, may I measure how\\nbig it is?",
