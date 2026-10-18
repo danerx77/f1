@@ -4230,10 +4230,14 @@
  },
  "src.txt::src.txt_2888": {
   "source": "I hope I get to know you better!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Mam nadzieję, że poznamy się\\plepiej!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326143.842981,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_522": {
   "source": "RELAXED",
@@ -24911,6 +24915,17 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2893": {
+  "source": "I'm trading POKéMON right now.\\p",
+  "target": "Właśnie wymieniam się Pokémonami.\\p",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326148.976566,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_845": {
   "source": "IMMUNITY",
   "target": "",
@@ -24920,13 +24935,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586288.6536245
- },
- "src.txt::src.txt_2893": {
-  "source": "I'm trading POKéMON right now.\\p",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_2131": {
   "source": "Meeeeyow!",
@@ -32689,10 +32697,14 @@
  },
  "src.txt::src.txt_2884": {
   "source": "Ahaha!\\nWhat is that about?\\p",
-  "target": "",
-  "status": "new",
+  "target": "Ah\\naha! Co\\pto?!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326138.790077,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1043": {
   "source": "ABSOL",
@@ -41518,7 +41530,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326099.6308672,
+  "updated": 1792326163.6744714,
   "touched": true
  },
  "data maps.txt::data maps.txt_123": {
@@ -42430,10 +42442,14 @@
  },
  "src.txt::src.txt_2877": {
   "source": "That's awesome!\\nYou can battle that way?\\p",
-  "target": "",
-  "status": "new",
+  "target": "To cudowne!\\nPotrafisz tak\\pwalczyć?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326131.2098868,
+  "touched": true
  },
  "src.txt::src.txt_1694": {
   "source": "FOREST",
@@ -43908,10 +43924,14 @@
  },
  "src.txt::src.txt_2894": {
   "source": "I finally got that POKéMON I\\nwanted in a trade!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Nareszcie dostałem Pokémona,\\nktórego tyle czasu\\pszukałem.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326149.9034321,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_706": {
   "source": "RUBY",
@@ -45541,10 +45561,14 @@
  },
  "src.txt::src.txt_2878": {
   "source": "You have exquisite timing for\\nswitching POKéMON!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Świetny moment na zmianę Pokémona!\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326132.333582,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3070": {
   "source": "Here at TRAINER TOWER, there is an\\nevent called TIME ATTACK.\\pYou will be timed on how quickly\\nyou can get from the reception\\lcounter to the OWNER on the roof.\\pThe best times will be recorded on\\nthe Time Board.\\pTry competing with friends to see\\nwho can beat it the fastest.\\pYou will not earn any EXP. Points\\nor money by beating TRAINERS here.",
@@ -60322,10 +60346,14 @@
  },
  "src.txt::src.txt_2889": {
   "source": "We're showing each other our\\nTRAINER CARDS to get acquainted.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Żeby się zapoznać\\npokazujemy sobie Karty\\pTrenera.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326144.7914686,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_707": {
   "source": "The ruffian of the seas, it has fangs that\\ncrunch through iron. It swims by jetting\\nwater from its rear.",
@@ -66393,10 +66421,14 @@
  },
  "src.txt::src.txt_2887": {
   "source": "I'm just showing my TRAINER CARD\\nas my way of greeting.\\p",
-  "target": "",
-  "status": "new",
+  "target": "W ramach powitania chcę ci tylko\\npokazać moją Kartę\\pTrenera.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326142.44463,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1861": {
   "source": "CINNABAR, in the west, has a LAB\\nfor POKéMON.\\pMy daddy works there.",
@@ -71348,10 +71380,14 @@
  },
  "src.txt::src.txt_2871": {
   "source": "Whoa!\\nI can tell you're pretty tough!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Kurczę!\\nWidzę, że jesteś\\psilny!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326124.739897,
+  "touched": true
  },
  "datatext.txt::datatext.txt_594": {
   "source": "{CIRCLE_1} Select “WITHDRAW ITEM” to withdraw\\n   an item stored on your PC.\\n{CIRCLE_2} Select “DEPOSIT ITEM” to put \\n   an item from your BAG into your PC.",
@@ -83335,10 +83371,14 @@
  },
  "src.txt::src.txt_2874": {
   "source": "Oh! How could you use that\\nPOKéMON in that situation?\\p",
-  "target": "",
-  "status": "new",
+  "target": "Och! Jak mogłeś użyć\\nw tej sytuacji tego\\pPokémona?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326128.0648758,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2081": {
   "source": "MADELINE",
@@ -85862,6 +85902,17 @@
   "ignored": true,
   "manual_skip": true
  },
+ "src.txt::src.txt_2890": {
+  "source": "Glad to meet you.\\nPlease don't be a stranger!\\p",
+  "target": "Miło cię\\npoznać. Poznajmy się\\plepiej!",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326145.7763364,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_748": {
   "source": "RAIN DISH",
   "target": "",
@@ -85871,13 +85922,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586288.3343663
- },
- "src.txt::src.txt_2890": {
-  "source": "Glad to meet you.\\nPlease don't be a stranger!\\p",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "src.txt::src.txt_1781": {
   "source": "たびに でたいな-\\nどこか いい ところ しらない?",
@@ -93034,10 +93078,14 @@
  },
  "src.txt::src.txt_2876": {
   "source": "That's it!\\nThis is the right move now!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Właśnie tak!\\nTo idealny moment na ten\\pruch!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326130.2484894,
+  "touched": true
  },
  "datatext.txt::datatext.txt_496": {
   "source": "A POKéMON CENTER is identified by its\\nred roof and a “P.C” sign. Every\\lPOKéMON CENTER offers such services as\\lfully healing POKéMON and free PC use,\\lmaking it essential for your travels.\\lOn the upper floor are facilities for\\llinking with friends and others.",
@@ -96536,10 +96584,14 @@
  },
  "src.txt::src.txt_2872": {
   "source": "You used that move?\\nThat's good strategy!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Użyłeś tego ruchu?\\nCiekawa strategia!\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326125.769854,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2711": {
   "source": "Nope, no luck at all…",
@@ -97831,10 +97883,14 @@
  },
  "src.txt::src.txt_2892": {
   "source": "Finally, a trade got me that\\nPOKéMON I'd wanted a long time.\\p",
-  "target": "",
-  "status": "new",
+  "target": "Nareszcie dostałem\\nPokémona, którego tyle czasu\\pszukałem.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326147.9821508,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1049": {
   "source": "I'm trying to find something good\\nthat's not a BUG POKéMON, but…",
@@ -98671,10 +98727,14 @@
  },
  "src.txt::src.txt_2875": {
   "source": "That POKéMON…\\nIt's been raised really well!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Ten Pokémon...\\nJest świetnie wytrenowany!\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326129.1436079,
+  "touched": true
  },
  "src.txt::src.txt_923": {
   "source": "The foe is hit with\\ndouble chops.\\nIt has a high\\ncritical-hit ratio.",
@@ -100775,10 +100835,14 @@
  },
  "src.txt::src.txt_2873": {
   "source": "Way to go!\\nThat was an eye-opener!\\p",
-  "target": "",
-  "status": "new",
+  "target": "Świetnie! To\\nbyło niesamowite!\\p",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792326126.951781,
+  "touched": true
  },
  "src.txt::src.txt_617": {
   "source": "イボからも からい せいぶんが でている.",
