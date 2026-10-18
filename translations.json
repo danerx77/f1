@@ -31580,12 +31580,12 @@
  },
  "src.txt::src.txt_1790": {
   "source": "POKéMON CENTER",
-  "target": "POKéMON CENTER",
+  "target": "CENTRUM POKéMON",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325043.4602723,
+  "updated": 1792325073.147176,
   "touched": true
  },
  "data maps.txt::data maps.txt_788": {
@@ -74226,17 +74226,23 @@
   "notes": "",
   "ignored": false
  },
- "src.txt::src.txt_998": {
-  "source": "The user feigns\\ncrying to sharply\\nlower the foe's\\nSP. DEF stat.",
-  "target": "Użytkownik udaje,\\nże płacze ostro\\nobniżając SP.\\nOBRONĘ wroga.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "src.txt::src.txt_1888": {
   "source": ":",
   "target": "",
   "status": "new",
+  "notes": "",
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325073.5494666,
+  "touched": true
+ },
+ "src.txt::src.txt_998": {
+  "source": "The user feigns\\ncrying to sharply\\nlower the foe's\\nSP. DEF stat.",
+  "target": "Użytkownik udaje,\\nże płacze ostro\\nobniżając SP.\\nOBRONĘ wroga.",
+  "status": "draft",
   "notes": "",
   "ignored": false
  },
