@@ -4419,3 +4419,15 @@
 {"time": "2026-10-18T14:16:47", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": "HANDEL JAJAMI", "new": "w JAJAMI", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:16:48", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": "w JAJAMI", "new": " JAJAMI", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:16:49", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": " JAJAMI", "new": "W JAJAMI", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:16:49", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": "W JAJAMI", "new": "WY JAJAMI", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:16:50", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": "WY JAJAMI", "new": "WYM JAJAMI", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:16:50", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": "WYM JAJAMI", "new": "WYMI JAJAMI", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:16:50", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": "WYMI JAJAMI", "new": "WYMIA JAJAMI", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:16:50", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": "WYMIA JAJAMI", "new": "WYMIAN JAJAMI", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:16:50", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": "WYMIAN JAJAMI", "new": "WYMIANA JAJAMI", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:16:56", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": "WYMIANA JAJAMI", "new": "WYMIANA JA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:16:56", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": "WYMIANA JA", "new": "WYMIANA J", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:16:56", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": "WYMIANA J", "new": "WYMIANA JA", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:16:57", "file": "src.txt", "seg_id": "src.txt_2917", "source": "EGG TRADE", "old": "WYMIANA JA", "new": "WYMIANA JAJ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:17:15", "file": "src.txt", "seg_id": "src.txt_2909", "source": "Would you like to ask {STR_VAR_1} to\\nmake a trade?", "old": "", "new": "Czy chciałbyś poprosić {STR_VAR_1}\\no dokonanie wymiany?", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:17:15", "file": "src.txt", "seg_id": "src.txt_2909", "source": "Would you like to ask {STR_VAR_1} to\\nmake a trade?", "old": "", "new": "Czy chciałbyś poprosić {STR_VAR_1}\\no dokonanie wymiany?", "translator": "Antrix", "method": "manual"}

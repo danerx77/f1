@@ -17857,17 +17857,20 @@
   "notes": "",
   "ignored": false
  },
+ "src.txt::src.txt_2909": {
+  "source": "Would you like to ask {STR_VAR_1} to\\nmake a trade?",
+  "target": "Czy chciałbyś poprosić {STR_VAR_1}\\no dokonanie wymiany?",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325841.9058852,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_2705": {
   "source": "I should buy some MAIL and write\\nhim a letter…",
   "target": "Muszę kupić LISTY i wysłać\\nmu je szybko.",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2909": {
-  "source": "Would you like to ask {STR_VAR_1} to\\nmake a trade?",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -33021,12 +33024,12 @@
  },
  "src.txt::src.txt_2917": {
   "source": "EGG TRADE",
-  "target": "HANDEL JAJAMI",
+  "target": "WYMIANA JAJ",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325778.7943382,
+  "updated": 1792325818.5115683,
   "touched": true
  },
  "data maps.txt::data maps.txt_1267": {
@@ -69320,7 +69323,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325779.3251224,
+  "updated": 1792325825.529264,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_395": {
@@ -77271,7 +77274,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325803.6012533,
+  "updated": 1792325803.915093,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_699": {
@@ -77711,7 +77714,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325781.963454,
+  "updated": 1792325830.4658985,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_321": {
