@@ -12272,10 +12272,13 @@
  },
  "src.txt::src.txt_1989": {
   "source": "SORRY",
-  "target": "Sorry!",
+  "target": "SORRY",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325266.92954,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1091": {
   "source": "Its flowers give off a relaxing fragrance.\\nThe stronger its aroma, the healthier\\nthe ROSELIA is.",
@@ -65308,7 +65311,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325253.6968243,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_509": {
   "source": "????????",
@@ -68287,7 +68295,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325243.5220554,
+  "updated": 1792325252.9430244,
   "touched": true
  },
  "src.txt::src.txt_1650": {
@@ -100558,10 +100566,14 @@
  },
  "src.txt::src.txt_2000": {
   "source": "Clear all save data areas?",
-  "target": "",
-  "status": "new",
+  "target": "Wyczyścić wszystkie obszary danych zapisanych?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325283.5899498,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3216": {
   "source": "The urge to battle with someone\\nyou've tangled with before…\\pHave you ever had that urge?\\nI'm sure you have.\\pI wanted to battle certain people\\nagain over and over, too.\\pSo, I've been giving these away.\\nPlease, take one!",
@@ -101523,10 +101535,13 @@
  },
  "src.txt::src.txt_1996": {
   "source": "This document is issued in\\nrecognition of your magnificent\\nachievement - the completion of\\nthe {DYNAMIC 0x01} POKéDEX.",
-  "target": "",
-  "status": "new",
+  "target": "Ten dokument został wydany\\nw uznaniu Twojego\\nwspaniałego osiągnięcia -\\nukończenia {DYNAMIC 0x01} POKéDEX.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325279.3477325,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_70": {
   "source": "SEVII ISLE 7",
