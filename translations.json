@@ -54039,12 +54039,13 @@
  },
  "data maps.txt::data maps.txt_197": {
   "source": "Don't touch the poster at the GAME\\nCORNER!\\pThere's no secret switch behind it!",
-  "target": "Nie dotykaj plakatu w SALONIE\\nGIER!\\pNie ma tam żadnego sekretnego \\nprzycisku!",
+  "target": "Nie dotykaj plakatu w SALONIE\\nGIER!\\pNie ma tam żadnego sekretnego\\nprzycisku!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790512494.868878
+  "updated": 1792329217.089667,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_304": {
   "source": "BUBBLE",
