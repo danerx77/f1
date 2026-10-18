@@ -20885,7 +20885,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792323385.2389002,
+  "updated": 1792323515.0590355,
   "touched": true
  },
  "data maps.txt::data maps.txt_2664": {
@@ -23535,7 +23535,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323381.0623329,
+  "updated": 1792323495.1248715,
   "touched": true
  },
  "datatext.txt::datatext.txt_511": {
@@ -24031,12 +24031,12 @@
  },
  "datatext.txt::datatext.txt_492": {
   "source": "The key to making your POKéMON\\nstrong is to battle and win often.\\lThe EXP. (Experience) Points earned\\lby winning battles accumulate to\\llevel up POKéMON that participated in\\lthem. Battle wild POKéMON often to\\llevel up your party.",
-  "target": "Kluczem do uczynienia swoich POKéMONów silnymi\\njest częste walczenie i wygrywanie.\\lPunkty EXP. (Doświadczenia) zdobyte poprzez\\lwygrywanie bitew kumulują się, aby podnieść\\lpoziom POKéMONÓW, które w nich\\luczestniczyły. Często walcz z dzikimi POKéMONAMI,\\laby podnieść poziom swojej drużyny.",
+  "target": "Kluczem do uczynienia swoich POKéMONÓW silnymi\\njest częste walczenie i wygrywanie.\\lPunkty EXP. (Doświadczenia) zdobyte poprzez\\lwygrywanie bitew kumulują się, aby podnieść\\lpoziom POKéMONÓW, które w nich\\luczestniczyły. Często walcz z dzikimi POKéMONAMI,\\laby podnieść poziom swojej drużyny.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323483.4226394,
+  "updated": 1792323490.8252392,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_840": {
@@ -29776,7 +29776,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323384.047198,
+  "updated": 1792323512.574794,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1095": {
@@ -42327,7 +42327,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323381.3077993,
+  "updated": 1792323496.3969421,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_13": {
@@ -50856,7 +50856,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792323386.2182436,
+  "updated": 1792323523.4229367,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_198": {
@@ -70806,7 +70806,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323380.5580132,
+  "updated": 1792323493.3506021,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_579": {
@@ -92405,7 +92405,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323384.388882,
+  "updated": 1792323501.139266,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_624": {
@@ -92737,7 +92737,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323383.2194023,
+  "updated": 1792323509.6757398,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_993": {
