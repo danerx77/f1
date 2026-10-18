@@ -18368,7 +18368,10 @@
   "target": "Przyjechałam z FUCHSIA.\\pTą drogą pod górę DROGĄ\\nROWEROWĄ, więc jestem zmęczona.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792320798.984873,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2536": {
   "source": "So, you want to see my BOSS?",
@@ -50287,7 +50290,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792320758.2029362,
+  "updated": 1792320760.5243366,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_337": {
