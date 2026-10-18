@@ -2482,7 +2482,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323388.0571773,
+  "updated": 1792323603.4241157,
   "touched": true
  },
  "data maps.txt::data maps.txt_61": {
@@ -19834,7 +19834,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323387.067906,
+  "updated": 1792323589.3135128,
   "touched": true
  },
  "data maps.txt::data maps.txt_556": {
@@ -34400,12 +34400,12 @@
  },
  "src.txt::src.txt_1640": {
   "source": "The FAME CHECKER will be closed.",
-  "target": "FAME CHECKER zostanie zamknięty.",
+  "target": "PRZYPOMINACZ został zamknięty.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323563.4194756,
+  "updated": 1792323575.4474406,
   "touched": true
  },
  "src.txt::src.txt_2174": {
@@ -50859,7 +50859,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792323548.2623336,
+  "updated": 1792323583.9580398,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_198": {
@@ -103709,12 +103709,12 @@
  },
  "datatext.txt::datatext.txt_502": {
   "source": "Try to catch wild POKéMON by throwing\\nthe special SAFARI BALLS.\\lYou may keep any item you find, too.",
-  "target": "Spróbuj złapać dzikie POKéMONY,\\nrzucając specjalne KULE SAFARI.\\lMożesz też zatrzymać każdy przedmiot, który znajdziesz.",
+  "target": "Spróbuj złapać dzikie POKéMONY,\\nrzucając specjalne SAFARI BALLS.\\lMożesz też zatrzymać każdy przedmiot, który znajdziesz.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323387.3275242,
+  "updated": 1792323598.4688206,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1071": {
