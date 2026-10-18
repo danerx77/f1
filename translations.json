@@ -11938,12 +11938,12 @@
  },
  "datatext.txt::datatext.txt_740": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: PSYCHIC, GHOST\\p   {TRIANGLE}: FIGHTING, DARK, STEEL",
-  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: PSYCHIC, DUCH\\p   {TRIANGLE}: WALCZĄCY, CIEMNY, STALOWY",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: PSYCHO, DUCH\\p   {TRIANGLE}: WALCZĄCY, MROCZNY, STALOWY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322352.121546,
+  "updated": 1792322424.2996097,
   "touched": true
  },
  "data maps.txt::data maps.txt_582": {
@@ -33950,7 +33950,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322403.427289,
+  "updated": 1792322404.791767,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_700": {
@@ -54654,12 +54654,12 @@
  },
  "datatext.txt::datatext.txt_742": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: FIRE, ICE, FLYING, BUG\\p   {TRIANGLE}: FIGHTING, GROUND, STEEL",
-  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: OGIEŃ, LÓD, LATANIE, ROBACZKI\\p   {TRIANGLE}: WALKA, ZIEMIA, STAL",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: OGIEŃ, LODOWY, LATANIE, ROBACZY\\p   {TRIANGLE}: WALKA, ZIEMNY, STAL",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322351.9520986,
+  "updated": 1792322483.4308264,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_418": {
@@ -90194,12 +90194,12 @@
  },
  "datatext.txt::datatext.txt_741": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FIGHTING, BUG\\p   {TRIANGLE}: GHOST, DARK\\p   {BIG_MULT_X}: PSYCHIC",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: WALKA, ROBACZEK\\p   {TRIANGLE}: DUCH, CIEMNOŚĆ\\p   {BIG_MULT_X}: TELEPATYCZNY",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: WALKA, ROBCZY\\p   {TRIANGLE}: DUCH, MROCZNY\\p   {BIG_MULT_X}: PSYCHO",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322353.1222382,
+  "updated": 1792322448.726224,
   "touched": true
  },
  "src.txt::src.txt_241": {
