@@ -664,7 +664,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322963.4106994,
+  "updated": 1792322967.3211727,
   "touched": true
  },
  "data maps.txt::data maps.txt_2226": {
@@ -34957,12 +34957,12 @@
  },
  "datatext.txt::datatext.txt_767": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: ELECTRIC, ICE, ROCK\\p   {TRIANGLE}: GRASS, FIGHTING, BUG\\p   {BIG_MULT_X}: GROUND",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ELEKTRYCZNY, LÓD, SKAŁA\\p   {TRIANGLE}: TRAWA, WALKA, ROBACZEK\\p   {BIG_MULT_X}: ZIEMIA",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: ELEKTRYCZNY, LÓD, SKAŁA\\p   {TRIANGLE}: TRAWIASTY, WALCZĄCY, ROBACZY\\p   {BIG_MULT_X}: ZIEMIA",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322381.344456,
+  "updated": 1792323003.4190118,
   "touched": true
  },
  "src.txt::src.txt_855": {
