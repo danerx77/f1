@@ -19228,12 +19228,12 @@
  },
  "datatext.txt::datatext.txt_592": {
   "source": "{CIRCLE_3} Select “NEXT DATA” to display the\\n   TOWN MAP with its habitat(s).",
-  "target": "{CIRCLE_3} Wybierz „NASTĘPNE DANE”, aby wyświetlić\\nMAPĘ MIASTA z jego siedliskiem(s).",
+  "target": "{CIRCLE_3} Wybierz „NASTĘPNE DANE”, aby wyświetlić\\nMAPĘ z jego siedliskiem(s).",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323715.1368356,
+  "updated": 1792324017.7469995,
   "touched": true
  },
  "data maps.txt::data maps.txt_1196": {
@@ -39032,12 +39032,12 @@
  },
  "datatext.txt::datatext.txt_591": {
   "source": "{CIRCLE_3} Select “AREA” to display the TOWN\\n   MAP with the POKéMON's habitat(s).",
-  "target": "{CIRCLE_3} Wybierz „OBSZAR”, aby wyświetlić\\nMAPĘ MIASTA z siedliskami POKéMONÓW.",
+  "target": "{CIRCLE_3} Wybierz „OBSZAR”, aby wyświetlić\\nMAPĘ z siedliskami POKéMONÓW.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323713.4149215,
+  "updated": 1792324011.9692924,
   "touched": true
  },
  "data maps.txt::data maps.txt_3214": {
@@ -62172,12 +62172,12 @@
  },
  "datatext.txt::datatext.txt_593": {
   "source": "{CIRCLE_1} Go up to the PC at home, then press\\n   the A Button.\\n{CIRCLE_2} The PC will turn on.\\n{CIRCLE_3} Select either “ITEM STORAGE” or\\n   “MAILBOX.”",
-  "target": "{CIRCLE_1} Podejdź do komputera w domu,\\na następnie naciśnij przycisk A.\\n{CIRCLE_2} Komputer włączy się.\\n{CIRCLE_3} Wybierz „PRZECHOWYWANIE PRZEDMIOTÓW”\\nlub „SKRZYNKA POCZTOWA”.",
+  "target": "{CIRCLE_1} Podejdź do komputera w domu,\\na następnie naciśnij przycisk A.\\n{CIRCLE_2} Komputer włączy się.\\n{CIRCLE_3} Wybierz „PRZECHOWYWANIE PRZEDMIOTÓW”\\nlub „POCZTA”.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323717.516231,
+  "updated": 1792324025.065487,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_408": {
@@ -70962,12 +70962,12 @@
  },
  "datatext.txt::datatext.txt_594": {
   "source": "{CIRCLE_1} Select “WITHDRAW ITEM” to withdraw\\n   an item stored on your PC.\\n{CIRCLE_2} Select “DEPOSIT ITEM” to put \\n   an item from your BAG into your PC.",
-  "target": "{CIRCLE_1} Wybierz „WYCOFAJ PRZEDMIOT”, aby wycofać\\nprzedmiot przechowywany na Twoim komputerze.\\n{CIRCLE_2} Wybierz „DEPOSIT ITEM”, aby włożyć\\nprzedmiot z PLECAKA do swojego PC.",
+  "target": "{CIRCLE_1} Wybierz „WYCOFAJ PRZEDMIOT”, aby wycofać\\nprzedmiot przechowywany na Twoim komputerze.\\n{CIRCLE_2} Wybierz „DEPONUJ”, aby włożyć\\nprzedmiot z PLECAKA do swojego PC.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323716.5510714,
+  "updated": 1792324043.4802537,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1854": {
@@ -98869,7 +98869,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324003.469412,
+  "updated": 1792324005.2242799,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_459": {
