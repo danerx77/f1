@@ -2832,7 +2832,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323711.236448,
+  "updated": 1792323963.452073,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_648": {
@@ -13334,7 +13334,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323711.196499,
+  "updated": 1792323958.6631234,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1653": {
@@ -16786,12 +16786,12 @@
  },
  "datatext.txt::datatext.txt_579": {
   "source": "{CIRCLE_1} Select “{PLAYER}'s PC” on the PC.\\n{CIRCLE_2} Select either “ITEM STORAGE” or\\n   “MAILBOX.”\\nYou may store things in your own PC\\nif your BAG is full. You may also\\nwithdraw items stored in your PC.",
-  "target": "Na komputerze wybierz „PC {PLAYER}”.{CIRCLE_1}\\n{CIRCLE_2} Wybierz „PRZECHOWYWANIE PRZEDMIOTÓW” lub\\n„POCZTA.” Możesz przechowywać rzeczy\\nw swoim PC, jeśli Twój PLECAK\\njest pełny. Możesz także wypłacać\\nprzedmioty przechowywane w swoim PC.",
+  "target": "Na komputerze wybierz „PC {PLAYER}”.{CIRCLE_1}\\n{CIRCLE_2} Wybierz „PRZECHOWYWANIE PRZEDMIOTÓW” lub\\n„POCZTA.” Możesz przechowywać rzeczy\\nw swoim PC, jeśli Twoja TORBA\\njest pełny. Możesz także wypłacać\\nprzedmioty przechowywane w swoim PC.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323923.4565034,
+  "updated": 1792323941.4950743,
   "touched": true
  },
  "data maps.txt::data maps.txt_269": {
@@ -21071,7 +21071,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323706.3861256,
+  "updated": 1792323948.2249866,
   "touched": true
  },
  "data maps.txt::data maps.txt_356": {
@@ -40197,7 +40197,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323706.6374443,
+  "updated": 1792323950.3026705,
   "touched": true
  },
  "data maps.txt::data maps.txt_1976": {
@@ -49805,7 +49805,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323708.8842306,
+  "updated": 1792323956.4127152,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_403": {
@@ -63362,7 +63362,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323708.47616,
+  "updated": 1792323953.1554904,
   "touched": true
  },
  "data maps.txt::data maps.txt_2859": {
@@ -85528,7 +85528,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323707.976822,
+  "updated": 1792323960.174286,
   "touched": true
  },
  "datascript.txt::datascript.txt_69": {
