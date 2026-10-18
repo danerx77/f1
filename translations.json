@@ -11676,12 +11676,12 @@
  },
  "datatext.txt::datatext.txt_746": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: NORMAL, ICE, ROCK, DARK, STEEL\\p   {TRIANGLE}: POISON, FLYING, PSYCHIC, BUG\\p   {BIG_MULT_X}: GHOST",
-  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: NORMALNY, LODOWY, SKAŁA, CIEMNY, STALOWY\\p{TRIANGLE}: TRUJĄCY, LATAJĄCY, PSYCHICZNY, ROBACZY\\p   {BIG_MULT_X}: DUCH",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: NORMALNY, LODOWY, KAMIENNY, MROCZNY, STALOWY\\p{TRIANGLE}: TRUJĄCY, LATAJĄCY, PSYCHO, ROBACZY\\p   {BIG_MULT_X}: DUCH",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322643.4310994,
+  "updated": 1792322666.8789139,
   "touched": true
  },
  "datatext.txt::datatext.txt_270": {
@@ -34839,12 +34839,12 @@
  },
  "datatext.txt::datatext.txt_747": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FLYING, PSYCHIC\\p   {TRIANGLE}: BUG, ROCK, DARK",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: LATANIE, PSYCHICZNY\\p   {TRIANGLE}: ROBACZKOWY, SKAŁA, CIEMNY",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: LATANIE, PSYCHICZNY\\p   {TRIANGLE}: ROBACZY, KAMIENNY, MROCZNY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322360.1060164,
+  "updated": 1792322683.3999288,
   "touched": true
  },
  "src.txt::src.txt_1626": {
