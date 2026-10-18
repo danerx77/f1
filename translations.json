@@ -87503,7 +87503,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792316980.2133982,
+  "updated": 1792317002.6495845,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_798": {
@@ -97422,10 +97422,13 @@
  },
  "datatext.txt::datatext.txt_720": {
   "source": "Own POKéMON type: GROUND",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON typ: ZIEMNY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792317020.2204547,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_789": {
   "source": "YELLOW FLUTE",
@@ -99806,13 +99809,13 @@
  },
  "datatext.txt::datatext.txt_719": {
   "source": "Own move type: GROUND",
-  "target": "Własny ruch Typ: ",
+  "target": "Własny ruch Typ: ZIEMNY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792316892.662,
+  "updated": 1792317000.2425718,
   "touched": true
  },
  "src.txt::src.txt_1620": {
