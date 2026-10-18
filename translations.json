@@ -2445,7 +2445,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324299.9526196,
+  "updated": 1792324475.687473,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_108": {
@@ -31931,12 +31931,12 @@
  },
  "datatext.txt::datatext.txt_660": {
   "source": "Whenever you win a battle against a\\nTRAINER, you are given prize money.\\lSave up your prize money so you can\\lenjoy shopping at POKéMON MARTS!",
-  "target": "Za każdym razem, gdy wygrasz bitwę\\nz TRENEREM, otrzymujesz nagrodę pieniężną.\\lOszczędzaj swoją nagrodę pieniężną, aby móc\\lcieszyć się zakupami w POKéMON MARTS!",
+  "target": "Za każdym razem, gdy wygrasz bitwę\\nz TRENEREM, otrzymujesz nagrodę pieniężną.\\lOszczędzaj swoją nagrodę pieniężną, aby móc\\lcieszyć się zakupami w POKéMON SKLEPIE!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324443.4901474,
+  "updated": 1792324457.7193127,
   "touched": true
  },
  "datatext.txt::datatext.txt_311": {
@@ -41640,7 +41640,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324368.0129037,
+  "updated": 1792324465.9498158,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_63": {
@@ -79278,7 +79278,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324368.0129132,
+  "updated": 1792324472.839289,
   "touched": true
  },
  "data maps.txt::data maps.txt_703": {
@@ -81520,7 +81520,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324303.5880237,
+  "updated": 1792324469.6238556,
   "touched": true
  },
  "data maps.txt::data maps.txt_1282": {
@@ -82308,7 +82308,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324368.0129228,
+  "updated": 1792324483.496349,
   "touched": true
  },
  "datatext.txt::datatext.txt_419": {
@@ -87559,7 +87559,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324297.6411748,
+  "updated": 1792324460.5599167,
   "touched": true
  },
  "data maps.txt::data maps.txt_610": {
@@ -96597,7 +96597,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324302.7339017,
+  "updated": 1792324477.5666604,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1525": {
