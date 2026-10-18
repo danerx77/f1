@@ -2477,12 +2477,12 @@
  },
  "datatext.txt::datatext.txt_503": {
   "source": "Your SAFARI GAME ends once you have\\ntraveled a certain distance or thrown\\lall your SAFARI BALLS.\\lOpen the MENU to check the remaining\\lnumber of steps and SAFARI BALLS.",
-  "target": "Twoja GRA SAFARI kończy się,\\ngdy przebyjesz określony dystans lub\\lużyjesz wszystkich swoich PIŁEK SAFARI.\\lOtwórz MENU, aby sprawdzić pozostałą\\lliczbę kroków i PIŁEK SAFARI.",
+  "target": "Twoja GRA SAFARI kończy się,\\ngdy przebyjesz określony dystans lub\\lużyjesz wszystkich swoich SAFARI BALLS.\\lOtwórz MENU, aby sprawdzić pozostałą\\lliczbę kroków i SAFARI BALLS.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323603.4241157,
+  "updated": 1792323613.9642022,
   "touched": true
  },
  "data maps.txt::data maps.txt_61": {
@@ -39196,7 +39196,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323387.9071195,
+  "updated": 1792323618.1380703,
   "touched": true
  },
  "datatext.txt::datatext.txt_855": {
@@ -56459,12 +56459,12 @@
  },
  "datatext.txt::datatext.txt_505": {
   "source": "POKéMON GYMS are operated by the\\nPOKéMON LEAGUE and are training\\lfacilities for TRAINERS. They are all\\lacross the land in cities and towns.\\lEach one is headed by a LEADER, who\\lis a very skilled TRAINER. Beat the\\lLEADER to collect a BADGE.",
-  "target": "SIŁOWNIE POKéMON są prowadzone przez LIGĘ\\nPOKéMON i są miejscami treningowymi dla\\lTRENERÓW. Znajdują się one w\\lcałym kraju w miastach i miasteczkach.\\lKażdą z nich kieruje LIDER,\\lktóry jest bardzo wykwalifikowanym TRENEREM.\\lPokonaj LIDERA, aby zdobyć ODZNAKĘ.",
+  "target": "SALA POKéMON są prowadzone przez LIGĘ\\nPOKéMON i są miejscami treningowymi dla\\lTRENERÓW. Znajdują się one w\\lcałym kraju w miastach i miasteczkach.\\lKażdą z nich kieruje LIDER,\\lktóry jest bardzo wykwalifikowanym TRENEREM.\\lPokonaj LIDERA, aby zdobyć ODZNAKĘ.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323389.8577695,
+  "updated": 1792323632.95603,
   "touched": true
  },
  "data maps.txt::data maps.txt_679": {
@@ -84716,10 +84716,14 @@
  },
  "datatext.txt::datatext.txt_510": {
   "source": "  Using “ITEM”",
-  "target": "",
+  "target": "  Użył “ITEM”",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792323643.4218793,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_729": {
   "source": "It came from overseas. It is a very hardy\\ncreature that will quickly proliferate,\\neven in polluted streams.",
@@ -85813,10 +85817,14 @@
  },
  "datatext.txt::datatext.txt_509": {
   "source": "  Using “SWITCH”",
-  "target": "",
+  "target": "  Użył “ZAMIANA”",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792323637.1869311,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2071": {
   "source": "If you leave me that POKéMON,\\nwhat will you battle with?",
