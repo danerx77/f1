@@ -39208,12 +39208,12 @@
  },
  "datatext.txt::datatext.txt_587": {
   "source": "This command switches the POKéMON in\\nbattle with another one in your party.\\n{CIRCLE_1} Select the POKéMON to be sent out.\\n{CIRCLE_2} Select “SHIFT.”\\n{CIRCLE_3} The selected POKéMON will switch\\n   places with the POKéMON in battle!",
-  "target": "Ta komenda zamienia POKéMONA w walce\\nna innego z twojej drużyny.\\n{CIRCLE_1} Wybierz POKéMONA, którego chcesz wysłać.\\n{CIRCLE_2} Wybierz “ZAMIEŃ.” {CIRCLE_3}\\nWybrany POKéMON zamieni się miejscami\\nz POKéMON-em w walce!",
+  "target": "Ta komenda zamienia POKéMONA w walce\\nna innego z twojej drużyny.\\n{CIRCLE_1} Wybierz POKéMONA, którego chcesz wysłać.\\n{CIRCLE_2} Wybierz “ZAMIEŃ.” {CIRCLE_3}\\nWybrany POKéMON zamieni się miejscami\\nz POKéMONEM w walce!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324222.4553113,
+  "updated": 1792329831.59894,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_949": {
@@ -60328,12 +60328,12 @@
  },
  "datatext.txt::datatext.txt_554": {
   "source": "{CIRCLE_1} Select “POKéDEX” on the MENU.\\n{CIRCLE_2} Choose POKéMON using commands such\\n   as “POKéMON LIST,”\\n   “HABITATS OF POKéMON,” and\\n   “SEARCH.”\\n{CIRCLE_3} Select a POKéMON to obtain detailed\\n   information.",
-  "target": "{CIRCLE_1} Wybierz “POKéDEX” w MENU.\\n{CIRCLE_2} Wybierz POKéMONA,\\nużywając poleceń takich jak\\n“LISTA POKéMONÓW”, “SIEDLISKA\\nPOKéMONÓW” i “SZUKAJ”.\\n{CIRCLE_3} Wybierz POKéMON-a, aby\\nuzyskać szczegółowe informacje.",
+  "target": "{CIRCLE_1} Wybierz “POKéDEX” w MENU.\\n{CIRCLE_2} Wybierz POKéMONA,\\nużywając poleceń takich jak\\n“LISTA POKéMONÓW”, “SIEDLISKA\\nPOKéMONÓW” i “SZUKAJ”.\\n{CIRCLE_3} Wybierz POKéMONA, aby\\nuzyskać szczegółowe informacje.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792329817.094089,
+  "updated": 1792329822.4929695,
   "touched": true
  },
  "datatext.txt::datatext.txt_606": {
@@ -70182,7 +70182,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791656258.5733712,
+  "updated": 1792329858.022393,
   "touched": true
  },
  "datatext.txt::datatext.txt_409": {
@@ -107095,12 +107095,12 @@
  },
  "datatext.txt::datatext.txt_678": {
   "source": "Set to “HELP” to display help messages\\nby pressing the L or R Button.\\lSet to “LR” to enable the switching\\lof the POKéDEX pages and BAG POCKETS\\lusing the L and R Buttons.\\lSet to “L=A” to make the L Button\\lwork the same as the A Button.",
-  "target": "Ustaw na “POMOC”, aby wyświetlać komunikaty\\npomocy naciskając przycisk L lub R.\\lUstaw na “LR”, aby włączyć przełączanie\\lstron POKéDEX-a i KIESZENI PLECAKA\\lza pomocą przycisków L i R.\\lUstaw na “L=A”, aby przycisk L\\ldziałał tak samo jak przycisk A.",
+  "target": "Ustaw na “POMOC”, aby wyświetlać komunikaty\\npomocy naciskając przycisk L lub R.\\lUstaw na “LR”, aby włączyć przełączanie\\lstron POKéDEXA i KIESZENI PLECAKA\\lza pomocą przycisków L i R.\\lUstaw na “L=A”, aby przycisk L\\ldziałał tak samo jak przycisk A.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324618.8956861,
+  "updated": 1792329845.5660002,
   "touched": true
  },
  "src.txt::src.txt_1953": {
