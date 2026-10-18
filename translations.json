@@ -27617,12 +27617,12 @@
  },
  "datatext.txt::datatext.txt_748": {
   "source": "Effect on the opposing POKéMON:\\p   {CIRCLE_DOT}: WATER, GROUND, ROCK\\p   {TRIANGLE}: FIRE, GRASS, POISON, FLYING,\\n       BUG, DRAGON, STEEL",
-  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: WODA, ZIEMIA, SKAŁA\\p   {TRIANGLE}: OGNIEŃ, TRAWA,\\nTRUJĄCY, LATAJĄCY, ROBACZEK, SMOK, STAL",
+  "target": "Wpływ na przeciwnika POKéMON:\\p   {CIRCLE_DOT}: WODNY, ZIEMNY, KAMIENNY\\p   {TRIANGLE}: OGNISTY, TRAWA,\\nTRUJĄCY, LATAJĄCY, ROBACZEK, SMOK, STAL",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322359.6691446,
+  "updated": 1792322723.42704,
   "touched": true
  },
  "data maps.txt::data maps.txt_688": {
@@ -34839,12 +34839,12 @@
  },
  "datatext.txt::datatext.txt_747": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FLYING, PSYCHIC\\p   {TRIANGLE}: BUG, ROCK, DARK",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: LATANIE, PSYCHICZNY\\p   {TRIANGLE}: ROBACZY, KAMIENNY, MROCZNY",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}: LATAJĄCY, PSYCHO\\p   {TRIANGLE}: ROBACZY, KAMIENNY, MROCZNY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322683.3999288,
+  "updated": 1792322701.8652213,
   "touched": true
  },
  "src.txt::src.txt_1626": {
