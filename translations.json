@@ -93981,10 +93981,14 @@
  },
  "datatext.txt::datatext.txt_738": {
   "source": "Own POKéMON type: BUG",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON typ: ROBACZY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792319286.7216687,
+  "touched": true
  },
  "data maps.txt::data maps.txt_984": {
   "source": "I'm raising POKéMON, too.\\pWhen they get strong, they can\\nprotect me.",
@@ -95527,13 +95531,13 @@
  },
  "datatext.txt::datatext.txt_737": {
   "source": "Own move type: BUG",
-  "target": "RAMKA",
+  "target": "Własny ruch Typ: ROBACZY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792319256.968078,
+  "updated": 1792319276.3057685,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1162": {
@@ -104832,10 +104836,13 @@
  },
  "datatext.txt::datatext.txt_739": {
   "source": "Depending on the matchup of the\\nmove type and the target POKéMON's\\ltype, the move's effectiveness varies:\\l{CIRCLE_DOT}: Super effective!\\l{TRIANGLE}: Not very effective\\l{BIG_MULT_X}: Not effective at all\\l(No changes for other matchups.)",
-  "target": "",
-  "status": "new",
+  "target": "W zależności od tego co na niej się\\nmove type and the target POKéMON's\\ltype, the move's effectiveness varies:\\l{CIRCLE_DOT}: Super effective!\\l{TRIANGLE}: Not very effective\\l{BIG_MULT_X}: Not effective at all\\l(No changes for other matchups.)",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792319297.0075746,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_510": {
   "source": "BOOK",
@@ -108064,7 +108071,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792319081.833531,
+  "updated": 1792319272.002061,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_755": {
