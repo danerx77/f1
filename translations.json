@@ -4618,7 +4618,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326116.3543713,
+  "updated": 1792326375.7608676,
   "touched": true
  },
  "data maps.txt::data maps.txt_1175": {
@@ -9212,7 +9212,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326118.675854,
+  "updated": 1792326379.8325522,
   "touched": true
  },
  "data maps.txt::data maps.txt_579": {
@@ -37015,7 +37015,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326117.523211,
+  "updated": 1792326377.8628266,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_820": {
@@ -58703,13 +58703,13 @@
  },
  "src.txt::src.txt_2868": {
   "source": "Oh…\\nPlease come by anytime.\\p",
-  "target": "O\\nch...\\pPa.",
+  "target": "Och...Wpadnij w każdej\\pchwili.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326119.8204432,
+  "updated": 1792326404.7972918,
   "touched": true
  },
  "datatext.txt::datatext.txt_135": {
@@ -66775,7 +66775,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326113.76455,
+  "updated": 1792326366.5412967,
   "touched": true
  },
  "data maps.txt::data maps.txt_3300": {
@@ -71224,13 +71224,13 @@
  },
  "src.txt::src.txt_2864": {
   "source": "Whoops! Sorry, but I have to do\\nsomething else.\\lAnother time, okay?\\p",
-  "target": "Ups! Przykro mi, ale muszę zrobić\\ncoś innego.\\lfNastępnym razem,\\pdobrze?",
+  "target": "Ups! Przykro mi, ale muszę zrobić\\ncoś innego.\\lNastępnym razem,\\pdobrze?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326114.973565,
+  "updated": 1792326371.1233783,
   "touched": true
  },
  "data maps.txt::data maps.txt_2177": {
@@ -96105,7 +96105,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792326363.6892867,
+  "updated": 1792326364.6961865,
   "touched": true
  },
  "src.txt::src.txt_1566": {
