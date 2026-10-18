@@ -3198,10 +3198,13 @@
  },
  "datatext.txt::datatext.txt_1021": {
   "source": "You've hatched that many EGGS?\\nYou really must like them!\\pThat's impressive, yup!\\nI'll give you one of these.",
-  "target": "",
-  "status": "new",
+  "target": "Wylęgłeś aż tyle JAJ?\\nNaprawdę musisz je lubić!\\pTo imponujące, tak!\\nDam ci jedną z tych.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323206.9431798,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_750": {
   "source": "FARFETCH'D",
@@ -6152,10 +6155,13 @@
  },
  "datatext.txt::datatext.txt_1023": {
   "source": "Wh… You hatched that many EGGS?\\pWhat's behind your love of EGGS?\\nIt's beyond incredible, yup!\\pYou're too awesome, I tell you.\\nThat's it, I have to give you this.",
-  "target": "",
-  "status": "new",
+  "target": "Co… Wyklułeś tylu JAJ?\\pCo stoi za twoją miłością do JAJEK?\\nTo jest niesamowite, tak!\\pJesteś zbyt niesamowity, mówię ci.\\nTo wszystko, muszę ci to dać.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323210.779104,
+  "touched": true
  },
  "src.txt::src.txt_18": {
   "source": "ELECTR",
@@ -7199,10 +7205,13 @@
  },
  "datatext.txt::datatext.txt_1032": {
   "source": "Hmm…\\pCome back with a better story next\\ntime, okay?",
-  "target": "",
-  "status": "new",
+  "target": "Hmm…\\pWróć następnym razem z\\nlepszą historią, okej?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323215.2273881,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_201": {
   "source": "ICEFALL CAVE",
@@ -23940,10 +23949,13 @@
  },
  "datatext.txt::datatext.txt_1029": {
   "source": "Whoa! You've beaten your friends\\na frightful number of times.\\pHave you lost friends over this?\\nI'll give you one of these.",
-  "target": "",
-  "status": "new",
+  "target": "O rety! Pokonałeś swoich\\nprzyjaciół przerażającą liczbę razy.\\pCzy straciłeś przez to przyjaciół?\\nDam ci jedną z tych.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323216.0674143,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1000": {
   "source": "A hold item that restores HP but\\\\nmay cause confusion when used.",
@@ -29717,10 +29729,13 @@
  },
  "datatext.txt::datatext.txt_1026": {
   "source": "Oh, no, no can do.\\pYou're practically a living legend.\\nI have no SITCKERS left to give.",
-  "target": "",
-  "status": "new",
+  "target": "Och, nie, nie da się.\\pJesteś praktycznie żywą legendą.\\nNie mam już żadnych NAKLEJEK do rozdania.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323211.3238354,
+  "touched": true
  },
  "src.txt::src.txt_1613": {
   "source": "10F",
@@ -32232,10 +32247,13 @@
  },
  "datatext.txt::datatext.txt_1022": {
   "source": "Whoa! You've hatched a whole\\nbunch of EGGS!\\pYou're an EGG-hatching machine!\\nI'll give you one of these.",
-  "target": "",
-  "status": "new",
+  "target": "O rety! Wykluło ci\\nsię całe mnóstwo JAJEK!\\pJesteś maszyną do wykluwania jaj!\\nDam ci jedną z tych.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323207.2975662,
+  "touched": true
  },
  "data maps.txt::data maps.txt_881": {
   "source": "It's clear that you're skilled.\\nI like you!",
@@ -32899,10 +32917,13 @@
  },
  "datatext.txt::datatext.txt_1030": {
   "source": "Wh… Wickedly whoa!\\nYou've won mind-blowingly often!\\pIt just knocks me out thinking\\nabout how tough you are.\\pYou're the stuff of nightmares!\\nThat's it, I have to give you this.",
-  "target": "",
-  "status": "new",
+  "target": "O… Niezwykle wow!\\nWygrałeś zadziwiająco często!\\pPo prostu powala mnie na myśl\\no tym, jak jesteś twardy.\\pJesteś materiałem na koszmary!\\nTo wszystko, muszę ci to dać.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323218.6482828,
+  "touched": true
  },
  "data maps.txt::data maps.txt_608": {
   "source": "SAFARI ZONE\\nWARDEN'S HOME",
@@ -33156,7 +33177,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323197.0783288,
+  "updated": 1792323243.4547806,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1128": {
@@ -33423,10 +33444,13 @@
  },
  "datatext.txt::datatext.txt_1033": {
   "source": "Oh, no, no can do.\\pYou're practically a living legend.\\nI have no SITCKERS left to give.",
-  "target": "",
-  "status": "new",
+  "target": "Och, nie, nie da się.\\pJesteś praktycznie żywą legendą.\\nNie mam już żadnych NAKLEJEK do rozdania.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323217.7374842,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2882": {
   "source": "I must salute you!",
@@ -46435,7 +46459,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323194.470965,
+  "updated": 1792323240.9762018,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_415": {
@@ -48406,17 +48430,20 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_1019": {
+  "source": "Oh, no, no can do.\\pYou're practically a living legend.\\nI have no SITCKERS left to give.",
+  "target": "Och, nie, nie da się.\\pJesteś praktycznie żywą legendą.\\nNie mam już żadnych NAKLEJEK do rozdania.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323204.1170025,
+  "touched": true
+ },
  "src.txt::src.txt_422": {
   "source": "was too sour!",
   "target": "było zbyt kwaśne!",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "datatext.txt::datatext.txt_1019": {
-  "source": "Oh, no, no can do.\\pYou're practically a living legend.\\nI have no SITCKERS left to give.",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -51840,13 +51867,13 @@
  },
  "datatext.txt::datatext.txt_1031": {
   "source": "The VICTORY STICKER was applied\\nto the TRAINER CARD.",
-  "target": "The VICTORY STICKER was applied\\nto the TRAINER CARD.",
+  "target": "NAKLEJKA ZWYCIĘSTWA została przyklejona\\ndo KARTY TRENERA.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791656188.4176626,
+  "updated": 1792323212.8848152,
   "touched": true
  },
  "data maps.txt::data maps.txt_829": {
@@ -58576,10 +58603,13 @@
  },
  "datatext.txt::datatext.txt_1020": {
   "source": "Oh, wow, there are POKéMON EGGS?\\nI didn't know that!\\pThat's pretty good, yup!\\nI'll give you one of these.",
-  "target": "",
-  "status": "new",
+  "target": "O, wow, są JAJKA POKéMON?\\nNie wiedziałem tego!\\pTo całkiem dobre, tak!\\nDam ci jedną z tych.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323205.8246012,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1121": {
   "source": "JAN: KIRI, here we go!\\nLet's win for sure this time!",
@@ -81533,7 +81563,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323203.4358974,
+  "updated": 1792323231.358017,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_30": {
@@ -83092,7 +83122,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323203.2791986,
+  "updated": 1792323237.1362884,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_37": {
@@ -87563,6 +87593,16 @@
   "ignored": true,
   "manual_skip": true
  },
+ "datatext.txt::datatext.txt_1025": {
+  "source": "Hmm…\\pCome back with a better story next\\ntime, okay?",
+  "target": "Hmm…\\pWróć następnym razem z\\nlepszą historią, dobrze?",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323209.0237086,
+  "touched": true
+ },
  "src.txt::src.txt_2454": {
   "source": "SNORLAX",
   "target": "",
@@ -87570,13 +87610,6 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true
- },
- "datatext.txt::datatext.txt_1025": {
-  "source": "Hmm…\\pCome back with a better story next\\ntime, okay?",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdata.txt::srcdata.txt_1716": {
   "source": "TAYLOR",
@@ -94785,14 +94818,14 @@
  },
  "datatext.txt::datatext.txt_1024": {
   "source": "The EGG STICKER was applied\\nto the TRAINER CARD.",
-  "target": "",
-  "status": "new",
+  "target": "NAKLEJKA JAJKO została przyklejona\\ndo KARTY TRENERA.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791656197.229993
+  "updated": 1792323207.1130388,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_140": {
   "source": "CAMP CHAIR",
@@ -98594,7 +98627,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792323193.453102,
+  "updated": 1792323239.1714015,
   "touched": true
  },
  "src.txt::src.txt_2198": {
@@ -100147,10 +100180,13 @@
  },
  "datatext.txt::datatext.txt_1028": {
   "source": "You've beaten your friends a lot\\nlink battling, huh?\\pYou're impressively strong, yup!\\nI'll give you one of these.",
-  "target": "",
-  "status": "new",
+  "target": "Wygrałeś z przyjaciółmi wiele razy w\\nwalkach na link, co nie?\\pJesteś niesamowicie silny, tak!\\nDam ci jedną z tych.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323213.1736455,
+  "touched": true
  },
  "src.txt::src.txt_776": {
   "source": "An attack that hits\\non the 2nd turn.\\nCan also be used\\nto exit dungeons.",
@@ -106668,10 +106704,13 @@
  },
  "datatext.txt::datatext.txt_1027": {
   "source": "Oh, wow, you've had success\\nlink battling?\\pYou're pretty strong, yup!\\nI'll give you one of these.",
-  "target": "",
-  "status": "new",
+  "target": "O, wow, miałeś sukces\\nw walce o linki?\\pJesteś całkiem silny, tak!\\nDam ci jedną z tych.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323210.7274876,
+  "touched": true
  },
  "src.txt::src.txt_1310": {
   "source": "Send the removed MAIL to\\nyour PC?",
