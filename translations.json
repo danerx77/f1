@@ -265,7 +265,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "src.txt::src.txt_2793": {
@@ -582,7 +582,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_169": {
@@ -2460,7 +2460,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "datascript.txt::datascript.txt_76": {
@@ -3640,7 +3640,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1776": {
@@ -3713,7 +3713,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_11": {
@@ -3766,7 +3766,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_2970": {
@@ -8249,10 +8249,14 @@
  },
  "datatext.txt::datatext.txt_722": {
   "source": "Own POKéMON type: ELECTRIC",
-  "target": "",
-  "status": "new",
+  "target": "POKéMON typ: ELEKTRYCZNY",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792318221.1296854,
+  "touched": true
  },
  "data maps.txt::data maps.txt_971": {
   "source": "I traded POKéMON with my boyfriend\\nfar away!\\pEveryone's saying that we can\\nthank you and CELIO.\\pSo, thank you!",
@@ -17220,7 +17224,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1584": {
@@ -17911,7 +17915,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_612": {
@@ -18346,8 +18350,8 @@
  },
  "srcdata.txt::srcdata.txt_1381": {
   "source": "TM48",
-  "target": "",
-  "status": "new",
+  "target": "TM48",
+  "status": "draft",
   "notes": "",
   "ignored": true,
   "manual_skip": true,
@@ -18369,7 +18373,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_643": {
@@ -20084,7 +20088,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1109": {
@@ -22073,7 +22077,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_184": {
@@ -22696,10 +22700,14 @@
  },
  "datatext.txt::datatext.txt_723": {
   "source": "Own move type: POISON",
-  "target": "",
-  "status": "new",
+  "target": "Own move Typ: Trujący",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792318251.564199,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_547": {
   "source": "It is small but rough and tough. It won't\\nhesitate to take a bite out of anything\\nthat moves.",
@@ -24732,7 +24740,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "src.txt::src.txt_1266": {
@@ -25951,7 +25959,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734970.5868573,
   "touched": true
  },
  "datatext.txt::datatext.txt_212": {
@@ -27910,10 +27918,10 @@
  },
  "src.txt::src.txt_2646": {
   "source": "VAPOREON",
-  "target": "",
-  "status": "new",
+  "target": "VAPOREON",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -28914,14 +28922,14 @@
  },
  "srcdata.txt::srcdata.txt_939": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_26": {
@@ -28970,14 +28978,14 @@
  },
  "srcdata.txt::srcdata.txt_1187": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data.txt::data.txt_48": {
@@ -32194,7 +32202,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1170": {
@@ -32206,7 +32214,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_3": {
@@ -35995,7 +36003,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1964": {
@@ -41193,7 +41201,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_986": {
@@ -42880,7 +42888,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "src.txt::src.txt_2191": {
@@ -47841,7 +47849,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_48": {
@@ -50849,10 +50857,10 @@
  },
  "src.txt::src.txt_2489": {
   "source": "EEVEE",
-  "target": "",
-  "status": "new",
+  "target": "EEVEE",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -50928,7 +50936,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_35": {
@@ -53084,7 +53092,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_656": {
@@ -53227,7 +53235,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "data.txt::data.txt_8": {
@@ -56595,8 +56603,8 @@
  },
  "srcdata.txt::srcdata.txt_669": {
   "source": "TM48",
-  "target": "TM48",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
   "ignored": true,
   "manual_skip": true,
@@ -56885,7 +56893,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1490": {
@@ -57833,14 +57841,14 @@
  },
  "srcdata.txt::srcdata.txt_562": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_516": {
@@ -59130,7 +59138,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "datatext.txt::datatext.txt_257": {
@@ -60090,7 +60098,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "src.txt::src.txt_2154": {
@@ -60459,7 +60467,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "src.txt::src.txt_2388": {
@@ -63045,14 +63053,14 @@
  },
  "srcdata.txt::srcdata.txt_947": {
   "source": "????????",
-  "target": "????????",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5723386,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "datatext.txt::datatext.txt_937": {
@@ -63445,7 +63453,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "src.txt::src.txt_736": {
@@ -64737,7 +64745,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "src.txt::src.txt_71": {
@@ -65096,7 +65104,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "datatext.txt::datatext.txt_48": {
@@ -65335,7 +65343,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_682": {
@@ -66481,7 +66489,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_1492": {
@@ -66586,7 +66594,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_373": {
@@ -70678,7 +70686,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_48": {
@@ -70746,7 +70754,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_3078": {
@@ -72732,7 +72740,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_552": {
@@ -73026,7 +73034,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "data maps.txt::data maps.txt_2992": {
@@ -73487,7 +73495,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_77": {
@@ -74947,10 +74955,10 @@
  },
  "srcdata.txt::srcdata.txt_711": {
   "source": "MASTER BALL",
-  "target": "MASTER BALL",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true
  },
@@ -76323,7 +76331,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1698": {
@@ -83167,7 +83175,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_716": {
@@ -83404,7 +83412,7 @@
  "srcdatapokemon.txt::srcdatapokemon.txt_776": {
   "source": "This is a newly discovered POKéMON. It is\\ncurrently under investigation. No detailed\\ninformation is available at this time.",
   "target": "To jest nowo odkryty POKéMON. Aktualnie\\nprowadzone są nad nim badania. Chwilowo\\nbrak jakichkolwiek innych informacji.",
-  "status": "approved",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -84114,7 +84122,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734970.593596,
   "touched": true
  },
  "src.txt::src.txt_1709": {
@@ -86130,7 +86138,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_111": {
@@ -87202,7 +87210,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5795407,
+  "updated": 1791734970.5868573,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_207": {
@@ -88350,7 +88358,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_847": {
@@ -89281,7 +89289,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "datatext.txt::datatext.txt_1181": {
@@ -89906,7 +89914,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_638": {
@@ -93196,10 +93204,10 @@
  },
  "srcdata.txt::srcdata.txt_334": {
   "source": "MASTER BALL",
-  "target": "",
-  "status": "new",
+  "target": "MASTER BALL",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true
  },
@@ -93836,10 +93844,10 @@
  },
  "src.txt::src.txt_1526": {
   "source": "VAPOREON",
-  "target": "VAPOREON",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -94414,7 +94422,7 @@
  "srcdatapokemon.txt::srcdatapokemon.txt_390": {
   "source": "This is a newly discovered POKéMON. It is\\ncurrently under investigation. No detailed\\ninformation is available at this time.",
   "target": "To jest nowo odkryty POKéMON. Aktualnie\\nprowadzone są nad nim badania. Chwilowo\\nbrak jakichkolwiek innych informacji.",
-  "status": "draft",
+  "status": "approved",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -98924,7 +98932,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792318208.2974443,
+  "updated": 1792318252.8285077,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_643": {
@@ -99831,7 +99839,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_915": {
@@ -101682,7 +101690,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_191": {
@@ -105501,7 +105509,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.593596,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "src.txt::src.txt_2919": {
@@ -107608,9 +107616,9 @@
   "translator": "Antrix",
   "updated": 1791586295.672954
  },
- "srcdatatext.txt::srcdatatext.txt_455": {
-  "source": "MIST BALL",
-  "target": "MGLISTA KULA",
+ "datatext.txt::datatext.txt_526": {
+  "source": " Using “{STR_VAR_1}'S PC”",
+  "target": " Użył “{STR_VAR_1} PC”",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -107624,6 +107632,13 @@
   "translator": "Antrix",
   "updated": 1791656839.5050747,
   "touched": true
+ },
+ "srcdatatext.txt::srcdatatext.txt_455": {
+  "source": "MIST BALL",
+  "target": "MGLISTA KULA",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
  },
  "src.txt::src.txt_2906": {
   "source": "The registration has been canceled.\\p",
@@ -107646,13 +107661,6 @@
   "notes": "",
   "ignored": true,
   "auto_excluded": true
- },
- "datatext.txt::datatext.txt_526": {
-  "source": " Using “{STR_VAR_1}'S PC”",
-  "target": " Użył “{STR_VAR_1} PC”",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_1505": {
   "source": "Tch!\\nJust a small fry…",
@@ -108102,7 +108110,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5868573,
+  "updated": 1791734982.0307784,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1159": {
@@ -109025,10 +109033,10 @@
  },
  "src.txt::src.txt_1523": {
   "source": "EEVEE",
-  "target": "EEVEE",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -109217,7 +109225,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1791734970.5977106,
+  "updated": 1791734982.034896,
   "touched": true
  },
  "data maps.txt::data maps.txt_114": {
