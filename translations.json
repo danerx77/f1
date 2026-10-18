@@ -6064,10 +6064,14 @@
  },
  "src.txt::src.txt_2216": {
   "source": "---",
-  "target": "---",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1792329951.963286,
+  "touched": true
  },
  "src.txt::src.txt_171": {
   "source": "{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\\nwas disabled!",
@@ -42200,7 +42204,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327242.4760487,
+  "updated": 1792329977.1031587,
   "touched": true
  },
  "src.txt::src.txt_1869": {
@@ -87678,12 +87682,12 @@
  },
  "src.txt::src.txt_2180": {
   "source": "Move closer to your link partner(s).\\nAvoid obstacles between partners.",
-  "target": "Przybliż się do swojego(-ich) partnera(-ów) w łączu.\\nUnikaj przeszkód między partnerami.",
+  "target": "Przybliż się do swojego(ich) partnera(ów) w łączu.\\nUnikaj przeszkód między partnerami.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792329937.102704,
+  "updated": 1792329945.3523803,
   "touched": true
  },
  "src.txt::src.txt_667": {
@@ -97193,7 +97197,12 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792329967.818982,
+  "touched": true
  },
  "src.txt::src.txt_1068": {
   "source": "CONTINUE",
