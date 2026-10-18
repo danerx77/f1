@@ -27755,7 +27755,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322375.9626923,
+  "updated": 1792323083.4018524,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1367": {
@@ -95005,7 +95005,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792322376.0725458,
+  "updated": 1792323078.085582,
   "touched": true
  },
  "src.txt::src.txt_1635": {
@@ -96262,12 +96262,12 @@
  },
  "datatext.txt::datatext.txt_765": {
   "source": "Effect of foe's move on own POKéMON:\\p   {CIRCLE_DOT}: FIRE, FIGHTING, GROUND\\n   {TRIANGLE}: NORMAL, GRASS, ICE, FLYING,\\l       PSYCHIC, BUG, ROCK, GHOST,\\l       DRAGON, DARK, STEEL\\l   {BIG_MULT_X}: POISON",
-  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}:\\nOGIEŃ, WALKI, ZIEMIA {TRIANGLE}:\\lNORMALNY, ROŚLINNY, LODOWY, LOT, PSYCHICZNY,\\lOWAD, SKAŁA, DUCH, SMOK,\\lCIEMNY, STAL {BIG_MULT_X}: TRUJĄCY",
+  "target": "Wpływ ruchu przeciwnika na własnego POKéMONA:\\p   {CIRCLE_DOT}:\\nOGIEŃ, WALKI, ZIEMIA {TRIANGLE}:\\lNORMALNY, TRAWIASTY, LODOWY, LOT, PSYCHO\\lROBACZY, SKAŁA, DUCH, SMOK,\\lMROCZNY STAL {BIG_MULT_X}: TRUJĄCY",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323043.392498,
+  "updated": 1792323074.349917,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1016": {
