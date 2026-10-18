@@ -52569,14 +52569,13 @@
  },
  "datascript.txt::datascript.txt_63": {
   "source": "All right, which game did you want\\nto play?",
-  "target": "",
-  "status": "new",
+  "target": "Dobrze, w jaką\\ngrę chciałeś zagrać?",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736299.3346033,
+  "updated": 1792320296.1734908,
   "touched": true
  },
  "data maps.txt::data maps.txt_1197": {
@@ -78625,7 +78624,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792320278.1354554,
+  "updated": 1792320281.0033503,
   "touched": true
  },
  "src.txt::src.txt_2764": {
@@ -105827,14 +105826,13 @@
  },
  "datascript.txt::datascript.txt_65": {
   "source": "Okay, you're all good to go.\\nDon't let the others beat you!",
-  "target": "",
-  "status": "new",
+  "target": "W porządku, możesz iść.\\nNie pozwól, aby inni cię pokonali!",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791735560.9208872,
+  "updated": 1792320310.1526005,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_371": {
@@ -108308,7 +108306,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791736291.807705,
+  "updated": 1792320282.3712776,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_503": {
