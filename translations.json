@@ -4072,7 +4072,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327839.9052863,
+  "updated": 1792327849.4496844,
   "touched": true
  },
  "datatext.txt::datatext.txt_530": {
@@ -9961,7 +9961,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327839.124235,
+  "updated": 1792327848.0578165,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1041": {
@@ -15548,7 +15548,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327838.7056744,
+  "updated": 1792327846.1355782,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_813": {
@@ -19023,7 +19023,10 @@
   "target": "Chcesz znowu\\nwalczyć ze mną?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327852.7225413,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2056": {
   "source": "SHEA",
@@ -32229,12 +32232,14 @@
  },
  "src.txt::src.txt_2034": {
   "source": "BERRIES picked:",
-  "target": "",
-  "status": "new",
+  "target": "ZBIERANIE OWOCÓW:",
+  "status": "draft",
   "notes": "",
   "ignored": false,
+  "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1789922415.08519
+  "updated": 1792327883.8882363,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_934": {
   "source": "Its well-developed jaws are powerful and\\ncapable of crushing anything. Even its\\nTRAINER must be careful.",
@@ -35135,10 +35140,14 @@
  },
  "src.txt::src.txt_2021": {
   "source": "POKéMON JUMP RECORDS",
-  "target": "",
-  "status": "new",
+  "target": "REKORDY SKOKÓW POKÉMON",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792327863.9147375,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_654": {
   "source": "It conserves its energy by moving as\\nlittle as possible. It awaits evolution\\nwhile drinking only a little rainwater.",
@@ -37260,10 +37269,13 @@
  },
  "src.txt::src.txt_2040": {
   "source": "Announcing prizes!",
-  "target": "",
-  "status": "new",
+  "target": "Ogłaszanie nagród!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327882.8826861,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1986": {
   "source": "Which POKéMON do you want to see?",
@@ -47980,7 +47992,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327843.7544224,
+  "updated": 1792327844.1688938,
   "touched": true
  },
  "src.txt::src.txt_2222": {
@@ -60078,10 +60090,13 @@
  },
  "src.txt::src.txt_2039": {
   "source": "Announcing rankings!",
-  "target": "",
-  "status": "new",
+  "target": "Ogłaszamy rankingi!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327882.7636266,
+  "touched": true
  },
  "datatext.txt::datatext.txt_566": {
   "source": "{CIRCLE_1} Open the MENU.\\n{CIRCLE_2} Press up or down on the {PLUS} Control\\n   Pad and select “BAG.”\\n{CIRCLE_3} Select “POTION” in the “ITEMS”\\n   POCKET.\\n{CIRCLE_4} Select “USE.”\\n{CIRCLE_5} Select the POKéMON to be healed.",
@@ -94921,10 +94936,13 @@
  },
  "src.txt::src.txt_2038": {
   "source": "10P     30P     50P     {EMOJI_MINUS}50P",
-  "target": "",
-  "status": "new",
+  "target": "10P 30P 50P {EMOJI_MINUS}50P",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327882.941851,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1986": {
   "source": "RICKY",
@@ -98912,10 +98930,13 @@
  },
  "src.txt::src.txt_2036": {
   "source": "BERRIES picked in a row with\\nfive players:",
-  "target": "",
-  "status": "new",
+  "target": "OWOCE jagodowe zbierane w\\nrzędzie przez pięciu graczy:",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327881.6623552,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1211": {
   "source": "????????",
@@ -102323,12 +102344,13 @@
  },
  "src.txt::src.txt_2033": {
   "source": "DODRIO BERRY-PICKING RECORDS",
-  "target": "DODRIO BERRY-PICKING",
+  "target": "DODRIO REKORDY Z ZBIERANIA JAGÓD",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1789927572.4089088
+  "updated": 1792327873.8061728,
+  "touched": true
  },
  "src.txt::src.txt_488": {
   "source": "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}",
@@ -103705,17 +103727,20 @@
   "updated": 1792326359.0820482,
   "touched": true
  },
+ "src.txt::src.txt_2037": {
+  "source": "Announcing BERRY-PICKING results!",
+  "target": "Ogłaszanie wyników ZBIERANIA OWOCÓW!",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327881.796371,
+  "touched": true
+ },
  "datatext.txt::datatext.txt_515": {
   "source": " Using “{PLAYER}”",
   "target": " Użył “{PLAYER}”",
   "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "src.txt::src.txt_2037": {
-  "source": "Announcing BERRY-PICKING results!",
-  "target": "",
-  "status": "new",
   "notes": "",
   "ignored": false
  },
@@ -105085,12 +105110,13 @@
  },
  "src.txt::src.txt_2035": {
   "source": "Best score:",
-  "target": "",
-  "status": "new",
+  "target": "Najlepszy wynik:",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1789924543.4200869
+  "updated": 1792327882.1026514,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1087": {
   "source": "It cheers on partners while scattering\\nsparks from its body. It climbs telephone\\npoles to absorb electricity.",

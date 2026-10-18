@@ -4920,3 +4920,16 @@
 {"time": "2026-10-18T14:50:16", "file": "src.txt", "seg_id": "src.txt_1983", "source": "HELLO", "old": "", "new": "CZEŚĆ", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:50:31", "file": "src.txt", "seg_id": "src.txt_2022", "source": "Jumps in a row:", "old": "", "new": "Recording your game results in the\\nsave file.\\nPlease wait.", "translator": "Antrix", "method": "auto_tm"}
 {"time": "2026-10-18T14:50:31", "file": "src.txt", "seg_id": "src.txt_2022", "source": "Jumps in a row:", "old": "", "new": "Recording your game results in the\\nsave file.\\nPlease wait.", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:50:53", "file": "src.txt", "seg_id": "src.txt_2021", "source": "POKéMON JUMP RECORDS", "old": "", "new": "POKéMON JUMP RECORDS", "translator": "Antrix", "method": "auto_tm", "tm_source": " Jumps in a row: → Recording your game results in)"}
+{"time": "2026-10-18T14:50:53", "file": "src.txt", "seg_id": "src.txt_2021", "source": "POKéMON JUMP RECORDS", "old": "", "new": "POKéMON JUMP RECORDS", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:50:56", "file": "src.txt", "seg_id": "src.txt_2021", "source": "POKéMON JUMP RECORDS", "old": "POKéMON JUMP RECORDS", "new": "REKORDY SKOKÓW POKÉMON", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:50:56", "file": "src.txt", "seg_id": "src.txt_2021", "source": "POKéMON JUMP RECORDS", "old": "POKéMON JUMP RECORDS", "new": "REKORDY SKOKÓW POKÉMON", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:51:07", "file": "src.txt", "seg_id": "src.txt_2033", "source": "DODRIO BERRY-PICKING RECORDS", "old": "DODRIO BERRY-PICKING", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T14:51:10", "file": "src.txt", "seg_id": "src.txt_2033", "source": "DODRIO BERRY-PICKING RECORDS", "old": "", "new": "DODRIO REKORDY Z ZBIERANIA JAGÓD", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:51:10", "file": "src.txt", "seg_id": "src.txt_2033", "source": "DODRIO BERRY-PICKING RECORDS", "old": "", "new": "DODRIO REKORDY Z ZBIERANIA JAGÓD", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:51:14", "file": "src.txt", "seg_id": "src.txt_2034", "source": "BERRIES picked:", "old": "", "new": "BERRIES picked:", "translator": "Antrix", "method": "auto_tm"}
+{"time": "2026-10-18T14:51:14", "file": "src.txt", "seg_id": "src.txt_2034", "source": "BERRIES picked:", "old": "", "new": "BERRIES picked:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:51:26", "file": "src.txt", "seg_id": "src.txt_2034", "source": "BERRIES picked:", "old": "ZBIERANIE OWOCÓW:", "new": "ZBIERANIE J:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:51:26", "file": "src.txt", "seg_id": "src.txt_2034", "source": "BERRIES picked:", "old": "ZBIERANIE J:", "new": "ZBIERANIE JA:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:51:28", "file": "src.txt", "seg_id": "src.txt_2034", "source": "BERRIES picked:", "old": "ZBIERANIE JA:", "new": "ZBIERANIE JAG:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:51:29", "file": "src.txt", "seg_id": "src.txt_2034", "source": "BERRIES picked:", "old": "ZBIERANIE JAG:", "new": "ZBIERANIE JAGO:", "translator": "Antrix", "method": "manual"}
