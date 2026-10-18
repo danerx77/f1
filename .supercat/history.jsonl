@@ -4252,3 +4252,12 @@
 {"time": "2026-10-18T14:02:44", "file": "src.txt", "seg_id": "src.txt_1683", "source": "JUMP", "old": "SK", "new": "SKO", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:02:44", "file": "src.txt", "seg_id": "src.txt_1683", "source": "JUMP", "old": "SKO", "new": "SKOC", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T14:02:44", "file": "src.txt", "seg_id": "src.txt_1683", "source": "JUMP", "old": "SKOC", "new": "SKOCZ", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:02:54", "file": "src.txt", "seg_id": "src.txt_1764", "source": "Upon winning a battle:", "old": "", "new": "Upon winning a battle:", "translator": "Antrix", "method": "auto_tm", "tm_source": " JUMP → SIMPLE)"}
+{"time": "2026-10-18T14:02:54", "file": "src.txt", "seg_id": "src.txt_1764", "source": "Upon winning a battle:", "old": "", "new": "Upon winning a battle:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:02:58", "file": "src.txt", "seg_id": "src.txt_1764", "source": "Upon winning a battle:", "old": "Upon winning a battle:", "new": "", "translator": "Antrix", "method": "clear"}
+{"time": "2026-10-18T14:03:10", "file": "src.txt", "seg_id": "src.txt_1764", "source": "Upon winning a battle:", "old": "", "new": "Po zwycięstwie w bitwie:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:10", "file": "src.txt", "seg_id": "src.txt_1764", "source": "Upon winning a battle:", "old": "", "new": "Po zwycięstwie w bitwie:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:25", "file": "src.txt", "seg_id": "src.txt_1764", "source": "Upon winning a battle:", "old": "Po zwycięstwie w bitwie:", "new": "Po wygraniu bitwy:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:25", "file": "src.txt", "seg_id": "src.txt_1764", "source": "Upon winning a battle:", "old": "Po zwycięstwie w bitwie:", "new": "Po wygraniu bitwy:", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T14:03:26", "file": "src.txt", "seg_id": "src.txt_1765", "source": "Upon losing a battle:", "old": "", "new": "Upon losing a battle:", "translator": "Antrix", "method": "auto_tm"}
+{"time": "2026-10-18T14:03:26", "file": "src.txt", "seg_id": "src.txt_1765", "source": "Upon losing a battle:", "old": "", "new": "Upon losing a battle:", "translator": "Antrix", "method": "manual"}

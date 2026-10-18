@@ -14951,13 +14951,13 @@
  },
  "src.txt::src.txt_1683": {
   "source": "JUMP",
-  "target": "Skocz",
+  "target": "SKOCZ",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792324963.5012546,
+  "updated": 1792324974.15048,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_774": {
@@ -50680,10 +50680,14 @@
  },
  "src.txt::src.txt_1764": {
   "source": "Upon winning a battle:",
-  "target": "",
-  "status": "new",
+  "target": "Po zwycięstwie w bitwie:",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325003.5031326,
+  "touched": true
  },
  "src.txt::src.txt_989": {
   "source": "The user lets loose\\na horribly loud\\nshout with the\\npower to damage.",
