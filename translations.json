@@ -78701,7 +78701,10 @@
   "target": "IAN: Chcemy walki dwa-na-dwa!\\nMusisz przynieść dwa POKéMONY!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792329617.0974743,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_905": {
   "source": "LEAF STONE",
