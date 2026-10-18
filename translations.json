@@ -2726,10 +2726,13 @@
  },
  "src.txt::src.txt_2933": {
   "source": "Awaiting a response from the\\nWIRELESS COMMUNICATION SYSTEM.",
-  "target": "",
-  "status": "new",
+  "target": "Oczekiwanie na odpowiedź od\\nSYSTEMU KOMUNIKACJI BEZPRZEWODOWEJ.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325743.2629504,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_783": {
   "source": "HORSEA",
@@ -29202,10 +29205,13 @@
  },
  "src.txt::src.txt_2935": {
   "source": "No CARDS appear to be shared \\nright now.",
-  "target": "",
-  "status": "new",
+  "target": "Wygląda na to, że w tej\\nchwili żadne KARTY nie są udostępniane.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325757.4954815,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1856": {
   "source": "LEA & JED",
@@ -32789,10 +32795,13 @@
  },
  "src.txt::src.txt_2936": {
   "source": "No NEWS appears to be shared\\nright now.",
-  "target": "",
-  "status": "new",
+  "target": "Wygląda na to, że w tej\\nchwili nie są udostępniane żadne WIADOMOŚCI.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325763.5802271,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2935": {
   "source": "You're impressive!",
@@ -68732,7 +68741,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792325723.5987136,
+  "updated": 1792325724.222929,
   "touched": true
  },
  "src.txt::src.txt_1940": {
@@ -70318,10 +70327,13 @@
  },
  "src.txt::src.txt_2932": {
   "source": "{STR_VAR_1} has been asked to register\\nyou as a member. Please wait.",
-  "target": "",
-  "status": "new",
+  "target": "{STR_VAR_1} poproszono o zarejestrowanie\\nCię jako członka. Proszę czekać.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792325738.5493402,
+  "touched": true
  },
  "src.txt::src.txt_2542": {
   "source": "LAPRAS",
