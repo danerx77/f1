@@ -50282,10 +50282,13 @@
  },
  "datascript.txt::datascript.txt_53": {
   "source": "This is the POKéMON WIRELESS CLUB\\nUNION ROOM.\\pUnfortunately, your Wireless\\nAdapter is not connected properly.\\pPlease do come again.",
-  "target": "",
-  "status": "new",
+  "target": "To jest POKéMON BEZPRZEWODOWY\\nKLUB POKÓJ UNION.\\pNiestety, Twój adapter bezprzewodowy\\nnie jest prawidłowo podłączony.\\pProszę, przyjdź ponownie.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792320758.2029362,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_337": {
   "source": "COTTON SPORE",
@@ -64247,10 +64250,13 @@
  },
  "datascript.txt::datascript.txt_52": {
   "source": "No POKéMON holding the {STR_VAR_1}\\nBERRY may enter the UNION ROOM.",
-  "target": "",
-  "status": "new",
+  "target": "Żaden POKéMON trzymający {STR_VAR_1} JAGODĘ nie\\nmoże wejść do POKOJU UNION.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792320733.3753393,
+  "touched": true
  },
  "src.txt::src.txt_1716": {
   "source": "You can withdraw a POKéMON if you\\nhave any in a BOX.",
