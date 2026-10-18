@@ -1590,13 +1590,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_22": {
   "source": "A pot of cute\\nflowers.",
-  "target": "",
-  "status": "new",
+  "target": "Doniczka słodkich\\nkwiatów.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9454854
+  "updated": 1792328605.9527586,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1619": {
   "source": "DEAN",
@@ -3048,13 +3048,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_23": {
   "source": "A large pot with\\nmany colorful\\nflowers.",
-  "target": "",
-  "status": "new",
+  "target": "Duży garnek\\nz wieloma\\nkolorowymi kwiatami.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.948513
+  "updated": 1792328606.9566896,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_873": {
   "source": "????????",
@@ -8883,13 +8883,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_5": {
   "source": "A large desk made\\nof wood. Put some\\ndecorations on it.",
-  "target": "",
-  "status": "new",
+  "target": "Duże biurko zrobione\\nz drewna. Postaw na\\nnim kilka dekoracji.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.8861382
+  "updated": 1792328599.4017646,
+  "touched": true
  },
  "src.txt::src.txt_487": {
   "source": "TYPE/",
@@ -15073,13 +15073,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_25": {
   "source": "A large, impressive\\nplant in a big pot.",
-  "target": "",
-  "status": "new",
+  "target": "Duża, imponująca roślina\\nw dużej doniczce.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9567442
+  "updated": 1792328607.1014426,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3143": {
   "source": "A MACHOP is stomping the land flat.",
@@ -15660,13 +15660,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_43": {
   "source": "Awarded for 50\\nstraight wins at\\nthe BATTLE TOWER.",
-  "target": "",
-  "status": "new",
+  "target": "Przyznawana za 50\\nkolejnych zwycięstw\\nw WIEŻY WALKI.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.0209637
+  "updated": 1792328614.9169955,
+  "touched": true
  },
  "src.txt::src.txt_991": {
   "source": "The foe is attacked\\nwith sharp claws.\\nIt may also lower\\nthe foe's DEFENSE.",
@@ -16815,13 +16815,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_41": {
   "source": "A weird door that\\npeople can walk\\nright through.",
-  "target": "",
-  "status": "new",
+  "target": "Dziwne drzwi, przez\\nktóre ludzie mogą\\npo prostu przejść.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.013636
+  "updated": 1792328613.631827,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_500": {
   "source": "PLUSH DOLL",
@@ -25208,13 +25208,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_14": {
   "source": "A small chair made\\nof glass.",
-  "target": "",
-  "status": "new",
+  "target": "Małe krzesło\\nzrobione ze szkła.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9180887
+  "updated": 1792328603.342517,
+  "touched": true
  },
  "src.txt::src.txt_90": {
   "source": "{B_ATK_NAME_WITH_PREFIX} is paralyzed!\\nIt can't move!",
@@ -26091,13 +26091,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_45": {
   "source": "A glass replica of\\na famous sculpture\\nat the ART MUSEUM.",
-  "target": "",
-  "status": "new",
+  "target": "Szklana replika\\nsłynnej rzeźby w\\nMUZEUM SZTUKI.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.0282898
+  "updated": 1792328616.1825192,
+  "touched": true
  },
  "src.txt::src.txt_2912": {
   "source": "You don't have a {STR_VAR_2}-type\\nPOKéMON that {STR_VAR_1} wants.\\p",
@@ -26334,13 +26334,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_17": {
   "source": "A small chair made\\nof brick.",
-  "target": "",
-  "status": "new",
+  "target": "Małe krzesło\\nzrobione z cegły.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.928439
+  "updated": 1792328604.4606953,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_655": {
   "source": "WHOSE",
@@ -32332,13 +32332,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_3": {
   "source": "A small desk built in\\nthe shape of a POKé\\nBALL.",
-  "target": "",
-  "status": "new",
+  "target": "Małe biurko\\nzbudowane w kształcie\\nPOKé BALL.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.8794737
+  "updated": 1792328599.5211906,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2168": {
   "source": "Keep walking!",
@@ -33574,13 +33574,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_7": {
   "source": "A huge desk made\\nof glass. Holds lots\\nof decorations.",
-  "target": "",
-  "status": "new",
+  "target": "Ogromne biurko wykonane\\nze szkła.\\nMieści wiele dekoracji.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.8935285
+  "updated": 1792328600.5818157,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1090": {
   "source": "Today, the POKé DUDE's here to\\ntell you about status problems!\\pStatus problems include poisoning,\\nparalysis, sleep, burn…\\pThere are a couple others, but\\nthey really are trouble.\\pGet any one, and your POKéMON\\nmay become useless in battle.\\pYou know, it hurts the POKé DUDE\\nto see a POKéMON suffer…\\pSo, what should you do if your\\nPOKéMON gets a status problem?\\pWell, you've got me to show you!\\pAll righty, here goes!\\pKeep your eyes glued to the super\\nPOKé DUDE SHOW!",
@@ -34619,13 +34619,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_21": {
   "source": "A flowering tropical\\nplant in a pot.",
-  "target": "",
-  "status": "new",
+  "target": "Kwitnąca roślina\\ntropikalna w doniczce.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9423368
+  "updated": 1792328605.7019503,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1851": {
   "source": "Riding a POKéMON sure looks fun!",
@@ -34857,13 +34857,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_6": {
   "source": "A large desk made\\nof leaves. Put some\\ndecorations on it.",
-  "target": "",
-  "status": "new",
+  "target": "Duże biurko zrobione\\nz liści. Połóż na\\nnim kilka dekoracji.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.8897338
+  "updated": 1792328600.8334994,
+  "touched": true
  },
  "src.txt::src.txt_955": {
   "source": "A move that boosts\\nthe power of the\\nally's attack in a\\nbattle.",
@@ -37914,13 +37914,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_31": {
   "source": "A yellow balloon\\nfilled with water.\\nPops if stepped on.",
-  "target": "",
-  "status": "new",
+  "target": "Żółta balon\\nwypełniona wodą.\\nPęka, jeśli się nań nadepnie.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.97834
+  "updated": 1792328610.7064853,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1010": {
   "source": "{RIVAL}: I'll take this one, then!",
@@ -46634,13 +46634,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_24": {
   "source": "A large, umbrella-\\nshaped plant in a\\nbig pot.",
-  "target": "",
-  "status": "new",
+  "target": "Duża roślina w\\nkształcie parasola\\nw dużej doniczce.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9528267
+  "updated": 1792328607.2319553,
+  "touched": true
  },
  "data maps.txt::data maps.txt_661": {
   "source": "{PLAYER} received a GOOD ROD from\\nthe FISHING GURU's brother.",
@@ -46666,13 +46666,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_11": {
   "source": "A small chair made\\nfor one.",
-  "target": "",
-  "status": "new",
+  "target": "Małe krzesło zrobione\\ndla jednej osoby.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9080446
+  "updated": 1792328602.0571249,
+  "touched": true
  },
  "src.txt::src.txt_2631": {
   "source": "BRENNAN",
@@ -49668,13 +49668,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_42": {
   "source": "An ornament made\\nof sand. Crumbles if\\ntouched.",
-  "target": "",
-  "status": "new",
+  "target": "Ozdoba z\\npiasku. Kruszy się\\nprzy dotknięciu.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.0170438
+  "updated": 1792328614.6287224,
+  "touched": true
  },
  "data maps.txt::data maps.txt_725": {
   "source": "This town is known as the grave\\nsite of POKéMON.\\pMemorial services are held in\\nPOKéMON TOWER.",
@@ -49692,13 +49692,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_9": {
   "source": "A huge desk made\\nof logs. Put lots of\\ndecorations on it.",
-  "target": "",
-  "status": "new",
+  "target": "Ogromne biurko zrobione\\nz bali. Połóż na\\nnim dużo dekoracji.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.900783
+  "updated": 1792328601.2049606,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_424": {
   "source": "HERE I COME",
@@ -53051,13 +53051,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_13": {
   "source": "A small chair made\\nof steel.",
-  "target": "",
-  "status": "new",
+  "target": "Małe krzesło\\nwykonane ze stali.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9146037
+  "updated": 1792328602.6470504,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2814": {
   "source": "Wanted!\\nThe Ultimate Horn!",
@@ -55933,13 +55933,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_12": {
   "source": "A small chair built\\nin the shape of a\\nPOKé BALL.",
-  "target": "",
-  "status": "new",
+  "target": "Małe krzesło\\nzbudowane w kształcie\\nPOKé BALL.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.911296
+  "updated": 1792328603.0101073,
+  "touched": true
  },
  "src.txt::src.txt_1055": {
   "source": "SAPPHIRE",
@@ -58586,13 +58586,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_29": {
   "source": "A red balloon filled\\nwith water. Bursts\\nif stepped on.",
-  "target": "",
-  "status": "new",
+  "target": "Czerwony balon wypełniony\\nwodą. Pęka, jeśli\\nsię go nadepnie.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9716198
+  "updated": 1792328609.0420957,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_902": {
   "source": "SMEARGLE",
@@ -60844,13 +60844,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_44": {
   "source": "Awarded for 100\\nstraight wins at\\nthe BATTLE TOWER.",
-  "target": "",
-  "status": "new",
+  "target": "Przyznawana za 100\\nkolejnych zwycięstw\\nw WIEŻY WALKI.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.0246952
+  "updated": 1792328615.8033166,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_722": {
   "source": "SOMETHING",
@@ -62105,13 +62105,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_26": {
   "source": "A red-colored brick.\\nDecorations can be\\nplaced on top.",
-  "target": "",
-  "status": "new",
+  "target": "Cegła w kolorze czerwonym.\\nDekoracje można\\numieścić na wierzchu.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9604805
+  "updated": 1792328608.7877164,
+  "touched": true
  },
  "datatext.txt::datatext.txt_1208": {
   "source": "Wait! Wait a second!\\nI'm sure I've hooked a big one!",
@@ -65527,13 +65527,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_38": {
   "source": "An old large tire.\\nDecorations can be\\nplaced on top.",
-  "target": "",
-  "status": "new",
+  "target": "Stara duża opona.\\nDekoracje można\\numieścić na wierzchu.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.0028746
+  "updated": 1792328615.3319528,
+  "touched": true
  },
  "data maps.txt::data maps.txt_299": {
   "source": "Ah!\\nA new news report!\\pHmm…\\pI see!\\nThat was quite informative!\\pI applaud you for taking interest\\nin the news at your young age.\\pAs my thanks for sharing the news\\nwith me, I want you to have this.",
@@ -67386,13 +67386,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_35": {
   "source": "Use to slide down\\nfrom the platform.",
-  "target": "",
-  "status": "new",
+  "target": "Użyj, aby\\nzjechać z platformy.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9928203
+  "updated": 1792328611.962499,
+  "touched": true
  },
  "src.txt::src.txt_1445": {
   "source": "HALL OF FAME",
@@ -68519,13 +68519,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_2": {
   "source": "A small desk built\\nfor one.",
-  "target": "",
-  "status": "new",
+  "target": "Małe biurko zbudowane\\ndla jednej osoby.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.875423
+  "updated": 1792328599.7659826,
+  "touched": true
  },
  "data maps.txt::data maps.txt_980": {
   "source": "Good things get washed up by the\\nocean current onto this beach.\\pThat's why I often come here for\\nsome beachcombing.",
@@ -69543,13 +69543,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_15": {
   "source": "A small chair made\\nof leaves.",
-  "target": "",
-  "status": "new",
+  "target": "Małe krzesło\\nzrobione z liści.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9217625
+  "updated": 1792328603.1727006,
+  "touched": true
  },
  "src.txt::src.txt_1933": {
   "source": "SAVING…\\nDON'T TURN OFF THE POWER.",
@@ -74310,13 +74310,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_34": {
   "source": "Place over a hole to\\ncross to the other\\nside.",
-  "target": "",
-  "status": "new",
+  "target": "Umieść nad dziurą,\\naby przejść\\nna drugą stronę.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.989258
+  "updated": 1792328611.3751287,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_890": {
   "source": "?????",
@@ -75492,13 +75492,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_27": {
   "source": "A yellow-colored\\nbrick. Put some\\ndecorations on top.",
-  "target": "",
-  "status": "new",
+  "target": "Cegła w kolorze\\nżółtym. Połóż na\\nniej kilka dekoracji.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9640124
+  "updated": 1792328608.2449324,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1267": {
   "source": "GO-GOGGLES",
@@ -78186,13 +78186,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_19": {
   "source": "A small chair made\\nof rock.",
-  "target": "",
-  "status": "new",
+  "target": "Małe krzesło\\nz kamienia.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9349027
+  "updated": 1792328604.464607,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_601": {
   "source": "{STR_VAR_1} used the Hidden Move\\nCUT here.",
@@ -80236,13 +80236,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_39": {
   "source": "A large pedestal\\nwith steps.",
-  "target": "",
-  "status": "new",
+  "target": "Duży postument\\nz stopniami.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.006277
+  "updated": 1792328613.2576554,
+  "touched": true
  },
  "src.txt::src.txt_677": {
   "source": "LIECHI",
@@ -80785,13 +80785,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_16": {
   "source": "A small chair made\\nof wood.",
-  "target": "",
-  "status": "new",
+  "target": "Małe krzesło\\nz drewna.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9252353
+  "updated": 1792328604.456466,
+  "touched": true
  },
  "src.txt::src.txt_797": {
   "source": "The user creates a\\nsturdy wall that\\nsharply raises its\\nDEFENSE stat.",
@@ -81662,13 +81662,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_18": {
   "source": "A small chair made\\nof logs.",
-  "target": "",
-  "status": "new",
+  "target": "Małe krzesło\\nzrobione z kłód.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.931587
+  "updated": 1792328604.3767722,
+  "touched": true
  },
  "src.txt::src.txt_159": {
   "source": "{B_ATK_NAME_WITH_PREFIX} is storing\\nenergy!",
@@ -83369,13 +83369,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_8": {
   "source": "A huge desk made\\nof brick. Holds lots\\nof decorations.",
-  "target": "",
-  "status": "new",
+  "target": "Ogromne biurko zrobione\\nz cegły.\\nMieści wiele dekoracji.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.8970292
+  "updated": 1792328601.474633,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1568": {
   "source": "Wow!\\nYour BADGES are too cool!",
@@ -86060,13 +86060,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_28": {
   "source": "A blue-colored\\nbrick. Put some\\ndecorations on top.",
-  "target": "",
-  "status": "new",
+  "target": "Niebieska cegła.\\nPołóż na niej\\ntrochę dekoracji.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9679227
+  "updated": 1792328608.2357466,
+  "touched": true
  },
  "data maps.txt::data maps.txt_2810": {
   "source": "MIA: Hello, POKéMON!\\nIt's time to battle!",
@@ -86263,13 +86263,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_4": {
   "source": "A large desk made\\nof steel. Put some\\ndecorations on it.",
-  "target": "",
-  "status": "new",
+  "target": "Duże biurko wykonane\\nze stali. Postaw na\\nnim kilka dekoracji.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.882862
+  "updated": 1792328599.8873763,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_126": {
   "source": "HUMAN SHAPE",
@@ -91259,13 +91259,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_47": {
   "source": "A toy TV modeled\\nin the image of a\\nSEEDOT.",
-  "target": "",
-  "status": "new",
+  "target": "Zabawka telewizora\\nwzorowana\\nna SEEDOT.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.0356905
+  "updated": 1792328616.9323876,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3213": {
   "source": "Even if they are the same level,\\nPOKéMON can have very different\\lstats and abilities.\\pA POKéMON raised by a TRAINER is\\nstronger than one in the wild.",
@@ -95528,13 +95528,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_20": {
   "source": "A vivid red potted\\nplant.",
-  "target": "",
-  "status": "new",
+  "target": "Jaskrawoczerwona roślina\\ndoniczkowa.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9386392
+  "updated": 1792328605.576619,
+  "touched": true
  },
  "data maps.txt::data maps.txt_274": {
   "source": "Yo!\\nChamp in the making!\\pLet me give you some advice!\\pThe LEADER, MISTY, is a pro who\\nuses WATER-type POKéMON.\\pYou can drain all their water with\\nGRASS-type POKéMON.\\pOr, you might use ELECTRIC-type\\nPOKéMON and zap them!",
@@ -96685,13 +96685,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_33": {
   "source": "A large blue tent.\\nYou can hide inside\\nit.",
-  "target": "",
-  "status": "new",
+  "target": "Duży niebieski namiot.\\nMożesz się\\nw nim schować.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9852405
+  "updated": 1792328611.2162917,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_104": {
   "source": "A small and rare mushroom.\\nIt is quite popular among certain\\npeople.",
@@ -97765,13 +97765,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_37": {
   "source": "A small fence that\\nblocks passage.",
-  "target": "",
-  "status": "new",
+  "target": "Mały płot,\\nktóry blokuje przejście.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.999571
+  "updated": 1792328612.3442347,
+  "touched": true
  },
  "src.txt::src.txt_447": {
   "source": " BERRY",
@@ -97970,13 +97970,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_32": {
   "source": "A large red tent.\\nYou can hide inside\\nit.",
-  "target": "",
-  "status": "new",
+  "target": "Duży czerwony namiot.\\nMożesz się\\nw nim schować.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.982199
+  "updated": 1792328610.981721,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1957": {
   "source": "I'm not so jealous!",
@@ -99911,13 +99911,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_36": {
   "source": "A small fence that\\nblocks passage.",
-  "target": "",
-  "status": "new",
+  "target": "Mały płot,\\nktóry blokuje przejście.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.999571
+  "updated": 1792328612.332565,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1602": {
   "source": "CHIP",
@@ -105517,13 +105517,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_10": {
   "source": "A huge desk made\\nof rocks. Holds\\nmany decorations.",
-  "target": "",
-  "status": "new",
+  "target": "Ogromne biurko wykonane\\nz kamieni.\\nTrzyma wiele dekoracji.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9045744
+  "updated": 1792328602.0485563,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_813": {
   "source": "CLOUD NINE",
@@ -105671,13 +105671,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_46": {
   "source": "A small, gray-\\ncolored toy TV.",
-  "target": "",
-  "status": "new",
+  "target": "Mały, szary\\nzabawkowy telewizor.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586295.0323195
+  "updated": 1792328616.6297023,
+  "touched": true
  },
  "datatext.txt::datatext.txt_688": {
   "source": "Whenever you win a battle against a\\nTRAINER, you are given prize money.\\lSave up your prize money so you can\\lenjoy shopping at POKéMON MARTS!",
@@ -110981,13 +110981,13 @@
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_30": {
   "source": "A blue balloon filled\\nwith water. Bursts\\nif stepped on.",
-  "target": "",
-  "status": "new",
+  "target": "Niebieski balon napełniony\\nwodą. Pęka, jeśli się\\nna niego nadepnie.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791586294.9751356
+  "updated": 1792328609.6265988,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_2060": {
   "source": "MIK & KIA",
