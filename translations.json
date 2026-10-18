@@ -40742,14 +40742,13 @@
  },
  "src.txt::src.txt_1051": {
   "source": "This data can't be used in\\nthis version.",
-  "target": "",
-  "status": "new",
+  "target": "Tych danych nie\\nmożna używać w tej wersji.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791737230.1700373,
+  "updated": 1792327491.2305431,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_311": {
@@ -60872,10 +60871,13 @@
  },
  "src.txt::src.txt_1053": {
   "source": "You have collected all STAMPs!\\nWant to input a CARD as a prize?",
-  "target": "",
-  "status": "new",
+  "target": "Zebrałeś wszystkie ZN!\\nChcesz wprowadzić KARTĘ jako nagrodę?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792327523.7304394,
+  "touched": true
  },
  "datatext.txt::datatext.txt_38": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}To make a complete guide on all\\nthe POKéMON in the world…\\pThat was my dream!",
