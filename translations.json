@@ -44139,10 +44139,13 @@
  },
  "datatext.txt::datatext.txt_475": {
   "source": "There are several kinds of items.\\nSome can be used only on the field.\\lSome are only for use during battle.\\lSome can be used anytime.\\lTry using an item - if it can't be used,\\lyou will be alerted.",
-  "target": "Jest kilka rodzajów przedmiotów.\\nNiektóre mogą być używane tylko\\lna polu. Inne w trakcie walki.\\lNiektórych można używać zawsze.\\lSpróbuj użyć przdmiotu - jeżeli się nie uda,\\ldowiesz się o tym.",
+  "target": "Jest kilka rodzajów przedmiotów.\\nNiektóre mogą być używane tylko\\lna polu. Inne w trakcie walki.\\lNiektórych można używać zawsze.\\lSpróbuj użyć przdmiotu jeżeli się nie uda,\\ldowiesz się o tym.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792329794.4632034,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1477": {
   "source": "CALVIN",
@@ -60325,12 +60328,12 @@
  },
  "datatext.txt::datatext.txt_554": {
   "source": "{CIRCLE_1} Select “POKéDEX” on the MENU.\\n{CIRCLE_2} Choose POKéMON using commands such\\n   as “POKéMON LIST,”\\n   “HABITATS OF POKéMON,” and\\n   “SEARCH.”\\n{CIRCLE_3} Select a POKéMON to obtain detailed\\n   information.",
-  "target": "{CIRCLE_1} Wybierz “POKéDEX” w MENU.\\n{CIRCLE_2} Wybierz POKéMON-a,\\nużywając poleceń takich jak\\n“LISTA POKéMONÓW”, “SIEDLISKA\\nPOKéMONÓW” i “SZUKAJ”.\\n{CIRCLE_3} Wybierz POKéMON-a, aby\\nuzyskać szczegółowe informacje.",
+  "target": "{CIRCLE_1} Wybierz “POKéDEX” w MENU.\\n{CIRCLE_2} Wybierz POKéMONA,\\nużywając poleceń takich jak\\n“LISTA POKéMONÓW”, “SIEDLISKA\\nPOKéMONÓW” i “SZUKAJ”.\\n{CIRCLE_3} Wybierz POKéMON-a, aby\\nuzyskać szczegółowe informacje.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324222.455051,
+  "updated": 1792329817.094089,
   "touched": true
  },
  "datatext.txt::datatext.txt_606": {
@@ -64403,12 +64406,12 @@
  },
  "datatext.txt::datatext.txt_78": {
   "source": "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The SAFARI ZONE's huge, wouldn't\\nyou say?\\pFUCHSIA's GYM LEADER, KOGA, \\npatrols the grounds every so often.\\pThanks to him, we can play here\\nknowing that we're safe.",
-  "target": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}STREFA SAFARI jest wielka,\\nco nie?\\pLIDER SALI w FUCHSIA - KOGA,\\npatroluje ten teren, gdy tylko może.\\pDzięki temu, możemy się bawić\\nwiedząc, że jesteśmy bezpieczni.",
+  "target": "{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}STREFA SAFARI jest wielka,\\nco nie?\\pLIDER SALI w FUCHSIA KOGA,\\npatroluje ten teren, gdy tylko może.\\pDzięki temu, możemy się bawić\\nwiedząc, że jesteśmy bezpieczni.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792329777.1017208,
+  "updated": 1792329778.574991,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_1118": {
@@ -105335,12 +105338,12 @@
  },
  "datatext.txt::datatext.txt_485": {
   "source": "A TRAINER is a person who raises\\nPOKéMON through battling.\\lTRAINERS will challenge you \\lwherever they are - it could be on\\la road, in forests, caves, anywhere.\\lIf your eyes meet, you have to accept\\ltheir challenge. So be careful!",
-  "target": "TRENER to osoba, która\\nwychowuje POKéMONY poprzez walkę.\\lTRENERZY będą cię wyzywać, gdziekolwiek się\\lznajdują - może to być\\lna drodze, w lasach, jaskiniach, wszędzie.\\lJeśli wasze spojrzenia się spotkają, musisz\\lprzyjąć ich wyzwanie. Więc bądź ostrożny!",
+  "target": "TRENER to osoba, która\\nwychowuje POKéMONY poprzez walkę.\\lTRENERZY będą cię wyzywać, gdziekolwiek się\\lznajdują może to być\\lna drodze, w lasach, jaskiniach, wszędzie.\\lJeśli wasze spojrzenia się spotkają, musisz\\lprzyjąć ich wyzwanie. Więc bądź ostrożny!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323462.8129618,
+  "updated": 1792329806.8278372,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_480": {
