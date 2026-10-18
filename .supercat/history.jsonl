@@ -4039,3 +4039,4 @@
 {"time": "2026-10-18T13:40:48", "file": "datatext.txt", "seg_id": "datatext.txt_510", "source": "  Using “ITEM”", "old": "  Użył “PRZEDM”", "new": "  Użył “PRZEDMI”", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T13:40:48", "file": "datatext.txt", "seg_id": "datatext.txt_510", "source": "  Using “ITEM”", "old": "  Użył “PRZEDMI”", "new": "  Użył “PRZEDMIO”", "translator": "Antrix", "method": "manual"}
 {"time": "2026-10-18T13:40:49", "file": "datatext.txt", "seg_id": "datatext.txt_510", "source": "  Using “ITEM”", "old": "  Użył “PRZEDMIO”", "new": "  Użył “PRZEDMIOT”", "translator": "Antrix", "method": "manual"}
+{"time": "2026-10-18T13:40:49", "file": "datatext.txt", "seg_id": "datatext.txt_510", "source": "  Using “ITEM”", "old": "  Użył “PRZEDMIOT”", "new": "  Użył “PRZEDMIOTU”", "translator": "Antrix", "method": "manual"}

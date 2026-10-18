@@ -31692,10 +31692,13 @@
  },
  "datatext.txt::datatext.txt_558": {
   "source": "{CIRCLE_1} Select “ITEM.”\\n{CIRCLE_2} Select whether you want to “GIVE”\\n   an item to the POKéMON to hold,\\n   or “TAKE” an item it is holding.\\nA POKéMON can hold no more than one\\nitem!",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „PRZEDMIOT.” {CIRCLE_2}\\nWybierz, czy chcesz „DAĆ” przedmiot,\\naby POKéMON go trzymał, czy\\n„WZIĄĆ” przedmiot, który trzyma.\\nPOKéMON nie może trzymać\\nwięcej niż jednego przedmiotu!",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323683.106387,
+  "touched": true
  },
  "datatext.txt::datatext.txt_383": {
   "source": "INDIGO PLATEAU\\pThe highest POKéMON authority!\\nPOKéMON LEAGUE HQ",
@@ -69965,13 +69968,12 @@
  },
  "datatext.txt::datatext.txt_554": {
   "source": "{CIRCLE_1} Select “POKéDEX” on the MENU.\\n{CIRCLE_2} Choose POKéMON using commands such\\n   as “POKéMON LIST,”\\n   “HABITATS OF POKéMON,” and\\n   “SEARCH.”\\n{CIRCLE_3} Select a POKéMON to obtain detailed\\n   information.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „POKéDEX” w MENU.\\n{CIRCLE_2} Wybierz POKéMON-a,\\nużywając poleceń takich jak\\n„LISTA POKéMONÓW”, „SIEDLISKA\\nPOKéMONÓW” i „SZUKAJ”.\\n{CIRCLE_3} Wybierz POKéMON-a, aby\\nuzyskać szczegółowe informacje.",
+  "status": "draft",
   "notes": "",
   "ignored": false,
-  "cleared": true,
   "translator": "Antrix",
-  "updated": 1791733789.5818956,
+  "updated": 1792323683.4311912,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1416": {
@@ -75184,10 +75186,13 @@
  },
  "datatext.txt::datatext.txt_556": {
   "source": "{CIRCLE_1} Select “SUMMARY.”\\n{CIRCLE_2} Press left or right on the {PLUS} Control\\n   Pad to check the information:\\n   “POKéMON INFO”\\n   “POKéMON SKILLS”\\n   “KNOWN MOVES”",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz „PODSUMOWANIE.” {CIRCLE_2} Naciśnij w\\nlewo lub w prawo na\\n{PLUS} Płycie sterującej, aby sprawdzić informacje:\\n  \\n„INFORMACJE O POKéMON” „UMIEJĘTNOŚCI\\nPOKéMON” „ZNANE RUCHY”",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323681.3106346,
+  "touched": true
  },
  "src.txt::src.txt_2420": {
   "source": "MAGBY",
@@ -80932,10 +80937,13 @@
  },
  "datatext.txt::datatext.txt_557": {
   "source": "{CIRCLE_1} Choose the POKéMON you want to\\n   switch around.\\n{CIRCLE_2} Select “SWITCH.”\\n{CIRCLE_3} Select the POKéMON to switch with\\n   the first one.\\nThe POKéMON at the left of the screen\\nwill be the first one out in a battle.",
-  "target": "",
-  "status": "new",
+  "target": "{CIRCLE_1} Wybierz POKéMONA,\\nktórego chcesz zamienić.\\n{CIRCLE_2} Wybierz „ZMIANA.” {CIRCLE_3}\\nWybierz POKéMONA, którego\\nchcesz zamienić z pierwszym.\\nPOKéMON po lewej stronie ekranu będzie\\ntym, który wyjdzie jako pierwszy w walce.",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323681.6748853,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_446": {
   "source": "REFRESH",
@@ -84716,13 +84724,13 @@
  },
  "datatext.txt::datatext.txt_510": {
   "source": "  Using “ITEM”",
-  "target": "  Użył “ITEM”",
+  "target": "  Użył “PRZEDMIOTU”",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792323643.4218793,
+  "updated": 1792323657.5107744,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_729": {
@@ -98853,6 +98861,16 @@
   "notes": "",
   "ignored": false
  },
+ "datatext.txt::datatext.txt_555": {
+  "source": "{CIRCLE_1} Select “POKéMON” on the MENU.\\n{CIRCLE_2} Choose a POKéMON in your party.\\n{CIRCLE_3} Select “SUMMARY,” “SWITCH,”\\n   or “ITEM.”",
+  "target": "{CIRCLE_1} Wybierz „POKéMON” w MENU.\\n{CIRCLE_2} Wybierz POKéMONA w swojej drużynie.\\n{CIRCLE_3} Wybierz „PODSUMOWANIE”,\\n„PRZEŁĄCZ” lub „ELEMENT.”",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792323680.8298814,
+  "touched": true
+ },
  "datatext.txt::datatext.txt_711": {
   "source": "Own move type: FIGHTING",
   "target": "Własny ruch Typ: WALCZĄCY",
@@ -98863,13 +98881,6 @@
   "translator": "Antrix",
   "updated": 1792316866.7231033,
   "touched": true
- },
- "datatext.txt::datatext.txt_555": {
-  "source": "{CIRCLE_1} Select “POKéMON” on the MENU.\\n{CIRCLE_2} Choose a POKéMON in your party.\\n{CIRCLE_3} Select “SUMMARY,” “SWITCH,”\\n   or “ITEM.”",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "datatext.txt::datatext.txt_658": {
   "source": "All POKéMON can be made to hold one\\nitem each. Some items will be used by\\lthe POKéMON automatically in certain\\lsituations. To make a POKéMON hold an\\litem, select the item from the BAG and\\l“GIVE” it to the POKéMON.",
