@@ -11691,10 +11691,13 @@
  },
  "datascript.txt::datascript.txt_68": {
   "source": "“POKéMON JUMP” is open to POKéMON\\naround 28 inches or less.\\pWhat you can't enter are those\\nPOKéMON that can't jump.\\pYou know, like POKéMON that only\\nswim, burrow, or fly.\\pThat's all you need to know.",
-  "target": "",
-  "status": "new",
+  "target": "Wygląda na to, że nie masz\\nżadnych POKéMON, które mógłbyś wprowadzić…\\pChciałbyś, żebym wyjaśnił, jakie\\nrodzaje POKéMON mogą wejść?",
+  "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792320438.149706,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1563": {
   "source": "FRANKLIN",
@@ -60960,6 +60963,16 @@
   "notes": "",
   "ignored": false
  },
+ "datascript.txt::datascript.txt_67": {
+  "source": "It doesn't look like you have any\\nPOKéMON that you can enter…\\pWould you like me to explain what\\nkinds of POKéMON can enter?",
+  "target": "Wygląda na to, że nie masz\\nżadnych POKéMON, które mógłbyś wprowadzić…\\pChciałbyś, żebym wyjaśnił, jakie\\nrodzaje POKéMON mogą wejść?",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792320421.2360682,
+  "touched": true
+ },
  "srcdataeasychat.txt::srcdataeasychat.txt_891": {
   "source": "WINTER",
   "target": "",
@@ -60969,13 +60982,6 @@
   "cleared": true,
   "translator": "Antrix",
   "updated": 1791586288.822291
- },
- "datascript.txt::datascript.txt_67": {
-  "source": "It doesn't look like you have any\\nPOKéMON that you can enter…\\pWould you like me to explain what\\nkinds of POKéMON can enter?",
-  "target": "",
-  "status": "new",
-  "notes": "",
-  "ignored": false
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_141": {
   "source": "HARD CHAIR",
