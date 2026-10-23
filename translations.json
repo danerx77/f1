@@ -47984,7 +47984,10 @@
   "target": "Te maszyny…\\nWygrana zależy tu tylko od szczęścia.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792786918.6933,
+  "touched": true
  },
  "src.txt::src.txt_1342": {
   "source": "{STR_VAR_1} was elevated to\\nLv. {STR_VAR_2}.",
