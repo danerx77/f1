@@ -62471,7 +62471,10 @@
   "target": "Witaj…\\nPiękna pogoda, prawda?\\lJest tak przyjemnie…\\p…O jejku…\\nChyba odpłynęłam. Witaj.\\pNazywam się ERIKA.\\nJestem LIDERKĄ SALI w CELADON.\\pJestem studentką sztuki\\naranżacji kwiatów.\\pMoje POKéMONY są wyłącznie typu\\nTRAWIASTEGO.\\p…O, przepraszam, nie miałam pojęcia,\\nże chciałeś mnie wyzwać.\\pNiech będzie, ale wiedz, że wygram.{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792787118.7201765,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_22": {
   "source": "SEELOR",
