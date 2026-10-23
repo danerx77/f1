@@ -62468,12 +62468,12 @@
  },
  "data maps.txt::data maps.txt_159": {
   "source": "Hello…\\nLovely weather, isn't it?\\lIt's so pleasant…\\p…Oh, dear…\\nI must have dozed off. Welcome.\\pMy name is ERIKA.\\nI am the LEADER of CELADON GYM.\\pI am a student of the art of\\nflower arranging.\\pMy POKéMON are solely of the\\nGRASS type.\\p…Oh, I'm sorry, I had no idea that\\nyou wished to challenge me.\\pVery well, but I shall not lose.{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}",
-  "target": "Witaj…\\nPiękna pogoda, prawda?\\lJest tak przyjemnie…\\p…O jejku…\\nChyba odpłynęłam. Witaj.\\pNazywam się ERIKA.\\nJestem LIDERKĄ SALI w CELADON.\\pJestem studentką sztuki\\naranżacji kwiatów.\\pMoje POKéMONY są wyłącznie typu\\nTRAWIASTEGO.\\p…O, przepraszam,\\n nie miałam pojęcia,\\pże chciałeś mnie wyzwać.\\pNiech będzie, ale wiedz, że wygram.{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}",
+  "target": "Witaj…\\nPiękna pogoda, prawda?\\lJest tak przyjemnie…\\p…O jejku…\\nChyba odpłynęłam. Witaj.\\pNazywam się ERIKA.\\nJestem LIDERKĄ SALI w CELADON.\\pJestem studentką sztuki\\naranżacji kwiatów.\\pMoje POKéMONY są wyłącznie typu\\nTRAWIASTEGO.\\p…O, przepraszam,\\n nie miałam pojęcia,\\pże chciałeś mnie wyzwać.\\nNiech będzie, ale wiedz, że wygram.{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792787238.6920474,
+  "updated": 1792787275.5018115,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_22": {
@@ -66050,7 +66050,10 @@
   "target": "Och!\\nPrzyznaję porażkę.\\lJesteś niesamowicie silny.\\pMuszę wręczyć ci\\nODZNAKĘ TĘCZY.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792787278.6989732,
+  "touched": true
  },
  "src.txt::src.txt_1707": {
   "source": "POKéCENTER",
