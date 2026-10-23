@@ -28866,20 +28866,23 @@
   "notes": "",
   "ignored": false
  },
- "src.txt::src.txt_442": {
-  "source": "{B_OPPONENT_MON1_NAME}'s data was\\nadded to the POKéDEX.\\p",
-  "target": "Dane {B_OPPONENT_MON1_NAME} zostały\\ndodane do POKéDEXU.\\p",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
  "data maps.txt::data maps.txt_95": {
   "source": "TM16 contains LIGHT SCREEN.\\pIt's a move that weakens the power\\nof special attacks by your foe.",
   "target": "TM16 zawiera EKRAN ŚWIATŁA.\\pTo ruch osłabiający siłę specjalnych\\nataków twojego przeciwnika.",
   "status": "draft",
   "notes": "",
   "ignored": false,
-  "manual_skip": true
+  "manual_skip": true,
+  "translator": "Antrix",
+  "updated": 1792786838.6889262,
+  "touched": true
+ },
+ "src.txt::src.txt_442": {
+  "source": "{B_OPPONENT_MON1_NAME}'s data was\\nadded to the POKéDEX.\\p",
+  "target": "Dane {B_OPPONENT_MON1_NAME} zostały\\ndodane do POKéDEXU.\\p",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
  },
  "srcdatatext.txt::srcdatatext.txt_594": {
   "source": "Threw POKé BALLS in a frenzy, catching\\n{DYNAMIC 0x04} POKéMON including {DYNAMIC 0x03} here\\nin {DYNAMIC 0x00}.",
