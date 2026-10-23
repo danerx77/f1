@@ -2065,7 +2065,7 @@
   "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325101.7698276,
+  "updated": 1792328082.0952005,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_836": {
@@ -6051,7 +6051,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "updated": 1792329884.1237924,
@@ -8843,7 +8843,9 @@
   "status": "new",
   "notes": "",
   "ignored": true,
-  "manual_skip": true
+  "manual_skip": true,
+  "cleared": true,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1440": {
   "source": "I'm feeling a bit faint.\\nI haven't hiked in some time.",
@@ -10280,7 +10282,7 @@
  "srcdatapokemon.txt::srcdatapokemon.txt_776": {
   "source": "This is a newly discovered POKéMON. It is\\ncurrently under investigation. No detailed\\ninformation is available at this time.",
   "target": "To jest nowo odkryty POKéMON. Aktualnie\\nprowadzone są nad nim badania. Chwilowo\\nbrak jakichkolwiek innych informacji.",
-  "status": "draft",
+  "status": "approved",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -22499,6 +22501,7 @@
   "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
   "updated": 1792328777.594724,
   "touched": true
@@ -24777,7 +24780,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792782437.2638547,
+  "updated": 1792782478.309195,
   "touched": true
  },
  "src.txt::src.txt_448": {
@@ -31725,7 +31728,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328659.5747068,
+  "updated": 1792328660.754318,
   "touched": true
  },
  "src.txt::src.txt_798": {
@@ -35875,7 +35878,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792327842.4308808,
+  "updated": 1792327882.1026514,
   "touched": true
  },
  "data maps.txt::data maps.txt_1613": {
@@ -38230,7 +38233,11 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "updated": 1792329884.1237924,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1441": {
   "source": "I'm too tired.\\nI wasn't up for it.",
@@ -43179,7 +43186,7 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true,
-  "updated": 1792328242.7245948,
+  "updated": 1792328242.7643461,
   "touched": true
  },
  "src.txt::src.txt_503": {
@@ -50773,7 +50780,7 @@
   "cleared": true,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792325702.8158991,
+  "updated": 1792326904.303316,
   "touched": true
  },
  "src.txt::src.txt_2471": {
@@ -58018,7 +58025,7 @@
  },
  "datatext.txt::datatext.txt_507": {
   "source": " Using “POKéMON”",
-  "target": " Using “POKéMON”",
+  "target": " Użył “POKéMON”",
   "status": "draft",
   "notes": "",
   "ignored": false,
@@ -63438,7 +63445,8 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1790524797.9821374
+  "updated": 1792328365.0454824,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1056": {
   "source": "When held by a POKéMON, it raises\\\\nthe critical-hit ratio in a pinch.",
@@ -67226,7 +67234,7 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true,
-  "updated": 1792328506.2136974,
+  "updated": 1792328525.5762072,
   "touched": true
  },
  "src.txt::src.txt_493": {
@@ -71492,7 +71500,7 @@
  },
  "datatext.txt::datatext.txt_538": {
   "source": " Using “POKéMON”",
-  "target": " Użył “POKéMON”",
+  "target": " Using “POKéMON”",
   "status": "draft",
   "notes": "",
   "ignored": false,
@@ -74468,7 +74476,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324222.4549828,
+  "updated": 1792324635.494091,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1433": {
@@ -80870,7 +80878,7 @@
  "srcdatapokemon.txt::srcdatapokemon.txt_390": {
   "source": "This is a newly discovered POKéMON. It is\\ncurrently under investigation. No detailed\\ninformation is available at this time.",
   "target": "To jest nowo odkryty POKéMON. Aktualnie\\nprowadzone są nad nim badania. Chwilowo\\nbrak jakichkolwiek innych informacji.",
-  "status": "approved",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -97078,7 +97086,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790524746.7325814
+  "updated": 1792325698.6024437,
+  "touched": true
  },
  "src.txt::src.txt_2450": {
   "source": "CLEFAIRY",
@@ -102500,7 +102509,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328659.8381257,
+  "updated": 1792328662.796319,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_72": {
@@ -105763,7 +105772,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328658.5691512,
+  "updated": 1792328659.5747068,
   "touched": true
  },
  "data maps.txt::data maps.txt_1170": {
@@ -106282,7 +106291,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328660.995597,
+  "updated": 1792328662.0834944,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1254": {
@@ -107269,12 +107278,12 @@
  },
  "datatext.txt::datatext.txt_663": {
   "source": "The ID No. is a special number assigned\\nspecifically to you as a TRAINER.\\lTogether with the OT name, the ID No.\\lis used to precisely identify the\\lOriginal TRAINER.\\lThe ID No. does not change even if the\\lPOKéMON is traded.",
-  "target": "Numer ID to specjalny numer\\nprzypisany wyłącznie tobie jako TRENEROWI.\\lRazem z nazwą OT, nr ID.\\lsłuży do precyzyjnego\\lzidentyfikowania oryginalnego TRENERA.\\lNumer ID nie zmienia się,\\lnawet jeśli POKéMON zostanie wymieniony.",
+  "target": "Numer ID to specjalny numer\\nprzypisany wyłącznie tobie jako TRENEROWI.\\lWraz z nazwą OT, nr ID.\\lsłuży do precyzyjnego\\lzidentyfikowania oryginalnego TRENERA.\\lNumer ID nie zmienia się,\\lnawet jeśli POKéMON zostanie wymieniony.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792324469.6238556,
+  "updated": 1792324646.6378968,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_199": {
@@ -107334,6 +107343,7 @@
   "notes": "",
   "ignored": false,
   "cleared": true,
+  "auto_inserted": true,
   "translator": "Antrix",
   "updated": 1792328082.0952005,
   "touched": true
@@ -109127,6 +109137,7 @@
   "status": "new",
   "notes": "",
   "ignored": false,
+  "cleared": true,
   "translator": "Antrix",
   "updated": 1792328777.594724,
   "touched": true
