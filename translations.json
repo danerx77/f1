@@ -95284,10 +95284,13 @@
  },
  "data maps.txt::data maps.txt_305": {
   "source": "Hm? Your BERRY POUCH is full.\\nMy gift remains ungiven, then.",
-  "target": "Hm? Twój WOREK NA JAGODY jest pełen.\\nNo to nie ma prezentu.",
+  "target": "Hm? \\nTwój WOREK NA JAGODY jest pełen.\\pNo to nie ma prezentu.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792787755.2087412,
+  "touched": true
  },
  "src.txt::src.txt_1817": {
   "source": "{A_BUTTON}CANCEL",

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261023T201220Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261023T203554Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -294977,6 +294977,34 @@
     <tu>
       <tuv xml:lang="en"><seg>TRAINER TIPS\pGUARD SPEC. protects POKéMON\nfrom status-reduction moves during\lbattle.\pGet your items at the\nCELADON DEPT. STORE!</seg></tuv>
       <tuv xml:lang="pl"><seg>PORADA\pOCHRONA SPEC. chroni twoje POKéMONY\nprzed działaniem ruchów \lobniżających statystyki.\pKupisz go w DOMU\nTOWAROWYM CELADON!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TM16 contains LIGHT SCREEN.\pIt's a move that weakens the power\nof special attacks by your foe.</seg></tuv>
+      <tuv xml:lang="pl"><seg>TM16 zawiera EKRAN ŚWIATŁA.\pTo ruch osłabiający siłę\n specjalnych\pataków twojego przeciwnika.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>These slot games…\nWin or lose, it's only by luck.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Te maszyny…\nWygrana zależy \ptu tylko od szczęścia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey!\pYou have better things to do,\nchamp in the making!\pCELADON GYM's LEADER is ERIKA.\pShe is a user of GRASS-type\nPOKéMON, and at one with nature.\pShe might appear docile because of\nher flower arranging…\pBut she's not one to be taken\nlightly!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hej!\pMasz lepsze rzeczy do roboty,\nmistrzuniu!\pLIDER SALI w CELADON to ERIKA.\pUżywa TRAWIASTEGO typu\nPOKéMONÓW i jest jednością z\pnaturą. Może wydać ci się\n potulna z uwagi na\pswoje aranżacje kwiatowe…\nAle nie powinieneś traktować\njej lekko!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hello…\nLovely weather, isn't it?\lIt's so pleasant…\p…Oh, dear…\nI must have dozed off. Welcome.\pMy name is ERIKA.\nI am the LEADER of CELADON GYM.\pI am a student of the art of\nflower arranging.\pMy POKéMON are solely of the\nGRASS type.\p…Oh, I'm sorry, I had no idea that\nyou wished to challenge me.\pVery well, but I shall not lose.{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witaj…\nPiękna pogoda, prawda?\lJest tak przyjemnie…\p…O jejku…\nChyba odpłynęłam. Witaj.\pNazywam się ERIKA.\nJestem LIDERKĄ SALI w CELADON.\pJestem studentką sztuki\naranżacji kwiatów.\pMoje POKéMONY są wyłącznie typu\nTRAWIASTEGO.\p…O, przepraszam,\n nie miałam pojęcia,\pże chciałeś mnie wyzwać.\nNiech będzie, ale wiedz, że wygram.{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{RIVAL}: Yo! {PLAYER}!\pYou're still struggling along back\nhere?\pI'm doing great! I caught a bunch\nof strong and smart POKéMON!\pHere, let me see what you caught,\n{PLAYER}!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{RIVAL}: Hej! {PLAYER}!\pNadal wleczesz się jak\nżółw?\pMi idzie świetnie! Złapałem już\n kupę mądrych i silnych POKéMONÓW!\pDawaj, pokaż mi co złapałeś,\n{PLAYER}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sigh…\nToo much time, too little to do…\pIs nothing entertaining happening\nanywhere?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ech…\nZbyt wiele czasu,\p tak mało do roboty…\nCzy nie dzieje się nic\pciekawego?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hm? Your BERRY POUCH is full.\nMy gift remains ungiven, then.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hm? \nTwój WOREK NA JAGODY jest pełen.\pNo to nie ma prezentu.</seg></tuv>
     </tu>
   </body>
 </tmx>
