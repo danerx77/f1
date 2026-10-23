@@ -57898,7 +57898,10 @@
   "target": "PORADA\\pX CELNOŚĆ podbija celność wybranych\\ntechnik.\\pPOTĘŻNY CIOS daje prawdopodobieństwo\\nciosów krytycznych.\\pA to wszystko w DOMU TOWAROWYM\\nCELADON!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792782639.3989189,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_730": {
   "source": "SERIOUSLY",
