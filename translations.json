@@ -28868,13 +28868,13 @@
  },
  "data maps.txt::data maps.txt_95": {
   "source": "TM16 contains LIGHT SCREEN.\\pIt's a move that weakens the power\\nof special attacks by your foe.",
-  "target": "TM16 zawiera EKRAN ŚWIATŁA.\\pTo ruch osłabiający siłę specjalnych\\nataków twojego przeciwnika.",
+  "target": "TM16 zawiera EKRAN ŚWIATŁA.\\pTo ruch osłabiający siłę\\n specjalnych\\pataków twojego przeciwnika.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "manual_skip": true,
   "translator": "Antrix",
-  "updated": 1792786838.6889262,
+  "updated": 1792786878.6880376,
   "touched": true
  },
  "src.txt::src.txt_442": {
