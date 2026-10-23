@@ -65570,12 +65570,12 @@
  },
  "data maps.txt::data maps.txt_15": {
   "source": "TRAINER TIPS\\pGUARD SPEC. protects POKéMON\\nfrom status-reduction moves during\\lbattle.\\pGet your items at the\\nCELADON DEPT. STORE!",
-  "target": "PORADA\\pOCHRONA SPEC. chroni twoje POKéMONY\\nprzed działaniem ruchów obniżających\\lstatystyki.\\pKupisz go w DOMU\\nTOWAROWYM CELADON!",
+  "target": "PORADA\\pOCHRONA SPEC. chroni twoje POKéMONY\\nprzed działaniem ruchów \\lobniżających statystyki.\\pKupisz go w DOMU\\nTOWAROWYM CELADON!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792782798.2961793,
+  "updated": 1792782838.3055675,
   "touched": true
  },
  "src.txt::src.txt_1485": {
