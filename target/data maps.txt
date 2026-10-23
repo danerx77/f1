@@ -92,7 +92,7 @@ Chcę mi się pić!\nChcę coś do picia!\p{FONT_NORMAL}Dać jej napój?
 Który napój jej dać?
 Jupi!\pŚWIEŻA WODA!\pDziękuję!\nWeź to w prezencie!
 {PLAYER} dostaje {STR_VAR_2}\nod małej dziewczynki.
-TM16 zawiera EKRAN ŚWIATŁA.\pTo ruch osłabiający siłę specjalnych\nataków twojego przeciwnika.
+TM16 zawiera EKRAN ŚWIATŁA.\pTo ruch osłabiający siłę\n specjalnych\pataków twojego przeciwnika.
 Jupi!\pNAPÓJ!\pDziękuję!\nPotraktuj to jako prezent!
 TM20 zawiera ZASŁONĘ.\pTo ruch który nie pozwala na\nzmianę stanu twoich POKéMONÓW.
 Jupi!\pLEMONIADA!\pDzięki!\nWeź ode mnie prezent!
@@ -121,8 +121,8 @@ Mały, chcesz zagrać?
 {PLAYER} dostaje 10 ŻETONÓW\nod gracza.
 Po co ci moje ŻETONY?
 Zwycięstwa przychodzą i\nodchodzą. Bywa różnie.
-Te maszyny…\nWygrana zależy tu tylko od szczęścia.
-Hej!\pMasz lepsze rzeczy do roboty,\nmistrzuniu!\pLIDER SALI w CELADON to ERIKA.\pUżywa TRAWIASTEGO typu\nPOKéMONÓW i jest jednością z\pnaturą.\nMoże wydać ci się potulna z uwagi na\pswoje aranżacje kwiatowe…\nAle nie powinieneś traktować\njej lekko!
+Te maszyny…\nWygrana zależy \ptu tylko od szczęścia.
+Hej!\pMasz lepsze rzeczy do roboty,\nmistrzuniu!\pLIDER SALI w CELADON to ERIKA.\pUżywa TRAWIASTEGO typu\nPOKéMONÓW i jest jednością z\pnaturą. Może wydać ci się\n potulna z uwagi na\pswoje aranżacje kwiatowe…\nAle nie powinieneś traktować\njej lekko!
 Oferują rzadkie POKéMONY, które\nmożna otrzymać za ŻETONY.\pAle nie mogę jakoś wygrać!
 Gry są straszne!\nTak łatwo dać się oszukać!
 Co jest?\nChcesz ŻETONY?
@@ -156,7 +156,7 @@ Przepraszam, potrzeba ci\nwięcej ŻETONÓW.
 おきゃくさん もう もてないよ
 あっ そう
 <<< FILE: maps/CeladonCity_Gym/text.inc >>>
-Witaj…\nPiękna pogoda, prawda?\lJest tak przyjemnie…\p…O jejku…\nChyba odpłynęłam. Witaj.\pNazywam się ERIKA.\nJestem LIDERKĄ SALI w CELADON.\pJestem studentką sztuki\naranżacji kwiatów.\pMoje POKéMONY są wyłącznie typu\nTRAWIASTEGO.\p…O, przepraszam, nie miałam pojęcia,\nże chciałeś mnie wyzwać.\pNiech będzie, ale wiedz, że wygram.{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}
+Witaj…\nPiękna pogoda, prawda?\lJest tak przyjemnie…\p…O jejku…\nChyba odpłynęłam. Witaj.\pNazywam się ERIKA.\nJestem LIDERKĄ SALI w CELADON.\pJestem studentką sztuki\naranżacji kwiatów.\pMoje POKéMONY są wyłącznie typu\nTRAWIASTEGO.\p…O, przepraszam,\n nie miałam pojęcia,\pże chciałeś mnie wyzwać.\nNiech będzie, ale wiedz, że wygram.{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}
 Och!\nPrzyznaję porażkę.\lJesteś niesamowicie silny.\pMuszę wręczyć ci\nODZNAKĘ TĘCZY.
 Katalogujesz POKéMONY?\nMuszę powiedzieć, że jestem\ppod wrażeniem.\nNigdy nie zbierałabym\nbrzydkich POKéMONÓW.
 ODZNAKA TĘCZY spowoduje, że\nposłuszne będą POKéMONY do\pLv. 50.\nPozwala też używać SIŁY\nPOKéMONOM poza walką.\pProszę, weź ze sobą jeszcze to.
@@ -212,7 +212,7 @@ Zawsze myślałem, że uda mi się\nodegrać…
 <<< FILE: maps/CeruleanCave_B1F/text.inc >>>
 Mew!
 <<< FILE: maps/CeruleanCity/text.inc >>>
-{RIVAL}: Hej! {PLAYER}!\pNadal wleczesz się jak\nżółw?\pMi idzie świetnie! Złapałem\njuż kupę mądrych i silnych POKéMONÓW!\pDawaj, pokaż mi co złapałeś,\n{PLAYER}!
+{RIVAL}: Hej! {PLAYER}!\pNadal wleczesz się jak\nżółw?\pMi idzie świetnie! Złapałem już\n kupę mądrych i silnych POKéMONÓW!\pDawaj, pokaż mi co złapałeś,\n{PLAYER}!
 Hej!\nSpokojnie!\lJuż wygrałeś!
 {RIVAL}: Hej, zgadnij co!\pPoszedłem do BILLA i pokazał mi\nswoje rzadkie POKéMONY!\pTo dodało wiele stron do mojego\nPOKéDEKSU!\pNie na darmo BILL jest sławnym\nPOKéMANIAKIEM.\pWymyślił System Składowania\nPOKéMONÓW na PC.\pSkoro używasz jego wynalazków,\nidź mu chociaż podziękować.\pNo to, ja będę spadał!\nDo zobaczenia mały!
 A, właśnie, ta.\pBardzo mi ciebie, żal. Żartowałem.\nZawsze wleczesz się za mną.\pWięc mam dla ciebie mały prezent,\nżeby ci pomóc.
@@ -295,14 +295,14 @@ ZESPÓŁ R zostawił wyjście!
 <<< FILE: maps/CeruleanCity_House3/text.inc >>>
 Mój mąż lubi wymieniać POKéMONY.\pZbierasz POKéMONY do swojego\nPOKéDEKSU, prawda?\pMoże wymienisz się z nim?
 <<< FILE: maps/CeruleanCity_House4/text.inc >>>
-Ech…\nZbyt wiele czasu, tak mało do roboty…\pCzy nie dzieje się nic\nciekawego?
+Ech…\nZbyt wiele czasu,\p tak mało do roboty…\nCzy nie dzieje się nic\pciekawego?
 Ach!\nWiadomości!\pHmm…\pRozumiem!\nTo było bardzo przydatne!\pPodziwiam cię za zainteresowanie\nwiadomościami w takim młodym wieku.\pW ramach podziękowania za\nwszystkie informacje, dam ci to.
 Och, och!\nTe wieści!\pHmm…\pTo niesamowite!\nCo za niesamowita wiadomość!\pNie widziałem czegoś równie\nniesamowitego od dawna.\pDzięki za to wszystko!\nWiesz co? Dam ci trochę JAGÓD!
 To wstyd nie dzielić się takimi\nwiadomościami z innymi…\pChciałbym móc komuś to powiedzieć…\nNiech inni się dowiedzą…
 Ach, rozniosłeś dla mnie wieści?\pDobre nowiny stają się cenne, gdy\njest je z kim dzielić.\pW ramach podziękowania, proszę cię,\nweź ten prezent!
 Rozniosłeś wiadomości?\nWspaniale!\pTa informacja musi być zachwycona,\nwiedząc, że tak się przemieszcza.\pJestem tego pewien!\pPrzyjmij to w dowód\nwdzięczności mojej i wiadomości.\pDam ci więcej JAGÓD niż daję\nzazwyczaj.
 Bardzo lubię słuchać najróżniejszych\ninformacji.\pTak, bardzo się cieszę!\nNie będzie mi się nudzić.
-Hm? Twój WOREK NA JAGODY jest pełen.\nNo to nie ma prezentu.
+Hm? \nTwój WOREK NA JAGODY jest pełen.\pNo to nie ma prezentu.
 <<< FILE: maps/CeruleanCity_House5/text.inc >>>
 Przygotowuję różne leki z\nJAGODOWEGO PROSZKU.\pDzięki JAGODOWEMU PROSZKOWI, mogę\nprzyrządzić każdy rodzaj leku.\pPowiedz mi, interesujesz się\nmoże JAGODAMI?
 Świetnie! Więc mam coś\nspecjalnie dla ciebie.
@@ -1534,7 +1534,7 @@ GIA: JES, ty głupolu!\nZawaliłeś!
 GIA: Nie zniosę walki bez\nmojego JESA!\pPotrzebujesz dwóch POKéMONÓW!
 <<< FILE: maps/Route12_FishingHouse/text.inc >>>
 Jestem młodszym bratem\nRYBACKIEGO GURU.\pKooocham łowić ryby!\nNie wytrzymuję bez tego dnia!\pPowiedz mi, lubisz łowić?
-Słodko! Podoba mi się twój styl.\nBędziemy kumplami.\pWeź to i wędkuj, mały przyjacielu!
+Świetnie! Podoba mi się twój styl.\nZostańmy kumplami.\pWeź to i łów, przyjacielu!
 {PLAYER} dostaje SUPER WĘDKĘ\nod brata RYBACKIEGO GURU.
 Łowienie jest cudowne!\nTo jak najwspanialsza poezja.\pPrzez morza i rzeki, ruszaj, by\nzłowić największą rybę, przyjacielu.\pA teraz, mam do ciebie prośbę.\pJeśli złapiesz tą wędką\ndużego MAGIKARPIA, pokaż mi go.\pTak samo, jak łowienie, kocham\noglądać olbrzymie MAGIKARPIE.
 Och…\nZawiodłeś mnie…
@@ -1986,7 +1986,7 @@ Lista ulubionych POKÓW BILLA!
 Którego POKéMONA obejrzeć?
 <<< FILE: maps/Route2_EastBuilding/text.inc >>>
 Hej! Pamiętasz mnie?\nJestem jednym z POMOCNIKÓW OAKA.\pJeśli twój POKéDEX zanotował\ndane 10 gatunków, mam dać ci\lpewną nagrodę.\pPROF. OAK powierzył mi do przekazania\nHM05.\pWięc, {PLAYER}, pozwól, że spytam.\pCzy zebrałeś już dane, chociaż\n10 gatunków POKéMONÓW?
-Świetnie! Złapałeś już\n{STR_VAR_3} gatunków POKéMONÓW!\pGratuluję!\nOto obiecany przedmiot!
+Świetnie!\nZłapałeś już\n{STR_VAR_3} gatunków POKéMONÓW!\pGratulacje!\nOto obiecany przedmiot!
 {PLAYER} dostaje HM05\nod POMOCNIKA
 HM05 zawiera ukryty ruch\nBŁYSK.\pBŁYSK oświetla nawet najciemniejsze\njaskinie i lochy.
 Dzięki BŁYSKOWI będziesz mógł przejść\nprzez TUNEL SKAŁ.
@@ -3189,10 +3189,10 @@ Drugi elektryczny zamek otworzył\nsię! Drzwi otwarte!
 Nie!\nTu są tylko śmieci.\pHej!\nElektryczne zamki zresetowały się!
 <<< FILE: maps/VermilionCity_House1/text.inc >>>
 Jestem RYBACKIM GURU!\pKocham łowić ryby!\nNie przeżyłbym bez wędkowania.\pPowiedz mi, lubisz łowić?
-Świetnie! Podoba mi się twój styl.\nZostańmy kumplami.\pWeź to i łów, przyjacielu!
+Słodko! Podoba mi się twój styl.\nBędziemy kumplami.\pWeź to i wędkuj, mały przyjacielu!
 {PLAYER} dostaje STARĄ WĘDKĘ od\nRYBACKIEGO GURU.
 Łowienie to droga życia!\nTo jak najpiękniejsza poezja.\pPrzez morza i rzeki, idź i\nzłap największą rybę świata, koleżko.
-Och…\nZawiodłeś mnie…
+Och…\nZawodzisz mnie…
 Witaj, {PLAYER}!\pJak tam ryby, biorą?
 O, nie!\pMiałem dla ciebie piękny prezent,\nale nie masz miejsca!
 <<< FILE: maps/VermilionCity_House2/text.inc >>>

@@ -504,7 +504,7 @@ Twoja GRA SAFARI kończy się,\ngdy przebyjesz określony dystans lub\lużyjesz 
 Jeśli chcesz zakończyć swoją GRĘ\nSAFARI wcześniej, otwórz MENU i wybierz\l“WYCOFAJ SIĘ” na górze listy.
 SALA POKéMON są prowadzone przez LIGĘ\nPOKéMON i są miejscami treningowymi dla\lTRENERÓW. Znajdują się one w\lcałym kraju w miastach i miasteczkach.\lKażdą z nich kieruje LIDER,\lktóry jest bardzo wykwalifikowanym TRENEREM.\lPokonaj LIDERA, aby zdobyć ODZNAKĘ.
  Użył “POKéDEX”
- Użył “POKéMON”
+ Using “POKéMON”
   Użył “PODSUMOWANIA”
   Użył “ZAMIANA”
   Użył “PRZEDMIOTU”
@@ -535,7 +535,7 @@ Użył PC
  Użył “PROF. OAK PC”
 Otwieranie MENU
  Użył “WALKI.”
- Using “POKéMON”
+ Użył “POKéMON”
   Using “ZMIANA”
   Użył “PODSUMOWANIA”
  Użył “TORBA”
@@ -684,7 +684,7 @@ Ruchy UKRYTE to takie, które są\nszczególnie ważne w Twojej przygodzie.\lAby
 Wśród POKéMONÓW są takie, które przechodzą\nznaczące zmiany (ewolucję) po osiągnięciu określonych\lpoziomów. Ewolucja powoduje, że POKéMON zmienia\lswoją formę, zmienia nazwę, a\lbyć może zmienia też ruchy, których\lmoże się nauczyć. Niektóre POKéMONY ewoluują\lz powodów innych niż zdobywanie poziomów.
 Problemy ze statusem obejmują:\nSen: Nie można używać ruchów.\lTrucizna: powoduje stałą utratę punktów HP.\lParaliż: Może uniemożliwić ruchy.\lSpalenie: utrata HP i obniżenie ATAKU.\lZamrożenie: Nie można używać ruchów.\lTe można leczyć za pomocą przedmiotów itp.
 POKéMON to nazwa używana do\nopisania cudownych stworzeń, które\lzamieszkują wszystkie zakątki tego świata.\lLudzie hodują POKéMONY jako swoje zwierzęta domowe,\lużywają ich do walk i tak dalej.
-Numer ID to specjalny numer\nprzypisany wyłącznie tobie jako TRENEROWI.\lRazem z nazwą OT, nr ID.\lsłuży do precyzyjnego\lzidentyfikowania oryginalnego TRENERA.\lNumer ID nie zmienia się,\lnawet jeśli POKéMON zostanie wymieniony.
+Numer ID to specjalny numer\nprzypisany wyłącznie tobie jako TRENEROWI.\lWraz z nazwą OT, nr ID.\lsłuży do precyzyjnego\lzidentyfikowania oryginalnego TRENERA.\lNumer ID nie zmienia się,\lnawet jeśli POKéMON zostanie wymieniony.
 Za każdym razem, gdy wygrasz bitwę\nz TRENEREM, otrzymujesz nagrodę pieniężną.\lOszczędzaj swoją nagrodę pieniężną, aby móc\lcieszyć się zakupami w POKéMON SKLEPIE!
 To wskazuje liczbę ODZNAK\nLIGI POKéMON, które wygrałeś.\lZdobywaj ODZNAKI, pokonując LIDERÓW SAL\lw różnych miastach i miasteczkach.
 System POMOCY
