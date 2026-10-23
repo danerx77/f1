@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261023T212455Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261023T220640Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -1013,10 +1013,6 @@
     <tu>
       <tuv xml:lang="en"><seg>I figure what's lost is lost.\pI decided to teach DIGLETT how to\nDIG without a TM.</seg></tuv>
       <tuv xml:lang="pl"><seg>Zrozumiałem, że nie ma co płakać\nnad rozlanym mlekiem.\pNauczę je\nKOPAĆ bez TM.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>TEAM ROCKET must be trying to DIG\ntheir way into no good!</seg></tuv>
-      <tuv xml:lang="pl"><seg>ZESPÓŁ R wyraźnie stara się WKOPAĆ\nw kłopoty!</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>TEAM ROCKET left a way out!</seg></tuv>
@@ -295005,6 +295001,10 @@
     <tu>
       <tuv xml:lang="en"><seg>Hm? Your BERRY POUCH is full.\nMy gift remains ungiven, then.</seg></tuv>
       <tuv xml:lang="pl"><seg>Hm? \nTwój WOREK NA JAGODY jest pełen.\pNo to nie ma prezentu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TEAM ROCKET must be trying to DIG\ntheir way into no good!</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZESPÓŁ R wyraźnie stara się WKOPAĆ\nw kłopoty!</seg></tuv>
     </tu>
   </body>
 </tmx>
