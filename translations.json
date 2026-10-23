@@ -32568,7 +32568,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792791883.7782269,
+  "updated": 1792791923.7837987,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_265": {
@@ -96325,16 +96325,16 @@
   "notes": "",
   "ignored": false
  },
- "srcdatatext.txt::srcdatatext.txt_1168": {
-  "source": "HIKER",
-  "target": "GÓRAL",
+ "src.txt::src.txt_1264": {
+  "source": "IN BAG:{FONT_SMALL} {STR_VAR_1}",
+  "target": "W TORBA: {FONT_SMALL} {STR_VAR_1}",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "src.txt::src.txt_1264": {
-  "source": "IN BAG:{FONT_SMALL} {STR_VAR_1}",
-  "target": "W TORBA: {FONT_SMALL} {STR_VAR_1}",
+ "srcdatatext.txt::srcdatatext.txt_1168": {
+  "source": "HIKER",
+  "target": "GÓRAL",
   "status": "draft",
   "notes": "",
   "ignored": false
