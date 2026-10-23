@@ -68408,12 +68408,13 @@
  },
  "data maps.txt::data maps.txt_215": {
   "source": "{RIVAL}: Yo! {PLAYER}!\\pYou're still struggling along back\\nhere?\\pI'm doing great! I caught a bunch\\nof strong and smart POKéMON!\\pHere, let me see what you caught,\\n{PLAYER}!",
-  "target": "{RIVAL}: Hej! {PLAYER}!\\pNadal wleczesz się jak\\nżółw?\\pMi idzie świetnie! Złapałem\\njuż kupę mądrych i silnych POKéMONÓW!\\pDawaj, pokaż mi co złapałeś,\\n{PLAYER}!",
+  "target": "{RIVAL}: Hej! {PLAYER}!\\pNadal wleczesz się jak\\nżółw?\\pMi idzie świetnie! Złapałem już\\n kupę mądrych i silnych POKéMONÓW!\\pDawaj, pokaż mi co złapałeś,\\n{PLAYER}!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790512654.8703449
+  "updated": 1792787318.7119844,
+  "touched": true
  },
  "data maps.txt::data maps.txt_3296": {
   "source": "Well, now, I've had my coffee, and\\nthat's what I need to get going!\\pHm?\\nWhat is that red box you have?\\pAh, so you're working on your\\nPOKéDEX.\\pThen let me give you a word of\\nadvice.\\pWhenever you catch a POKéMON,\\nthe POKéDEX automatically updates\\lits data.\\p…You don't know how to catch\\na POKéMON?\\pI suppose I had better show you\\nthen!",
