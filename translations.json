@@ -57895,12 +57895,12 @@
  },
  "data maps.txt::data maps.txt_10": {
   "source": "TRAINER TIPS\\pX ACCURACY boosts the accuracy of\\ntechniques.\\pDIRE HIT jacks up the likelihood\\nof critical hits.\\pGet your items at the CELADON\\nDEPT. STORE!",
-  "target": "PORADA\\pX CELNOŚĆ podbija celność wybranych\\ntechnik.\\pPOTĘŻNY CIOS daje \\nprawdopodobieństw ociosów\\p krytycznych.\\pA to wszystko w DOMU TOWAROWYM\\nCELADON!",
+  "target": "PORADA\\pX CELNOŚĆ podbija celność wybranych\\ntechnik.\\pPOTĘŻNY CIOS daje \\nprawdopodobieństw ociosów\\p krytycznych.\\nA to wszystko w DOMU TOWAROWYM\\pCELADON!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792782718.3127673,
+  "updated": 1792782758.2965887,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_730": {
