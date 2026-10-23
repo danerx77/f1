@@ -68823,10 +68823,13 @@
  },
  "data maps.txt::data maps.txt_298": {
   "source": "Sigh…\\nToo much time, too little to do…\\pIs nothing entertaining happening\\nanywhere?",
-  "target": "Ech…\\nZbyt wiele czasu, tak mało do roboty…\\pCzy nie dzieje się nic\\nciekawego?",
+  "target": "Ech…\\nZbyt wiele czasu,\\p tak mało do roboty…\\nCzy nie dzieje się nic\\pciekawego?",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792787358.7240543,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_476": {
   "source": "ROCK TOMB",
