@@ -75,7 +75,7 @@ Co?
 {COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mimo, iż przegrałem, nadal będę\ntrenował według wskazań mojego\lmistrza ninja, KOGI!
 {COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mój tata jest LIDEREM w tym\nmieście.\pTrenuję, by używać TRUJĄCYCH POKéMONÓW\ntak dobrze jak on.
 {COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mówi się, że\nKOGA ma dogłębną wiedzę medyczną.\pOn nawet sporządza lekarstwa,\naby wyleczyć swoje POKéMONY.
-{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}STREFA SAFARI jest wielka,\nco nie?\pLIDER SALI w FUCHSIA - KOGA,\npatroluje ten teren, gdy tylko może.\pDzięki temu, możemy się bawić\nwiedząc, że jesteśmy bezpieczni.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}STREFA SAFARI jest wielka,\nco nie?\pLIDER SALI w FUCHSIA KOGA,\npatroluje ten teren, gdy tylko może.\pDzięki temu, możemy się bawić\nwiedząc, że jesteśmy bezpieczni.
 {COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON SAFFRON CITY\nLIDER: SABRINA\lMistrzyni PSYCHO POKéMONÓW!
 {COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Słyszałeś o tej dziewczynie,\nLIDERCE z SAFFRON CITY?\pUżywa PSYCHICZNYCH POKéMONÓW,\ntak?
 {COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mam psychiczne moce\nod dziecka.\pWszystko zaczęło się od\nwygięcia się rzuconej łyżki.
@@ -472,7 +472,7 @@ Jeśli POKéMONY zranią się w walce,\nzanieś je do CENTRUM POKéMON i\lpozwó
 Lasy są właściwie tym samym czym\ndrogi, chociaż są bardziej jak\llabirynty.\lWszystkie lasy mają wyjścia, \lwięc nie poddawaj się!
 Jaskinie są mroczne i niebezpieczne.\nZawsze mogą tam pojawić się dzikie\lPOKéMONY.\lW razie niebezpieczeństwa\lgoń do CENTRUM POKéMON lub użyj\lprzedmiotu. Za niektórymi jaskiniami \lczekają nowe miasta.
 Celem gry jest wytrenowanie swoich\nPOKéMONÓW i rozwijanie fabuły.\lMusisz zbierać informacje i rozwiązywać\lproblemy. Przykładowo, co\lpotrzebne jest, by ominąć przeszkodę?\lCo przesunie z drogi\lprzeszkadzającą ci osobę?
-Jest kilka rodzajów przedmiotów.\nNiektóre mogą być używane tylko\lna polu. Inne w trakcie walki.\lNiektórych można używać zawsze.\lSpróbuj użyć przdmiotu - jeżeli się nie uda,\ldowiesz się o tym.
+Jest kilka rodzajów przedmiotów.\nNiektóre mogą być używane tylko\lna polu. Inne w trakcie walki.\lNiektórych można używać zawsze.\lSpróbuj użyć przdmiotu jeżeli się nie uda,\ldowiesz się o tym.
 W walce, POKéMONY próbują zredukować\nwitalność przeciwnika, wyrażaną w\lHP. Jeśli HP POKéMONA spadnie do zera,\lmdleje, a drugi POKéMON wygrywa.\lZwyciężając walkę, POKéMON zdobywa\lPunkty EXP., pomagające mu\lpoziomować (rozwijać się).
 Najpierw w pełni wylecz POKéMONA w\nswojej drużynie (POKéMONA, który jest\lz tobą) w dowolnym CENTRUM POKéMON.\lPowinieneś również kupić przedmioty lecznicze\lna wypadki w SKLEPIE POKéMON.
 Witalność POKéMONA wyrażana jest w HP.\nJeśli POKéMON zostaje ranny w walce,\lHP jest odejmowane. Jeśli jego\lHP spadnie do zera, POKéMON mdleje.\lLecz ranne lub zemdlałe POKéMON w\lCENTRUM POKéMON lub używając przedmiotów.
@@ -482,7 +482,7 @@ Jeśli wszystkie POKéMON w twojej\ndrużynie (wszystkie POKéMONy z tobą) zemd
 Jeśli dziki POKéMON ucieknie z POKé\nBALLA, oczywiście wciąż jest porywczy.\lSpróbuj jeszcze bardziej zmniejszyć jego HP\li spróbuj osłabić go za pomocą paraliżu\llub snu, zanim spróbujesz go złapać.\lJeśli POKé BALL potrząsa się przez\lchwilę, zdobycz jest bliska złapania!
 Są sklepy, znane jako\nPOKéMON MARTY, które sprzedają przedmioty.\lNie znajdziesz POKéMON MARTS na drogach,\lw lasach ani w jaskiniach.\lZaopatrz się w potrzebne przedmioty, gdy\lodwiedzasz miasto z POKéMON MART.
 Możesz kupić POKé BALLE w każdym\nPOKéMON MARKCIE w dowolnym mieście.\lNie znajdziesz SKLEPÓW POKéMON na drogach,\lw lasach ani w jaskiniach.\lZaopatrz się w POKé BALLS, gdy\lodwiedzasz miasto z POKéMON MART.
-TRENER to osoba, która\nwychowuje POKéMONY poprzez walkę.\lTRENERZY będą cię wyzywać, gdziekolwiek się\lznajdują - może to być\lna drodze, w lasach, jaskiniach, wszędzie.\lJeśli wasze spojrzenia się spotkają, musisz\lprzyjąć ich wyzwanie. Więc bądź ostrożny!
+TRENER to osoba, która\nwychowuje POKéMONY poprzez walkę.\lTRENERZY będą cię wyzywać, gdziekolwiek się\lznajdują może to być\lna drodze, w lasach, jaskiniach, wszędzie.\lJeśli wasze spojrzenia się spotkają, musisz\lprzyjąć ich wyzwanie. Więc bądź ostrożny!
 Aby pokonać TRENERA w walce,\nużywaj POKéMONÓW, które mają\lprzewagę typową nad POKéMONAMI przeciwnika.\lMożesz również używać wysoko\lwyszkolonych POKéMONÓW o przytłaczającej sile.\lPrzewaga liczebna nad POKéMONAMI\lprzeciwnika to kolejna oczywista taktyka.
 Dziko żyjące POKéMON pojawią się w\nwysokiej trawie, na drogach i w lasach.\lPojawią się wszędzie w ciemnych jaskiniach.\lW miastach nie ma dzikich POKéMON\lani TRENERÓW, więc są to bezpieczne miejsca.
 POKéMON może nauczyć się maksymalnie czterech\nróżnych technik, czyli ruchów. Istnieje\logromna różnorodność ruchów, w tym ataków\loraz takich o specjalnych efektach. Rodzaje\lruchów, które można opanować, różnią się\lw zależności od POKéMONA. Niektóre\lruchy można nauczyć się z maszyn.
@@ -551,7 +551,7 @@ Użył LISTU
  Użył “PRZYNĘTY”
  Użył “KAMIENIA”
  HALA SŁAWY
-{CIRCLE_1} Wybierz “POKéDEX” w MENU.\n{CIRCLE_2} Wybierz POKéMON-a,\nużywając poleceń takich jak\n“LISTA POKéMONÓW”, “SIEDLISKA\nPOKéMONÓW” i “SZUKAJ”.\n{CIRCLE_3} Wybierz POKéMON-a, aby\nuzyskać szczegółowe informacje.
+{CIRCLE_1} Wybierz “POKéDEX” w MENU.\n{CIRCLE_2} Wybierz POKéMONA,\nużywając poleceń takich jak\n“LISTA POKéMONÓW”, “SIEDLISKA\nPOKéMONÓW” i “SZUKAJ”.\n{CIRCLE_3} Wybierz POKéMONA, aby\nuzyskać szczegółowe informacje.
 {CIRCLE_1} Wybierz “POKéMON” w MENU.\n{CIRCLE_2} Wybierz POKéMONA w swojej drużynie.\n{CIRCLE_3} Wybierz “PODSUMOWANIE”,\n“PRZEŁĄCZ” lub “ELEMENT.”
 {CIRCLE_1} Wybierz “PODSUMOWANIE.” {CIRCLE_2} Naciśnij w\nlewo lub w prawo na\n{PLUS} Płycie sterującej, aby sprawdzić informacje:\n  \n“INFORMACJE O POKéMON” “UMIEJĘTNOŚCI\nPOKéMON” “ZNANE RUCHY”
 {CIRCLE_1} Wybierz POKéMONA,\nktórego chcesz zamienić.\n{CIRCLE_2} Wybierz “ZMIANA.” {CIRCLE_3}\nWybierz POKéMONA, którego\nchcesz zamienić z pierwszym.\nPOKéMON po lewej stronie ekranu będzie\ntym, który wyjdzie jako pierwszy w walce.
@@ -584,7 +584,7 @@ Wybierz “PC PROF. OAKA” na komputerze.{CIRCLE_1}\n{CIRCLE_2} PROF. OAK\nocen
 {CIRCLE_1} Naciśnij START.\n{CIRCLE_2} MENU otworzy się po prawej.\n{CIRCLE_3} W zależności od sytuacji,\nMENU może zawierać różne nagłówki.\nMENU nie otworzy się w\nniektórych sytuacjach, takich jak\nrozmowa, wykonywanie czegoś, walka itp.
 {CIRCLE_1} Wybierz “WALCZ.” {CIRCLE_2} Wybierz\njeden z pokazanych ruchów,\na ten ruch zostanie użyty!
 {CIRCLE_1} Wybierz “POKéMON.” {CIRCLE_2}\nWybierz POKéMON w twojej\ndrużynie, którego chcesz użyć.\n{CIRCLE_3} Jeśli masz przy sobie\ndwóch lub więcej POKéMON, mogą\none zostać zamienione, wybierając “ZMIEŃ”.\nSprawdź dane POKéMON, wybierając “PODSUMOWANIE”.
-Ta komenda zamienia POKéMONA w walce\nna innego z twojej drużyny.\n{CIRCLE_1} Wybierz POKéMONA, którego chcesz wysłać.\n{CIRCLE_2} Wybierz “ZAMIEŃ.” {CIRCLE_3}\nWybrany POKéMON zamieni się miejscami\nz POKéMON-em w walce!
+Ta komenda zamienia POKéMONA w walce\nna innego z twojej drużyny.\n{CIRCLE_1} Wybierz POKéMONA, którego chcesz wysłać.\n{CIRCLE_2} Wybierz “ZAMIEŃ.” {CIRCLE_3}\nWybrany POKéMON zamieni się miejscami\nz POKéMONEM w walce!
 {CIRCLE_1} Wybierz “PODSUMOWANIE.” {CIRCLE_2} Naciśnij w\nlewo lub w prawo na\n{PLUS} Płycie sterującej, aby sprawdzić informacje:\n  \n“INFORMACJE O POKéMON” “UMIEJĘTNOŚCI\nPOKéMON” “ZNANE RUCHY”
 {CIRCLE_1} Wybierz “TORBA.” {CIRCLE_2} Naciśnij w\nlewo lub w prawo na {PLUS}\nPadzie kontrolnym, aby sprawdzić nagłówki danych:\n   “PRZEDMIOTY”\n“KLUCZOWE PRZEDMIOTY” “POKé BALLS”\nNaciśnij w górę lub w\ndół, aby wybrać przedmiot.
 {CIRCLE_1} POKéMON, które złapałeś,\nsą oznaczone symbolem POKé\nBALL na liście POKéDEX.\n{CIRCLE_2} Złapany POKéMON dostarczy\ndużą ilość danych.\n
@@ -660,7 +660,7 @@ Wszystkie POKéMONY mają specjalną UMIEJĘTNOŚĆ.\nIstnieje wiele różnych r
 Za każdym razem, gdy wygrasz bitwę\nz TRENEREM, otrzymujesz nagrodę pieniężną.\lOszczędzaj swoją nagrodę pieniężną, aby móc\lcieszyć się zakupami w POKéMON SKLEPIE!
 Ruchy są również klasyfikowane według typów.\nJeżeli POKéMON określonego typu\lużyje ruchu tego samego typu,\ljego moc zostaje zwiększona. Jeżeli\ltyp ruchu ma przewagę\lw starciu z celem,\ljego skuteczność również zostaje zwiększona.
 Wszystkie POKéMON mają osobowość, czyli “CHARAKTER”.\nCharakter POKéMON wydaje się wpływać\lna to, jak POKéMON będzie\lrozwijać się w miarę zdobywania poziomów.
-Numer ID to specjalny numer\nprzypisany wyłącznie tobie jako TRENEROWI.\lRazem z nazwą OT, nr ID.\lsłuży do precyzyjnego\lzidentyfikowania oryginalnego TRENERA.\lNumer ID nie zmienia się,\lnawet jeśli POKéMON zostanie wymieniony.
+Numer ID to specjalny numer\nprzypisany wyłącznie tobie jako TRENEROWI.\lWraz z nazwą OT, nr ID.\lsłuży do precyzyjnego\lzidentyfikowania oryginalnego TRENERA.\lNumer ID nie zmienia się,\lnawet jeśli POKéMON zostanie wymieniony.
 PP oznacza “Power Points” (Punkty\nMocy). Wskazuje, ile razy dana umiejętność\lmoże być użyta w walce.\lPodobnie jak HP, PP\lmożna odzyskać, odwiedzając CENTRUM POKéMON\llub używając niektórych przedmiotów.
 SIŁA wskazuje na moc\nataku. Im wyższa ta\lliczba, tym większe\lobrażenia można zadać przeciwnikowi!
 CELNOŚĆ wskazuje prawdopodobieństwo trafienia\nprzeciwnika przez ruch.\lIm wyższa ta liczba, tym większe\lprawdopodobieństwo, że ruch trafi w cel.
@@ -675,7 +675,7 @@ Możesz dostosować, jak szybko wyświetlany\njest tekst. Wybierz jedną\lopcję
 Możesz wybrać włączenie lub\nwyłączenie animacji walki.
 Możesz wybrać, czy TRENER może\nzmienić POKéMONA po tym, jak\lsprawił, że jego przeciwnik zemdlał.\lUstaw na “SHIFT”, jeśli chcesz\lmieć szansę zamienić POKéMONA po\ltym, jak pokona swojego wroga.
 Możesz wybrać między wyjściem\ndźwięku MONO a STEREO.
-Ustaw na “POMOC”, aby wyświetlać komunikaty\npomocy naciskając przycisk L lub R.\lUstaw na “LR”, aby włączyć przełączanie\lstron POKéDEX-a i KIESZENI PLECAKA\lza pomocą przycisków L i R.\lUstaw na “L=A”, aby przycisk L\ldziałał tak samo jak przycisk A.
+Ustaw na “POMOC”, aby wyświetlać komunikaty\npomocy naciskając przycisk L lub R.\lUstaw na “LR”, aby włączyć przełączanie\lstron POKéDEXA i KIESZENI PLECAKA\lza pomocą przycisków L i R.\lUstaw na “L=A”, aby przycisk L\ldziałał tak samo jak przycisk A.
 Możesz wybrać projekt ramki wokół\nniektórych menu. Wypróbuj je i\lzobacz, co ci się podoba.
 Ustawienia zostaną zmienione na wybrane\nopcje pokazane na czerwono,\la Ty wrócisz do MENU.
 TM (Maszyna Techniczna) to urządzenie\nużywane do nauczenia ruchu POKéMONA.\lJest wiele różnych rodzajów.\lRuchów można nauczyć tylko tych POKéMONÓW,\lktóre są w stanie ich używać.\lTM psuje się po jednokrotnym użyciu.
@@ -684,7 +684,7 @@ Ruchy UKRYTE to takie, które są\nszczególnie ważne w Twojej przygodzie.\lAby
 Wśród POKéMONÓW są takie, które przechodzą\nznaczące zmiany (ewolucję) po osiągnięciu określonych\lpoziomów. Ewolucja powoduje, że POKéMON zmienia\lswoją formę, zmienia nazwę, a\lbyć może zmienia też ruchy, których\lmoże się nauczyć. Niektóre POKéMONY ewoluują\lz powodów innych niż zdobywanie poziomów.
 Problemy ze statusem obejmują:\nSen: Nie można używać ruchów.\lTrucizna: powoduje stałą utratę punktów HP.\lParaliż: Może uniemożliwić ruchy.\lSpalenie: utrata HP i obniżenie ATAKU.\lZamrożenie: Nie można używać ruchów.\lTe można leczyć za pomocą przedmiotów itp.
 POKéMON to nazwa używana do\nopisania cudownych stworzeń, które\lzamieszkują wszystkie zakątki tego świata.\lLudzie hodują POKéMONY jako swoje zwierzęta domowe,\lużywają ich do walk i tak dalej.
-Numer ID to specjalny numer\nprzypisany wyłącznie tobie jako TRENEROWI.\lWraz z nazwą OT, nr ID.\lsłuży do precyzyjnego\lzidentyfikowania oryginalnego TRENERA.\lNumer ID nie zmienia się,\lnawet jeśli POKéMON zostanie wymieniony.
+Numer ID to specjalny numer\nprzypisany wyłącznie tobie jako TRENEROWI.\lRazem z nazwą OT, nr ID.\lsłuży do precyzyjnego\lzidentyfikowania oryginalnego TRENERA.\lNumer ID nie zmienia się,\lnawet jeśli POKéMON zostanie wymieniony.
 Za każdym razem, gdy wygrasz bitwę\nz TRENEREM, otrzymujesz nagrodę pieniężną.\lOszczędzaj swoją nagrodę pieniężną, aby móc\lcieszyć się zakupami w POKéMON SKLEPIE!
 To wskazuje liczbę ODZNAK\nLIGI POKéMON, które wygrałeś.\lZdobywaj ODZNAKI, pokonując LIDERÓW SAL\lw różnych miastach i miasteczkach.
 System POMOCY

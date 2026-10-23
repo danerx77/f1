@@ -45,7 +45,7 @@ Tego ruchu można nauczyć się\ntylko raz. Ok?
 テストよう　メッセージです！\nポケモンの　せかいへ　ようこそ！
 <<< FILE: mystery_event_msg.s >>>
 Dziękujemy za korzystanie z\nsystemu KARTY PIECZĄTEK.\pMasz jeszcze {STR_VAR_1} do zebrania, aby\nwypełnić swoją KARTĘ Z NAKLEJKAMI.
-Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pZ POKéMON CENTER mamy\nprezent - POKéMONOWE JAJO!\pProszę wychowuj go z\nmiłością i życzliwością.
+Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pZ POKéMON CENTER mamy\nprezent POKéMONOWE JAJO!\pProszę wychowuj go z\nmiłością i życzliwością.
 Och, wygląda na to, że twoja drużyna jest pełna.\pProszę, przyjdź do mnie\npo umieszczeniu POKéMONA w PC.
 Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pTrzymając tę KARTĘ CUDU,\nmożesz wziąć udział w\lankiecie w POKéMON MARKT.\pUżyj tych ankiet, aby\nzaprosić TRENERÓW na WYSPY SEVII.\p…Pozwól, że dam ci\ntajne hasło do ankiety:\p“GIVE ME\nAWESOME TRAINER”\pNapisz to w\nankiecie i wyślij do\lSYSTEMU KOMUNIKACJI BEZPRZEWODOWEJ.
 Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pTRENER przybył na WYSPY\nSEVII szukając ciebie.\pMamy nadzieję, że spodoba ci\nsię walka z odwiedzającym TRENEREM.\pMożesz zaprosić innych TRENERÓW,\nwprowadzając inne hasła.\pSpróbuj poszukać innych haseł,\nktóre mogą działać.

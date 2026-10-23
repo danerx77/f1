@@ -7,12 +7,12 @@ To mój zaufany kumpel, POLIWRATH.\pEwoluował z POLIWHIRLA, gdy\nużyłem na ni
 POLIWRATH: Ribi ribit!
 Na co się tak gapisz?\nSpadaj albo ci przyłożę.
 Nie wchodź nam lepiej w drogę!
-PORADA\pX CELNOŚĆ podbija celność wybranych\ntechnik.\pPOTĘŻNY CIOS daje prawdopodobieństwo\nciosów krytycznych.\pA to wszystko w DOMU TOWAROWYM\nCELADON!
+PORADA\pX CELNOŚĆ podbija celność wybranych\ntechnik.\pPOTĘŻNY CIOS daje \nprawdopodobieństw ociosów\p krytycznych.\nA to wszystko w DOMU TOWAROWYM\pCELADON!
 CELADON CITY\nMiasto Tęczowych Snów
 SALA POKéMON CELADON CITY\nLIDER: ERIKA\lNaturalna Księżniczka!
 DWÓR CELADON
 Znajdź czego szukasz w DOMU\nTOWAROWYM CELADON!
-PORADA\pOCHRONA SPEC. chroni twoje POKéMONY\nprzed działaniem ruchów obniżających\lstatystyki.\pKupisz go w DOMU\nTOWAROWYM CELADON!
+PORADA\pOCHRONA SPEC. chroni twoje POKéMONY\nprzed działaniem ruchów \lobniżających statystyki.\pKupisz go w DOMU\nTOWAROWYM CELADON!
 Wymieniamy ŻETONY na nagrody!\nPRIZE EXCH.
 SALON GIER ROCKETÓW\nPlac zabaw dla dorosłych!
 Aaaach, oł…\nPoparzyłem sobie język!\pTa miła staruszka z DWORU\ndała mi HERBATĘ.\pAle była strasznie gorąca!\nMusi najpierw wystygnąć.
@@ -64,7 +64,7 @@ Na długie podróże dobrze kupić\nOCUCACZ.
 Przedmioty z górnej półki!\p2P: SKLEP TRENERSKI
 Mamy klienta, LANCE'a. Zjawia\nsię tu czasami.\pZawsze kupuje peleryny.\pCiekawe… Po co mu w domu tyle\nidentycznych peleryn?
 <<< FILE: maps/CeladonCity_DepartmentStore_3F/text.inc >>>
-Złapane POKéMONY rejestrowane są\nz numerami ID i OT.\pOT oznacza “Oryginalnego TRENERA” -\nTRENERA, który złapał go pierwszy.
+Złapane POKéMONY rejestrowane są\nz numerami ID i OT.\pOT oznacza “Oryginalnego TRENERA”  \nTRENERA, który złapał go pierwszy.
 Dobra!\pMój kumpel chce wymienić swojego\nKANGASKHANA za HAUNTERA!
 Chodź, HAUNTER!\pKocham HAUNTERY!\nZbieram je!\pCo?\pHAUNTER ewoluował w innego POKéMONA\nw trakcie wymiany!
 Możesz zidentyfikować POKéMONY\notrzymane w wymianie przez ID.
@@ -194,7 +194,7 @@ Jupi! Jestem na wakacjach!\nZabrała mnie siostra! Świetnie!
 <<< FILE: maps/CeladonCity_House1/text.inc >>>
 Hehehe!\pAutomaty to prawdziwa żyła\nzłota!
 SZEFIE!\pWłaśnie dostarczyliśmy dziś\ndwa tysiące POKéMONÓW jako\lnagrody!
-Nie dotykaj plakatu w SALONIE\nGIER!\pNie ma tam żadnego sekretnego \nprzycisku!
+Nie dotykaj plakatu w SALONIE\nGIER!\pNie ma tam żadnego sekretnego\nprzycisku!
 ぶつだん　だ‥
 <<< FILE: maps/CeladonCity_PokemonCenter_1F/text.inc >>>
 POKé FLET budzi śpiące\nPOKéMONY. Wiesz to.\pRobi to dźwiękiem, który tylko\none potrafią usłyszeć.
@@ -1534,7 +1534,7 @@ GIA: JES, ty głupolu!\nZawaliłeś!
 GIA: Nie zniosę walki bez\nmojego JESA!\pPotrzebujesz dwóch POKéMONÓW!
 <<< FILE: maps/Route12_FishingHouse/text.inc >>>
 Jestem młodszym bratem\nRYBACKIEGO GURU.\pKooocham łowić ryby!\nNie wytrzymuję bez tego dnia!\pPowiedz mi, lubisz łowić?
-Świetnie! Podoba mi się twój styl.\nZostańmy kumplami.\pWeź to i łów, przyjacielu!
+Słodko! Podoba mi się twój styl.\nBędziemy kumplami.\pWeź to i wędkuj, mały przyjacielu!
 {PLAYER} dostaje SUPER WĘDKĘ\nod brata RYBACKIEGO GURU.
 Łowienie jest cudowne!\nTo jak najwspanialsza poezja.\pPrzez morza i rzeki, ruszaj, by\nzłowić największą rybę, przyjacielu.\pA teraz, mam do ciebie prośbę.\pJeśli złapiesz tą wędką\ndużego MAGIKARPIA, pokaż mi go.\pTak samo, jak łowienie, kocham\noglądać olbrzymie MAGIKARPIE.
 Och…\nZawiodłeś mnie…
@@ -2045,8 +2045,8 @@ Och, łoł, to ODZNAKA GŁAZU!\nDostałeś ją od BROCKA, prawda?\pBROCK jest ś
 <<< FILE: maps/Route4_PokemonCenter_1F/text.inc >>>
 Okej, sześć POKé BALLI przy\nmoim pasie…\pTak, wystarczy. Maksymalnie, możesz\nmieć ze sobą 6 POKéMONÓW.
 ZESPÓŁ R atakuje mieszkańców\nCERULEAN…\pNie ma dnia bez ZESPOŁU R\nna nagłówkach gazet.
-MĘŻCZYZNA: Witaj, chłopcze!\nMam dla ciebie coś specjalnego!\pDam ci tego sekretnego POKéMONA\n- MAGIKARPIA - za jedyne ¥500!\pWięc, kupisz go, mam rację?
-MĘŻCZYZNA: Witaj, złotko!\nMam coś specjalnego dla ciebie!\pDam ci tego sekretnego POKéMONA\n- MAGIKARPIA - za jedyne ¥500!\pWięc, kupisz go, mam rację?
+MĘŻCZYZNA: Witaj, chłopcze!\nMam dla ciebie coś specjalnego!\pDam ci tego sekretnego POKéMONA\n MAGIKARPIA za jedyne ¥500!\pWięc, kupisz go, mam rację?
+MĘŻCZYZNA: Witaj, złotko!\nMam coś specjalnego dla ciebie!\pDam ci tego sekretnego POKéMONA\n MAGIKARPIA za jedyne ¥500!\pWięc, kupisz go, mam rację?
 {PLAYER} zapłaca skandaliczną\ncenę ¥500 za MAGIKARPIA…
 Nie? Mówisz nie? Przecież to\nwielka przysługa!
 Nie masz już chyba miejsca na\nwięcej POKéMONÓW.
@@ -2247,7 +2247,7 @@ Jestem strażnikiem.\pNie wpuszczam dziwnych dzieciaków!
 SAFFRON CITY\nŚwietliste Złote Miasto Komercji
 WALECZNE DOJO
 SALA POKéMON SAFFRON CITY\nLIDER: SABRINA\lMistrzyni PSYCHO POKéMONÓW!
-PORADA\pUZDROWIENIE leczy każde schorzenie -\npoparzenia, paraliż, zatrucie,\lzamrożenie i sen.\pKosztuje trochę więcej, ale jest\nbardziej przydatne niż inne \pprzedmioty.
+PORADA\pUZDROWIENIE leczy każde schorzenie \npoparzenia, paraliż, zatrucie,\lzamrożenie i sen.\pKosztuje trochę więcej, ale jest\nbardziej przydatne niż inne \pprzedmioty.
 PORADA\pNowe GREAT BALLE oferują większe\nszansę na złapanie.\pWypróbuj je na silniejszych\nPOKéMONACH.
 SILPH CO. BUDYNEK BIUROWY
 DOM PANA PSYCHIKA
@@ -3189,7 +3189,7 @@ Drugi elektryczny zamek otworzył\nsię! Drzwi otwarte!
 Nie!\nTu są tylko śmieci.\pHej!\nElektryczne zamki zresetowały się!
 <<< FILE: maps/VermilionCity_House1/text.inc >>>
 Jestem RYBACKIM GURU!\pKocham łowić ryby!\nNie przeżyłbym bez wędkowania.\pPowiedz mi, lubisz łowić?
-Słodko! Podoba mi się twój styl.\nBędziemy kumplami.\pWeź to i wędkuj, mały przyjacielu!
+Świetnie! Podoba mi się twój styl.\nZostańmy kumplami.\pWeź to i łów, przyjacielu!
 {PLAYER} dostaje STARĄ WĘDKĘ od\nRYBACKIEGO GURU.
 Łowienie to droga życia!\nTo jak najpiękniejsza poezja.\pPrzez morza i rzeki, idź i\nzłap największą rybę świata, koleżko.
 Och…\nZawiodłeś mnie…

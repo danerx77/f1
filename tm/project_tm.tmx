@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T134147Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261023T201220Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -294969,6 +294969,14 @@
     <tu>
       <tuv xml:lang="en"><seg>It makes its nest at the bottom of \nswamps. It will eat anything - if it is\nalive, WHISCASH will eat it.</seg></tuv>
       <tuv xml:lang="pl"><seg>Tworzy swoje gniazdo na dnie bagien.\nBędzie jadł wszystko, jeśli coś żyje,\nto WHISCASH go zje.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRAINER TIPS\pX ACCURACY boosts the accuracy of\ntechniques.\pDIRE HIT jacks up the likelihood\nof critical hits.\pGet your items at the CELADON\nDEPT. STORE!</seg></tuv>
+      <tuv xml:lang="pl"><seg>PORADA\pX CELNOŚĆ podbija celność wybranych\ntechnik.\pPOTĘŻNY CIOS daje \nprawdopodobieństw ociosów\p krytycznych.\nA to wszystko w DOMU TOWAROWYM\pCELADON!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRAINER TIPS\pGUARD SPEC. protects POKéMON\nfrom status-reduction moves during\lbattle.\pGet your items at the\nCELADON DEPT. STORE!</seg></tuv>
+      <tuv xml:lang="pl"><seg>PORADA\pOCHRONA SPEC. chroni twoje POKéMONY\nprzed działaniem ruchów \lobniżających statystyki.\pKupisz go w DOMU\nTOWAROWYM CELADON!</seg></tuv>
     </tu>
   </body>
 </tmx>
