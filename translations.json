@@ -65573,7 +65573,10 @@
   "target": "PORADA\\pOCHRONA SPEC. chroni twoje POKéMONY\\nprzed działaniem ruchów obniżających\\lstatystyki.\\pKupisz go w DOMU\\nTOWAROWYM CELADON!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792782798.2961793,
+  "touched": true
  },
  "src.txt::src.txt_1485": {
   "source": "1F",
