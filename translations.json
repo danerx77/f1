@@ -13278,7 +13278,7 @@
  "srcdatapokemon.txt::srcdatapokemon.txt_776": {
   "source": "This is a newly discovered POKéMON. It is\\ncurrently under investigation. No detailed\\ninformation is available at this time.",
   "target": "To jest nowo odkryty POKéMON. Aktualnie\\nprowadzone są nad nim badania. Chwilowo\\nbrak jakichkolwiek innych informacji.",
-  "status": "draft",
+  "status": "approved",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -14157,10 +14157,10 @@
  },
  "srcdata.txt::srcdata.txt_733": {
   "source": "PREMIER BALL",
-  "target": "PREMIER BALL",
-  "status": "draft",
+  "target": "",
+  "status": "new",
   "notes": "",
-  "ignored": false,
+  "ignored": true,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -24345,7 +24345,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792323302.7628818,
+  "updated": 1792323319.948343,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1460": {
@@ -25378,7 +25378,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1792327640.2893195,
+  "updated": 1792327700.8067708,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_645": {
@@ -32568,7 +32568,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792790759.4226494,
+  "updated": 1792790803.7058067,
   "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_265": {
@@ -42846,7 +42846,7 @@
  },
  "datatext.txt::datatext.txt_538": {
   "source": " Using “POKéMON”",
-  "target": " Using “POKéMON”",
+  "target": " Użył “POKéMON”",
   "status": "draft",
   "notes": "",
   "ignored": false,
@@ -45426,7 +45426,8 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1790524797.9738693
+  "updated": 1792328362.0131254,
+  "touched": true
  },
  "src.txt::src.txt_2112": {
   "source": "\\nGame Designers\\n\\n\\n\\n\\n",
@@ -48282,6 +48283,7 @@
   "ignored": true,
   "manual_skip": true,
   "cleared": true,
+  "updated": 1792328353.7483716,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1188": {
@@ -52766,7 +52768,8 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1790519500.9101963
+  "updated": 1792327796.81022,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_242": {
   "source": "BEST",
@@ -54288,7 +54291,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328662.796319,
+  "updated": 1792328662.8048089,
   "touched": true
  },
  "data maps.txt::data maps.txt_927": {
@@ -54396,7 +54399,7 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "auto_inserted": true,
@@ -54420,7 +54423,7 @@
  },
  "datatext.txt::datatext.txt_507": {
   "source": " Using “POKéMON”",
-  "target": " Użył “POKéMON”",
+  "target": " Using “POKéMON”",
   "status": "draft",
   "notes": "",
   "ignored": false,
@@ -66410,6 +66413,8 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true,
+  "cleared": true,
+  "translator": "Antrix",
   "updated": 1792328281.2295926,
   "touched": true
  },
@@ -68922,7 +68927,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328659.8381257,
+  "updated": 1792328662.796319,
   "touched": true
  },
  "data maps.txt::data maps.txt_1191": {
@@ -72940,7 +72945,7 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true,
-  "updated": 1792328242.9840848,
+  "updated": 1792328243.017814,
   "touched": true
  },
  "data maps.txt::data maps.txt_1707": {
@@ -78662,7 +78667,8 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1790524797.9738693
+  "updated": 1792328362.0131254,
+  "touched": true
  },
  "srcdataeasychat.txt::srcdataeasychat.txt_27": {
   "source": "TRAINS",
@@ -79356,10 +79362,10 @@
  },
  "srcdata.txt::srcdata.txt_345": {
   "source": "PREMIER BALL",
-  "target": "",
-  "status": "new",
+  "target": "PREMIER BALL",
+  "status": "draft",
   "notes": "",
-  "ignored": true,
+  "ignored": false,
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
@@ -80958,7 +80964,13 @@
   "target": "",
   "status": "new",
   "notes": "",
-  "ignored": false
+  "ignored": true,
+  "manual_skip": true,
+  "cleared": true,
+  "auto_inserted": true,
+  "translator": "Antrix",
+  "updated": 1792325144.128399,
+  "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_130": {
   "source": "ROUTE 6",
@@ -82365,7 +82377,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328662.796319,
+  "updated": 1792328662.8048089,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_243": {
@@ -84503,6 +84515,7 @@
   "ignored": true,
   "manual_skip": true,
   "cleared": true,
+  "updated": 1792328353.7483716,
   "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_1172": {
@@ -85180,7 +85193,7 @@
   "manual_skip": true,
   "cleared": true,
   "translator": "Antrix",
-  "updated": 1792328277.3716214,
+  "updated": 1792328281.2295926,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1478": {
@@ -95300,6 +95313,13 @@
   "updated": 1791656091.3538427,
   "touched": true
  },
+ "srcdatatext.txt::srcdatatext.txt_661": {
+  "source": "POKéMON MANSION",
+  "target": "POKéMONOWY DWÓR",
+  "status": "draft",
+  "notes": "",
+  "ignored": false
+ },
  "srcdata.txt::srcdata.txt_1029": {
   "source": "MAGOST BERRY",
   "target": "MAGOSTJAGODA",
@@ -95314,13 +95334,6 @@
   "notes": "",
   "ignored": true,
   "manual_skip": true
- },
- "srcdatatext.txt::srcdatatext.txt_661": {
-  "source": "POKéMON MANSION",
-  "target": "POKéMONOWY DWÓR",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
  },
  "data maps.txt::data maps.txt_2201": {
   "source": "AREA 1\\nWEST: CENTER AREA",
@@ -96312,16 +96325,16 @@
   "notes": "",
   "ignored": false
  },
- "srcdatatext.txt::srcdatatext.txt_1168": {
-  "source": "HIKER",
-  "target": "GÓRAL",
+ "src.txt::src.txt_1264": {
+  "source": "IN BAG:{FONT_SMALL} {STR_VAR_1}",
+  "target": "W TORBA: {FONT_SMALL} {STR_VAR_1}",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "src.txt::src.txt_1264": {
-  "source": "IN BAG:{FONT_SMALL} {STR_VAR_1}",
-  "target": "W TORBA: {FONT_SMALL} {STR_VAR_1}",
+ "srcdatatext.txt::srcdatatext.txt_1168": {
+  "source": "HIKER",
+  "target": "GÓRAL",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -96750,7 +96763,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792328662.796319,
+  "updated": 1792328662.8048089,
   "touched": true
  },
  "data maps.txt::data maps.txt_2179": {
@@ -97067,7 +97080,7 @@
  "srcdatapokemon.txt::srcdatapokemon.txt_390": {
   "source": "This is a newly discovered POKéMON. It is\\ncurrently under investigation. No detailed\\ninformation is available at this time.",
   "target": "To jest nowo odkryty POKéMON. Aktualnie\\nprowadzone są nad nim badania. Chwilowo\\nbrak jakichkolwiek innych informacji.",
-  "status": "approved",
+  "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
@@ -98419,7 +98432,7 @@
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791736687.1397307,
+  "updated": 1792328012.7844436,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_1519": {
@@ -107028,6 +107041,7 @@
   "notes": "",
   "ignored": false,
   "cleared": true,
+  "auto_inserted": true,
   "translator": "Antrix",
   "updated": 1792328082.0952005,
   "touched": true
