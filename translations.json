@@ -47981,12 +47981,12 @@
  },
  "data maps.txt::data maps.txt_124": {
   "source": "These slot games…\\nWin or lose, it's only by luck.",
-  "target": "Te maszyny…\\nWygrana zależy tu tylko od szczęścia.",
+  "target": "Te maszyny…\\nWygrana zależy \\ptu tylko od szczęścia.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792786918.6933,
+  "updated": 1792786958.726212,
   "touched": true
  },
  "src.txt::src.txt_1342": {
