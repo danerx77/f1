@@ -55408,16 +55408,16 @@
   "translator": "Antrix",
   "updated": 1790363245.2739916
  },
- "data maps.txt::data maps.txt_337": {
-  "source": "What, are you too busy?\\pWell, all right.\\nThe boat hasn't arrived yet anyway.\\pI'll be waiting at the POKéMON\\nCENTER over there.\\pCome see me when you're done with\\nyour business here.",
-  "target": "Co, jesteś zbyt zajęty?\\pNo dobra.\\nŁódź i tak jeszcze nie przypłynęła.\\pBędę czekał przy tym CENTRUM\\nPOKéMONÓW. Wpadnij do\\pmnie, gdy zrobisz już to,\\nco cię tu zatrzymuje.",
+ "srcdatapokemon.txt::srcdatapokemon.txt_511": {
+  "source": "This POKéMON has a geometric body.\\nBecause of its body, the locals suspect\\nthat it is an alien creature.",
+  "target": "Ten POKéMON ma geometryczną budowę.\\nZ uwagi na kształt, niewykształceni\\nludzie traktują go jak kosmitę.",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "srcdatapokemon.txt::srcdatapokemon.txt_511": {
-  "source": "This POKéMON has a geometric body.\\nBecause of its body, the locals suspect\\nthat it is an alien creature.",
-  "target": "Ten POKéMON ma geometryczną budowę.\\nZ uwagi na kształt, niewykształceni\\nludzie traktują go jak kosmitę.",
+ "data maps.txt::data maps.txt_337": {
+  "source": "What, are you too busy?\\pWell, all right.\\nThe boat hasn't arrived yet anyway.\\pI'll be waiting at the POKéMON\\nCENTER over there.\\pCome see me when you're done with\\nyour business here.",
+  "target": "Co, jesteś zbyt zajęty?\\pNo dobra.\\nŁódź i tak jeszcze nie przypłynęła.\\pBędę czekał przy tym CENTRUM\\nPOKéMONÓW. Wpadnij do\\pmnie, gdy zrobisz już to,\\nco cię tu zatrzymuje.",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -55440,16 +55440,16 @@
   "ignored": true,
   "manual_skip": true
  },
- "data maps.txt::data maps.txt_2213": {
-  "source": "You can keep any item you find in\\nthe SAFARI ZONE.\\pBut, you'll run out of time if you\\ntry for all of them at once.",
-  "target": "Możesz zachować każdy przedmiot ze\\nSTREFY SAFARI.\\pAle zabraknie ci czasu, by znaleźć\\nje wszystkie na raz.",
+ "data maps.txt::data maps.txt_938": {
+  "source": "BILL: Oh, hey!\\n{PLAYER}!",
+  "target": "BILL: O, hej!\\n{PLAYER}!",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "data maps.txt::data maps.txt_938": {
-  "source": "BILL: Oh, hey!\\n{PLAYER}!",
-  "target": "BILL: O, hej!\\n{PLAYER}!",
+ "data maps.txt::data maps.txt_2213": {
+  "source": "You can keep any item you find in\\nthe SAFARI ZONE.\\pBut, you'll run out of time if you\\ntry for all of them at once.",
+  "target": "Możesz zachować każdy przedmiot ze\\nSTREFY SAFARI.\\pAle zabraknie ci czasu, by znaleźć\\nje wszystkie na raz.",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -79814,7 +79814,7 @@
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792877297.7916572,
+  "updated": 1792877380.8961008,
   "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_67": {
