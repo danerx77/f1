@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261024T210447Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261024T212437Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -8393,10 +8393,6 @@
     <tu>
       <tuv xml:lang="en"><seg>Okay, preparations are complete\nfor me to explore the RUINS.</seg></tuv>
       <tuv xml:lang="pl"><seg>Okej, moje przygotowania do\nzwiedzania RUIN zakończone.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>I need to fish on SEVEN ISLAND.\pThat will complete my fishing tour\nof the SEVII ISLANDS.\pI'd better stock up on some\nPOKé BALLS first, though.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Muszę połowić na WYSPIE SEVEN.\pDzięki temu zaliczę całą\nwycieczkę łowiecką po\pWYSPACH SEVII.\pLepiej jednak najpierw\nkupić trochę POKé BALLI.</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>On this island, different events\noccur depending on connections.\pWhat are those connections?\pThey are for you to discover on\nyour own.</seg></tuv>
@@ -60285,10 +60281,6 @@
     <tu>
       <tuv xml:lang="en"><seg>Today, the POKé DUDE's here to\ntell you about status problems!\pStatus problems include poisoning,\nparalysis, sleep, burn…\pThere are a couple others, but\nthey really are trouble.\pGet any one, and your POKéMON\nmay become useless in battle.\pYou know, it hurts the POKé DUDE\nto see a POKéMON suffer…\pSo, what should you do if your\nPOKéMON gets a status problem?\pWell, you've got me to show you!\pAll righty, here goes!\pKeep your eyes glued to the super\nPOKé DUDE SHOW!</seg></tuv>
       <tuv xml:lang="pl"><seg>Dzisiaj, POKé GOŚĆ zjawia się, by\nopowiedzieć wam o zmianach stanu!\pZmianu stanu to zatrucia,\nparaliż, sen, poparzenia…\pJest też kilka innych, ale te są\nnajczęstszymi z nich.\pWystarczy jeden, by twój\nPOKéMON mógł stać się bezużyteczny\pw walce.\pWiesz, POKé GOŚĆ nie cierpi,\ngdy POKéMONY męczą się…\pWięc, co zrobić, jeżeli twój\nPOKéMON dozna zmiany stanu?\pCóż, od tego jestem ja! Pokażę ci!\pŚwietnie, zaczynamy!\pPrzylep gały do ekranu, by\nnie przegapić POKé GOŚCIA!</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Poisoning or paralysis don't go\naway after a battle.\pIf a POKéMON is poisoned, it loses\nHP even while you're walking.\pYou should heal POKéMON of these\nkinds of problems right away.\pUse an item, or try to get to a\nPOKéMON CENTER for healing.\pThat wasn't hard, was it?\nAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!</seg></tuv>
-      <tuv xml:lang="pl"><seg>Zatrucie czy paraliż, nie znika\npo walce.\pJeżeli POKéMON zostanie zatruty,\nbędzie tracił HP podczas chodzenia.\pPowinieneś uleczyć swoje POKéMONY\nz takich problemów, gdy tylko\pbędzie to możliwe.\pUżyj przedmiotu,\nlub skorzystaj z CENTRUM POKéMON.\pTo było proste, prawda?\nW takim razie, do zobaczenia!\pPamiętajcie, TRENERZY,\nco złego, to nie ja!</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Does everyone know about type\nmatchups?\pPOKéMON and their moves all\nbelong to certain types.\pFor example, there are such types\nas GRASS and WATER.\pYou need to consider the type of\nthe move used to attack…\pAnd, the type of the POKéMON that\nis hit by that attack.\pDepending on how those two types\nmatch up, the damage can change.\pYou see, it depends on whether\nthe type matchup is good or bad.\pIf you don't know how matchups\nwork, battles will be tough.\pSo, let me demonstrate exactly\nwhat I mean.\pAll righty, here goes!\pKeep your eyes glued to the super\nPOKé DUDE SHOW!</seg></tuv>
@@ -293559,14 +293551,6 @@
       <tuv xml:lang="pl"><seg>ELEKTR.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>Oh, I'm sorry, {PLAYER}. Your BAG's\nKEY ITEMS POCKET is full.\pPlease store something on your PC,\nthen come back for this.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Och, przepraszam, {PLAYER}. Kieszeń na\n KLUCZOWE PRZEDMIOTY\pw TWOJEJ TORBIE jest pełna.\nZapisz coś na swoim PC,\pa następnie wróć po to.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Oh, I'm sorry, {PLAYER}. Your BAG's\nKEY ITEMS POCKET is full.\pPlease store something on your PC,\nthen come back for this.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Och, przepraszam {PLAYER}. Kieszeń, na\n KLUCZOWE PRZEDMIOTY w TWOJEJ TORBIE jest.\ppełna Zapisz coś na swoim PC,\na następnie wróć po to.</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>It appears to be for use at the\nVERMILION CITY port.\pWhy not give it a try and see what\nit is about?</seg></tuv>
       <tuv xml:lang="pl"><seg>Wygląda na to, że jest przeznaczone\ndo użytku w porcie MIASTA VERMILION.\pDlaczego by nie spróbować i nie\nzobaczyć, o co w tym chodzi?</seg></tuv>
     </tu>
@@ -293687,10 +293671,6 @@
       <tuv xml:lang="pl"><seg>POKéMON typ: ROBACZY</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>Thank you for using the MYSTERY\nGIFT System.\pRecently, there have been rumors\nof rare POKéMON appearances.\pThe rumors are about ALTERING\nCAVE on OUTCAST ISLAND.\pWhy not visit there and check if\nthe rumors are indeed true?</seg></tuv>
-      <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT\pOstatnio pojawiły się pogłoski\no rzadkich pojawienia się POKéMONÓW.\pPlotki krążą o ZMIENIONEJ\nJASKINI na WYSPIE OUTCAST.\pDlaczego więc nie odwiedzić tego miejsca\ni sprawdzić, czy plotki rzeczywiście są prawdziwe?</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>Thank you for using the MYSTERY\nGIFT System.\pCongratulations!\pYou have won a prize for winning\nthree battles!\pWe hope you will be inspired to\nbattle some more.</seg></tuv>
       <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT\pGratulacje!\pYou have won a prize for winning\nthree battles!\pWe hope you will be inspired to\nbattle some more.</seg></tuv>
     </tu>
@@ -293699,20 +293679,12 @@
       <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nsystemu KARTY PIECZĄTEK.\pMasz jeszcze {STR_VAR_1} do zebrania, aby\nwypełnić swoją KARTĘ Z NAKLEJKAMI.</seg></tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en"><seg>Oh, your party appears to be full.\pPlease come see me after storing\na POKéMON on a PC.</seg></tuv>
-      <tuv xml:lang="pl"><seg>Och, wygląda na to, że twoja drużyna jest pełna.\pProszę, przyjdź do mnie\npo umieszczeniu POKéMONA w PC.</seg></tuv>
-    </tu>
-    <tu>
       <tuv xml:lang="en"><seg>Thank you for using the MYSTERY\nGIFT System.\pBy holding this WONDER CARD, you\nmay take part in a survey at a\lPOKéMON MART.\pUse these surveys to invite\nTRAINERS to the SEVII ISLANDS.\p…Let me give you a secret\npassword for a survey:\p“GIVE ME\nAWESOME TRAINER”\pWrite that in on a survey and send\nit to the WIRELESS\lCOMMUNICATION SYSTEM.</seg></tuv>
       <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pTrzymając tę KARTĘ CUDU,\nmożesz wziąć udział w\lankiecie w POKéMON MARKT.\pUżyj tych ankiet, aby\nzaprosić TRENERÓW na WYSPY SEVII.\p…Pozwól, że dam ci\ntajne hasło do ankiety:\p“GIVE ME\nAWESOME TRAINER”\pNapisz to w\nankiecie i wyślij do\lSYSTEMU KOMUNIKACJI BEZPRZEWODOWEJ.</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Thank you for using the MYSTERY\nGIFT System.\pA TRAINER has arrived in the SEVII\nISLANDS looking for you.\pWe hope you will enjoy\nbattling the visiting TRAINER.\pYou may invite other TRAINERS by\nentering other passwords.\pTry looking for other passwords\nthat may work.</seg></tuv>
       <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pTRENER przybył na WYSPY\nSEVII szukając ciebie.\pMamy nadzieję, że spodoba ci\nsię walka z odwiedzającym TRENEREM.\pMożesz zaprosić innych TRENERÓW,\nwprowadzając inne hasła.\pSpróbuj poszukać innych haseł,\nktóre mogą działać.</seg></tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en"><seg>Thank you for using the MYSTERY\nGIFT System.\pYour BATTLE COUNT CARD keeps\ntrack of your battle record against\lTRAINERS with the same CARD.\pLook for and battle TRAINERS who\nhave the same CARD as you.\pYou may check the overall rankings\nby reading the NEWS.\pPlease do give it a try!</seg></tuv>
-      <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pTwoja KARTA LICZNIKA WALK śledzi\nTwój rekord walk z\lTRENERAMI posiadającymi tę samą KARTĘ.\pSzukaj i walcz z TRENERAMI, którzy\nmają taką samą KARTĘ jak ty.\pMożesz sprawdzić ogólne\nrankingi, czytając AKTUALNOŚCI.\pProszę, spróbuj tego!</seg></tuv>
     </tu>
     <tu>
       <tuv xml:lang="en"><seg>Hi, welcome!\nYou can play games over the\lWireless Communication System.\pCan you wait just a little bit?</seg></tuv>
@@ -295181,6 +295153,86 @@
     <tu>
       <tuv xml:lang="en"><seg>Oh… {PLAYER}!\nI've been looking for you!\pIt's me, one of the ever-present\nAIDES to PROF. OAK.\pIf your POKéDEX has complete data\non twenty species, I'm supposed to\lgive you a reward from PROF. OAK.\pHe entrusted me with this\nEVERSTONE.\pSo, {PLAYER}, let me ask you.\pHave you gathered data on at least\ntwenty kinds of POKéMON?</seg></tuv>
       <tuv xml:lang="pl"><seg>Och… {PLAYER}!\nSzukałem cię!\pTo ja, jestem jednym z POMOCNIKÓW\nPROFESOR OAKA.\pJeżeli twój POKéDEX\n ma zapisane dane przynajmniej\pdwudziestu gatunków, mam dać ci\lnagrodę od PROFESORA OAKA.\pPowierzył mi ten oto\nWIECZNY KAMIEŃ.\pWięc, {PLAYER}, pozwól, że zapytam.\pCzy zebrałeś dane przynajmniej\ndwudziestu gatunków POKéMONÓW?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are items on the ground that\nmay be hidden from view.\pUse the ITEMFINDER to detect any\nhidden items close to you.\pThe machine is a bit limited.\nIt can't pinpoint item locations.\pWhat it does is show the direction\nwhere the item is.\pUse it to get your bearings, then\nsearch the suspect area by hand.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Na ziemi leżą przedmioty, które\nniewidoczne są gołym okiem.\pUżywając RZECZOSZUKACZA\nwykryjesz ukryty przedmiot.\pNiestety są pewne ograniczenia.\nNie wykrywa miejsca\pukrycia przedmiotu.\pMoże pokazać najwyżej kierunek,\nw którym powinieneś szukać.\pPotwierdź nim przypuszczenia\ni przeszukaj teren ręcznie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>… … …Whoa!\n{STR_VAR_2} inches!\pYou have a rare appreciation for\nthe fine, poetic aspects of fishing!\pYou must take this.\nI insist!</seg></tuv>
+      <tuv xml:lang="pl"><seg>… … …Łoł!\n{STR_VAR_2} cali!\pWidać, że masz żyłkę do tej\nniesamowitej sztuki\pzwanej wędkowaniem.\pMusisz to wziąć.\nNalegam!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EXP. SHARE is an item to be held\nby a POKéMON.\pThe POKéMON will receive a share\nof the EXP. Points without having\lto battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>ROZDZIELACZ to przedmiot do\ntrzymania przez POKéMONA.\pPOKéMON otrzymywał będzie\nudział w doświadczeniu\lnie musząc walczyć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>We'll always be hanging around here\neven if you don't like it.\pYou can detour to VERMILION from\nFUCHSIA going along the coast.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Będziemy tu siedzieć, nawet jeśli\ntobie to nie odpowiada.\pMożesz obrać inną drogę do VERMILION\nz FUCHSIA ruszając po wybrzeżu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Not many people come out here.\pIf I train here, I'm convinced that\nI'll get stronger and stronger.\pYep, stronger and stronger…\pHow would you like to learn a move\nlike that? It's SWORDS DANCE.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Niewiele ludzi tu przychodzi.\pJeśli będę tu trenować,\njestem pewien,\pże stanę się super silny.\pTak, coraz silniejszy…\pChciałbyś się nauczyć ataku tego\ntypu? Nazywa się TANIEC MIECZY.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I need to fish on SEVEN ISLAND.\pThat will complete my fishing tour\nof the SEVII ISLANDS.\pI'd better stock up on some\nPOKé BALLS first, though.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Muszę połowić na WYSPIE SEVEN.\pDzięki temu zaliczę całą\nwycieczkę łowiecką po\pWYSPACH SEVII.\pLepiej jednak najpierw\nkupić trochę POKé BALLI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, your party appears to be full.\pPlease come see me after storing\na POKéMON on a PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, wygląda na to,\nże twoja drużyna jest pełna.\pProszę, przyjdź do mnie\npo umieszczeniu POKéMONA w PC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thank you for using the MYSTERY\nGIFT System.\pYour BATTLE COUNT CARD keeps\ntrack of your battle record against\lTRAINERS with the same CARD.\pLook for and battle TRAINERS who\nhave the same CARD as you.\pYou may check the overall rankings\nby reading the NEWS.\pPlease do give it a try!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pTwoja KARTA LICZNIKA WALK śledzi\nTwój rekord walk z\pTRENERAMI posiadającymi tę \lsamą KARTĘ.\pSzukaj i walcz z TRENERAMI, którzy\nmają taką samą KARTĘ jak ty.\pMożesz sprawdzić ogólne\nrankingi, czytając AKTUALNOŚCI.\pProszę, spróbuj tego!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, I'm sorry, {PLAYER}. Your BAG's\nKEY ITEMS POCKET is full.\pPlease store something on your PC,\nthen come back for this.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, przepraszam {PLAYER}. Kieszeń, na\n KLUCZOWE PRZEDMIOTY w TWOJEJ TORBIE \pjest pełna. Zapisz coś na swoim PC,\na następnie wróć po to.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, I'm sorry, {PLAYER}. Your BAG's\nKEY ITEMS POCKET is full.\pPlease store something on your PC,\nthen come back for this.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, przepraszam {PLAYER}. Kieszeń, na\n KLUCZOWE PRZEDMIOTY w TWOJEJ TORBIE\pjest pełna. Zapisz coś na swoim PC,\na następnie wróć po to.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thank you for using the MYSTERY\nGIFT System.\pRecently, there have been rumors\nof rare POKéMON appearances.\pThe rumors are about ALTERING\nCAVE on OUTCAST ISLAND.\pWhy not visit there and check if\nthe rumors are indeed true?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT\pOstatnio pojawiły się pogłoski\no rzadkich pojawienia się POKéMONÓW.\pPlotki krążą o ZMIENIONEJ\nJASKINI na WYSPIE OUTCAST.\pDlaczego więc nie odwiedzić tego\nmiejsca i sprawdzić, czy plotki\przeczywiście są prawdziwe?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hmhm…\pYour profile really says something\nabout who you are.\pNow that I know you better, it \nmakes us better friends than ever!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hmhm…\pTwój profil naprawdę mówi coś na\ntemat ciebie.\pTeraz, skoro znam cię już lepiej,\njesteśmy na dobrej\pdrodze do przyjaźni!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Removed the item {STR_VAR_1} from\nthe BAG's ITEMS POCKET and stored it\non the PC.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Usunął przedmiot {STR_VAR_1} z\nkieszeni PRZEDMIOTÓW w TORBIE i \numieścił w PC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Took on {DYNAMIC 0x00} in a DOUBLE BATTLE.\nIt was an extended match that resulted\nin a {DYNAMIC 0x01}.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zaatakował {DYNAMIC 0x00} w PODWÓJNEN WALCE.\nBył to poszerzony\npojedynek zakończony\n{DYNAMIC 0x01}.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Well, did you get that?\pEven if your own POKéMON's HP\nfalls to zero, and it becomes\lunable to battle, not to worry!\pJust take it to any POKéMON\nCENTER and heal it!\pAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dobra, kapujecie?\pNawet jeśli HP twojego POKéMONA\nspadnie do zera i nie będzie\lmógł już walczyć, nie roń łez!\pZanieś go do CENTRUM POKéMON,\ngdzie szybko go uleczą!\pTo już wszystko, do\pzobaczenia!\pPamiętajcie, TRENERZY,\nco złego, to nie ja!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Today, the POKé DUDE's here to\ntell you about status problems!\pStatus problems include poisoning,\nparalysis, sleep, burn…\pThere are a couple others, but\nthey really are trouble.\pGet any one, and your POKéMON\nmay become useless in battle.\pYou know, it hurts the POKé DUDE\nto see a POKéMON suffer…\pSo, what should you do if your\nPOKéMON gets a status problem?\pWell, you've got me to show you!\pAll righty, here goes!\pKeep your eyes glued to the super\nPOKé DUDE SHOW!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dzisiaj, POKé GOŚĆ zjawia się, by\nopowiedzieć wam o zmianach stanu!\pZmianu stanu to zatrucia,\nparaliż, sen, poparzenia…\pJest też kilka innych, ale te są\nnajczęstszymi z nich.\pWystarczy jeden, by twój\nPOKéMON mógł stać się bezużyteczny\pw walce.\nWiesz, POKé GOŚĆ nie cierpi,\pgdy POKéMONY męczą się…\nWięc, co zrobić, jeżeli twój\pPOKéMON dozna zmiany stanu?\pCóż, od tego jestem ja! Pokażę ci!\pŚwietnie, zaczynamy!\pPrzylep gały do ekranu, by\nnie przegapić POKé GOŚCIA!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Poisoning or paralysis don't go\naway after a battle.\pIf a POKéMON is poisoned, it loses\nHP even while you're walking.\pYou should heal POKéMON of these\nkinds of problems right away.\pUse an item, or try to get to a\nPOKéMON CENTER for healing.\pThat wasn't hard, was it?\nAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zatrucie czy paraliż, nie znika\npo walce.\pJeżeli POKéMON zostanie zatruty,\nbędzie tracił HP podczas chodzenia.\pPowinieneś uleczyć swoje POKéMONY\nz takich problemów, gdy tylko\pbędzie to możliwe.\pUżyj przedmiotu,\nlub skorzystaj z CENTRUM POKéMON.\pTo było proste, prawda?\nW takim razie, do zobaczenia!\pPamiętajcie, TRENERZY,\nco złego, to nie ja!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Does everyone know about type\nmatchups?\pPOKéMON and their moves all\nbelong to certain types.\pFor example, there are such types\nas GRASS and WATER.\pYou need to consider the type of\nthe move used to attack…\pAnd, the type of the POKéMON that\nis hit by that attack.\pDepending on how those two types\nmatch up, the damage can change.\pYou see, it depends on whether\nthe type matchup is good or bad.\pIf you don't know how matchups\nwork, battles will be tough.\pSo, let me demonstrate exactly\nwhat I mean.\pAll righty, here goes!\pKeep your eyes glued to the super\nPOKé DUDE SHOW!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy wszyscy wiedzą o różnicach\ntypów?\pPOKéMONY i ich ataki przynależne\nsą do różnych typów.\pNa przykład, istnieją typy takie\njak TRAWA i WODA.\pMusisz zastanowić się nad ruchami\nużywanymi w trakcie walki…\pOraz, jaki POKéMON trafiony ma\nbyć wybranym atakiem.\pZależnie od tego, jaki typ ataku\ndziała, na jakiego POKéMONA,\pzależą obrażenia.\nWszystko zależy czy\pkombinacja jest dobra, czy zła.\nJeżeli nie znasz tych zależności,\pwalki mogą być trudne.\nPozwól, że zademonstruje ci \pdokładnie, o co mi chodzi.\pOk, ruszamy!\pPrzylepcie gały do ekranu, by\nnie przegapić POKé GOŚCIA!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If your first POKé BALL fails to\ncatch the POKéMON, don't give up!\pKeep throwing POKé BALLS…\nIt's bound to work sometime!\pAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jeśli nie uda ci się złapać go\npierwszym POKé BALLEM\pnie poddawaj się!\nPróbuj aż do skutku…\pCzasami to mocno pomaga!\pNo to świetnie, do zobaczenia!\pI pamiętajcie TRENERZY,\nco złego, to nie ja!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hey, everyone!\nDo you all have TMs?\pA TM, Technical Machine, is an\namazingly great item!\pIt teaches POKéMON a move that\nit may not learn when leveling up!\pIsn't that just great? What a\nconvenient world we live in!\pOpen the TM CASE and check out\nthe TMs you have.\pYou can check them out in detail,\ntoo.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witam wszystkich!\nCzy macie wszyscy TM?\pTM, Techniczna Maszyna, to\nzadziwiająco wspaniała rzecz!\pUczy POKéMONY ruchów,\nktórych nie poznają poziomując!\pCzy to niewspaniałe? Cóż to za\nrozmyślny świat, w którym\pżyjemy!\pOtwórz ETUI TM i sprawdź\njakie masz TMy.\pMożecie też zobaczyć tam ich\ndokładny opis.</seg></tuv>
     </tu>
   </body>
 </tmx>

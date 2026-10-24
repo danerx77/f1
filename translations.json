@@ -510,12 +510,12 @@
  },
  "data.txt::data.txt_49": {
   "source": "Oh, your party appears to be full.\\pPlease come see me after storing\\na POKéMON on a PC.",
-  "target": "Och, wygląda na to, że twoja drużyna jest pełna.\\pProszę, przyjdź do mnie\\npo umieszczeniu POKéMONA w PC.",
+  "target": "Och, wygląda na to,\\nże twoja drużyna jest pełna.\\pProszę, przyjdź do mnie\\npo umieszczeniu POKéMONA w PC.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792319781.0109844,
+  "updated": 1792876383.6808522,
   "touched": true
  },
  "data maps.txt::data maps.txt_1486": {
@@ -871,12 +871,12 @@
  },
  "srcdatatext.txt::srcdatatext.txt_1095": {
   "source": "If your first POKé BALL fails to\\ncatch the POKéMON, don't give up!\\pKeep throwing POKé BALLS…\\nIt's bound to work sometime!\\pAll righty, be seeing you!\\pRemember, TRAINERS, a good deed\\na day brings happiness to stay!",
-  "target": "Jeśli nie uda ci się złapać go\\npierwszym POKé BALLEM\\pnie poddawaj się!\\nPróbuj aż do skutku…\\pCzasami to mocno pomaga!\\pNo to świetnie, do zobaczenia!\\nI pamiętajcie TRENERZY, co złego, to nie ja!",
+  "target": "Jeśli nie uda ci się złapać go\\npierwszym POKé BALLEM\\pnie poddawaj się!\\nPróbuj aż do skutku…\\pCzasami to mocno pomaga!\\pNo to świetnie, do zobaczenia!\\pI pamiętajcie TRENERZY,\\nco złego, to nie ja!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791734679.1062965,
+  "updated": 1792877020.3003616,
   "touched": true
  },
  "src.txt::src.txt_583": {
@@ -2690,12 +2690,12 @@
  },
  "data maps.txt::data maps.txt_1494": {
   "source": "There are items on the ground that\\nmay be hidden from view.\\pUse the ITEMFINDER to detect any\\nhidden items close to you.\\pThe machine is a bit limited.\\nIt can't pinpoint item locations.\\pWhat it does is show the direction\\nwhere the item is.\\pUse it to get your bearings, then\\nsearch the suspect area by hand.",
-  "target": "Na ziemi leżą przedmioty, które\\nniewidoczne są gołym okiem.\\pUżywając RZECZOSZUKACZA\\nwykryjesz ukryty przedmiot.\\pNiestety są pewne ograniczenia.\\nNie wykrywa miejsca ukrycia przedmiotu.\\pMoże pokazać najwyżej kierunek,\\nw którym powinieneś szukać.\\pPotwierdź nim przypuszczenia\\ni przeszukaj teren ręcznie.",
+  "target": "Na ziemi leżą przedmioty, które\\nniewidoczne są gołym okiem.\\pUżywając RZECZOSZUKACZA\\nwykryjesz ukryty przedmiot.\\pNiestety są pewne ograniczenia.\\nNie wykrywa miejsca\\pukrycia przedmiotu.\\pMoże pokazać najwyżej kierunek,\\nw którym powinieneś szukać.\\pPotwierdź nim przypuszczenia\\ni przeszukaj teren ręcznie.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792875887.8089623,
+  "updated": 1792876055.769377,
   "touched": true
  },
  "datatext.txt::datatext.txt_785": {
@@ -11426,10 +11426,13 @@
  },
  "srcdatatext.txt::srcdatatext.txt_554": {
   "source": "Removed the item {STR_VAR_1} from\\nthe BAG's ITEMS POCKET and stored it\\non the PC.",
-  "target": "Usunął przedmiot {STR_VAR_1} z\\nkieszeni PRZEDMIOTÓW w TORBIE i umieścił\\nw PC.",
+  "target": "Usunął przedmiot {STR_VAR_1} z\\nkieszeni PRZEDMIOTÓW w TORBIE i \\numieścił w PC.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792876695.887634,
+  "touched": true
  },
  "srcdatatext.txt::srcdatatext.txt_703": {
   "source": "CLEFABLE",
@@ -12956,13 +12959,13 @@
  },
  "data.txt::data.txt_61": {
   "source": "Oh, I'm sorry, {PLAYER}. Your BAG's\\nKEY ITEMS POCKET is full.\\pPlease store something on your PC,\\nthen come back for this.",
-  "target": "Och, przepraszam {PLAYER}. Kieszeń, na\\n KLUCZOWE PRZEDMIOTY w TWOJEJ TORBIE jest.\\ppełna Zapisz coś na swoim PC,\\na następnie wróć po to.",
+  "target": "Och, przepraszam {PLAYER}. Kieszeń, na\\n KLUCZOWE PRZEDMIOTY w TWOJEJ TORBIE\\pjest pełna. Zapisz coś na swoim PC,\\na następnie wróć po to.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791741182.8415082,
+  "updated": 1792876528.07024,
   "touched": true
  },
  "src.txt::src.txt_2778": {
@@ -29347,12 +29350,12 @@
  },
  "srcdatatext.txt::srcdatatext.txt_1096": {
   "source": "Hey, everyone!\\nDo you all have TMs?\\pA TM, Technical Machine, is an\\namazingly great item!\\pIt teaches POKéMON a move that\\nit may not learn when leveling up!\\pIsn't that just great? What a\\nconvenient world we live in!\\pOpen the TM CASE and check out\\nthe TMs you have.\\pYou can check them out in detail,\\ntoo.",
-  "target": "Witam wszystkich!\\nCzy macie wszyscy TM?\\pTM, Techniczna Maszyna, to\\nzadziwiająco wspaniała rzecz!\\pUczy POKéMONY ruchów,\\nktórych nie poznają poziomując!\\pCzy to niewspaniałe? Cóż to za\\nrozmyślny świat, w którym\\pżyjemy!\\nOtwórz ETUI TM i sprawdź\\pjakie masz TMy.\\nMożecie też zobaczyć tam ich dokładny opis.",
+  "target": "Witam wszystkich!\\nCzy macie wszyscy TM?\\pTM, Techniczna Maszyna, to\\nzadziwiająco wspaniała rzecz!\\pUczy POKéMONY ruchów,\\nktórych nie poznają poziomując!\\pCzy to niewspaniałe? Cóż to za\\nrozmyślny świat, w którym\\pżyjemy!\\pOtwórz ETUI TM i sprawdź\\njakie masz TMy.\\pMożecie też zobaczyć tam ich\\ndokładny opis.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791734674.1247716,
+  "updated": 1792877080.621015,
   "touched": true
  },
  "data maps.txt::data maps.txt_3115": {
@@ -34110,10 +34113,13 @@
  },
  "srcdatatext.txt::srcdatatext.txt_558": {
   "source": "Took on {DYNAMIC 0x00} in a DOUBLE BATTLE.\\nIt was an extended match that resulted\\nin a {DYNAMIC 0x01}.",
-  "target": "Zaatakował {DYNAMIC 0x00} w PODWÓJNEN WALCE.\\nBył to poszerzony pojedynek zakończony\\n{DYNAMIC 0x01}.",
+  "target": "Zaatakował {DYNAMIC 0x00} w PODWÓJNEN WALCE.\\nBył to poszerzony\\npojedynek zakończony\\n{DYNAMIC 0x01}.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792876741.796405,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1506": {
   "source": "MIRIAM",
@@ -35501,12 +35507,12 @@
  },
  "srcdatatext.txt::srcdatatext.txt_1091": {
   "source": "Poisoning or paralysis don't go\\naway after a battle.\\pIf a POKéMON is poisoned, it loses\\nHP even while you're walking.\\pYou should heal POKéMON of these\\nkinds of problems right away.\\pUse an item, or try to get to a\\nPOKéMON CENTER for healing.\\pThat wasn't hard, was it?\\nAll righty, be seeing you!\\pRemember, TRAINERS, a good deed\\na day brings happiness to stay!",
-  "target": "Zatrucie czy paraliż, nie znika\\npo walce.\\pJeżeli POKéMON zostanie zatruty,\\nbędzie tracił HP podczas chodzenia.\\pPowinieneś uleczyć swoje POKéMONY\\nz takich problemów, gdy tylko\\pbędzie to możliwe.\\nUżyj przedmiotu,\\plub skorzystaj z CENTRUM POKéMON.\\nTo było proste, prawda?\\pW takim razie, do zobaczenia!\\nPamiętajcie, TRENERZY, co złego, to nie ja!",
+  "target": "Zatrucie czy paraliż, nie znika\\npo walce.\\pJeżeli POKéMON zostanie zatruty,\\nbędzie tracił HP podczas chodzenia.\\pPowinieneś uleczyć swoje POKéMONY\\nz takich problemów, gdy tylko\\pbędzie to możliwe.\\pUżyj przedmiotu,\\nlub skorzystaj z CENTRUM POKéMON.\\pTo było proste, prawda?\\nW takim razie, do zobaczenia!\\pPamiętajcie, TRENERZY,\\nco złego, to nie ja!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791734697.1602366,
+  "updated": 1792876921.0304039,
   "touched": true
  },
  "src.txt::src.txt_1026": {
@@ -36612,16 +36618,19 @@
   "ignored": true,
   "manual_skip": true
  },
+ "data maps.txt::data maps.txt_2425": {
+  "source": "I need to fish on SEVEN ISLAND.\\pThat will complete my fishing tour\\nof the SEVII ISLANDS.\\pI'd better stock up on some\\nPOKé BALLS first, though.",
+  "target": "Muszę połowić na WYSPIE SEVEN.\\pDzięki temu zaliczę całą\\nwycieczkę łowiecką po\\pWYSPACH SEVII.\\pLepiej jednak najpierw\\nkupić trochę POKé BALLI.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792876299.1078439,
+  "touched": true
+ },
  "data maps.txt::data maps.txt_3123": {
   "source": "Oh, I see, this is from BILL!\\nYou have to thank him for me!\\pYou know, you've been fantastic.\\nI want you to have this.",
   "target": "Och, rozumiem, to od BILLA!\\nMusisz mu ode mnie podziękować!\\pWiesz, byłeś fantastyczny.\\nChcę, żebyś to ode mnie wziął.",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_2425": {
-  "source": "I need to fish on SEVEN ISLAND.\\pThat will complete my fishing tour\\nof the SEVII ISLANDS.\\pI'd better stock up on some\\nPOKé BALLS first, though.",
-  "target": "Muszę połowić na WYSPIE SEVEN.\\pDzięki temu zaliczę całą\\nwycieczkę łowiecką po\\pWYSPACH SEVII.\\nLepiej jednak najpierw kupić trochę POKé BALLI.",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -45668,16 +45677,19 @@
   "notes": "",
   "ignored": false
  },
+ "data maps.txt::data maps.txt_2400": {
+  "source": "Not many people come out here.\\pIf I train here, I'm convinced that\\nI'll get stronger and stronger.\\pYep, stronger and stronger…\\pHow would you like to learn a move\\nlike that? It's SWORDS DANCE.",
+  "target": "Niewiele ludzi tu przychodzi.\\pJeśli będę tu trenować,\\njestem pewien,\\pże stanę się super silny.\\pTak, coraz silniejszy…\\pChciałbyś się nauczyć ataku tego\\ntypu? Nazywa się TANIEC MIECZY.",
+  "status": "draft",
+  "notes": "",
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792876235.3145542,
+  "touched": true
+ },
  "src.txt::src.txt_1461": {
   "source": "SINGLE BATTLE",
   "target": "JEDNOOSOBOWA WALKA",
-  "status": "draft",
-  "notes": "",
-  "ignored": false
- },
- "data maps.txt::data maps.txt_2400": {
-  "source": "Not many people come out here.\\pIf I train here, I'm convinced that\\nI'll get stronger and stronger.\\pYep, stronger and stronger…\\pHow would you like to learn a move\\nlike that? It's SWORDS DANCE.",
-  "target": "Niewiele ludzi tu przychodzi.\\pJeśli będę tu trenować, jestem pewien,\\nże stanę się super silny.\\pTak, coraz silniejszy…\\pChciałbyś się nauczyć ataku tego\\ntypu? Nazywa się TANIEC MIECZY.",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -55396,16 +55408,16 @@
   "translator": "Antrix",
   "updated": 1790363245.2739916
  },
- "data maps.txt::data maps.txt_337": {
-  "source": "What, are you too busy?\\pWell, all right.\\nThe boat hasn't arrived yet anyway.\\pI'll be waiting at the POKéMON\\nCENTER over there.\\pCome see me when you're done with\\nyour business here.",
-  "target": "Co, jesteś zbyt zajęty?\\pNo dobra.\\nŁódź i tak jeszcze nie przypłynęła.\\pBędę czekał przy tym CENTRUM\\nPOKéMONÓW. Wpadnij do\\pmnie, gdy zrobisz już to,\\nco cię tu zatrzymuje.",
+ "srcdatapokemon.txt::srcdatapokemon.txt_511": {
+  "source": "This POKéMON has a geometric body.\\nBecause of its body, the locals suspect\\nthat it is an alien creature.",
+  "target": "Ten POKéMON ma geometryczną budowę.\\nZ uwagi na kształt, niewykształceni\\nludzie traktują go jak kosmitę.",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "srcdatapokemon.txt::srcdatapokemon.txt_511": {
-  "source": "This POKéMON has a geometric body.\\nBecause of its body, the locals suspect\\nthat it is an alien creature.",
-  "target": "Ten POKéMON ma geometryczną budowę.\\nZ uwagi na kształt, niewykształceni\\nludzie traktują go jak kosmitę.",
+ "data maps.txt::data maps.txt_337": {
+  "source": "What, are you too busy?\\pWell, all right.\\nThe boat hasn't arrived yet anyway.\\pI'll be waiting at the POKéMON\\nCENTER over there.\\pCome see me when you're done with\\nyour business here.",
+  "target": "Co, jesteś zbyt zajęty?\\pNo dobra.\\nŁódź i tak jeszcze nie przypłynęła.\\pBędę czekał przy tym CENTRUM\\nPOKéMONÓW. Wpadnij do\\pmnie, gdy zrobisz już to,\\nco cię tu zatrzymuje.",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -55428,16 +55440,16 @@
   "ignored": true,
   "manual_skip": true
  },
- "data maps.txt::data maps.txt_2213": {
-  "source": "You can keep any item you find in\\nthe SAFARI ZONE.\\pBut, you'll run out of time if you\\ntry for all of them at once.",
-  "target": "Możesz zachować każdy przedmiot ze\\nSTREFY SAFARI.\\pAle zabraknie ci czasu, by znaleźć\\nje wszystkie na raz.",
+ "data maps.txt::data maps.txt_938": {
+  "source": "BILL: Oh, hey!\\n{PLAYER}!",
+  "target": "BILL: O, hej!\\n{PLAYER}!",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "data maps.txt::data maps.txt_938": {
-  "source": "BILL: Oh, hey!\\n{PLAYER}!",
-  "target": "BILL: O, hej!\\n{PLAYER}!",
+ "data maps.txt::data maps.txt_2213": {
+  "source": "You can keep any item you find in\\nthe SAFARI ZONE.\\pBut, you'll run out of time if you\\ntry for all of them at once.",
+  "target": "Możesz zachować każdy przedmiot ze\\nSTREFY SAFARI.\\pAle zabraknie ci czasu, by znaleźć\\nje wszystkie na raz.",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -58501,12 +58513,12 @@
  },
  "data.txt::data.txt_52": {
   "source": "Thank you for using the MYSTERY\\nGIFT System.\\pYour BATTLE COUNT CARD keeps\\ntrack of your battle record against\\lTRAINERS with the same CARD.\\pLook for and battle TRAINERS who\\nhave the same CARD as you.\\pYou may check the overall rankings\\nby reading the NEWS.\\pPlease do give it a try!",
-  "target": "Dziękujemy za korzystanie z\\nsystemu MYSTERY GIFT.\\pTwoja KARTA LICZNIKA WALK śledzi\\nTwój rekord walk z\\lTRENERAMI posiadającymi tę samą KARTĘ.\\pSzukaj i walcz z TRENERAMI, którzy\\nmają taką samą KARTĘ jak ty.\\pMożesz sprawdzić ogólne\\nrankingi, czytając AKTUALNOŚCI.\\pProszę, spróbuj tego!",
+  "target": "Dziękujemy za korzystanie z\\nsystemu MYSTERY GIFT.\\pTwoja KARTA LICZNIKA WALK śledzi\\nTwój rekord walk z\\pTRENERAMI posiadającymi tę \\lsamą KARTĘ.\\pSzukaj i walcz z TRENERAMI, którzy\\nmają taką samą KARTĘ jak ty.\\pMożesz sprawdzić ogólne\\nrankingi, czytając AKTUALNOŚCI.\\pProszę, spróbuj tego!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792319957.3413773,
+  "updated": 1792876451.3094897,
   "touched": true
  },
  "datatext.txt::datatext.txt_893": {
@@ -65829,10 +65841,13 @@
  },
  "data maps.txt::data maps.txt_1543": {
   "source": "… … …Whoa!\\n{STR_VAR_2} inches!\\pYou have a rare appreciation for\\nthe fine, poetic aspects of fishing!\\pYou must take this.\\nI insist!",
-  "target": "… … …Łoł!\\n{STR_VAR_2} cali!\\pWidać, że masz żyłkę do tej\\nniesamowitej sztuki zwanej wędkowaniem.\\pMusisz to wziąć.\\nNalegam!",
+  "target": "… … …Łoł!\\n{STR_VAR_2} cali!\\pWidać, że masz żyłkę do tej\\nniesamowitej sztuki\\pzwanej wędkowaniem.\\pMusisz to wziąć.\\nNalegam!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792876099.2801204,
+  "touched": true
  },
  "src.txt::src.txt_1739": {
   "source": "What you say if you lose a battle",
@@ -66563,12 +66578,12 @@
  },
  "srcdatatext.txt::srcdatatext.txt_1092": {
   "source": "Does everyone know about type\\nmatchups?\\pPOKéMON and their moves all\\nbelong to certain types.\\pFor example, there are such types\\nas GRASS and WATER.\\pYou need to consider the type of\\nthe move used to attack…\\pAnd, the type of the POKéMON that\\nis hit by that attack.\\pDepending on how those two types\\nmatch up, the damage can change.\\pYou see, it depends on whether\\nthe type matchup is good or bad.\\pIf you don't know how matchups\\nwork, battles will be tough.\\pSo, let me demonstrate exactly\\nwhat I mean.\\pAll righty, here goes!\\pKeep your eyes glued to the super\\nPOKé DUDE SHOW!",
-  "target": "Czy wszyscy wiedzą o różnicach\\ntypów?\\pPOKéMONY i ich ataki przynależne\\nsą do różnych typów.\\pNa przykład, istnieją typy takie\\njak TRAWA i WODA.\\pMusisz zastanowić się nad ruchami\\nużywanymi w trakcie walki…\\pOraz, jaki POKéMON trafiony ma\\nbyć wybranym atakiem.\\pZależnie od tego, jaki typ ataku\\ndziała, na jakiego POKéMONA,\\pzależą obrażenia.\\nWszystko zależy czy\\pkombinacja jest dobra, czy zła.\\nJeżeli nie znasz tych zależności,\\pwalki mogą być trudne.\\nPozwól, że zademonstruje ci \\pdokładnie, o co mi chodzi.\\pOk, ruszamy!\\nPrzylepcie gały do ekranu, by nie przegapić POKé GOŚCIA!",
+  "target": "Czy wszyscy wiedzą o różnicach\\ntypów?\\pPOKéMONY i ich ataki przynależne\\nsą do różnych typów.\\pNa przykład, istnieją typy takie\\njak TRAWA i WODA.\\pMusisz zastanowić się nad ruchami\\nużywanymi w trakcie walki…\\pOraz, jaki POKéMON trafiony ma\\nbyć wybranym atakiem.\\pZależnie od tego, jaki typ ataku\\ndziała, na jakiego POKéMONA,\\pzależą obrażenia.\\nWszystko zależy czy\\pkombinacja jest dobra, czy zła.\\nJeżeli nie znasz tych zależności,\\pwalki mogą być trudne.\\nPozwól, że zademonstruje ci \\pdokładnie, o co mi chodzi.\\pOk, ruszamy!\\pPrzylepcie gały do ekranu, by\\nnie przegapić POKé GOŚCIA!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791734694.2529418,
+  "updated": 1792876966.8861394,
   "touched": true
  },
  "srcdataregionmap.txt::srcdataregionmap.txt_181": {
@@ -69587,13 +69602,13 @@
  },
  "data.txt::data.txt_57": {
   "source": "Oh, I'm sorry, {PLAYER}. Your BAG's\\nKEY ITEMS POCKET is full.\\pPlease store something on your PC,\\nthen come back for this.",
-  "target": "Och, przepraszam {PLAYER}. Kieszeń, na\\n KLUCZOWE PRZEDMIOTY w TWOJEJ TORBIE jest.\\ppełna Zapisz coś na swoim PC,\\na następnie wróć po to.",
+  "target": "Och, przepraszam {PLAYER}. Kieszeń, na\\n KLUCZOWE PRZEDMIOTY w TWOJEJ TORBIE \\pjest pełna. Zapisz coś na swoim PC,\\na następnie wróć po to.",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "auto_inserted": true,
   "translator": "Antrix",
-  "updated": 1791741182.8415082,
+  "updated": 1792876495.2040124,
   "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_327": {
@@ -72253,12 +72268,12 @@
  },
  "srcdatatext.txt::srcdatatext.txt_1090": {
   "source": "Today, the POKé DUDE's here to\\ntell you about status problems!\\pStatus problems include poisoning,\\nparalysis, sleep, burn…\\pThere are a couple others, but\\nthey really are trouble.\\pGet any one, and your POKéMON\\nmay become useless in battle.\\pYou know, it hurts the POKé DUDE\\nto see a POKéMON suffer…\\pSo, what should you do if your\\nPOKéMON gets a status problem?\\pWell, you've got me to show you!\\pAll righty, here goes!\\pKeep your eyes glued to the super\\nPOKé DUDE SHOW!",
-  "target": "Dzisiaj, POKé GOŚĆ zjawia się, by\\nopowiedzieć wam o zmianach stanu!\\pZmianu stanu to zatrucia,\\nparaliż, sen, poparzenia…\\pJest też kilka innych, ale te są\\nnajczęstszymi z nich.\\pWystarczy jeden, by twój\\nPOKéMON mógł stać się bezużyteczny\\pw walce.\\nWiesz, POKé GOŚĆ nie cierpi,\\pgdy POKéMONY męczą się…\\nWięc, co zrobić, jeżeli twój\\pPOKéMON dozna zmiany stanu?\\pCóż, od tego jestem ja! Pokażę ci!\\pŚwietnie, zaczynamy!\\nPrzylep gały do ekranu, by nie przegapić POKé GOŚCIA!",
+  "target": "Dzisiaj, POKé GOŚĆ zjawia się, by\\nopowiedzieć wam o zmianach stanu!\\pZmianu stanu to zatrucia,\\nparaliż, sen, poparzenia…\\pJest też kilka innych, ale te są\\nnajczęstszymi z nich.\\pWystarczy jeden, by twój\\nPOKéMON mógł stać się bezużyteczny\\pw walce.\\nWiesz, POKé GOŚĆ nie cierpi,\\pgdy POKéMONY męczą się…\\nWięc, co zrobić, jeżeli twój\\pPOKéMON dozna zmiany stanu?\\pCóż, od tego jestem ja! Pokażę ci!\\pŚwietnie, zaczynamy!\\pPrzylep gały do ekranu, by\\nnie przegapić POKé GOŚCIA!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791734700.7556841,
+  "updated": 1792876860.907176,
   "touched": true
  },
  "srcdata.txt::srcdata.txt_397": {
@@ -94803,10 +94818,13 @@
  },
  "datascript.txt::datascript.txt_118": {
   "source": "Hmhm…\\pYour profile really says something\\nabout who you are.\\pNow that I know you better, it \\nmakes us better friends than ever!",
-  "target": "Hmhm…\\pTwój profil naprawdę mówi coś na\\ntemat ciebie.\\pTeraz, skoro znam cię już lepiej,\\njesteśmy na dobrej drodze do przyjaźni!",
+  "target": "Hmhm…\\pTwój profil naprawdę mówi coś na\\ntemat ciebie.\\pTeraz, skoro znam cię już lepiej,\\njesteśmy na dobrej\\pdrodze do przyjaźni!",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792876660.973637,
+  "touched": true
  },
  "data maps.txt::data maps.txt_1789": {
   "source": "Let's see what the binoculars have\\nto show…\\pThere are people swimming.",
@@ -95924,12 +95942,12 @@
  },
  "data.txt::data.txt_62": {
   "source": "Thank you for using the MYSTERY\\nGIFT System.\\pRecently, there have been rumors\\nof rare POKéMON appearances.\\pThe rumors are about ALTERING\\nCAVE on OUTCAST ISLAND.\\pWhy not visit there and check if\\nthe rumors are indeed true?",
-  "target": "Dziękujemy za korzystanie z\\nSystemu MYSTERY GIFT\\pOstatnio pojawiły się pogłoski\\no rzadkich pojawienia się POKéMONÓW.\\pPlotki krążą o ZMIENIONEJ\\nJASKINI na WYSPIE OUTCAST.\\pDlaczego więc nie odwiedzić tego miejsca\\ni sprawdzić, czy plotki rzeczywiście są prawdziwe?",
+  "target": "Dziękujemy za korzystanie z\\nSystemu MYSTERY GIFT\\pOstatnio pojawiły się pogłoski\\no rzadkich pojawienia się POKéMONÓW.\\pPlotki krążą o ZMIENIONEJ\\nJASKINI na WYSPIE OUTCAST.\\pDlaczego więc nie odwiedzić tego\\nmiejsca i sprawdzić, czy plotki\\przeczywiście są prawdziwe?",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1792319699.9442444,
+  "updated": 1792876591.6849484,
   "touched": true
  },
  "data maps.txt::data maps.txt_1240": {
@@ -99387,12 +99405,12 @@
  },
  "srcdatatext.txt::srcdatatext.txt_1089": {
   "source": "Well, did you get that?\\pEven if your own POKéMON's HP\\nfalls to zero, and it becomes\\lunable to battle, not to worry!\\pJust take it to any POKéMON\\nCENTER and heal it!\\pAll righty, be seeing you!\\pRemember, TRAINERS, a good deed\\na day brings happiness to stay!",
-  "target": "Dobra, kapujecie?\\pNawet jeśli HP twojego POKéMONA\\nspadnie do zera i nie będzie\\lmógł już walczyć, nie roń łez!\\pZanieś go do CENTRUM POKéMON,\\ngdzie szybko go uleczą!\\pTo już wszystko, do\\pzobaczenia!\\nPamiętajcie, TRENERZY, co złego, to nie ja!",
+  "target": "Dobra, kapujecie?\\pNawet jeśli HP twojego POKéMONA\\nspadnie do zera i nie będzie\\lmógł już walczyć, nie roń łez!\\pZanieś go do CENTRUM POKéMON,\\ngdzie szybko go uleczą!\\pTo już wszystko, do\\pzobaczenia!\\pPamiętajcie, TRENERZY,\\nco złego, to nie ja!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791734702.9315078,
+  "updated": 1792876820.8734522,
   "touched": true
  },
  "data maps.txt::data maps.txt_1878": {
@@ -101761,10 +101779,13 @@
  },
  "data maps.txt::data maps.txt_1681": {
   "source": "EXP. SHARE is an item to be held\\nby a POKéMON.\\pThe POKéMON will receive a share\\nof the EXP. Points without having\\lto battle.",
-  "target": "ROZDZIELACZ to przedmiot do trzymania\\nprzez POKéMONA.\\pPOKéMON otrzymywał będzie\\nudział w doświadczeniu\\lnie musząc walczyć.",
+  "target": "ROZDZIELACZ to przedmiot do\\ntrzymania przez POKéMONA.\\pPOKéMON otrzymywał będzie\\nudział w doświadczeniu\\lnie musząc walczyć.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792876145.911552,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_743": {
   "source": "AWAKENING",
@@ -104420,10 +104441,13 @@
  },
  "data maps.txt::data maps.txt_1696": {
   "source": "We'll always be hanging around here\\neven if you don't like it.\\pYou can detour to VERMILION from\\nFUCHSIA going along the coast.",
-  "target": "Będziemy tu siedzieć, nawet jeśli\\ntobie to nie odpowiada.\\pMożesz obrać inną drogę do VERMILION z\\nFUCHSIA ruszając po wybrzeżu.",
+  "target": "Będziemy tu siedzieć, nawet jeśli\\ntobie to nie odpowiada.\\pMożesz obrać inną drogę do VERMILION\\nz FUCHSIA ruszając po wybrzeżu.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792876181.045629,
+  "touched": true
  },
  "srcdatapokemon.txt::srcdatapokemon.txt_569": {
   "source": "Its fluffy fleece easily stores\\nelectricity. Its rubbery hide keeps it\\nfrom being electrocuted.",
