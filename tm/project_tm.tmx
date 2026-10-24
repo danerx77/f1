@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261024T212437Z"/>
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261024T212816Z"/>
   <body>
     <tu>
       <tuv xml:lang="en"><seg>I got my KOFFING in CINNABAR.\pIt's usually nice, but it breathes\npoison when it's angry.</seg></tuv>
@@ -295233,6 +295233,18 @@
     <tu>
       <tuv xml:lang="en"><seg>Hey, everyone!\nDo you all have TMs?\pA TM, Technical Machine, is an\namazingly great item!\pIt teaches POKéMON a move that\nit may not learn when leveling up!\pIsn't that just great? What a\nconvenient world we live in!\pOpen the TM CASE and check out\nthe TMs you have.\pYou can check them out in detail,\ntoo.</seg></tuv>
       <tuv xml:lang="pl"><seg>Witam wszystkich!\nCzy macie wszyscy TM?\pTM, Techniczna Maszyna, to\nzadziwiająco wspaniała rzecz!\pUczy POKéMONY ruchów,\nktórych nie poznają poziomując!\pCzy to niewspaniałe? Cóż to za\nrozmyślny świat, w którym\pżyjemy!\pOtwórz ETUI TM i sprawdź\njakie masz TMy.\pMożecie też zobaczyć tam ich\ndokładny opis.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>And now, your TEACHY TV is\nregistered.\pHow do you use it?\nWell, here's how it works.\pOnce an item in the KEY ITEMS\nPOKCET is registered, you can use\lit by pressing SELECT.\pSo, you've given yourself\none-touch access to TEACHY TV.\pAll it takes for you to see me is\npressing one button!\pThat kind of attention is a little\nembarrassing!\pAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!</seg></tuv>
+      <tuv xml:lang="pl"><seg>I teraz, twój TELEWIZOREK\njest zarejestrowany.\pJak go użyć?\nWięc, działa to tak.\pGdy zarejestrujesz przedmiot z\nodpowiedniej KIESZENI, możesz użyć\lgo wciskając SELECT.\pW ten sposób uzyskałeś\ndostęp do TELEWIZORKA jednym\pguzikiem.\nBy się ze mną zobaczyć, wystarczy\pwcisnąć jeden przycisk!\nTak częste spotkania mogą być\pkrępujące!\pTo wszystko, do zobaczenia!\pPamiętajcie, TRENERZY,\nco złego to nie ja!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Listen, listen.\nDid you know?\pA famous TRAINER came to the\nISLAND a little while back.\pHe's one of the ELITE FOUR.\nHis name is BRUNO.\pHe went away disappointed when he\nfound out that they were all sold\lout of Rage Candybars.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Słuchaj, słuchaj!\nWiesz co?\pJakiś sławny TRENER przybył\nniedawno na tę WYSPĘ.\pJest członkiem ELITARNEJ CZWÓRKI.\nNazywa się BRUNO.\pOdszedł bardzo zawiedziony, gdy\ndowiedział się, że sprzedali \lwszystkie Wściekłe Batoniki.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When the TRAINERS switch places,\nthe movement can be hectic.\pTo avoid the stampede, we moved\nthe reception counter here.\pI'm sorry for the inconvenience.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Gdy TRENERZY zmieniają się\nmiejscami, ruchy mogą oszaleć.\pBy uniknąć zamieszania,\nprzenieśliśmy recepcję tutaj.\pPrzepraszamy za niedogodności.</seg></tuv>
     </tu>
   </body>
 </tmx>

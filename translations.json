@@ -17830,12 +17830,12 @@
  },
  "srcdatatext.txt::srcdatatext.txt_1101": {
   "source": "And now, your TEACHY TV is\\nregistered.\\pHow do you use it?\\nWell, here's how it works.\\pOnce an item in the KEY ITEMS\\nPOKCET is registered, you can use\\lit by pressing SELECT.\\pSo, you've given yourself\\none-touch access to TEACHY TV.\\pAll it takes for you to see me is\\npressing one button!\\pThat kind of attention is a little\\nembarrassing!\\pAll righty, be seeing you!\\pRemember, TRAINERS, a good deed\\na day brings happiness to stay!",
-  "target": "I teraz, twój TELEWIZOREK\\njest zarejestrowany.\\pJak go użyć?\\nWięc, działa to tak.\\pGdy zarejestrujesz przedmiot z\\nodpowiedniej KIESZENI, możesz użyć\\lgo wciskając SELECT.\\pW ten sposób uzyskałeś\\ndostęp do TELEWIZORKA jednym\\pguzikiem.\\nBy się ze mną zobaczyć, wystarczy\\pwcisnąć jeden przycisk!\\nTak częste spotkania mogą być\\pkrępujące!\\pTo wszystko, do zobaczenia!\\nPamiętajcie, TRENERZY, co złego to nie ja!",
+  "target": "I teraz, twój TELEWIZOREK\\njest zarejestrowany.\\pJak go użyć?\\nWięc, działa to tak.\\pGdy zarejestrujesz przedmiot z\\nodpowiedniej KIESZENI, możesz użyć\\lgo wciskając SELECT.\\pW ten sposób uzyskałeś\\ndostęp do TELEWIZORKA jednym\\pguzikiem.\\nBy się ze mną zobaczyć, wystarczy\\pwcisnąć jeden przycisk!\\nTak częste spotkania mogą być\\pkrępujące!\\pTo wszystko, do zobaczenia!\\pPamiętajcie, TRENERZY,\\nco złego to nie ja!",
   "status": "draft",
   "notes": "",
   "ignored": false,
   "translator": "Antrix",
-  "updated": 1791734657.5918558,
+  "updated": 1792877109.523239,
   "touched": true
  },
  "src.txt::src.txt_393": {
@@ -55408,16 +55408,16 @@
   "translator": "Antrix",
   "updated": 1790363245.2739916
  },
- "srcdatapokemon.txt::srcdatapokemon.txt_511": {
-  "source": "This POKéMON has a geometric body.\\nBecause of its body, the locals suspect\\nthat it is an alien creature.",
-  "target": "Ten POKéMON ma geometryczną budowę.\\nZ uwagi na kształt, niewykształceni\\nludzie traktują go jak kosmitę.",
+ "data maps.txt::data maps.txt_337": {
+  "source": "What, are you too busy?\\pWell, all right.\\nThe boat hasn't arrived yet anyway.\\pI'll be waiting at the POKéMON\\nCENTER over there.\\pCome see me when you're done with\\nyour business here.",
+  "target": "Co, jesteś zbyt zajęty?\\pNo dobra.\\nŁódź i tak jeszcze nie przypłynęła.\\pBędę czekał przy tym CENTRUM\\nPOKéMONÓW. Wpadnij do\\pmnie, gdy zrobisz już to,\\nco cię tu zatrzymuje.",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "data maps.txt::data maps.txt_337": {
-  "source": "What, are you too busy?\\pWell, all right.\\nThe boat hasn't arrived yet anyway.\\pI'll be waiting at the POKéMON\\nCENTER over there.\\pCome see me when you're done with\\nyour business here.",
-  "target": "Co, jesteś zbyt zajęty?\\pNo dobra.\\nŁódź i tak jeszcze nie przypłynęła.\\pBędę czekał przy tym CENTRUM\\nPOKéMONÓW. Wpadnij do\\pmnie, gdy zrobisz już to,\\nco cię tu zatrzymuje.",
+ "srcdatapokemon.txt::srcdatapokemon.txt_511": {
+  "source": "This POKéMON has a geometric body.\\nBecause of its body, the locals suspect\\nthat it is an alien creature.",
+  "target": "Ten POKéMON ma geometryczną budowę.\\nZ uwagi na kształt, niewykształceni\\nludzie traktują go jak kosmitę.",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -55440,16 +55440,16 @@
   "ignored": true,
   "manual_skip": true
  },
- "data maps.txt::data maps.txt_938": {
-  "source": "BILL: Oh, hey!\\n{PLAYER}!",
-  "target": "BILL: O, hej!\\n{PLAYER}!",
+ "data maps.txt::data maps.txt_2213": {
+  "source": "You can keep any item you find in\\nthe SAFARI ZONE.\\pBut, you'll run out of time if you\\ntry for all of them at once.",
+  "target": "Możesz zachować każdy przedmiot ze\\nSTREFY SAFARI.\\pAle zabraknie ci czasu, by znaleźć\\nje wszystkie na raz.",
   "status": "draft",
   "notes": "",
   "ignored": false
  },
- "data maps.txt::data maps.txt_2213": {
-  "source": "You can keep any item you find in\\nthe SAFARI ZONE.\\pBut, you'll run out of time if you\\ntry for all of them at once.",
-  "target": "Możesz zachować każdy przedmiot ze\\nSTREFY SAFARI.\\pAle zabraknie ci czasu, by znaleźć\\nje wszystkie na raz.",
+ "data maps.txt::data maps.txt_938": {
+  "source": "BILL: Oh, hey!\\n{PLAYER}!",
+  "target": "BILL: O, hej!\\n{PLAYER}!",
   "status": "draft",
   "notes": "",
   "ignored": false
@@ -71789,10 +71789,13 @@
  },
  "data maps.txt::data maps.txt_3084": {
   "source": "Listen, listen.\\nDid you know?\\pA famous TRAINER came to the\\nISLAND a little while back.\\pHe's one of the ELITE FOUR.\\nHis name is BRUNO.\\pHe went away disappointed when he\\nfound out that they were all sold\\lout of Rage Candybars.",
-  "target": "Słuchaj, słuchaj!\\nWiesz co?\\pJakiś sławny TRENER przybył\\nniedawno na tę WYSPĘ.\\pJest członkiem ELITARNEJ CZWÓRKI.\\nNazywa się BRUNO.\\pOdszedł bardzo zawiedziony, gdy\\ndowiedział się, że sprzedali wszystkie\\lWściekłe Batoniki.",
+  "target": "Słuchaj, słuchaj!\\nWiesz co?\\pJakiś sławny TRENER przybył\\nniedawno na tę WYSPĘ.\\pJest członkiem ELITARNEJ CZWÓRKI.\\nNazywa się BRUNO.\\pOdszedł bardzo zawiedziony, gdy\\ndowiedział się, że sprzedali \\lwszystkie Wściekłe Batoniki.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792877184.1872137,
+  "touched": true
  },
  "srcdata.txt::srcdata.txt_1799": {
   "source": "NORTON",
@@ -79806,10 +79809,13 @@
  },
  "data maps.txt::data maps.txt_3061": {
   "source": "When the TRAINERS switch places,\\nthe movement can be hectic.\\pTo avoid the stampede, we moved\\nthe reception counter here.\\pI'm sorry for the inconvenience.",
-  "target": "Gdy TRENERZY zmieniają się\\nmiejscami, ruchy mogą oszaleć.\\pBy uniknąć zamieszania, przenieśliśmy\\nrecepcję tutaj.\\pPrzepraszamy za niedogodności.",
+  "target": "Gdy TRENERZY zmieniają się\\nmiejscami, ruchy mogą oszaleć.\\pBy uniknąć zamieszania,\\nprzenieśliśmy recepcję tutaj.\\pPrzepraszamy za niedogodności.",
   "status": "draft",
   "notes": "",
-  "ignored": false
+  "ignored": false,
+  "translator": "Antrix",
+  "updated": 1792877297.7916572,
+  "touched": true
  },
  "srcdatadecoration.txt::srcdatadecoration.txt_67": {
   "source": "A small poster\\nprinted with POKé\\nBALLS.",
