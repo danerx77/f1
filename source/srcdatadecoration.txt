@@ -1,0 +1,243 @@
+<<< FILE: src/data/decoration/description.h >>>
+A small desk built\nfor one.
+A small desk built in\nthe shape of a POKé\nBALL.
+A large desk made\nof steel. Put some\ndecorations on it.
+A large desk made\nof wood. Put some\ndecorations on it.
+A large desk made\nof leaves. Put some\ndecorations on it.
+A huge desk made\nof glass. Holds lots\nof decorations.
+A huge desk made\nof brick. Holds lots\nof decorations.
+A huge desk made\nof logs. Put lots of\ndecorations on it.
+A huge desk made\nof rocks. Holds\nmany decorations.
+A small chair made\nfor one.
+A small chair built\nin the shape of a\nPOKé BALL.
+A small chair made\nof steel.
+A small chair made\nof glass.
+A small chair made\nof leaves.
+A small chair made\nof wood.
+A small chair made\nof brick.
+A small chair made\nof logs.
+A small chair made\nof rock.
+A vivid red potted\nplant.
+A flowering tropical\nplant in a pot.
+A pot of cute\nflowers.
+A large pot with\nmany colorful\nflowers.
+A large, umbrella-\nshaped plant in a\nbig pot.
+A large, impressive\nplant in a big pot.
+A red-colored brick.\nDecorations can be\nplaced on top.
+A yellow-colored\nbrick. Put some\ndecorations on top.
+A blue-colored\nbrick. Put some\ndecorations on top.
+A red balloon filled\nwith water. Bursts\nif stepped on.
+A blue balloon filled\nwith water. Bursts\nif stepped on.
+A yellow balloon\nfilled with water.\nPops if stepped on.
+A large red tent.\nYou can hide inside\nit.
+A large blue tent.\nYou can hide inside\nit.
+Place over a hole to\ncross to the other\nside.
+Use to slide down\nfrom the platform.
+A small fence that\nblocks passage.
+A small fence that\nblocks passage.
+An old large tire.\nDecorations can be\nplaced on top.
+A large pedestal\nwith steps.
+A large ball of mud.\nCrumbles if stepped\non.
+A weird door that\npeople can walk\nright through.
+An ornament made\nof sand. Crumbles if\ntouched.
+Awarded for 50\nstraight wins at\nthe BATTLE TOWER.
+Awarded for 100\nstraight wins at\nthe BATTLE TOWER.
+A glass replica of\na famous sculpture\nat the ART MUSEUM.
+A small, gray-\ncolored toy TV.
+A toy TV modeled\nin the image of a\nSEEDOT.
+A toy TV modeled\nin the image of a\nSKITTY.
+An odd mat that\nglitters if stepped\non.
+A trick mat that\njumps when it is\nstepped on.
+A trick mat that\nspins around when\nstepped on.
+A mat that plays\na low C note when\nstepped on.
+A mat that plays\na D note when\nstepped on.
+A mat that plays\nan E note when\nstepped on.
+A mat that plays\nan F note when\nstepped on.
+A mat that plays\na G note when\nstepped on.
+A mat that plays\nan A note when\nstepped on.
+A mat that plays\na B note when\nstepped on.
+A mat that plays\na high C note when\nstepped on.
+A mat designed with\na SURF image.\nPut items on top.
+A mat designed with\na THUNDER image.\nPut items on top.
+A mat designed with\na FIRE BLAST image.\nPut items on top.
+A mat with a POWDER\nSNOW image design.\nPut items on top.
+A mat designed with\nan ATTRACT image.\nPut items on top.
+A mat designed with\na FISSURE image.\nPut items on top.
+A mat designed with\na SPIKES image.\nPut items on top.
+A small poster\nprinted with POKé\nBALLS.
+A small poster with\na TREECKO print.
+A small poster with\na TORCHIC print.
+A small poster with\na MUDKIP print.
+A small poster with\nan AZURILL print.
+A large poster with\na PIKACHU and\nPICHU print.
+A large poster with\na SEVIPER print.
+A large poster with\na RELICANTH print.
+A large poster with\na WINGULL print.
+A large poster with\na SMOOCHUM print.
+A PICHU doll.\nPlace it on a mat\nor a desk.
+A PIKACHU doll.\nPlace it on a mat\nor a desk.
+A MARILL doll.\nPlace it on a mat\nor a desk.
+A TOGEPI doll.\nPlace it on a mat\nor a desk.
+A CYNDAQUIL doll.\nPlace it on a mat\nor a desk.
+A CHIKORITA doll.\nPlace it on a mat\nor a desk.
+A TOTODILE doll.\nPlace it on a mat\nor a desk.
+A JIGGLYPUFF doll.\nPlace it on a mat\nor a desk.
+A MEOWTH doll.\nPlace it on a mat\nor a desk.
+A CLEFAIRY doll.\nPlace it on a mat\nor a desk.
+A DITTO doll.\nPlace it on a mat\nor a desk.
+A SMOOCHUM doll.\nPlace it on a mat\nor a desk.
+A TREECKO doll.\nPlace it on a mat\nor a desk.
+A TORCHIC doll.\nPlace it on a mat\nor a desk.
+A MUDKIP doll.\nPlace it on a mat\nor a desk.
+A DUSKULL doll.\nPlace it on a mat\nor a desk.
+A WYNAUT doll.\nPlace it on a mat\nor a desk.
+A BALTOY doll.\nPlace it on a mat\nor a desk.
+A KECLEON doll.\nPlace it on a mat\nor a desk.
+An AZURILL doll.\nPlace it on a mat\nor a desk.
+A SKITTY doll.\nPlace it on a mat\nor a desk.
+A SWABLU doll.\nPlace it on a mat\nor a desk.
+A GULPIN doll.\nPlace it on a mat\nor a desk.
+A LOTAD doll.\nPlace it on a mat\nor a desk.
+A SEEDOT doll.\nPlace it on a mat\nor a desk.
+A PIKACHU cushion.\nPlace it on a mat\nor a desk.
+A MARILL cushion.\nPlace it on a mat\nor a desk.
+A SMOOCHUM\ncushion. Place it on\na mat or a desk.
+A ZIGZAGOON\ncushion. Place it on\na mat or a desk.
+A SPINDA cushion.\nPlace it on a mat\nor a desk.
+A SABLEYE cushion.\nPlace it on a mat\nor a desk.
+A BALL cushion.\nPlace it on a mat\nor a desk.
+A grass-mark\ncushion. Place it on\na mat or a desk.
+A fire-mark\ncushion. Place it on\na mat or a desk.
+A water-mark\ncushion. Place it on\na mat or a desk.
+A large doll.\nPlace it on a mat\nor a desk.
+A large doll.\nPlace it on a mat\nor a desk.
+A large doll.\nPlace it on a mat\nor a desk.
+A large doll.\nPlace it on a mat\nor a desk.
+A large doll.\nPlace it on a mat\nor a desk.
+A large doll.\nPlace it on a mat\nor a desk.
+A large doll.\nPlace it on a mat\nor a desk.
+A large doll.\nPlace it on a mat\nor a desk.
+A large doll.\nPlace it on a mat\nor a desk.
+A large doll.\nPlace it on a mat\nor a desk.
+<<< FILE: src/data/decoration/header.h >>>
+SMALL DESK
+SMALL DESK
+POKéMON DESK
+HEAVY DESK
+RAGGED DESK
+COMFORT DESK
+PRETTY DESK
+BRICK DESK
+CAMP DESK
+HARD DESK
+SMALL CHAIR
+POKéMON CHAIR
+HEAVY CHAIR
+PRETTY CHAIR
+COMFORT CHAIR
+RAGGED CHAIR
+BRICK CHAIR
+CAMP CHAIR
+HARD CHAIR
+RED PLANT
+TROPICAL PLANT
+PRETTY FLOWERS
+COLORFUL PLANT
+BIG PLANT
+GORGEOUS PLANT
+RED BRICK
+YELLOW BRICK
+BLUE BRICK
+RED BALLOON
+BLUE BALLOON
+YELLOW BALLOON
+RED TENT
+BLUE TENT
+SOLID BOARD
+SLIDE
+FENCE LENGTH
+FENCE WIDTH
+TIRE
+STAND
+MUD BALL
+BREAKABLE DOOR
+SAND ORNAMENT
+SILVER SHIELD
+GOLD SHIELD
+GLASS ORNAMENT
+TV
+ROUND TV
+CUTE TV
+GLITTER MAT
+JUMP MAT
+SPIN MAT
+C Low NOTE MAT
+D NOTE MAT
+E NOTE MAT
+F NOTE MAT
+G NOTE MAT
+A NOTE MAT
+B NOTE MAT
+C High NOTE MAT
+SURF MAT
+THUNDER MAT
+FIRE BLAST MAT
+POWDER SNOW MAT
+ATTRACT MAT
+FISSURE MAT
+SPIKES MAT
+BALL POSTER
+GREEN POSTER
+RED POSTER
+BLUE POSTER
+CUTE POSTER
+PIKA POSTER
+LONG POSTER
+SEA POSTER
+SKY POSTER
+KISS POSTER
+PICHU DOLL
+PIKACHU DOLL
+MARILL DOLL
+TOGEPI DOLL
+CYNDAQUIL DOLL
+CHIKORITA DOLL
+TOTODILE DOLL
+JIGGLYPUFF DOLL
+MEOWTH DOLL
+CLEFAIRY DOLL
+DITTO DOLL
+SMOOCHUM DOLL
+TREECKO DOLL
+TORCHIC DOLL
+MUDKIP DOLL
+DUSKULL DOLL
+WYNAUT DOLL
+BALTOY DOLL
+KECLEON DOLL
+AZURILL DOLL
+SKITTY DOLL
+SWABLU DOLL
+GULPIN DOLL
+LOTAD DOLL
+SEEDOT DOLL
+PIKA CUSHION
+ROUND CUSHION
+KISS CUSHION
+ZIGZAG CUSHION
+SPIN CUSHION
+DIAMOND CUSHION
+BALL CUSHION
+GRASS CUSHION
+FIRE CUSHION
+WATER CUSHION
+SNORLAX DOLL
+RHYDON DOLL
+LAPRAS DOLL
+VENUSAUR DOLL
+CHARIZARD DOLL
+BLASTOISE DOLL
+WAILMER DOLL
+REGIROCK DOLL
+REGICE DOLL
+REGISTEEL DOLL

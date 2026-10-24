@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20260829T222609Z"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en"><seg>PALLET TOWN</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIOSKA PALLET</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VIRIDIAN CITY</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIASTO VIRIDIAN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PEWTER CITY</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIASTO PEWTER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CERULEAN CITY</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIASTO CERULEAN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LAVENDER TOWN</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIOSKA LAVENDER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VERMILION CITY</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIASTO VERMILION</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CELADON CITY</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIASTO CELADON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FUCHSIA CITY</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIASTO FUCHSIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CINNABAR ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA CINNABAR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>INDIGO PLATEAU</seg></tuv>
+      <tuv xml:lang="pl"><seg>INDYGOWY PŁASKOWYŻ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SAFFRON CITY</seg></tuv>
+      <tuv xml:lang="pl"><seg>MIASTO SAFFRON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 4</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 10</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 10</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 1</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 2</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 3</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 5</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 6</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 7</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 8</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 9</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 11</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 12</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 12</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 13</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 14</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 14</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 15</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 16</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 17</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 17</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 18</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 18</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 19</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 19</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 20</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 20</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 21</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 21</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 22</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 22</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 23</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 23</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 24</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 24</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROUTE 25</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA 25</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VIRIDIAN FOREST</seg></tuv>
+      <tuv xml:lang="pl"><seg>LAS VIRIDIAŃSKI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MT. MOON</seg></tuv>
+      <tuv xml:lang="pl"><seg>GÓRA KSIĘŻYCOWA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>S.S. ANNE</seg></tuv>
+      <tuv xml:lang="pl"><seg>S.S. ANNA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>UNDERGROUND PATH</seg></tuv>
+      <tuv xml:lang="pl"><seg>PODZIEMNY TUNEL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DIGLETT'S CAVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>JASKINIA DIGLETTA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VICTORY ROAD</seg></tuv>
+      <tuv xml:lang="pl"><seg>DROGA ZWYCIĘSTWA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCKET HIDEOUT</seg></tuv>
+      <tuv xml:lang="pl"><seg>KRYJÓWKA ZESPOŁU R</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON MANSION</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMONOWY DWÓR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SAFARI ZONE</seg></tuv>
+      <tuv xml:lang="pl"><seg>STREFA SAFARI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON LEAGUE</seg></tuv>
+      <tuv xml:lang="pl"><seg>LIGA POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCK TUNNEL</seg></tuv>
+      <tuv xml:lang="pl"><seg>TUNEL SKAŁ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SEAFOAM ISLANDS</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPY SEAFOAM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POKéMON TOWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIEŻA POKéMON</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CERULEAN CAVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>JASKINIA CERULEAN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>POWER PLANT</seg></tuv>
+      <tuv xml:lang="pl"><seg>ELEKTROWNIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ONE ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA ONE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TWO ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA TWO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THREE ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA THREE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FOUR ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA FOUR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FIVE ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA FIVE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SEVEN ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA SEVEN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SIX ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA SIX</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>KINDLE ROAD</seg></tuv>
+      <tuv xml:lang="pl"><seg>KRUCHA DROGA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TREASURE BEACH</seg></tuv>
+      <tuv xml:lang="pl"><seg>PLAŻA SKARBÓW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CAPE BRINK</seg></tuv>
+      <tuv xml:lang="pl"><seg>PRZYLĄDEK BRINK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BOND BRIDGE</seg></tuv>
+      <tuv xml:lang="pl"><seg>MOST WIĘZI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THREE ISLE PORT</seg></tuv>
+      <tuv xml:lang="pl"><seg>PORT WYSPY THREE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RESORT GORGEOUS</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚWIETNY OŚRODEK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WATER LABYRINTH</seg></tuv>
+      <tuv xml:lang="pl"><seg>WODNY LABIRYNT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FIVE ISLE MEADOW</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŁĄKA WYSPY FIVE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MEMORIAL PILLAR</seg></tuv>
+      <tuv xml:lang="pl"><seg>FILAR PAMIĘCI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OUTCAST ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA W ODDALI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GREEN PATH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZIELONA ŚCIEŻKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WATER PATH</seg></tuv>
+      <tuv xml:lang="pl"><seg>WODNA ŚCIEŻKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RUIN VALLEY</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOLINA RUIN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TRAINER TOWER</seg></tuv>
+      <tuv xml:lang="pl"><seg>WIEŻA TRENERÓW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CANYON ENTRANCE</seg></tuv>
+      <tuv xml:lang="pl"><seg>WEJŚCIE KANIONU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SEVAULT CANYON</seg></tuv>
+      <tuv xml:lang="pl"><seg>KANION SEVAULT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TANOBY RUINS</seg></tuv>
+      <tuv xml:lang="pl"><seg>RUINY TANOBY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NAVEL ROCK</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKAŁA PĘPKA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MT. EMBER</seg></tuv>
+      <tuv xml:lang="pl"><seg>GÓRA ŻARU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BERRY FOREST</seg></tuv>
+      <tuv xml:lang="pl"><seg>JAGODOWY LAS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ICEFALL CAVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>JASKINIA LODOSPADU</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ROCKET WAREHOUSE</seg></tuv>
+      <tuv xml:lang="pl"><seg>SKŁAD ZESPOŁU R</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DOTTED HOLE</seg></tuv>
+      <tuv xml:lang="pl"><seg>KROPKOWANY OTWÓR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LOST CAVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>ZAGINIONA JASKINIA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PATTERN BUSH</seg></tuv>
+      <tuv xml:lang="pl"><seg>WZOROWANY KRZEW</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ALTERING CAVE</seg></tuv>
+      <tuv xml:lang="pl"><seg>JASKINIA ZMIAN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TANOBY CHAMBERS</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOMNATY TANOBY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>THREE ISLE PATH</seg></tuv>
+      <tuv xml:lang="pl"><seg>ŚCIEŻKA WYSPY THREE</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TANOBY KEY</seg></tuv>
+      <tuv xml:lang="pl"><seg>KLUCZ TANOBY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BIRTH ISLAND</seg></tuv>
+      <tuv xml:lang="pl"><seg>WYSPA NARODZIN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>MONEAN CHAMBER</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOMNATA MONEAN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>LIPTOO CHAMBER</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOMNATA LIPTOO</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>WEEPTH CHAMBER</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOMNATA WEEPTH</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DILFORD CHAMBER</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOMNATA DILFORD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>SCUFIB CHAMBER</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOMNATA SCUFIB</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RIXY CHAMBER</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOMNATA RIXY</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VIAPOIS CHAMBER</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOMNATA VIAPOIS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>EMBER SPA</seg></tuv>
+      <tuv xml:lang="pl"><seg>KOMNATA EMBER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CELADON DEPT.</seg></tuv>
+      <tuv xml:lang="pl"><seg>DOM TOWAROWY CELADON</seg></tuv>
+    </tu>
+  </body>
+</tmx>

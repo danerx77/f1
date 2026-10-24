@@ -1,0 +1,21 @@
+# Glosariusz SuperCAT
+# Format: source|target|opis|część mowy|rodzaj
+hello|cześć|Powitanie|rzeczownik|
+world|świat||rzeczownik|m
+translation|tłumaczenie|Proces przekładu tekstu|rzeczownik|n
+computer|komputer||rzeczownik|m
+software|oprogramowanie||rzeczownik|n
+network|sieć||rzeczownik|ż
+database|baza danych||rzeczownik|ż
+user|użytkownik||rzeczownik|m
+password|hasło||rzeczownik|n
+save|zapisz||czasownik|
+open|otwórz||czasownik|
+delete|usuń||czasownik|
+What is this person like?|Jaka jest ta osoba?|||
+What does this person do?|Co robi ta osoba?|||
+Favorite kind of POKéMON?|Ulubiony rodzaj POKéMON?|||
+There's a rumor…|Krąży plotka…|||
+Family and friends?|Rodzina i przyjaciele?|||
+Where was this person born?|Gdzie urodziła się ta osoba?|||
+Using|Użył|||

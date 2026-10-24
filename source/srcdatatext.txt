@@ -1,0 +1,1209 @@
+<<< FILE: src/data/text/abilities.h >>>
+No special ability.
+Helps repel wild POKéMON.
+Summons rain in battle.
+Gradually boosts SPEED.
+Blocks critical hits.
+Negates 1-hit KO attacks.
+Prevents self-destruction.
+Prevents paralysis.
+Ups evasion in a sandstorm.
+Paralyzes on contact.
+Turns electricity into HP.
+Changes water into HP.
+Prevents attraction.
+Negates weather effects.
+Raises accuracy.
+Prevents sleep.
+Changes type to foe's move.
+Prevents poisoning.
+Powers up if hit by fire.
+Prevents added effects.
+Prevents confusion.
+Firmly anchors the body.
+Lowers the foe's ATTACK.
+Prevents the foe's escape.
+Hurts to touch.
+“Super effective” hits.
+Not hit by GROUND attacks.
+Leaves spores on contact.
+Passes on status problems.
+Prevents ability reduction.
+Heals upon switching out.
+Draws electrical moves.
+Promotes added effects.
+Raises SPEED in rain.
+Raises SPEED in sunshine.
+Encounter rate increases.
+Copies special ability.
+Raises ATTACK.
+Poisons foe on contact.
+Prevents flinching.
+Prevents freezing.
+Prevents burns.
+Traps STEEL-type POKéMON.
+Avoids sound-based moves.
+Slight HP recovery in rain.
+Summons a sandstorm.
+Raises foe's PP usage.
+Heat-and-cold protection.
+Awakens quickly from sleep.
+Burns the foe on contact.
+Makes escaping easier.
+Prevents loss of accuracy.
+Prevents ATTACK reduction.
+May pick up items.
+Moves only every two turns.
+Trades accuracy for power.
+Infatuates on contact.
+Powers up with MINUS.
+Powers up with PLUS.
+Changes with the weather.
+Prevents item theft.
+Heals the body by shedding.
+Ups ATTACK if suffering.
+Ups DEFENSE if suffering.
+Draining causes injury.
+Ups GRASS moves in a pinch.
+Ups FIRE moves in a pinch.
+Ups WATER moves in a pinch.
+Ups BUG moves in a pinch.
+Prevents recoil damage.
+Summons sunlight in battle.
+Prevents fleeing.
+Prevents sleep.
+Prevents ability reduction.
+Raises ATTACK.
+Blocks critical hits.
+Avoids sound-based moves.
+Negates weather effects.
+-------
+STENCH
+DRIZZLE
+SPEED BOOST
+BATTLE ARMOR
+STURDY
+DAMP
+LIMBER
+SAND VEIL
+STATIC
+VOLT ABSORB
+WATER ABSORB
+OBLIVIOUS
+CLOUD NINE
+COMPOUNDEYES
+INSOMNIA
+COLOR CHANGE
+IMMUNITY
+FLASH FIRE
+SHIELD DUST
+OWN TEMPO
+SUCTION CUPS
+INTIMIDATE
+SHADOW TAG
+ROUGH SKIN
+WONDER GUARD
+LEVITATE
+EFFECT SPORE
+SYNCHRONIZE
+CLEAR BODY
+NATURAL CURE
+LIGHTNINGROD
+SERENE GRACE
+SWIFT SWIM
+CHLOROPHYLL
+ILLUMINATE
+TRACE
+HUGE POWER
+POISON POINT
+INNER FOCUS
+MAGMA ARMOR
+WATER VEIL
+MAGNET PULL
+SOUNDPROOF
+RAIN DISH
+SAND STREAM
+PRESSURE
+THICK FAT
+EARLY BIRD
+FLAME BODY
+RUN AWAY
+KEEN EYE
+HYPER CUTTER
+PICKUP
+TRUANT
+HUSTLE
+CUTE CHARM
+PLUS
+MINUS
+FORECAST
+STICKY HOLD
+SHED SKIN
+GUTS
+MARVEL SCALE
+LIQUID OOZE
+OVERGROW
+BLAZE
+TORRENT
+SWARM
+ROCK HEAD
+DROUGHT
+ARENA TRAP
+VITAL SPIRIT
+WHITE SMOKE
+PURE POWER
+SHELL ARMOR
+CACOPHONY
+AIR LOCK
+<<< FILE: src/data/text/move_names.h >>>
+-$$$$$$
+POUND
+KARATE CHOP
+DOUBLESLAP
+COMET PUNCH
+MEGA PUNCH
+PAY DAY
+FIRE PUNCH
+ICE PUNCH
+THUNDERPUNCH
+SCRATCH
+VICEGRIP
+GUILLOTINE
+RAZOR WIND
+SWORDS DANCE
+CUT
+GUST
+WING ATTACK
+WHIRLWIND
+FLY
+BIND
+SLAM
+VINE WHIP
+STOMP
+DOUBLE KICK
+MEGA KICK
+JUMP KICK
+ROLLING KICK
+SAND-ATTACK
+HEADBUTT
+HORN ATTACK
+FURY ATTACK
+HORN DRILL
+TACKLE
+BODY SLAM
+WRAP
+TAKE DOWN
+THRASH
+DOUBLE-EDGE
+TAIL WHIP
+POISON STING
+TWINEEDLE
+PIN MISSILE
+LEER
+BITE
+GROWL
+ROAR
+SING
+SUPERSONIC
+SONICBOOM
+DISABLE
+ACID
+EMBER
+FLAMETHROWER
+MIST
+WATER GUN
+HYDRO PUMP
+SURF
+ICE BEAM
+BLIZZARD
+PSYBEAM
+BUBBLEBEAM
+AURORA BEAM
+HYPER BEAM
+PECK
+DRILL PECK
+SUBMISSION
+LOW KICK
+COUNTER
+SEISMIC TOSS
+STRENGTH
+ABSORB
+MEGA DRAIN
+LEECH SEED
+GROWTH
+RAZOR LEAF
+SOLARBEAM
+POISONPOWDER
+STUN SPORE
+SLEEP POWDER
+PETAL DANCE
+STRING SHOT
+DRAGON RAGE
+FIRE SPIN
+THUNDERSHOCK
+THUNDERBOLT
+THUNDER WAVE
+THUNDER
+ROCK THROW
+EARTHQUAKE
+FISSURE
+DIG
+TOXIC
+CONFUSION
+PSYCHIC
+HYPNOSIS
+MEDITATE
+AGILITY
+QUICK ATTACK
+RAGE
+TELEPORT
+NIGHT SHADE
+MIMIC
+SCREECH
+DOUBLE TEAM
+RECOVER
+HARDEN
+MINIMIZE
+SMOKESCREEN
+CONFUSE RAY
+WITHDRAW
+DEFENSE CURL
+BARRIER
+LIGHT SCREEN
+HAZE
+REFLECT
+FOCUS ENERGY
+BIDE
+METRONOME
+MIRROR MOVE
+SELFDESTRUCT
+EGG BOMB
+LICK
+SMOG
+SLUDGE
+BONE CLUB
+FIRE BLAST
+WATERFALL
+CLAMP
+SWIFT
+SKULL BASH
+SPIKE CANNON
+CONSTRICT
+AMNESIA
+KINESIS
+SOFTBOILED
+HI JUMP KICK
+GLARE
+DREAM EATER
+POISON GAS
+BARRAGE
+LEECH LIFE
+LOVELY KISS
+SKY ATTACK
+TRANSFORM
+BUBBLE
+DIZZY PUNCH
+SPORE
+FLASH
+PSYWAVE
+SPLASH
+ACID ARMOR
+CRABHAMMER
+EXPLOSION
+FURY SWIPES
+BONEMERANG
+REST
+ROCK SLIDE
+HYPER FANG
+SHARPEN
+CONVERSION
+TRI ATTACK
+SUPER FANG
+SLASH
+SUBSTITUTE
+STRUGGLE
+SKETCH
+TRIPLE KICK
+THIEF
+SPIDER WEB
+MIND READER
+NIGHTMARE
+FLAME WHEEL
+SNORE
+CURSE
+FLAIL
+CONVERSION 2
+AEROBLAST
+COTTON SPORE
+REVERSAL
+SPITE
+POWDER SNOW
+PROTECT
+MACH PUNCH
+SCARY FACE
+FAINT ATTACK
+SWEET KISS
+BELLY DRUM
+SLUDGE BOMB
+MUD-SLAP
+OCTAZOOKA
+SPIKES
+ZAP CANNON
+FORESIGHT
+DESTINY BOND
+PERISH SONG
+ICY WIND
+DETECT
+BONE RUSH
+LOCK-ON
+OUTRAGE
+SANDSTORM
+GIGA DRAIN
+ENDURE
+CHARM
+ROLLOUT
+FALSE SWIPE
+SWAGGER
+MILK DRINK
+SPARK
+FURY CUTTER
+STEEL WING
+MEAN LOOK
+ATTRACT
+SLEEP TALK
+HEAL BELL
+RETURN
+PRESENT
+FRUSTRATION
+SAFEGUARD
+PAIN SPLIT
+SACRED FIRE
+MAGNITUDE
+DYNAMICPUNCH
+MEGAHORN
+DRAGONBREATH
+BATON PASS
+ENCORE
+PURSUIT
+RAPID SPIN
+SWEET SCENT
+IRON TAIL
+METAL CLAW
+VITAL THROW
+MORNING SUN
+SYNTHESIS
+MOONLIGHT
+HIDDEN POWER
+CROSS CHOP
+TWISTER
+RAIN DANCE
+SUNNY DAY
+CRUNCH
+MIRROR COAT
+PSYCH UP
+EXTREMESPEED
+ANCIENTPOWER
+SHADOW BALL
+FUTURE SIGHT
+ROCK SMASH
+WHIRLPOOL
+BEAT UP
+FAKE OUT
+UPROAR
+STOCKPILE
+SPIT UP
+SWALLOW
+HEAT WAVE
+HAIL
+TORMENT
+FLATTER
+WILL-O-WISP
+MEMENTO
+FACADE
+FOCUS PUNCH
+SMELLINGSALT
+FOLLOW ME
+NATURE POWER
+CHARGE
+TAUNT
+HELPING HAND
+TRICK
+ROLE PLAY
+WISH
+ASSIST
+INGRAIN
+SUPERPOWER
+MAGIC COAT
+RECYCLE
+REVENGE
+BRICK BREAK
+YAWN
+KNOCK OFF
+ENDEAVOR
+ERUPTION
+SKILL SWAP
+IMPRISON
+REFRESH
+GRUDGE
+SNATCH
+SECRET POWER
+DIVE
+ARM THRUST
+CAMOUFLAGE
+TAIL GLOW
+LUSTER PURGE
+MIST BALL
+FEATHERDANCE
+TEETER DANCE
+BLAZE KICK
+MUD SPORT
+ICE BALL
+NEEDLE ARM
+SLACK OFF
+HYPER VOICE
+POISON FANG
+CRUSH CLAW
+BLAST BURN
+HYDRO CANNON
+METEOR MASH
+ASTONISH
+WEATHER BALL
+AROMATHERAPY
+FAKE TEARS
+AIR CUTTER
+OVERHEAT
+ODOR SLEUTH
+ROCK TOMB
+SILVER WIND
+METAL SOUND
+GRASSWHISTLE
+TICKLE
+COSMIC POWER
+WATER SPOUT
+SIGNAL BEAM
+SHADOW PUNCH
+EXTRASENSORY
+SKY UPPERCUT
+SAND TOMB
+SHEER COLD
+MUDDY WATER
+BULLET SEED
+AERIAL ACE
+ICICLE SPEAR
+IRON DEFENSE
+BLOCK
+HOWL
+DRAGON CLAW
+FRENZY PLANT
+BULK UP
+BOUNCE
+MUD SHOT
+POISON TAIL
+COVET
+VOLT TACKLE
+MAGICAL LEAF
+WATER SPORT
+CALM MIND
+LEAF BLADE
+DRAGON DANCE
+ROCK BLAST
+SHOCK WAVE
+WATER PULSE
+DOOM DESIRE
+PSYCHO BOOST
+<<< FILE: src/data/text/nature_names.h >>>
+HARDY
+LONELY
+BRAVE
+ADAMANT
+NAUGHTY
+BOLD
+DOCILE
+RELAXED
+IMPISH
+LAX
+TIMID
+HASTY
+SERIOUS
+JOLLY
+NAIVE
+MODEST
+MILD
+QUIET
+BASHFUL
+RASH
+CALM
+GENTLE
+SASSY
+CAREFUL
+QUIRKY
+<<< FILE: src/data/text/quest_log.h >>>
+Previously on your quest…
+{PLAYER} switched the POKéMON\n{STR_VAR_1} with {STR_VAR_2}.
+Took the item {STR_VAR_2} from\n{STR_VAR_1} and gave it the item\n{STR_VAR_3} to hold.
+Took the item {STR_VAR_2} from\n{STR_VAR_1}.
+Used the item {STR_VAR_1} on {STR_VAR_2}\nat this location.
+{PLAYER} used the\n{STR_VAR_1}.
+Used the item {STR_VAR_1}, which was\nin the KEY ITEMS POCKET.
+{STR_VAR_1} learned the move\n{STR_VAR_2} from a TM.
+{STR_VAR_1} learned the move\n{STR_VAR_2} from a TM and forgot\nthe move {STR_VAR_3}.
+POKéMON were fully restored\nat a POKéMON CENTER.
+{DYNAMIC 0x00} had a marvelous battle\nwith the CHAMPION, {DYNAMIC 0x01}.
+In the end, {DYNAMIC 0x00} sent out {DYNAMIC 0x01}\nwhile {DYNAMIC 0x02} countered with\n{DYNAMIC 0x03}.
+And, as a result of battling with every\nbit of power, {DYNAMIC 0x00} won\nthe match.
+Removed the item {STR_VAR_1} from\nthe BAG's ITEMS POCKET and stored it\non the PC.
+{PLAYER} withdrew the item {STR_VAR_1}\nfrom the PC.
+Traded {STR_VAR_3} in exchange for\n{STR_VAR_1}'s {STR_VAR_2}.
+Took on {DYNAMIC 0x00} in a SINGLE BATTLE.\nIt was a hotly contested match that\nresulted in a {DYNAMIC 0x01}.
+Took on {DYNAMIC 0x00} in a DOUBLE BATTLE.\nIt was an extended match that resulted\nin a {DYNAMIC 0x01}.
+{DYNAMIC 0x00} and {DYNAMIC 0x01} took on\n{DYNAMIC 0x02} and {DYNAMIC 0x03} in a\nMULTI BATTLE and got a {DYNAMIC 0x04}.
+win
+loss
+Mingled with other TRAINERS in\nthe UNION ROOM.
+Departed {STR_VAR_2}\nin {STR_VAR_1} for the next\ndestination.
+After consideration, switched\n{DYNAMIC 0x01} in {DYNAMIC 0x00} with\n{DYNAMIC 0x03} in {DYNAMIC 0x02}.
+After deep thought, switched\n{DYNAMIC 0x01} in BOX “{DYNAMIC 0x00}” to\nthe BOX “{DYNAMIC 0x02}.”
+Switched around {DYNAMIC 0x01} and\n{DYNAMIC 0x02} in {DYNAMIC 0x00}.
+Moved {DYNAMIC 0x01} in {DYNAMIC 0x00}.
+Switched {DYNAMIC 0x01} in {DYNAMIC 0x00}\nwith {DYNAMIC 0x02} in the party.
+Added {DYNAMIC 0x01} in {DYNAMIC 0x00}\nto the party.
+Moved {DYNAMIC 0x00} from the party\nto {DYNAMIC 0x01}.
+Moved a group of POKéMON in\n{DYNAMIC 0x00} to {DYNAMIC 0x01}.
+a different spot
+Removed the item {STR_VAR_1} from\n{PLAYER}'s PC and gave it to {STR_VAR_2}\nto hold.
+Removed the item {STR_VAR_1} from\na PC, gave it to {STR_VAR_2}, and put\nthe {STR_VAR_3} it held in the BAG.
+Chatted with many TRAINERS.
+handily
+tenaciously
+somehow
+Met and traded with {STR_VAR_1}.\nObtained the TRAINER's {STR_VAR_2} in\nexchange for {STR_VAR_3}.
+Met and battled {STR_VAR_1}.\nThe match ended in a {STR_VAR_2}.
+Went to the POKéMON MART in\n{DYNAMIC 0x00} and bought one \n{DYNAMIC 0x01}.
+Went to the POKéMON MART in\n{DYNAMIC 0x00} and spent ¥{DYNAMIC 0x02} for\nitems including {DYNAMIC 0x01}(s).
+{DYNAMIC 0x00} went to the POKéMON MART in\n{DYNAMIC 0x01} and sold {DYNAMIC 0x03} of\nthe item {DYNAMIC 0x02}.
+Sold items including {DYNAMIC 0x01} at\nthe POKéMON MART in {DYNAMIC 0x00},\nworth ¥{DYNAMIC 0x02}.
+just one
+{DYNAMIC 0x04}
+{STR_VAR_1} shared its HP using the move\nSOFTBOILED.
+{STR_VAR_1} shared its HP using the move\nMILK DRINK.
+{STR_VAR_1} securely learned the move\n{STR_VAR_2} using an HM.
+{STR_VAR_1} securely learned the move\n{STR_VAR_2} using an HM and forgot\nthe move {STR_VAR_3}.
+{DYNAMIC 0x05} managed to defeat the POKéMON\n{DYNAMIC 0x01} in {DYNAMIC 0x00}.
+Defeated {DYNAMIC 0x02} wild POKéMON including\n{DYNAMIC 0x01} in {DYNAMIC 0x00}.
+{DYNAMIC 0x05} managed to catch the POKéMON\n{DYNAMIC 0x03} in {DYNAMIC 0x00}.
+Threw POKé BALLS in a frenzy, catching\n{DYNAMIC 0x04} POKéMON including {DYNAMIC 0x03} here\nin {DYNAMIC 0x00}.
+{DYNAMIC 0x05} defeated the POKéMON\n{DYNAMIC 0x01} and caught one {DYNAMIC 0x03}\nin {DYNAMIC 0x00}.
+Defeated the POKéMON {DYNAMIC 0x01}\nand caught {DYNAMIC 0x04} POKéMON including\n{DYNAMIC 0x03} in {DYNAMIC 0x00}.
+{DYNAMIC 0x05} defeated {DYNAMIC 0x02} POKéMON including\n{DYNAMIC 0x01} and caught one {DYNAMIC 0x03}\nin {DYNAMIC 0x00}.
+Defeated {DYNAMIC 0x02} POKéMON including\n{DYNAMIC 0x01} and caught {DYNAMIC 0x04} POKéMON\nincluding {DYNAMIC 0x03} in {DYNAMIC 0x00}.
+Made {STR_VAR_1} hold the item\n{STR_VAR_2}.
+{PLAYER} made {STR_VAR_1} hold the item\n{STR_VAR_2}.
+{STR_VAR_1} used the Hidden Move\nCUT here.
+{STR_VAR_1} used the Hidden Move\nFLY and flew to {STR_VAR_2}.
+{STR_VAR_1} used the Hidden Move\nSURF and rode the waves.
+{STR_VAR_1} used the Hidden Move\nSTRENGTH here.
+{STR_VAR_1} used the Hidden Move\nFLASH and illuminated a pitch-black\ncave.
+{STR_VAR_1} used the Hidden Move\nROCK SMASH here.
+{STR_VAR_1} used the Hidden Move\nWATERFALL to scale a raging torrent.
+{STR_VAR_1}は　ふかい　ところを　めざし\nひでんわざ\nダイビングを　つかった！
+{STR_VAR_1} used DIG to escape from\n{STR_VAR_2}.
+{STR_VAR_1} used SWEET SCENT to attract\nwild POKéMON.
+{STR_VAR_1} used TELEPORT, transporting\nthe party to {STR_VAR_2}'s\n{STR_VAR_3}.
+{PLAYER} left {STR_VAR_1}'s\n{STR_VAR_2} for the next\ndestination.
+Played a lot of games at the ROCKET\nGAME CORNER in {STR_VAR_1}.
+{PLAYER} rested comfortably at home.
+{PLAYER} left PROF. OAK's POKéMON\nRESEARCH LAB.
+The GYM in {STR_VAR_1} was full of\ntough TRAINERS…\nPreparations had to be made.
+Departed the GYM in {STR_VAR_1}.
+{PLAYER} had a great time with POKéMON\nin the SAFARI ZONE.
+Managed to get out of {STR_VAR_2}\nafter wandering about.
+Took on {DYNAMIC 0x00} GYM LEADER\n{DYNAMIC 0x01}'s {DYNAMIC 0x02} with {DYNAMIC 0x03}\nand won {DYNAMIC 0x04}!
+Took on ELITE FOUR {DYNAMIC 0x00}'s\n{DYNAMIC 0x01} with {DYNAMIC 0x02} and\nwon {DYNAMIC 0x03}!
+In {DYNAMIC 0x00}, took on\n{DYNAMIC 0x01}'s {DYNAMIC 0x02} with {DYNAMIC 0x03}\nand won {DYNAMIC 0x04}!
+coolly
+barely
+{PLAYER} used an ESCAPE ROPE to get\nout from {STR_VAR_2}.
+draw
+Departed from the {STR_VAR_2}\nfor the next destination.
+{PLAYER} departed from\n{STR_VAR_2} and made way\nto the next destination.
+Here in {STR_VAR_1}, {PLAYER}\nobtained the item {STR_VAR_2}.
+Arrived in {STR_VAR_1}.
+And {PLAYER} saved the game at this\nlocation: {STR_VAR_1}.
+HOME
+OAK RESEARCH LAB
+GYM
+POKéMON LEAGUE GATE
+VIRIDIAN FOREST
+PEWTER MUSEUM OF SCIENCE
+MT. MOON
+BIKE SHOP
+BILL'S HOUSE
+DAY CARE
+UNDERGROUND PATH
+POKéMON FAN CLUB
+S.S. ANNE
+DIGLETT'S CAVE
+ROCK TUNNEL
+POWER PLANT
+POKéMON TOWER
+VOLUNTEER HOUSE
+NAME RATER'S HOUSE
+CELADON DEPT. STORE
+CELADON MANSION
+ROCKET GAME CORNER
+RESTAURANT
+ROCKET HIDEOUT
+SAFARI ZONE
+WARDEN'S HOME
+FIGHTING DOJO
+SILPH CO.
+SEAFOAM ISLANDS
+POKéMON MANSION
+POKéMON RESEARCH LAB
+VICTORY ROAD
+POKéMON LEAGUE
+CERULEAN CAVE
+<<< FILE: src/data/text/species_names.h >>>
+??????????
+BULBASAUR
+IVYSAUR
+VENUSAUR
+CHARMANDER
+CHARMELEON
+CHARIZARD
+SQUIRTLE
+WARTORTLE
+BLASTOISE
+CATERPIE
+METAPOD
+BUTTERFREE
+WEEDLE
+KAKUNA
+BEEDRILL
+PIDGEY
+PIDGEOTTO
+PIDGEOT
+RATTATA
+RATICATE
+SPEAROW
+FEAROW
+EKANS
+ARBOK
+PIKACHU
+RAICHU
+SANDSHREW
+SANDSLASH
+NIDORAN♀
+NIDORINA
+NIDOQUEEN
+NIDORAN♂
+NIDORINO
+NIDOKING
+CLEFAIRY
+CLEFABLE
+VULPIX
+NINETALES
+JIGGLYPUFF
+WIGGLYTUFF
+ZUBAT
+GOLBAT
+ODDISH
+GLOOM
+VILEPLUME
+PARAS
+PARASECT
+VENONAT
+VENOMOTH
+DIGLETT
+DUGTRIO
+MEOWTH
+PERSIAN
+PSYDUCK
+GOLDUCK
+MANKEY
+PRIMEAPE
+GROWLITHE
+ARCANINE
+POLIWAG
+POLIWHIRL
+POLIWRATH
+ABRA
+KADABRA
+ALAKAZAM
+MACHOP
+MACHOKE
+MACHAMP
+BELLSPROUT
+WEEPINBELL
+VICTREEBEL
+TENTACOOL
+TENTACRUEL
+GEODUDE
+GRAVELER
+GOLEM
+PONYTA
+RAPIDASH
+SLOWPOKE
+SLOWBRO
+MAGNEMITE
+MAGNETON
+FARFETCH'D
+DODUO
+DODRIO
+SEEL
+DEWGONG
+GRIMER
+MUK
+SHELLDER
+CLOYSTER
+GASTLY
+HAUNTER
+GENGAR
+ONIX
+DROWZEE
+HYPNO
+KRABBY
+KINGLER
+VOLTORB
+ELECTRODE
+EXEGGCUTE
+EXEGGUTOR
+CUBONE
+MAROWAK
+HITMONLEE
+HITMONCHAN
+LICKITUNG
+KOFFING
+WEEZING
+RHYHORN
+RHYDON
+CHANSEY
+TANGELA
+KANGASKHAN
+HORSEA
+SEADRA
+GOLDEEN
+SEAKING
+STARYU
+STARMIE
+MR. MIME
+SCYTHER
+JYNX
+ELECTABUZZ
+MAGMAR
+PINSIR
+TAUROS
+MAGIKARP
+GYARADOS
+LAPRAS
+DITTO
+EEVEE
+VAPOREON
+JOLTEON
+FLAREON
+PORYGON
+OMANYTE
+OMASTAR
+KABUTO
+KABUTOPS
+AERODACTYL
+SNORLAX
+ARTICUNO
+ZAPDOS
+MOLTRES
+DRATINI
+DRAGONAIR
+DRAGONITE
+MEWTWO
+MEW
+CHIKORITA
+BAYLEEF
+MEGANIUM
+CYNDAQUIL
+QUILAVA
+TYPHLOSION
+TOTODILE
+CROCONAW
+FERALIGATR
+SENTRET
+FURRET
+HOOTHOOT
+NOCTOWL
+LEDYBA
+LEDIAN
+SPINARAK
+ARIADOS
+CROBAT
+CHINCHOU
+LANTURN
+PICHU
+CLEFFA
+IGGLYBUFF
+TOGEPI
+TOGETIC
+NATU
+XATU
+MAREEP
+FLAAFFY
+AMPHAROS
+BELLOSSOM
+MARILL
+AZUMARILL
+SUDOWOODO
+POLITOED
+HOPPIP
+SKIPLOOM
+JUMPLUFF
+AIPOM
+SUNKERN
+SUNFLORA
+YANMA
+WOOPER
+QUAGSIRE
+ESPEON
+UMBREON
+MURKROW
+SLOWKING
+MISDREAVUS
+UNOWN
+WOBBUFFET
+GIRAFARIG
+PINECO
+FORRETRESS
+DUNSPARCE
+GLIGAR
+STEELIX
+SNUBBULL
+GRANBULL
+QWILFISH
+SCIZOR
+SHUCKLE
+HERACROSS
+SNEASEL
+TEDDIURSA
+URSARING
+SLUGMA
+MAGCARGO
+SWINUB
+PILOSWINE
+CORSOLA
+REMORAID
+OCTILLERY
+DELIBIRD
+MANTINE
+SKARMORY
+HOUNDOUR
+HOUNDOOM
+KINGDRA
+PHANPY
+DONPHAN
+PORYGON2
+STANTLER
+SMEARGLE
+TYROGUE
+HITMONTOP
+SMOOCHUM
+ELEKID
+MAGBY
+MILTANK
+BLISSEY
+RAIKOU
+ENTEI
+SUICUNE
+LARVITAR
+PUPITAR
+TYRANITAR
+LUGIA
+HO-OH
+CELEBI
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+TREECKO
+GROVYLE
+SCEPTILE
+TORCHIC
+COMBUSKEN
+BLAZIKEN
+MUDKIP
+MARSHTOMP
+SWAMPERT
+POOCHYENA
+MIGHTYENA
+ZIGZAGOON
+LINOONE
+WURMPLE
+SILCOON
+BEAUTIFLY
+CASCOON
+DUSTOX
+LOTAD
+LOMBRE
+LUDICOLO
+SEEDOT
+NUZLEAF
+SHIFTRY
+NINCADA
+NINJASK
+SHEDINJA
+TAILLOW
+SWELLOW
+SHROOMISH
+BRELOOM
+SPINDA
+WINGULL
+PELIPPER
+SURSKIT
+MASQUERAIN
+WAILMER
+WAILORD
+SKITTY
+DELCATTY
+KECLEON
+BALTOY
+CLAYDOL
+NOSEPASS
+TORKOAL
+SABLEYE
+BARBOACH
+WHISCASH
+LUVDISC
+CORPHISH
+CRAWDAUNT
+FEEBAS
+MILOTIC
+CARVANHA
+SHARPEDO
+TRAPINCH
+VIBRAVA
+FLYGON
+MAKUHITA
+HARIYAMA
+ELECTRIKE
+MANECTRIC
+NUMEL
+CAMERUPT
+SPHEAL
+SEALEO
+WALREIN
+CACNEA
+CACTURNE
+SNORUNT
+GLALIE
+LUNATONE
+SOLROCK
+AZURILL
+SPOINK
+GRUMPIG
+PLUSLE
+MINUN
+MAWILE
+MEDITITE
+MEDICHAM
+SWABLU
+ALTARIA
+WYNAUT
+DUSKULL
+DUSCLOPS
+ROSELIA
+SLAKOTH
+VIGOROTH
+SLAKING
+GULPIN
+SWALOT
+TROPIUS
+WHISMUR
+LOUDRED
+EXPLOUD
+CLAMPERL
+HUNTAIL
+GOREBYSS
+ABSOL
+SHUPPET
+BANETTE
+SEVIPER
+ZANGOOSE
+RELICANTH
+ARON
+LAIRON
+AGGRON
+CASTFORM
+VOLBEAT
+ILLUMISE
+LILEEP
+CRADILY
+ANORITH
+ARMALDO
+RALTS
+KIRLIA
+GARDEVOIR
+BAGON
+SHELGON
+SALAMENCE
+BELDUM
+METANG
+METAGROSS
+REGIROCK
+REGICE
+REGISTEEL
+KYOGRE
+GROUDON
+RAYQUAZA
+LATIAS
+LATIOS
+JIRACHI
+DEOXYS
+CHIMECHO
+<<< FILE: src/data/text/teachy_tv.h >>>
+Teach me how to battle.
+What are status problems?
+What are type matchups?
+I want to catch POKéMON.
+Teach me about TMs.
+How do I register an item?
+CANCEL
+Hey, all you TRAINERS out there!\nHELLO, TRAINERS!\p……… ……… ………\pCome on, let me hear you!\nHELLO, TRAINERS!\lIt's me, the POKé DUDE!\p
+Today, the POKé DUDE's here to\ntell you about how you can battle\lPOKéMON!\pSay you're out for a stroll when,\nsuddenly, a wild POKéMON appears!\pIt's up to you to smartly use your\nPOKéMON and their moves to reduce\lthe opponent's HP to nothing, and\lclaim victory!\pI'll show you how to do that in\nperson and for sure!\pAll righty, here goes!\pKeep your eyes glued to the super\nPOKé DUDE SHOW!
+Well, did you get that?\pEven if your own POKéMON's HP\nfalls to zero, and it becomes\lunable to battle, not to worry!\pJust take it to any POKéMON\nCENTER and heal it!\pAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!
+Today, the POKé DUDE's here to\ntell you about status problems!\pStatus problems include poisoning,\nparalysis, sleep, burn…\pThere are a couple others, but\nthey really are trouble.\pGet any one, and your POKéMON\nmay become useless in battle.\pYou know, it hurts the POKé DUDE\nto see a POKéMON suffer…\pSo, what should you do if your\nPOKéMON gets a status problem?\pWell, you've got me to show you!\pAll righty, here goes!\pKeep your eyes glued to the super\nPOKé DUDE SHOW!
+Poisoning or paralysis don't go\naway after a battle.\pIf a POKéMON is poisoned, it loses\nHP even while you're walking.\pYou should heal POKéMON of these\nkinds of problems right away.\pUse an item, or try to get to a\nPOKéMON CENTER for healing.\pThat wasn't hard, was it?\nAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!
+Does everyone know about type\nmatchups?\pPOKéMON and their moves all\nbelong to certain types.\pFor example, there are such types\nas GRASS and WATER.\pYou need to consider the type of\nthe move used to attack…\pAnd, the type of the POKéMON that\nis hit by that attack.\pDepending on how those two types\nmatch up, the damage can change.\pYou see, it depends on whether\nthe type matchup is good or bad.\pIf you don't know how matchups\nwork, battles will be tough.\pSo, let me demonstrate exactly\nwhat I mean.\pAll righty, here goes!\pKeep your eyes glued to the super\nPOKé DUDE SHOW!
+Is it possible to launch an attack\nthat will inflict heavy damage?\pDoes the opposing POKéMON pose\na threat to your POKéMON?\pIs there any chance that it may\nhave disastrously tough moves?\pWatch the type matchups to gain\nthe upper hand!\pAll righty, be seeing you!\pOh, for the COOL-type POKé DUDE,\nAWESOME-type kids like you match\lup perfectly!\pRemember, a good deed a day\nbrings happiness to stay!
+Today, the POKé DUDE's going to\nshow you how to catch POKéMON!\pJust imagine… A groovy POKéMON\nsuddenly appearing in the wild!\pOh, you want it!\nYou just can't help it!\pOh, you have to catch it!\nYou gotta have it!\pLet me show you how you can make\nit happen!\pAll righty, here goes!\pKeep your eyes glued to the super\nPOKé DUDE SHOW!
+If your first POKé BALL fails to\ncatch the POKéMON, don't give up!\pKeep throwing POKé BALLS…\nIt's bound to work sometime!\pAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!
+Hey, everyone!\nDo you all have TMs?\pA TM, Technical Machine, is an\namazingly great item!\pIt teaches POKéMON a move that\nit may not learn when leveling up!\pIsn't that just great? What a\nconvenient world we live in!\pOpen the TM CASE and check out\nthe TMs you have.\pYou can check them out in detail,\ntoo.
+POKé DUDE: NORMAL, WATER, GRASS…\nTMs also come in types.\pCheck the type and teach it to\na POKéMON that matches up well.\pFor example, WATER PULSE is\nsuitable for WATER-type POKéMON.\pBULLET SEED is a move that most\nGRASS-type POKéMON can learn.\pThere's one other thing!
+Don't just look at the type, read\nthe description, too.\pIt will contain hints about what\nPOKéMON might learn the move.\pFor example, take a move like\nFOCUS PUNCH.\pIt doesn't sound like anything a\nbird or fish POKéMON can learn.\pSo, try using it on POKéMON with\narms that can throw punches!
+Wow, I talked a lot today!\nAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!
+A TRAINER's BAG has a bunch of\nnifty, convenient features!\pTake stuff in the KEY ITEMS\nPOCKET, for instance.\pYou can use a key item without\nopening the BAG every time.\pFor example, let's pretend I have\na TEACHY TV in my BAG.\pI can register it for instant use,\nand I'll show you how!\pAll righty, here goes!\pKeep your eyes glued to the sorta\nsuper POKé DUDE SHOW!
+And now, your TEACHY TV is\nregistered.\pHow do you use it?\nWell, here's how it works.\pOnce an item in the KEY ITEMS\nPOKCET is registered, you can use\lit by pressing SELECT.\pSo, you've given yourself\none-touch access to TEACHY TV.\pAll it takes for you to see me is\npressing one button!\pThat kind of attention is a little\nembarrassing!\pAll righty, be seeing you!\pRemember, TRAINERS, a good deed\na day brings happiness to stay!
+<<< FILE: src/data/text/trainer_class_names.h >>>
+{PKMN} TRAINER
+{PKMN} TRAINER
+AQUA LEADER
+TEAM AQUA
+AROMA LADY
+RUIN MANIAC
+INTERVIEWER
+TUBER
+TUBER
+COOLTRAINER
+HEX MANIAC
+LADY
+BEAUTY
+RICH BOY
+POKéMANIAC
+SWIMMER♂
+BLACK BELT
+GUITARIST
+KINDLER
+CAMPER
+BUG MANIAC
+PSYCHIC
+GENTLEMAN
+ELITE FOUR
+LEADER
+SCHOOL KID
+SR. AND JR.
+POKéFAN
+EXPERT
+YOUNGSTER
+CHAMPION
+FISHERMAN
+TRIATHLETE
+DRAGON TAMER
+BIRD KEEPER
+NINJA BOY
+BATTLE GIRL
+PARASOL LADY
+SWIMMER♀
+PICNICKER
+TWINS
+SAILOR
+BOARDER
+COLLECTOR
+{PKMN} TRAINER
+{PKMN} BREEDER
+{PKMN} RANGER
+MAGMA LEADER
+TEAM MAGMA
+LASS
+BUG CATCHER
+HIKER
+YOUNG COUPLE
+OLD COUPLE
+SIS AND BRO
+AQUA ADMIN
+MAGMA ADMIN
+YOUNGSTER
+BUG CATCHER
+LASS
+SAILOR
+CAMPER
+PICNICKER
+POKéMANIAC
+SUPER NERD
+HIKER
+BIKER
+BURGLAR
+ENGINEER
+FISHERMAN
+SWIMMER♂
+CUE BALL
+GAMER
+BEAUTY
+SWIMMER♀
+PSYCHIC
+ROCKER
+JUGGLER
+TAMER
+BIRD KEEPER
+BLACK BELT
+RIVAL
+SCIENTIST
+BOSS
+LEADER
+TEAM ROCKET
+COOLTRAINER
+ELITE FOUR
+GENTLEMAN
+RIVAL
+CHAMPION
+CHANNELER
+TWINS
+COOL COUPLE
+YOUNG COUPLE
+CRUSH KIN
+SIS AND BRO
+{PKMN} PROF.
+PLAYER
+CRUSH GIRL
+TUBER
+{PKMN} BREEDER
+{PKMN} RANGER
+AROMA LADY
+RUIN MANIAC
+LADY
+PAINTER

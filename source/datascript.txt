@@ -1,0 +1,122 @@
+<<< FILE: scripts/cable_club.inc >>>
+Welcome to the POKéMON CABLE\nCLUB.\pWhich of our services do you wish\nto use?
+Which of our services do you wish\nto use?
+Trade POKéMON with another player\nusing a GBA Game Link cable.
+You may battle another TRAINER\nusing a GBA Game Link cable.
+おわります
+For a DOUBLE BATTLE, you must\nhave at least two POKéMON.
+For trading, you must have at\nleast two POKéMON with you.
+A POKéMON holding the {STR_VAR_1}\nBERRY can't be traded.
+Please wait.\n… … B Button: Cancel
+When all players are ready…\nA Button: Confirm\lB Button: Cancel
+Start link with {STR_VAR_1} players.\nA Button: Confirm\lB Button: Cancel
+Awaiting linkup…\n… … B Button: Cancel
+はじめる　まえに　レポートを\nかきますが　よろしいですか？
+Please enter.
+I'll direct you to your room now.
+Someone is not ready to link.\pPlease come back after everyone\nhas made preparations.
+Sorry, we have a link error…\nPlease reset and try again.
+The link partners appear to have\nmade different selections.
+Please do visit again.
+The number of participants is\nincorrect.
+The SINGLE BATTLE Mode can't be\nplayed by {STR_VAR_1} players.
+The DOUBLE BATTLE Mode can't be\nplayed by {STR_VAR_1} players.
+There must be four players to play\nthis Battle Mode.
+Please confirm the number of\nplayers and start again.
+The link will be terminated if you\nleave the room. Is that okay?
+Terminating link…\nYou will be escorted out of\lthe room. Please wait.
+This TRAINER is too busy to\nnotice…
+Score! Got to look at {STR_VAR_1}'s\nTRAINER CARD!
+Score! Got to look at {STR_VAR_1}'s\nTRAINER CARD!\pIt's a {STR_VAR_2} card!
+Please take your seat and start\nyour battle.
+Please take your seat and start\nyour trade.
+ごりよう　ありがとう　ございました
+The TRAINER CARD data will\nbe overwritten.
+I hope to see you again!
+I'm awfully sorry.\pWe're not set up to conduct trades\nwith TRAINERS far away in another\lregion yet…
+The other TRAINER is not ready.
+You have at least one POKéMON\nthat can't be taken.
+The Wireless Adapter is not\nconnected properly.
+Participants are asked to step up\nto the reception counter.
+こんにちは！
+しょうしょう　おまちください
+You may trade your POKéMON here\nwith another TRAINER.
+You may battle with your friends\nhere.
+Two to five TRAINERS can make\nBERRY POWDER together.
+ワイヤレス　クラブでの\nあそびかたを　せつめいします
+Cancels the selected MENU item.
+どちらの　しょうぶに　しますか？
+ひとつ　まえに　もどります
+To use the BERRY CRUSH service,\nyou must have at least one BERRY.
+To enter the UNION ROOM, you must\nhave at least two POKéMON.
+No POKéMON holding the {STR_VAR_1}\nBERRY may enter the UNION ROOM.
+This is the POKéMON WIRELESS CLUB\nUNION ROOM.\pUnfortunately, your Wireless\nAdapter is not connected properly.\pPlease do come again.
+あ‥‥\nおきゃくさま！
+It appears as if {STR_VAR_1} is playing\nright now.\lGo for it!
+I can explain game rules to you,\nif you'd like.\pWhich game should I describe?
+“POKéMON JUMP”\pMake your POKéMON skip the\nVINE WHIP rope with the A Button.\pOnly mini POKéMON around 28 inches\nor less may participate.\pPOKéMON that only swim, burrow, or\nfly are not good at jumping.\pAs a result, those POKéMON may not\nparticipate.\pGood things happen if everyone\njumps in time.
+“DODRIO BERRY-PICKING”\pCommand DODRIO's three heads to\ncatch falling BERRIES.\pPress right, up, or left on the\n{PLUS} Control Pad to move the heads.\pTo play this game, you must have\na DODRIO.
+If you want to play a game,\nplease tell the man beside me.
+Hi, welcome!\nYou can play games over the\lWireless Communication System.\pCan you wait just a little bit?
+All right, come again!
+The Wireless Adapter isn't\nconnected.\pCome back when it's hooked up!
+All right, which game did you want\nto play?
+Which POKéMON would you like to\nenter?
+Okay, you're all good to go.\nDon't let the others beat you!
+きょうは　けえるのか？\nまたこいよ！
+It doesn't look like you have any\nPOKéMON that you can enter…\pWould you like me to explain what\nkinds of POKéMON can enter?
+“POKéMON JUMP” is open to POKéMON\naround 28 inches or less.\pWhat you can't enter are those\nPOKéMON that can't jump.\pYou know, like POKéMON that only\nswim, burrow, or fly.\pThat's all you need to know.
+“DODRIO BERRY-PICKING”…\nWell, the name says it all.\pYou have to have a DODRIO to play\nthis game.
+もういちど　はじめから\nやりなおして　みて　くれ
+Welcome to the POKéMON WIRELESS\nCLUB DIRECT CORNER.\pYou may interact directly with\nyour friends here.\pWhich room would you like to\nenter?
+Would you like to trade POKéMON?
+Which Battle Mode would you like\nto play?
+Would you like to use the\nBERRY CRUSH System?
+There are three Battle Modes.\pSINGLE BATTLE is for two TRAINERS\nwith one or more POKéMON each.\pEach TRAINER can have one POKéMON\nin battle at a time.\pDOUBLE BATTLE is for two TRAINERS\nwith two or more POKéMON each.\pEach TRAINER will send out two\nPOKéMON in battle at a time.\pMULTI BATTLE is for four TRAINERS\nwith one or more POKéMON each.\pEach TRAINER can have one POKéMON\nin battle at a time.
+Please decide which of you two\nwill become the LEADER.\pThe other player must then choose\n“JOIN GROUP.”
+Please decide which of you four\nwill become the GROUP LEADER.\pThe other players must then choose\n“JOIN GROUP.”
+Please decide which of you will\nbecome the GROUP LEADER.\pThe other players must then choose\n“JOIN GROUP.”
+Welcome to the POKéMON WIRELESS\nCLUB UNION ROOM.\pYou may interact directly with\nother TRAINERS here, some of\lwhom you may not even know.\pWould you like to enter the ROOM?
+The TRAINERS in the UNION ROOM\nwill be those players around you\lwho have also entered the ROOM.\pYou may do all sorts of things\nhere, such as exchanging greetings.\pYou may enter two POKéMON up to\nLv. 30 for a one-on-one battle.\pYou may take part in a chat with\ntwo to five people.\pOr, you may register a POKéMON for\ntrade.\pWould you like to enter the ROOM?
+I hope you enjoy your time in\nthe UNION ROOM.
+Hello!\nMy name is TEALA.\pThis must be your first time\nup here.\pI'll show you how the Wireless\nCommunication System works.\pFirst, I need to show you this\nfloor of our POKéMON CENTER.\pRight this way, please.
+On the top floor, there are two\nrooms.\pFirst, the room on the left.\nIt's the UNION ROOM.\pYou may link up with TRAINERS\naround you who have also entered\lthe UNION ROOM.\pWith them, you may do things like\nchat, battle, and trade.\pSecond, the room on the right is\nthe DIRECT CORNER.\pYou may trade or battle POKéMON\nwith your friends in this room.\pIf the Wireless Adapter isn't\nconnected, you may still link up\lusing a GBA Game Link cable.\pIf that is the case, you must go\nto the DIRECT CORNER.\pI hope you enjoy the Wireless \nCommunication System.
+Hello, {PLAYER}!\pIt's me, TEALA, the POKéMON\nCENTER 2F attendant.\pIs there something you needed to\nask me about linking?
+Let me explain how the POKéMON\nWIRELESS CLUB works.\pOn this, the top floor, there are\ntwo rooms.\pFirst, the room on the left.\nIt's the UNION ROOM.\pYou may link up with TRAINERS\naround you who have also entered\lthe UNION ROOM.\pWith them, you may do things like\nchat, battle, and trade.\pSecond, the room on the right is\nthe DIRECT CORNER.\pYou may trade or battle POKéMON\nwith your friends in this room.\pSometimes, you may not be able to\nfind your friends in the UNION ROOM\lor the DIRECT CORNER.\pIn that case, please move closer\nto your friends.\pIf the Wireless Adapter isn't\nconnected, you may still link up\lusing a GBA Game Link cable.\pIf that is the case, you must go\nto the DIRECT CORNER.\pI hope you enjoy the Wireless \nCommunication System.
+I hope you enjoy the Wireless\nCommunication System.
+<<< FILE: scripts/field_moves.inc >>>
+This tree looks like it can be CUT\ndown!\pWould you like to CUT it?
+{STR_VAR_1} used {STR_VAR_2}!
+This tree looks like it can be CUT\ndown!
+This rock appears to be breakable.\nWould you like to use ROCK SMASH?
+It's a rugged rock, but a POKéMON\nmay be able to smash it.
+It's a big boulder, but a POKéMON\nmay be able to push it aside.\pWould you like to use STRENGTH?
+{STR_VAR_1} used STRENGTH!\p{STR_VAR_1}'s STRENGTH made it\npossible to move boulders around!
+It's a big boulder, but a POKéMON\nmay be able to push it aside.
+STRENGTH made it possible to move\nboulders around.
+A wall of water is crashing down\nwith a mighty roar.
+It's a large waterfall.\nWould you like to use WATERFALL?
+{STR_VAR_1} used WATERFALL.
+The sea is deep here. A POKéMON\nmay be able to go underwater.
+The sea is deep here.\nWould you like to use DIVE?
+{STR_VAR_1} used DIVE.
+Light is filtering down from above.\nA POKéMON may be able to surface.
+Light is filtering down from above.\nWould you like to use DIVE?
+There is an obstacle above.\nDIVE can't be used here.
+Looks like there's nothing here…
+<<< FILE: scripts/mystery_event_club.inc >>>
+Hi, glad to meet you!\p…That's unfriendly of you.\nHow about saying hi back?\pSo, come on, tell me about\nyourself.\pI'd love to hear your profile!
+Tell me something good about\nyourself. What's your profile?
+A profile is written using four\nwords or phrases.\pThere're plenty of words to choose\nfrom for your profile.\pThe words and phrases are placed\nin several convenient groups.\pFirst, choose a group, then choose\na word or phrase.\p…It's easier than it sounds.\nWhy don't you try it?
+What's your profile?
+Aww… Don't be like that.\nYou can tell me your profile.
+Oh, you've decided not to?\nYou're fickle, aren't you?
+Hi!\nWe meet again!
+Would you like to change your\nprofile?
+What are you like now?\nI'd really like to know.
+Okay, you like your profile the\nway it is.\pI think so, too.
+Hmhm…\pYour profile really says something\nabout who you are.\pNow that I know you better, it \nmakes us better friends than ever!
+Oh, I've heard that before…\pMy cousin, who lives far away,\nalways used to say that, I think.
+Please tell me more about\nyourself next time!
+<<< FILE: scripts/repel.inc >>>
+REPEL's effect wore off…

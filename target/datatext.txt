@@ -1,0 +1,1280 @@
+<<< FILE: text/aide.inc >>>
+Zobaczymy…\nO nie! Złapałeś tylko\l{STR_VAR_3} gatunków POKéMONÓW!\pPotrzebujesz {STR_VAR_1} gatunków\njeśli chcesz {STR_VAR_2}.
+…Och. Rozumiem.\pWpadnij po {STR_VAR_1}, gdy\nzdobędziesz już {STR_VAR_2} gatunków!
+Och! Nie widzę miejsca, gdzie\nzmieścisz {STR_VAR_2}.
+<<< FILE: text/day_care.inc >>>
+Jestem OPIEKUNEM.\pPomagam zająć się cennymi POKéMONAMI\nich TRENEROM.\pJeśli chcesz, bym wytrenował\ntwoje POKéMONY, zamień słówko z \pmoją żoną.
+Ach, to ty!\pTrenowaliśmy twoje POKéMONY, a tu\nnagle, zaskoczenie!\pJeden z twoich POKéMONÓW\pwysiadywał JAJO!\nNie wiemy skąd się tu wzięło,\pale miał je twój POKéMON. \nChcesz je, prawda?
+A, to ty! Dobrze cię widzieć.\nTwój {STR_VAR_1} ma się super.
+No to je zatrzymam.\nDziękuję!
+Nie masz na to miejsca…\nWróć, gdy zrobisz na to miejsce.
+{PLAYER} dostaje JAJO od\nOPIEKUNA.
+Zajmij się nim.
+ポケモンを　ひきとりたい　ときは\nばさんに　いって　おくれ
+Ach, to ty! Twoje {STR_VAR_1} i\n{STR_VAR_2} mają się świetnie.
+Naprawdę je zatrzymam.\nChcesz je, prawda?
+Jestem OPIEKUNKĄ.\pMożemy wytrenować twe POKéMONY.\pCzy chcesz, byśmy je wytrenowali?
+Który POKéMON miałby być\nwytrenowany?
+Świetnie, zajmiemy się twoim\n{STR_VAR_1}.\pPrzyjdź po niego później.
+Możemy wytrenować dwa twoje\pPOKéMONY.\nChcesz wytrenować jeszcze \pjednego POKéMONA?
+Mój mąż cię szukał.
+Och, dobrze.\nDo zobaczenia.
+Masz za mało pieniędzy…
+Czy chcesz też odzyskać tego\ndrugiego?
+Do zobaczenia.
+A, to ty!\nDobrze cię widzieć.\pTwoje POKéMONY świetnie sobie\nradzą!
+Poziomami twój {STR_VAR_1}\nurósł o {STR_VAR_2}.
+Twoja drużyna POKéMON jest pełna.\nZrób miejsce i wróć.
+どっちの　ポケモンを　ひきとるかい？
+Jeśli chcesz odzyskać\n{STR_VAR_1} musisz wpłacić\p¥{STR_VAR_2}
+Świetnie!\nOto twój POKéMON.
+{PLAYER} odebiera {STR_VAR_1} od\nOPIEKUNKI.
+Och? Ale masz tylko jednego\nPOKéMONA.\pZapraszamy ponownie.
+Czy chcesz odebrać POKéMONA?
+Jeśli zostawisz mi tego\nPOKéMONA, czym będziesz walczył?\pMusisz mieć chociaż 2.
+Co?
+<<< FILE: text/fame_checker.inc >>>
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Czym zajmuje się \nta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}LABORATOR.\nBADAWCZE OAKA
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Stworzyć kompletny przewodnik\npo świecie POKéMONÓW…\pTo było moim marzeniem!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Może nie wygląda, ale PROF. OAK to\nautorytet w dziedzinie POKéMONÓW.\pWielu TRENERÓW ma do niego wielki\nszacunek.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Według doniesień PROF.OAK\nmieszka ze swoimi wnukami, DAISY i {RIVAL}.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Podobno OAK bardzo się\ntobą zainteresował.\pTen stary dureń był kiedyś silny i\nprzystojny.\pAle to było wieki temu. Teraz\njest tylko cieniem samego siebie.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK będzie miał swój własny\nprogram w radiu.\pBędzie się nazywał KONWERSATORIUM\nPOKéMON OAKA.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Przy okazji, wiesz, o\nDAISY?\pJeśli pokażesz jej swoje POKéMONY,\npowie ci, jak bardzo cię lubią.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ale osobą, którą najbardziej lubi\nPOKéMONY jest pewnie DAISY.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Była jak słodki POKéMONEK...\nMalutki aniołek.\pImię tej małej dziewczynki...\nNazywała się chyba DAISY.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Według doniesień PROF.OAK\nmieszka ze swoimi wnukami, DAISY i {RIVAL}.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Dziewczynka z PALLET TOWN, DAISY,\ncodziennie piję HERBATKĘ.\pCzasami odwiedza DOM TOWAROWY\nceladon, by ją KUPIĆ.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Wiosennym Wielkim\nMistrzem KONKURSU POKéMON jest DAISY\lOAK z PALLET TOWN!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON PEWTER CITY\nLIDER: BROCK\lTRENER POKéMON twardy jak głaz!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMONA?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Moja twarda jak skała siła\nwoli jest widoczna nawet w moim POKéMONIE.\pMoje POKéMONY są twarde jak\nskała i mają prawdziwą determinację.\pZgadza się – wszystkie\nmoje POKéMONY są typu KAMIENNY!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nie ma tu żadnych poważnych\nTRENERÓW POKéMONÓW.\pWszyscy są ŁAPACZAMI ROBAKÓW,\nwiesz, zwykłymi hobbistami.\pAle BROCK z SALI w PEWTER jest\nzupełnie inny.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BROCK jest świetny. Nie tylko silny.\nLudzie lubią go i szanują.\pChciałbym zostać LIDEREM SALI, tak\njak on.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Witam, prowadzę wykopaliska w celu\nodnalezienia tu skamielin.\pCzasem pomaga mi\nBROCK z PEWTER CITY.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BROCK rzadko się śmieje,\nale podobno nie może przestać, jeśli zacznie.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON CERULEAN CITY\nLIDER: MISTY\lSyrenka Chłopczyca!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Moja taktyka, to ostry atak\nPOKéMONAMI typu WODNEGO!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}MISTY to TRENERKA, która staje się\nciągle lepsza.\pNie masz szans z kimś jej pokroju!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}W tych rejonach łatwo spotkać\nSilnych TRENERÓW i WODNE POKéMONY.\pPodobno MISTY z CERULEAN CITY\njest tu częstym gościem.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ta chatka to znane miejsce\pspotkań randkowiczów.\nMISTY, LIDER SALI, często odwiedza.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}MISTY podobno\nczci LORELEI z ELITARNEJ CZWÓRKI.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON VERMILION CITY\nLIDER: POR.SURGE\lElektryczny Amerykanin!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mówię ci, mały, elektryczne\nPOKéMONY uratowały mnie na wojnie!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Gdy byłem w Armii, POR. SURGE był\nmoim przełożonym.\pByło bardzo ciężko.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}POR. SURGE zawsze słynął w Armii ze\nswojej ostrożności.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}POR. SURGE sam zainstalował\npułapki w tej SALI.\pZainstalował wszędzie podwójne zamki.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} LT. SURGE podobno był\npilotem, gdy był w domu w Ameryce.\pUżywał elektryczności wytwarzanej przez\nPOKéMON, aby napędzać swój samolot.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON CELADON CITY\nLIDER: ERIKA\lNaturalna Księżniczka!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Jestem studentką sztuki\naranżacji kwiatów.\pMoje POKéMONY są wyłącznie typu\nTRAWIASTEGO.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nasza LIDERKA ERIKA może być\nspokojna, ale jest tutaj sławna!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}W tej SALI używamy tylko\nPOKéMONÓW TRAWIASTYCH.\pCzemu? Bo używamy ich też to\nukładania kwiatów!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nigdy nie zbierałabym\nbrzydkich POKéMONÓW.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Plotka głosi, że\njeśli zajrzysz do SIŁOWNI\lCELADON, często zobaczysz ERIKĘ drzemiącą.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON FUCHSIA CITY\nLIDER: KOGA\lTrujący Ninja
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Kłaniaj się przed potęgą\nTRUJĄCYCH POKéMONÓW!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mimo, iż przegrałem, nadal będę\ntrenował według wskazań mojego\lmistrza ninja, KOGI!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mój tata jest LIDEREM w tym\nmieście.\pTrenuję, by używać TRUJĄCYCH POKéMONÓW\ntak dobrze jak on.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mówi się, że\nKOGA ma dogłębną wiedzę medyczną.\pOn nawet sporządza lekarstwa,\naby wyleczyć swoje POKéMONY.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}STREFA SAFARI jest wielka,\nco nie?\pLIDER SALI w FUCHSIA KOGA,\npatroluje ten teren, gdy tylko może.\pDzięki temu, możemy się bawić\nwiedząc, że jesteśmy bezpieczni.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON SAFFRON CITY\nLIDER: SABRINA\lMistrzyni PSYCHO POKéMONÓW!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Słyszałeś o tej dziewczynie,\nLIDERCE z SAFFRON CITY?\pUżywa PSYCHICZNYCH POKéMONÓW,\ntak?
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mam psychiczne moce\nod dziecka.\pWszystko zaczęło się od\nwygięcia się rzuconej łyżki.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nie lubię walczyć, ale jeśli chcesz\npokażę ci co umiem!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ludzie mówią, że\nSABRINA potrafi komunikować się ze swoimi\lPOKéMONAMI podczas walki bez mówienia.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SABRINA skopała przed chwilą\nMISTRZA KARATE.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SALA POKéMON WYSPY CINNABAR\nLIDER: BLAINE\lGorący Mistrz Quizów!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Moje ogniste POKéMONY są twarde i\ngotowe na gorący pojedynek!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nasz LIDER, BLAINE, zgubił się\nkiedyś w górach.\pGdy zapadła noc, pojawił się ognisty\nptasi POKéMON.\pJego światło pozwoliło BLAINE'OWI\nodnaleźć drogę na dół.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BLAINE z SALI CINNABAR to stary\nkoleś.\pŻył na tej wyspie już wtedy, gdy nie\nbyło tu jeszcze LABORATORIUM.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}To zdjęcie BLAINE'A i\nPANA FUJI.\pStoją ramie w ramie. Promieniują\nszczerymi uśmiechami.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mówi się, że BLAINE\nzdejmuje swoje ciemne okulary tylko wtedy,\lgdy wymyśla nowe pytania do quizu.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nazywam się LORELEI zELITARNEJ CZWÓRKI.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nikt nie pobije moich lodowych\nPOKéMONÓW.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Gdzie urodziła się ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Wychowaliśmy na tej wyspie\nwspaniałego i potężnego TRENERA.\pNa pewno ją znasz.\nTo LORELEI z ELITARNEJ CZWÓRKI!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaki jest ten człowiek?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Znana ze swojego\nlogicznego, przemyślanego i opanowanego stylu\lwalki, LORELEI ma zaskakującą tajemnicę!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Wiedziałeś, że LORELEI ma bardzo\ndużo wypchanych lalek?\pZa każdym razem, gdy wraca z\nWYSPY FOUR, jej kolekcja powiększasz się!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}LAPRAS z którym przybyła, to chyba\nten sam, którego spotkała jako dziecko.\pSądzę, że złapała go w\nJASKINI LODOSPADU.\pPewnie ten POKéMON żyje z nią od\ntamtych czasów.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Jestem BRUNO z ELITARNEJ CZWÓRKI!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Żyłem i trenowałem z\nwalczącymi POKéMONAMI!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BRUNO najwyraźniej dołączył do\nELITARNEJ CZWÓRKI z powodu swojej\lpalącej ambicji walki z najlepszymi TRENERAMI.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BRUNO, znany wojownik, odwiedza\nSPA, gdy chce się zrelaksować.\pPrzyjeżdża tu leczyć obrażenia,\nswoje i swoich POKéMONÓW.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Jest członkiem ELITARNEJ CZWÓRKI.\nNazywa się BRUNO.\pOdszedł bardzo zawiedziony, gdy\ndowiedział się, że sprzedali wszystkie\lWściekle Batoniki.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nawet BRUNO…\nKiedyś trenował z kolesiem zwanym\lBRAWLY, czy jakoś tak.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Jestem AGATHA z ELITARNEJ CZWÓRKI.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Siła POKéMONÓW DUCHÓW AGATHY\njest wręcz przerażająca.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ta staruszka, sama w sobie jest\nteż jak bomba.\pNie trzeba szczególnego powodu\nżeby wybuchła krzykiem.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}W młodości AGATA i PROF.\nOAK byli rywalami, którzy\lrywalizowali o dominację jako TRENERÓW.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Podobno OAK bardzo się\ntobą zainteresował.\pTen stary dureń był kiedyś silny i\nprzystojny.\pAle to było wieki temu. Teraz\njest tylko cieniem samego siebie.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Weź za przykład AGATHĘ.\pMa rekord będąc najstarszą\nczłonkinią ELITARNEJ CZWÓRKI.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Prowadzę ELITARNĄ CZWÓRKĘ.\pMożesz mnie nazywać LANCE,\nTRENER smoków.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Wiesz, że smoki to mityczne\nPOKéMONY.\pSą trudne do złapania i trenowania,\nale drzemie w nich wielka siła.\pSą praktycznie niezniszczalne.\nNie można ich pokonać sprytem.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Jest za sprawiedliwością!\nJest świetny i ma swoje cele!\lLANCE! Jesteś najlepszy!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mamy klienta, LANCE'a. Zjawia\nsię tu czasami.\pZawsze kupuje peleryny.\pCiekawe… Po co mu w domu tyle\nidentycznych peleryn?
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Uważa się,\nże dziadek LANCE'a jest starszym\lsłynnego klanu smoczych władców.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Słyszałem, że LANCE jest\nkuzynem kogoś, kto jest LIDEREM\lSALI gdzieś daleko.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}W końcu BILL jest\nznany na całym świecie jako POKéMANIAC.\pWynalazł system przechowywania POKéMON\ntakże na PC.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL ma wiele POKéMONÓW!\nZbiera też te rzadkie!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}To mój wnuczek!\pOd dziecka uwielbiał tworzyć\nnajróżniejsze kolekcje!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL to POKéMANIAK, dlatego kocha\nwszystkie typy.\pAle pierwszy, którego złapał\nbył ABRA.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL pochodzi z GOLDENROD CITY w\nJOHTO, gdzie mieszka jego rodzina.\pSłyszałem, że to wielkie i\nhuczliwe miasto.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Prawda jest taka, że BILL\nzwyczajnie nie znosi mleka.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Jest bardzo miły.\pTroszczy się samotnymi i\nosieroconymi POKéMONAMI.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ten dziadek poleciał do naszej\nKRYJÓWKI!\pPotem zaczął jęczeć jak to\nniby ZESPÓŁ R wykorzystuje POKéMONY.\pWięc porozmawialiśmy jak prawdziwi\ndorośli.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}POKéMON FAN MAGAZINE\nComiesięczne Losowanie Nagród!\pKupon zgłoszeniowy…\pZniknął! Został wycięty.\nPewnie ktoś inny chciał wziąć udział.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Krąży plotka…\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Podobno PAN FUJI też nie pochodzi\nz tych stron.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}To zdjęcie BLAINE'A i\nPANA FUJI.\pStoją ramie w ramie. Promieniują\nszczerymi uśmiechami.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Wydawca: Nieśmiały pan. FUJI\nodrzuciło nasze prośby o rozmowę kwalifikacyjną.\pTo życzliwy człowiek, uwielbiany\ni szanowany w LAVENDER TOWN.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ZESPÓŁ R łapie POKéMONY z całego\nświata.\pSą ważnymi narzędziami nakręcającymi\nnasz przestępczy interes.\pJestem przywódcą grupy, GIOVANNI!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Ulubiony rodzaj POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Te złodziejaszki, które przejęły\nbudynek…\pIch SZEF szukał jakichś silnych\nPOKéMONÓW.Mam nadzieję, że nasz PREZES uniknął kłopotów…
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Jaka jest ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SZEF ZESPOŁU R jest niesamowicie\nokrutny!\pDla niego POKéMONY są tylko\nnarzędziami.Co będzie, jeśli ten tyran przejmie naszą firmę…
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Witaj w mojej kryjówce!\pBędę tu przebywał, dopóki nie\nprzywrócę potęgi ZESPOŁOWI R!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Co robi ta osoba?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ja cię kręcę! GIOVANNI był\nLIDEREM SALI w VIRIDIAN?
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Rodzina i przyjaciele?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ty… Nie jesteś dzieciakiem\nGIOVANNIEGO, co?\pNie, to nie możesz być ty!\nTen mały miał czerwone włosy.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}PROF. OAK
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od: PROF.\nDĄB Do: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Dlaczego POKéMON tak zawzięcie\nrywalizuje i walczy o ciebie?\pRobią to, ponieważ\nwidzą miłość i zaufanie,\ljakie darzysz POKéMON.\pNigdy o tym nie zapominaj.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}DAISY
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nDAISY Do: {PLAYER}\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Podczas gdy ja wygodnie\ncieszyłem się przerwami na herbatę, ty\lrozwinąłeś się w umiejętności i władzę.\pMam nadzieję, że pozostaniesz dobrym\nrywalem dla mojego młodszego brata.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}BROCK
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nBROCK Do: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}W naszym wielkim świecie\nmusi być wielu twardych TRENERÓW.\pOboje trenujmy\ni wzmacniajmy się!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}MISTY
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nMISTY Do: {PLAYER}\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Zamierzam dalej\ntrenować tutaj, w tej SIŁOWNI.\pKiedy poczuję się lepiej, bardzo chciałbym\nwyruszyć w trasę i podróżować.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}LT. SURGE
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od: LT.\nSURGE do: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Hej, dzieciaku!\nZelektryzowałeś mnie w naszej bitwie!\pNie wiedziałem, że są\ntacy odważni TRENERY jak Ty.\pDzięki temu zmieniłem\no Tobie zdanie!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}ERIKA
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nERIKA Do: {PLAYER}\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Bardzo się cieszę, że\nsą tak silni TRENERÓW jak Ty.\pJuż sama ta świadomość inspiruje mnie\ni motywuje do jeszcze większego wysiłku.\pProszę odwiedź mnie ponownie.\nZzz…
+{COLOR BLUE}{SHADOW LIGHT_BLUE}KOGA
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nKOGA Do: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Ty i ja,\noboje musimy mierzyć wyżej i\lpracować nad sprostaniem naszym wyzwaniom.\pTeraz muszę iść trenować moją córkę.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}SABRINA
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nSABRINA Do: {PLAYER}\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Miłość, jaką\ndarzysz swojego POKéMONA…\pTo była moc, której moja\nmoc psychiczna nigdy nie pokonała.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}BLAINE
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nBLAINE Do: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Mój ognisty POKéMON!\nStaną się jeszcze potężniejsze!\pA teraz quiz. Ile\njest rodzajów POKéMONÓW typu FIRE?
+{COLOR BLUE}{SHADOW LIGHT_BLUE}LORELEI
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nLORELEI Do: {PLAYER}\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Chciałem\npodziękować za pomoc.\pAle to nie ma\nnic wspólnego z naszymi bitwami.\pLepiej uważaj następnym razem!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}BRUNO
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nBRUNO Do: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Super moc Twojego POKéMONA\ni Ciebie, doświadczyłem tego na własnej skórze.\pNastępnym razem może powinienem\npokazać ci, jak się trenować.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}AGATHA
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nAGATHA Do: {PLAYER}\pKiedy dorośniesz, nie waż się być\nmiękkim jak ten staruszek OAK!{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}\pBądź jak ja i nadal walcz!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}LANCE
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nLANCE Do: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Rozważam powrót\ndo rodzinnego miasta.\pChcę przeszkolić moje POKéMONY\ntypu SMOK i je wzmocnić.\pChciałbym Cię kiedyś zaprosić\ndo mojego rodzinnego miasta.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}BILL
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nBILL Do: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Hej, tam! CELIO nie miał\ndla ciebie nic innego, jak tylko chwalić.\pSłyszenie tego sprawia mi radość.\pKiedy złapiesz rzadkiego POKéMONA, przyjdź\ni pokaż mi, dobrze? Obietnica!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}PAN FUJI
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od: PAN.\nFUJI Do: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Zamiast mieć nadzieję\nna szczęście tylko swojego POKéMONA…\p…Czy mogę prosić cię\no szczęście dla wszystkich POKéMONÓW?
+{COLOR BLUE}{SHADOW LIGHT_BLUE}GIOVANNI
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Od:\nGIOVANNI Do: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Nie ma\nnic, co chciałbym ci powiedzieć.\pSkoncentruję się wyłącznie na\ndoskonaleniu siebie i nikogo innego.
+WIOSKA PALLET
+LABORATORIUM
+LABORATORIUM
+MIASTO VIRIDIAN
+LIGA POKéMON
+LABORATORIUM
+LABORATORIUM
+MIASTO VERMILION
+WODNY LABIRYNT
+MIASTO VIRIDIAN
+DWÓR CELADON
+WYSPA FOUR
+MIASTO PEWTER
+PEWTER GYM
+MIASTO PEWTER
+DROGA 4
+GÓRAMOON
+PEWTER MUZEUM
+MIASTO CERULEAN
+CERULEAN GYM
+CERULEAN GYM
+WYSPY SEAFOAM
+CERULEAN CAPE
+MIASTO CERULEAN
+MIASTO VERMILION
+VERMILION GYM
+VERMILION GYM
+VERMILION GYM
+VERMILION GYM
+MIASTO VERMILION
+MIASTO CELADON
+CELADON GYM
+CELADON GYM
+CELADON GYM
+CELADON GYM
+DWÓR CELADON
+MIASTO FUCHSIA
+FUCHSIA GYM
+FUCHSIA GYM
+MIASTO FUCHSIA
+MIASTO FUCHSIA
+STR. SAFARI
+MIASTO SAFFRON
+WYSPA THREE
+SAFFRON GYM
+SAFFRON GYM
+MIASTO SAFFRON
+SAFFRON GYM
+WYSPA CINNABAR
+CINNABAR GYM
+CINNABAR GYM
+WYSPA CINNABAR
+CINNABAR GYM
+ŚWIETNY OŚRODEK
+LIGA POKéMON
+LIGA POKéMON
+WYSPA FOUR
+WYSPA FIVE
+WYSPA FOUR
+WYSPA FOUR
+LIGA POKéMON
+LIGA POKéMON
+MIASTO SAFFRON
+ŻAROWESPA
+WYSPA TWO
+KANION SEVAULT
+LIGA POKéMON
+BŁĘKITNY PŁAS.
+BŁĘKITNY PŁAS.
+WYSPA SEVEN
+LIGA POKéMON
+WYSPA SIX
+LIGA POKéMON
+LIGA POKéMON
+MIASTO SAFFRON
+DOM TOWAROWY
+BŁĘKITNY PŁAS.
+BŁĘKITNY PŁAS.
+MIASTO CERULEAN
+MIASTO CERULEAN
+MIASTO FUCHSIA
+WYSPA ONE
+WYSPA ONE
+WYSPA ONE
+WIOSKA LAVENDER
+WIEŻA POKéMON
+WIOSKA LAVENDER
+WIOSKA LAVENDER
+CINNABAR GYM
+WYSPA CINNABAR
+KWATERA ROCKET
+SILPH CO.
+SILPH CO.
+VIRIDIAN GYM
+VIRIDIAN GYM
+SKŁAD ZESPOŁU R
+SIGN
+PROF. OAK
+AIDE
+DZIENNIK POKéMON
+AGATHA
+AIDE
+AIDE
+KOBIETA
+MĘŻCZYZNA
+DZIENNIK POKéMON
+PANNA
+DZIENNIK POKéMON
+SIGN
+BROCK
+MŁODZIENIEC
+CHŁOPIEC
+MĘŻCZYZNA
+DZIENNIK POKéMON
+SIGN
+MISTY
+LUIS
+MŁODZIENIEC
+DAME
+DZIENNIK POKéMON
+SIGN
+POR.SURGE
+TUCKER
+TUCKER
+DWAYNE
+DZIENNIK POKéMON
+SIGN
+ERIKA
+LOLA
+TAMIA
+ERIKA
+DZIENNIK POKéMON
+SIGN
+KOGA
+KIRK
+CHARINE
+DZIENNIK POKéMON
+MĘŻCZYZNA
+SIGN
+MŁODZIENIEC
+SABRINA
+SABRINA
+DZIENNIK POKéMON
+TYRON
+SIGN
+BLAINE
+DEREK
+KOBIETA
+FOTKA
+DZIENNIK POKéMON
+LORELEI
+LORELEI
+STARZEC
+DZIENNIK POKéMON
+DZIEWCZYNKA
+PANNA
+BRUNO
+BRUNO
+DZIENNIK POKéMON
+CRUSHER
+KOBIETA
+CRUSHER
+AGATHA
+CRUSHER
+CRUSHER
+DZIENNIK POKéMON
+AGATHA
+PANNA
+LANCE
+LANCE
+KOBIETA
+DZIEWCZYNKA
+DZIENNIK POKéMON
+MŁODZIENIEC
+{RIVAL}
+CHŁOPIEC
+STARZEC
+CELIO
+CELIO
+CELIO
+DZIEWCZYNKA
+ZESPÓŁ R
+MAGAZYN
+MĘŻCZYZNA
+FOTKA
+DZIENNIK POKéMON
+GIOVANNI
+NAUKOWIEC
+NAUKOWIEC
+GIOVANNI
+MĘŻCZYZNA
+GIDEON
+DZIENNIK POKÉMON\pFunkcja specjalna: PEWTER GYM\nLIDER BROCK!\pBROCK rzadko się śmieje,\nale podobno nie może przestać, jeśli zacznie.
+DZIENNIK POKÉMON\pFunkcja specjalna: CERULEAN GYM\nLIDER MISTY!\pMISTY podobno\nczci LORELEI z ELITARNEJ CZWÓRKI.
+DZIENNIK POKéMON\pFunkcja specjalna: VERMILION GYM\nLIDER LT. SURGE!\pKrąży plotka…\pLT. SURGE podobno był\npilotem, gdy\pbył w domu w Ameryce.\nUżywał elektryczności\pwytwarzanej przez\nPOKéMON, aby napędzać swój samolot.
+DZIENNIK POKéMON\pFunkcja specjalna: CELADON GYM\nLIDER ERIKA!\pPlotka głosi, że jeśli\nzajrzysz\pdo SIŁOWNI\nCELADON, często\lzobaczysz ERIKĘ drzemiącą.
+DZIENNIK POKéMON\pFunkcja specjalna: FUCHSIA GYM\nLIDER KOGA!\pMówi się, że\nKOGA ma dogłębną wiedzę medyczną.\pnawet sporządza lekarstwa,\naby wyleczyć swoje POKéMONY.
+DZIENNIK POKÉMON\pFunkcja Specjalna: CELADON GYM\nLIDER: SABRINA\pLudzie mówią, że\nSABRINA potrafi komunikować się ze swoimi\lpokémonami podczas walki bez mówienia.
+DZIENNIK POKÉMON\pFunkcja Specjalna: CINNABAR GYM\nLIDER: BLAINE\pMówi się, że BLAINE\nzdejmuje swoje ciemne okulary tylko wtedy,\lgdy wymyśla nowe pytania do quizu.
+DZIENNIK POKÉMON\pFunkcja Specjalna:\nELITRNA CZWÓRKA LORELEI!\pZnana ze swojego\nlogicznego, przemyślanego i opanowanego STYLU\lwalki, LORELEI ma zaskakującą tajemnicę!
+DZIENNIK POKéMON\pFunkcja specjalna:\nELITRNA CZWÓRKA BRUNO!\pBRUNO\nnajwyraźniej dołączył\pdo ELITARNEJ CZWÓRKI z powodu\nswojej palącej ambicji walki z\lnajlepszymi TRENERAMI.
+DZIENNIK POKéMON\pFunkcja specjalna:\nELITRNA CZWÓRKA AGATHA!\p W młodości\pAGATA i\nPROF. OAK byli\prywalami, którzy\nrywalizowali o dominację\ljako TRENERÓW.
+DZIENNIK POKÉMON\pFunkcja Specjalna:\nELITRNA CZWÓRKA LANCE!\p uważa się,\nże dziadek LANCE jest starszym\lsłynnego klanu smoczych władców.
+DZIENNIK POKÉMON\pFunkcja Specjalna: PROF. OAK,\nOAK badacz POKéMON!\pWedług. doniesień PROF.OAK mieszka ze swoimi\nwnukami DAISY i {RIVAL}.
+To jest DZIENNIK POKéMON\nsprzed lat…\pDZIENNIK POKéMON\nPOKéMON Specjalny!\pWiosennym Wielkim\nMistrzem KONKURSU POKéMON jest DAISY\lOAK Z PALLET TOWN!
+DZIENNIK POKÉMON\pFunkcja Specjalna:\nMR. FUJI z DOMU POKéMON!\pWydawca: Nieśmiały pan. FUJI\nodrzuciło nasze prośby o rozmowę kwalifikacyjną.\pTo życzliwy człowiek, uwielbiany\ni szanowany w LAVENDER TOWN.
+<<< FILE: text/flavor_text.inc >>>
+Zawalone książkami o\nPOKéMONACH.
+ほんだなに　ならんでいるのは\nポケモンの　ほん　ばかりだ
+MAPA.
+Łał!\nKupa POKéGADŻETÓW.
+Równo ułożone naczynia i\ntalerze.
+Wspaniale pachnie!\nKtoś musiał tu coś gotować!
+Ładnie wykonana szafka.\nZmieści się w niej dużo rzeczy.
+Kupa przysmaków.
+Spełniamy twoje wymagania!\nPOKéMON MART
+Wylecz POKéMONY!\nCENTRUM POKéMON
+BŁĘKITNY PŁASKOWYŻ\pGłówny cel TRENERÓW!\nLIGA POKéMON
+BŁĘKITNY PŁASKOWYŻ\pNajwiększy autorytet POKéMON!\nLIGA POKéMON
+Powinno być pełne różnymi\nsmakołykami.
+To jakiś plan. Pełen jest\ndziwnych diagramów i napisów.
+Ładny obrazek przedstawiający\nPOKéMONA. Wygląda na szczęśliwego.
+Do czego to może służyć?\nLepiej się tym nie bawić!
+To telefon.\nNie służy do zabawy.
+Jakieś skomplikowane słowa i\ncyfry niemające sensu…
+Plakat reklamujący różnego\nrodzaju produkty.
+Och, świetnie pachnie!\nAż zaczyna burczeć w brzuchu!
+W środku…\n……\pNie ma zupełnie nic!
+Puchar ze znakiem POKéMON.
+Dokładnie wypolerowane okno.
+Na dworze…\pNiebo jest niesamowicie piękne.
+Różnokolorowe lampki mrugają\ncały czas.
+Równo ułożone narzędzia różnego\ntypu.
+To jakaś maszyna.\nRobi wrażenie.
+To najnowsza gra wideo!\nNa pewno jest zabawna!
+Widać tu wyraźne ślady\nwłamania…
+W telewizji jest POKéMON!\nChyba świetnie się bawi.
+<<< FILE: text/help_system.inc >>>
+Co mam zrobić w tej sytuacji?
+Jak to zrobić?
+Co znaczy to pojęcie?
+O tej grze
+Porównanie Typów
+WRÓĆ
+ANULUJ
+じぶんの ちからで やってみよう！
+Wybierz, by uzyskać porady dotyczące\ntwoich problemów.
+Dokładne instrukcje dotyczące\nróżnych operacji.
+Dokładne opisy dotyczące pojęć,\nktóre pojawiają się w trakcie gry.
+Dokładne opisy dotyczące\ntej gry.
+Porównanie typów POKéMONÓW i\nich ruchów.
+Wyjście z Systemu POMOCY.
+Witaj! Jestem Systemem POMOCY.\nPrzywołaj mnie, gdy tylko potrzebował\lbędziesz pomocy wciskając L lub R.\lTeksty zmieniają się wraz z sytuacją\lwięc prosimy o częste kontrole pytań.
+Gram po raz pierwszy. POMOCY!
+Co powinienem robić?
+Nie mogę wyjść z pokoju!
+Nie mogę znaleźć pewnej osoby.
+Rozmawiałem ze wszystkimi. I co?
+Ktoś blokuje moje przejście!
+Nie mogę iść!
+Nie mam już co robić.
+Gdzie jest mój nowy przedmiot?
+Jakie są podstawy mojej przygody?
+Czym różnią się drogi i lasy?
+Czym różnią się jaskinie
+Jak się rozwijać?
+Jak użyć przedmiotów?
+Co to walka?
+Jak szykować się do walki?
+Co to witalność POKéMONA?
+POKéMON jest ranny!
+Co to jest zmiana stanu?
+Co, gdy wszystkie POKéMONY zemdleją?
+Jak złapać POKéMONA?
+Nie mam już MISKTUR!
+Jak kupić POKé BALLE?
+Kto to TRENER?
+Jak wygrać z TRENEREM?
+Gdzie znaleźć POKéMONY?
+Czym są ruchy POKéMONÓW
+Czym są UKRYTE ruchy?
+Jakich ruchów mam użyć?
+Chcę mieć więcej ruchów.
+Chcę mieć silniejsze POKéMONY.
+Wrogie POKéMONY są za silne!
+Co zrobić w jaskini?
+Nie ma nic, co chciałbym wiedzieć!
+Co to CENTRUM POKéMON?
+Co to POKéMON MART?
+Chcę skończyć grę.
+Co to POKéMON?
+Jaka jest ta osoba?
+Co robi UKRYTY ruch?
+Co robić w GRZE SAFARI?
+Jakie są zasady GRY SAFARI?
+Chcę skończyć GRE SAFARI!
+Co to SALA?
+Stajesz się głównym bohaterem,\nzwiedzającym świat POKéMONÓW.\lRozmawiając z ludźmi i rozwiązując\lzagadki, nowe ścieżki otwierają się.  \lDąż do celu wraz ze swoimi cudownymi\lPOKéMONAMI.
+Gdy napotkasz inną osobę, podejdź\ndo niej i naciśnij przycisk A.\lSpowoduje to, że zaczną się interakcje\lz twoją postacią. Możesz też w ten sam\lsposób badać różnego rodzaju\lrzeczy. Prowadź częste konwersacje i\lbadaj rzeczy, by znaleźć informacje.
+Na schodach, bądź wyjściach z\nbudynku znajduje się czerwona mata.\lRusz swojego bohatera, aby\lstanął na niej. Wciśnij {PLUS} w kierunku\lschodów lub wyjścia, by przejść \ldalej.
+To nic, czym powinieneś się zbytnio\nprzejmować.\lPorozmawiaj z innymi ludźmi, spójrz na\lznaki, poszukaj rzeczy itd.\lCzasami może wystarczy przejść tylko\ldo nowego miasta.
+Spróbuj znaleźć nową drogę, miasto itd.
+Może przyczyną jest coś w mieście\nlub budynku.\lSpróbuj porozmawiać jeszcze raz z\lludźmi na tym obszarze.\lJeżeli mają problem, który trzeba\lrozwiązać, być może będziesz musiał\lpomóc.\lNastępnie, spróbuj podejść jeszcze raz do \losoby blokującą drogę.
+Spróbuj porozmawiać z ludźmi\npodchodząc do nich i naciskając A.\lMożesz też spróbować oglądać rzeczy\lwciskając przy nich przycisk A.\lWciskając {PLUS} możesz też spróbować\lprzejść przez miejsca wyglądające na \lnie do przejścia.
+Spróbuj odwiedzić miejsca w\nktórych jeszcze nie byłeś.\lSpróbuj obejrzeć też wszystko,\lco wydaje się podejrzane.
+Każdy przedmiot otrzymany od innej\npostaci przenoszony jest do TORBY.\lPrzedmiot zostaje automatycznie\lsortowany i umiejscowiony w kieszeni.\lDodatkowe instrukcje do obsługi\lTORBY znajdziesz w dziale\l“Jak to zrobić?” Systemu POMOCY.
+Jeśli POKéMONY zranią się w walce,\nzanieś je do CENTRUM POKéMON i\lpozwól je wyleczyć przez obsługę.\lPostaraj się, by w nawyk weszło\lci częste zapisywanie gry.\lZakupuj lecznicze przedmioty w\lPOKéMON MART przed podróżami.
+Lasy są właściwie tym samym czym\ndrogi, chociaż są bardziej jak\llabirynty.\lWszystkie lasy mają wyjścia, \lwięc nie poddawaj się!
+Jaskinie są mroczne i niebezpieczne.\nZawsze mogą tam pojawić się dzikie\lPOKéMONY.\lW razie niebezpieczeństwa\lgoń do CENTRUM POKéMON lub użyj\lprzedmiotu. Za niektórymi jaskiniami \lczekają nowe miasta.
+Celem gry jest wytrenowanie swoich\nPOKéMONÓW i rozwijanie fabuły.\lMusisz zbierać informacje i rozwiązywać\lproblemy. Przykładowo, co\lpotrzebne jest, by ominąć przeszkodę?\lCo przesunie z drogi\lprzeszkadzającą ci osobę?
+Jest kilka rodzajów przedmiotów.\nNiektóre mogą być używane tylko\lna polu. Inne w trakcie walki.\lNiektórych można używać zawsze.\lSpróbuj użyć przdmiotu jeżeli się nie uda,\ldowiesz się o tym.
+W walce, POKéMONY próbują zredukować\nwitalność przeciwnika, wyrażaną w\lHP. Jeśli HP POKéMONA spadnie do zera,\lmdleje, a drugi POKéMON wygrywa.\lZwyciężając walkę, POKéMON zdobywa\lPunkty EXP., pomagające mu\lpoziomować (rozwijać się).
+Najpierw w pełni wylecz POKéMONA w\nswojej drużynie (POKéMONA, który jest\lz tobą) w dowolnym CENTRUM POKéMON.\lPowinieneś również kupić przedmioty lecznicze\lna wypadki w SKLEPIE POKéMON.
+Witalność POKéMONA wyrażana jest w HP.\nJeśli POKéMON zostaje ranny w walce,\lHP jest odejmowane. Jeśli jego\lHP spadnie do zera, POKéMON mdleje.\lLecz ranne lub zemdlałe POKéMON w\lCENTRUM POKéMON lub używając przedmiotów.
+CENTRUM POKéMON jest jak zajazd dla\nPOKéMONÓW. Całkowicie wyleczy POKéMONY z wszelkich\lproblemów ze stanem i w pełni przywróci\lich HP za pomocą specjalnej maszyny.\lTa usługa jest darmowa, więc przyzwyczaj\lsię do częstego leczenia swoich POKéMONÓW.
+Problem statusowy odnosi się do\ndolegliwości, która jest zadawana POKéMONOWI\lprzez atak wroga. Należą do\lnich oparzenia, paraliż, zatrucie, sen\li zamrożenie. Mogą one zostać\lwyleczone poprzez wizytę w CENTRUM\lPOKéMON lub użycie odpowiedniego przedmiotu.
+Jeśli wszystkie POKéMON w twojej\ndrużynie (wszystkie POKéMONy z tobą) zemdleją,\lstracisz trochę PIENIĘDZY i zostaniesz\lodesłany do domu lub do CENTRUM\lPOKéMON. Aby zmniejszyć to ryzyko,\lodwiedzaj często CENTRA POKéMON. Również przyzwyczaj\lsię do częstego zapisywania gry.
+Jeśli dziki POKéMON ucieknie z POKé\nBALLA, oczywiście wciąż jest porywczy.\lSpróbuj jeszcze bardziej zmniejszyć jego HP\li spróbuj osłabić go za pomocą paraliżu\llub snu, zanim spróbujesz go złapać.\lJeśli POKé BALL potrząsa się przez\lchwilę, zdobycz jest bliska złapania!
+Są sklepy, znane jako\nPOKéMON MARTY, które sprzedają przedmioty.\lNie znajdziesz POKéMON MARTS na drogach,\lw lasach ani w jaskiniach.\lZaopatrz się w potrzebne przedmioty, gdy\lodwiedzasz miasto z POKéMON MART.
+Możesz kupić POKé BALLE w każdym\nPOKéMON MARKCIE w dowolnym mieście.\lNie znajdziesz SKLEPÓW POKéMON na drogach,\lw lasach ani w jaskiniach.\lZaopatrz się w POKé BALLS, gdy\lodwiedzasz miasto z POKéMON MART.
+TRENER to osoba, która\nwychowuje POKéMONY poprzez walkę.\lTRENERZY będą cię wyzywać, gdziekolwiek się\lznajdują może to być\lna drodze, w lasach, jaskiniach, wszędzie.\lJeśli wasze spojrzenia się spotkają, musisz\lprzyjąć ich wyzwanie. Więc bądź ostrożny!
+Aby pokonać TRENERA w walce,\nużywaj POKéMONÓW, które mają\lprzewagę typową nad POKéMONAMI przeciwnika.\lMożesz również używać wysoko\lwyszkolonych POKéMONÓW o przytłaczającej sile.\lPrzewaga liczebna nad POKéMONAMI\lprzeciwnika to kolejna oczywista taktyka.
+Dziko żyjące POKéMON pojawią się w\nwysokiej trawie, na drogach i w lasach.\lPojawią się wszędzie w ciemnych jaskiniach.\lW miastach nie ma dzikich POKéMON\lani TRENERÓW, więc są to bezpieczne miejsca.
+POKéMON może nauczyć się maksymalnie czterech\nróżnych technik, czyli ruchów. Istnieje\logromna różnorodność ruchów, w tym ataków\loraz takich o specjalnych efektach. Rodzaje\lruchów, które można opanować, różnią się\lw zależności od POKéMONA. Niektóre\lruchy można nauczyć się z maszyn.
+Ruchy UKRYTE to takie, które są\nszczególnie ważne w Twojej przygodzie.\lAby użyć takiego ruchu poza walką,\lotwórz MENU “POKéMON” i spraw, aby\lPOKéMON, który zna ten ruch, go\lużył. POKéMON, który stracił przytomność,\lmoże użyć ruchu UKRYTEGO poza walką.
+Wybierz “WALKA”, a pojawi\nsię MENU ruchów. Weź pod\luwagę dopasowania typów i\lużywaj najskuteczniejszych ruchów. Możesz\lsprawdzić efekty ruchów, otwierając\l“POKéMON”, wybierając POKéMONA, otwierając “PODSUMOWANIE”,\la następnie “UMIEJĘTNOŚCI POKéMONA”.
+Najwięcej, czego POKéMON może się nauczyć,\nto cztery ruchy. Uczą się ich w\lmiarę zdobywania poziomów przez POKéMONA. Można\lmu również nauczyć ruchu za pomocą TM\l(Maszyna Techniczna) lub HM (Ukryta Maszyna).\lSą też ludzie, którzy uczą ruchów.
+Kluczem do uczynienia swoich POKéMONÓW silnymi\njest częste walczenie i wygrywanie.\lPunkty EXP. (Doświadczenia) zdobyte poprzez\lwygrywanie bitew kumulują się, aby podnieść\lpoziom POKéMONÓW, które w nich\luczestniczyły. Często walcz z dzikimi POKéMONAMI,\laby podnieść poziom swojej drużyny.
+Jeśli twoi wrogowie są zbyt silni,\nspróbuj jeszcze trochę podnieść poziom swoich POKéMONÓW.\lWróć tą samą drogą i walcz z\ldzikimi POKéMON, aby podnieść poziom swojej drużyny.\lMożesz także walczyć z TRENERAMI,\lz którymi wcześniej nie walczyłeś.
+W przeciwieństwie do dróg i lasów, dzikie\nPOKéMON mogą pojawiać się wszędzie w jaskiniach.\lJeśli twoje POKéMON są ranne w\ljaskini, natychmiast udaj się do CENTRUM POKéMON\llub użyj przedmiotów, aby je wyleczyć. Ryzykowne\ljest poleganie na szczęściu w jaskiniach.
+Ufaj własnej wiedzy i sile.\nUwierz w siebie i znajdź swoją drogę!
+CENTRUM POKéMON rozpoznaje się po czerwonym dachu\ni znaku “P.C”. Każde CENTRUM POKéMON\loferuje takie usługi jak pełne leczenie POKéMON\li bezpłatne korzystanie z komputera, co\lczyni je niezbędnym w czasie twoich podróży.\lNa górnym piętrze znajdują się udogodnienia\ldo łączenia się z przyjaciółmi i innymi.
+SKLEP POKéMON jest rozpoznawalny po\nniebieskim dachu i znaku “MART”.\lPrzedmioty można kupować i sprzedawać w\lkażdym POKéMON MARCIE. Niektóre MARCET mają\lprzedmioty dostępne tylko w ich miastach.
+Możesz bezpiecznie zakończyć swoją\ngrę, wybierając “ZAPISZ” w MENU.\lGdy zapiszesz grę, można ją\lbezpiecznie wyłączyć. Po ponownym włączeniu\lgry możesz kontynuować od\lmiejsca, w którym ostatnio zapisałeś.
+POKéMON to istoty żywe, wokół których wciąż\npozostaje wiele tajemnic. Możesz je zobaczyć\lw trawie, na morzu i w jaskiniach.\lZdają się podporządkowywać życzeniom\lTRENERÓW, którzy je złapali.
+Użyj PRZYPOMINACZ wśród\nKLUCZOWYCH PRZEDMIOTÓW w twojej TORBIE.\lTo może dać ci wskazówkę, więc spróbuj.
+Ukryty ruch jest nauczany POKéMONA\nza pomocą HM (Ukrytej Maszyny).\lUKRYTY ruch jest ważny, aby pomóc\lw twojej przygodzie. Na przykład, jeden\lsłuży do oświetlania ciemnych jaskiń. Inny\lścina małe drzewa. Jest jeden do\lpodróżowania po wodzie i tak dalej.
+Spróbuj złapać dzikie POKéMONY,\nrzucając specjalne SAFARI BALLS.\lMożesz też zatrzymać każdy przedmiot, który znajdziesz.
+Twoja GRA SAFARI kończy się,\ngdy przebyjesz określony dystans lub\lużyjesz wszystkich swoich SAFARI BALLS.\lOtwórz MENU, aby sprawdzić pozostałą\lliczbę kroków i SAFARI BALLS.
+Jeśli chcesz zakończyć swoją GRĘ\nSAFARI wcześniej, otwórz MENU i wybierz\l“WYCOFAJ SIĘ” na górze listy.
+SALA POKéMON są prowadzone przez LIGĘ\nPOKéMON i są miejscami treningowymi dla\lTRENERÓW. Znajdują się one w\lcałym kraju w miastach i miasteczkach.\lKażdą z nich kieruje LIDER,\lktóry jest bardzo wykwalifikowanym TRENEREM.\lPokonaj LIDERA, aby zdobyć ODZNAKĘ.
+ Użył “POKéDEX”
+ Using “POKéMON”
+  Użył “PODSUMOWANIA”
+  Użył “ZAMIANA”
+  Użył “PRZEDMIOTU”
+ Użył “TORBA”
+  Użyć przdmiotu
+  Użył przedmiotu kluczowy
+  Użył POKé BALL
+ Użył “{PLAYER}”
+ Użył “ZAPISZ”
+ Użył “OPCJE”
+    Użył MIKSTURY
+    Użył MAPY
+    Użył TM
+    Użył HM
+Użył ruchu poza walką
+    Jazda na ROWERZE
+Wprowadzanie nazwy
+Użył PC
+ Użył “{STR_VAR_1} PC”
+  Użył “PODEJMIJ”
+  Użył “DEPONUJ”
+  Użył “RUCHU”
+  Używa przedmiotów
+ Użył “{PLAYER} PC”
+  Użył “PODEJMIJ PRZEDMIOT”
+  Użył “DEPONUJ PRZEDMIOT”
+  Użył “LISTY”
+ Użył “PROF. OAK PC”
+Otwieranie MENU
+ Użył “WALKI.”
+ Użył “POKéMON”
+  Using “ZMIANA”
+  Użył “PODSUMOWANIA”
+ Użył “TORBA”
+ Czytanie “POKéDEX”
+Użył PC w domu
+Użyłwanie Systemu Przechowania
+  Użył “PODEJMIJ PRZEDMIOT”
+  Użył “DEPONUJ PRZEDMIOT”
+Użył LISTU
+ Użył “WIEJ”
+  “PRZYPSANO” kluczowy przedmiot
+ Użył “BALL”
+ Użył “PRZYNĘTY”
+ Użył “KAMIENIA”
+ HALA SŁAWY
+{CIRCLE_1} Wybierz “POKéDEX” w MENU.\n{CIRCLE_2} Wybierz POKéMONA,\nużywając poleceń takich jak\n“LISTA POKéMONÓW”, “SIEDLISKA\nPOKéMONÓW” i “SZUKAJ”.\n{CIRCLE_3} Wybierz POKéMONA, aby\nuzyskać szczegółowe informacje.
+{CIRCLE_1} Wybierz “POKéMON” w MENU.\n{CIRCLE_2} Wybierz POKéMONA w swojej drużynie.\n{CIRCLE_3} Wybierz “PODSUMOWANIE”,\n“PRZEŁĄCZ” lub “ELEMENT.”
+{CIRCLE_1} Wybierz “PODSUMOWANIE.” {CIRCLE_2} Naciśnij w\nlewo lub w prawo na\n{PLUS} Płycie sterującej, aby sprawdzić informacje:\n  \n“INFORMACJE O POKéMON” “UMIEJĘTNOŚCI\nPOKéMON” “ZNANE RUCHY”
+{CIRCLE_1} Wybierz POKéMONA,\nktórego chcesz zamienić.\n{CIRCLE_2} Wybierz “ZMIANA.” {CIRCLE_3}\nWybierz POKéMONA, którego\nchcesz zamienić z pierwszym.\nPOKéMON po lewej stronie ekranu będzie\ntym, który wyjdzie jako pierwszy w walce.
+{CIRCLE_1} Wybierz “PRZEDMIOT.” {CIRCLE_2}\nWybierz, czy chcesz “DAĆ” przedmiot,\naby POKéMON go trzymał, czy\n“WZIĄĆ” przedmiot, który trzyma.\nPOKéMON nie może trzymać\nwięcej niż jednego przedmiotu!
+{CIRCLE_1} Wybierz “TORBA” w MENU.\n{CIRCLE_2} Naciśnij w lewo lub w prawo na\n{PLUS} Panelu sterowania, aby sprawdzić nagłówki danych:\n   “PRZEDMIOTY”\n“KLUCZOWE PRZEDMIOTY” “POKé BALLS”\nNaciśnij w górę lub w\ndół, aby wybrać przedmiot.
+{CIRCLE_1} Wybierz kieszeń “PRZEDMIOTY”.\n{CIRCLE_2} Naciśnij w górę lub w dół\nna {PLUS} Panelu sterowania, aby wybrać element.\n{CIRCLE_3} Wybierz “UŻYJ”, aby\nużyć wybranego przedmiotu.\nNiektóre przedmioty mogą nie być używane\nw zależności od miejsca i\nlub sytuacji.
+{CIRCLE_1} Wybierz kieszeń “KLUCZOWE PRZEDMIOTY”.\n{CIRCLE_2} Naciśnij w górę lub w dół na\n{PLUS} Panelu sterowania, aby wybrać kluczowy przedmiot.\n{CIRCLE_3} Wybierz “UŻYJ”, aby\nużyć wybranego kluczowego przedmiotu.
+{CIRCLE_1} Podczas walki z\ndzikim POKéMONEM, wybierz\n“POKé BALLE” w TORBIE.\n{CIRCLE_2} Naciśnij w górę lub w dół na\n{PLUS} Padzie sterowania, aby wybrać POKé BALL.\n{CIRCLE_3} Wybierz “UŻYJ”, aby\nrzucić wybraną POKé BALL.
+Wybierz “{PLAYER}” w MENU.{CIRCLE_1}\n{CIRCLE_2} Twoja KARTA TRENERA jest wyświetlana\nstroną do góry z podstawowymi informacjami.\nNaciśnij przycisk A, aby odwrócić KARTĘ.\n{CIRCLE_3} Różne dane można\nznaleźć na odwrocie KARTY.
+{CIRCLE_1} Wybierz “ZAPISZ” w MENU.\n{CIRCLE_2} Wybierz “TAK”, a Twój postęp\nzostanie zapisany w pliku zapisu.\nPo zapisaniu gry możesz ją\nwyłączyć. Grę można wznowić od\nmiejsca, w którym ją zapisano.
+{CIRCLE_1} Wybierz “OPCJĘ” w MENU.\n{CIRCLE_2} Naciśnij w górę lub w\ndół na {PLUS} Panelu Sterowania, aby\nwybrać opcjonalny element, następnie naciśnij w lewo\nlub w prawo, aby zmienić ustawienia.\n{CIRCLE_3} Wybierz “ANULUJ” lub naciśnij\nprzycisk B po wprowadzeniu zmian.
+{CIRCLE_1} Otwórz MENU.\n{CIRCLE_2} Naciśnij w górę lub\nw dół na {PLUS} Panelu\nSterowania i wybierz “TORBA.” {CIRCLE_3}\nWybierz “MIKSTURA” w przegródce “PRZEDMIOTY.”\n{CIRCLE_4} Wybierz “UŻYJ.” {CIRCLE_5}\nWybierz POKéMONA do wyleczenia.
+{CIRCLE_1} Otwórz MENU.\n{CIRCLE_2} Naciśnij w górę lub w dół na\n{PLUS} Panelu Sterowania i wybierz “TORBĘ”. {CIRCLE_3}\nNaciśnij w lewo lub w prawo, aby\notworzyć przegródkę “KLUCZOWE PRZEDMIOTY”, a następnie naciśnij w\ngórę lub w dół, aby wybrać “MAPA MIASTA”.\n{CIRCLE_4} Wybierz “UŻYJ”, aby otworzyć MAPĘ.
+{CIRCLE_1} Otwórz MENU.\n{CIRCLE_2} Otwórz KIESZEŃ “KLUCZOWE\nPRZEDMIOTY” w “TORBIE” {CIRCLE_3}\n“OTWÓRZ” etui z TM.\n{CIRCLE_4} Wybierz i “UŻYJ” TM.\n{CIRCLE_5} Wybierz POKéMONA, który może\nnauczyć się ruchu z TM.
+{CIRCLE_1} Otwórz MENU.\n{CIRCLE_2} Otwórz KIESZEŃ “KLUCZOWE\nPRZEDMIOTY” w “TORBA.” {CIRCLE_3}\n“OTWÓRZ” etui z TM.\n{CIRCLE_4} Wybierz i “UŻYJ” HM.\n{CIRCLE_5} Wybierz POKéMONA, który może się go nauczyć.\nHMs są trudne do usunięcia, więc bądź ostrożny!
+{CIRCLE_1} Otwórz MENU.\n{CIRCLE_2} Wybierz “POKéMON.” {CIRCLE_3} Wybierz\nPOKéMONA, który zna ruch\nHM. Dostępne ruchy HM będą\npokazane na niebiesko. Wybierz i\nużyj pożądanego ruchu, aby\nzniszczyć przeszkodę, latać, surfować itp.
+{CIRCLE_1} Otwórz MENU. Otwórz\nkieszeń “KLUCZOWE PRZEDMIOTY” w\n“PLECAKU” i wybierz “ROWER.”\n{CIRCLE_2} ROWER można\nużywać, wybierając “UŻYJ.” Możesz\nrównież “ZAREJESTROWAĆ” go do\nnatychmiastowego użycia, naciskając WYIBERZ.
+{CIRCLE_1} Przesuń kursor na literę, którą chcesz\nwybrać, za pomocą {PLUS} Panelu sterowania, a\nnastępnie naciśnij przycisk A, aby ją wprowadzić.\n{CIRCLE_2} Naciśnij przycisk B, aby cofnąć.\n{CIRCLE_3} Naciśnij WYBIERZ, aby przełączać się\nmiędzy wielkimi i małymi literami.\n{CIRCLE_4} Naciśnij przycisk A na “OK.”
+{CIRCLE_1} Idź do dowolnego CENTRUM POKéMON, podejdź\ndo PC, a następnie naciśnij przycisk A.
+{CIRCLE_1} Wybierz “PC {STR_VAR_1}” na komputerze.\n{CIRCLE_2} Wybierz jeden z trzech\nnajlepszych elementów MENU, aby uzyskać\ndostęp do systemu przechowywania POKéMON.\nJeśli złapiesz POKéMONA, gdy masz\nsześć w drużynie, POKéMON zostaje automatycznie\nwysłany do SKRZYNKI w Systemie!
+{CIRCLE_1} Wybierz POKéMONA w otwartym POKEBOKSIE\nza pomocą {PLUS} Panelu Sterowania.\n{CIRCLE_2} Wybierz “WYCOFAJ”, aby usunąć\nPOKéMONA z PUDEŁKA i\ndodać go do swojej drużyny.\nNie możesz wycofać POKéMONA, jeśli masz\njuż przy sobie sześć POKéMONÓW!
+{CIRCLE_1} Wybierz POKéMONA w swojej drużynie\nza pomocą {PLUS} Panelu Sterowania.\n{CIRCLE_2} Wybierz “WPŁATA.” {CIRCLE_3} Wybierz\nSKRZYNKĘ, a następnie naciśnij\nprzycisk A, aby przechować POKéMONA.\nJeśli masz tylko jednego POKéMONA przy\nsobie, może on nie zostać przechowany!
+{CIRCLE_1} Wybierz POKéMONA w otwartym PUDLE.\n{CIRCLE_2} Podnieś POKéMONA, wybierając “PRZENIEŚ”\ni przesuń go w dowolne miejsce\nza pomocą {PLUS} panelu sterowania.\n{CIRCLE_3} Przenieś POKéMONA do POKOJU i\nnaciśnij w lewo lub w prawo,\naby przenieść go do innego POKOJU.
+{CIRCLE_1} Słabo widocznemu POKéMON\nmożna nadać przedmiot, wybierając go\ni naciskając przycisk A.\n{CIRCLE_2} Wyraźnie pokazano, że\nPOKéMON może przekazać trzymany przedmiot\ninnemu POKéMON, lub zwrócić przedmiot\ndo PLECAKA przyciskiem A.
+Na komputerze wybierz “PC {PLAYER}”.{CIRCLE_1}\n{CIRCLE_2} Wybierz “PRZECHOWYWANIE PRZEDMIOTÓW” lub\n“POCZTA.” Możesz przechowywać rzeczy\nw swoim PC, jeśli Twoja TORBA\njest pełny. Możesz także wypłacać\nprzedmioty przechowywane w swoim PC.
+{CIRCLE_1} Wybierz “WYCOFAJ PRZEDMIOT.”\n{CIRCLE_2} Wybierz przedmiot do wycofania.\n{CIRCLE_3} Przedmiot można wyjąć i\numieścić w KIESZENI PRZEDMIOTÓW TORBY.\n   Może być również\nbezpośrednio podane POKéMONOWI do trzymania.
+{CIRCLE_1} Wybierz “DEPOSIT ITEM.” {CIRCLE_2} Wybierz\nprzedmiot w TORBIE, który ma\nzostać zdeponowany, używając {PLUS} Panelu Sterowania.\n{CIRCLE_3} Jeśli do wpłaty jest\nwięcej niż jeden przedmiot, wprowadź\nilość za pomocą {PLUS} panelu sterowania,\na następnie naciśnij przycisk A.
+Kiedy POCZTA jest zabrana od POKéMONA, jest\nprzenoszona do SKRZYNKI POCZTOWEJ. Jeśli nie\nma POCZTY, nie można użyć SKRZYNKI POCZTOWEJ.\n{CIRCLE_1} Wybierz “{PLAYER}'S PC” na komputerze.\n{CIRCLE_2} Wybierz “SKRZYNKA” aby przeczytać POCZTĘ\nlub spraw, aby POKéMON trzymał POCZTĘ.
+Wybierz “PC PROF. OAKA” na komputerze.{CIRCLE_1}\n{CIRCLE_2} PROF. OAK\noceni twój POKéDEX.\nJego oceny powinny dać Ci\nwskazówki, jak złapać więcej POKéMONÓW!
+{CIRCLE_1} Naciśnij START.\n{CIRCLE_2} MENU otworzy się po prawej.\n{CIRCLE_3} W zależności od sytuacji,\nMENU może zawierać różne nagłówki.\nMENU nie otworzy się w\nniektórych sytuacjach, takich jak\nrozmowa, wykonywanie czegoś, walka itp.
+{CIRCLE_1} Wybierz “WALCZ.” {CIRCLE_2} Wybierz\njeden z pokazanych ruchów,\na ten ruch zostanie użyty!
+{CIRCLE_1} Wybierz “POKéMON.” {CIRCLE_2}\nWybierz POKéMON w twojej\ndrużynie, którego chcesz użyć.\n{CIRCLE_3} Jeśli masz przy sobie\ndwóch lub więcej POKéMON, mogą\none zostać zamienione, wybierając “ZMIEŃ”.\nSprawdź dane POKéMON, wybierając “PODSUMOWANIE”.
+Ta komenda zamienia POKéMONA w walce\nna innego z twojej drużyny.\n{CIRCLE_1} Wybierz POKéMONA, którego chcesz wysłać.\n{CIRCLE_2} Wybierz “ZAMIEŃ.” {CIRCLE_3}\nWybrany POKéMON zamieni się miejscami\nz POKéMONEM w walce!
+{CIRCLE_1} Wybierz “PODSUMOWANIE.” {CIRCLE_2} Naciśnij w\nlewo lub w prawo na\n{PLUS} Płycie sterującej, aby sprawdzić informacje:\n  \n“INFORMACJE O POKéMON” “UMIEJĘTNOŚCI\nPOKéMON” “ZNANE RUCHY”
+{CIRCLE_1} Wybierz “TORBA.” {CIRCLE_2} Naciśnij w\nlewo lub w prawo na {PLUS}\nPadzie kontrolnym, aby sprawdzić nagłówki danych:\n   “PRZEDMIOTY”\n“KLUCZOWE PRZEDMIOTY” “POKé BALLS”\nNaciśnij w górę lub w\ndół, aby wybrać przedmiot.
+{CIRCLE_1} POKéMON, które złapałeś,\nsą oznaczone symbolem POKé\nBALL na liście POKéDEX.\n{CIRCLE_2} Złapany POKéMON dostarczy\ndużą ilość danych.\n
+{CIRCLE_3} Wybierz “OBSZAR”, aby wyświetlić\nMAPĘ z siedliskami POKéMONÓW.
+{CIRCLE_3} Wybierz “NASTĘPNE DANE”, aby wyświetlić\nMAPĘ z jego siedliskiem(s).
+{CIRCLE_1} Podejdź do komputera w domu,\na następnie naciśnij przycisk A.\n{CIRCLE_2} Komputer włączy się.\n{CIRCLE_3} Wybierz “PRZECHOWYWANIE PRZEDMIOTÓW”\nlub “POCZTA”.
+{CIRCLE_1} Wybierz “WYCOFAJ PRZEDMIOT”, aby wycofać\nprzedmiot przechowywany na Twoim komputerze.\n{CIRCLE_2} Wybierz “DEPONUJ”, aby włożyć\nprzedmiot z TORBY do swojego PC.
+{CIRCLE_1} Wybierz “WYCOFAJ PRZEDMIOT.”\n{CIRCLE_2} Wybierz przedmiot do wycofania.\n{CIRCLE_3} Przedmiot można wyjąć i\numieścić w KIESZENI PRZEDMIOTÓW TORBY.\n   Może być również\nbezpośrednio podane POKéMONOWI do trzymania.
+{CIRCLE_1} Wybierz “DEPOSIT ITEM.” {CIRCLE_2} Wybierz\nprzedmiot w TORBIE, który ma\nzostać zdeponowany, używając {PLUS} Panelu Sterowania.\n{CIRCLE_3} Jeśli w TORBIE nie ma\nnic, tego polecenia nie można użyć!
+Kiedy POCZTA jest zabrana od POKéMONA, jest\nprzenoszona do SKRZYNKI POCZTOWEJ. Jeśli nie\nma POCZTY, nie można użyć SKRZYNKI POCZTOWEJ.\n{CIRCLE_1} Wybierz POCZTĘ według nazwy, aby ją\nprzeczytać lub spraw, by POKéMON ją trzymał.
+Nie możesz “UCIEC” z\nwalki z TRENEREM!\n{CIRCLE_1} Możesz “UCIEC” przed dzikim POKéMONEM.\n{CIRCLE_2} Twoja szansa na ucieczkę zwiększa się,\njeśli twój POKéMON w walce jest szybki.
+Możesz “ZAREJESTROWAĆ” kluczowy przedmiot\ndo natychmiastowego użycia, naciskając WYBIERZ!\n{CIRCLE_1} Otwórz KIESZEŃ “KLUCZOWE PRZEDMIOTY”.\n{CIRCLE_2} Wybierz kluczowy przedmiot,\na następnie wybierz “REJESTRACJA.”
+{CIRCLE_1} Wybierz, aby rzucić specjalną POKéBALL\nużywaną tylko w STREFIE SAFARI.\nGdy pojawią się dzikie POKéMONY, rzucaj\nwieloma SAFARI BALLS, aby je złapać!
+{CIRCLE_1} Wybierz, aby rzucić specjalne jedzenie\nużywane tylko w STREFIE SAFARI.\nTo jedzenie POKéMON zwinięte w kulkę\ndla łatwego jedzenia. Kiedy PRZYNĘTA zostanie\nrzucona, dzikie POKéMON mogą zostać\nnią przyciągnięte i mogą nie uciec!
+{CIRCLE_1} Wybierz, aby rzucić kamień leżący\nna ziemi w STREFIE SAFARI.\nRzucenie kamieniem w POKéMONA może\nsprawić, że ucieknie, ale\nstanie się łatwiejszy do złapania!
+Wybierz “HALA SŁAWY” na PC.{CIRCLE_1}\n{CIRCLE_2} POKéMON, które weszły do\nSALI SŁAW, mogą zostać zbadane.
+HP
+EXP. {LEFT_PAREN}Punkty EXP.{RIGHT_PAREN}
+RUCHY
+ATAK
+OBRONA
+SP. ATK
+SP. OBR
+SZYBK
+Lv. {LEFT_PAREN}Level{RIGHT_PAREN}
+TYP
+OT
+PRZEDMIOT
+ZDOLNOŚ
+FORSA
+TYP RUCHU
+NATURA
+Nr ID
+PP
+SIŁA
+CELNOŚĆ
+FNT
+RZECZ
+KLUCZOWE
+POKé BALLE
+POKéDEX
+CZAS GRY
+ODZNAK
+SZYB. TEXT
+SCENA WALKI
+STYL WALKI
+DŹWI.
+PRZYCISKI
+RAMKA
+ANULUJ
+TM
+HM
+RUCH HM
+EWOLUCYJNY
+ZMIANY STANU
+POKéMON
+Nr ID
+FORSA
+ODZNAK
+HP wskazuje na witalność POKéMONA.\nJeżeli punkty HP POKéMONA spadną do\lzera, pada on i nie może walczyć.\lWięc kluczem w walce jest próba\lzmniejszenia HP wroga do zera.\lJeśli twoje POKéMON są ranne, przywróć ich\lHP w CENTRUM POKéMON lub użyj przedmiotów.
+EXP. Points oznacza “Punkty Doświadczenia”.\nPOKéMON zdobywają Punkty Doświadczenia,\lbiorąc udział w zwycięskich walkach.\lKiedy POKéMON zgromadzi wystarczającą ilość punktów\lEXP, awansuje na wyższy poziom.\lPasek EXP wskazuje zgromadzone punkty EXP.\lWróci do zera po osiągnięciu poziomu.
+POKéMON może nauczyć się do czterech\nróżnych ruchów. Istnieje wiele rodzajów\lruchów, w tym ataki oraz te\lz efektami specjalnymi. Rodzaje ruchów, które\lmożna się nauczyć, różnią się w\lzależności od POKéMONA. Niektóre ruchy\lmożna nauczyć się za pomocą przedmiotów.
+ATAK wskazuje siłę ofensywnego\nruchu. Im wyższa ta\lstatystyka, tym potężniejszy ruch.\lStosuje się go do\lnastępujących typów ruchów: NORMALNY,\lTRUJĄCY, ZIEMNY, LOT, ROBACZY, WALKA,\lSKAŁA, DUCH i STAL.
+OBRONA wskazuje odporność POKéMONA\nna ataki fizyczne.\lIm wyższa ta cecha, tym mniej\lobrażeń odniesiesz od fizycznego ataku przeciwnika.
+SP. ATAK (Atak Specjalny)\noznacza siłę ruchu ataku specjalnego.\lIm wyższa ta statystyka,\ltym potężniejszy specjalny atak.\lStosuje się go do następujących\ltypów ruchów: OGIEŃ, WODA, ELEKTRYCZNY, TRAWIASTY,\lLÓD, PSYCHO, SMOK i MROCZNY.
+OBR. SPEC. (Obrona\nSpecjalna) wskazuje odporność POKéMONA\lna ataki specjalne.\lIm wyższa ta statystyka, tym mniej\lobrażeń otrzymujesz od specjalnego ataku wroga.
+SZYBKOŚĆ oznacza zwinność POKéMONA. Jeśli\nta statystyka przewyższa przeciwnika w\lwalce, POKéMON może wykonać\lruch przed swoim wolniejszym przeciwnikiem.
+Lv. (Poziom) wskazuje rozwój\ni siłę POKéMONA.\lOgólnie rzecz biorąc, gdy POKéMON awansuje na\lwyższy poziom, jego statystyki takie jak HP,\lATAK i OBRONA rosną, czyniąc go silniejszym.\lPOKéMON może nauczyć się nowego ruchu\lpo awansowaniu na wyższy poziom.
+POKéMON i ruchy są klasyfikowane\nwedług typu. Każdy typ ma\lkorzystne i niekorzystne starcia z\linnymi typami. Na przykład, podobnie jak\lw grze papier-kamień-nożyce, typ WODNY\ljest silny przeciwko typowi OGIEŃ\li słaby przeciwko typowi ROŚLINNY.
+OT oznacza “Oryginalny\nTRENER”, pierwszy TRENER, który\lzłapał wybranego POKéMONA.\lNawet jeśli POKéMON zostanie\lwymieniony, nazwa OT pozostanie niezmieniona.
+Wszystkie POKéMONY mogą trzymać po\njednym przedmiocie. Niektóre przedmioty będą używane\lautomatycznie przez POKéMONY w określonych\lsytuacjach. Aby sprawić, że POKéMON\lbędzie trzymał przedmiot, wybierz przedmiot z\lTORBA i “DAJ” go POKéMONOWI.
+Wszystkie POKéMONY mają specjalną UMIEJĘTNOŚĆ.\nIstnieje wiele różnych rodzajów tych umiejętności,\lniektóre używane w walce, inne w\linnych sytuacjach. Umiejętności różnią się w\lzależności od gatunku. Niektóre gatunki mogą\lmieć więcej niż jeden rodzaj umiejętności.
+Za każdym razem, gdy wygrasz bitwę\nz TRENEREM, otrzymujesz nagrodę pieniężną.\lOszczędzaj swoją nagrodę pieniężną, aby móc\lcieszyć się zakupami w POKéMON SKLEPIE!
+Ruchy są również klasyfikowane według typów.\nJeżeli POKéMON określonego typu\lużyje ruchu tego samego typu,\ljego moc zostaje zwiększona. Jeżeli\ltyp ruchu ma przewagę\lw starciu z celem,\ljego skuteczność również zostaje zwiększona.
+Wszystkie POKéMON mają osobowość, czyli “CHARAKTER”.\nCharakter POKéMON wydaje się wpływać\lna to, jak POKéMON będzie\lrozwijać się w miarę zdobywania poziomów.
+Numer ID to specjalny numer\nprzypisany wyłącznie tobie jako TRENEROWI.\lWraz z nazwą OT, nr ID.\lsłuży do precyzyjnego\lzidentyfikowania oryginalnego TRENERA.\lNumer ID nie zmienia się,\lnawet jeśli POKéMON zostanie wymieniony.
+PP oznacza “Power Points” (Punkty\nMocy). Wskazuje, ile razy dana umiejętność\lmoże być użyta w walce.\lPodobnie jak HP, PP\lmożna odzyskać, odwiedzając CENTRUM POKéMON\llub używając niektórych przedmiotów.
+SIŁA wskazuje na moc\nataku. Im wyższa ta\lliczba, tym większe\lobrażenia można zadać przeciwnikowi!
+CELNOŚĆ wskazuje prawdopodobieństwo trafienia\nprzeciwnika przez ruch.\lIm wyższa ta liczba, tym większe\lprawdopodobieństwo, że ruch trafi w cel.
+FNT oznacza “zemdlał”. POKéMON mdleje,\njeśli jego HP spadnie do\lzera. Staje się wtedy\lniezdolny do udziału w walce.\lPrzywróć przytomność omdlałemu POKéMONOWI w\lCENTRUM POKéMON, lub użyj przedmiotu.
+Zwykłe przedmioty kupione w dowolnym POKéMON\nSKLEPIE umieszczane są w KIESZENI PRZEDMIOTÓW.\lPrzedmioty mogą być używane, przekazywane Pokémonowi\ldo trzymania lub wyrzucane jako śmieci.
+Ważne przedmioty, które znajdziesz lub\notrzymasz od innych osób, umieszczane są\lw KIESZENI NA KLUCZOWE PRZEDMIOTY.\lKluczowe przedmioty mogą być używane lub\lzarejestrowane do natychmiastowego użycia za pomocą\lPRZYCISKU WYBIERZ. Po zarejestrowaniu, przedmiot może być\lużywany bez otwierania MENU i PLECAKA.
+PIŁKI POKé, które służą do\nłapania dzikich POKéMON, są umieszczane\lw KIESZENI NA POKé BALLS.\lPOKé BALLS mogą być kupowane\lw POKéMON SKLEPIE. Mogą być\lużywane, przekazywane POKéMONOWI do\ltrzymania lub wyrzucane jako śmieci.
+To wskazuje liczbę gatunków\nPOKéMON, które złapałeś i/lub\lewoluowałeś, aby wypełnić POKéDEX.\lStaraj się złapać\lwszelkiego rodzaju POKéMONY!
+To jest całkowity czas, który\nspędziłeś grając w tę grę.
+ZDOBYTE ODZNAKI LIGI POKéMON\nsą zarejestrowane i wyświetlane.\lZdobywaj ODZNAKI, pokonując LIDERÓW SAL\lw różnych miastach i miasteczkach.
+Możesz dostosować, jak szybko wyświetlany\njest tekst. Wybierz jedną\lopcję: WOLNO, ŚREDNIO lub SZYBKO.
+Możesz wybrać włączenie lub\nwyłączenie animacji walki.
+Możesz wybrać, czy TRENER może\nzmienić POKéMONA po tym, jak\lsprawił, że jego przeciwnik zemdlał.\lUstaw na “SHIFT”, jeśli chcesz\lmieć szansę zamienić POKéMONA po\ltym, jak pokona swojego wroga.
+Możesz wybrać między wyjściem\ndźwięku MONO a STEREO.
+Ustaw na “POMOC”, aby wyświetlać komunikaty\npomocy naciskając przycisk L lub R.\lUstaw na “LR”, aby włączyć przełączanie\lstron POKéDEXA i KIESZENI PLECAKA\lza pomocą przycisków L i R.\lUstaw na “L=A”, aby przycisk L\ldziałał tak samo jak przycisk A.
+Możesz wybrać projekt ramki wokół\nniektórych menu. Wypróbuj je i\lzobacz, co ci się podoba.
+Ustawienia zostaną zmienione na wybrane\nopcje pokazane na czerwono,\la Ty wrócisz do MENU.
+TM (Maszyna Techniczna) to urządzenie\nużywane do nauczenia ruchu POKéMONA.\lJest wiele różnych rodzajów.\lRuchów można nauczyć tylko tych POKéMONÓW,\lktóre są w stanie ich używać.\lTM psuje się po jednokrotnym użyciu.
+HM (Ukryta Maszyna) to urządzenie używane\ndo nauczenia POKéMONA ukrytego ruchu.\lUKRYTY ruch może być nauczony tylko\ltym POKéMONOM, które potrafią go używać.\lW przeciwieństwie do TM, HM można\lużywać wielokrotnie. Ruch UKRYTY może\lbyć trudny do zapomnienia dla POKéMONA.
+Ruchy UKRYTE to takie, które są\nszczególnie ważne w Twojej przygodzie.\lAby użyć takiego ruchu poza walką,\lotwórz MENU “POKéMON” i spraw, aby\lPOKéMON, który zna ten ruch, go\lużył. POKéMON, który stracił przytomność,\lmoże użyć ruchu UKRYTEGO poza walką.
+Wśród POKéMONÓW są takie, które przechodzą\nznaczące zmiany (ewolucję) po osiągnięciu określonych\lpoziomów. Ewolucja powoduje, że POKéMON zmienia\lswoją formę, zmienia nazwę, a\lbyć może zmienia też ruchy, których\lmoże się nauczyć. Niektóre POKéMONY ewoluują\lz powodów innych niż zdobywanie poziomów.
+Problemy ze statusem obejmują:\nSen: Nie można używać ruchów.\lTrucizna: powoduje stałą utratę punktów HP.\lParaliż: Może uniemożliwić ruchy.\lSpalenie: utrata HP i obniżenie ATAKU.\lZamrożenie: Nie można używać ruchów.\lTe można leczyć za pomocą przedmiotów itp.
+POKéMON to nazwa używana do\nopisania cudownych stworzeń, które\lzamieszkują wszystkie zakątki tego świata.\lLudzie hodują POKéMONY jako swoje zwierzęta domowe,\lużywają ich do walk i tak dalej.
+Numer ID to specjalny numer\nprzypisany wyłącznie tobie jako TRENEROWI.\lWraz z nazwą OT, nr ID.\lsłuży do precyzyjnego\lzidentyfikowania oryginalnego TRENERA.\lNumer ID nie zmienia się,\lnawet jeśli POKéMON zostanie wymieniony.
+Za każdym razem, gdy wygrasz bitwę\nz TRENEREM, otrzymujesz nagrodę pieniężną.\lOszczędzaj swoją nagrodę pieniężną, aby móc\lcieszyć się zakupami w POKéMON SKLEPIE!
+To wskazuje liczbę ODZNAK\nLIGI POKéMON, które wygrałeś.\lZdobywaj ODZNAKI, pokonując LIDERÓW SAL\lw różnych miastach i miasteczkach.
+System POMOCY
+Gra
+Łącze bezprzewodowego
+Podstawy gry 1
+Podstawy gry 2
+Podstawy gry 3
+Co to POKéMON?
+Wiadomości pomocy zmieniają się w zależności\nod tego, jak bardzo zaawansowany\ljesteś w grze. Zostały zaprojektowane,\laby wspierać cię, gdy ich potrzebujesz.\lJeśli jest coś, czego nie rozumiesz,\lproszę, zajrzyj do Systemu POMOCY!
+Stajesz się głównym bohaterem,\nzwiedzającym świat POKéMONÓW.\lRozmawiając z ludźmi i rozwiązując\lzagadki, nowe ścieżki otwierają się.\lDąż do celu wraz ze swoimi cudownymi\lPOKéMONAMI.
+Ta gra komunikuje się za pomocą\nłącza bezprzewodowego przy użyciu Adaptera Bezprzewodowego.\pKorzystaj z bezprzewodowego połączenia wszędzie, o\nkażdej porze i z każdym!\pSpróbuj grać z zawsze\npodłączonym Wireless Adapter!
+Odwiedź każde miasto i\nmiasteczko, podróżuj każdą drogą, eksploruj\lkażdą jaskinię i staw\lczoła każdemu wyzwaniu, dążąc do\lzostania najlepszym TRENEREM POKéMONÓW!
+Podczas swojej przygody napotkasz\nwiele przeszkód. Każdą przeszkodę\lmożna pokonać, robiąc coś\llub rozwiązując zagadki. Niektóre przeszkody\lsą zależne od czegoś,\lco dzieje się daleko.
+Niektóre przeszkody na twojej drodze\nmożna usunąć, gdy twoje\lPOKéMON nauczą się określonych ruchów.
+POKéMON to cudowne stworzenia owiane tajemnicą.\nMożesz spotkać je na całym\lświecie… w wysokiej trawie, w\ljaskiniach, w morzu i nie tylko.\lWygląda na to, że stają się\lposłuszne TRENEROM, którzy je złapali.
+Użył Porównania Typów
+Własny ruch Typ: MROCZNY
+POKéMON typ: MROCZNY
+Własny ruch Typ: KAMIENNY
+POKéMON typ: KAMIENNY
+Własny ruch Typ: PSYCHO
+POKéMON typ: PSYCHO
+Własny ruch Typ: WALCZĄCY
+POKéMON typ: Walczący
+Własny ruch Typ: TRAWIASTY
+POKéMON typ: TRAWIASTY
+Własny ruch Typ: DUCH
+POKéMON typ: DUCH
+Własny ruch Typ: LODOWY
+POKéMON typ: LODOWY
+Własny ruch Typ: ZIEMNY
+POKéMON typ: ZIEMNY
+Własny ruch Typ: ELEKTRYCZNY
+POKéMON typ: ELEKTRYCZNY
+Własny ruch Typ: TRUJĄCY
+POKéMON typ: TRUJĄCY
+Własny ruch Typ: SMOCZY
+POKéMON typ: SMOCZY
+Własny ruch Typ: NORMALNY
+POKéMON typ: NORMALNY
+Własny ruch Typ: STALOWY
+POKéMON typ: STALOWY
+Własny ruch Typ: LATAJĄCY
+POKéMON typ: LATAJĄCY
+Własny ruch Typ: OGNISTY
+POKéMON typ: OGNISTY
+Własny ruch Typ: WODNY
+POKéMON typ: WODNY
+Własny ruch Typ: ROBACZY
+POKéMON typ: ROBACZY
+W zależności od dopasowania typu\nruchu i typu docelowego\lPOKéMONA, skuteczność ruchu się zmienia:\l{CIRCLE_DOT}: Super skuteczne!\l{TRIANGLE}: Niezbyt skuteczne {BIG_MULT_X}:\lWcale nieskuteczne (Brak\lzmian dla innych starć.)
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: PSYCHO, DUCH\p   {TRIANGLE}: WALCZĄCY, MROCZNY, STALOWY
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: WALKA, ROBCZY\p   {TRIANGLE}: DUCH, MROCZNY\p   {BIG_MULT_X}: PSYCHO
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: OGNISTY, LODOWY, LATAJACY, ROBACZY\p   {TRIANGLE}: WALCZĄCY, ZIEMNY, STALOWY
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}:\nWODNY, TRAWIASTY, WALCZĄCY, ZIEMNY, STALOWY\p   {TRIANGLE}: NORMALNY, OGNISTY, TRUJĄCY, LATAJĄCY
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: WALCZĄCY, TRUJĄCY\p   {TRIANGLE}: PSYCHO, STALOWY\p   {BIG_MULT_X}: MROCZNY
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: ROBACZY, DUCH, MROCZNY\p   {TRIANGLE}: WALCZĄCY, PSYCHO
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: NORMALNY, LODOWY, KAMIENNY, MROCZNY, STALOWY\p{TRIANGLE}: TRUJĄCY, LATAJĄCY, PSYCHO, ROBACZY\p   {BIG_MULT_X}: DUCH
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: LATAJĄCY, PSYCHO\p   {TRIANGLE}: ROBACZY, KAMIENNY, MROCZNY
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: WODNY, ZIEMNY, KAMIENNY\p   {TRIANGLE}: OGNISTY, TTRAWIASTY,\nTRUJĄCY, LATAJĄCY, ROBACZY, SMOK, STALOWY
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: OGNISTY, LÓD, TRUCIZNA, LOT, ROBACZY\p   {TRIANGLE}: WODA, ELEKTRYCZNY, TRAWA, ZIEMIA
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: PSYCHO, DUCH\p   {TRIANGLE}: MROCZNY, STALOWY\p   {BIG_MULT_X}: NORMALNY
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: DUCH, MROCZNY\p   {TRIANGLE}: TRUCIZNA, ROBACZY\p   {BIG_MULT_X}: NORMALNY, WALCZĄCY
+Wpływ na przeciwnika POKéMON:\pTRAWIASTY, ZIEMNY, LATAJĄCY, SMOK{CIRCLE_DOT}\p   {TRIANGLE}: OGIEŃ, WODA, LÓD, STAL
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: OGNIEŃ, WALKA, SKAŁA, STAL\p   {TRIANGLE}: LÓD
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}:\nOGIEŃ, ELEKTRYCZNY, TRUJĄCY, SKAŁA, STAL\p   {TRIANGLE}:\nTRAWIASTY, ROBACZY {BIG_MULT_X}: LATAJĄCY
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: WODA, TRAWA, LÓD\p   {TRIANGLE}: TRUCIZNA, SKAŁA\p   {BIG_MULT_X}: ELEKTRYCZNY
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: WODA, LATANIE\p   {TRIANGLE}: ELEKTRYCZNY, ROŚLINNY, SMOK\p   {BIG_MULT_X}: ZIEMIA
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: ZIEMIA\p   {TRIANGLE}: ELEKTRYCZNY, LATAJĄCY, STALOWY
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: TRAWa\p   {TRIANGLE}: TRUCIZNA, ZIEMIA, SKAŁA, DUCH\p   {BIG_MULT_X}: STAL
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: ZIEMIA, PSYCHICZNY\p   {TRIANGLE}: TRAWIASTY, WALKI, TRUJĄCE, ROBACZKOWE
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: SMOK\p   {TRIANGLE}: STAL
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: LÓD, SMOK\p   {TRIANGLE}: OGIEŃ, WODA, ELEKTRYCZNY, TRAWIASTY
+Wpływ na przeciwnika POKéMON:\p   {TRIANGLE}: SKAŁA, STAL\p   {BIG_MULT_X}: DUCH
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: WALCZĄCY\p   {BIG_MULT_X}: DUCH
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: LÓD, SKAŁA\p   {TRIANGLE}: OGIEŃ, WODA, ELEKTRYCZNY, STAL
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}:\nOGIEŃ, WALKI, ZIEMIA {TRIANGLE}:\lNORMALNY, TRAWIASTY, LODOWY, LOT, PSYCHO\lROBACZY, SKAŁA, DUCH, SMOK,\lMROCZNY STAL {BIG_MULT_X}: TRUJĄCY
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: TRAWIASTY, WALCĄCY, ROBACZY\p   {TRIANGLE}: ELEKTRYCZNY, KAMIENNY, STALOWY
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: ELEKTRYCZNY, LÓD, KAMIENNY\p   {TRIANGLE}: TRAWIASTY, WALCZĄCY, ROBACZY\p   {BIG_MULT_X}: ZIEMIA
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: TRAWIASTY, LÓD, ROBACZY, STAL\p   {TRIANGLE}: OGIEŃ, WODA, SKAŁA, SMOK
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: WODA, ZIEMIA, SKAŁA\p   {TRIANGLE}: OGNIEŃ, TRAWA, LÓD, ROBACZY, STAL
+Wpływ na przeciwnika POKéMON:\p{CIRCLE_DOT}: OGNISTY, ZIEMIA, KAMENNY\p   {TRIANGLE}: WODA, TRAWIASTY, SMOK
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: ELEKTRYCZNY, TRAWIASTY\p   {TRIANGLE}: OGIEŃ, WODA, LÓD, STAL
+Wpływ na przeciwnika POKéMON:\p   {CIRCLE_DOT}: TRAWIASTY, PSYCHO MROCZNY\p   {TRIANGLE}: OGNIOWY,\nWALKI, TRUJĄCY, LATAJĄCY, DUCH, STALOWY
+Wpływ ruchu przeciwnika na własnego POKéMONA:\p   {CIRCLE_DOT}: OGNIOWY, LATAJĄCY, KAMIEŃ\p   {TRIANGLE}: TRAWA, WALKA, ZIEMIA
+<<< FILE: text/ingame_trade.inc >>>
+Szukam POKéMONA\n{STR_VAR_1}!\pCzy chcesz wymienić go\nza {STR_VAR_2}?
+Ałłł!\nNo dobra…
+Co?\nTo nie jest {STR_VAR_1}!
+Hej, dzięki!
+Czy {STR_VAR_2} nie jest super?
+Witaj! Czy nie masz przypadkiem\nmoże {STR_VAR_1}?\pCzy zgodziłbyś się wymienić go\nza {STR_VAR_2}?
+Cóż, jeżeli nie chcesz…
+Hmmm?\nTo nie jest {STR_VAR_1}.\pWpadnij, gdy go zdobędziesz.
+Dzięki!
+Czy mój {STR_VAR_2} stał się dużo\nsilniejszy?
+Hej!\nCzy masz {STR_VAR_1}?\pChcesz wymienić go za\n{STR_VAR_2}?
+No to szkoda.
+…To nie {STR_VAR_1}.\pWymień się, gdy go zdobędziesz.
+Dzięki, jesteś super!
+Jak tam mój {STR_VAR_2}?\n{STR_VAR_1} jest wspaniały!
+<<< FILE: text/itemfinder.inc >>>
+おッ！　ダウジングマシンが\nはんのう　してるぞ！\pましたに　どうぐが　うまってる！\n‥‥‥
+{PLAYER} wykopuje {STR_VAR_2}\nz głębi ziemi.
+<<< FILE: text/new_game_intro.inc >>>
+ZMIEŃ…
+ZIELONY
+CZERWONY
+LIŚĆ
+OGIEŃ
+GARY
+KAZ
+TORU
+ASH
+KENE
+GEKI
+JAK
+JANNE
+JONN
+KAMON
+KARL
+TAYLOR
+OSCAR
+HIRO
+MAX
+JON
+RALPH
+KAY
+TOSH
+ROAK
+OMI
+JODI
+AMANDA
+HILLARY
+MAKEY
+MICHI
+PAULA
+JUNE
+CASSIE
+REY
+SEDA
+KIKO
+MINA
+NORIE
+SAI
+MOMO
+SUZI
+Wytłumaczymy tu działanie przycisków\nw kolejności ich użyteczności.
+Porusza bohatera. Używany\nteż do wybierania nagłówków\ndanych.
+Używany do wybierania\nprzedmiotów, prowadzenia rozmów.
+Używany do anulowania wyboru,\nbądź trybu.
+Ten przycisk wywołuje okno\nMENU.
+Rusza przedmioty i używa\nfunkcji rejestrowanych.
+Jeśli potrzebujesz pomocy,\nbądź porad, wciśnij przycisk\nL, a następnie R.
+Powiedz mi. Jesteś chłopcem,\nczy dziewczynką?
+W świecie, do którego masz zamiar\nzaraz wkroczyć, czeka cię wielka\nprzygoda z tobą w roli głównej.\n\nRozmawiaj z ludźmi, szukaj sekretów,\ngdziekolwiek się nie znajdziesz.\nZbieraj informacje i podpowiedzi\nz każdego źródła.
+Nowe ścieżki otworzą się, gdy pomożesz\nludziom w potrzebie, pokonasz\nprzeszkody i rozwikłasz tajemnice.\n\nCzasami na pojedynek wyzwą cię inni\ngracze i zaatakują dzikie stworzenia.\nOdwagi! Nie poddawaj się.
+Mamy nadzieję, że w trakcie\npodróży nawiążesz kontakty z nowymi\nprzyjaciółmi, a na twej twarzy pojawi\nsię uśmiech.\nTo nasz główny cel.\n\nNaciśnij A, a rozpocznie się twoja \nwielka przygoda!
+Cześć!\nMiło mi cię poznać!\pWitaj w świecie POKéMONÓW!\pNazywam się OAK.\pChociaż często ludzie nazywają mnie\nPROFESOREM POKéMON.\p
+Ten świat…
+…zamieszkiwany jest przez\nstworzenia zwane POKéMONAMI.\p
+Niektórzy traktują je jak przyjaciół.\nInni, toczą nimi walki.\pJa sam…\pzawodowo studiuję życie POKéMONÓW.\p
+Nie ważne, opowiedz mi\nlepiej coś o sobie.\p
+No więc na początek,\njak się nazywasz?\p
+Racja…\nWięc jesteś {PLAYER}.
+To jest mój wnuczek.\pJest twoim rywalem od czasów,\ngdy byliście dziećmi.\p…Erm, jak miał na imię?
+Imię twojego rywala, jak ono brzmi?
+…Er, czy to {RIVAL}?
+Właśnie! Już pamiętam!\nMa na imię {RIVAL}!\p
+{PLAYER}!\pTwoja własna POKéMONOWA legenda\nwłaśnie się rozpoczyna!\pŚwiat marzeń i przygód z POKéMONAMI\nczeka! Ruszaj więc!
+<<< FILE: text/obtain_item.inc >>>
+{PLAYER} dostaje {STR_VAR_2}!
+TORBA pełna…
+{PLAYER} wkłada {STR_VAR_2} do\n{STR_VAR_3}.
+{PLAYER} znajduje {STR_VAR_2}!
+Szkoda!\nTORBA jest pełna…
+{PLAYER} znajduje\n{STR_VAR_1} {STR_VAR_2}!
+{PLAYER} wkłada ŻETONY do\nETUI NA ŻETONY.
+Szkoda!\nETUI jest już pełne…
+Szkoda!\nNie ma gdzie tego włożyć…
+{PLAYER} znajduje\n{STR_VAR_1} {STR_VAR_2}!
+{PLAYER} dostaje {STR_VAR_2}!
+Szkoda! Nie ma już miejsca\nna następne {STR_VAR_2}…
+{STR_VAR_2} został przeniesiony\ndo PC.
+<<< FILE: text/pc.inc >>>
+{PLAYER} uruchamia PC.
+Do którego PC się podpiąć?
+Połączono z Czyimś PC.
+Otwarto POKéMON Storage System
+Połączono z PC {PLAYER}
+Połączono z PC BILL
+<<< FILE: text/pc_transfer.inc >>>
+{STR_VAR_2} przeniesiony do\nCzyjegoś PC.\pUmieszczono go w\nBOKSIE “{STR_VAR_1}.”
+{STR_VAR_2} przeniesiony do\nPC BILLA.\pUmieszczono go w\nBOKSIE “{STR_VAR_1}.”
+BOX “{STR_VAR_3}” na\nCzyimś PC jest pełny.\p{STR_VAR_2} został wysłany do\nBOXU “{STR_VAR_1}. ”
+BOKS “{STR_VAR_3}” na\nPC BILLA jest pełny.\p{STR_VAR_2} wysłany do\nBOKSU “{STR_VAR_1}.”
+{PLAYER} dostaje\n{STR_VAR_1}!
+ポケモンを　もちきれないので\nパソコンの　ボックス“{STR_VAR_1}”　に\l{STR_VAR_2}を　てんそうした！
+Nie ma już miejsca na POKéMONY!\pBOKSY są już pełne i nie przyjmą\nwięcej POKéMONÓW!
+<<< FILE: text/poke_mart.inc >>>
+Cześć!\nMogę w czymś pomóc?
+Jakiś kwestionariusz.\nCzy masz ochotę go wypełnić?
+Dziękujemy za zainteresowanie\nsię naszym kwestionariuszem.\pTwoje uwagi pomogą nam\nnam nasze usługi.
+Och, witam!\nZnasz te słowa?\pTo znaczy, że wiesz pewnie o\nMYSTERY GIFT.\pOd tej pory otrzymywać będziesz\nMYSTERY GIFTY!
+Gdy zapiszesz grę, będziesz mieć\ndostęp do MYSTERY GIFT.
+Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT
+<<< FILE: text/pokedex_rating.inc >>>
+OAK: Miło mi cię widzieć!\nJak postępy twojego POKéDEKSU?\pPozwól, że rzucę okiem.
+Stopień postępu podczas\npracy nad POKéDEKSEM to:\p{STR_VAR_1} POKéMONÓW widzianych i\n{STR_VAR_2} posiadanych {FONT_NORMAL}.\pOcena PROF. OAKA:
+Nadal masz wiele do zrobienia.\pDokładnie przeszukuj trawę i\nznajduj nowe POKéMONY!
+Wygląda na to, że zaczynasz\nłapać, o co chodzi!\pDałem mojemu POMOCNIKOWI HM\nz BŁYSKEM. Lepiej go znajdź!
+Twój POKéDEX mógłby się jeszcze\ntroszkę wypełnić!\pStaraj łapać się też inne\ngatunki!
+Dobrze, widać, że bardzo się\nstarasz!\pDałem POMOCNIKOWI\nRZECZOSZUKACZ. Nie zapomnij go odebrać!
+Twój POKéDEX zaczyna tworzyć\nspójną całość!\pDałem POMOCNIKOWI MONETĘ\nAMULET. Spróbuj go znaleźć!
+Ach, wreszcie złapałeś\n50 gatunków!\pDałem mojemu POMOCNIKOWI\nROZDZIELACZ. Postaraj się go zdobyć!
+Hoho! Zaczyna się robić coraz\nciekawiej!
+Bardzo dobrze!\pMyślę, że zebrałbyś więcej\nPOKéMONÓW łowiąc ryby.
+Świetnie! Niech zgadnę… Lubisz\nzbierać rzeczy, prawda?
+Jestem pod wrażeniem!\nTo musiało być trudne!
+Wreszcie zdobyłeś 100 gatunków!\nNie mogę uwierzyć, że to prawda!
+Świetnie! Masz nawet rozwinięte\nformy POKéMONÓW!
+Cudownie! Może powymieniaj się z\nkumplami?
+Genialnie!\nStałeś się prawdziwym mistrzem!
+Nie mam nic do powiedzenia!\nJesteś teraz PROFESOREM POKéMONÓW!
+Twój POKéDEX jest już kompletny!\nGratulacje!
+A twój NARODOWY POKéDEX:\p{STR_VAR_1} POKéMONÓW widzianych i\n{STR_VAR_2} posiadanych.
+Mam nadzieję, że wkrótce wypełnisz\nswój NARODOWY POKéDEX!
+Nareszcie…\pNareszcie uzupełniłeś\nPOKéDEX!\pTo niesamowite!\nNaprawdę, to niesamowite wydarzenie!
+Wroooooooaaaaaarrrr!
+はあ はあ‥
+Dziękuję, {PLAYER}!\nSzczerze ci dziękuję!\lSpełniłeś moje marzenia!
+OAK: A, witaj!\pPowiedz, jak sprawuje się\ntwój POKéDEXE?\pŁahahaha!\pTak, wiem, jaki jest jego\nstan, ale kocham go oglądać!\pNo to zobaczmy…
+<<< FILE: text/pokedude.inc >>>
+POKé GOŚĆ: Szybszy z walczących\nmoże atakować jako pierwszy.
+Wygląda na to, że RATTATA\njest szybszy od PIDGEYA.
+Walczący zużywają tury atakując i\nredukując swoje HP.
+Mój RATTATA zredukował HP wroga\ndo zera, więc wygrywa!\pPOKéMONY biorące udział w walce,\nzdobywają Punkty Exp.\pGdy POKéMON zbierze odpowiednią\nilość EXP, zdobywa poziom.\pZdobywając poziom twój POKéMON\nstaje się silniejszy.
+POKé GOŚĆ: Uch-och…\nZatruto mojego RATTATĘ…\pJeżeli POKéMON zatruje się, traci\nrównomiernie HP.
+Gdy problemem POKéMONA stają\nsię zmiany stanu, wylecz go.
+Używając przedmiotu na\nPOKéMONIE, zużywa się turę.\pWięc teraz czas na turę wroga!
+Jupi!\nWygraliśmy!
+POKé GOŚĆ: Ruch BABELKI\njest atakiem WODNYM.\pODDISH, który jest atakowany,\njest typem TRAWA/TRUCIZNA.\pAtaki typu WODNEGO absorbowane są\nprzez POKéMONY TRAWIASTE…\pW rezultacie, atak staje się\nnieefektywny i zadaje tylko\lpołowę zwykłych obrażeń.
+Nie dobrze!\pAtak ABSORPCJA, którego byłeś\nświadkiem to atak TRAWIASTY.\pPOLIWAG jest POKéMONEM WODNYM.\pWięc, ABSORPCJA staje się\nsuperefektywna, podwajając obrażenia.
+Nie będzie łatwo wygrać w takim\npojedynku…\pSpróbujmy więc zmienić POKéMONA!
+Zmiana POKéMONA zużyła naszą\nturę.\pTeraz jest więc tur przeciwnika.
+BUTTERFREE jest POKéMONEM typu\nROBAK/LOT.\pPrzeciwko niemu, ataki typu\nTRAWIASTEGO…\p…zadają tylko połowę normalnych\nobrażeń POKéMONOM ROBAKOM…\p…I zadaje też połowę obrażeń\nPOKéMONOM typu LATAJĄCEGO.\pWynika z tego, że BUTTERFREE,\njako LATAJĄCY ROBAK, otrzymuje\ltylko ćwiartkę zwykłych obrażeń.
+ODDISH jest POKéMONEM typu\nTRAWA/TRUCIZNA.\pAtaki typu LOT i PSYCHO są\nsuperfeketywne w walce z nim.\pAtaki tego typu zadawać będą\npodwójne obrażenia.\pDobra, zaczynamy!
+Wygraliśmy!
+POKé GOŚĆ: Gdy próbujesz łapać\nPOKéMONY, nie rzucaj od razu\lbezsensownie POKé BALLI.\pNajpierw, musisz je osłabić\nredukując ich HP.
+Okej, to powinno wystarczyć.\pAle, jeśli to możliwe, najlepiej\nwyposażyć przeciwnika dodatkowo\lw jakąś zmianę stanu.\pNa przykład, łatwiej złapać\nśpiącego lub sparaliżowanego\lPOKéMONA.
+To znacznie ułatwi nam złapanie\ntego POKéMONA!\pOch, tak. Jeżeli sparaliżujesz\nPOKéMONA, nie możesz go jeszcze\ldodatkowo uśpić.\pInnymi słowy, POKéMON nie może mieć\ndwóch zmian stanu na raz.
+Okej!\nRzucę teraz POKé BALL!
+Zanim rzucisz POKé BALL, zwróć\nuwagę na stan i typ POKéMONA,\lktórego chcesz złapać i wybierz\lKULĘ, która będzie najlepsza.
+<<< FILE: text/route23.inc >>>
+Przejść mogą tylko doświadczeni\nTRENERZY.\pNie masz jeszcze {STR_VAR_1}!
+Zasady to zasady.\nNie puszczę cię.
+Och! To {STR_VAR_1}!\nProszę przejść.
+Możesz przejść, tylko jeśli masz\n{STR_VAR_1}.\pNie masz jeszcze {STR_VAR_1}.\nMusisz ją zdobyć, by móc wkroczyć\pdo LIGI POKéMONÓW.
+Możesz przejść, tylko jeśli\nzdobyłeś już {STR_VAR_1}.\pOch! To jest {STR_VAR_1}!\pOkej {PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC} !\nW takim razie proszę przejść.
+<<< FILE: text/safari_zone.inc >>>
+Czy chcesz już opuścić\nSTREFĘ SAFARI?
+PA: Ding-dong!\pCzas minął!\pTo koniec twojej GRY SAFARI!
+PA: Ding-dong!\pSkończyły ci się SAFARI BALLE!\pTo koniec twojej GRY SAFARI
+サファリゾーンへ　ようこそ！\pここでは　ホウエンでは　なかなか\nみることの　できない　ポケモンを\pしぜんの　すがたの　まま\nめに　することが　できます\pまた　ポケモントレーナーの\nようぼうに　おこたえ　して\pポケモンを\nつかまえる　ことも　できます！\pサファリゾーンを　たのしんで　いってね！
+サファリゾーンへ　ようこそ！\nサファリゾーンは　はじめて　ですか？
+サファリゾーンを　たのしんで　いってね！
+サファリゾーンでは\n30この　サファリボールを　つかって\lポケモンを　つかまえる　ことが　できます\pサファリボールを　つかいきるか\n500ぽ　あるくと\pゲームは　しゅうりょう　です\pサファリゾーンを　たのしんで　いってね！
+サファリゾーンへ　ようこそ！\p500えんで　ポケモン　つかまえほうだい！\nサファリゲームに　さんか　しますか？
+そうですか\nこんど　ぜひ　さんか　してください！
+おかねが　たりませんよ！
+それでは　500えん　いただきます
+では　サファリボールを　どうぞ！
+{PLAYER}は　サファリボールを\n30こ　うけとった！
+じかんに　なりましたら\nこちらから　おしらせ　しますので\pぞんぶんに　おたのしみ　ください！\nでは　いってらっしゃい！
+Twój BOKS jest pełny!
+あ！　おきゃくさん\nポロックケースを　おもちで　ないですね？\pサファリゾーンは　ポロックを　つかうと\nより　おたのしみ　いただけますので\pぜひ　ポロックケースを\nおもちに　なって　おこし　ください！
+まだ　じかんが　のこっていますが\nサファリゾーンを　やめますか？
+では　ひきつづき　おたのしみ　ください！
+わかりました\pそれでは　のこりの　サファリボールを\nおあずかり　します\pおつかれさまでした\nまた　ごりよう　ください
+それでは　いってらっしゃい！\lなにか　ありましたら\nわたしに　こえを　かけて　くださいね
+しってた？\pあの　しかくい　はこに　ポロックを　おくと\nポケモンが　あつまって　くるんだよ！
+この　さきに　いきたい　けど\nじてんしゃ　もって　くるの　わすれた‥‥\pおくに　めずらしい　ポケモンが\nいそうな　きが　するのに！
+ポケモンに　ポロックを　なげても\nしらんぷり　される　ときが　あるのよ\pポケモンにも　すききらいが　あるのかしら？
+ぜぇ‥‥　ぜぇ‥‥\nやっと　ここまで　きたけど‥‥\pつかれちゃって　ポケモン　つかまえる\nげんきも　のこって　ないよ‥‥
+ホウエンに　いない　みずポケモンを\nさがしに　きたんだけど‥‥\pみずうみは　どこにあるのか\nきみ　しってるかい？
+ここで　めずらしい　ポケモンを\nたくさん　つかまえて\lともだちと　こうかん　するんだ！
+ポロックおきばに　おいた　ポロックが\nいつのまにか　なくなっていた‥‥\pしらない　うちに\nポケモンが　たべちゃったのかな？
+サファリゾーンの　おとくな　じょうほう！\pであった　ポケモンに\nポロックを　なげると　にげにくく　なります！
+あるき　つかれたら　ちょっと　ひといき！\n‘みんなの　きゅうけいじょ'
+おれ　ポロック　もってないけど\nポケモン　たくさん　つかまえたよ\pちかづいて　ボールを　なげる　だけで\nけっこう　つかまえられる　もんだよ！
+ポロックを　つかうと　いつもより\nちょっぴり　にげにくく　なるみたい\pだから　にげにくい　ポケモンに　つかっても\nあんまり　いみが　ないかもね
+ポロックおきばに　ポロック　おいて\nポケモンを　つかまえると\pおなじ　ような　せいかくの　ポケモンが\nあつまる　きが　するなあ
+<<< FILE: text/save.inc >>>
+Czy chcesz zapisać grę?
+Plik zapisu już istnieje.\nCzy chcesz go nadpisać?
+ZAPISUJĘ…\nNIE WYŁĄCZAJ ZASILANIA.
+{PLAYER} zapisuje grę.
+セーブに　しっぱい　しました‥
+UWAGA!\pIstnieje już inna gra zapisana\nna tym dysku.\pJeżeli zapiszesz, poprzednia przygoda,\nw tym przedmioty i POKéMONY\lzostaną nieodwracalnie utracone.\pCzy na pewno chcesz zapisać i\nnadpisać istniejący plik zapisu?
+<<< FILE: text/seagallop.inc >>>
+おつかれさん！\nどこに　いきたいんだ？
+OK! Wszyscy\nna pokład SEAGALLOP HI-SPEED {STR_VAR_1}!
+<<< FILE: text/sign_lady.inc >>>
+Hmm…\nCzy to prawda…
+Och!\nSpójrz!
+Przeczytaj!
+PORADA\pNaciśnij START, aby uruchomić MENU!
+Znaki są użyteczne, czyż nie?
+Spójrz!\pSkopiowałam to, co pisało na\njednym z tych znaków PORADA!
+PORADA!\pNaciśnij START, by uruchomić MENU!
+<<< FILE: text/surf.inc >>>
+Woda jest tu spokojna i błękitna…\nCzy użyć SURFOWANIA?
+{STR_VAR_1} SURFUJE!
+Jest tu zbyt silny prąd wody!\nNie można tu SURFOWAĆ…
+<<< FILE: text/trainer_card.inc >>>
+To DRUKARKA POKéMON!\pMoże umieścić obrazki twoich POKéMONÓW\nz tyłu twojej KARTY TRENERSKIEJ.\pNadruk kosztuje ¥50.\nChcesz spróbować?
+Masz za mało pieniędzy.
+Proszę wybrać rodzaj nadruku.
+Prosimy o uśmiech do obiektywu!\nTrzy… Dwa… Jeden…\pPstryk!
+Twój nadruk jest gotowy!\nSprawdź swoją KARTĘ TRENERA.
+Chichot…\nZebrałem mnóstwo NAKLEJEK.\lChciałbym móc się nimi pochwalić…
+O, doskonale!\nPrzyszedłeś we właściwe miejsce!\pPatrz, patrz! Widzisz? Widzisz?\nTo są moje NAKLEJKI!\lSpójrz, ile ich mam!\pZałożę się, że chcesz trochę.\nZałożę się, że tak!\pDam NAKLEJKĘ, jeśli\npowiesz mi coś\lniesamowitego o sobie.\pCzym będziesz się chwalić?
+Pochwal się czymś przede mną.\nDam ci NAKLEJKĘ.
+O, cześć!\nOto nadęty chwalipięta.\pCzym dziś\nzamierzasz się chwalić?
+O, wow, trafiłeś\ndo SALONU SŁAW.\pTo całkiem dobre, tak!\nDam ci jedną z tych.
+O, wow, często wchodzisz\ndo SALONU SŁAW!\pTo imponujące, tak!\nDam ci jedną z tych.
+Whoa! Tak często trafiasz\ndo HALI SŁAW?\lTo naprawdę niesamowite, tak!\pJesteś właścicielem LIGI POKéMON!\nDam ci jedną z tych.
+Nie wierzę! Wszedłeś do\nSALONU SŁAW tylu razy?\pJesteś niesamowity, tak!\nTo wszystko, muszę ci to dać.
+NAKLEJKA HALA SŁAW\nzostała przyklejona do KARTY TRENERA.
+Hmm…\pWróć następnym razem z\nlepszą historią, okej?
+Och, nie, nie da się.\pJesteś praktycznie żywą legendą.\nNie mam już żadnych NAKLEJEK do rozdania.
+O, wow, są JAJKA POKéMON?\nNie wiedziałem tego!\pTo całkiem dobre, tak!\nDam ci jedną z tych.
+Wylęgłeś aż tyle JAJ?\nNaprawdę musisz je lubić!\pTo imponujące, tak!\nDam ci jedną z tych.
+O rety! Wykluło ci\nsię całe mnóstwo JAJEK!\pJesteś maszyną do wykluwania jaj!\nDam ci jedną z tych.
+Co… Wyklułeś tylu JAJ?\pCo stoi za twoją miłością do JAJEK?\nTo jest niesamowite, tak!\pJesteś zbyt niesamowity, mówię ci.\nTo wszystko, muszę ci to dać.
+NAKLEJKA JAJKO została przyklejona\ndo KARTY TRENERA.
+Hmm…\pWróć następnym razem z\nlepszą historią, dobrze?
+Och, nie, nie da się.\pJesteś praktycznie żywą legendą.\nNie mam już żadnych NAKLEJEK do rozdania.
+O, wow, miałeś sukces\nw walce o linki?\pJesteś całkiem silny, tak!\nDam ci jedną z tych.
+Wygrałeś z przyjaciółmi wiele razy w\nwalkach na link, co nie?\pJesteś niesamowicie silny, tak!\nDam ci jedną z tych.
+O rety! Pokonałeś swoich\nprzyjaciół przerażającą liczbę razy.\pCzy straciłeś przez to przyjaciół?\nDam ci jedną z tych.
+O… Niezwykle wow!\nWygrałeś zadziwiająco często!\pPo prostu powala mnie na myśl\no tym, jak jesteś twardy.\pJesteś materiałem na koszmary!\nTo wszystko, muszę ci to dać.
+NAKLEJKA ZWYCIĘSTWA została przyklejona\ndo KARTY TRENERA.
+Hmm…\pWróć następnym razem z\nlepszą historią, okej?
+Och, nie, nie da się.\pJesteś praktycznie żywą legendą.\nNie mam już żadnych NAKLEJEK do rozdania.
+<<< FILE: text/trainers.inc >>>
+Bateria nie jest jeszcze\nwystarczająco naładowana.\pPotrzeba jeszcze {STR_VAR_1} kroków!{PAUSE_UNTIL_PRESS}
+W zasięgu nie ma TRENERÓW chcących\nwalczyć…\pTRENEROSZUKACZ został\nwyłączony.{PAUSE_UNTIL_PRESS}
+Inni TRENERZY nie są gotowi\nna walkę.\pSpróbuj później.{PAUSE_UNTIL_PRESS}
+O!\nWidziałem cię w LESIE VIRIDIAN!
+Cześć! Lubię szorty!\nSą wygodne i łatwe do noszenia!\pPowinieneś też nosić szorty!
+Wybacz mi!\nPatrzysz na mnie, czy to prawda?
+Jesteś TRENEREM, czy to prawda?\nZróbmy to od razu!
+To spojrzenie…\nStrasznie intrygujące!
+Co jest z tobą nie tak?\nNadal nie masz na sobie szortów!
+Będę walczył POKéMONAMI!\nZacząłem się podnosić.
+Eek!\nPopchnąłeś mnie?
+Zawsze łapie POKéMONY grzyby\nna GÓRZE MOON.
+Och! Jesteś tym dzieckiem, który\nnas podsłuchał!
+Wybacz mi! Czy nie powiedziałam\nci, że to jest prywatna rozmowa?\pNie powinieneś słuchać, co\nza nieokrzesana osoba!
+Próbuje znaleźć coś dobrego, co\nnie jest POKéMONEM ROBAKIEM…
+Co?\nChcesz jeszcze raz powalczyć?
+Ja?\nCóż, okej. Powalczę tym razem.
+Hej, długo czekałem!\nStałeś się lepszy?
+Jesteś dobry w POKéMONY, ale jak\noceniasz swoją chemię?
+W porządku!\nZagrajmy jeszcze raz!
+Potrzebujesz strategii, aby\nwygrać w walce.\pPodążasz za moją radą?
+Zebrałam wiele NIDORANÓW.\nNie chcę, żeby się rozwijały, ale…
+Szkoła jest fajna, ale uważam,\nże POKéMONY też są.
+MEOWTH i PERSIAN są słodcy,\nmiał, miał, miał!
+Możemy wyglądać głupio tak jak\ntutaj, ale wciąż mogę walczyć.
+Jestem gburowatym kolegą z gier!\nMam świetną passę!
+Co jest słodkie, okrągłe i\npuchate?\pPrzecież to wiesz, czyż nie?
+Mój rower nadal działa, koleś.
+Okej!\nTym razem nie oczekuj litości!
+ELI: Nasza bliźniacza moc jest\nlepsza!
+ANNE: Bliźniacza moc mocniejsza!
+Powalczymy jeszcze raz?\nTo czas, jesteś mój!
+Nie zapomniałem, że tutaj byłeś\nz tymi ładnymi POKéMONAMI.
+Zabieram się do TUNELU SKAŁ, aby\nudać się do LAVENDER…\pAle po drodze zatrzymują\nmnie wszyscy…
+Nie waż się mnie dziś tak traktować!\nGramy na zawsze!
+Błahaha!\nŚwietnie! Nudziłem się znowu!
+Hahaha!\nMaludki pakerek, jak zawsze!
+Wstaję codziennie wcześnie rano,\nby trenować moje kokony!
+Hahahaha!\nWygram tym razem!
+Wygrajcie, moje super ROBAKI!
+Przybyłeś tu ponownie?\nMoże też jesteś POKéMANIAKIEM?\lChcesz zobaczyć moją kolekcję?
+Ha-hahah-ah-ha!\nNie mogę przestać!
+Cześć!\nCzy pokażesz mi POKéMONY?
+Poszłam znów do SALI POKéMON.\p…Ale jak zwykle porażka.
+Ach!\nGórskie powietrze jest pyszne!\lTakie dobre, nie może wyjść!
+Moja głowa zaczyna się kręcić.\nJeżdżę tutaj zbyt długo…
+Wygrana, przegrana!\nTeraz nasz rewanż!
+Konkurowanie to dreszczyk emocji.\nWciąż niewystarczająco!
+Wiesz, prawda?\nChodźmy, ale nie oszukuj!
+No witaj!\pAle proszę bądź ostrożny!\nNadal kładę tutaj kable!
+Niedawno zostałem TRENEREM.\nAle myślę, że mogę wygrać.
+Łahaha!\nNigdy nie przegrałem!\pA jeśli tak, zapomniałem o\ntym wszystkim!
+Nigdy wcześniej nie wygrałem…\pByć może zamierzam tak\npozostać…
+Jestem najlepszy w klasie.\nTrenuję każdego ranka i nocy.
+Miej oczy na żywe przewody!
+Trenowałem ostrożnie moje\nPOKéMONY. Powinny już być gotowe.\lTym razem powinni wygrać.
+Tak!\nCoś mnie tutaj gryzie!\lT-to może być prawdziwe!
+W końcu tu jesteś.\nWędkowanie to spokojna gra.
+Nadal nie mam KAMIEŃ KSIĘŻYCA…\nCzy masz jeden?
+Elektryczność zawsze była moją\nspecjalnością.\pJednak nie wiem nic o\nmorskich POKéMONACH.
+ŁOWIĄCY GŁUPEK kontra\nDZIECIAK! Kolejna runda, bitwa!
+Lubię łowić, nie zrozum mnie źle.\nAle chce mieć więcej pracy…\l…Cieżko zrezygnować z wędkowania!
+Co łapie?\pNie dowiesz się, chyba że\nmnie pokonasz!
+JES: Dzisiaj wygram tutaj\ni wyjdę za moją GIA.
+GIA: Hej, JES…\nDługo czekałam na ten moment.\pJeśli wygramy, wyjdę za ciebie!
+Mój POKéMON ptak pamięta cię!
+Chcę być najlepsza, kiedy\njestem dzieckiem!
+Łał!\nMasz więcej ODZNAK! Cool!
+Moje piękne POKéMONY chciałby\nsię z tobą ponownie zapoznać.
+Zmyłam swoje oszczędności\ni kupiłam WĘGLOWODANY.
+Tym razem nie przegram.\nWiatr wieje w moją stronę!
+Och, wróciłeś?\pNo pewnie, że powalczę z tobą,\nkochanie.
+Nie możesz zapomnieć, że\nwalczyłeś ze mną?
+Na co się tak gapisz?
+Zawsze chodzę z ptakami POKéMON.\nPoświęciłem się im.
+Używam TM, by nauczyć ruchów\nmoje POKéMONY.
+Moje ptaki POKéMON powinny być\nteraz gotowe do bitwy.
+Używasz TMy na POKéMONACH?\nTrzymanie ich jest bezużyteczne.
+Czy nauczyłeś swojego ptaka\nPOKéMONA jak latać?\pBędziesz mógł wznieść się w\nniebo! Weź spróbuj.
+Legenda o uskrzydlonych mirażach…\nSłyszałeś to, prawda?
+Nie jestem w tym dobry, ale OK.\nWalczmy!
+Hej!\nPamiętam cię!\pNo dalej, dalej.\nChodźmy, chodźmy, chodźmy!
+Jesteś tu znowu, co?\nZamknij się i walcz.
+Jeździmy tutaj z powodu szeroko\notwartych przestrzeni.
+Bitwa POKéMON, racja?\nSuper! Huczę!
+KIRI: JAN, chyba dziś wygramy.
+JAN: KIRI, zaczynamy!\nTym razem na pewno wygramy!
+Będę walczyła z moimi POKéMONAMI,\nktóre dostałam w wymianie.
+Wyglądasz łagodnie, więc myślę,\nże cię pokonam.\pDam ci jeszcze raz!
+Kiedy gwizdam, zbiera się\nptak POKéMON.\pSą niesamowicie urocze!
+Hmm? Moje ptaki drżą! Czekaj,\nczy nie jesteś tym TRENEREM…
+Jesteś małym słodziakiem!\nTak jak kochany POKéMON!\lPamiętam cię, wiesz!
+Trenuje POKéMONY dla ochrony,\nponieważ mieszkam sam.\pTo się nie zmieniło.
+Hej! Dawaj!\nMam ich od jakiegoś przegranego!
+Zabiorę całą twoją gotówkę, gdy\nprzegrasz, mały!
+Co jest fajne i dzieje się?\nWymiana POKéMONÓW, o tak.
+Chcesz znowu walczyć ze mną?
+MYA: Cześć, znowu się spotykamy,\nprawda?\pPomóż mi trenować mojego\nbrata?
+RON: Moja siostra stała się\nlepsza…
+Czego chcesz?
+Niezły ROWER!\nDaj mi go, już!
+Chodź się pobawić, mała myszko.\nNaprawię cię dobrze!
+Poczekaj chwile!\nNie dzwoń do mnie, a potem uciekaj!
+Czuję się głodny i złośliwy!\nPotrzebuje worek treningowy!
+Hej, tam!\nBędziemy się dobrze bawić!
+JED: Czy jesteś tu, aby\nzobaczyć naszą miłość bez granic?
+LEA: Czasami, przeraża mnie\nsiła mojej miłości.
+Mówiłem, nie ma szybko wzbogacania\nsię w walce z dziećmi.
+Jestem dumny z mojej postury, mały.\nDawaj!
+Jesteś na spacerze?
+Jesteśmy MOTOCYKLISTAMI!\nPanujemy tu!
+VOLTORB zamierza cię dzisiaj\nnaelektryzować!
+Poziomowałem POKéMONA, ale\nabsolutnie nie ewoluuje. Dlaczego?
+Gach! Naprawdę muszę ćwiczyć i\npoważnie przycinać jakiś cios!
+Rebeliant!
+Tak, to niezły ROWER!\nJak sobie radzisz?
+Spadaj, mały!\nMam dość!
+Sprawdzałem każdy trawiasty\nteren dla nowego POKéMONA.\pAle to nie zawsze łatwe…
+Koorukukukoo!\nCzy moje gdakanie jest lepsze?
+Ostrzegałem cię wcześniej, to\njest dar!\pNie chce, żebyś przychodził.
+Jestem prawie rozgrzany, żeby\npopływać.
+Poczekaj! Zwolnij!\nA co jeśli masz zawał serca?
+Kocham pływać!\nDomyślam się, że lubisz surfować.
+Co jest poza horyzontem?\nCzy widziałeś?
+Próbowałem nurkować na POKéMONIE,\nale nie było tak jak wcześniej.
+Patrzę na morze, aby zapomnieć\no złych rzeczach, które były.\p…Tak jak straciłeś ostatni raz!
+Zawsze jeździsz na swoim\nPOKéMONIE…\pWygląda to relaksująco.\nJeśli wygram, mogę go?
+Pływanie panuje!\nUdary nie!
+Te wody są zdradliwe!\nNie powinieneś tutaj wracać!
+Pływałem tu z przyjaciółmi…\nJestem zmęczony…\lMusimy znowu walczyć?
+LIA: Wiesz, że mój brat właśnie\nzostał TRENEREM, prawda?\pChcę go trenować, więc\npotrzebuję twojej pomocy.
+LUC: Moja starsza siostra\nnauczyła mnie o POKéMONACH.\pJestem lepszy?
+Woda jest tu płytka.\nWiele ludzi przychodzi tu pływać.
+Jesteś zazdrosny, że\nspędzam wakacje na SEAFOAM?
+Uwielbiam pływać z rybkami\ntutaj, pośród fal.
+Czy byłeś na wakacjach?
+Zobacz moją sylwetkę!\pJest lepiej wysportowana\nniż przedtem!
+Czemu jeździsz na POKéMONIE?\nJeszcze nie nauczyłeś się pływać?
+Przyleciałem tutaj na ptaku.
+Mój chłopak dał mi wielkie perły.\nI powiększyły się!
+Przypłynąłem tu z WYSPY CINNABAR.\nTo nie łatwe, jak mówiłem.
+CINNABAR, na zachodzie, ma\nLABORATORIUM.\pPracuje tam mój tatuś!
+Chcesz wiedzieć, czy łapią\nryby?
+Znów dostałem wielki łup!\nChcesz znowu walczyć?
+Morze oczyszcza me ciało i duszę!
+きょうも　およぎに\nきちまったぜ
+Złapałem moje POKéMONY na morzu.\nI tam ich trenuje.
+W tej chwili jestem na innym\ntriatlonie!
+Ach!\nPoczuj słońce i wiatr!
+Hej, wynoś się stąd.\nZawsze przestraszysz mi rybę!
+Dotrzymaj mi towarzystwa, co?
+LIL: Co? Znowu bitwa?\nIAN, nie możesz walczyć sam?
+IAN: Moje siostra jest pluchą.\nPomóż mi ją kształtować!
+Nie przegram, póki tu jestem!
+Tata zabrał mnie na super imprezę\nna S.S. ANNA w VERMILION CITY.
+Jestem super gość.\nI mam dziewczynę!\pPokaże jej, jak jestem super,\ntym razem na pewno!
+Heja!\nMój chłopak jest super!\lMoja kondycja jest dobra!
+Miałem to uczucie…\nZnowu będę musiał walczyć z tobą!
+Mój przyjaciel ma wiele słodkich\nPOKéMONÓW!
+Właśnie trenowałem na GÓRZE MOON,\nale wciąż mam benzynę w sobie!
+POKéMANIAK mieszka na przylądku.\nWidziałeś jego kolekcję?
+Znowu idziesz zobaczyć BILLA?\nNajpierw, walczmy!
+Widziałem twój tułów w trawie!
+Okej!\nUduszę cię!
+Zawsze wyglądasz na zajętego…\nNie czujesz się źle?
+Naprawdę kochasz przyjść\nna MOST SAMORODKA.
+Czas, w którym walczyliśmy…\pChociaż byłam druga w kolejce,\nbyłam najlepsza, prawda?
+Ludzie nazywają to MOSTEM\nSAMORODKA!\pJuż nas pokonałeś, więc nie\nmożesz już podjąć wyzwania…\p…Ale możesz ponownie\nwalczyć z nami i nas pokonać.
+Leżąc z tyłu, kołysany falami…\nNie zauważam, że czas płynie…
+Pogoda jest wspaniała!\nSpróbuję tego nie zepsuć.
+Moja opalenizna zaczyna boleć…
+Góra ognistego ptaka rzuca\nogromny cień…
+Mam silne przeczucie, że mogę\nwygrać tym razem!
+Stój! Stój chwilę!\nJestem pewien, że złapałem dużą!
+Pomożesz mi ponownie z\nmoim treningiem?
+Nie opuściliśmy ani jednego dnia\ntreningu!
+Każdego ranka, przed śniadaniem,\npływam po tej wyspie…\lTrzy razy!
+Ubierz się odpowiednio do bitwy!\nStrać ten niepoważny strój!
+Wiesz, wszystko smakuje świetnie,\ngdy głodujesz w dziczy.
+Znowu zjadłem, więc walczysz z\nnami o jakieś ćwiczenia?
+KIA: Mój brat i ja tworzymy\nniesamowitą kombinację!\pNie stracimy tego czasu!
+MIK: Razem z KIĄ, nie boimy\nsię absolutnie niczego!\pTym razem ci to udowodnimy!
+Chcesz znowu powalczyć?
+Skąd przyszliście i gdzie\njesteście związani?
+Chce wkrótce wypłynąć bez\nmojego koła.
+Jej, jej!\nPOKéMON!
+O, nie, czy już ci nie mówiłem?\nProszę, trzymaj się z daleka!
+JOY: Staliśmy się silniejsi!\nWiele, wiele!
+MEG: Nie możesz nas pokonać!
+Och, witaj!\pCzy trenujesz swoje POKéMONY w\ndobrym otoczeniu?
+Z tymi rękami, stworzę dzisiaj\nmoje zwycięstwo.
+Czy muszę się powtarzać?\nPróbuje malować.\lProszę, nie dotykaj mnie!
+Nie zrobiłem żadnego postępu…\nNadal nie mogę uzyskać kąta…
+Och, dasz mi kolejną okazję, aby\ndopasować do ciebie spryt?
+Już prawie skończyli robić basen\ndla mojego POKéMONA.\pMusisz wpaść na wizytę.
+Jestem biegaczem.\nJestem jeszcze szybszy!
+Mówię, przyjacielu!\nCieszmy się razem!
+Jestem najstarszym z PTASICH\nBRACI. Pamiętasz mnie?\pZgadza się, to ja kocham ptaki\nza ich dzioby!
+Jestem średnim dzieckiem z\nPTASICH BRACI.\pJestem tym, który kocha skrzydła.\nWalczmy znowu!
+Jestem najmłodszym z\nPTASICH BRACI.\pKocham ptaki za ich upadek.\nNie myślałem, że cię znowu zobaczę!
+Wciąż nie mam szczęścia.\nTa bitwa będzie zmianą tempa!
+Gasp… Gasp…\pPrzypłynąłem tu z portu WYSPY SIX\nza jednym razem.
+Zawsze przychodzisz podczas\npływania.
+AVA: Miejmy dzisiaj kolejną\npodwójną bitwe morską!
+GEB: Moja starsza siostra i ja\njesteśmy dużo lepsi!
+…Co?\pWyobrażam sobie mój dom, ale\nTELEPORT mnie tu sprowadza!
+Och, witaj.\nPonownie wiał przyjemny wietrzyk.
+Hehehe, trenuję w tajemnicy\nponownie.
+Co, masz dość widzieć\nPŁYWAKÓW takich jak ja?\pAł, bez nienawiści!\nBitwa znowu ze mną.
+Ech…\nMój chłopak jest zajęty…
+No dalej, powiedz mi, gdzie są\ngóry wokół tych części?
+MIU: Witaj, POKéMONIE!\nTo znowu czas na grę!
+MIA: Witaj, POKéMONIE!\nTo znowu czas na bitwę!
+Wygląda na to, że na tym\nświecie wciąż jest wiele tajemnic.
+Hej, nie spotkaliśmy się dawno?\nCo zmusiło cię do powrotu?
+Mówi się, że na tej wyspie są\njakieś tajemnicze kamienie.\pCzy odkryłeś coś, odkąd się\nostatnio poznaliśmy?
+Rewanż z tobą, więc tak wysoko!
+Jestem dość obeznany z terenem\nwokół tych części.
+Wyczułem to spotkanie.
+Gdzieś na tej wyspie, śpią\nspecyficzne POKéMONY.
+Kjachacha!\pPowrót nie zmieni niczego.\nOdprowadzę cię bez wysiłku!
+Cześć! Czy jesteś członkiem\nmojego fanklubu, prawda?
+Ta wyspa jest rozproszona…\nPatrolowanie tego miejsca to opór…
+Nie wybaczam tym, co nadużywają\nPOKéMONY!
+EVE: Połączę się z JONEM i\nznowu zbiorę się.
+JON: Kiedy jestem z EVE, wydaje\nsię, że nigdy nie stracimy, nigdy.
+Rozegrajmy kolejną bitwę.\nMoja kondycja jest w formie!
+Nie ważne, czy masz najsilniejsze\nPOKéMONY…\pTo nie ma najmniejszego znaczenia,\njeśli nie wiesz, jak powinno się ich\pużywać!
+Pracuję, aby chronić środowisko.\nZ kolei natura mnie chroni!
+Za każdym razem, kiedy się\nspotykamy, masz te buty.
+Musiałeś być ostrzejszy.\nPozwól mi walczyć z tobą!
+Otrzymałem najlepszą możliwą\nedukację, by stać się tak silnym.\pTym razem nie przegram.\nAbsolutnie nie!
+LEX: Moja kochana NYA, razem\nwygramy na pewno!
+NYA: Nie powlokę mojego mentora\nLEXA! Tym razem wygramy!
+Czy udało ci się odkryć coś o tej\nkamiennej komnacie?
+Podobno wewnątrz śpi jakiś\nmistyczny POKéMON.
+Mój nauczyciel pokazuje mi,\njak malować więcej.
+Dzisiaj, oprócz naszej lekcji,\nponownie odwiedziliśmy komnatę.
+<<< FILE: text/white_out.inc >>>
+Najpierw powinieneś wyleczyć\nwszystkie swoje POKéMONY.
+Twoje POKéMONY zostały w\npełni wyleczone.\pJeśli HP twoich POKéMONÓW spadnie\nponownie, odwiedź nas znowu.\pJeśli planujesz daleką podróż,\ndobrze jest kupić MIKSTURY w\lPOKéMON MART.\pMamy nadzieję, że\nsobie poradzisz!
+Twoje POKéMONY zostały wyleczone\ndo pełni zdrowia.\pDo zobaczenia!
+MAMA: {PLAYER}!\nWitaj w domu.\pMiałeś pewnie pełno\nprzygód, co?\pPowinieneś odpocząć sobie przez\nchwilkę.
+MAMA: Dobrze! Ty i twoje\nPOKéMONY wyglądacie świetnie.\pSłyszałam od PROFESORA OAKA,\pże energia POKéMONÓW mierzona\njest w HP.\pGdy twoje POKéMONY stracą HP, możesz\nwyleczyć je w najbliższym\lCENTRUM POKéMON.\pJeśli wybierasz się gdzieś dalej,\nmądry TRENER kupuje zawsze\lMIKSTURY w lokalnym POKéMON MART.\pJestem z ciebie dumna, złotko!\pPapa!
+{PLAYER} nie ma już\nPOKéMONÓW!\p{PLAYER} panikuje i traci ¥{STR_VAR_1}…\p… … … …\p{PLAYER} przegrywa!
+{PLAYER} nie ma już\nPOKéMONÓW!\p{PLAYER} przegrywa!

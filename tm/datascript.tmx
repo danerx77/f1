@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="SuperCAT" creationtoolversion="1.0" segtype="sentence" o-tmf="SuperCAT" adminlang="en" srclang="en" datatype="plaintext" creationdate="20260829T222239Z"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en"><seg>Welcome to the POKéMON CABLE\nCLUB.\pWhich of our services do you wish\nto use?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witamy w POKéMON CABLE CLUB.\pZ której usługi masz ochotę\nskorzystać?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Which of our services do you wish\nto use?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Z której usługi masz ochotę\nskorzystać?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Trade POKéMON with another player\nusing a GBA Game Link cable.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wymiana POKéMONÓW z innym graczem\nprzy pomocy Game Link cable.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You may battle another TRAINER\nusing a GBA Game Link cable.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Możesz zmierzyć się z innym\nTRENEREM przez Game Link cable.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For a DOUBLE BATTLE, you must\nhave at least two POKéMON.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Potrzebujesz minimum 2 POKéMONÓW\ndo PODWÓJNEJ WALKI.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For trading, you must have at\nleast two POKéMON with you.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Do wymiany, potrzebujesz\nprzynajmniej 2 POKéMONÓW.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A POKéMON holding the {STR_VAR_1}\nBERRY can't be traded.</seg></tuv>
+      <tuv xml:lang="pl"><seg>POKéMON z JAGODĄ {STR_VAR_1}\nnie może być wymieniony.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please wait.\n… … B Button: Cancel</seg></tuv>
+      <tuv xml:lang="pl"><seg>Chwileczkę.\n…… Przycisk B: Anuluj</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When all players are ready…\nA Button: Confirm\lB Button: Cancel</seg></tuv>
+      <tuv xml:lang="pl"><seg>Oczekiwanie na graczy…\nPrzycisk A: Potwierdź\lPrzycisk B:Anuluj</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Start link with {STR_VAR_1} players.\nA Button: Confirm\lB Button: Cancel</seg></tuv>
+      <tuv xml:lang="pl"><seg>Uruchomić łącze z {STR_VAR_1} graczami.\nPrzycisk A: OK\lPrzycisk B: Anuluj.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Awaiting linkup…\n… … B Button: Cancel</seg></tuv>
+      <tuv xml:lang="pl"><seg>Oczekiwanie połączenia…\n… …Przycisk B: Anuluj</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please enter.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Proszę wejść.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I'll direct you to your room now.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zaprowadzę cię do twojego pokoju.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Someone is not ready to link.\pPlease come back after everyone\nhas made preparations.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ktoś nie jest gotowy.\pProszę wrócić, gdy wszyscy będą już\nprzygotowani.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sorry, we have a link error…\nPlease reset and try again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Przepraszmy, błąd połączenia…\nZresetuj i spróbuj od nowa</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The link partners appear to have\nmade different selections.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Partnerzy wybrali chyba inny\nrodzaj połączenia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please do visit again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Do zobaczenia.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The number of participants is\nincorrect.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Liczba uczestników jest\nniepoprawna.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The SINGLE BATTLE Mode can't be\nplayed by {STR_VAR_1} players.</seg></tuv>
+      <tuv xml:lang="pl"><seg>W JEDNOOSOBOWEJ WALCE nie może\nbrać udział {STR_VAR_1} graczy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The DOUBLE BATTLE Mode can't be\nplayed by {STR_VAR_1} players.</seg></tuv>
+      <tuv xml:lang="pl"><seg>W PODWÓJNEJ WALKE nie może\nbrać udziału {STR_VAR_1} graczy.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There must be four players to play\nthis Battle Mode.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Musi być czterech graczy, by\nrozegrać tę walkę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please confirm the number of\nplayers and start again.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Proszę potwierdzić liczbę\ngraczy i zacznij od nowa.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The link will be terminated if you\nleave the room. Is that okay?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Połączenie zostanie zerwane, jeśli\nopuścisz pokój. W porządku?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Terminating link…\nYou will be escorted out of\lthe room. Please wait.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zrywanie połączenia…\nZostaniesz wyprowadzony z\lpokoju. Chwileczkę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This TRAINER is too busy to\nnotice…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ten TRENER jest zbyt\nzajęty…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Score! Got to look at {STR_VAR_1}'s\nTRAINER CARD!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Punkt! Podejrzał KARTĘ TRENERA\n{STR_VAR_1}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Score! Got to look at {STR_VAR_1}'s\nTRAINER CARD!\pIt's a {STR_VAR_2} card!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Punkt! Podejrzał KARTĘ TRENERA\n{STR_VAR_1}!\pTo karta {STR_VAR_2}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please take your seat and start\nyour battle.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Proszę usiąść i rozpocząć swój\npojedynek.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please take your seat and start\nyour trade.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Proszę usiąść i rozpocząć\nproces wymiany.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I hope to see you again!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Spotkajmy się ponownie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hello, {PLAYER}!\pIt's me, TEALA, the POKéMON\nCENTER 2F attendant.\pIs there something you needed to\nask me about linking?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witaj, {PLAYER}!\pTo ja, TEALA, pomocnik z\n2F CENTRUM POKéMON.\pCzy jest coś, o co chciałbyś mnie\nzapytać?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Let me explain how the POKéMON\nWIRELESS CLUB works.\pOn this, the top floor, there are\ntwo rooms.\pFirst, the room on the left.\nIt's the UNION ROOM.\pYou may link up with TRAINERS\naround you who have also entered\lthe UNION ROOM.\pWith them, you may do things like\nchat, battle, and trade.\pSecond, the room on the right is\nthe DIRECT CORNER.\pYou may trade or battle POKéMON\nwith your friends in this room.\pSometimes, you may not be able to\nfind your friends in the UNION ROOM\lor the DIRECT CORNER.\pIn that case, please move closer\nto your friends.\pIf the Wireless Adapter isn't\nconnected, you may still link up\lusing a GBA Game Link cable.\pIf that is the case, you must go\nto the DIRECT CORNER.\pI hope you enjoy the Wireless \nCommunication System.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Pozwól, że wytłumaczę ci jak\ndziała WIRELESS CLUB.\pNa tym piętrze znajdują się dwa\npomieszczenia.\pPomieszczenie z lewej to\nUNION ROOM.\pMożesz połączyć się tam z TRENERAMI,\nktórzy także znajdują się w\lUNION ROOM.\pPozwoli co to na rozmowę,\nwalkę, a także wymianę z nimi.\pPokój po stronie prawej, to\lDIRECT CORNER.\pTam, możesz walczyć i wymieniać się\nPOKéMONAMI ze swoimi przyjaciółmi.\pCzasami, możesz mieć problemy ze\nznalezieniem kolegów przebywających\pw UNION ROOM lub DIRECT CORNER.\pW takim wypadku, przybliż się\ndo swoich przyjaciół.\pJeżeli nie zostanie podłączony\pWireless Adapter, nadal możesz łączyć\lsię za pomocą GBA Game Link cable.\pW tym wypadku korzystaj jednak\ntylko z DIRECT CORNER.\pMiłej zabawy z\nSystemem Bezprzewodowym.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I hope you enjoy the Wireless\nCommunication System.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Miłem zabawy z Systemem\nKomunikacji Bezprzewodowej.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This tree looks like it can be CUT\ndown!\pWould you like to CUT it?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygląda na to, że to drzewko\nmoże zostać ŚCIĘTE.\pCzy użyć CIĘCIA?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used {STR_VAR_2}!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył {STR_VAR_2}!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This tree looks like it can be CUT\ndown!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygląda na to, że to drzewo\nmożna ŚCIĄĆ!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This rock appears to be breakable.\nWould you like to use ROCK SMASH?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ten kamień wygląda bardzo krucho.\nCzy chcesz użyć ŁUPACZA SKAL?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's a rugged rock, but a POKéMON\nmay be able to smash it.</seg></tuv>
+      <tuv xml:lang="pl"><seg>To kruchy kamień. POKéMON może\nbyć w stanie go rozłupać.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's a big boulder, but a POKéMON\nmay be able to push it aside.\pWould you like to use STRENGTH?</seg></tuv>
+      <tuv xml:lang="pl"><seg>To olbrzymi głaz, ale POKéMON\nmoże być w stanie go popchnąć.\pCzy chcesz użyć SIŁY?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used STRENGTH!\p{STR_VAR_1}'s STRENGTH made it\npossible to move boulders around!</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył SIŁY!\pSIŁA pozwala {STR_VAR_1}\nprzesuwać ciężkie kamienie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's a big boulder, but a POKéMON\nmay be able to push it aside.</seg></tuv>
+      <tuv xml:lang="pl"><seg>To wielki kamień, ale POKéMON może\nbyć w stanie go popchnąć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>STRENGTH made it possible to move\nboulders around.</seg></tuv>
+      <tuv xml:lang="pl"><seg>SIŁA pozwala na przesuwanie\nciężkich kamieni.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A wall of water is crashing down\nwith a mighty roar.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Woda spada na dół z wielkim\nłoskotem.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's a large waterfall.\nWould you like to use WATERFALL?</seg></tuv>
+      <tuv xml:lang="pl"><seg>To olbrzymi wodospad.\nCzy chcesz użyć WODOSPADU?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used WATERFALL.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył WODOSPADU.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The sea is deep here. A POKéMON\nmay be able to go underwater.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Woda jest tu bardzo głęboka.\nPOKéMON mógłby zejść pod wodę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The sea is deep here.\nWould you like to use DIVE?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Woda jest tu głęboka.\nCzy chcesz użyć NURKOWANIA?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>{STR_VAR_1} used DIVE.</seg></tuv>
+      <tuv xml:lang="pl"><seg>{STR_VAR_1} użył NURKOWANIA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Light is filtering down from above.\nA POKéMON may be able to surface.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dochodzi tu światło z powierzchni.\nPOKéMON mógłby wypłynąć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Light is filtering down from above.\nWould you like to use DIVE?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dochodzi tu światło z powierzchni.\nCzy chcesz użyć NURKOWANIA?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There is an obstacle above.\nDIVE can't be used here.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Na górze jest przeszkoda.\nNie można użyć NURKOWANIA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Looks like there's nothing here…</seg></tuv>
+      <tuv xml:lang="pl"><seg>Wygląda na to, że nic tu nie ma...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hi, glad to meet you!\p…That's unfriendly of you.\nHow about saying hi back?\pSo, come on, tell me about\nyourself.\pI'd love to hear your profile!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witaj! Miło cię poznać!\p...To bardzo niemiłe.\nMoże byś mi odpowiedział?\pNo, proszę, powiedz mi\ncoś o sobie.\pChciałabym usłyszeć twój profil!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Tell me something good about\nyourself. What's your profile?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Powiedz mi o sobie coś dobrego.\nJaki masz profil?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A profile is written using four\nwords or phrases.\pThere're plenty of words to choose\nfrom for your profile.\pThe words and phrases are placed\nin several convenient groups.\pFirst, choose a group, then choose\na word or phrase.\p…It's easier than it sounds.\nWhy don't you try it?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Profil składa się z czterech\nwyrazów lub fraz.\pBy ułożyć dobry profil wyposażono\ncię w szeroką gamę słów.\pSłowa i frazy umiejscowione są w\nróżnych, wygodnych grupach.\pNajpierw, wybierz grupę, potem\nwybierz słowo lub frazę.\p…To łatwiejsze niż ci się wydaje.\nMoże spróbujesz?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What's your profile?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jaki masz profil?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Aww… Don't be like that.\nYou can tell me your profile.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Ałł… Nie bądź taki.\nMożesz mi powiedzieć!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, you've decided not to?\nYou're fickle, aren't you?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Zdecydowałeś się nie mówić?\nCóż za niezdecydowanie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hi!\nWe meet again!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Witaj ponownie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Would you like to change your\nprofile?</seg></tuv>
+      <tuv xml:lang="pl"><seg>Czy chciałbyś zmienić swój\nprofil?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What are you like now?\nI'd really like to know.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Jaki jesteś teraz?\nBardzo chciałabym wiedzieć.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Okay, you like your profile the\nway it is.\pI think so, too.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Dobrze, podoba ci się taki jaki\njest.\pTeż tak sądzę.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hmhm…\pYour profile really says something\nabout who you are.\pNow that I know you better, it \nmakes us better friends than ever!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Hmhm…\pTwój profil naprawdę mówi coś na\ntemat ciebie.\pTeraz, skoro znam cię już lepiej,\njesteśmy na dobrej drodze do przyjaźni!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Oh, I've heard that before…\pMy cousin, who lives far away,\nalways used to say that, I think.</seg></tuv>
+      <tuv xml:lang="pl"><seg>Och, już to gdzieś słyszałam…\pTak zawsze mawiał mój kuzyn z\nbardzo, bardzo daleka.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please tell me more about\nyourself next time!</seg></tuv>
+      <tuv xml:lang="pl"><seg>Proszę, powiedz mi kiedyś\ncoś o sobie!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>REPEL's effect wore off…</seg></tuv>
+      <tuv xml:lang="pl"><seg>ODGANIACZ skończył się...</seg></tuv>
+    </tu>
+  </body>
+</tmx>

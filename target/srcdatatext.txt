@@ -1,0 +1,1209 @@
+<<< FILE: src/data/text/abilities.h >>>
+Żadnej specjalności.
+Odgania dzikie POKéMONY.
+Przyzywa deszcz w walce.
+Zwiększa SZYBKOŚĆ.
+Blokuje ciosy krytyczne.
+Blokuje KO 1-ciosem.
+Blokuje samo-zniszczenie.
+Neguje paraliż.
+Lepsze uniki w b. piaskowej.
+Paraliż przy dotyku.
+Zmiana elektryczności w HP.
+Zmienia wodę w HP.
+Blokuje zauroczenie.
+Blokuje efekty pogodowe.
+Zwiększa celność.
+Blokuje sen.
+Zmienia typ na ruch wroga.
+Neguje zatrucie.
+Wzmacniany ogniem.
+Blokuje dodane efekty.
+Nneguje konfuzję.
+Mocno zakotwicza ciało.
+Obniża ATAK wroga.
+Nie zezwala na ucieczkę.
+Bolesny kontakt.
+Superefektywne ciosy.
+Nietykalny przez ZIEMIE.
+Pozostawia zarodniki.
+Przenosi zmiany statusu.
+Blokuje redukcje zdolności.
+Leczy się przy zmianie.
+Wysysa elektryczność.
+Sprzyja zmianom stanu.
+PRZYSPIESZA w deszczu.
+PRZYSPIESZA w słońcu.
+Częstsze losowe walki.
+Kopiuje zdolności.
+Zwiększa ATAK.
+Zatruwa dotykiem.
+Blokuje potknięcia.
+Neguje zamrożenia.
+Neguje parzenie.
+Więzi STALOWE POKéMONY.
+Blokuje ataki dźwiękowe.
+Leczy się w czasie deszczu.
+Przyzywa burze piaskową.
+Zwiększa zużycie PP.
+Protekcja mroźno-cieplna.
+Budzi szybko ze snu.
+Parzy wroga przy dotyku.
+Ułatwia ucieczkę.
+Blokuje stratę celności.
+Blokuje redukcję ATAKU.
+Zbiera przedmioty.
+Rusza się tylko co 2 tury.
+Wymiana celności na moc.
+Rozkochuje dotykiem.
+Mocniejszy razem z MINUSEM.
+Mocniejszy razem z PLUSEM.
+Zmienia się z pogodą.
+Neguje kradzieże.
+Leczy się zmieniając skórę.
+Poprawia ATAK cierpiąc.
+Poprawia OBRONE cierpiąc.
+Wysysanie rani.
+Wzmacnia TRAWIASTE ataki.
+Wzmiacnia OGNISTE ataki.
+Wzmacnia WODNE ataki.
+Wzmacnia ROBACZE ataki.
+0 dwustronnych obrażeń.
+Przyzywa słońce w walce.
+Blokuje ucieczkę.
+Blokuje sen.
+Blokuje redukcje zdolności.
+Zwiększa ATAK.
+Blokuje ciosy krytyczne.
+Blokuje ataki dźwiękowe.
+Blokuje efekty pogodowe.
+-------
+SMRÓD
+MŻAWKA
+SZYBKOŚĆ
+ZBROJA
+KRZEPA
+WILGOĆ
+ZWINNOŚĆ
+SCHRON ZIEMI
+STATYCZNOŚĆ
+PRĄDOLUBNOŚĆ
+WODOLUBNOŚĆ
+NIEPAMIĘĆ
+SIÓDME NIEBO
+ZŁOŻONE OCZY
+BEZSENNOŚĆ
+ZMIANAKOLORU
+ODPORNOŚĆ
+BŁYSK OGNIA
+OSŁONKA PYŁU
+WŁASNE TEMPO
+PRZYSSAWKI
+ZASTRASZENIE
+OGON CIENIA
+TWARDA SKÓRA
+CUDNA STRAŻ
+LEWITACJA
+ZARODNIKI
+SYNCHRONIZM
+CZYSTE CIAŁO
+LEK Z NATURY
+PIORUN
+LEKKI WDZIĘK
+CHYŻY PŁYWAK
+CHLOROFIL
+OŚWIETLENIE
+ODTWORZENIE
+WIELKA SIŁA
+TRUJĄCY
+SKUPIENIE
+MAGMOZBROJA
+WODNY SCHRON
+MAGNESOWANIE
+BEZDŹWIĘKOWY
+ZBIERAK WODY
+POTOK PIASKU
+PRESJA
+OTYŁOŚĆ
+RANNY PTAK
+ŻAR CIAŁA
+UCIECZKA
+BYSTRY WZROK
+HIPERKRAJACZ
+ZBIERACZ
+BŁĘDNOŚĆ
+POŚPIECH
+SŁODKI UROK
+PLUS
+MINUS
+LEŚNY
+LEPKI UŚCISK
+ZMIANA SKÓRY
+ODWAŻNY
+ŁUSKA CUDÓW
+PŁYNNY SZLAM
+PRZEROST
+PŁOMIENNY
+RWĄCY POTOK
+RÓJ
+SKAŁOGŁOWY
+SUSZA
+PUŁAPKA
+ŻYWIOŁOWOŚĆ
+BIAŁY DYM
+CZYSTA SIŁA
+SKORUPA
+KAKOFONIA
+BLOK NIEBA
+<<< FILE: src/data/text/move_names.h >>>
+-$$$$$$
+UDERZENIE
+CIOS KARATE
+DWUKLAPS
+GRAD CIOSÓW
+MEGA PIEŚĆ
+WYPŁATA
+PIEŚĆ OGNIA
+LODOWA PIEŚC
+PIEŚĆ GROMU
+DRAPANIE
+KLESZCZE
+GILOTYNA
+OSTRZAWIATRU
+TANIECMIECZY
+CIECIE
+PORYW WIATRU
+SKRZYDŁOATAK
+ZDMUCHNIECIE
+LOT
+OPLECENIE
+TRZAŚNIECIE
+ATAK PNĄCZEM
+STRATOWANIE
+PODWÓJNY KOP
+MEGA KOP
+KOPZWYSKOKU
+KOP Z OBROTU
+ATAK PIASKU
+TARAN
+ATAK ROGIEM
+ATAK FURII
+ŚWIDRORÓG
+PCHNIECIE
+ATAK CIAŁEM
+OMOTANIE
+SZARŻA
+ŁOMOT
+OBOSIECZ
+MERDANIE
+TRUJĄCEŻĄDŁO
+DWUIGŁA
+IGŁOPOCISK
+ŁYPANIE
+UGRYZIENIE
+WARCZENIE
+RYK
+ŚPIEW
+ULTRADŹWIEKI
+DŹWIEKOGROM
+WYŁĄCZENIE
+KWAS
+ŻAR
+MIOTACZOGNIA
+MGŁA
+WODNA BROŃ
+POMPA WODNA
+SURFOWANIE
+PROMIEŃ LODU
+ZAMIEĆ
+PSYCHOWIĄZKA
+BĄBLOPROMIEN
+PROMIEŃZORZY
+HIPERPROMIEŃ
+DZIOBANIE
+ŚWIDRODZIÓB
+PODDANIE
+NISKI KOP
+KONTRA
+SEJSMORZUT
+SIŁA
+ABSORPCJA
+MEGAWYSSANIE
+NASIONO MOCY
+WZROST
+OSTRY LIŚC
+WIĄZKASŁOŃCA
+TRUJĄCY PYŁ
+PYŁ PARALIŻU
+PYŁEK SNU
+PŁATKOTANIEC
+STRZAŁ NICIĄ
+SMOCZY GNIEW
+WIR OGNIA
+ELETROSZOK
+BŁYSKAWICA
+ELEKTROFALA
+PIORUN
+RZUT SKAŁĄ
+WSTRZĄS
+SZCZELINA
+ZAKOPANIE
+TOKSYNY
+KONFUZJA
+PSYCHOKINEZA
+HIPNOZA
+MEDYTUJĄCY
+ZWINNOŚĆ
+SZYBKI ATAK
+WŚCIEKŁOŚĆ
+TELEPORTACJA
+NOCNY CIEŃ
+MIMIKRA
+SKRZECZENIE
+ROZDWOJENIE
+UZDROWIENIE
+UTWARDZANIE
+ZMIEJSZENIE
+ZASŁONA DYMU
+ŚWIATŁOBŁĘD
+WYCOFANIE
+KULA OBRONNA
+BARIEROWY
+EKRANŚWIATŁA
+MGIEŁKA
+ODBICIE
+SKUPIENIE
+CIERPLIWOŚĆ
+METRONOM
+PAPUGOWANIE
+DESTRUKCJA
+JAJKOBOMBA
+POLIZANIE
+SMOG
+MUŁOWY
+ATAK KOŚCIĄ
+PODMUCHOGNIA
+WODOSPAD
+ZATRZASK
+GWIEZDNY PĘD
+ATAK GŁOWĄ
+KOLCODZIAŁO
+ŚCIŚNIĘCIE
+AMNEZJA
+KINEZA
+JAJONAMIĘKKO
+WYKOPZKOLANA
+WZROK WĘŻA
+ZJADACZ SNÓW
+TRUJĄCYGAZ
+ZAPORA OGNIA
+WYSYSANIE
+BUZIAK
+ATAK Z NIEBA
+PRZEMIANA
+BĄBELKI
+BŁEDNA PIEŚĆ
+ZARODNIKI
+BŁYSK
+PSYCHOFALA
+PLUSKANIE
+KWASO-ZBROJA
+KRABI MŁOT
+EKSPLOZJA
+DZIKA FURIA
+KOŚCIORANG
+ODPOCZYNEK
+LAWINA SKAŁ
+HIPER KIEŁ
+ZAOSTRZENIE
+KONWERSJA
+TRÓJATAK
+SUPER KIEŁ
+SIEKANIE
+ZASTĘPCA
+SZAMOTANIE
+SZKIC
+POTRÓJNY KOP
+ZŁODZIEJ
+PAJĘCZA SIEĆ
+LEGILIMENCJA
+KOSZMAR
+KRĄG OGNIA
+CHRAPANIE
+KLĄTWA
+WYMACHIWANIE
+KONWERSJA 2
+AEROBUCH
+PYŁ BAWEŁNY
+ODWRÓCENIE
+ZŁOŚLIWOŚĆ
+ŚNIEŻNY PYŁ
+OCHRONA
+MACH-CIOS
+TWARZ UPIORA
+ZAKRADNIECIE
+SŁODKI CMOK
+BRZUCHOBEBEN
+MUŁOWA BOMBA
+RZUT BŁOTEM
+OŚMIOZOOKA
+KOLCZASTY
+ELEKTROKULA
+PRZEZORNOŚĆ
+WIĘŹ LOSU
+PIEŚŃ ZGUBY
+ZIMNY WIATR
+WYKRYCIE
+RZUT KOŚCMI
+WYCELOWANIE
+OBURZENIE
+BURZA PIASKU
+GIGAWYSSANIE
+WYTRWANIE
+UROK
+WALEC
+MYLĄCECIECIE
+ZUCHWAŁOŚĆ
+ŁYK MLEKA
+ISKRA
+CIĘCIE FURII
+SKRZYDŁOSTAL
+PODŁY WZROK
+ZWABIENIE
+LUNATYK
+KOJĄCY DZWON
+POWRÓT
+PREZENT
+FRUSTRACJA
+ZASŁONA
+PODZIAŁ BÓLU
+ŚWIĘTY OGIEŃ
+TĄPNIECIE
+PREŻNY CIOS
+MEGARÓG
+ODDECH SMOKA
+SZTAFETA
+BIS
+POŚCIG
+NAGŁY OBRÓT
+SŁODKIZAPACH
+ŻELAZNY OGON
+PAZUR METALU
+RZUT WITALNY
+WSCHÓDSŁONCA
+FOTOSYNTEZA
+KSIEŻYCOWY
+UKRYTA MOC
+KRZYŻOWYCIOS
+TORNADO
+TANIEC DŻDŻU
+CZYSTE NIEBO
+SCHRUPANIE
+LUSTROOSŁONA
+AUTOSUGESTIA
+MEGASZYBKOŚĆ
+PRADAWNA MOC
+KULA CIENIA
+WIZJA
+ŁUPACZ SKAŁ
+WIR
+POBICIE
+OGŁUSZENIE
+HAŁAS
+ZBIERANIE
+WYPLUCIE
+PRZEŁKNIECIE
+FALA CIEPŁA
+GRAD
+UDRĘKA
+POCHLEBSTWO
+OGNIK
+MEMENTO
+BRAWURA
+SKUPIONYCIOS
+RESUSCYTACJA
+CHODŹ ZA MNĄ
+SIŁA NATURY
+ŁADUNEK
+DRWINY
+POMOCNA DŁON
+SZTUCZKA
+GRA AKTORSKA
+ŻYCZENIE
+ASYSTA
+UKORZENIENIE
+SUPERSIŁA
+WARSTWAMAGII
+RECYKLING
+ZEMSTA
+ŁAMACZ MURÓW
+ZIEWANIE
+WYTRĄCENIE
+ŚMIAŁEK
+ERUPCYJNY
+TALENTOZMIAN
+UWIĘZIENIE
+ODŚWIEŻENIE
+URAZA
+CHWYTANIE
+TAJEMNA MOC
+NURKOWANIE
+NATARCIE
+KOMUFLAŻ
+POŁYSK OGONA
+CZYSTY BLASK
+MGLISTA KULA
+TANIEC PIÓR
+HUŚTANIEC
+OGNISTY KOP
+ZABŁOCENIE
+LODOWA KULA
+IGŁORAMIE
+ROZLUŹNIENIE
+HIPER GŁOS
+TRUJĄCY KIEŁ
+ŁAMIĄCYSZPON
+WYBUCH OGNIA
+HYDRODZIAŁO
+CIOS METEORU
+ZASKOCZENIE
+KULA POGODY
+AROMATERAPIA
+FAŁSZYWE ŁZY
+CIĘCIEWIATRU
+PRZEGRZANIE
+WĘSZENIE
+KAMIENIOGRÓB
+SREBRNYWIATR
+METALODŹWIĘK
+TRAWOGWIZDEK
+ŁASKOTKI
+MOC KOSMOSU
+CHLUĘNIĘCIE
+SYGNALIZATOR
+PIĘŚĆ CIENIA
+MOC ESP
+PODNIEBNYHAK
+PIASKOGRÓB
+CZYSTE ZIMNO
+MĘTNA WODA
+POCISKNASION
+AS POWIETRZA
+LODOOSZCZEP
+ŻELAZOOBRONA
+BLOK
+WYCIE
+SMOCZY PAZUR
+SZAŁ ROŚLINY
+NAPRĘŻENIE
+WYBICIE
+STRZAŁBŁOTEM
+ZATRUTY OGON
+POŻĄDLIWOŚĆ
+WOLTOWY CIOS
+MAGICZNYLIŚĆ
+ROZCHLAPANIE
+SPOKÓJUMYSŁU
+OSTRZELIŚCIA
+TANIEC SMOKA
+WYBUCH SKAŁ
+RAŻĄCA FALA
+PULS WODY
+CHĘĆ ZAGŁADY
+PSYCHOWZROST
+<<< FILE: src/data/text/nature_names.h >>>
+HARDA
+SAMOTNA
+ODWAŻNA
+NIEUGIĘTA
+NIEMIŁA
+ZUCHWAŁA
+ULEGŁA
+ROZLIŹNIONA
+FIGLARNA
+LUŹNA
+PŁOCHLIWA
+PORYWCZA
+POWAŻNA
+POCIESZNY
+NAIWNA
+SKROMNA
+DELIKATNA
+WYCISZONA
+NIEŚMIAŁA
+NIEROZWAŻNA
+SPOKOJNA
+OGLĘDNA
+AROGANCKA
+OSTROŻNA
+KAPRYŚNA
+<<< FILE: src/data/text/quest_log.h >>>
+Poprzednio w czasie gry…
+{PLAYER} zmienił POKéMONA\n{STR_VAR_1} z {STR_VAR_2}.
+Wziąłeś przedmiot {STR_VAR_2} od\n{STR_VAR_1} i dałeś mu przedmiot\n{STR_VAR_3}.
+Wziąłeś {STR_VAR_2} od\n{STR_VAR_1}.
+Użyłeś przedmiotu {STR_VAR_1} na {STR_VAR_2}\nw tym miejscu
+{PLAYER} użył\n{STR_VAR_1}.
+Użyłeś KLUCZOWEGO PRZEDMIOTU\n{STR_VAR_1}.
+{STR_VAR_1} nauczył ruchu\n{STR_VAR_2} używając TM.
+{STR_VAR_1} nauczył ruchu\n{STR_VAR_2} używając TM i usunął\nruch {STR_VAR_3}.
+POKéMONY zostały wyleczone\nw CENTRUM POKéMON.
+{DYNAMIC 0x00} przeprowadził wspaniałą\nwalkę z MISTRZEM, {DYNAMIC 0x01}.
+Końcowo, {DYNAMIC 0x00} wysłał {DYNAMIC 0x01},\ngdy {DYNAMIC 0x02} skontrował go z\n{DYNAMIC 0x03}.
+Końcowo jednak w wyniku wyrównanego\npojedynku, {DYNAMIC 0x00} zwyciężył\nwalkę.
+Usunął przedmiot {STR_VAR_1} z\nkieszeni PRZEDMIOTÓW w TORBIE i umieścił\nw PC.
+{PLAYER} podjął przedmiot {STR_VAR_1}\nz PC.
+Wymienił {STR_VAR_3} za\n{STR_VAR_1} trenera {STR_VAR_2}.
+Zaatakował {DYNAMIC 0x00} w POJEDYNCZEJ\nWALCE. Była ostro oceniana i\nzakończyła się {DYNAMIC 0x01}.
+Zaatakował {DYNAMIC 0x00} w PODWÓJNEN WALCE.\nBył to poszerzony pojedynek zakończony\n{DYNAMIC 0x01}.
+{DYNAMIC 0x00} i {DYNAMIC 0x01} zaatakowali\n{DYNAMIC 0x02} i {DYNAMIC 0x03} w \nMULTIWALCE i zdobyli {DYNAMIC 0x04}.
+wygrałeś
+przegrałeś
+Włączył się w zabawę z TRNERAMI\nw UNION ROOM.
+Wyruszył {STR_VAR_2}\nw {STR_VAR_1} do następnego\ncelu.
+Po przemyśleniu, zmienił\n{DYNAMIC 0x01} w {DYNAMIC 0x00} z\n{DYNAMIC 0x03} w {DYNAMIC 0x02}.
+Po przemyśleniu, przesunął\n{DYNAMIC 0x01}  w BOXIE “{DYNAMIC 0x00}” do\nBOXU “{DYNAMIC 0x02}.”
+Zmienił ze sobą {DYNAMIC 0x01} i\n{DYNAMIC 0x02} w {DYNAMIC 0x00}.
+Ruszył {DYNAMIC 0x01} w {DYNAMIC 0x00}.
+Zmienił {DYNAMIC 0x01} w {DYNAMIC 0x00}\nz {DYNAMIC 0x02} w drużynie.
+Dodał {DYNAMIC 0x01} w {DYNAMIC 0x00}\ndo drużyny.
+Ruszył {DYNAMIC 0x00} z drużyny\ndo {DYNAMIC 0x01}.
+Ruszył grupę POKéMONÓW w\n{DYNAMIC 0x00} do {DYNAMIC 0x01}.
+innego punktu
+Wyjął przedmiot {STR_VAR_1} z\n{PLAYER} PC i przekazał go do trzymania\n{STR_VAR_2}.
+Wyjął przedmiot {STR_VAR_1} z\nPC i dał go {STR_VAR_2} oraz przeniósł\n{STR_VAR_3}, które trzymał do TORBY.
+Porozmawiał z TRENERAMI.
+łatwy
+nieustępliwy
+sposób
+Wymienił się z {STR_VAR_1}.\nOtrzymał {STR_VAR_2} TRENERA w zamian za\n{STR_VAR_3}.
+Walczył z {STR_VAR_1}.\nPojedynek zakończył się {STR_VAR_2}.
+Poszedł do POKéMON MART w\n{DYNAMIC 0x00} i nabył\n{DYNAMIC 0x01}.
+Poszedł do POKéMON MART w\n{DYNAMIC 0x00} i wydał tam ¥{DYNAMIC 0x02} na\nprzedmioty, w tym {DYNAMIC 0x01} .
+{DYNAMIC 0x00} poszedł do POKéMON MART w\n{DYNAMIC 0x01} i sprzedał {DYNAMIC 0x03} \nprzedmioty {DYNAMIC 0x02}.
+Sprzedał przedmioty, w tym {DYNAMIC 0x01}\n w POKéMON MART w {DYNAMIC 0x00},\nwarte ¥{DYNAMIC 0x02}.
+tylko 1
+{DYNAMIC 0x04}
+{STR_VAR_1} podzielił się HP używając\nJAJONAMIĘKKO.
+{STR_VAR_1} podzielił się HP używając\nŁYKU MLEKA.
+{STR_VAR_1} bezpiecznie nauczył się\n{STR_VAR_2} używając HM.
+{STR_VAR_1} bezpiecznie nauczył się\nruchu {STR_VAR_2} używając HM i\nstracił ruch {STR_VAR_3}.
+{DYNAMIC 0x05} pokonał POKéMONA\n{DYNAMIC 0x01} w {DYNAMIC 0x00}.
+Pokonał {DYNAMIC 0x02} dzikich POKéMON w tym\n{DYNAMIC 0x01} w {DYNAMIC 0x00}.
+{DYNAMIC 0x05} zręcznie złapał POKéMONA\n{DYNAMIC 0x03} w {DYNAMIC 0x00}.
+Rzucał POKé BALLE w afekcie, łapiąc\n{DYNAMIC 0x04} POKéMONÓW w tym {DYNAMIC 0x03} tutaj\nw {DYNAMIC 0x00} .
+{DYNAMIC 0x05} pokonał POKéMONA\n{DYNAMIC 0x01} i złapał jednego {DYNAMIC 0x03}\nw {DYNAMIC 0x00}.
+Pokonał POKéMONA {DYNAMIC 0x01}\ni złapał {DYNAMIC 0x04} POKéMONY, w tym\n{DYNAMIC 0x03} w {DYNAMIC 0x00}.
+{DYNAMIC 0x05} pokonał {DYNAMIC 0x02} POKéMONÓW, w tym\n{DYNAMIC 0x01} i złapał jednego {DYNAMIC 0x03}\nw {DYNAMIC 0x00}.
+Pokonał {DYNAMIC 0x02} POKéMONÓW, w tym\n{DYNAMIC 0x01} i złapał {DYNAMIC 0x04} POKéMONÓW,\nw tym {DYNAMIC 0x03} w {DYNAMIC 0x00} .
+Dał {STR_VAR_1} do trzymania\n{STR_VAR_2}.
+{PLAYER} dał {STR_VAR_1} do trzymania\n{STR_VAR_2}.
+{STR_VAR_1} użył tu Ukrytego Ruchu\nCIĘCIE.
+{STR_VAR_1} użył Ukrytego Ruchu\nLOT i odleciał do {STR_VAR_2}
+{STR_VAR_1} użył Ukrytego Ruchu\nSURFOWANIE i odpłynął w dal.
+{STR_VAR_1} użył tu Ukrytego Ruchu\nSIŁA.
+{STR_VAR_1} użył Ukrytego Ruchu\nBŁYSK, by oświetlić ciemną\njaskinie.
+{STR_VAR_1} użył Ukrytego Ruchu\nŁUPACZ SKAŁ.
+{STR_VAR_1} użył Ukrytego Ruchu\nWODOSPAD, by ujarzmić wodospad.
+{STR_VAR_1}は　ふかい　ところを　めざし\nひでんわざ\nダイビングを　つかった！
+{STR_VAR_1} użył ZAKOPANIE, by uciec z\n{STR_VAR_2}.
+{STR_VAR_1} użył SŁODKIZAPACH by\nprzyciągnąć POKéMONY.
+{STR_VAR_1} użył TELEPORT, by przenieść\ndrużynę do {STR_VAR_2} \n{STR_VAR_3}.
+{PLAYER} opuścił {STR_VAR_1}\n{STR_VAR_2} i wyruszył\ndalej.
+Pograł w wiele gier w KĄCIKU GIER\nZESPOŁU R w {STR_VAR_1}.
+{PLAYER} odpoczął porządnie w domu.
+{PLAYER} opuścił LABORATORIUM\nPROFESORA OAKA.
+SALA w {STR_VAR_1} była pełna\nsilnych TRENERÓW…\nNależało się mocno przygotować.
+Rozgromił SALE w {STR_VAR_1}.
+{PLAYER} świetnie bawił się z POKéMONAMI\nw STREFIE SAFARI.
+Po drobnej wycieczce,\nwydostał się z {STR_VAR_2}.
+Zaatakował {DYNAMIC 0x00} LIDERA\n{DYNAMIC 0x01} {DYNAMIC 0x02} z {DYNAMIC 0x03}\ni wygrał {DYNAMIC 0x04}!
+Wyzwał {DYNAMIC 0x00} {DYNAMIC 0x01} z\nELITARNEJ 4 swym {DYNAMIC 0x02} i\nwygrał {DYNAMIC 0x03}!
+W {DYNAMIC 0x00}, walczył z\n{DYNAMIC 0x01} {DYNAMIC 0x02} swym {DYNAMIC 0x03}\ni wygrał {DYNAMIC 0x04}!
+łatwo
+ledwo
+{PLAYER} użył LINY UCIECZKI i wydostał\nsię z {STR_VAR_2}.
+remis
+Wyruszył z {STR_VAR_2}\ndo następnego celu.
+{PLAYER} wyruszył z\n{STR_VAR_2}, by dotrzeć do\nnastępnego celu.
+Tutaj w {STR_VAR_1}, {PLAYER}\notrzymał przedmiot {STR_VAR_2}
+Przybył do {STR_VAR_1}.
+I {PLAYER} zapisał grę w tym\nmiejscu: {STR_VAR_1}.
+DOM
+LAB. OAKA
+SALA
+BRAMA LIGI POKéMON
+LAS VIRIDIAN
+MUZEUM NAUKI W PEWTER
+GÓRAMOON
+ROWEROWY
+DOM BILLA
+OPIEKUN
+PODZIEMNY TUNEL
+FAN KLUB POKéMON
+S.S. ANNA
+JASK. DIGLETTA
+TUNEL SKAŁ
+ELEKTROWNIA
+WIEŻA POKéMON
+DOM OCHOTNIKÓW
+DOM NAME RATERA
+DOM TOWAROWY
+DWÓR CELADON
+SALON GIER ROCKET
+RESTAURACJA
+KWATERA ROCKET
+STR. SAFARI
+DOM DYREKTORA
+WALECZNE DOJO
+SILPH CO.
+WYSPY SEAFOAM
+POKéMONOWY DWÓR
+LAB. BADAWCZE POKÓW
+DROGA ZWYC.
+LIGA POKéMON
+JASK.CERULEAN
+<<< FILE: src/data/text/species_names.h >>>
+??????????
+BULBASAUR
+IVYSAUR
+VENUSAUR
+CHARMANDER
+CHARMELEON
+CHARIZARD
+SQUIRTLE
+WARTORTLE
+BLASTOISE
+CATERPIE
+METAPOD
+BUTTERFREE
+WEEDLE
+KAKUNA
+BEEDRILL
+PIDGEY
+PIDGEOTTO
+PIDGEOT
+RATTATA
+RATICATE
+SPEAROW
+FEAROW
+EKANS
+ARBOK
+PIKACHU
+RAICHU
+SANDSHREW
+SANDSLASH
+NIDORAN♀
+NIDORINA
+NIDOQUEEN
+NIDORAN♂
+NIDORINO
+NIDOKING
+CLEFAIRY
+CLEFABLE
+VULPIX
+NINETALES
+JIGGLYPUFF
+WIGGLYTUFF
+ZUBAT
+GOLBAT
+ODDISH
+GLOOM
+VILEPLUME
+PARAS
+PARASECT
+VENONAT
+VENOMOTH
+DIGLETT
+DUGTRIO
+MEOWTH
+PERSIAN
+PSYDUCK
+GOLDUCK
+MANKEY
+PRIMEAPE
+GROWLITHE
+ARCANINE
+POLIWAG
+POLIWHIRL
+POLIWRATH
+ABRA
+KADABRA
+ALAKAZAM
+MACHOP
+MACHOKE
+MACHAMP
+BELLSPROUT
+WEEPINBELL
+VICTREEBEL
+TENTACOOL
+TENTACRUEL
+GEODUDE
+GRAVELER
+GOLEM
+PONYTA
+RAPIDASH
+SLOWPOKE
+SLOWBRO
+MAGNEMITE
+MAGNETON
+FARFETCH'D
+DODUO
+DODRIO
+SEEL
+DEWGONG
+GRIMER
+MUK
+SHELLDER
+CLOYSTER
+GASTLY
+HAUNTER
+GENGAR
+ONIX
+DROWZEE
+HYPNO
+KRABBY
+KINGLER
+VOLTORB
+ELECTRODE
+EXEGGCUTE
+EXEGGUTOR
+CUBONE
+MAROWAK
+HITMONLEE
+HITMONCHAN
+LICKITUNG
+KOFFING
+WEEZING
+RHYHORN
+RHYDON
+CHANSEY
+TANGELA
+KANGASKHAN
+HORSEA
+SEADRA
+GOLDEEN
+SEAKING
+STARYU
+STARMIE
+MR. MIME
+SCYTHER
+JYNX
+ELECTABUZZ
+MAGMAR
+PINSIR
+TAUROS
+MAGIKARP
+GYARADOS
+LAPRAS
+DITTO
+EEVEE
+VAPOREON
+JOLTEON
+FLAREON
+PORYGON
+OMANYTE
+OMASTAR
+KABUTO
+KABUTOPS
+AERODACTYL
+SNORLAX
+ARTICUNO
+ZAPDOS
+MOLTRES
+DRATINI
+DRAGONAIR
+DRAGONITE
+MEWTWO
+MEW
+CHIKORITA
+BAYLEEF
+MEGANIUM
+CYNDAQUIL
+QUILAVA
+TYPHLOSION
+TOTODILE
+CROCONAW
+FERALIGATR
+SENTRET
+FURRET
+HOOTHOOT
+NOCTOWL
+LEDYBA
+LEDIAN
+SPINARAK
+ARIADOS
+CROBAT
+CHINCHOU
+LANTURN
+PICHU
+CLEFFA
+IGGLYBUFF
+TOGEPI
+TOGETIC
+NATU
+XATU
+MAREEP
+FLAAFFY
+AMPHAROS
+BELLOSSOM
+MARILL
+AZUMARILL
+SUDOWOODO
+POLITOED
+HOPPIP
+SKIPLOOM
+JUMPLUFF
+AIPOM
+SUNKERN
+SUNFLORA
+YANMA
+WOOPER
+QUAGSIRE
+ESPEON
+UMBREON
+MURKROW
+SLOWKING
+MISDREAVUS
+UNOWN
+WOBBUFFET
+GIRAFARIG
+PINECO
+FORRETRESS
+DUNSPARCE
+GLIGAR
+STEELIX
+SNUBBULL
+GRANBULL
+QWILFISH
+SCIZOR
+SHUCKLE
+HERACROSS
+SNEASEL
+TEDDIURSA
+URSARING
+SLUGMA
+MAGCARGO
+SWINUB
+PILOSWINE
+CORSOLA
+REMORAID
+OCTILLERY
+DELIBIRD
+MANTINE
+SKARMORY
+HOUNDOUR
+HOUNDOOM
+KINGDRA
+PHANPY
+DONPHAN
+PORYGON2
+STANTLER
+SMEARGLE
+TYROGUE
+HITMONTOP
+SMOOCHUM
+ELEKID
+MAGBY
+MILTANK
+BLISSEY
+RAIKOU
+ENTEI
+SUICUNE
+LARVITAR
+PUPITAR
+TYRANITAR
+LUGIA
+HO-OH
+CELEBI
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+TREECKO
+GROVYLE
+SCEPTILE
+TORCHIC
+COMBUSKEN
+BLAZIKEN
+MUDKIP
+MARSHTOMP
+SWAMPERT
+POOCHYENA
+MIGHTYENA
+ZIGZAGOON
+LINOONE
+WURMPLE
+SILCOON
+BEAUTIFLY
+CASCOON
+DUSTOX
+LOTAD
+LOMBRE
+LUDICOLO
+SEEDOT
+NUZLEAF
+SHIFTRY
+NINCADA
+NINJASK
+SHEDINJA
+TAILLOW
+SWELLOW
+SHROOMISH
+BRELOOM
+SPINDA
+WINGULL
+PELIPPER
+SURSKIT
+MASQUERAIN
+WAILMER
+WAILORD
+SKITTY
+DELCATTY
+KECLEON
+BALTOY
+CLAYDOL
+NOSEPASS
+TORKOAL
+SABLEYE
+BARBOACH
+WHISCASH
+LUVDISC
+CORPHISH
+CRAWDAUNT
+FEEBAS
+MILOTIC
+CARVANHA
+SHARPEDO
+TRAPINCH
+VIBRAVA
+FLYGON
+MAKUHITA
+HARIYAMA
+ELECTRIKE
+MANECTRIC
+NUMEL
+CAMERUPT
+SPHEAL
+SEALEO
+WALREIN
+CACNEA
+CACTURNE
+SNORUNT
+GLALIE
+LUNATONE
+SOLROCK
+AZURILL
+SPOINK
+GRUMPIG
+PLUSLE
+MINUN
+MAWILE
+MEDITITE
+MEDICHAM
+SWABLU
+ALTARIA
+WYNAUT
+DUSKULL
+DUSCLOPS
+ROSELIA
+SLAKOTH
+VIGOROTH
+SLAKING
+GULPIN
+SWALOT
+TROPIUS
+WHISMUR
+LOUDRED
+EXPLOUD
+CLAMPERL
+HUNTAIL
+GOREBYSS
+ABSOL
+SHUPPET
+BANETTE
+SEVIPER
+ZANGOOSE
+RELICANTH
+ARON
+LAIRON
+AGGRON
+CASTFORM
+VOLBEAT
+ILLUMISE
+LILEEP
+CRADILY
+ANORITH
+ARMALDO
+RALTS
+KIRLIA
+GARDEVOIR
+BAGON
+SHELGON
+SALAMENCE
+BELDUM
+METANG
+METAGROSS
+REGIROCK
+REGICE
+REGISTEEL
+KYOGRE
+GROUDON
+RAYQUAZA
+LATIAS
+LATIOS
+JIRACHI
+DEOXYS
+CHIMECHO
+<<< FILE: src/data/text/teachy_tv.h >>>
+Naucz mnie walczyć.
+Co to są zmiany stanu?
+Czym różnią się typy?
+Chcę łapać POKéMONY.
+Naucz mnie o TM.
+Jak rejestrować przedmiot?
+ANULUJ
+Witajcie wszyscy trenerzy!\nWITAJCIE, TRENERZY!\p……… ……… ………\pDawajcie, niech was usłyszę!\nWITAJCIE, TRENERZY!\lTo ja, POKé GOŚĆ!\p
+Dzisiaj, POKé GOŚĆ powie wam\nwszystko na temat tego, jak\lprowadzić walki!\pPowiedzmy, że podróżujesz sobie,\na tu nagle wyskakuje dziki POKéMON!\pMusisz mądrze użyć swoich POKéMONÓW\ni ich ruchów, by zredukować\lHP twojego przeciwnika do zera i\lzostać zwycięzcą!\pPokażę ci we własnej osobie,\njak tego dokonać!\pNo dobra, zaczynamy!\pPrzylepcie gały do ekranu, by\nnie przegapić POKé GOŚCIA!
+Dobra, kapujecie?\pNawet jeśli HP twojego POKéMONA\nspadnie do zera i nie będzie\lmógł już walczyć, nie roń łez!\pZanieś go do CENTRUM POKéMON,\ngdzie szybko go uleczą!\pTo już wszystko, do\pzobaczenia!\nPamiętajcie, TRENERZY, co złego, to nie ja!
+Dzisiaj, POKé GOŚĆ zjawia się, by\nopowiedzieć wam o zmianach stanu!\pZmianu stanu to zatrucia,\nparaliż, sen, poparzenia…\pJest też kilka innych, ale te są\nnajczęstszymi z nich.\pWystarczy jeden, by twój\nPOKéMON mógł stać się bezużyteczny\pw walce.\nWiesz, POKé GOŚĆ nie cierpi,\pgdy POKéMONY męczą się…\nWięc, co zrobić, jeżeli twój\pPOKéMON dozna zmiany stanu?\pCóż, od tego jestem ja! Pokażę ci!\pŚwietnie, zaczynamy!\nPrzylep gały do ekranu, by nie przegapić POKé GOŚCIA!
+Zatrucie czy paraliż, nie znika\npo walce.\pJeżeli POKéMON zostanie zatruty,\nbędzie tracił HP podczas chodzenia.\pPowinieneś uleczyć swoje POKéMONY\nz takich problemów, gdy tylko\pbędzie to możliwe.\nUżyj przedmiotu,\plub skorzystaj z CENTRUM POKéMON.\nTo było proste, prawda?\pW takim razie, do zobaczenia!\nPamiętajcie, TRENERZY, co złego, to nie ja!
+Czy wszyscy wiedzą o różnicach\ntypów?\pPOKéMONY i ich ataki przynależne\nsą do różnych typów.\pNa przykład, istnieją typy takie\njak TRAWA i WODA.\pMusisz zastanowić się nad ruchami\nużywanymi w trakcie walki…\pOraz, jaki POKéMON trafiony ma\nbyć wybranym atakiem.\pZależnie od tego, jaki typ ataku\ndziała, na jakiego POKéMONA,\pzależą obrażenia.\nWszystko zależy czy\pkombinacja jest dobra, czy zła.\nJeżeli nie znasz tych zależności,\pwalki mogą być trudne.\nPozwól, że zademonstruje ci \pdokładnie, o co mi chodzi.\pOk, ruszamy!\nPrzylepcie gały do ekranu, by nie przegapić POKé GOŚCIA!
+Czy możliwe jest zadanie ataku,\nktóry zada potężne obrażenia?\pCzy przeciwny POKéMON może być\nzagrożeniem dla twego POKéMONA?\pCzy jest szansa, że może mieć\nzastraszająco silne ataki?\pPoznaj różnice typów, by zdobyć\nznaczną przewagę!\pOk, do zobaczenia!\pPOKé GOŚĆ o typie SUPER, świetnie\npasuje do dzieciaków CUDNEGO typu\ltakich jak wy!\pNo i pamiętajcie, że\nco złego, to nie ja!
+Dziś, POKé GOŚĆ pokaże wam\njak łapać POKéMONY!\pWyobraź sobie… Wypaśny POKéMON\nnagle wyłania się z dziczy!\pO, tak bardzo go chcesz!\nI nie może na to nic poradzić!\pHej, możesz go złapać!\nMusisz go mieć!\pPozwól, że pokażę ci, jak\nspełnić twoje marzenia!\pNo to super, dajemy!\pPrzylep gały do ekranu, by\nnie przegapić POKé GOŚCIA!
+Jeśli nie uda ci się złapać go\npierwszym POKé BALLEM\pnie poddawaj się!\nPróbuj aż do skutku…\pCzasami to mocno pomaga!\pNo to świetnie, do zobaczenia!\nI pamiętajcie TRENERZY, co złego, to nie ja!
+Witam wszystkich!\nCzy macie wszyscy TM?\pTM, Techniczna Maszyna, to\nzadziwiająco wspaniała rzecz!\pUczy POKéMONY ruchów,\nktórych nie poznają poziomując!\pCzy to niewspaniałe? Cóż to za\nrozmyślny świat, w którym\pżyjemy!\nOtwórz ETUI TM i sprawdź\pjakie masz TMy.\nMożecie też zobaczyć tam ich dokładny opis.
+POKé GOŚĆ: NORMALNE, WODNE,\nTRAWIASTE… TMy także mają typy.\pSprawdzaj typy i ucz\nich POKéMONÓW, by dobrze się\pwpasowywały.\pNa przykład, PULS WODY\njest dobry dla WODNYCH\pPOKéMONÓW.\pPOCISK NASION, to ruch, którego\nuczą się POKéMONY TRAWIASTE.\pJest coś jeszcze!
+Nie patrz tylko na typ, dobrze jest\nprzeczytać też opis.\pMoże też zawierać rady dla\nPOKéMONÓW, które mają go użyć.\pNa przykład, taki ruch jak\nSKUPIONY CIOS.\pZdecydowanie nie jest to atak dla\nPOKéMONA ptaka lub ryby.\pSpróbuj więc użyć go na POKéMONIE z\nrękami zdolnymi do zadawania ciosów!
+Łał, dużo dziś powiedziałem!\nNo to wporzo! Do zobaczenia!\pI zapamiętajcie, TRENERZY,\nco złego, to nie ja!
+TORBA TRENERA ma kilka ciekawych\ni przydatnych funkcji!\pWeźmy na przykład przedmioty z\nKIESZENI PRZEDMIOTÓW\pKLUCZOWYCH.\nMożesz używać przedmiotów\pkluczowych bez otwierania\nTORBY!\pPowiedzmy, że mam w TORBIE\nwłasny TELEWIZOREK.\pMogę zarejestrować go do\pnatychmiastowego użycia!\nSpójrz jak! Dobra, zaczynamy!\pPrzylep gały do ekranu,\nby nie przegapić POKé GOŚCIA!
+I teraz, twój TELEWIZOREK\njest zarejestrowany.\pJak go użyć?\nWięc, działa to tak.\pGdy zarejestrujesz przedmiot z\nodpowiedniej KIESZENI, możesz użyć\lgo wciskając SELECT.\pW ten sposób uzyskałeś\ndostęp do TELEWIZORKA jednym\pguzikiem.\nBy się ze mną zobaczyć, wystarczy\pwcisnąć jeden przycisk!\nTak częste spotkania mogą być\pkrępujące!\pTo wszystko, do zobaczenia!\nPamiętajcie, TRENERZY, co złego to nie ja!
+<<< FILE: src/data/text/trainer_class_names.h >>>
+TRENER {PKMN}
+TRENER {PKMN}
+DOWÓDCA
+ZESPÓŁ AQUA
+PERFUMIARKA
+MANIAK RUIN
+REPORTER
+PLAŻOWICZKA
+PLAŻOWICZKA
+SPOKOTRENER
+MANIAK KLĄTW
+PANIENKA
+PIĘKNOŚĆ
+BOGACZ
+POKéMANIAK
+PŁYWAK
+CZARNY PAS
+GITARZYSTA
+PODPALACZ
+OBOZOWICZ
+MANIAKROBALI
+PSYCHOKINEZA
+DŻENTELMEN
+ELITARNA 4
+LIDER
+UCZEN
+KOLEŻANKI
+POKéFAN
+EKSPERT
+NASTOLATEK
+MISTRZ
+RYBAK
+TRIATLONISTA
+DRAGON TAMER
+PTASI TRENER
+NINJA BOY
+WOJOWNICZKA
+PARASOL LADY
+PŁYWAK
+OBOZOWICZKA
+BLIŹNIACZKI
+ŻEGLARZ
+BOARDER
+KOLEKCJONER
+TRENER {PKMN}
+HODOWCA {PKMN}
+STRAŻNIK {PKMN}
+LIDER MAGMA
+ZESPÓŁ MAGMA
+PANNA
+ROBALOŁAPACZ
+GÓRAL
+MŁODA PARA
+STARA PARA
+RODZENSTWO
+DOWÓDCA AQUA
+DOWÓDCAMAGMA
+NASTOLATEK
+ROBALOŁAPACZ
+PANNA
+ŻEGLARZ
+OBOZOWICZ
+OBOZOWICZKA
+POKéMANIAK
+SUPER NERD
+GÓRAL
+MOTOCYKLISTA
+RABUŚ
+INŻYNIER
+RYBAK
+PŁYWAK
+OSIŁEK
+GRACZ
+PIĘKNOŚĆ
+PŁYWAK
+PSYCHOKINEZA
+ROCKER
+ŻONGLER
+POSKRAMIACZ
+PTASI TRENER
+CZARNY PAS
+RYWAL
+NAUKOWIEC
+SZEF
+LIDER
+ZESPÓŁ R
+SPOKOTRENER
+ELITARNA 4
+DŻENTELMEN
+RYWAL
+MISTRZ
+EGZORCYSTA
+BLIŹNIACZKI
+SPOKO PARA
+MŁODA PARA
+KREWNY ŁOMOT
+RODZENSTWO
+PROF. {PKMN}
+GRACZ
+WOJOWNICZKA
+PLAŻOWICZKA
+HODOWCA {PKMN}
+STRAŻNIK {PKMN}
+PERFUMIARKA
+MANIAK RUIN
+PANIENKA
+MALARKA

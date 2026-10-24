@@ -1,0 +1,122 @@
+<<< FILE: scripts/cable_club.inc >>>
+Witamy w POKéMON CABLE CLUB.\nZ której usługi masz ochotę\pskorzystać?
+Z której usługi masz ochotę\nskorzystać?
+Wymiana POKéMONÓW z innym graczem\nprzy pomocy Game Link cable.
+Możesz zmierzyć się z innym\nTRENEREM przez Game Link cable.
+おわります
+Potrzebujesz minimum 2 POKéMONÓW\ndo PODWÓJNEJ WALKI.
+Do wymiany, potrzebujesz\nprzynajmniej 2 POKéMONÓW.
+POKéMON z JAGODĄ {STR_VAR_1}\nnie może być wymieniony.
+Chwileczkę.\n…… Przycisk B: Anuluj
+Oczekiwanie na graczy…\nPrzycisk A: Potwierdź\lPrzycisk B:Anuluj
+Uruchomić łącze z {STR_VAR_1} graczami.\nPrzycisk A: OK\lPrzycisk B: Anuluj
+Oczekiwanie połączenia…\n… …Przycisk B: Anuluj
+はじめる　まえに　レポートを\nかきますが　よろしいですか？
+Proszę wejść.
+Zaprowadzę cię do twojego pokoju.
+Ktoś nie jest gotowy.\pProszę wrócić, gdy wszyscy będą już\nprzygotowani.
+Przepraszamy, błąd połączenia…\nZresetuj i spróbuj od nowa
+Partnerzy wybrali chyba inny\nrodzaj połączenia.
+Do zobaczenia.
+Liczba uczestników jest\nniepoprawna.
+W JEDNOOSOBOWEJ WALCE nie może\nbrać udział {STR_VAR_1} graczy.
+W PODWÓJNEJ WALCE nie może\nbrać udziału {STR_VAR_1} graczy.
+Musi być czterech graczy, by\nrozegrać tę walkę.
+Proszę potwierdzić liczbę\ngraczy i zacznij od nowa.
+Połączenie zostanie zerwane, jeśli\nopuścisz pokój. W porządku?
+Zrywanie połączenia…\nZostaniesz wyprowadzony z\lpokoju. Chwileczkę.
+Ten TRENER jest zbyt\nzajęty…
+Punkt! Podejrzał KARTĘ TRENERA\n{STR_VAR_1}!
+Punkt! Podejrzał KARTĘ TRENERA\n{STR_VAR_1}!\pTo karta {STR_VAR_2}!
+Proszę usiąść i rozpocząć swój\npojedynek.
+Proszę usiąść i rozpocząć\nproces wymiany.
+ごりよう　ありがとう　ございました
+Dane KARTY\nTRENERA zostaną nadpisane.
+Spotkajmy się ponownie!
+Bardzo przepraszam.\pNie jesteśmy jeszcze przygotowani\ndo przeprowadzania transakcji z TRENERAMI\ldaleko w innym regionie…
+Drugi TRENER nie jest gotowy.
+Masz przynajmniej jednego Pokémona,\nktóry nie może wziąć udziału.
+Wireless Adapter nie\njest prawidłowo podłączony.
+Uczestników prosimy o\npodejście do recepcji.
+こんにちは！
+しょうしょう　おまちください
+Możesz handlować swoimi POKéMONAMI\ntutaj z innym TRENEREM.
+Możesz tu walczyć\nze swoimi przyjaciółmi.
+Od dwóch do pięciu TRENERÓW może\nprzygotować PROSZEK Z OWOCÓW razem.
+ワイヤレス　クラブでの\nあそびかたを　せつめいします
+Anuluje wybraną pozycję MENU.
+どちらの　しょうぶに　しますか？
+ひとつ　まえに　もどります
+Aby korzystać z usługi BERRY CRUSH,\nmusisz mieć przynajmniej jedną JAGODĘ.
+Aby wejść do POKéMON UNION ROOM,\nmusisz mieć co najmniej dwa POKéMON.
+Żaden POKéMON trzymający {STR_VAR_1} JAGODĘ nie\nmoże wejść do POKOJU UNION.
+To jest POKéMON BEZPRZEWODOWY\nKLUB POKÓJ UNION.\pNiestety, Twój adapter bezprzewodowy\nnie jest prawidłowo podłączony.\pProszę, przyjdź ponownie.
+あ‥‥\nおきゃくさま！
+Wygląda na to, że\n {STR_VAR_1} gra teraz.\lDziałaj!
+Mogę ci wyjaśnić zasady\ngry, jeśli chcesz.\pKtórą grę powinienem opisać?
+“POKéMON JUMP”\pSpraw, aby twój POKéMON przeskoczył przez\nlinę WIĄZAŃCĄ WĄZEM przyciskiem A.\pUczestniczyć mogą tylko mini POKéMON o\ndługości około 28 cali lub mniej.\pPOKéMON, które tylko pływają, kopią lub\nlatają, nie są dobre w skakaniu.\pW rezultacie te POKéMONY\nmogą nie uczestniczyć.\pDobre rzeczy się dzieją,\njeśli wszyscy skaczą w rytmie.
+“DODRIO ZBIÓR OWOCÓW”\pRozkaż trzem głowom DODRIO,\naby łapały spadające JAGODY.\pNaciśnij w prawo, w górę lub w lewo\nna padzie sterującym {PLUS} , aby poruszać głowami.\pAby grać w tę\ngrę, musisz mieć DODRIO.
+Jeśli chcesz zagrać w grę,\nproszę powiedz mężczyźnie obok mnie.
+Cześć, witaj!\nMożesz grać w gry\lza pośrednictwem systemu komunikacji bezprzewodowej.\pCzy możesz poczekać tylko chwilę?
+W porządku, żegnamy!
+Wireless Adapter nie jest\npołączony.\pWróć, gdy będzie połączony!
+Dobrze, w jaką\ngrę chciałeś zagrać?
+Którego Pokémona chcesz wybrać?
+W porządku, możesz iść.\nNie pozwól, aby inni cię pokonali!
+きょうは　けえるのか？\nまたこいよ！
+Wygląda na to, że nie masz\nżadnych POKéMON, które mógłbyś wprowadzić…\pChciałbyś, żebym wyjaśnił, jakie\nrodzaje POKéMON mogą wejść?
+“POKéMON JUMP” jest otwarte dla POKéMON\no wysokości około 28 cali lub mniej.\pTych Pokémonów, które nie\npotrafią skakać, nie można wprowadzać.\pWiesz, jak POKéMON, które tylko\npływają, kopią tunele albo latają.\pTo wszystko, co musisz wiedzieć.
+“DODRIO ZBIÓR OWOCÓW BERRY”…\nCóż, sama nazwa mówi wszystko.\pMusisz mieć DODRIO, aby\nzagrać w tę grę.
+もういちど　はじめから\nやりなおして　みて　くれ
+Witamy w Pokoju Przymierza Bezprzewodowego\nKlubu Pokémon.\pMożesz wchodzić tu w bezpośrednie interakcje\nz wieloma Trenerami.\pCzy chcesz wejść do\npokoju?
+Czy chcesz wymienić Pokémona?
+W którym trybie rozgrywki chciałbyś\nzagrać?
+Czy chcesz zapisać wyniki przez\nBERRY CRUSH System?
+Istnieje trzy typy walk.\pWalki Pojedyncze to pojedynki między\ndwoma Trenerami z przynajmniej \pjednym Pokémonem.\pKażdy Trener może mieć w walce\ntylko jednego Pokémona na raz.\pWalki Podwójne to tryb dla dwóch\nTrenerów z minimum dwoma Pokémonami.\pMulti Walki to tryb dla czterech\nTrenerów z przynajmniej jednym\pPokémonem.\nKażdy Trener może mieć w walce\ptylko jednego
+Proszę zdecydować kto\nzostanie liderem. Drugi\pgracz musi wybrać opcję \n“DOŁĄCZ DO GRUPY.”
+Proszę zadecydować kto\nzostanie liderem. Pozostali\pgracze muszą wybrać opcje \n“DOŁĄCZ DO GRUPY.”
+Proszę zdecydować kto\nzostanie liderem. Drugi\pgracz musi wybrać opcję \n“DOŁĄCZ DO GRUPY.”
+Witamy w Pokoju Przymierza Bezprzewodowego\nKlubu Pokémon.\pMożesz wchodzić tu w\nbezpośrednie interakcje\lz wieloma Trenerami.\pTrenerami. Czy chcesz wejść do pokoju?
+Trenerzy w Pokoju Przymierza są\ngracze z twojego otoczenia\lktórzy również weszli do POKOJU.\pMożesz tu robić różne\nrzeczy, na przykład wymieniać pozdrowienia.\pDo walki jeden-na-jeden możesz zabrać\nze sobą dwa Pokémony do Lv. 30.\pMożesz wziąć udział w czacie z\nod dwóch do pięciu osób\pMożesz też zarejestrować\nPOKéMONA do wymiany.\pCzy chcesz wejść do pokoju?
+Życzę miłej zabawy!
+Witaj!\nNazywam się TEALA.\pPewnie jesteś tu po raz\npierwszy.\pPokażę ci jak działa System\nKomunikacji Bezprzewodowej.\pNajpierw, pozwól, że opowiem ci o\ntym piętrze CENTRUM POKéMON.\pProszę za mną.
+Na tym piętrze znajdują się dwa\npomieszczenia.\pPomieszczenie z lewej to\nUNION ROOM.\pMożesz połączyć się tam z TRENERAMI,\nktórzy także znajdują się w\lUNION ROOM.\pPozwoli co to na rozmowę,\nwalkę, a także wymianę z nimi.\pPokój po stronie prawej, to\nDIRECT CORNER.\pTam, możesz walczyć i wymieniać się\nPOKéMONAMI ze swoimi przyjaciółmi.\pJeżeli nie zostanie podłączony\nWireless Adapter, możesz łączyć\lsię za pomocą GBA Game Link cable.\pW tym wypadku korzystaj jednak\ntylko z DIRECT CORNER.\pMiłej zabawy z\nSystemem Komunikacji Bezprzewodowej.
+Witaj, {PLAYER}!\pTo ja, TEALA, pomocnik z\n2P CENTRUM POKéMON.\pCzy jest coś, o co chciałbyś mnie\nzapytać?
+Pozwól, że wytłumaczę ci jak\ndziała WIRELESS CLUB.\pNa tym piętrze znajdują się dwa\npomieszczenia.\pPomieszczenie z lewej to\nUNION ROOM.\pMożesz połączyć się tam z TRENERAMI,\nktórzy także znajdują się w\lUNION ROOM.\pPozwoli co to na rozmowę,\nwalkę, a także wymianę z nimi.\pPokój po stronie prawej to\nDIRECT CORNER.\pTam, możesz walczyć i wymieniać się\nPOKéMONAMI ze swoimi przyjaciółmi.\pCzasami, możesz mieć problemy ze\nznalezieniem kolegów przebywających\lw UNION ROOM lub DIRECT CORNER.\pW takim wypadku, przybliż się\ndo swoich przyjaciół.\pJeżeli nie zostanie podłączony\nWireless Adapter, nadal możesz łączyć\lsię za pomocą GBA Game Link cable.\pW tym wypadku korzystaj jednak\ntylko z DIRECT CORNER.\pMiłej zabawy z\nSystemem Bezprzewodowym.
+Miłej zabawy z Systemem\nKomunikacji Bezprzewodowej.
+<<< FILE: scripts/field_moves.inc >>>
+Wygląda na to, że to drzewko\nmoże zostać ŚCIĘTE.\pCzy użyć CIĘCIA?
+{STR_VAR_1} użył {STR_VAR_2}!
+Wygląda na to, że to drzewo\nmożna ŚCIĄĆ!
+Ten kamień wygląda bardzo krucho.\nCzy chcesz użyć ŁUPACZA SKAL?
+To kruchy kamień. POKéMON może\nbyć w stanie go rozłupać.
+To olbrzymi głaz, ale POKéMON\nmoże być w stanie go popchnąć.\pCzy chcesz użyć SIŁY?
+{STR_VAR_1} użył SIŁY!\pSIŁA pozwala {STR_VAR_1}\nprzesuwać ciężkie kamienie!
+To wielki kamień, ale POKéMON może\nbyć w stanie go popchnąć.
+SIŁA pozwala na przesuwanie\nciężkich kamieni.
+Woda spada na dół z wielkim\nłoskotem.
+To olbrzymi wodospad.\nCzy chcesz użyć WODOSPADU?
+{STR_VAR_1} użył WODOSPADU.
+Woda jest tu bardzo głęboka.\nPOKéMON mógłby zejść pod wodę.
+Woda jest tu głęboka.\nCzy chcesz użyć NURKOWANIA?
+{STR_VAR_1} użył NURKOWANIA.
+Dochodzi tu światło z powierzchni.\nPOKéMON mógłby wypłynąć.
+Dochodzi tu światło z powierzchni.\nCzy chcesz użyć NURKOWANIA?
+Na górze jest przeszkoda.\nNie można użyć NURKOWANIA.
+Wygląda na to, że nic tu nie ma...
+<<< FILE: scripts/mystery_event_club.inc >>>
+Witaj! Miło cię poznać!\p...To bardzo niemiłe.\nMoże byś mi odpowiedział?\pNo, proszę, powiedz mi\ncoś o sobie.\pChciałabym usłyszeć twój profil!
+Powiedz mi o sobie coś dobrego.\nJaki masz profil?
+Profil składa się z czterech\nwyrazów lub fraz.\pBy ułożyć dobry profil wyposażono\ncię w szeroką gamę słów.\pSłowa i frazy umiejscowione są w\nróżnych, wygodnych grupach.\pNajpierw, wybierz grupę, potem\nwybierz słowo lub frazę.\p…To łatwiejsze niż ci się wydaje.\nMoże spróbujesz?
+Jaki masz profil?
+Ałł… Nie bądź taki.\nMożesz mi powiedzieć!
+Zdecydowałeś się nie mówić?\nCóż za niezdecydowanie!
+Witaj ponownie!
+Czy chciałbyś zmienić swój\nprofil?
+Jaki jesteś teraz?\nBardzo chciałabym wiedzieć.
+Dobrze, podoba ci się taki jaki\njest.\pTeż tak sądzę.
+Hmhm…\pTwój profil naprawdę mówi coś na\ntemat ciebie.\pTeraz, skoro znam cię już lepiej,\njesteśmy na dobrej drodze do przyjaźni!
+Och, już to gdzieś słyszałam…\pTak zawsze mawiał mój kuzyn z\nbardzo, bardzo daleka.
+Proszę, powiedz mi kiedyś\ncoś o sobie!
+<<< FILE: scripts/repel.inc >>>
+ODGANIACZ skończył się...

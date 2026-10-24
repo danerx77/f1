@@ -1,0 +1,1280 @@
+<<< FILE: text/aide.inc >>>
+Let's see…\nUh-oh! You have caught only\l{STR_VAR_3} kinds of POKéMON!\pYou need {STR_VAR_1} kinds\nif you want the {STR_VAR_2}.
+…Oh. I see.\pWhen you get {STR_VAR_1} kinds of POKéMON,\ncome back for the {STR_VAR_2}.
+Oh! I see you don't have any\nroom for the {STR_VAR_2}.
+<<< FILE: text/day_care.inc >>>
+I'm the DAY-CARE MAN.\pI help take care of the precious\nPOKéMON of TRAINERS.\pIf you'd like me to raise your\nPOKéMON, have a word with my wife.
+Ah, it's you!\pWe were raising your POKéMON, and\nmy goodness, were we surprised!\pYour POKéMON had an EGG!\pWe don't know how it got there,\nbut your POKéMON had it.\pYou do want it, yes?
+Ah, it's you! Good to see you.\nYour {STR_VAR_1}'s doing fine.
+Well then, I'll keep it.\nThanks!
+You have no room for it…\nCome back when you've made room.
+{PLAYER} received the EGG from\nthe DAY-CARE MAN.
+Take good care of it.
+ポケモンを　ひきとりたい　ときは\nばさんに　いって　おくれ
+Ah, it's you! Your {STR_VAR_1} and\n{STR_VAR_2} are doing fine.
+I really will keep it.\nYou do want this, yes?
+I'm the DAY-CARE LADY.\pWe can raise POKéMON for you.\pWould you like us to raise one?
+Which POKéMON should we raise for\nyou?
+Fine, we'll raise your {STR_VAR_1}\nfor a while.\pCome back for it later.
+We can raise two of your POKéMON.\pWould you like us to raise one\nmore POKéMON for you?
+My husband was looking for you.
+Oh, fine, then.\nCome again.
+You don't have enough money…
+Will you take back the other one,\ntoo?
+Fine.\nCome again.
+Ah, it's you!\nGood to see you.\pYour POKéMON can only be doing\ngood!
+By level, your {STR_VAR_1} has\ngrown by {STR_VAR_2}.
+Your POKéMON party is full.\nMake room, then come see me.
+どっちの　ポケモンを　ひきとるかい？
+If you want your {STR_VAR_1} back,\nit will cost ¥{STR_VAR_2}.
+Perfect!\nHere's your POKéMON.
+{PLAYER} took back {STR_VAR_1} from\nthe DAY-CARE LADY.
+Oh? But you have just one\nPOKéMON.\pCome back another time.
+Will you take your POKéMON back?
+If you leave me that POKéMON,\nwhat will you battle with?\pCome back another time.
+Huh?
+<<< FILE: text/fame_checker.inc >>>
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}OAK POKéMON RESEARCH LAB
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}To make a complete guide on all\nthe POKéMON in the world…\pThat was my dream!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK may not look like much,\nbut he's the authority on POKéMON.\pMany POKéMON TRAINERS hold him in\nhigh regard.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK reportedly lives with his\ngrandchildren, DAISY and {RIVAL}.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I hear OAK's taken a lot of\ninterest in you, child.\pThat old duff was once tough and\nhandsome.\pBut that was decades ago.\nHe's a shadow of his former self.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK is going to have his own\nradio show soon.\pThe program will be called PROF.\nOAK'S POKéMON SEMINAR.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}If you show DAISY your POKéMON,\nshe can tell how much it likes you.\pOccasionally, she will even groom\na POKéMON for you.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}But the person who is most liked by\nPOKéMON is DAISY, I think.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}She was gently grooming POKéMON…\nShe was a little angel.\pThat little girl's name…\nI think it was DAISY.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK reportedly lives with his\ngrandchildren, DAISY and {RIVAL}.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}A girl from PALLET TOWN, DAISY,\nshe enjoys TEA every day.\pShe visits the CELADON DEPT. STORE\nto buy some TEA.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The Spring POKéMON CONTEST's\nGrand Champion is DAISY OAK of\lPALLET TOWN!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PEWTER CITY POKéMON GYM\nLEADER: BROCK\lThe Rock-Solid POKéMON TRAINER!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My rock-hard willpower is evident\nin even my POKéMON.\pMy POKéMON are all rock hard and\nhave true-grit determination.\pThat's right - my POKéMON are all\nthe ROCK type!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}There aren't many serious POKéMON\nTRAINERS here.\pThey're all like BUG CATCHERS,\nyou know, just hobbyists.\pBut PEWTER GYM's BROCK isn't like\nthat, not one bit.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BROCK is cool. He's not just tough.\nPeople like and respect him.\pI want to become a GYM LEADER\nlike him.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Hi, I'm excavating for fossils here\nunder MT. MOON.\pSometimes, BROCK of PEWTER GYM\nlends me a hand.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BROCK rarely laughs, but is said to\nbe unable to stop if he starts.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CERULEAN CITY POKéMON GYM\nLEADER: MISTY\lThe Tomboyish Mermaid!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My policy is an all-out offensive\nwith WATER-type POKéMON!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}MISTY is a TRAINER who's going to\nkeep improving.\pShe won't lose to someone like you!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Strong TRAINERS and WATER POKéMON\nare common sights in these parts.\pThey say that MISTY of the\nCERULEAN GYM trains here.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}This cape is a famous date spot.\pMISTY, the GYM LEADER, has high\nhopes about this place.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}MISTY is said to worship LORELEI\nof the ELITE FOUR.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}VERMILION CITY POKéMON GYM\nLEADER: LT. SURGE\lThe Lightning American!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I tell you, kid, electric POKéMON\nsaved me during the war!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}When I was in the Army, LT. SURGE\nwas my strict CO.\pHe was a hard taskmaster.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}LT. SURGE was always famous for\nhis cautious nature in the Army.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}LT. SURGE installed the traps in\nthe GYM himself.\pHe set up double locks everywhere.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}LT. SURGE is rumored to have been\na pilot while home in America.\pHe used the electricity generated\nby POKéMON to power his plane.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CELADON CITY POKéMON GYM\nLEADER: ERIKA\lThe Nature-Loving Princess!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am a student of the art of\nflower arranging.\pMy POKéMON are solely of the\nGRASS type.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Our LEADER ERIKA might be quiet,\nbut she's famous around here.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}We only use GRASS-type POKéMON at\nour GYM.\pWhy? We also use them for making\nflower arrangements!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I would never collect POKéMON if\nthey were unattractive.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Rumor has it that if you peek into\nCELADON GYM, you can often\lsee ERIKA snoozing.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}FUCHSIA CITY POKéMON GYM\nLEADER: KOGA\lThe Poisonous Ninja Master
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Despair to the creeping horror of\nPOISON-type POKéMON!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Even though I've lost, I will keep\ntraining according to the teachings\lof KOGA, my ninja master.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My father is the GYM LEADER of\nthis town.\pI'm training to use POISON POKéMON\nas well as my father.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}KOGA is said to have a thorough\nknowledge of medicine.\pHe even concocts medicine to nurse\nhis POKéMON to health.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The SAFARI ZONE's huge, wouldn't\nyou say?\pFUCHSIA's GYM LEADER, KOGA, \npatrols the grounds every so often.\pThanks to him, we can play here\nknowing that we're safe.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SAFFRON CITY POKéMON GYM\nLEADER: SABRINA\lThe Master of PSYCHIC POKéMON!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}You know about a girl GYM LEADER\nin SAFFRON CITY?\pShe uses PSYCHIC-type POKéMON,\nright?
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I have had psychic powers since\nI was a child.\pIt started when a spoon I\ncarelessly tossed, bent.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I dislike battling, but if you wish,\nI will show you my powers!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}People say that SABRINA can\ncommunicate with her POKéMON\lduring battle without speaking.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SABRINA just wiped out the KARATE\nMASTER next door.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CINNABAR ISLAND POKéMON GYM\nLEADER: BLAINE\lThe Hotheaded Quiz Master!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My fiery POKéMON are all rough\nand ready with intense heat!\pThey incinerate all challengers!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Our LEADER, BLAINE, became lost\nin the mountains but good.\pNight fell when a fiery bird\nPOKéMON appeared.\pIts light allowed BLAINE to find\nhis way down safely.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CINNABAR GYM's BLAINE is quite the\nodd fellow.\pHe's lived on the island since way\nbefore the LAB was built.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}It's a photo of BLAINE and\nMR. FUJI.\pThey're standing shoulder to\nshoulder with big grins.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BLAINE is said to remove his dark\nshades only when he is thinking up\lnew quiz questions.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am LORELEI of the ELITE FOUR.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}No one can best me when it comes\nto icy POKéMON.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Where was this person born?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}We've had a great and powerful\nTRAINER grow up on this island.\pI bet even you'd know her.\nIt's LORELEI of the ELITE FOUR!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Known for her logical, calculated,\nand cool battling style, LORELEI\lhas a surprising secret!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Did you know that LORELEI has lots\nand lots of stuffed dolls?\pEvery time she comes back to\nFOUR ISLAND, her collection grows!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The LAPRAS she has, I imagine it\nto be the one she met as a child.\pI believe it was in ICEFALL CAVE\nthat she caught it.\pPerhaps that POKéMON has been with\nher ever since.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am BRUNO of the ELITE FOUR!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I've lived and trained with my\nfighting POKéMON!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BRUNO apparently joined the ELITE\nFOUR out of his burning ambition to\lbattle the best TRAINERS.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BRUNO, who's a senior ahead of me,\nvisits the SPA on occasion.\pHe comes to rehab injuries, both\nhis own and his POKéMON's.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}He's one of the ELITE FOUR.\nHis name is BRUNO.\pHe went away disappointed when he\nfound out that they were all sold\lout of Rage Candybars.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Even BRUNO…\nHe trained with a fellow by the\lname of BRAWLY before.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am AGATHA of the ELITE FOUR.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}AGATHA's GHOST-type POKéMON are\nhorrifically terrifying in toughness.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}That old lady's also got a really\nshort fuse, too.\pIt doesn't take anything to get\nthat scary lady hollering.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}In her youth, AGATHA and PROF.\nOAK were rivals who vied for\lsupremacy as TRAINERS.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I hear OAK's taken a lot of\ninterest in you, child.\pThat old duff was once tough and\nhandsome.\pBut that was decades ago.\nHe's a shadow of his former self.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Take AGATHA, for example.\pShe set a record for being the\noldest-ever ELITE FOUR member.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I lead the ELITE FOUR.\pYou can call me LANCE the dragon\nTRAINER.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}You know that dragons are\nmythical POKéMON.\pThey're hard to catch and raise,\nbut their powers are superior.\pThey're virtually indestructible.\nThere's no being clever with them.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}He stands for justice!\nHe's cool, and yet passionate!\lHe's the greatest, LANCE!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}We have a customer, LANCE, who\noccasionally comes.\pHe always buys capes.\pI wonder… Does he have many\nidentical capes at home?
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}LANCE's grandfather is thought to\nbe the elder of a famous clan of\ldragon masters.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}From what I've heard, LANCE has\na cousin who's a GYM LEADER\lsomewhere far away.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}After all, BILL's world-famous as a\nPOKéMANIAC.\pHe invented the POKéMON Storage\nSystem on PC, too.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL has lots of POKéMON!\nHe collects rare ones, too!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}He's my grandson!\pHe always liked collecting things,\neven as a child!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL is a POKéMANIAC, so he loves\nevery kind.\pApparently, the first one he caught\nwas an ABRA.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL's hometown is GOLDENROD CITY,\nwhere his folks still live.\pI've heard that it's quite the\nfestive, bustling city.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Apparently, BILL simply can't\nstomach milk at all.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}He's really kind.\pHe looks after abandoned and\norphaned POKéMON.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}This old guy marched right up to\nour HIDEOUT.\pThen, he starts ranting about how\nTEAM ROCKET's abusing POKéMON.\pSo, we're just talking it over as\nadults.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}POKéMON FAN MAGAZINE\nMonthly Grand Prize Drawing!\pThe application form is…\pGone! It's been clipped out.\nSomeone must have applied already.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I hear that MR. FUJI's not from\nthese parts originally, either.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}It's a photo of BLAINE and\nMR. FUJI.\pThey're standing shoulder to\nshoulder with big grins.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Editor: The shy MR. FUJI turned\ndown our interview requests.\pHe is a kindly man who is adored\nand respected in LAVENDER TOWN.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}TEAM ROCKET captures POKéMON from\naround the world.\pThey're important tools for keeping\nour criminal enterprise going.\pI am the leader, GIOVANNI!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of POKéMON?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Those thugs that took over our\nbuilding…\pTheir BOSS said he was looking for\nstrong POKéMON.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}TEAM ROCKET's BOSS is terribly\ncruel!\pTo him, POKéMON are just tools to\nbe used.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Welcome to my hideout!\pIt shall be so until I can restore\nTEAM ROCKET to its former glory.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Blow me away! GIOVANNI was the\nGYM LEADER of VIRIDIAN?
+{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}You… You're not GIOVANNI's kid,\nare you?\pNo, that can't be right.\nGIOVANNI's kid has red hair.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}PROF. OAK
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: PROF. OAK\nTo: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Why do POKéMON compete and battle\nso hard for you?\pThey do so because they can see\nthe love and trust you have\ltowards POKéMON.\pNever forget that.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}DAISY
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: DAISY\nTo: {PLAYER}\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}While I was comfortably enjoying\nmy tea breaks, you've grown very\lskilled and powerful.\pI hope you'll remain a good rival\nto my little brother.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}BROCK
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: BROCK\nTo: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}In this big world of ours, there\nmust be many tough TRAINERS.\pLet's both keep training and\nmaking ourselves stronger!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}MISTY
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: MISTY\nTo: {PLAYER}\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I'm going to keep training here at\nthis GYM.\pWhen I get better, I'd love to hit\nthe road and travel.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}LT. SURGE
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: LT. SURGE\nTo: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Hey, kid!\nYou electrified me in our battle!\pI didn't know that there were\ngutsy TRAINERS like you.\pIt made me change my mind about\nyou!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}ERIKA
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: ERIKA\nTo: {PLAYER}\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am so glad that there are strong\nTRAINERS like you.\pThat awareness alone inspires and\nmotivates me to try harder.\pPlease visit me again.\nZzz…
+{COLOR BLUE}{SHADOW LIGHT_BLUE}KOGA
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: KOGA\nTo: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}You and I, we must both set our\nsights higher and work towards\lmeeting our challenges.\pNow, I must go train my daughter.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}SABRINA
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: SABRINA\nTo: {PLAYER}\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The love you have towards your\nPOKéMON…\pIt was a power that was never\nbested by my psychic power.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}BLAINE
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: BLAINE\nTo: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My fire POKéMON!\nThey'll become even more powerful!\pAnd now, a quiz. How many kinds of\nFIRE-type POKéMON are there?
+{COLOR BLUE}{SHADOW LIGHT_BLUE}LORELEI
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: LORELEI\nTo: {PLAYER}\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I needed to thank you for your\nhelp.\pBut that has nothing to do with our\nbattles.\pYou'd better watch out next time!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}BRUNO
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: BRUNO\nTo: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The super power of your POKéMON\nand you I've experienced myself.\pNext time, maybe I should show you\nhow to train yourself.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}AGATHA
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: AGATHA\nTo: {PLAYER}\p{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}When you grow older, don't you\ndare go soft like that coot OAK!\pBe like me and keep battling on!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}LANCE
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: LANCE\nTo: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I'm considering going back to my\nhometown.\pI want to retrain my DRAGON-type\nPOKéMON and strengthen them.\pI'd like to invite you to my\nhometown one day.
+{COLOR BLUE}{SHADOW LIGHT_BLUE}BILL
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: BILL\nTo: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Hey, there! CELIO had nothing but\npraise for you.\pHearing that makes me happy.\pWhen you catch some rare POKéMON,\ncome show me, okay? Promise!
+{COLOR BLUE}{SHADOW LIGHT_BLUE}MR. FUJI
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: MR. FUJI\nTo: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Instead of hoping for the happiness\nof just your POKéMON…\p…Can I get you to wish for the\nhappiness of all POKéMON?
+{COLOR BLUE}{SHADOW LIGHT_BLUE}GIOVANNI
+{COLOR BLUE}{SHADOW LIGHT_BLUE}From: GIOVANNI\nTo: {PLAYER}\p{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}There is nothing that I wish to say\nto you.\pI will concentrate solely on\nbettering myself, and none other.
+PALLET TOWN
+RESEARCH LAB
+RESEARCH LAB
+VIRIDIAN CITY
+POKéMON LEAGUE
+RESEARCH LAB
+RESEARCH LAB
+VERMILION CITY
+WATER LABYRINTH
+VIRIDIAN CITY
+CELADON MANSION
+FOUR ISLAND
+PEWTER CITY
+PEWTER GYM
+PEWTER CITY
+ROUTE 4
+MT. MOON
+PEWTER MUSEUM
+CERULEAN CITY
+CERULEAN GYM
+CERULEAN GYM
+SEAFOAM ISLANDS
+CERULEAN CAPE
+CERULEAN CITY
+VERMILION CITY
+VERMILION GYM
+VERMILION GYM
+VERMILION GYM
+VERMILION GYM
+VERMILION CITY
+CELADON CITY
+CELADON GYM
+CELADON GYM
+CELADON GYM
+CELADON GYM
+CELADON MANSION
+FUCHSIA CITY
+FUCHSIA GYM
+FUCHSIA GYM
+FUCHSIA CITY
+FUCHSIA CITY
+SAFARI ZONE
+SAFFRON CITY
+THREE ISLAND
+SAFFRON GYM
+SAFFRON GYM
+SAFFRON CITY
+SAFFRON GYM
+CINNABAR ISLAND
+CINNABAR GYM
+CINNABAR GYM
+CINNABAR ISLAND
+CINNABAR GYM
+RESORT GORGEOUS
+POKéMON LEAGUE
+POKéMON LEAGUE
+FOUR ISLAND
+FIVE ISLAND
+FOUR ISLAND
+FOUR ISLAND
+POKéMON LEAGUE
+POKéMON LEAGUE
+SAFFRON CITY
+EMBER SPA
+TWO ISLAND
+SEVAULT CANYON
+POKéMON LEAGUE
+INDIGO PLATEAU
+INDIGO PLATEAU
+SEVEN ISLAND
+POKéMON LEAGUE
+SIX ISLAND
+POKéMON LEAGUE
+POKéMON LEAGUE
+SAFFRON CITY
+CELADON DEPT.
+INDIGO PLATEAU
+INDIGO PLATEAU
+CERULEAN CITY
+CERULEAN CITY
+FUCHSIA CITY
+ONE ISLAND
+ONE ISLAND
+ONE ISLAND
+LAVENDER TOWN
+POKéMON TOWER
+LAVENDER TOWN
+LAVENDER TOWN
+CINNABAR GYM
+CINNABAR ISLAND
+ROCKET HIDEOUT
+SILPH CO.
+SILPH CO.
+VIRIDIAN GYM
+VIRIDIAN GYM
+ROCKET WAREHOUSE
+SIGN
+PROF. OAK
+AIDE
+POKéMON JOURNAL
+AGATHA
+AIDE
+AIDE
+WOMAN
+MAN
+POKéMON JOURNAL
+OLD LADY
+POKéMON JOURNAL
+SIGN
+BROCK
+YOUNG MAN
+BOY
+MAN
+POKéMON JOURNAL
+SIGN
+MISTY
+LUIS
+YOUNG MAN
+DAME
+POKéMON JOURNAL
+SIGN
+LT. SURGE
+TUCKER
+TUCKER
+DWAYNE
+POKéMON JOURNAL
+SIGN
+ERIKA
+LOLA
+TAMIA
+ERIKA
+POKéMON JOURNAL
+SIGN
+KOGA
+KIRK
+CHARINE
+POKéMON JOURNAL
+MAN
+SIGN
+YOUNG MAN
+SABRINA
+SABRINA
+POKéMON JOURNAL
+TYRON
+SIGN
+BLAINE
+DEREK
+WOMAN
+PHOTO
+POKéMON JOURNAL
+LORELEI
+LORELEI
+OLD MAN
+POKéMON JOURNAL
+LITTLE GIRL
+OLD LADY
+BRUNO
+BRUNO
+POKéMON JOURNAL
+CRUSHER
+WOMAN
+CRUSHER
+AGATHA
+CRUSHER
+CRUSHER
+POKéMON JOURNAL
+AGATHA
+OLD LADY
+LANCE
+LANCE
+WOMAN
+LITTLE GIRL
+POKéMON JOURNAL
+YOUNG MAN
+{RIVAL}
+LITTLE BOY
+OLD MAN
+CELIO
+CELIO
+CELIO
+LITTLE GIRL
+TEAM ROCKET
+MAGAZINE
+MAN
+PHOTO
+POKéMON JOURNAL
+GIOVANNI
+SCIENTIST
+SCIENTIST
+GIOVANNI
+MAN
+GIDEON
+POKéMON JOURNAL\pSpecial Feature: PEWTER GYM\nLEADER BROCK!\pBROCK rarely laughs, but is said to\nbe unable to stop if he starts.
+POKéMON JOURNAL\pSpecial Feature: CERULEAN GYM\nLEADER MISTY!\pMISTY is said to worship LORELEI\nof the ELITE FOUR.
+POKéMON JOURNAL\pSpecial Feature: VERMILION GYM\nLEADER LT. SURGE!\pLT. SURGE is rumored to have been\na pilot while home in America.\pHe used the electricity generated\nby POKéMON to power his plane.
+POKéMON JOURNAL\pSpecial Feature: CELADON GYM\nLEADER ERIKA!\pRumor has it that if you peek into\nCELADON GYM, you can often\lsee ERIKA snoozing.
+POKéMON JOURNAL\pSpecial Feature: FUCHSIA GYM\nLEADER KOGA!\pKOGA is said to have a thorough\nknowledge of medicine.\pHe even concocts medicine to nurse\nhis POKéMON to health.
+POKéMON JOURNAL\pSpecial Feature: SAFFRON GYM\nLEADER SABRINA!\pPeople say that SABRINA can\ncommunicate with her POKéMON\lduring battle without speaking.
+POKéMON JOURNAL\pSpecial Feature: CINNABAR GYM\nLEADER BLAINE!\pBLAINE is said to remove his dark\nshades only when he is thinking up\lnew quiz questions.
+POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's LORELEI!\pKnown for her logical, calculated,\nand cool battling style, LORELEI\lhas a surprising secret!
+POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's BRUNO!\pBRUNO apparently joined the ELITE\nFOUR out of his burning ambition to\lbattle the best TRAINERS.
+POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's AGATHA!\pIn her youth, AGATHA and PROF.\nOAK were rivals who vied for\lsupremacy as TRAINERS.
+POKéMON JOURNAL\pSpecial Feature:\nELITE FOUR's LANCE!\pLANCE's grandfather is thought to\nbe the elder of a famous clan of\ldragon masters.
+POKéMON JOURNAL\pSpecial Feature: PROF. OAK,\nthe POKéMON Researcher!\pPROF. OAK reportedly lives with his\ngrandchildren DAISY and {RIVAL}.
+This is a POKéMON JOURNAL from\nyears ago…\pPOKéMON JOURNAL\nCONTEST Special!\pThe Spring POKéMON CONTEST's\nGrand Champion is DAISY OAK of\lPALLET TOWN!
+POKéMON JOURNAL\pSpecial Feature:\nMR. FUJI of POKéMON HOUSE!\pEditor: The shy MR. FUJI turned\ndown our interview requests.\pHe is a kindly man who is adored\nand respected in LAVENDER TOWN.
+<<< FILE: text/flavor_text.inc >>>
+It's crammed full of POKéMON\nbooks.
+ほんだなに　ならんでいるのは\nポケモンの　ほん　ばかりだ
+A TOWN MAP.
+Wow!\nTons of POKéMON stuff!
+Dishes and plates are neatly\nlined up.
+It smells delicious!\nSomebody's been cooking here.
+It's a nicely made dresser.\nIt will hold a lot of stuff.
+There's a pile of snacks here.
+All your item needs fulfilled!\nPOKéMON MART
+Heal Your POKéMON!\nPOKéMON CENTER
+INDIGO PLATEAU\pThe ultimate goal of TRAINERS!\nPOKéMON LEAGUE HQ
+INDIGO PLATEAU\pThe highest POKéMON authority!\nPOKéMON LEAGUE HQ
+It should be packed with all kinds\nof delicious things to eat.
+It's a blueprint of some sort.\nIt's filled with diagrams and text.
+It's a pretty picture of a POKéMON.\nIt looks like it's feeling good.
+What could this machine be?\nBetter not mess around with it!
+It's a telephone.\nBetter not use it.
+It's all complicated words and\nnumbers that make no sense…
+It's an advertising poster about\nall kinds of products.
+Oh, that smells tasty!\nIt might get the stomach growling!
+Inside this…\n……\pThere's nothing here!
+It's a cup with a POKéMON mark\non it.
+The window is very well polished.
+Outside the window…\pThe sky looks fantastically\nbeautiful.
+Lights in different colors are\nflashing on and off.
+All sorts of tools are lined up\nneatly.
+It's a machine of some sort.\nIt sure is impressive.
+It's the latest video game!\nIt sure looks fun!
+There are obvious signs of burglary\nhere…
+There's a POKéMON on TV!\nIt looks like it's having fun.
+<<< FILE: text/help_system.inc >>>
+What should I do in this situation?
+How do I do this?
+What does this term mean?
+About this game
+Type Matchup List
+EXIT
+CANCEL
+じぶんの ちからで やってみよう！
+Select to obtain hints for getting\nover challenging situations.
+Detailed instructions are given for\nvarious operations.
+Detailed descriptions are given for\nterms that appear in the game.
+Detailed descriptions are given\nabout this game.
+The matchups of  POKéMON types\nand moves are listed.
+Select to exit the HELP System.
+Greetings! This is the HELP System.\nCall me up whenever and wherever you\lneed by pressing the L or R Button.\lThe help messages change to suit the\lsituation, so check them often, please.
+I'm playing for the first time. Help!
+What should I be doing?
+I can't get out of a room!
+I can't find the person I want.
+I've talked to everyone. Now what?
+There's someone blocking my way!
+I can't go on!
+I'm out of things to do.
+What happened to the item I got?
+What are the basics of my adventure?
+How are roads and forests different?
+How are caves different?
+How do I progress?
+When can I use items?
+What's a battle?
+How do I prepare for battle?
+What is a POKéMON's vitality?
+My POKéMON are hurt!
+What is a status problem?
+What happens if all my POKéMON faint?
+I can't catch POKéMON!
+I ran out of POTIONS.
+Can I buy POKé BALLS?
+What's a TRAINER?
+How do I win against a TRAINER?
+Where do POKéMON appear?
+What are POKéMON moves?
+What are HIDDEN moves?
+What moves should I use?
+I want to add more moves.
+I want to make my POKéMON stronger.
+The foe POKéMON are too strong!
+What do I do in a cave?
+There's nothing that I want to know!
+What's a POKéMON CENTER?
+What's a POKéMON MART?
+I want to end the game.
+What's a POKéMON?
+What is that person like?
+What does a HIDDEN move do?
+What do I do in a SAFARI GAME?
+What are the SAFARI GAME rules?
+I want to end this SAFARI GAME!
+What is a GYM?
+You become the main character,\nexploring the world of POKéMON.\lBy talking to people and solving\lmysteries, new paths will open to you.\lStrive for the goal together with your\lwonderful POKéMON.
+When you come across another person,\ngo up to them and press the A Button.\lThat will get them to talk and interact\lwith your character. You may also\lexamine various items and objects in\lthe same way. Talk to people and check\lthings often to obtain information.
+On the stairs or the exits of a\nbuilding is a red mat. Move your\lcharacter to stand on top of the\lred mat. Press the {PLUS} Control Pad \ltoward the stairs or the exit to\ladvance.
+This isn't something you should worry\nabout too much.\lTalk to other people, check signs,\lcheck things, and so on.\lSometimes, you may need to just move\lto a new town or place.
+Try moving on to a new road, town, or\nplace.
+There could be something in the town\nor inside a building that is the cause.\lTry talking to the people in the area\lagain. If there is a problem that they\lneed solved, you may have to help.\lAfterwards, try talking to the person\lblocking your way again.
+Try talking to people by going up to\nthem and pressing the A Button.\lAlso, try checking things like odd trees\land strange rocks with the A Button.\lPress the {PLUS} Control Pad and try going\lto places that look impassable, too.
+Try going to places where you \nhaven't visited yet.\lAlso, check everything that looks\lsuspicious by pressing the A Button.
+Any item that you are given by another\ncharacter goes in your BAG.\lThe item is automatically sorted and\lplaced in one of three pockets.\lFor instructions on the BAG's use,\lplease refer to the HELP System's\l“How do I do this?” heading.
+If POKéMON are hurt in battle,\ntake them to a POKéMON CENTER and\lhave them healed by the staff.\lGet in the habit of saving your\lgame and recording your progress.\lStock up on healing items at\lPOKéMON MARTS before traveling far.
+Forests are basically the same as\nroads but they can be like mazes.\lAll forests have a way out, so don't\lgive up if you get lost.
+Caves are dark and dangerous. Wild\nPOKéMON can appear anywhere in them.\lIf there is an emergency, rush to a\lPOKéMON CENTER or use items.\lNew towns await discovery beyond some\lcaves, so don't give up.
+The object of the game is to train\nyour POKéMON and move forward.\lYou must collect info and solve\lproblems. For example, what do you\lneed to get around an obstacle?\lWhat would get that impeding\lperson out of the way?
+There are several kinds of items.\nSome can be used only on the field.\lSome are only for use during battle.\lSome can be used anytime.\lTry using an item - if it can't be used,\lyou will be alerted.
+In a battle, POKéMON try to reduce\none another's vitality, expressed as\lHP. If a POKéMON's HP falls to zero,\lit faints, and the other POKéMON\lwins. By winning a battle, POKéMON\learn EXP. Points, which help them\llevel up (grow stronger).
+First, fully heal the POKéMON in your\nparty (the POKéMON with you) at any\lPOKéMON CENTER.\lYou should also buy healing items for\lemergencies at a POKéMON MART.
+A POKéMON's vitality is expressed in HP.\nIf a POKéMON is hurt in battle, HP is\lsubtracted. If its HP drops to zero,\lthe POKéMON faints.\lHeal hurt or fainted POKéMON at a\lPOKéMON CENTER or by using items.
+A POKéMON CENTER is like an inn for\nPOKéMON. It will fully heal POKéMON of\lany status problems and fully restore\ltheir HP using a special machine.\lThis service is free, so get in the\lhabit of healing your POKéMON often.
+A status problem refers to an ailment\nthat is inflicted on a POKéMON by its\lfoe's attack. These include burns,\lparalysis, poisoning, sleep, and\lfreezing. These can be healed by\lvisiting a POKéMON CENTER or using\lthe appropriate item.
+If all the POKéMON in your party\n(all the POKéMON with you) faint, you\llose some MONEY, and you are\lreturned home or to a POKéMON\lCENTER. To reduce that chance, visit\lPOKéMON CENTERS often. Also, get\lin the habit of saving often.
+If a wild POKéMON escapes from a POKé\nBALL, it's obviously still feisty.\lTry reducing its HP some more, and\ltry to weaken it with paralysis or sleep\lbefore trying to catch it.\lIf the POKé BALL rocks for a while,\lthe quarry is close to being caught!
+There are shops, known as POKéMON\nMARTS, that sell items.\lYou will not find POKéMON MARTS on\lroads, in forests, or in caves.\lStock up on needed items while you are\lvisiting a town with a POKéMON MART.
+You may buy POKé BALLS at any\nPOKéMON MART in any town.\lYou will not find POKéMON MARTS on\lroads, in forests, or in caves.\lStock up on POKé BALLS while you are\lvisiting a town with a POKéMON MART.
+A TRAINER is a person who raises\nPOKéMON through battling.\lTRAINERS will challenge you \lwherever they are - it could be on\la road, in forests, caves, anywhere.\lIf your eyes meet, you have to accept\ltheir challenge. So be careful!
+To beat a TRAINER in battle, use\nPOKéMON that have type advantages\lover the foe's POKéMON. You may also\luse highly trained POKéMON with\loverwhelming power. Outnumbering the\lfoe's POKéMON is another obvious\ltactic.
+Wild POKéMON will appear in tall grass,\non roads, and in forests. They will\lappear anywhere in dark caves.\lThere are no wild POKéMON or TRAINERS\lin towns, so they are safe places.
+POKéMON may learn up to four different\ntechniques, or moves. There is a great\lvariety of moves including attacks and\lthose with special effects. The kinds\lof moves that can be learned vary\lfor each POKéMON. Some moves\lcan be learned from machines.
+HIDDEN moves are those that are\nespecially important for your\ladventure. To use such a move outside\lof battle, open the “POKéMON” MENU\land make the POKéMON that knows the\lmove use it. A fainted POKéMON may use\la HIDDEN move outside of battle.
+Select “FIGHT,” and the MENU of moves\nwill appear. Consider the type\lmatchups, and use the most effective\lmoves. You can check the effects of\lmoves by opening “POKéMON,”\lpicking a POKéMON, opening “SUMMARY,”\lthen opening “POKéMON SKILLS.”
+The most a POKéMON can learn is four\nmoves. They are learned as the\lPOKéMON levels up. It can also be\ltaught a move using a TM (Technical\lMachine) or HM (Hidden Machine).\lThere are also people who teach moves.
+The key to making your POKéMON\nstrong is to battle and win often.\lThe EXP. (Experience) Points earned\lby winning battles accumulate to\llevel up POKéMON that participated in\lthem. Battle wild POKéMON often to\llevel up your party.
+If your foes are too strong, try\nleveling up your POKéMON some more.\lGo back the way you came and battle\lwild POKéMON to level up your party.\lYou may also battle TRAINERS whom you\lhave not battled before.
+Unlike roads and forests, wild POKéMON\ncan appear anywhere in caves.\lIf your POKéMON are hurt in a cave,\lrush to a POKéMON CENTER or use items\lto heal them right away. It is very\ldangerous to force your luck in caves.
+Trust your own knowledge and power.\nBelieve in yourself and find your way!
+A POKéMON CENTER is identified by its\nred roof and a “P.C” sign. Every\lPOKéMON CENTER offers such services as\lfully healing POKéMON and free PC use,\lmaking it essential for your travels.\lOn the upper floor are facilities for\llinking with friends and others.
+A POKéMON MART is identified by its\nblue roof and a “MART” sign.\lItems can be bought and sold at any\lPOKéMON MART. Some MARTS carry items\lthat are available only in their towns.
+You can safely end your game by\nselecting “SAVE” on the MENU.\lOnce you have saved, the game can be\lsafely turned off. When the game is\lturned back on, you can resume from\lwhere you last saved.
+POKéMON are living beings about which\nmany mysteries still remain. You may\lsee them in grass, the sea, and caves.\lThey appear to obey the wishes of the\lTRAINERS that caught them.
+Use the FAME CHECKER among the\nKEY ITEMS in your BAG.\lIt may give you a hint, so try it out.
+A HIDDEN move is taught to a POKéMON\nusing an HM (Hidden Machine).\lA HIDDEN move is important for helping\lyour adventure. For example, one is\lused to light up dark caves. Another\lcuts down small trees. There is one\lfor traveling on water, and so on.
+Try to catch wild POKéMON by throwing\nthe special SAFARI BALLS.\lYou may keep any item you find, too.
+Your SAFARI GAME ends once you have\ntraveled a certain distance or thrown\lall your SAFARI BALLS.\lOpen the MENU to check the remaining\lnumber of steps and SAFARI BALLS.
+If you would like to cut your SAFARI\nGAME short, open the MENU and select\l“RETIRE” at the top of the list.
+POKéMON GYMS are operated by the\nPOKéMON LEAGUE and are training\lfacilities for TRAINERS. They are all\lacross the land in cities and towns.\lEach one is headed by a LEADER, who\lis a very skilled TRAINER. Beat the\lLEADER to collect a BADGE.
+ Using “POKéDEX”
+ Using “POKéMON”
+  Using “SUMMARY”
+  Using “SWITCH”
+  Using “ITEM”
+ Using “BAG”
+  Using an item
+  Using a key item
+  Using a POKé BALL
+ Using “{PLAYER}”
+ Using “SAVE”
+ Using “OPTION”
+    Using a POTION
+    Using the TOWN MAP
+    Using a TM
+    Using an HM
+Using a move outside of battle
+    Riding the BICYCLE
+Entering a name
+Using a PC
+ Using “{STR_VAR_1}'S PC”
+  Using “WITHDRAW”
+  Using “DEPOSIT”
+  Using “MOVE”
+  Moving items
+ Using “{PLAYER}'s PC”
+  Using “WITHDRAW ITEM”
+  Using “DEPOSIT ITEM”
+  Using “MAILBOX”
+ Using “PROF. OAK'S PC”
+Opening the MENU
+ Using “FIGHT”
+ Using “POKéMON”
+  Using “SHIFT”
+  Using “SUMMARY”
+ Using “BAG”
+ Reading the “POKéDEX”
+Using the PC at home
+Using the Item Storage System
+  Using “WITHDRAW ITEM”
+  Using “DEPOSIT ITEM”
+Using the MAILBOX
+ Using “RUN”
+  “REGISTER” a key item
+ Using “BALL”
+ Using “BAIT”
+ Using “ROCK”
+ Using “HALL OF FAME”
+{CIRCLE_1} Select “POKéDEX” on the MENU.\n{CIRCLE_2} Choose POKéMON using commands such\n   as “POKéMON LIST,”\n   “HABITATS OF POKéMON,” and\n   “SEARCH.”\n{CIRCLE_3} Select a POKéMON to obtain detailed\n   information.
+{CIRCLE_1} Select “POKéMON” on the MENU.\n{CIRCLE_2} Choose a POKéMON in your party.\n{CIRCLE_3} Select “SUMMARY,” “SWITCH,”\n   or “ITEM.”
+{CIRCLE_1} Select “SUMMARY.”\n{CIRCLE_2} Press left or right on the {PLUS} Control\n   Pad to check the information:\n   “POKéMON INFO”\n   “POKéMON SKILLS”\n   “KNOWN MOVES”
+{CIRCLE_1} Choose the POKéMON you want to\n   switch around.\n{CIRCLE_2} Select “SWITCH.”\n{CIRCLE_3} Select the POKéMON to switch with\n   the first one.\nThe POKéMON at the left of the screen\nwill be the first one out in a battle.
+{CIRCLE_1} Select “ITEM.”\n{CIRCLE_2} Select whether you want to “GIVE”\n   an item to the POKéMON to hold,\n   or “TAKE” an item it is holding.\nA POKéMON can hold no more than one\nitem!
+{CIRCLE_1} Select “BAG” on the MENU.\n{CIRCLE_2} Press left or right on the {PLUS} Control\n   Pad to check the data headings:\n   “ITEMS”\n   “KEY ITEMS”\n   “POKé BALLS”\n   Press up or down to select an item.
+{CIRCLE_1} Select the “ITEMS” POCKET.\n{CIRCLE_2} Press up or down on the {PLUS} Control\n   Pad to select an item.\n{CIRCLE_3} Select “USE” to use the selected\n   item.\nSome items may not be used depending\non the place and/or situation.
+{CIRCLE_1} Select the “KEY ITEMS” POCKET.\n{CIRCLE_2} Press up or down on the {PLUS} Control\n   Pad to select a key item.\n{CIRCLE_3} Select “USE” to use the selected\n   key item.
+{CIRCLE_1} While battling a wild POKéMON,\n   select the BAG's “POKé BALLS”\n   POCKET.\n{CIRCLE_2} Press up or down on the {PLUS} Control\n   Pad to select a POKé BALL.\n{CIRCLE_3} Select “USE” to throw the selected\n   POKé BALL.
+{CIRCLE_1} Select “{PLAYER}” on the MENU.\n{CIRCLE_2} Your TRAINER CARD is displayed face\n   up with basic information. Press the\n   A Button to turn the CARD over.\n{CIRCLE_3} A variety of data can be found on\n   the reverse side of the CARD.
+{CIRCLE_1} Select “SAVE” on the MENU.\n{CIRCLE_2} Select “YES” and your progress is\n   recorded in the save file.\nOnce the game is saved, you may turn\noff the game. Your game can be resumed\nfrom where you saved.
+{CIRCLE_1} Select “OPTION” on the MENU.\n{CIRCLE_2} Press up or down on the {PLUS} Control\n   Pad to select an optional item, then\n   press left or right to alter the\n   settings.\n{CIRCLE_3} Select “CANCEL” or press the\n   B Button after making changes.
+{CIRCLE_1} Open the MENU.\n{CIRCLE_2} Press up or down on the {PLUS} Control\n   Pad and select “BAG.”\n{CIRCLE_3} Select “POTION” in the “ITEMS”\n   POCKET.\n{CIRCLE_4} Select “USE.”\n{CIRCLE_5} Select the POKéMON to be healed.
+{CIRCLE_1} Open the MENU.\n{CIRCLE_2} Press up or down on the {PLUS} Control\n   Pad and select “BAG.”\n{CIRCLE_3} Press left or right to open the\n   “KEY ITEMS” POCKET, then press\n   up or down to select “TOWN MAP.” \n{CIRCLE_4} Select “USE” to open the TOWN MAP.
+{CIRCLE_1} Open the MENU.\n{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\n   “BAG.”\n{CIRCLE_3} “OPEN” the TM CASE.\n{CIRCLE_4} Select and “USE” a TM.\n{CIRCLE_5} Select a POKéMON that can learn the\n   move in the TM.
+{CIRCLE_1} Open the MENU.\n{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\n   “BAG.”\n{CIRCLE_3} “OPEN” the TM CASE.\n{CIRCLE_4} Select and “USE” an HM.\n{CIRCLE_5} Select a POKéMON that can learn it.\nHMs are hard to remove, so be careful!
+{CIRCLE_1} Open the MENU.\n{CIRCLE_2} Select “POKéMON.”\n{CIRCLE_3} Select a POKéMON that knows an\n   HM move. The usable HM move(s)\n   will be shown in blue. Select and\n   use the desired move to destroy an\n   obstacle, fly, surf, etc.
+{CIRCLE_1} Open the MENU. Open the\n   “KEY ITEMS” POCKET in the “BAG”\n   and select the “BICYCLE.”\n{CIRCLE_2} The BICYCLE can be ridden by\n   selecting “USE.” You may also\n   “REGISTER” it for instant use by\n   pressing SELECT.
+{CIRCLE_1} Move the cursor to the letter you\n   want with the {PLUS} Control Pad, then\n   press the A Button to enter it.\n{CIRCLE_2} Press the B Button to back up.\n{CIRCLE_3} Press SELECT to switch between\n   uppercase and lowercase letters.\n{CIRCLE_4} Press the A Button on “OK.”
+{CIRCLE_1} Go to any POKéMON CENTER, go up\n   to the PC, then press the A Button.
+{CIRCLE_1} Select “{STR_VAR_1}'S PC” on the PC.\n{CIRCLE_2} Select from one of the top three\n   MENU items to access the POKéMON\n   Storage System.\nIf you catch a POKéMON when you have\nsix in your party, the POKéMON is sent\nautomatically to a BOX in the System!
+{CIRCLE_1} Select a POKéMON in the open BOX\n   with the {PLUS} Control Pad.\n{CIRCLE_2} Select “WITHDRAW” to remove the\n   POKéMON from the BOX and add it to\n   your party.\nYou may not withdraw a POKéMON if you\nalready have six POKéMON with you!
+{CIRCLE_1} Select a POKéMON in your party with\n   the {PLUS} Control Pad.\n{CIRCLE_2} Select “DEPOSIT.”\n{CIRCLE_3} Select the BOX, then press the\n   A Button to store the POKéMON.\nIf you have only one POKéMON with you,\nit may not be stored!
+{CIRCLE_1} Select a POKéMON in the open BOX.\n{CIRCLE_2} Pick up the POKéMON by selecting\n   “MOVE” and move it anywhere with\n   the {PLUS} Control Pad.\n{CIRCLE_3} Move the POKéMON to the BOX name\n   and press left or right to move it\n   to another BOX.
+{CIRCLE_1} Faintly shown POKéMON can be made\n   to hold an item by selecting it and\n   pressing the A Button.\n{CIRCLE_2} Clearly shown POKéMON can be made\n   to give the item they are holding to\n   another POKéMON, or return the item\n   to the BAG with the A Button.
+{CIRCLE_1} Select “{PLAYER}'s PC” on the PC.\n{CIRCLE_2} Select either “ITEM STORAGE” or\n   “MAILBOX.”\nYou may store things in your own PC\nif your BAG is full. You may also\nwithdraw items stored in your PC.
+{CIRCLE_1} Select “WITHDRAW ITEM.”\n{CIRCLE_2} Select the item to be withdrawn.\n{CIRCLE_3} The item can be withdrawn and\n   placed in the BAG's ITEMS POCKET.\n   It may also be directly given to a\n   POKéMON to hold.
+{CIRCLE_1} Select “DEPOSIT ITEM.”\n{CIRCLE_2} Select the item in the BAG to be\n   deposited using the {PLUS} Control Pad.\n{CIRCLE_3} If there is more than one \n   item to be deposited, enter the\n   quantity with the {PLUS} Control Pad,\n   then press the A Button.
+When MAIL is taken from a POKéMON,\nit is moved to the MAILBOX. If it has\nno MAIL, the MAILBOX can't be used.\n{CIRCLE_1} Select “{PLAYER}'S PC” on the PC.\n{CIRCLE_2} Select “MAILBOX” to read MAIL or\n   make a POKéMON hold MAIL.
+{CIRCLE_1} Select “PROF. OAK'S PC” on the PC.\n{CIRCLE_2} PROF. OAK will evaluate your\n   POKéDEX.\nHis evaluations should give you hints\nfor catching more POKéMON!
+{CIRCLE_1} Press START.\n{CIRCLE_2} The MENU will open on the right.\n{CIRCLE_3} Depending on the situation, the MENU\n   may feature different headings.\nThe MENU will not open in certain\nsituations such as when talking, doing\nsomething, battling, etc.
+{CIRCLE_1} Select “FIGHT.”\n{CIRCLE_2} Select one of the moves shown,\nand that move will be used!
+{CIRCLE_1} Select “POKéMON.”\n{CIRCLE_2} Select the POKéMON in your party\n   that you want to use.\n{CIRCLE_3} If you have two or more POKéMON\n   with you, they may be switched by\n   selecting “SHIFT.” Check POKéMON\n   data by selecting “SUMMARY.”
+This command switches the POKéMON in\nbattle with another one in your party.\n{CIRCLE_1} Select the POKéMON to be sent out.\n{CIRCLE_2} Select “SHIFT.”\n{CIRCLE_3} The selected POKéMON will switch\n   places with the POKéMON in battle!
+{CIRCLE_1} Select “SUMMARY.”\n{CIRCLE_2} Press left or right on the {PLUS} Control\n   Pad to check the information:\n   “POKéMON INFO”\n   “POKéMON SKILLS”\n   “KNOWN MOVES”
+{CIRCLE_1} Select “BAG.”\n{CIRCLE_2} Press left or right on the {PLUS} Control\n   Pad to check the data headings:\n   “ITEMS”\n   “KEY ITEMS”\n   “POKé BALLS”\n   Press up or down to select an item.
+{CIRCLE_1} POKéMON that you have caught are\n   identified by a POKé BALL mark on\n   the POKéDEX list.\n{CIRCLE_2} A caught POKéMON will provide a\n   large amount of data.\n
+{CIRCLE_3} Select “AREA” to display the TOWN\n   MAP with the POKéMON's habitat(s).
+{CIRCLE_3} Select “NEXT DATA” to display the\n   TOWN MAP with its habitat(s).
+{CIRCLE_1} Go up to the PC at home, then press\n   the A Button.\n{CIRCLE_2} The PC will turn on.\n{CIRCLE_3} Select either “ITEM STORAGE” or\n   “MAILBOX.”
+{CIRCLE_1} Select “WITHDRAW ITEM” to withdraw\n   an item stored on your PC.\n{CIRCLE_2} Select “DEPOSIT ITEM” to put \n   an item from your BAG into your PC.
+{CIRCLE_1} Select “WITHDRAW ITEM.”\n{CIRCLE_2} Select the item to be withdrawn.\n{CIRCLE_3} The item can be withdrawn and\n   placed in the BAG's ITEMS POCKET.\n   It may also be directly given to a\n   POKéMON to hold.
+{CIRCLE_1} Select “DEPOSIT ITEM.”\n{CIRCLE_2} Select the item in the BAG to be\n   deposited using the {PLUS} Control Pad.\n{CIRCLE_3} If there is nothing in the BAG, this\n   command can't be used!
+When MAIL is taken from a POKéMON,\nit is moved to the MAILBOX. If it has\nno MAIL, the MAILBOX can't be used.\n{CIRCLE_1} Select MAIL by name to read it or\n   make a POKéMON hold it.
+You may not “RUN” from a TRAINER\nbattle!\n{CIRCLE_1} You may “RUN” from a wild POKéMON.\n{CIRCLE_2} Your chance of escape is improved\n   if your POKéMON in battle is fast.
+You may “REGISTER” a key item for\ninstant use by pressing SELECT!\n{CIRCLE_1} Open the “KEY ITEMS” POCKET.\n{CIRCLE_2} Select the key item, then select\n   “REGISTER.”
+{CIRCLE_1} Select to throw the special POKé\n   BALL used only in the SAFARI ZONE.\nWhen wild POKéMON appear, throw lots\nof SAFARI BALLS to catch them!
+{CIRCLE_1} Select to throw the special food\n   used only in the SAFARI ZONE.\nIt is POKéMON food rolled up into\na ball for easy eating. When BAIT is\nthrown, the wild POKéMON may get\nattracted by it, and may not flee!
+{CIRCLE_1} Select to throw a rock lying on\n   the ground in the SAFARI ZONE.\nThrowing a rock at a POKéMON may \nmake it run away, but it becomes easier\nto catch!
+{CIRCLE_1} Select “HALL OF FAME” on the PC.\n{CIRCLE_2} The POKéMON that have entered the\n   HALL OF FAME can be examined.
+HP
+EXP. {LEFT_PAREN}EXP. Points{RIGHT_PAREN}
+MOVES
+ATTACK
+DEFENSE
+SP. ATK
+SP. DEF
+SPEED
+Lv. {LEFT_PAREN}Level{RIGHT_PAREN}
+TYPE
+OT
+ITEM
+ABILITY
+MONEY
+MOVE TYPE
+NATURE
+ID No.
+PP
+POWER
+ACCURACY
+FNT
+ITEMS
+KEY ITEMS
+POKé BALLS
+POKéDEX
+PLAY TIME
+BADGES
+TEXT SPEED
+BATTLE SCENE
+BATTLE STYLE
+SOUND
+BUTTON MODE
+FRAME
+CANCEL
+TM
+HM
+HM MOVE
+EVOLUTION
+STATUS PROBLEM
+POKéMON
+ID No.
+MONEY
+BADGES
+HP indicates a POKéMON's vitality.\nIf a POKéMON's HP drops to zero, it\lfaints and is unable to battle.\lSo, the key in battle is to try to\lreduce the foe's HP to zero.\lIf your POKéMON are hurt, restore their\lHP at a POKéMON CENTER or use items.
+EXP. Points stands for “Experience\nPoints.” POKéMON gain EXP. Points by\lparticipating in winning battles.\lWhen a POKéMON accumulates sufficient\lEXP. Points, it levels up. The EXP. Bar\lindicates accumulated EXP. Points.\lIt returns to zero upon leveling up.
+POKéMON may learn up to four different\nmoves. There are many kinds of moves\lincluding attacks and those with\lspecial effects. The kinds of moves\lthat can be learned vary for each\lPOKéMON. Some moves can be learned\lfrom items.
+ATTACK indicates the power of an\noffensive move. The higher this stat,\lthe more powerful the move.\lIt is applied for the following move\ltypes: NORMAL, POISON, GROUND,\lFLYING, BUG, FIGHTING, ROCK, GHOST,\land STEEL.
+DEFENSE indicates the resistance a\nPOKéMON has against physical attacks.\lThe higher this stat, the less damage\lsustained from a foe's physical hit.
+SP. ATK (Special Attack) indicates the\npower of a special attack move.\lThe higher this stat, the more powerful\lthe special attack move.\lIt is applied for the following move\ltypes: FIRE, WATER, ELECTRIC, GRASS,\lICE, PSYCHIC, DRAGON, and DARK.
+SP. DEF (Special Defense) indicates\nthe resistance a POKéMON has against\lspecial attacks.\lThe higher this stat, the less damage\lsustained from a foe's special attack.
+SPEED indicates the agility of a\nPOKéMON. If this stat exceeds the foe's\lin battle, the POKéMON can make a move\lbefore its slower opponent.
+Lv. (Level) indicates the growth and\nstrength of a POKéMON.\lIn general, when a POKéMON levels up,\lits stats such as HP, ATTACK, and\lDEFENSE rise, making it stronger.\lPOKéMON may learn a new move upon\lleveling up.
+POKéMON and moves are classified by\ntype. Every type has advantageous and\ldisadvantageous matchups against\lother types. For example, like a rock-\lpaper-scissors game, the WATER type is\lstrong against the FIRE type and weak\lagainst the GRASS type.
+OT stands for “Original TRAINER,”\nthe first TRAINER to have caught the\lselected POKéMON.\lEven if the POKéMON is traded, the OT\lname will remain unchanged.
+All POKéMON can be made to hold one\nitem each. Some items will be used by\lthe POKéMON automatically in certain\lsituations. To make a POKéMON hold an\litem, select the item from the BAG and\l“GIVE” it to the POKéMON.
+All POKéMON have a special ABILITY.\nThere are many different kinds of these\labilities, some used in battle, some\lelsewhere. The abilities differ from\lspecies to species. Some species may\lhave more than one kind of ability.
+Whenever you win a battle against a\nTRAINER, you are given prize money.\lSave up your prize money so you can\lenjoy shopping at POKéMON MARTS!
+Moves are also classified by types.\nIf a POKéMON of a certain type uses\la move of the same type, the move's\lpower is boosted. If the move's type\lhas a matchup advantage against the\ltarget, its effectiveness is also\lboosted.
+All POKéMON have a personality,\nor “NATURE.” The POKéMON's\lnature appears to affect how the\lPOKéMON will grow upon leveling up.
+The ID No. is a special number assigned\nspecifically to you as a TRAINER.\lTogether with the OT name, the ID No.\lis used to precisely identify the\lOriginal TRAINER.\lThe ID No. does not change even if the\lPOKéMON is traded.
+PP stands for “Power Points.”\nIt indicates the number of times a\lcertain move can be used in battle.\lLike HP, PP can be restored by visiting\la POKéMON CENTER or using certain\litems.
+POWER indicates the strength of an\nattack. The higher this number, the\lgreater the damage that can be\linflicted on the foe!
+ACCURACY indicates the probability of\nthe move hitting the foe.\lThe higher this number, the more likely\lthe move will strike the target.
+FNT stands for “fainted.”\nA POKéMON faints if its HP is reduced\lto zero. It becomes incapable of taking\lpart in battle.\lRestore a fainted POKéMON at a POKéMON\lCENTER, or use an item.
+Ordinary items bought at any POKéMON\nMART are placed in the ITEMS POCKET.\lItems may be used, given to a POKéMON\lto hold, or tossed out as garbage.
+Important items that you find or \nreceive from people are placed in the\lKEY ITEMS POCKET.\lKey items may be used, or registered\lfor use instantly with SELECT. Once\lregistered, the item can be used\lwithout opening the MENU and BAG.
+POKé BALLS, which are used for\ncatching wild POKéMON, are placed in\lthe POKé BALLS POCKET.\lPOKé BALLS may be bought at POKéMON\lMARTS. They may be used, given to a\lPOKéMON to hold, or tossed out as\lgarbage.
+This indicates the number of species of\nPOKéMON you have caught and/or\levolved to fill the POKéDEX.\lTry hard to catch all sorts of\lPOKéMON!
+This is the total amount of time that\nyou have played this game.
+The POKéMON LEAGUE BADGES that you\nhave won are registered and shown.\lEarn BADGES by defeating GYM LEADERS\lin various cities and towns.
+You can adjust how quickly the text is\ndisplayed. Choose one: SLOW, MID,\lor FAST.
+You can choose to turn the battle\nanimation ON or OFF.
+You can choose whether or not a\nTRAINER can switch a POKéMON after\lit has made its foe faint.\lSet to “SHIFT” if you would like the\lchance to switch a POKéMON after it\lhas made its foe faint.
+You can choose between MONO and\nSTEREO sound output.
+Set to “HELP” to display help messages\nby pressing the L or R Button.\lSet to “LR” to enable the switching\lof the POKéDEX pages and BAG POCKETS\lusing the L and R Buttons.\lSet to “L=A” to make the L Button\lwork the same as the A Button.
+You may choose the design of the frame\naround certain menus. Try them out and\lsee what you like.
+The settings will be changed to the\nselections shown in red, and you will\lreturn to the MENU.
+A TM (Technical Machine) is a device\nused to teach a move to a POKéMON.\lThere are many different kinds.\lMoves can be taught only to those\lPOKéMON capable of using them.\lA TM breaks after a single use.
+An HM (Hidden Machine) is a device used\nto teach a HIDDEN move to a POKéMON.\lA HIDDEN move can be taught only to\lthose POKéMON capable of using it.\lUnlike a TM, an HM can be used over\land over. A HIDDEN move can be tough\lfor a POKéMON to forget.
+HIDDEN moves are those that are\nespecially important for your\ladventure. To use such a move outside\lof battle, open the “POKéMON” MENU\land make the POKéMON that knows the\lmove use it. A fainted POKéMON may use\la HIDDEN move outside of battle.
+Among POKéMON, there are some that\nundergo major changes (evolution) upon\lgrowing to certain levels. Evolution\lcauses a POKéMON to alter form, change\lits name, and perhaps change the moves\lit may learn. Some POKéMON evolve\ldue to reasons other than leveling up.
+Status problems include:\nSleep: Can't use moves.\lPoison: Causes steady HP loss.\lParalysis: May prevent moves.\lBurn: HP loss and lowers ATTACK.\lFreeze: Can't use moves.\lThese can be healed with items, etc.
+POKéMON is a name given to describe\nwondrous creatures that inhabit all\lcorners of this world.\lPeople raise POKéMON to be their pets,\luse them for battling, and so on.
+The ID No. is a special number assigned\nspecifically to you as a TRAINER.\lTogether with the OT name, the ID No.\lis used to precisely identify the\lOriginal TRAINER.\lThe ID No. does not change even if the\lPOKéMON is traded.
+Whenever you win a battle against a\nTRAINER, you are given prize money.\lSave up your prize money so you can\lenjoy shopping at POKéMON MARTS!
+This indicates the number of POKéMON\nLEAGUE BADGES that you have won.\lEarn BADGES by defeating GYM LEADERS\lin various cities and towns.
+The HELP System
+The game
+Wireless Adapter
+Game fundamentals 1
+Game fundamentals 2
+Game fundamentals 3
+What are POKéMON?
+The help messages change depending on\nhow much you have progressed in the\lgame. They are designed to support you\lwhen you need them. If there is\lanything that you don't understand,\lplease look up the HELP System!
+You become the main character to\nexplore the world of POKéMON!\lBy talking to people and solving\lmysteries, new paths will open to you.\lStrive for the goal together with your\lwonderful POKéMON!
+This game communicates over a wireless\nlink using the Wireless Adapter.\pGo wireless anywhere, anytime, and\nwith anybody!\pTry playing with the Wireless Adapter\nalways attached!
+Visit every city and town, travel every\nroad, explore every cave, and face\levery challenge as you strive to\lbecome the greatest TRAINER of\lPOKéMON!
+On your adventure, you will be faced\nwith many obstacles. Every obstacle\lcan be overcome by doing something\lor by solving mysteries. Some obstacles\lare affected by something that happens\lfar away.
+Some of the obstacles in your way can\nbe removed once your POKéMON learn\lspecific moves.
+POKéMON are wondrous creatures that\nare shrouded in mystery. You may meet\lthem all over the world…in tall\lgrass, caves, the sea, and more.\lThey appear to grow obedient to the\lTRAINERS that caught them.
+Using the Type Matchup List
+Own move type: DARK
+Own POKéMON type: DARK
+Own move type: ROCK
+Own POKéMON type: ROCK
+Own move type: PSYCHIC
+Own POKéMON type: PSYCHIC
+Own move type: FIGHTING
+Own POKéMON type: FIGHTING
+Own move type: GRASS
+Own POKéMON type: GRASS
+Own move type: GHOST
+Own POKéMON type: GHOST
+Own move type: ICE
+Own POKéMON type: ICE
+Own move type: GROUND
+Own POKéMON type: GROUND
+Own move type: ELECTRIC
+Own POKéMON type: ELECTRIC
+Own move type: POISON
+Own POKéMON type: POISON
+Own move type: DRAGON
+Own POKéMON type: DRAGON
+Own move type: NORMAL
+Own POKéMON type: NORMAL
+Own move type: STEEL
+Own POKéMON type: STEEL
+Own move type: FLYING
+Own POKéMON type: FLYING
+Own move type: FIRE
+Own POKéMON type: FIRE
+Own move type: WATER
+Own POKéMON type: WATER
+Own move type: BUG
+Own POKéMON type: BUG
+Depending on the matchup of the\nmove type and the target POKéMON's\ltype, the move's effectiveness varies:\l{CIRCLE_DOT}: Super effective!\l{TRIANGLE}: Not very effective\l{BIG_MULT_X}: Not effective at all\l(No changes for other matchups.)
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: PSYCHIC, GHOST\p   {TRIANGLE}: FIGHTING, DARK, STEEL
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: FIGHTING, BUG\p   {TRIANGLE}: GHOST, DARK\p   {BIG_MULT_X}: PSYCHIC
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: FIRE, ICE, FLYING, BUG\p   {TRIANGLE}: FIGHTING, GROUND, STEEL
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: WATER, GRASS, FIGHTING,\n       GROUND, STEEL\p   {TRIANGLE}: NORMAL, FIRE, POISON, FLYING
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: FIGHTING, POISON\p   {TRIANGLE}: PSYCHIC, STEEL\p   {BIG_MULT_X}: DARK
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: BUG, GHOST, DARK\p   {TRIANGLE}: FIGHTING, PSYCHIC
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: NORMAL, ICE, ROCK, DARK, STEEL\p   {TRIANGLE}: POISON, FLYING, PSYCHIC, BUG\p   {BIG_MULT_X}: GHOST
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: FLYING, PSYCHIC\p   {TRIANGLE}: BUG, ROCK, DARK
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: WATER, GROUND, ROCK\p   {TRIANGLE}: FIRE, GRASS, POISON, FLYING,\n       BUG, DRAGON, STEEL
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: FIRE, ICE, POISON, FLYING, BUG\p   {TRIANGLE}: WATER, ELECTRIC, GRASS, GROUND
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: PSYCHIC, GHOST\p   {TRIANGLE}: DARK, STEEL\p   {BIG_MULT_X}: NORMAL
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: GHOST, DARK\p   {TRIANGLE}: POISON, BUG\p   {BIG_MULT_X}: NORMAL, FIGHTING
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: GRASS, GROUND, FLYING, DRAGON\p   {TRIANGLE}: FIRE, WATER, ICE, STEEL
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: FIRE, FIGHTING, ROCK, STEEL\p   {TRIANGLE}: ICE
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: FIRE, ELECTRIC, POISON, ROCK,\n       STEEL\p   {TRIANGLE}: GRASS, BUG\n   {BIG_MULT_X}: FLYING
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: WATER, GRASS, ICE\p   {TRIANGLE}: POISON, ROCK\p   {BIG_MULT_X}: ELECTRIC
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: WATER, FLYING\p   {TRIANGLE}: ELECTRIC, GRASS, DRAGON\p   {BIG_MULT_X}: GROUND
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: GROUND\p   {TRIANGLE}: ELECTRIC, FLYING, STEEL
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: GRASS\p   {TRIANGLE}: POISON, GROUND, ROCK, GHOST\p   {BIG_MULT_X}: STEEL
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: GROUND, PSYCHIC\p   {TRIANGLE}: GRASS, FIGHTING, POISON, BUG
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: DRAGON\p   {TRIANGLE}: STEEL
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: ICE, DRAGON\p   {TRIANGLE}: FIRE, WATER, ELECTRIC, GRASS
+Effect on the opposing POKéMON:\p   {TRIANGLE}: ROCK, STEEL\p   {BIG_MULT_X}: GHOST
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: FIGHTING\p   {BIG_MULT_X}: GHOST
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: ICE, ROCK\p   {TRIANGLE}: FIRE, WATER, ELECTRIC, STEEL
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: FIRE, FIGHTING, GROUND\n   {TRIANGLE}: NORMAL, GRASS, ICE, FLYING,\l       PSYCHIC, BUG, ROCK, GHOST,\l       DRAGON, DARK, STEEL\l   {BIG_MULT_X}: POISON
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: GRASS, FIGHTING, BUG\p   {TRIANGLE}: ELECTRIC, ROCK, STEEL
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: ELECTRIC, ICE, ROCK\p   {TRIANGLE}: GRASS, FIGHTING, BUG\p   {BIG_MULT_X}: GROUND
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: GRASS, ICE, BUG, STEEL\p   {TRIANGLE}: FIRE, WATER, ROCK, DRAGON
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: WATER, GROUND, ROCK\p   {TRIANGLE}: FIRE, GRASS, ICE, BUG, STEEL
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: FIRE, GROUND, ROCK\p   {TRIANGLE}: WATER, GRASS, DRAGON
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: ELECTRIC, GRASS\p   {TRIANGLE}: FIRE, WATER, ICE, STEEL
+Effect on the opposing POKéMON:\p   {CIRCLE_DOT}: GRASS, PSYCHIC, DARK\p   {TRIANGLE}: FIRE, FIGHTING, POISON,\n       FLYING, GHOST, STEEL
+Effect of foe's move on own POKéMON:\p   {CIRCLE_DOT}: FIRE, FLYING, ROCK\p   {TRIANGLE}: GRASS, FIGHTING, GROUND
+<<< FILE: text/ingame_trade.inc >>>
+I'm looking for the POKéMON\n{STR_VAR_1}!\pWanna trade one for my\n{STR_VAR_2}?
+Awww!\nOh, well…
+What?\nThat's no {STR_VAR_1}!
+Hey, thanks!
+Isn't my old {STR_VAR_2} great?
+Hello, there! Do you happen to\nhave a {STR_VAR_1}?\pWould you agree to a trade for\nmy {STR_VAR_2}?
+Well, if you don't want to…
+Hmmm?\nThis isn't a {STR_VAR_1}.\pThink of me if you get one.
+Thanks!
+The {STR_VAR_2} that I traded you,\nhas it grown stronger?
+Hi!\nDo you have a {STR_VAR_1}?\pWant to trade it for my\n{STR_VAR_2}?
+That's too bad.
+…This is no {STR_VAR_1}.\pIf you get one, trade it with me.
+Thanks, you're a pal!
+How is my old {STR_VAR_2}?\nMy {STR_VAR_1} is doing great!
+<<< FILE: text/itemfinder.inc >>>
+おッ！　ダウジングマシンが\nはんのう　してるぞ！\pましたに　どうぐが　うまってる！\n‥‥‥
+{PLAYER} dug up one {STR_VAR_2}\nfrom deep in the ground.
+<<< FILE: text/new_game_intro.inc >>>
+NEW NAME
+GREEN
+RED
+LEAF
+FIRE
+GARY
+KAZ
+TORU
+ASH
+KENE
+GEKI
+JAK
+JANNE
+JONN
+KAMON
+KARL
+TAYLOR
+OSCAR
+HIRO
+MAX
+JON
+RALPH
+KAY
+TOSH
+ROAK
+OMI
+JODI
+AMANDA
+HILLARY
+MAKEY
+MICHI
+PAULA
+JUNE
+CASSIE
+REY
+SEDA
+KIKO
+MINA
+NORIE
+SAI
+MOMO
+SUZI
+The various buttons will be explained in\nthe order of their importance.
+Moves the main character.\nAlso used to choose various data\nheadings.
+Used to confirm a choice, check\nthings, chat, and scroll text.
+Used to exit, cancel a choice,\nand cancel a mode.
+Press this button to open the\nMENU.
+Used to shift items and to use\na registered item.
+If you need help playing the\ngame, or on how to do things,\npress the L or R Button.
+Now tell me. Are you a boy?\nOr are you a girl?
+In the world which you are about to\nenter, you will embark on a grand\nadventure with you as the hero.\n\nSpeak to people and check things\nwherever you go, be it towns, roads,\nor caves. Gather information and\nhints from every source.
+New paths will open to you by helping\npeople in need, overcoming challenges,\nand solving mysteries.\n\nAt times, you will be challenged by\nothers and attacked by wild creatures.\nBe brave and keep pushing on.
+Through your adventure, we hope\nthat you will interact with all sorts\nof people and achieve personal growth.\nThat is our biggest objective.\n\nPress the A Button, and let your\nadventure begin!
+Hello, there!\nGlad to meet you!\pWelcome to the world of POKéMON!\pMy name is OAK.\pPeople affectionately refer to me\nas the POKéMON PROFESSOR.\p
+This world…
+…is inhabited far and wide by\ncreatures called POKéMON.\p
+For some people, POKéMON are pets.\nOthers use them for battling.\pAs for myself…\pI study POKéMON as a profession.\p
+But first, tell me a little about\nyourself.\p
+Let's begin with your name.\nWhat is it?\p
+Right…\nSo your name is {PLAYER}.
+This is my grandson.\pHe's been your rival since you both\nwere babies.\p…Erm, what was his name now?
+Your rival's name, what was it now?
+…Er, was it {RIVAL}?
+That's right! I remember now!\nHis name is {RIVAL}!\p
+{PLAYER}!\pYour very own POKéMON legend is\nabout to unfold!\pA world of dreams and adventures\nwith POKéMON awaits! Let's go!
+<<< FILE: text/obtain_item.inc >>>
+Obtained the {STR_VAR_2}!
+The BAG is full…
+{PLAYER} put the {STR_VAR_2}\nin the {STR_VAR_3}.
+{PLAYER} found one {STR_VAR_2}!
+Too bad!\nThe BAG is full…
+{PLAYER} found\n{STR_VAR_1} {STR_VAR_2}!
+{PLAYER} put the COINS away in\nthe COIN CASE.
+Too bad!\nThe COIN CASE is full…
+Too bad!\nThere's nothing to put them in…
+{PLAYER} found\n{STR_VAR_1} {STR_VAR_2}(s)!
+Obtained the {STR_VAR_2}!
+Too bad! There's no room left for\nanother {STR_VAR_2}…
+The {STR_VAR_2} was transferred\nto the PC.
+<<< FILE: text/pc.inc >>>
+{PLAYER} booted up the PC.
+Which PC should be accessed?
+Accessed Someone's PC.
+POKéMON Storage System opened.
+Accessed {PLAYER}'s PC.
+Accessed BILL's PC.
+<<< FILE: text/pc_transfer.inc >>>
+{STR_VAR_2} was transferred to\nSomeone's PC.\pIt was placed in \nBOX “{STR_VAR_1}.”
+{STR_VAR_2} was transferred to\nBILL'S PC.\pIt was placed in \nBOX “{STR_VAR_1}.”
+BOX “{STR_VAR_3}” on\nSomeone's PC was full.\p{STR_VAR_2} was transferred to\nBOX “{STR_VAR_1}.”
+BOX “{STR_VAR_3}” on\nBILL'S PC was full.\p{STR_VAR_2} was transferred to\nBOX “{STR_VAR_1}.”
+{PLAYER} obtained\nthe {STR_VAR_1}!
+ポケモンを　もちきれないので\nパソコンの　ボックス“{STR_VAR_1}”　に\l{STR_VAR_2}を　てんそうした！
+There's no more room for POKéMON!\pThe POKéMON BOXES are full and\ncan't accept any more!
+<<< FILE: text/poke_mart.inc >>>
+Hi, there!\nMay I help you?
+There is a questionnaire.\nWould you like to fill it out?
+Thank you for taking the time to\nfill out our questionnaire.\pYour feedback will be used for\nfuture reference.
+Oh, hello!\nYou know those words?\pThat means you must know about\nthe MYSTERY GIFT.\pFrom now on, you should be\nreceiving MYSTERY GIFTS!
+Once you save your game, you can\naccess the MYSTERY GIFT.
+Thank you for accessing the\nMYSTERY GIFT System.
+<<< FILE: text/pokedex_rating.inc >>>
+OAK: Good to see you!\nHow is your POKéDEX coming along?\pHere, let me take a look.
+The amount of progress you've made\non your POKéDEX is:\p{STR_VAR_1} POKéMON seen and\n{STR_VAR_2} POKéMON owned.\p{FONT_NORMAL}PROF. OAK's rating:
+You still have lots to do.\pGo into every patch of grass you\nsee and look for POKéMON!
+It looks as if you're getting on\nthe right track!\pI've given one of my AIDES a FLASH\nHM. Make sure you go get it!
+Your POKéDEX could use a bit more\nvolume still!\pTry to catch other species of\nPOKéMON!
+Good, it's apparent that you're\ntrying hard!\pI've given one of my AIDES an\nITEMFINDER. Be sure to collect it!
+Your POKéDEX is coming along quite\nwell!\pI've given one of my AIDES an\nAMULET COIN. Be sure to get it!
+Ah, you've finally topped 50\nspecies!\pI've given one of my AIDES an EXP.\nSHARE. Be sure to go get it!
+Hoho! This is turning into quite the\nrespectable POKéDEX!
+Very good!\pI think you'll collect even more\nPOKéMON by going fishing!
+Wonderful! Let me guess… You\nlike to collect things, don't you?
+I'm impressed!\nIt must have been difficult to do!
+You've finally hit 100 species!\nI can't believe how good you are!
+You even have the evolved forms\nof POKéMON! Super!
+Excellent! Trade with friends to\nget some more!
+Outstanding!\nYou've become a real pro at this!
+I have nothing left to say!\nYou're the POKéMON PROFESSOR now!
+Your POKéDEX is entirely complete!\nCongratulations!!
+And your NATIONAL POKéDEX is:\p{STR_VAR_1} POKéMON seen and\n{STR_VAR_2} POKéMON owned.
+I'll be looking forward to seeing\nyou fill the NATIONAL POKéDEX!
+Finally…\pYou've finally completed the\nPOKéDEX!\pIt's magnificent!\nTruly, this is a fantastic feat!
+Wroooooooaaaaaarrrr!
+はあ はあ‥
+Thank you, {PLAYER}!\nSincerely, thank you!\lYou've made my dream a reality!
+OAK: Ah, welcome!\pTell me, how is your POKéDEX\ncoming along?\pWahaha!\pActually, I know how it is, but I\nlove seeing it anyway!\pLet's see…
+<<< FILE: text/pokedude.inc >>>
+POKé DUDE: The speedier of the\nbattlers gets to attack first.
+It looks like my RATTATA was\nfaster than the PIDGEY.
+The battlers take turns attacking\nand reducing each other's HP.
+My RATTATA reduced the foe's HP\nto zero, so it wins!\pThe POKéMON that took part in the\nbattle get EXP. Points.\pWhen a POKéMON collects enough\nEXP. Points, it levels up.\pLeveling up makes your POKéMON\nstronger than before.
+POKé DUDE: Uh-oh…\nMy RATTATA has been poisoned…\pIf a POKéMON is poisoned, it loses\nHP steadily.
+If a POKéMON develops a status\nproblem, heal it right away.
+Using an item on a POKéMON uses\nup one turn, though.\pNow, it's the opponent's turn!
+Yay!\nWe managed to win!
+POKé DUDE: The move BUBBLE is\na WATER-type attack.\pThe targeted ODDISH is a\nGRASS/POISON-type POKéMON.\pThe WATER-type attack is absorbed\nby the GRASS-type POKéMON…\pAs a result, the move becomes not\nvery effective, and inflicts only\lhalf the usual damage.
+Uh-oh, this is not good!\pThe ABSORB attack you just saw\nis a GRASS-type move.\pPOLIWAG is a WATER-type POKéMON.\pSo, ABSORB becomes super\neffective, doubling the damage.
+It's not going to be easy to win\nwith this matchup…\pLet's try shifting POKéMON!
+Shifting POKéMON in and out uses\nup one turn.\pNow, it's the opponent's turn.
+BUTTERFREE is a BUG/FLYING-type\nPOKéMON.\pAgainst this POKéMON, a GRASS-\ntype attack…\p…inflicts only half the usual\ndamage on a BUG-type POKéMON…\p…And, it also causes only half the\ndamage on a FLYING-type POKéMON.\pTherefore, BUTTERFREE, being a\nBUG/FLYING POKéMON, only takes\lone quarter of the usual damage.
+ODDISH is a GRASS/POISON-type\nPOKéMON.\pA FLYING- or PSYCHIC-type attack\nis super effective against it.\pOne of those types of attacks will\ninflict double the usual damage.\pOkay, here we go!
+Yeah!\nWe won!
+POKé DUDE: When you're trying to\ncatch a POKéMON, don't throw any\lPOKé BALLS right away.\pFirst, you need to weaken it by\nreducing its HP.
+Okay, that should be good enough.\pBut, if it's possible, it would be\nbest if the target has a status\lproblem.\pFor instance, it would be easier\nto catch if it were asleep or\lparalyzed.
+This will make the POKéMON a lot\neasier to catch!\pOh, yes. If you paralyze a\nPOKéMON, you can't make it fall\lasleep on top of paralysis.\pIn other words, you can't double\nup status problems, okay?
+Okay!\nLet me throw my POKé BALL!
+Before you throw a POKé BALL,\nconsider the condition and the\ltype of POKéMON, and pick the kind\lof BALL that would work best.
+<<< FILE: text/route23.inc >>>
+Only truly skilled TRAINERS are\nallowed through.\pYou don't have the {STR_VAR_1}\nyet!
+Rules are rules.\nI can't let you pass.
+Oh! That is the {STR_VAR_1}!\nGo right ahead.
+You can pass here only if you have\nthe {STR_VAR_1}.\pYou don't have the {STR_VAR_1}\nyet.\pYou have to have it to get to\nthe POKéMON LEAGUE.
+You can pass here only if you have\nthe {STR_VAR_1}.\pOh! That is the {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\pOkay, then.\nPlease, go right ahead.
+<<< FILE: text/safari_zone.inc >>>
+Would you like to exit the SAFARI\nZONE right now?
+PA: Ding-dong!\pTime's up!\pPA: Your SAFARI GAME is over!
+PA: Ding-dong!\pYou are out of SAFARI BALLS!\pPA: Your SAFARI GAME is over!
+サファリゾーンへ　ようこそ！\pここでは　ホウエンでは　なかなか\nみることの　できない　ポケモンを\pしぜんの　すがたの　まま\nめに　することが　できます\pまた　ポケモントレーナーの\nようぼうに　おこたえ　して\pポケモンを\nつかまえる　ことも　できます！\pサファリゾーンを　たのしんで　いってね！
+サファリゾーンへ　ようこそ！\nサファリゾーンは　はじめて　ですか？
+サファリゾーンを　たのしんで　いってね！
+サファリゾーンでは\n30この　サファリボールを　つかって\lポケモンを　つかまえる　ことが　できます\pサファリボールを　つかいきるか\n500ぽ　あるくと\pゲームは　しゅうりょう　です\pサファリゾーンを　たのしんで　いってね！
+サファリゾーンへ　ようこそ！\p500えんで　ポケモン　つかまえほうだい！\nサファリゲームに　さんか　しますか？
+そうですか\nこんど　ぜひ　さんか　してください！
+おかねが　たりませんよ！
+それでは　500えん　いただきます
+では　サファリボールを　どうぞ！
+{PLAYER}は　サファリボールを\n30こ　うけとった！
+じかんに　なりましたら\nこちらから　おしらせ　しますので\pぞんぶんに　おたのしみ　ください！\nでは　いってらっしゃい！
+Excuse me!\nYour PC BOX is full.
+あ！　おきゃくさん\nポロックケースを　おもちで　ないですね？\pサファリゾーンは　ポロックを　つかうと\nより　おたのしみ　いただけますので\pぜひ　ポロックケースを\nおもちに　なって　おこし　ください！
+まだ　じかんが　のこっていますが\nサファリゾーンを　やめますか？
+では　ひきつづき　おたのしみ　ください！
+わかりました\pそれでは　のこりの　サファリボールを\nおあずかり　します\pおつかれさまでした\nまた　ごりよう　ください
+それでは　いってらっしゃい！\lなにか　ありましたら\nわたしに　こえを　かけて　くださいね
+しってた？\pあの　しかくい　はこに　ポロックを　おくと\nポケモンが　あつまって　くるんだよ！
+この　さきに　いきたい　けど\nじてんしゃ　もって　くるの　わすれた‥‥\pおくに　めずらしい　ポケモンが\nいそうな　きが　するのに！
+ポケモンに　ポロックを　なげても\nしらんぷり　される　ときが　あるのよ\pポケモンにも　すききらいが　あるのかしら？
+ぜぇ‥‥　ぜぇ‥‥\nやっと　ここまで　きたけど‥‥\pつかれちゃって　ポケモン　つかまえる\nげんきも　のこって　ないよ‥‥
+ホウエンに　いない　みずポケモンを\nさがしに　きたんだけど‥‥\pみずうみは　どこにあるのか\nきみ　しってるかい？
+ここで　めずらしい　ポケモンを\nたくさん　つかまえて\lともだちと　こうかん　するんだ！
+ポロックおきばに　おいた　ポロックが\nいつのまにか　なくなっていた‥‥\pしらない　うちに\nポケモンが　たべちゃったのかな？
+サファリゾーンの　おとくな　じょうほう！\pであった　ポケモンに\nポロックを　なげると　にげにくく　なります！
+あるき　つかれたら　ちょっと　ひといき！\n‘みんなの　きゅうけいじょ'
+おれ　ポロック　もってないけど\nポケモン　たくさん　つかまえたよ\pちかづいて　ボールを　なげる　だけで\nけっこう　つかまえられる　もんだよ！
+ポロックを　つかうと　いつもより\nちょっぴり　にげにくく　なるみたい\pだから　にげにくい　ポケモンに　つかっても\nあんまり　いみが　ないかもね
+ポロックおきばに　ポロック　おいて\nポケモンを　つかまえると\pおなじ　ような　せいかくの　ポケモンが\nあつまる　きが　するなあ
+<<< FILE: text/save.inc >>>
+Would you like to save the game?
+There is already a saved file.\nIs it okay to overwrite it?
+SAVING…\nDON'T TURN OFF THE POWER.
+{PLAYER} saved the game.
+セーブに　しっぱい　しました‥
+WARNING!\pThere is a different game file that\nis already saved.\pIf you save now, the other file's\nadventure, including items and\lPOKéMON, will be entirely lost.\pAre you sure you want to save now\nand overwrite the other save file?
+<<< FILE: text/seagallop.inc >>>
+おつかれさん！\nどこに　いきたいんだ？
+All right!\nAll aboard SEAGALLOP HI-SPEED {STR_VAR_1}!
+<<< FILE: text/sign_lady.inc >>>
+Hmm…\nIs that right…
+Oh!\nLook, look!
+Read it, read it!
+TRAINER TIPS\pPress START to open the MENU!
+Signs are useful, aren't they?
+Look, look!\pI copied what it said on one of\nthose TRAINER TIPS signs!
+TRAINER TIPS!\pPress START to open the MENU!
+<<< FILE: text/surf.inc >>>
+The water is dyed a deep blue…\nWould you like to SURF?
+{STR_VAR_1} used SURF!
+The current is much too fast!\nSURF can't be used here…
+<<< FILE: text/trainer_card.inc >>>
+It's a POKéMON PRINTER!\pIt can put a print of your POKéMON\non the back of your TRAINER CARD.\pIt costs only ¥50.\nWould you like to try it?
+You don't have enough money.
+Please choose the print type.
+A big smile for the photo, please!\nThree… Two… One…\pFlash!
+Your POKéMON print is ready!\nCheck your TRAINER CARD.
+Giggle…\nI collected a ton of STICKERS.\lI wish I could show them off…
+Oh, excellent!\nYou've come to the right place!\pLook, look! See? See?\nThese are my STICKERS!\lLook how many I got!\pI bet you want some.\nI bet you do!\pI'll give a STICKER if you can tell\nme something awesome about\lyourself.\pWhat will you brag about?
+Brag about something for me.\nI'll give you a STICKER.
+Oh, hi!\nHere comes the braggart.\pWhat are you going to brag about\ntoday?
+Oh, wow, you made it into the\nHALL OF FAME.\pThat's pretty good, yup!\nI'll give you one of these.
+Oh, wow, you've entered the\nHALL OF FAME often!\pThat's impressive, yup!\nI'll give you one of these.
+Whoa! You've made it into the\nHALL OF FAME that often?\lThat's seriously incredible, yup!\pYou own the POKéMON LEAGUE!\nI'll give you one of these.
+No way! You've gone into the\nHALL OF FAME that many times?\pYou're beyond incredible, yup!\nThat's it, I have to give you this.
+The HALL OF FAME STICKER was\napplied to the TRAINER CARD.
+Hmm…\pCome back with a better story next\ntime, okay?
+Oh, no, no can do.\pYou're practically a living legend.\nI have no SITCKERS left to give.
+Oh, wow, there are POKéMON EGGS?\nI didn't know that!\pThat's pretty good, yup!\nI'll give you one of these.
+You've hatched that many EGGS?\nYou really must like them!\pThat's impressive, yup!\nI'll give you one of these.
+Whoa! You've hatched a whole\nbunch of EGGS!\pYou're an EGG-hatching machine!\nI'll give you one of these.
+Wh… You hatched that many EGGS?\pWhat's behind your love of EGGS?\nIt's beyond incredible, yup!\pYou're too awesome, I tell you.\nThat's it, I have to give you this.
+The EGG STICKER was applied\nto the TRAINER CARD.
+Hmm…\pCome back with a better story next\ntime, okay?
+Oh, no, no can do.\pYou're practically a living legend.\nI have no SITCKERS left to give.
+Oh, wow, you've had success\nlink battling?\pYou're pretty strong, yup!\nI'll give you one of these.
+You've beaten your friends a lot\nlink battling, huh?\pYou're impressively strong, yup!\nI'll give you one of these.
+Whoa! You've beaten your friends\na frightful number of times.\pHave you lost friends over this?\nI'll give you one of these.
+Wh… Wickedly whoa!\nYou've won mind-blowingly often!\pIt just knocks me out thinking\nabout how tough you are.\pYou're the stuff of nightmares!\nThat's it, I have to give you this.
+The VICTORY STICKER was applied\nto the TRAINER CARD.
+Hmm…\pCome back with a better story next\ntime, okay?
+Oh, no, no can do.\pYou're practically a living legend.\nI have no SITCKERS left to give.
+<<< FILE: text/trainers.inc >>>
+The battery isn't charged enough.\pNo. of steps required to fully\ncharge the battery: {STR_VAR_1}{PAUSE_UNTIL_PRESS}
+There are no TRAINERS within range\nwho can battle…\pThe VS SEEKER was turned off.{PAUSE_UNTIL_PRESS}
+The other TRAINERS don't appear\nto be ready for battle.\pLet's wait till later.{PAUSE_UNTIL_PRESS}
+Hey!\nI saw you in VIRIDIAN FOREST!
+Hi! I like shorts!\nThey're comfy and easy to wear!\pYou should be wearing shorts, too!
+Excuse me!\nYou keep looking at me, don't you?
+You're a TRAINER, aren't you?\nLet's get with it right away!
+That look you give me…\nIt intrigues me so!
+Hey! What's wrong with you?\nYou're still not wearing shorts!
+I'll battle you with the POKéMON\nI started raising.
+Eek!\nDid you push me?
+I always catch mushroom POKéMON\non MT. MOON.
+Oh! You're that nosy kid who\neavesdropped on us!
+Excuse me! Didn't I tell you that\nthis is a private conversation?\pYou shouldn't be listening in,\nyou uncouth person!
+I'm trying to find something good\nthat's not a BUG POKéMON, but…
+Huh?\nYou want to go with me again?
+Me?\nWell, okay. I'll play this once.
+Hey, long time!\nHave you gotten better?
+You are good at POKéMON, but how\nis your chemistry grade?
+All right!\nLet's play another game!
+You need strategy to win at\nbattling.\pAre you following my advice?
+I've collected many NIDORAN.\nI don't want them to evolve, but…
+School is fun, but I still think\nPOKéMON are fun, too.
+MEOWTH and PERSIAN are so cute,\nmeow, meow, meow!
+We may look silly standing here\nlike this, but I can still battle.
+I'm a rambling, gaming dude!\nI'm on a winning streak!
+What's a cute, round, and fluffy\nPOKéMON?\pYou already know, don't you?
+My bike's still acting up, man.
+Okay, kid!\nDon't expect mercy this time!
+ELI: Our twin power became even\nbetter!
+ANNE: Our twin power powered up!
+We're to battle again?\nThis time, you're mine!
+I haven't forgotten you were with\nthose good-looking POKéMON.
+I'm taking ROCK TUNNEL to go to\nLAVENDER…\pBut I keep getting stopped by\neveryone along the way…
+Don't you dare patronize me today!\nWe're playing for keeps!
+Bwahaha!\nGreat! I was bored again, eh!
+Hahaha!\nA little toughie, as always!
+I got up early every day to train\nmy POKéMON from cocoons!
+Hahahaha!\nI'll win this time!
+Go win, my super BUG POKéMON!
+Wow, you came here again?\nMaybe you're a POKéMANIAC, too?\lWant to see my collection?
+Ha-hahah-ah-ha!\nI can't stop sneezing!
+Hi, kid!\nDid I show you my POKéMON?
+I went out to a POKéMON GYM again.\p…But I lost as usual.
+Ah!\nThis mountain air is delicious!\lIt's so good, I can't leave!
+My head is starting to spin.\nI've been hiking for too long…
+Win, lose, or draw!\nNow for our rematch!
+Competing is the ultimate thrill.\nI still can't get enough!
+You know, right?\nLet's go, but don't cheat!
+Hi, there!\pBut be careful!\nI'm still laying down some cables!
+I became a TRAINER a while ago.\nBut, I think I can win.
+Fwahaha!\nI have never lost!\p…And if I did, I've forgotten all\nabout it!
+I have never won before…\pPerhaps I am destined to remain\nthat way…
+I'm the best in my class.\nI train every morning and night!
+Keep your eyes out for live wires!
+I raised my POKéMON carefully.\nThey should be ready by now.\lThis time, they should win, too.
+Yeah!\nI got a bite, here!\lTh-this might be the real thing!
+You're finally here.\nFishing is a waiting game.
+Still can't find a MOON STONE…\nHave you found one?
+Electricity has always been my\nspecialty.\pI don't know a thing about POKéMON\nof the sea, though.
+The FISHING FOOL vs. POKéMON KID!\nAnother round, fight!
+I love fishing, don't get me wrong.\nBut, I wish I had more work…\l…It's hard to give up fishing!
+What's catching?\pYou'll never know unless you beat\nme!
+JES: I'll win here today and\npropose to my GIA.
+GIA: Hey, JES…\nI've been waiting a long time now.\pIf we win today, I'll marry you!
+My bird POKéMON remember you!
+I want to be the best TRAINER \nwhile I'm a kid!
+Wow!\nYou got more cool BADGES!
+My cutely grown POKéMON wish to\nbecome reacquainted with you.
+I cleaned out my savings and\nbought more CARBOS.
+I'm not going to lose this time.\nThe wind's blowing my way!
+Oh, you're back?\pSure, I'll play again with you,\nsweetie.
+Can't you forget that you battled\nwith me?
+What're you starin' at?
+I always go with bird POKéMON.\nI've dedicated myself to them.
+I used TMs to teach good moves\nto my POKéMON.
+My bird POKéMON should be ready\nfor battle this time.
+Are you using TMs on POKéMON?\nJust holding them is useless.
+Have you taught your bird POKéMON\nhow to FLY?\pYou'll be able to soar with it into\nthe sky! Give it a try.
+The legend of the winged mirages…\nYou've heard it, right?
+I'm really not into it, but okay.\nLet's go!
+Hey!\nI remember you!\pC'mon, c'mon.\nLet's go, let's go, let's go!
+You're here again, huh?\nShut up and battle.
+We've been riding here because of\nthe wide-open spaces.
+POKéMON battle, right?\nCool! Rumble!
+KIRI: JAN, I hope we win today.
+JAN: KIRI, here we go!\nLet's win for sure this time!
+I'm going to keep battling with the\nPOKéMON I got in trades.
+You look gentle, so I think I can\nbeat you.\pI'll give it one more go!
+When I whistle, bird POKéMON\ngather around.\pThey're amazingly cute!
+Hmm? My birds are shivering!\nWait, aren't you that TRAINER…
+Oh, you're a little cutie!\nSo like a darling POKéMON!\lI remember you now!
+I raise POKéMON for protection\nbecause I live alone.\pThat hasn't changed.
+Hey, kid! C'mon!\nI got these off some loser!
+Fork over all your cash when you\nlose to me, kid!
+What's cool and happening?\nTrading POKéMON, of course.
+Want to play with my POKéMON\nagain?
+MYA: Hi, we keep meeting,\ndon't we?\pHelp me train my little brother\nagain?
+RON: My sister's gotten more\npowerful…
+What do you want?
+Nice BIKE!\nHand it over quick!
+Come out and play, little mouse.\nI'll treat you right!
+Hey, wait a second!\nDon't call me and then run away!
+I'm feeling hungry and mean!\nI really need a punching bag!
+Hey, there!\nWe'll have ourselves a good time!
+JED: Are you here to see our\nlove, which knows no bounds?
+LEA: Sometimes, the intensity of\nour love scares me.
+I told you, there's no getting rich\nquick in battling kids.
+I'm mighty proud of my bod, kiddo.\nCome on!
+You out for a stroll?
+We're BIKERS!\nWe rule the roads, man!
+VOLTORB's going to seriously\nelectrify you today!
+I leveled up my POKéMON, but it\nabsolutely won't evolve. Why?
+Gaah! I really need to exercise\nand seriously trim some flab!
+Be a rebel!
+Yep, that's a nice BIKE!\nHow's it handle?
+Get lost, kid!\nI'm bushed!
+I've been checking every grassy\narea for new POKéMON.\pBut it's not always easy…
+Koorukukukoo!\nIs my birdcall getting better?
+I warned you before, this is my\nturf!\pI don't want you coming around.
+I'm almost warmed up to go\nout for a swim.
+Wait! Slow down!\nWhat if you have a heart attack?
+I love swimming!\nI guess you're the surfing type.
+What's beyond the horizon?\nHave you seen?
+I tried diving for POKéMON again,\nbut it was a no-go like before.
+I look at the sea to forget all\nthe bad things that happened.\p…Like losing to you the last time!
+You always get to ride your\nPOKéMON…\pIt looks so relaxing.\nCan I have it if I win?
+Swimming's great!\nSunburns aren't!
+These waters are treacherous!\nYou shouldn't come back here!
+I swam here with my friends…\nI'm tired…\lMust we really battle again?
+LIA: You know my brother just\nbecame a TRAINER, right?\pI want to make him better, so I\nneed your help again.
+LUC: My big sis taught me all\nabout POKéMON.\pI wonder if I'm better?
+The water is shallow here.\nThere are many people swimming.
+Are you jealous that I'm\nvacationing on SEAFOAM?
+I love floating with the fishes\nhere among the waves.
+Were you on vacation, too?
+Check out my physique!\pIt's even more buff than ever\nbefore!
+Why are you riding a POKéMON?\nHaven't you learned to swim yet?
+I rode my bird POKéMON here.
+My boyfriend gave me big pearls.\nAnd, they've grown bigger!
+I swam here from CINNABAR ISLAND.\nIt wasn't easy, like I said.
+CINNABAR, in the west, has a LAB\nfor POKéMON.\pMy daddy works there.
+You want to know if the fish are\nbiting?
+I got a big haul again!\nWanna go for it once more?
+The sea cleanses my body and soul!
+きょうも　およぎに\nきちまったぜ
+I caught my POKéMON at sea.\nAnd that's where I train them.
+Right now, I'm in another triathlon\nmeet!
+Ahh!\nFeel the sun and the wind!
+Hey, cut it out already.\nYou always scare away the fish!
+Keep me company till I get a hit.
+LIL: Huh? A battle again?\nIAN, can't you do it alone?
+IAN: My sis is still a slob.\nHelp me get her into shape!
+I won't lose while I'm here!
+Dad took me to a great party on\nthe S.S. ANNE at VERMILION CITY.
+I'm a cool guy.\nI've got a girlfriend!\pI'll show her how cool I am for\nsure this time!
+Hi!\nMy boyfriend is cool!\lMy conditioning's good today!
+I had this feeling…\nI knew I had to battle you again!
+My friend has many cute POKéMON.\nI'm so jealous!
+I just trained up on MT. MOON,\nbut I've still got gas in the tank!
+A POKéMANIAC lives on the cape.\nHave you seen his collection?
+You're going to see BILL again?\nFirst, we battle!
+I saw your feat from the grass!
+Okay!\nI'll stomp you!
+You always look so busy…\nAren't you getting tired?
+You really must love coming to\nNUGGET BRIDGE.
+The time we battled…\pEven though I was the second in\nline, I was the best, wasn't I?
+People call this the NUGGET\nBRIDGE!\pYou've already beaten us, so you're\nnot allowed to take the challenge…\p…But, you're welcome to battle with\nus again.
+Lying back, rocked by the waves…\nI don't notice time slipping by…
+The weather's gorgeous!\nI'll try not to spoil it.
+My sunburn is starting to hurt…
+The fire bird's mountain casts\na huge shadow…
+I have this strong feeling that\nI can win this time!
+Wait! Wait a second!\nI'm sure I've hooked a big one!
+You'll help me out with my\ntraining again?
+We haven't missed a single day of\ntraining yet!
+Every morning, before breakfast,\nI swim around this island…\lThree times!
+Dress appropriately for battle!\nLose that frivolous outfit, I said!
+You know, everything tastes great\nwhen you're out in the wild.
+I ate too much again, so will you\nbattle us for some exercise?
+KIA: My big brother and I make\nan awesome combination!\pWe won't lose this time!
+MIK: Together with KIA, we're\nafraid of nothing!\pWe'll prove it to you this time!
+Are we to battle again?
+From where have you come, and\nwhere are you bound?
+I want to swim without my float\nring soon.
+Yay, yay!\nPOKéMON!
+Oh, no, didn't I tell you already?\nPlease, stay away from me!
+JOY: We've gotten stronger!\nLots and lots!
+MEG: You can't beat us today!
+Oh, hello!\pAre you raising your POKéMON in a\ngood environment?
+With these hands, I will create\nmy victory today.
+Must I repeat myself?\nI'm trying to paint.\lPlease keep out of my sight!
+I haven't made any progress…\nI still can't get the right angle…
+Oh, you will give me another\nopportunity to match wits with you?
+They're almost finished making the\npool for my POKéMON.\pYou must drop in for a visit.
+I'm a good runner.\nI've gotten even faster!
+I say, friend!\nLet us enjoy our time together!
+I'm the eldest of the BIRD\nBROTHERS. Remember me?\pThat's right, I'm the one who loves\nbirds for their beaks!
+I'm the middle kid of the BIRD\nBROTHERS.\pI'm the one that loves wings.\nLet's battle again!
+I'm the youngest of the BIRD\nBROTHERS.\pI love birds for their down.\nI didn't think I'd see you again!
+I'm still having no luck at all.\nA battle'd be a change of pace!
+Gasp… Gasp…\pI swam here from SIX ISLAND's port\nin one go again.
+You always come along while I'm\nswimming.
+AVA: Let's have another\ntwo-on-two marine battle today!
+GEB: My big sister and I are way\ntougher than before!
+…Huh?\pI envision my house, but TELEPORT\nalways brings me here!
+Oh, hello.\nA pleasant breeze is blowing again.
+Hehehe, I'm practicing in secret\nagain.
+What, you're sick of seeing\nSWIMMERS like me?\pAww, don't be hatin'!\nBattle with me again.
+Sigh…\nMy boyfriend's busy again…
+Come on, tell me, where are the\nmountains around these parts?
+MIU: Hello, POKéMON!\nIt's time to play again!
+MIA: Hello, POKéMON!\nIt's time to battle again!
+There appear to be many secrets\nstill unsolved in this world.
+Hi, didn't we meet before?\nWhat compelled you to come back?
+It's been said that there are\nmysterious stones on this island.\pHave you discovered anything since\nwe last met?
+A rematch with you, so high up!
+I'm pretty familiar with the land\naround these parts.
+I sensed your approach.
+Somewhere on this island, peculiar\nPOKéMON are sleeping.
+Kyahaha!\pComing back won't change a thing.\nI'll flick you away effortlessly!
+Howdy! You're a member of my\nfan club, isn't that right?
+This island is too spread out…\nPatrolling the place is a drag…
+I don't forgive people who abuse\nPOKéMON!
+EVE: I'll team up with JON and\nbattle together again.
+JON: When I'm with EVE, it feels\nlike we could never lose, not ever.
+Let's have another battle.\nMy conditioning's in top form!
+It doesn't matter if you happen to\nhave the strongest POKéMON…\pIt doesn't mean a thing if you don't\nknow how to use them properly!
+I work to protect the environment.\nIn turn, nature protects me!
+Every time we meet, you have those\nsnazzy shoes on.
+You must have gotten tougher.\nLet me battle you, please!
+I was given the best possible\neducation to become this strong.\pI won't lose this time.\nAbsolutely not!
+LEX: My darling NYA, together\nwe will win for certain!
+NYA: I won't drag down my mentor\nLEX! We're going to win!
+Have you discovered anything about\nthis stone chamber?
+A mystic POKéMON is said to sleep\ninside here.
+My teacher is showing me how to\npaint some more.
+Today, in addition to our lesson,\nwe came to see the chamber again.
+<<< FILE: text/white_out.inc >>>
+First, you should restore your\nPOKéMON to full health.
+Your POKéMON have been healed\nto perfect health.\pIf your POKéMON's energy, HP,\nis down, please come see us.\pIf you're planning to go far in the\nfield, you should buy some POTIONS\lat the POKéMON MART.\pWe hope you excel!
+Your POKéMON have been healed\nto perfect health.\pWe hope you excel!
+MOM: {PLAYER}!\nWelcome home.\pIt sounds like you had quite\nan experience.\pMaybe you should take a quick\nrest.
+MOM: Oh, good! You and your\nPOKéMON are looking great.\pI just heard from PROF. OAK.\pHe said that POKéMON's energy is\nmeasured in HP.\pIf your POKéMON lose their HP,\nyou can restore them at any\lPOKéMON CENTER.\pIf you're going to travel far away,\nthe smart TRAINER stocks up on\lPOTIONS at the POKéMON MART.\pMake me proud, honey!\pTake care!
+{PLAYER} is out of usable\nPOKéMON!\p{PLAYER} panicked and lost ¥{STR_VAR_1}…\p… … … …\p{PLAYER} whited out!
+{PLAYER} is out of usable\nPOKéMON!\p{PLAYER} whited out!
