@@ -4,7 +4,7 @@
   "target_lang": "pl",
   "project_path": "C:\\Users\\L\\SuperCAT_Projects\\f1",
   "created_date": 1785686080.925927,
-  "modified_date": 1792793266.3956656,
+  "modified_date": 1792867976.048653,
   "current_segment_index": 0,
   "source_files": [
     "data.txt",
@@ -224,5 +224,8 @@
     "dictionary_language": "pl_PL",
     "underline_errors": true
   },
-  "team_url": "https://github.com/danerx77/f1"
+  "team_url": "https://github.com/danerx77/f1",
+  "team_folder": "",
+  "team_cloud": "",
+  "team_cloud_ref": ""
 }

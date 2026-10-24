@@ -1818,7 +1818,7 @@ IMIĘ RYWALA?
 {A_BUTTON}ZMIEŃ
 {A_BUTTON}OK
 {DPAD_ANY}RUSZ
-{DPAD_UPDOWN}WYBÓR
+{DPAD_UPDOWN}WEŹ
 Brak danych
 Głęboki i zamaszysty las\notaczający VIRIDIAN CITY.\nNaturalny labirynt, w którym\ngubi się wielu ludzi.
 Tajemnicza góra znana z częstych\ndeszczów meteorytów.\nOdłamy skalne, które spadają\nz nieba nazywane są KAMIENIAMI KSIĘŻYCA.
@@ -1877,7 +1877,7 @@ NAST LV.
 {DPAD_LEFTRIGHT}STR.
 {DPAD_LEFT}STRONA {A_BUTTON}DANE
 {DPAD_UPDOWN}WYBÓR {A_BUTTON}ZMIEŃ
-{DPAD_UPDOWN}WEŹ
+{DPAD_UPDOWN}WYBÓR
 {DPAD_UPDOWN}WYBÓR {A_BUTTON}USUŃ
 Nie można teraz\nzapomnieć HM.
 IMIĘ: 

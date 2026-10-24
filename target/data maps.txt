@@ -134,7 +134,7 @@ Hej, co? Wytrącasz mnie z rytmu!\nMasz trochę ŻETONÓW i spadaj!
 Hej! Masz już bardzo\ndużo ŻETONÓW!
 Sztuka polega na obserwowaniu\nrolek.
 Pilnuję tego plakatu!\nSpadaj, bo oberwiesz!
-Nie!
+Ojej!
 KRYJÓWKA ZESPOŁU R mogła\nzostać odkryta!\pLepiej powiem SZEFOWI!
 Hej!\pPrzełącznik za plakatem!?\nWciśnijmy go!
 Potrzebujesz ETUI…
@@ -1448,7 +1448,7 @@ Typy POKéMONÓW różnie na\nsiebie oddziałują.\pKażdy z typów ma plusy i m
 SAMORODEK jest bezużyteczny.\nSprzedam go za ¥5000.
 Podobno duchy nawiedzają\nLAVENDER TOWN.
 Och… {PLAYER}!\nSzukałem cię!\pTo ja, jestem jednym z POMOCNIKÓW\nPROFESOR OAKA.\pJeżeli twój POKéDEX ma zapisane dane przynajmniej\ndwudziestu gatunków, mam dać ci\lnagrodę od PROFESORA OAKA.\pPowierzył mi ten oto\nWIECZNY KAMIEŃ.\pWięc, {PLAYER}, pozwól, że zapytam.\pCzy zebrałeś dane przynajmniej\ndwudziestu gatunków POKéMONÓW?
-Świetnie! Złapałeś już\n{STR_VAR_3} gatunków POKéMONÓW!\pGratuluję!\nOto obiecany przedmiot!
+Świetnie! Złapałeś już\n{STR_VAR_3} gatunków POKéMONÓW!\pGratuluję!\nProszę bardzo!
 {PLAYER} dostaje WIECZNY KAMIEŃ\nod POMOCNIKA.
 Ewoluowanie POKéMONÓW z pewnością\npomaga uzupełniać POKéDEX.\pJednak czasami, możesz nie\nchcieć, by któryś POKéMON\pewoluował.\nWtedy temu POKéMONOWI wręcza\psię WIECZNY KAMIEŃ.\nWedług PROFESORA, nie pozwoli\nmu na ewoluowanie.
 <<< FILE: maps/Route11/text.inc >>>
@@ -1537,7 +1537,7 @@ Jestem młodszym bratem\nRYBACKIEGO GURU.\pKooocham łowić ryby!\nNie wytrzymuj
 Świetnie! Podoba mi się twój styl.\nZostańmy kumplami.\pWeź to i łów, przyjacielu!
 {PLAYER} dostaje SUPER WĘDKĘ\nod brata RYBACKIEGO GURU.
 Łowienie jest cudowne!\nTo jak najwspanialsza poezja.\pPrzez morza i rzeki, ruszaj, by\nzłowić największą rybę, przyjacielu.\pA teraz, mam do ciebie prośbę.\pJeśli złapiesz tą wędką\ndużego MAGIKARPIA, pokaż mi go.\pTak samo, jak łowienie, kocham\noglądać olbrzymie MAGIKARPIE.
-Och…\nZawiodłeś mnie…
+Och…\nZawodzisz mnie…
 Witaj, {PLAYER}!\nŁowiłeś ostatnio?\pSpróbuj używać SUPER WĘDKI we\nwszystkich zbiornikach wodnych.\pW różnych miejscach znajdują się\nróżne POKéMONY.\pOch i nie zapomnij przynieść mi\nwielkiego MAGIKARPIA!
 Oh? {PLAYER}?\nCzyż to nie MAGIKARP!\pSzybko, pozwól, że go zobaczę!
 … … …Łoł!\n{STR_VAR_2} cali!\pWidać, że masz żyłkę do tej\nniesamowitej sztuki zwanej wędkowaniem.\pMusisz to wziąć.\nNalegam!
@@ -3192,7 +3192,7 @@ Jestem RYBACKIM GURU!\pKocham łowić ryby!\nNie przeżyłbym bez wędkowania.\p
 Słodko! Podoba mi się twój styl.\nBędziemy kumplami.\pWeź to i wędkuj, mały przyjacielu!
 {PLAYER} dostaje STARĄ WĘDKĘ od\nRYBACKIEGO GURU.
 Łowienie to droga życia!\nTo jak najpiękniejsza poezja.\pPrzez morza i rzeki, idź i\nzłap największą rybę świata, koleżko.
-Och…\nZawodzisz mnie…
+Och…\nZawiodłeś mnie…
 Witaj, {PLAYER}!\pJak tam ryby, biorą?
 O, nie!\pMiałem dla ciebie piękny prezent,\nale nie masz miejsca!
 <<< FILE: maps/VermilionCity_House2/text.inc >>>

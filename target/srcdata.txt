@@ -616,7 +616,7 @@ KLUCZ DO P. 2
 KLUCZ DO P. 4
 KLUCZ DO P. 6
 KLUCZDOŁADOWN
-SKAM. KORZEN
+SKAM. KORZEŃ
 SKAM. PAZUR
 SKANER DEVON
 TM01
@@ -1278,7 +1278,7 @@ KLUCZ DO P. 6
 Klucz otwierający drzwi do Pokoju\\nnr 6 wewnątrz OPUSZCZONEGO STATKU.\\nJest stary i łamliwy.
 KLUCZDOŁADOWN
 Klucz otwierający składzik\\nwewnątrz OPUSZCZONEGO STATKU.\\nJest stary i łamliwy.
-SKAM. KORZEŃ
+SKAM. KORZEN
 Skamielina pradawnego, podmorskiego\\nPOKéMONA. Wydaje się być częścią\\nkorzenia rośliny.
 SKAM. PAZUR
 Skamielina pradawnego, podmorskiego\\nPOKéMONA. Wydaje się być częścią\\npazura.

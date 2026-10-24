@@ -1022,7 +1022,7 @@ Wylęgłeś aż tyle JAJ?\nNaprawdę musisz je lubić!\pTo imponujące, tak!\nDa
 O rety! Wykluło ci\nsię całe mnóstwo JAJEK!\pJesteś maszyną do wykluwania jaj!\nDam ci jedną z tych.
 Co… Wyklułeś tylu JAJ?\pCo stoi za twoją miłością do JAJEK?\nTo jest niesamowite, tak!\pJesteś zbyt niesamowity, mówię ci.\nTo wszystko, muszę ci to dać.
 NAKLEJKA JAJKO została przyklejona\ndo KARTY TRENERA.
-Hmm…\pWróć następnym razem z\nlepszą historią, dobrze?
+Hmm…\pWróć następnym razem z\nlepszą historią, okej?
 Och, nie, nie da się.\pJesteś praktycznie żywą legendą.\nNie mam już żadnych NAKLEJEK do rozdania.
 O, wow, miałeś sukces\nw walce o linki?\pJesteś całkiem silny, tak!\nDam ci jedną z tych.
 Wygrałeś z przyjaciółmi wiele razy w\nwalkach na link, co nie?\pJesteś niesamowicie silny, tak!\nDam ci jedną z tych.

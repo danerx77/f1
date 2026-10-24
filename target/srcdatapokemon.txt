@@ -642,16 +642,16 @@ Silnie rozwinięte mięśnie zapewniają\nmu zdumiewającą sprawność i\nwydaj
 Liście na przednich kończynach są\nostre jak miecze. Gwałtownie skacze\nna gałęziach drzew, aby uderzyć.
 Ma w środku brzucha płomień, który\nwiecznie płonie. Czuje się ciepło, gdy\njest przytulany.
 Zwiększa koncentracje, emitując\nostre okrzyki. Jego kopnięcia mają\nniesamowitą siłę niszczenia.
-W obliczu twardego wroga wyzwala płomienie z\nnadgarstków. Jego potężne nogi pozwalają mu\nprzeskakiwać nad budynkami.
+W obliczu trudnego przeciwnika traci\npłomienie z nadgarstków. Jego nogi\npozwalają mu przeskakiwać budynki.
 Jego duża płetwa ogonowa przepuszcza\ngo przez wodę z silnym przyspieszeniem.\nJest silny pomimo wielkości.
 Najlepszy na błotnistej ziemi ze\nsłabą podstawą. Szybko przytłacza\nprzeciwników walczących w błocie.
 Jego ramiona są twarde jak skała.\nZa jednym zamachem może naładować\nbaterię. Tworzy gniazdo na pięknej plaży.
-Ma bardzo wytrwały charakter. Jego ostry\nwęch pozwala ścigać wybraną ofiarę,\nnie tracąc przy tym tropu.
-Zawsze będzie on przestrzegać poleceń\nwykwalifikowanego TRENERA. Jego\nzachowanie wynika z czasów starożytnych.
+Ma bardzo wytrwały charakter. Jego\nostry zmysł węchu pozwala ścigać wybraną\nzdobycz, nie gubiąc nawet śladu.
+Zawsze będzie przestrzegać poleceń\nwykwalifikowanego trenera. Jego zachowanie wynika\nz życia w stadzie w czasach starożytnych.
 POKéMON z obfitą ciekawością.\nPokazuje zainteresowanie wszystkim,\nwięc zawsze robi zigi i zagi.
 Podczas biegu w linii prostej może osiągać prędkość\n100 kilometrów na godzinę. Trudno mu jest jednak\npędzić po zakrzywionych drogach.
 Żyje wśród wysokiej trawy i lasów.\nKiedy zostaje zaatakowany, opiera się,\nwskazując wrogom na jadowite kolce.
-Oszczędza on energię, poruszając się\njak najmniej. Oczekuje ewolucji pijąc   \ntylko niewielką ilość wody deszczowej.
+Oszczędza on energię, poruszając się\njak najmniej. Oczekuje ewolucji pijąc\ntylko niewielką ilość wody deszczowej.
 Pomimo swojego wyglądu ma on\nagresywny charakter. Atakuje on,\ndźgając długimi, cienkimi ustami.
 Jego ciało wykonane jest z miękkiego\njedwabiu. Gdy pojawiają się\npęknięcia, ewolucja jest bliska.
 Rozprasza straszliwie toksyczny pył,\nkiedy wyczuwa niebezpieczeństwo. \nGromadzi się w blasku latarni ulicznych.
@@ -659,9 +659,9 @@ Szuka czystej wody. Jeśli nie\npije wody zbyt długo, liść na\ngłowie więdn
 Żyje na skraju wody, gdzie jest\nsłonecznie. Śpi na łóżku z trawy wodnej\nw dzień i staje się aktywny w nocy.
 Rytm jasnej, świątecznej muzyki\naktywuje komórki LUDICOLO, czyniąc\ngo silniejszym.
 Jeśli pozostanie w bezruchu, nie da się\ngo odróżnić od prawdziwych orzechów.\nZachwyca on żerowaniem PIDGEYÓW.
-Żyją w otworach wydrążonych w dużych drzewach.\nDźwięk fletowej trawy Nuzleafa napełnia\nsłuchaczy strachem.
+Żyje w dziurach dużych drzew. Dźwięki\ntrawiastego fletu NUZLEAFA, wypełniają\nsłuchaczy lękiem.
 POKéMON, którego obawiano się go\njako opiekuna leśnego. Może odczytać\numysł wroga i podjąć działania.
-Nie lubi zimmych pór roku. Leci do\ninnych krajów w poszukiwaniu ciepła,\nlatając ponad 180 mil dziennie.
+Nie lubi zimnych pór roku. Migrują do innych\nkrajów w poszukiwaniu ciepła, latając ponad\n300 kilometrów dziennie.
 Jeśli jego dwa pióra ogona stają na\nbaczność, jest on dowodem dobrego\nzdrowia. Szybko wznosi się na niebie.
 Porusza się na wiatrach oceanu, jakby\nbył szybowcem. Zimą ukrywa pokarm\nwokół swojego gniazda.
 To latający transporter niosący małe\nPOKéMONY w swoim dziobie. Szybuje\nna falach, żeby sobie odpocząć.
@@ -669,8 +669,8 @@ Jest bardzo dostrojony do emocji ludzi\ni POKéMONÓW. Ukrywa się, kiedy\nwyczu
 Wesoły duch TRENERA dodaje energii\ndo swojej psychokinetycznej mocy.\nObraca się i tańczy, gdy jest szczęśliwy.
 Ma moc przewidywania przyszłości. Jego\nmoc osiąga szczyt, kiedy chroni swojego\nTRENERA.
 Zwykle żyje na stawach, ale po\nwieczornym prysznicu może pojawić\nsię na kałużach w miastach.
-Anteny mają charakterystyczne wzory, które\nwyglądają jak oczy. Kiedy pada, stają\nsię ciężkie, co uniemożliwia mu latanie.
-Preferuje wilgotne miejsca. Za dnia\npozostaje w cieniu lasu. Uwalnia\ntoksyczny proszek z swojej głowy.
+Anteny mają charakterystyczne wzory,\nktóre wyglądają jak oczy. Kiedy pada,\nstają się ciężkie, co uniemożliwiają lot.
+Preferuje wilgotne miejsca. W dzień\npozostaje w cieniu lasu. Uwalnia\ntoksyczny proszek z głowy.
 Nasiona na jego ogonie są wykonane z\ntoksycznych zarodników. Uderza\nprzeciwników za pomocą szybkich ciosów.
 Śpi 20 godzin dziennie. Senność tych,\nktórzy go widzą, jest jedną z jego\numiejętności.
 Jest zawsze głodny, ponieważ nie\nprzestaje szaleć. Nawet podczas jedzenia\nnie może on ustać.
@@ -681,45 +681,45 @@ Najbardziej charakterystyczny POKéMON,\nktóry pojawia się w POKé BALLU, gdy\
 Mruczy, ale zaczyna głośno płakać,\ngdy wyczuje niebezpieczeństwo.\nZatrzymuje się, gdy uszy są zamknięte.
 Gdy stempluje stopy i miechy, generuje\non fale ultradźwiękowe, które mogą\nnawet rozerwać dom.
 Emituje on różnorodne dźwięki z dziur w\nswoim całym ciele. Jego głośne okrzyki\nmożna usłyszeć z ponad sześciu mil.
-Zwiększa się dzięki ciężkiemu treningowi.\nTo odważny POKéMON, który potrafi\nwytrzymać każdy atak.
+Staje się silniejszy przez wytrzymanie trudnego treningu. To odważny\nPokémon, który\nmoże wytrzymać każdy atak.
 Tupie on na ziemi, aby zbudować moc.\nMoże wysłać 10-tonowa ciężarówkę z\nswoim prostym ramieniem.
 Walczy, rzucając się wokół ogona,\nktóry jest większy niż jego ciało. Ogon\njest urządzeniem pływającym w wodzie.
 Jego magnetyczny nos konsekwentnie\nskierowany jest na północ. Podróżni\nużywają NOSEPASSA.
 Mówi się, że trudno jest zdobyć jego\nzaufanie. Jest jednak niezwykle popularny\nze względu na ładny wygląd.
 Ulubiony trenerski model TRENERÓW,\nktóry używany jest w rywalizacji o\nswój koci styl oraz futro.
 Żywi się kryształami kamieni\nszlachetnych. W ciemności jego\noczy błyszczą blaskiem.
-Używa swojej potulnie wyglądającej\ntwarzy, aby uciszyć wrogów, a potem\ngryzie swoją ogromną szczęką.
-Zjada on żelazo do budowy swojego\nkorpusu. To szkodnik, który schodzi z\ngór do mostów i torów kolejowych.
+Posługuje się łagodną twarzą, aby uspokoić\nwrogów, a następnie gryzie ogromnymi,\nnieustępliwymi szczękami.
+Zjada żelazo, aby zbudować swoje stalowe\nciało. Jest szkodnikiem, który schodzi z\ngór, by jeść mosty i tory kolejowe.
 Zazwyczaj pokazuje swoją siłę wraz z\nwielkością iskier, które tworzy,\nwtłaczając stalowe ciało w głazy.
 Twierdzi, że jego jedynym obszarem\njest góra. Bezlitośnie bije tych, którzy\nnaruszają jego przestrzeń.
 Nigdy nie opuszcza codziennego treningu\njogi. Wzmacnia wewnętrzną siłę poprzez\nmedytacje.
-Elegancko unika ataków tanecznymi krokami,\na następnie\nwykonuje druzgocący cios podobnym ruchem.
+Elegancko unika ataków krokami\npodobnymi do tańca, a potem używa\ndruzgocącego ciosu w tym samym ruchu.
 Przechowuje elektryczność statyczną\nw futrze w celu rozładowania. Daje\niskry, gdy zbliża się burza.
 Rzadko pojawia się przed ludźmi.\nMówi się, że gniazduje tam, gdzie\npada piorun.
 Kibicuje partnerom, rozpraszając iskry\nz jego ciała. Wspina się na słupy\ntelefoniczne, by absorbować energie.
-Jego niechęc do wody sprawia, że chroni\nsię pod okapem domów podczas deszczu.\nUżywa on pompek z iskier do dopingu.
+Niechęć do wody sprawia, że ​​kryje się\nw deszczu pod okapami domów. Do\ndopingowania używa pomponów z iskier.
 Żyje wokół czystych stawów. W nocy\ntylne światła się zapalają. Rozmawia z\ninnymi, błyskając swym światłem.
 Prowadzi VOLBEATA do rysowania znaków\nna nocnym niebie. Są naukowcy, którzy\nbadają wzorce, które tworzy.
-Jego kwiaty wydzielają relaksujący\nzapach. Im silniejszy jest aromat, tym\nzdrowsza jest ROSELIA.
+Jej kwiaty wydzielają relaksujący zapach. Im silniejszy aromat, tym\nzdrowsza jest\nRoselia.
 Nie ma niczego, czego jego żołądek nie może\nstrawić. Podczas trawienia wydalane są nikczemne,\nprzytłaczające gazy.
-Może połknąć całą oponę jednym haustem.\nWydziela strasznie toksyczny płyn\nz porów na ciele.
-Żyje on w rzekach biegnących\nprzez dżungle. Roi się od ofiary,\nktóra wkracza na jego terytorium.
-Drab mórz, ma kły, które mogą schrupać\nstal. Pływa poprzez wystrzeliwanie wody\nze swojego tyłu.
+Może połknąć oponę w całości jednym\nhaustem. Wydziela potwornie toksyczny\npłyn z porów na jego ciele.
+Żyje w masywnych rzekach przepływających przez\ndżunglę. Rojem otaczają zdobycz, która\nwkracza na jego terytorium.
+Łuskacz mórz, ma kły, które przebijają\nsię przez żelazo. Płynie on, tryskając\nwodą ze swojego tylu.
 Gdy zasysa dużą ilość wody morskiej,\nstaje się jak wielka sprężysta piłka.\nCodziennie spożywa tonę jedzenia.
 Jest to jeden z największych POKéMONÓW.\nStada żerują w paczce, a potem połykają\nofiarę jednym haustem.
 Magma prawie 2200 stopni Fahrenheita\nprzechodzi przez jego ciało. Kiedy robi\nsię zimno, magma twardnieje i spowalnia.
 Gdy jest rozgniewany, grzbiety wybuchają\npod prysznicem roztopionej lawy. Żyje\non w kraterach wulkanów.
 Spala węgiel w skorupie. Jeśli zostanie\nzaatakowany, wytwarza gęsty, czarny dym\ni ucieka.
 Najwyraźniej umiera, jeśli przestanie\npodskakiwać. Nosi on perłę od\nCLAMPERLA na głowie.
-Może uzyskać kontrolę nad wrogami\nwykonując dziwne kroki taneczne.  \nCzarne perły na czole są klejnotami.
+Może uzyskać kontrolę nad wrogami\nwykonując dziwne kroki taneczne.\nCzarne perły na czole są klejnotami.
 Nie mówi się, że dwie SPINDY mają\nidentyczne wzory. Powoduje zamieszanie\nwrogów swoimi ruchami.
-Żyje na suchych pustyniach. Tworzy\nopadającą pułapkę w piasku, gdzie cierpliwie\nczeka na zdobycz.
+Żyje na suchych pustyniach. Robi\npochyłą pułapkę w piasku, gdzie\ncierpliwie oczekuje ofiary.
 Generuje fale ultradźwiękowe gwałtownie\ntrzepocząc skrzydłami. Po zemdleniu\nofiary topi ofiarę trującym kwasem.
 Ukrywa się kopiąc pusty piasek za\npomocą skrzydeł. Czerwone osłony\nchronią oczy przed piaskiem.
-Preferuje trudne warunki, takie jak pustynie. Może przetrwać\n30 dni\nna wodzie zmagazynowanej w swoim ciele.
-Żyje on na pustyniach. Uaktywnia się w\nnocy, kiedy poluje na ofiarę wyczerpaną\ngorącą pustynią.
+Preferuje trudne środowiska, takie jak\npustynie. Może przetrwać 30 dni z\nwodą przechowywaną w ciele.
+Żyje na pustyniach. Aktywuje się w\nnocy, gdy poluje na zdobycz wyczerpaną\ngorącem pustyni.
 Stale pielęgnuje bawełniane\nskrzydła. W przypadku zabrudzenia\nbierze prysznic.
-Jeśli słyszysz piękną melodię, która rozlega\nsię głęboko w górach daleko od ludzi,\nto jest buczenie Altarii.
+Jeśli słyszysz piękną melodie trylującą\ngłęboko wśród gór, z dala od ludzi, to\njest nucenie ALTARII.
 Jeśli natknie się na SEVEPERA, jego\nfutrzaste łapy przejmują jego pozę\nbojową. Jego ostre pazury są jego bronią.
 Wyostrza swój mieczopodobny ogon na\ntwardych skałach. Chowa się w wysokiej\ntrawie i uderza jadowitymi kłami.
 Jego zdrowie odpływa i płynie wraz z\ncyklem księżycowym. Pełni moc po\nwystawieniu na działanie księżyca w pełni.
@@ -736,14 +736,14 @@ Jest rodzajem progenitora POKéMON.\nUżywa swoich przedłużających się pazur
 Chroniony przez twardą skorupę, jego\nciało jest bardzo mocne. Szaszłyki\ndrapieżne z pazurami.
 Ze względu na swój brzydki wygląd,\njest ignorowany przez badaczy. Żyje w\nstawach zatkanych chwastami.
 MILOTIC jest oszałamiająco piękny.\nCi, którzy go widzą, zapominają o\nswoim wojowniczym duchu.
-Ma zdolność zmiany formy w słońce,\ndeszcz lub chmurę śnieżną, w\nzależności od pogody.
+Ma zdolność zmiany formy na słońce,\ndeszcz lub chmurę śniegu, w zależności\nod występującej pogody.
 Zmienia kolor ciała, by wtopić się w\notoczenie. Zmienia także kolor, jeśli\njest szczęśliwy lub smutny.
 Uwielbia karmić się uczuciami, takimi jak\nzazdrość i złośliwość. Jego pionowy\nróg chwyta emocje.
 Silne uczucie nienawiści zmieniło\nmarionetkę w POKéMONA. Jeśli otwiera\nusta, przeklęta energia ucieka.
 Stając się niewidocznym, cicho podkrada\nsię do ofiary. Ma zdolność prześlizgnięcia\nsię przez ściany.
 Jego ciało jest całkowicie puste. Kiedy\notwiera usta, wciąga wszystko tak, jakby\nbyła czarna dziura.
 Żyje w tropikalnej dżungli. Pęczek\nowoców na jego szyi jest pyszny. Owoce\nrosną dwa razy w roku.
-Podróżuje z wiatrem. Sprytnie używa swojego\ndługiego ogona do zrywania orzechów\ni jagód, które uwielbia jeść.
+Podróżuje jeżdżąc na wiatrach. Sprytnie\nwykorzystuje swój długi ogon, aby zrywać\norzechy i jagody, które zjada.
 Pojawia się, kiedy wyczuwa nadchodzącą\nklęskę żywiołową. W rezultacie został\nbłędnie uznany za zagładę.
 Ma tendencje do poruszania się w paczce.\nGromadzą się w ciasnej grupie,\nby spać w jaskini.
 Mówi się, że dom odwiedzany przez\nSNORUNTA będzie prosperować. Może\nwytrzymać w minus 150 stopni Fahrenheita.
@@ -1030,16 +1030,16 @@ Silnie rozwinięte mięśnie zapewniają\nmu zdumiewającą sprawność i\nwydaj
 Liście na przednich kończynach są\nostre jak miecze. Gwałtownie skacze\nna gałęziach drzew, aby uderzyć.
 Ma w środku brzucha płomień, który\nwiecznie płonie. Czuje się ciepło, gdy\njest przytulany.
 Zwiększa koncentrację, wydając ostre\nodgłosy. Jego kopnięcia mają wyjątkową\nniszczycielską moc.
-W obliczu trudnego przeciwnika traci\npłomienie z nadgarstków. Jego nogi\npozwalają mu przeskakiwać budynki.
+W obliczu twardego wroga wyzwala płomienie z\nnadgarstków. Jego potężne nogi pozwalają mu\nprzeskakiwać nad budynkami.
 Jego duża płetwa ogonowa przepuszcza\ngo przez wodę z silnym przyspieszeniem.\nJest silny pomimo wielkości.
 Najlepszy na błotnistej ziemi ze\nsłabą podstawą. Szybko przytłacza\nprzeciwników walczących w błocie.
 Jego ramiona są twarde jak skała.\nZa jednym zamachem może naładować\nbaterię. Tworzy gniazdo na pięknej plaży.
-Ma bardzo wytrwały charakter. Jego\nostry zmysł węchu pozwala ścigać wybraną\nzdobycz, nie gubiąc nawet śladu.
-Zawsze będzie przestrzegać poleceń\nwykwalifikowanego trenera. Jego zachowanie wynika\nz życia w stadzie w czasach starożytnych.
+Ma bardzo wytrwały charakter. Jego ostry\nwęch pozwala ścigać wybraną ofiarę,\nnie tracąc przy tym tropu.
+Zawsze będzie on przestrzegać poleceń\nwykwalifikowanego TRENERA. Jego\nzachowanie wynika z czasów starożytnych.
 POKéMON z obfitą ciekawością.\nPokazuje zainteresowanie wszystkim,\nwięc zawsze robi zigi i zagi.
 Podczas jazdy w linii prostej może on\npokonać 60 mil w jedną godzinę. Jednak\nma trudne czasy na zakrętach.
 Żyje wśród wysokiej trawy i lasów.\nKiedy zostaje zaatakowany, opiera się,\nwskazując wrogom na jadowite kolce.
-Oszczędza on energię, poruszając się\njak najmniej. Oczekuje ewolucji pijąc\ntylko niewielką ilość wody deszczowej.
+Oszczędza on energię, poruszając się\njak najmniej. Oczekuje ewolucji pijąc   \ntylko niewielką ilość wody deszczowej.
 Pomimo swojego wyglądu ma on\nagresywny charakter. Atakuje on,\ndźgając długimi, cienkimi ustami.
 Jego ciało wykonane jest z miękkiego\njedwabiu. Gdy pojawiają się\npęknięcia, ewolucja jest bliska.
 Rozprasza straszliwie toksyczny pył,\nkiedy wyczuwa niebezpieczeństwo.\nGromadzi się w blasku latarni ulicznych.
@@ -1047,9 +1047,9 @@ Szuka czystej wody. Jeśli nie będzie pił\nwody zbyt długo, liść na jego g�
 Żyje na skraju wody, gdzie jest \nsłonecznie. Śpi na łóżku z trawy wodnej\nw dzień i staje się aktywny w nocy.
 Rytm jasnej, świątecznej muzyki\naktywuje komórki LUDICOLO, czyniąc\ngo silniejszym.
 Jeśli pozostanie w bezruchu, nie da się\ngo odróżnić od prawdziwych orzechów.\nZachwyca on żerowaniem PIDGEYÓW.
-Żyje w dziurach dużych drzew. Dźwięki\ntrawiastego fletu NUZLEAFA, wypełniają\nsłuchaczy lękiem.
+Żyją w otworach wydrążonych w dużych drzewach.\nDźwięk fletowej trawy Nuzleafa napełnia\nsłuchaczy strachem.
 POKéMON, którego obawiano się go\njako opiekuna leśnego. Może odczytać\numysł wroga i podjąć działania.
-Nie lubi zimnych pór roku. Migrują do innych\nkrajów w poszukiwaniu ciepła, latając ponad\n300 kilometrów dziennie.
+Nie lubi zimmych pór roku. Leci do\ninnych krajów w poszukiwaniu ciepła,\nlatając ponad 180 mil dziennie.
 Jeśli jego dwa pióra ogona stają na\nbaczność, jest on dowodem dobrego\nzdrowia. Szybko wznosi się na niebie.
 Porusza się na wiatrach oceanu, jakby\nbył szybowcem. Zimą ukrywa pokarm\nwokół swojego gniazda.
 To latający transporter niosący małe\nPOKéMONY w swoim dziobie. Szybuje\nna falach, żeby sobie odpocząć.
@@ -1057,8 +1057,8 @@ Jest bardzo dostrojony do emocji ludzi\ni POKéMONÓW. Ukrywa się, kiedy\nwyczu
 Wesoły duch TRENERA dodaje energii\ndo swojej psychokinetycznej mocy.\nObraca się i tańczy, gdy jest szczęśliwy.
 Ma moc przewidywania przyszłości. Jego\nmoc osiąga szczyt, kiedy chroni swojego\nTRENERA.
 Zwykle żyje na stawach, ale po\nwieczornym prysznicu może pojawić\nsię na kałużach w miastach.
-Anteny mają charakterystyczne wzory,\nktóre wyglądają jak oczy. Kiedy pada,\nstają się ciężkie, co uniemożliwiają lot.
-Preferuje wilgotne miejsca. W dzień\npozostaje w cieniu lasu. Uwalnia\ntoksyczny proszek z głowy.
+Anteny mają charakterystyczne wzory, które\nwyglądają jak oczy. Kiedy pada, stają\nsię ciężkie, co uniemożliwia mu latanie.
+Preferuje wilgotne miejsca. Za dnia\npozostaje w cieniu lasu. Uwalnia\ntoksyczny proszek z swojej głowy.
 Nasiona na jego ogonie są wykonane z\ntoksycznych zarodników. Uderza\nprzeciwników za pomocą szybkich ciosów.
 Śpi 20 godzin dziennie. Senność tych,\nktórzy go widzą, jest jedną z jego\numiejętności.
 Jest zawsze głodny, ponieważ nie\nprzestaje szaleć. Nawet podczas jedzenia\nnie może on ustać.
@@ -1069,45 +1069,45 @@ Najbardziej charakterystyczny POKéMON,\nktóry pojawia się w POKé BALLU, gdy\
 Mruczy, ale zaczyna głośno płakać,\ngdy wyczuje niebezpieczeństwo.\nZatrzymuje się, gdy uszy są zamknięte.
 Gdy stempluje stopy i miechy, generuje\non fale ultradźwiękowe, które mogą\nnawet rozerwać dom.
 Emituje różnorodne dźwięki z dziur na całym\nciele. Jego głośne okrzyki można usłyszeć\nz odległości ponad dziesięciu kilometrów.
-Staje się silniejszy przez wytrzymanie trudnego treningu. To odważny\nPokémon, który\nmoże wytrzymać każdy atak.
+Zwiększa się dzięki ciężkiemu treningowi.\nTo odważny POKéMON, który potrafi\nwytrzymać każdy atak.
 Tupie on na ziemi, aby zbudować moc.\nMoże wysłać 10-tonowa ciężarówkę z\nswoim prostym ramieniem.
 Walczy, rzucając się wokół ogona,\nktóry jest większy niż jego ciało. Ogon\njest urządzeniem pływającym w wodzie.
 Jego magnetyczny nos konsekwentnie\nskierowany jest na północ. Podróżni\nużywają NOSEPASSA.
 Mówi się, że trudno jest zdobyć jego\nzaufanie. Jest jednak niezwykle popularny\nze względu na ładny wygląd.
 Ulubiony trenerski model TRENERÓW,\nktóry używany jest w rywalizacji o\nswój koci styl oraz futro.
 Żywi się kryształami kamieni\nszlachetnych. W ciemności jego\noczy błyszczą blaskiem.
-Posługuje się łagodną twarzą, aby uspokoić\nwrogów, a następnie gryzie ogromnymi,\nnieustępliwymi szczękami.
-Zjada żelazo, aby zbudować swoje stalowe\nciało. Jest szkodnikiem, który schodzi z\ngór, by jeść mosty i tory kolejowe.
+Używa swojej potulnie wyglądającej\ntwarzy, aby uciszyć wrogów, a potem\ngryzie swoją ogromną szczęką.
+Zjada on żelazo do budowy swojego\nkorpusu. To szkodnik, który schodzi z\ngór do mostów i torów kolejowych.
 Zwykle pokazuje swoją siłę wielkością\niskier, które wytwarza, wbijając\nswój stalowy korpus w głaz.
 Twierdzi, że jego jedynym obszarem\njest góra. Bezlitośnie bije tych, którzy\nnaruszają jego przestrzeń.
 Nigdy nie opuszcza codziennego treningu\njogi. Wzmacnia wewnętrzną siłę poprzez\nmedytacje.
-Elegancko unika ataków krokami\npodobnymi do tańca, a potem używa\ndruzgocącego ciosu w tym samym ruchu.
+Elegancko unika ataków tanecznymi krokami,\na następnie\nwykonuje druzgocący cios podobnym ruchem.
 Przechowuje elektryczność statyczną\nw futrze w celu rozładowania. Daje\niskry, gdy zbliża się burza.
 Rzadko pojawia się przed ludźmi.\nMówi się, że gniazduje tam, gdzie\npada piorun.
 Kibicuje partnerom, rozpraszając iskry\nz jego ciała. Wspina się na słupy\ntelefoniczne, by absorbować energie.
-Niechęć do wody sprawia, że ​​kryje się\nw deszczu pod okapami domów. Do\ndopingowania używa pomponów z iskier.
+Jego niechęc do wody sprawia, że chroni\nsię pod okapem domów podczas deszczu.\nUżywa on pompek z iskier do dopingu.
 Żyje wokół czystych stawów. W nocy\ntylne światła się zapalają. Rozmawia z\ninnymi, błyskając swym światłem.
 Prowadzi VOLBEATA do rysowania znaków\nna nocnym niebie. Są naukowcy, którzy\nbadają wzorce, które tworzy.
-Jej kwiaty wydzielają relaksujący zapach. Im silniejszy aromat, tym\nzdrowsza jest\nRoselia.
+Jego kwiaty wydzielają relaksujący\nzapach. Im silniejszy jest aromat, tym\nzdrowsza jest ROSELIA.
 Nie ma nic czego żołądek nie strawi.\nPodczas trawienia wydalane są\nobrzydliwe, przytłaczające gazy.
-Może połknąć oponę w całości jednym\nhaustem. Wydziela potwornie toksyczny\npłyn z porów na jego ciele.
-Żyje w masywnych rzekach przepływających przez\ndżunglę. Rojem otaczają zdobycz, która\nwkracza na jego terytorium.
-Łuskacz mórz, ma kły, które przebijają\nsię przez żelazo. Płynie on, tryskając\nwodą ze swojego tylu.
+Może połknąć całą oponę jednym haustem.\nWydziela strasznie toksyczny płyn\nz porów na ciele.
+Żyje on w rzekach biegnących\nprzez dżungle. Roi się od ofiary,\nktóra wkracza na jego terytorium.
+Drab mórz, ma kły, które mogą schrupać\nstal. Pływa poprzez wystrzeliwanie wody\nze swojego tyłu.
 Gdy zasysa dużą ilość wody morskiej,\nstaje się jak wielka sprężysta piłka.\nCodziennie spożywa tonę jedzenia.
 Jest to jeden z największych POKéMONÓW.\nStada żerują w paczce, a potem połykają\nofiarę jednym haustem.
 Magma prawie 2200 stopni Fahrenheita\nprzechodzi przez jego ciało. Kiedy robi \nsię zimno, magma twardnieje i spowalnia.
 Gdy jest rozgniewany, grzbiety wybuchają\npod prysznicem roztopionej lawy. Żyje\non w kraterach wulkanów.
 Spala węgiel w swojej skorupie. Jeśli\nzostanie zaatakowany, uderza w gęsty,\ndym i ucieka.
 Najwyraźniej umrze, jeśli przestanie\npodskakiwać. Na głowie nosi perłę od\nClamperla.
-Może uzyskać kontrolę nad wrogami\nwykonując dziwne kroki taneczne.\nCzarne perły na czole są klejnotami.
+Może uzyskać kontrolę nad wrogami\nwykonując dziwne kroki taneczne.  \nCzarne perły na czole są klejnotami.
 Nie mówi się, że dwie SPINDY mają\nidentyczne wzory. Powoduje zamieszanie\nwrogów swoimi ruchami.
-Żyje na suchych pustyniach. Robi\npochyłą pułapkę w piasku, gdzie\ncierpliwie oczekuje ofiary.
+Żyje na suchych pustyniach. Tworzy\nopadającą pułapkę w piasku, gdzie cierpliwie\nczeka na zdobycz.
 Generuje fale ultradźwiękowe gwałtownie\ntrzepocząc skrzydłami. Po zemdleniu\nofiary topi ofiarę trującym kwasem.
 Ukrywa się, zdmuchując skrzydłami pustynny\npiasek. Czerwone osłony chronią oczy przed\npiaskiem.
-Preferuje trudne środowiska, takie jak\npustynie. Może przetrwać 30 dni z\nwodą przechowywaną w ciele.
-Żyje na pustyniach. Aktywuje się w\nnocy, gdy poluje na zdobycz wyczerpaną\ngorącem pustyni.
+Preferuje trudne warunki, takie jak pustynie. Może przetrwać\n30 dni\nna wodzie zmagazynowanej w swoim ciele.
+Żyje on na pustyniach. Uaktywnia się w\nnocy, kiedy poluje na ofiarę wyczerpaną\ngorącą pustynią.
 Stale unosi swoje bawełniane skrzydła.\nJeśli chce się umyć od piasku,\nzamacza się w wodzie.
-Jeśli słyszysz piękną melodie trylującą\ngłęboko wśród gór, z dala od ludzi, to\njest nucenie ALTARII.
+Jeśli słyszysz piękną melodię, która rozlega\nsię głęboko w górach daleko od ludzi,\nto jest buczenie Altarii.
 Jeśli natknie się na SEVEPERA, jego\nfutrzaste łapy przejmują jego pozę\nbojową. Jego ostre pazury są jego bronią.
 Wyostrza swój mieczopodobny ogon na\ntwardych skałach. Chowa się w wysokiej\ntrawie i uderza jadowitymi kłami.
 Jego zdrowie odpływa i płynie wraz z\ncyklem księżycowym. Pełni moc po\nwystawieniu na działanie księżyca w pełni.
@@ -1124,14 +1124,14 @@ Jest rodzajem progenitora POKéMON.\nUżywa swoich przedłużających się pazur
 Chroniony przez twardą skorupę, jego\nciało jest bardzo mocne. Szaszłyki\ndrapieżne z pazurami.
 Ze względu na swój brzydki wygląd,\njest ignorowany przez badaczy. Żyje w\nstawach zatkanych chwastami.
 Milotic jest\nzapierający dech w piersiach piękny. Mówi się, że ci, którzy go widzą, zapominają o swoich konkurencyjnych\nduchach.
-Ma zdolność zmiany formy na słońce,\ndeszcz lub chmurę śniegu, w zależności\nod występującej pogody.
+Ma zdolność zmiany formy w słońce,\ndeszcz lub chmurę śnieżną, w\nzależności od pogody.
 Zmienia kolor ciała, by wtopić się w\notoczenie. Zmienia także kolor, jeśli\njest szczęśliwy lub smutny.
 Uwielbia karmić się uczuciami, takimi jak\nzazdrość i złośliwość. Jego pionowy\nróg chwyta emocje.
 Silne uczucie nienawiści zmieniło\nmarionetkę w POKéMONA. Jeśli otwiera\nusta, przeklęta energia ucieka.
 Stając się niewidocznym, cicho podkrada\nsię do ofiary. Ma zdolność prześlizgnięcia\nsię przez ściany.
 Jego ciało jest całkowicie puste. Kiedy\notwiera usta, wciąga wszystko tak, jakby\nbyła czarna dziura.
 Żyje w tropikalnej dżungli. Pęczek\nowoców na jego szyi jest pyszny. Owoce\nrosną dwa razy w roku.
-Podróżuje jeżdżąc na wiatrach. Sprytnie\nwykorzystuje swój długi ogon, aby zrywać\norzechy i jagody, które zjada.
+Podróżuje z wiatrem. Sprytnie używa swojego\ndługiego ogona do zrywania orzechów\ni jagód, które uwielbia jeść.
 Pojawia się, kiedy wyczuwa nadchodzącą\nklęskę żywiołową. W rezultacie został\nbłędnie uznany za zagładę.
 Ma tendencje do poruszania się w paczce.\nGromadzą się w ciasnej grupie,\nby spać w jaskini.
 Mówi się, że dom odwiedzany przez\nSNORUNTA będzie prosperować. Może\nwytrzymać w minus 150 stopni Fahrenheita.
