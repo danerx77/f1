@@ -134,7 +134,7 @@ Hej, co? Wytrącasz mnie z rytmu!\nMasz trochę ŻETONÓW i spadaj!
 Hej! Masz już bardzo\ndużo ŻETONÓW!
 Sztuka polega na obserwowaniu\nrolek.
 Pilnuję tego plakatu!\nSpadaj, bo oberwiesz!
-Ojej!
+Nie!
 KRYJÓWKA ZESPOŁU R mogła\nzostać odkryta!\pLepiej powiem SZEFOWI!
 Hej!\pPrzełącznik za plakatem!?\nWciśnijmy go!
 Potrzebujesz ETUI…
@@ -286,7 +286,7 @@ POKéMONY do Lv. 50 będą ci\nposłuszne.\pDotyczy to też outsiderów\notrzyma
 Statystyka OBRONY twoich\nPOKéMONÓW lekko wzrasta.\pPozwala też używać techniki\nSURFOWANIA poza walką.
 POKéMONY do Lv. 70 będą ci\nposłuszne.\pDotyczy to też outsiderów\notrzymanych w wymianach.\pPOKéMONY wyższych poziomów\nmogą nadal sprawiać problemy.\pPozwala ci też używać techniki\nŁUPACZ SKAŁ poza walką.
 Statystyki SP. ATK i SP. OBR\ntwoich POKéMONÓW lekko wzrastają.\pPozwala też używać techniki\nWODOSPADU poza walką.
-Wszystkie POKéMON będą cię posłuszne!
+Wszystkie POKéMON będą cię\nposłuszne!
 <<< FILE: maps/CeruleanCity_House2/text.inc >>>
 Ci okropni ROCKETSI!\pZobacz co zrobili z moim\ndomem!\pI jeszcze ukradli TM uczący\nPOKéMONY jak KOPAĆ dziury!\pChciałem go użyć na moim MANKEYU\nalbo SANDSHREW…\pKosztowało mnie to wiele nerwów!
 Zrozumiałem, że nie ma co płakać\pnad rozlanym mlekiem.\nNauczę je KOPAĆ bez TM.
@@ -301,7 +301,7 @@ Och, och!\nTe wieści!\pHmm…\pTo niesamowite!\nCo za niesamowita wiadomość!\
 To wstyd nie dzielić się takimi\nwiadomościami z innymi…\pChciałbym móc komuś to powiedzieć…\nNiech inni się dowiedzą…
 Ach, rozniosłeś dla mnie wieści?\pDobre nowiny stają się cenne, gdy\njest je z kim dzielić.\pW ramach podziękowania, proszę cię,\nweź ten prezent!
 Rozniosłeś wiadomości?\nWspaniale!\pTa informacja musi być zachwycona,\nwiedząc, że tak się przemieszcza.\pJestem tego pewien!\pPrzyjmij to w dowód\nwdzięczności mojej i wiadomości.\pDam ci więcej JAGÓD niż daję\nzazwyczaj.
-Bardzo lubię słuchać najróżniejszych\ninformacji.\pTak, bardzo się cieszę!\nNie będzie mi się nudzić.
+Bardzo lubię słuchać \nnajróżniejszych informacji.\pTak, bardzo się cieszę!\nNie będzie mi się nudzić.
 Hm? \nTwój WOREK NA JAGODY jest pełen.\pNo to nie ma prezentu.
 <<< FILE: maps/CeruleanCity_House5/text.inc >>>
 Przygotowuję różne leki z\nJAGODOWEGO PROSZKU.\pDzięki JAGODOWEMU PROSZKOWI, mogę\nprzyrządzić każdy rodzaj leku.\pPowiedz mi, interesujesz się\nmoże JAGODAMI?
@@ -313,7 +313,7 @@ Czy przyniosłeś mi\ntrochę JAGODOWEGO PROSZKU?
 Na co chciałbyś go\nwymienić?
 Rozumiem, chcesz wymienić JAGODOWY\nPROSZEK za {STR_VAR_1}?
 Hm? Masz za mało\nJAGODOWEGO PROSZKU.
-Zaiste, jest to świetny JAGODOWY\nPROSZEK. Będą z niego dobre leki.\pCzy chcesz wymienić więcej JAGODOWEGO\nPROSZKU na coś innego?
+Zaiste, jest to świetny JAGODOWY\nPROSZEK. Będą z niego dobre leki.\pCzy chcesz wymienić więcej \nJAGODOWEGO PROSZKU na coś innego?
 Rozumiem. Mam nadzieje,\nże jeszcze się spotkamy.
 Odwiedź mnie, gdy będziesz chciał\nwymienić PROSZEK.
 <<< FILE: maps/CeruleanCity_Mart/text.inc >>>
@@ -321,22 +321,22 @@ ODGANIACZ nie tylko odgania robaki,\ndziała też na słabe POKéMONY.\pUmieść
 Słyszałeś o CUKIERKU?\nNie sprzedają go w sklepach.\pPodobno powoduje, że POKéMON\nrośnie nagle w szybkim tempie.
 <<< FILE: maps/CeruleanCity_PokemonCenter_1F/text.inc >>>
 Ten BILL!\pPodobno dla zdobycia rzadkich\nPOKéMONÓW zrobi wszystko!\pA podobno nie jest taki skory\ndo robienia czegoś dla kogoś.
-Słyszałeś o BILLU?\pWszyscy nazywają go\pPOKéMANIAKIEM!\nMyślę, że ludzie są zwyczajnie\pzazdrośni o jego kolekcję.\nKto nie chciałby mieć takich POKéMONÓW?
+Słyszałeś o BILLU?\pWszyscy nazywają go\nPOKéMANIAKIEM!\pMyślę, że ludzie są zwyczajnie\nzazdrośni o jego kolekcję.\pKto nie chciałby mieć takich \nPOKéMONÓW?
 BILL ma wiele POKéMONÓW!\nZbiera też te rzadkie!
 Może pójdziesz na górę i spróbujesz\nwymienić się POKéMONAMI z kumplami?\pWymieniając się można zdobyć\nwiele różnych POKéMONÓW.\pNo i stworki z wymiany szybko\nrosną.
 <<< FILE: maps/CinnabarIsland/text.inc >>>
 Drzwi są zamknięte…
-BLAINE z SALI CINNABAR to stary\nkoleś.\pŻył na tej wyspie już wtedy, gdy nie\nbyło tu jeszcze LABORATORIUM.
+BLAINE z SALI CINNABAR \nto stary koleś.\pŻył na tej wyspie już wtedy, gdy \nnie było tu jeszcze LABORATORIUM.
 Naukowcy przeprowadzali\ndoświadczenia w spalonym budynku.\pWiesz, w tym, który nazywano\nDWOREM POKéMONÓW.
 WYSPA CINNABAR\nOgniste Miasto Płonących Pasji
 LAB.POKéMON
 SALA POKéMON WYSPY CINNABAR\nLIDER: BLAINE\lGorący Mistrz Quizów!
 Co?\nHej, czyż to nie {PLAYER}!
-Tak, to ja, BILL!\nKopę lat!\pMam nadzieję, że nadal używasz\nmojego systemu PC.\pNo nieważne. Skoro już się\nspotkaliśmy, może wybierzesz\psię ze mną?\nNa południu znajduje się taka mała\pwyspa nazywana WYSPĄ ONE.\nZaprosił mnie tam przyjaciel, więc\pwłaśnie tam płynę.\nWięc jak? Czy chcesz się ze mną wybrać?
+Tak, to ja, BILL!\nKopę lat!\pMam nadzieję, że nadal używasz\nmojego systemu PC.\pNo nie ważne. Skoro już się\nspotkaliśmy, może wybierzesz\psię ze mną?\pNa południu znajduje się taka mała\nwyspa nazywana WYSPĄ ONE.\pZaprosił mnie tam przyjaciel, więc\nwłaśnie tam płynę.\pWięc jak?\nCzy chcesz się ze mną wybrać?
 To świetnie!\nRuszajmy!
 Co, jesteś zbyt zajęty?\pNo dobra.\nŁódź i tak jeszcze nie przypłynęła.\pBędę czekał przy tym CENTRUM\nPOKéMONÓW. Wpadnij do\pmnie, gdy zrobisz już to,\nco cię tu zatrzymuje.
 Wygląda na to, że to nasza\nłódź.\pWysłał ją specjalnie na CINNABAR,\nby mnie podwieźć.
-Hej, to była długa podróż, co?\pMój kumpel CELIO bardzo dobrze\nsię bawił.\pJestem pewien, że chętnie przyjmie\ncię znowu do siebie.\pMając TRÓJ-BILET zawsze będziesz\nmógł wybrać się na tam z\lPORTU W VERMILION.\pNo to świetnie, dziękuję za towarzystwo!
+Hej, to była długa podróż, co?\pMój kumpel CELIO bardzo dobrze\nsię bawił.\pJestem pewien, że chętnie przyjmie\ncię znowu do siebie.\pMając TRÓJ-BILET zawsze będziesz\nmógł wybrać się na tam z\pPORTU W VERMILION.\pNo to świetnie, dziękuję za\ntowarzystwo!
 <<< FILE: maps/CinnabarIsland_Gym/text.inc >>>
 Hah!\pJestem BLAINE, gorący LIDER\nSALI w CINNABAR!\pMoje ogniste POKéMONY są twarde i\ngotowe na gorący pojedynek!\pPrzyjmą każde wyzwanie!\pHah!\nLepiej zaopatrz się w LEK OPARZEŃ!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}
 Pomysł spalił na panewce!\nNie ostał się nawet popiół!\pZarobiłeś tą ODZNAKĘ WULKANU.
@@ -359,7 +359,7 @@ Za gorąco!
 Gdyby istniały, używałbym\nPOKéMONÓW złodziei!
 Wiem czemu BLAINE został\nTRENEREM.
 Oł!
-Nasz LIDER, BLAINE, zgubił się\nkiedyś w górach.\pGdy zapadła noc, pojawił się ognisty\nptasi POKéMON.\pJego światło pozwoliło BLAINE'OWI\nodnaleźć drogę na dół.
+Nasz LIDER, BLAINE, zgubił się\nkiedyś w górach.\pGdy zapadła noc, \n pojawił się ognisty ptasi POKéMON.\pJego światło pozwoliło BLAINE'OWI\nodnaleźć drogę na dół.
 Byłem w wielu SALACH, ale ta\npodoba mi się najbardziej.
 Ała!\nZa gorąco!
 PONYTA, NINETALES…\nTo popularne OGNISTE POKéMONY.
@@ -381,7 +381,7 @@ Bardzo dobrze!\pMożesz przejść dalej!
 Przykro mi!\nŹle!
 <<< FILE: maps/CinnabarIsland_Mart/text.inc >>>
 Czy nie mają tu X ATAK?\pLubię go, bo zwiększa w walce\nstatystykę ATAKU.
-Nie zaszkodzi mieć zapasu przedmiotów.\nKto wie, co się wydarzy?
+Nie zaszkodzi mieć \nzapasu przedmiotów.\pKto wie, co się wydarzy?
 <<< FILE: maps/CinnabarIsland_PokemonCenter_1F/text.inc >>>
 Chciałam odwiedzić SALĘ w CINNABAR,\nale drzwi są zamknięte.\pGdzieś tu musi być jakiś\nklucz albo coś.\pMoże leży gdzieś w tej\nspalonej posiadłości?\pPonoć mieszkał tam kiedyś\nprzyjaciel LIDERA SALI.
 Masz wielu przyjaciół?\pŁączenie się ze znajomymi jest\nzabawne, to fakt.\pAle może spróbujesz kiedyś\nodwiedzić UNION ROOM?\pKto wie, może w ten sposób poznasz\njakiś nowych przyjaciół.\pMyślę, że warto zaryzykować\ni skorzystać z UNION ROOM.
@@ -412,7 +412,7 @@ Więc!\nSzybko, dawaj mi ją!\p{FONT_NORMAL}{PLAYER} przekazał\n{STR_VAR_2} dzi
 To zajmie chwilkę!\nMożesz iść się gdzieś przejść!
 Ajach!\nZnowu jesteś!
 <<< FILE: maps/CinnabarIsland_PokemonLab_Lounge/text.inc >>>
-Znalazłem tą nadzwyczajną skamielinę\nwewnątrz GÓRY MOON.\pTo ślad po prehistorycznym\nPOKéMONIE.
+Znalazłem tą nadzwyczajną\n skamielinę wewnątrz GÓRY MOON.\pTo ślad po prehistorycznym\nPOKéMONIE.
 <<< FILE: maps/CinnabarIsland_PokemonLab_ResearchRoom/text.inc >>>
 EEVEE może ewoluować w trzy\nróżne POKéMONY.
 Wiadomość e-mail.\p… … …\pIstnieją trzy legendarne POKéMONY\nptaki.\pSą to ARTICUNO, ZAPDOS i MOLTRES.\nIch miejsce pobytu jest nieznane.\pPlanujemy zbadać jaskinie w okolicy\pmiasta CERULEAN.\nOd: ZESPÓŁ BADAWCZY POKéMON…
@@ -423,7 +423,7 @@ Wszedłem do TUNELU SKAŁ, ale\njest tam strasznie ciemno!\pGdybym mógł znale�
 Och, czy to nie niespodzianka!\nDIGLETTY wykopały ten tunel!\pPodobno prowadzi prosto do\nVIRIDIAN CITY.
 <<< FILE: maps/FiveIsland/text.inc >>>
 WYSPA FIVE\nWyspa Chrono: Gdzie Czas Płynie
-Och, kurcze. Chciałem sobie pograć\nna ŁĄCE.\pNiestety, postawili tam jakiś dziwny\nbudynek, więc mój pomysł padł.
+Och, kurcze. Chciałem sobie pograć\nna ŁĄCE.\pNiestety, postawili tam jakiś \ndziwny budynek,\pwięc mój pomysł padł.
 Zrobiło się tu ostatnio dość\ntłoczno.\pOstatnio nie udaje mi się też\nłapać żadnych ryb.
 <<< FILE: maps/FiveIsland_House1/text.inc >>>
 こんばんの　おかずは\nようい　しなくて　いいぞ！\pって　だんなが\nつりに　いったん　だけど‥\lしんじて　いいのかねえ
@@ -469,7 +469,7 @@ Radością wypełnia mnie, gdy\nmoje POKéMONY dobrze się bawią…
 Drap, drap…
 Witaj…\nTwoje POKéMONY są zdrowe…
 Tu pochowałem swojego ONIXA…\nMiał na imię TECTONIX…
-Napis na kamieniu brzmi:\n“Tu leży TECTONIX”.\pPrzy grobie, ktoś umieścił LEMONIADĘ\njako symbol zjednoczenia.
+Napis na kamieniu brzmi:\n“Tu leży TECTONIX”.\pPrzy grobie, ktoś umieścił \nLEMONIADĘ jako symbol zjednoczenia.
 Czy chcesz zostawić tu swoją\nLEMONIADĘ?
 {PLAYER} umieszcza puszkę LEMONIADY\nna grobie.
 Dz-dziękuję…\pTo był ulubiony napój mojego\nTECTONIXA…\pNie znam cię, ale twój akt\nzjednoczenia…\pPodniósł mnie lekko na duchu.\pCzy możesz to wziąć jako\npodziękowanie?
@@ -480,7 +480,7 @@ Drap, drap…\p… … …\nTECTONIX…
 Kamienie i głazy ułożone są tu\nformując kopiec.\p“Tu leży TECTONIX” głosi napis na\nkamieniu.
 <<< FILE: maps/FiveIsland_PokemonCenter_1F/text.inc >>>
 Staram się przygotować posiłek\ndla wysoko postawionej osobistości.
-Masz za zadanie złapać wszystkie\ngatunki POKéMONÓW?\p…Niesamowite. Powiedz mi, jeżeli uda\nci się złapać silnego!
+Masz za zadanie złapać wszystkie\ngatunki POKéMONÓW?\p…Niesamowite. \nPowiedz mi, jeżeli uda\pci się złapać silnego!
 <<< FILE: maps/FiveIsland_ResortGorgeous/text.inc >>>
 Tymi dłońmi, wykreuję swoje\nzwycięstwo!
 Co za wstyd…\nZaczerwieniłam się…
@@ -509,7 +509,7 @@ DOM SELPHY
 SELPHY: Och?\nCzy my się skądś nie znamy?\pOch, ale to nieważne.\pJestem potwornie znudzona.\nProszę, wysłuchaj mnie.
 Chciałabym zobaczyć POKéMONA.\nSłodkiego {STR_VAR_1}.\pBardzo mi na tym zależy.\nProszę, spełnij moje życzenie.
 SELPHY: Mam tego dość.\nMam dość czekania na ciebie.\pTym razem ci wybaczę, ale\nproszę, nie zawiedź mnie następnym\prazem.
-SELPHY: Och, witaj.\pO, niebiosa! To musi być ten\n{STR_VAR_1}, którego dla mnie złapałeś.\pHihihi…\nWidzę między wami pewne podobieństwo.\pWielkie dzięki.\p… …  … …  … …\nCzy coś jest nie tak?\pMożesz odejść.\p… …  … …  … …\nOch, tak. Rozumiem.\pSEBASTIANIE!\nPotrzebuję cię tu natychmiast!
+SELPHY: Och, witaj.\pO, niebiosa! To musi być ten\n{STR_VAR_1}, którego dla mnie złapałeś.\pHihihi…\nWidzę między wami\p pewne podobieństwo.\pWielkie dzięki.\p… …  … …  … …\nCzy coś jest nie tak?\pMożesz odejść.\p… …  … …  … …\nOch, tak. Rozumiem.\pSEBASTIANIE!\nPotrzebuję cię tu natychmiast!
 Lokaj: Tak, pani.
 SELPHY: Obdaruj tego oto młodzieńca\ndowodem mojej wdzięczności.
 Lokaj: Oczywiście, jak pani każe.
@@ -534,7 +534,7 @@ Nie wiem i nie obchodzi mnie, czy\nto co robię jest złe, czy dobre…\pWierzę
 Jestem…\nzałamana…
 Ty też robisz rzeczy według\ntego, w co wierzysz.\pWłaśnie to zrozumiałam…
 Zrobiłam to, byś mógł tędy\nwrócić.\pMoże pójdziesz odpocząć, a potem\nodświeżony wrócisz drążyć dalej?\pDOWÓDCA za mną jest dużo\nlepszy jako TRENER niż ja.\pLepiej przygotuj się na\npoważne wyzwanie.
-Dość tego zgrywania bohatera\nmaluchu.\pRozpowszechnianie kłamstw na temat\nrozpadu ZESPOŁU R…\pTo czysta prowokacja i sposób na\nsianie zamieszania w naszej grupie.\pNa szczęście, nie jesteśmy tak głupi,\nby uwierzyć w kłamstwa dzieciaka!\pA teraz pokażę ci, jaki zły i\nstraszny może być dorosły!
+Dość tego zgrywania bohatera\nmaluchu.\pRozpowszechnianie kłamstw na temat\nrozpadu ZESPOŁU R…\pTo czysta prowokacja i sposób na\nsianie zamieszania w naszej grupie.\pNa szczęście, \nnie jesteśmy tak głupi,\pby uwierzyć w kłamstwa dzieciaka!\nA teraz pokażę ci, jaki zły i\pstraszny może być dorosły!
 Urg…\nJesteś zbyt silny…\p…\nT-to ODZNAKA GIOVANNIEGO!\pWięc to prawda?\nZESPÓŁ R naprawdę się rozpadł?
 Opuścimy ten SKŁAD…\pAle nie myśl, że to koniec.\nNie pozwolę, żeby to się tak\pskończyło.\nZnajdę GIOVANNIEGO.\lA następnie wskrzeszę ZESPÓŁ R!\pTak zrobię…Ale na razie, znikam!
 Na monitorze widnieje jakiś\nraport z wykresami.\p“Wpływ Fal Magnetycznych na\nEwolucje POKéMONÓW”…\p… … … … … …\pJest zbyt skomplikowany, by\ngo zrozumieć…
@@ -548,19 +548,19 @@ Podróżujesz po całej krainie,\nczyż nie?\pNie przemęczasz swoich POKéMONÓ
 Ach, hmm…\nRozumiem, Rozumiem…
 Wspaniale.\nŚwietnie traktujesz swoje POKéMONY.\pSądzę więc, że mogę ci to\npowierzyć.\pProszę, weź to ze sobą.
 {PLAYER} dostaje JAJO\nod mężczyzny!
-…Niestety, nie masz na to\nmiejsca w drużynie.\pByłoby miło, gdybyś zrobił miejsce i\nwrócił innym razem.
+…Niestety, nie masz na to\nmiejsca w drużynie.\pByłoby miło, gdybyś zrobił\n miejsce i wrócił innym razem.
 やあ\nタマゴを　もらいに\lきて　くれたんだね
 Dostałem to JAJO podczas jednej\nz podróży.\pWspaniale, że cię spotkałem.
-Och, witaj.\nJaki słodki {STR_VAR_2}.\pPatrząc tak na niego, przypomina\nmi się pewna dziewczyna, którą poznałem.\pByła jak słodki POKéMONEK…\nMalutki aniołek.\pImię tej małej dziewczynki…\nNazywała się chyba DAISY.
+Och, witaj.\nJaki słodki {STR_VAR_2}.\pPatrząc tak na niego, przypomina\nmi się pewna dziewczyna,\p którą poznałem.\nByła jak słodki POKéMONEK…\pMalutki aniołek.\nImię tej małej dziewczynki…\pNazywała się chyba DAISY.
 To wspaniałe otoczenie do\ntrenowania POKéMONÓW.
 Twoje POKéMONY bardzo szybko\nrosną!
 Wiesz, myślę, że masz wielki\ntalent do bycia HODOWCĄ.
 <<< FILE: maps/FourIsland/text.inc >>>
 WYSPA FOUR\nWyspa Błękitnych Kier
 LORELEI powróciła.\pCiekawe, czy uznała, życie\nmiasta za zbyt stresujące.
-LORELEI wróciła do domu.\pLAPRAS, z którym przybyła, to chyba\nten sam, którego spotkała jako dziecko.\pSądzę, że złapała go w\nJASKINI LODOSPADU.\pPewnie ten POKéMON żyje z nią od\ntamtych czasów.
+LORELEI wróciła do domu.\pLAPRAS, z którym przybyła, to chyba\nten sam,\p którego spotkała jako dziecko.\nSądzę, że złapała go w\pJASKINI LODOSPADU.\nPewnie ten POKéMON żyje z nią od\ptamtych czasów.
 {RIVAL}: Hej!\n{PLAYER}!\pCo robisz na WYSPACH SEVII?\nWiesz, że powinieneś przestać za\pmną łazić, gnojku?\nNo nie ważne, dostałem już swoje\pJAJO POKéMONA, więc spadam z\ntej wyspy.\pHeh, Pewnie nawet nie wiesz co\nto jest POKé JAJO.\pNigdy w ten sposób nie wypełnisz\nNARODOWY POKéDEX.\pPrzy okazji, widziałem tu kogoś,\nkogo znamy oboje.\pMoże się rozejrzysz i zaspokoisz\nswoją ciekawość?\pA ja, nie mam już czasu\ndo stracenia.\pSpadam!
-Och, znalazłeś mnie!\nProszę, nie mów LORELEI.\pWiedziałeś, że LORELEI ma bardzo\ndużo wypchanych lalek?\pZa każdym razem, gdy wraca z\nWYSPY FOUR, jej kolekcja powiększa się!
+Och, znalazłeś mnie!\nProszę, nie mów LORELEI.\pWiedziałeś, że LORELEI ma bardzo\ndużo wypchanych lalek?\pZa każdym razem, gdy wraca z\nWYSPY FOUR,\p jej kolekcja powiększa się!
 Och, świetnie!\pRobię błotko z lodu, które\nobłupałem z JASKINI LODOSPADU.\pTo świetna zabawa!
 DOM LORELEI
 <<< FILE: maps/FourIsland_House1/text.inc >>>
@@ -572,7 +572,7 @@ Proszę!\nJesteś strasznie ciężki!
 <<< FILE: maps/FourIsland_IcefallCave_Back/text.inc >>>
 LORELEI: Zabieraj swoje brudne\nłapska od POKéMONA z jaskini!\pRób co mówię albo odpowiesz\nprzede mną!
 Aww, przestań i daj nam\nspokój.\pNie pozwól, żeby zaparowały ci\nokulary!
-LORELEI: {PLAYER}?!\nCo ty tu robisz?\pNie, dogonimy ich później.\nTeraz potrzebuję twojej pomocy.\pPomóż mi zająć się tymi kłusownikami\nzanim narobią więcej kłopotów.\pŁapią tu POKéMONY, a\nnastępnie odsprzedają z zyskiem!\pJesteś gotów?\nZajmij się proszę, tym jednym!
+LORELEI: {PLAYER}?!\nCo ty tu robisz?\pNie, dogonimy ich później.\nTeraz potrzebuję twojej pomocy.\pPomóż mi zająć się tymi\n kłusownikami zanim\pnarobią więcej kłopotów.\pŁapią tu POKéMONY, a\nnastępnie odsprzedają z zyskiem!\pJesteś gotów?\nZajmij się proszę, tym jednym!
 C-co?!\pKto powiedział, że nie możemy robić\nco nam się podoba?
 Tego nie planowałem!
 LORELEI: Hump.\nTacy oni słabi.\pTy!\nPowiedz mi!\pGdzie są złapane\nPOKéMONY?\pTrzeba z tym skończyć raz\nna zawsze!
@@ -582,8 +582,8 @@ LORELEI: Jeśli się nie przyznasz,\nzamrozimy cię!\pLAPRAS jest wściekły za 
 {PLAYER}, dziękuję.\nTo potworne…\pUrodziłam się i wychowałam na tych\nwyspach.\pNie miałam pojęcia, że te potworne\nkreatury się tu panoszą…
 <<< FILE: maps/FourIsland_LoreleisHouse/text.inc >>>
 LORELEI: Gryzie mnie bardzo ciężka\nwizja przyszłości.\pGdyby coś stało się wyspie,\nna której się wychowałam…\pNie wiedziałabym tego, będąc w\nLIDZIE POKéMONÓW.\pCzy to zwolniłoby mnie od\nodpowiedzialności za mój dom…
-LORELEI: Więc, rozwiązałeś wszystkie\nproblemy wyspy?\pTo wspaniale.\pTo oznacza, że nie ma żadnych powodów,\nżebym tu cały czas przebywała.\pDziękuję…\pW takim razie za chwilę powrócę do\nLIGI POKéMON.
-Nie wiem co stanie się w\nprzyszłości, ale…\pZrobię co tylko w mojej mocy tu i teraz.\nTyle mogę pomóc.
+LORELEI: Więc, rozwiązałeś\nwszystkie problemy wyspy?\pTo wspaniale.\pTo oznacza, że nie ma żadnych \npowodów, żebym\ptu cały czas przebywała.\pDziękuję…\pW takim razie za chwilę powrócę do\nLIGI POKéMON.
+Nie wiem co stanie się w\nprzyszłości, ale…\pZrobię co tylko w mojej \nmocy tu i teraz. Tyle mogę pomóc.
 Pełno wypchanych POKé LALEK!
 <<< FILE: maps/FourIsland_Mart/text.inc >>>
 Wychowaliśmy na tej wyspie\nwspaniałego i potężnego TRENERA.\pNa pewno ją znasz.\nTo LORELEI z ELITARNEJ CZWÓRKI!\pGdy LORELEI była jeszcze bachorem,\nsam uczyłem ją o POKéMONACH.
@@ -620,11 +620,11 @@ Ach, chciałbym być dzieckiem\nKANGASKHANA.\pChciałbym zastąpić takiego\nma�
 Och, serio?\nZASTĘPCA jest taki cool…
 Który POKéMON ma poznać\nZASTĘPCĘ?
 Kurcze, co bym oddał, żeby wejść\ndo torby KANGASKHANA…
-Mój tata jest LIDEREM w tym\nmieście.\pTrenuję, by używać TRUJĄCYCH POKéMONÓW\ntak dobrze, jak on.
+Mój tata jest LIDEREM w tym\nmieście.\pTrenuję, by używać \nTRUJĄCYCH POKéMONÓW\ptak dobrze, jak on.
 <<< FILE: maps/FuchsiaCity_Gym/text.inc >>>
 KOGA: Łahahaha!\pTaki dzieciak jak ty chce\nmnie wyzwać?\pTen pomysł wydaje mi się\nzwyczajnie śmieszny!\pNiech będzie, pokażę ci prawdziwy\nterror mistrza ninja.\pTrucizna przynosi pewną śmierć.\nSen pozostawia wroga bezbronnym.\pKłaniaj się przed potęgą\nTRUJĄCYCH POKéMONÓW!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}
 Heh!\nPokazałeś co potrafisz!\pBierz!\nOto ODZNAKA DUSZY!
-Gdy raniony TOKSYNAMI, POKéMON\ncierpi coraz bardziej.\pIm dłuższa walka, tym\nwiększe obrażenia zadaje!\pZ pewnością sterroryzuje twych wrogów!
+Gdy raniony TOKSYNAMI, POKéMON\ncierpi coraz bardziej.\pIm dłuższa walka, tym\nwiększe obrażenia zadaje!\pZ pewnością sterroryzuje twych\nwrogów!
 Teraz, skoro masz ODZNAKĘ DUSZY,\nwzrasta OBRONA twoich POKéMONÓW.\pPozwala też używać SURFOWANIA\npoza walką.\pAch!\nWeź jeszcze to!
 {PLAYER} dostaje TM06\nod KOGI.
 Wewnątrz TM06 drzemie ruch\nTOKSYNY!\pTo sekretna technika datowana na\nkilka wieków wstecz.
@@ -660,7 +660,7 @@ Jestem starszym bratem\nRYBACKIEGO GURU.\pKocham łowić!\nNie mogę żyć bez m
 Słodko! Podoba mi się twój styl.\nBędziemy kumplami.\pWeź to i wędkuj, mały przyjacielu!
 {PLAYER} dostaje DOBRĄ WĘDKĘ od\nbrata RYBACKIEGO GURU.
 Łowienie to styl życia!\nJest jak najwspanialsza poezja.\pBeznadziejna STARA WĘDKA łapie\ntylko MAGIKARPIE, co?\pDOBRĄ WĘDKĄ łowi się\nznacznie lepsze okazy.
-Och…\nZawiodłeś mnie…
+Och…\nZawodzisz mnie…
 Witaj, {PLAYER}!\pJak tam ryby, biorą?
 O, nie!\pChciałem dać ci prezent, ale nie\nmasz miejsca!
 <<< FILE: maps/FuchsiaCity_House3/text.inc >>>
@@ -705,8 +705,8 @@ Ach hak heci?\nHemby ha strehie!
 Ha?\nNo ohej heh ha hoo ee haheh!
 {PLAYER} daje ZŁOTE ZĘBY\nDYREKTOROWI.
 DYREKTOR włożył zęby!
-DYREKTOR: Dzięki, mały!\nRatujesz mi życie!\pNikt nie mógł zrozumieć ani\njednego słowa, ani jednego!\pWstydziłem się pokazać w takim\nstanie w moim BIURZE.\pPozwól, że dam ci coś specjalnego za\nfatygę.
-DYREKTOR: Dzięki, malutka!\nRatujesz mi życie!\pNikt nie mógł zrozumieć ani\njednego słowa, ani jednego!\pWstydziłem się pokazać w takim\nstanie w moim BIURZE.\pPozwól, że dam ci coś specjalnego za\nfatygę.
+DYREKTOR: Dzięki, mały!\nRatujesz mi życie!\pNikt nie mógł zrozumieć ani\njednego słowa, ani jednego!\pWstydziłem się pokazać w takim\nstanie w moim BIURZE.\pPozwól, że dam ci coś specjalnego \nza fatygę.
+DYREKTOR: Dzięki, malutka!\nRatujesz mi życie!\pNikt nie mógł zrozumieć ani\njednego słowa, ani jednego!\pWstydziłem się pokazać w takim\nstanie w moim BIURZE.\pPozwól, że dam ci coś specjalnego \nza fatygę.
 {PLAYER} dostaje HM04\nod DYREKTORA.
 DYREKTOR: Wewnątrz HM04 znajdziesz\nSIŁĘ.\pGdy jesteś poza walką, pozwoli\nprzesuwać głazy POKéMONOM.\pA, właśnie, czy znalazłeś SEKRETNY\nDOM w STREFIE SAFARI?
 なんや　にもつ\nいっぱいやんけ！
@@ -716,7 +716,7 @@ Wyświetlono stary towar\nPOKéMON.
 Hej!\nMistrzuniu!\pW LIDZE POKéMON musisz zmierzyć\nsię z ELITARNĄ CZWÓRKĄ po kolei.\pJeśli przegrasz, będziesz musiał\nzaczynać od nowa!\pTo wszystko!\nRuszaj!
 Teraz, zmierzysz się sam\nna sam z ELITARNĄ CZWÓRKĄ.\pWygraj, a otworzą się drzwi\ndo następnego TRENERA.
 Przykro mi, ale zmarnowałeś czas\ntu przychodząc.\pLORELEI z ELITARNEJ CZWÓRKI jest\nchwilowo nieobecna.\pCo za tym idzie, LIGA POKéMON jest\ntymczasowo nieczynna.
-Siła POKéMONÓW DUCHÓW AGATHY\njest wręcz przerażająca.\pZabrałem tam moje WALCZĄCE POKéMONY i\nnapakowałem je na maksa.\pWybrałem się do AGATHY czując się\ncałkowicie pewnie, ale rozwaliła mnie.\pTa staruszka, sama w sobie jest\nteż jak bomba.\pNie trzeba szczególnego powodu\nżeby wybuchła krzykiem.
+Siła POKéMONÓW DUCHÓW AGATHY\njest wręcz przerażająca.\pZabrałem tam moje WALCZĄCE POKéMONY\n i napakowałem je na maksa.\pWybrałem się do AGATHY czując się\ncałkowicie pewnie,\p ale rozwaliła mnie.\pTa staruszka, sama w sobie jest\nteż jak bomba.\pNie trzeba szczególnego powodu\nżeby wybuchła krzykiem.
 Może bycie członkiem ELITARNEJ\nCZWÓRKI to sprawa genów?\pSłyszałem, że LANCE jest\nkuzynem kogoś, kto jest LIDEREM\lSALI gdzieś daleko.
 <<< FILE: maps/LavenderTown/text.inc >>>
 Czy wierzysz w duchy?
@@ -739,11 +739,11 @@ Imię którego POKéMONA\npowinienem ocenić?
 Świetnie. Więc, jak powinien\nsię nazywać?
 Gotowe! Od teraz, ten POKéMON\nznany będzie jako {STR_VAR_1}!\pTo dużo lepsze imię niż te stare!\nCudownie, czyż nie?
 Rozumiem.\nWpadnij jeszcze.
-Gotowe! Od teraz, ten POKéMON\nbędzie znany jako {STR_VAR_1}!\pNie różni się niczym od poprzedniego\ni dzięki temu jest niesamowite!\pAle ty masz pomyślunek!
+Gotowe! Od teraz, ten POKéMON\nbędzie znany jako {STR_VAR_1}!\pNie różni się niczym\nod poprzedniego i\pdzięki temu jest niesamowite!\nAle ty masz pomyślunek!
 {STR_VAR_1}, czyż nie?\nTo bardzo adekwatne imię!\pOpiekuj się dobrze {STR_VAR_1}!
 No, no!\nTo zwyczajne JAJKO!
 <<< FILE: maps/LavenderTown_Mart/text.inc >>>
-Szukam przedmiotów, które zwiększają\nstatystyki POKéMONÓW.\pSą efektywne w przeciągu\npojedynczej walki.\pObiektem moich poszukiwań są\nX ATAK, X OBRONA, X SZYBKOŚĆ i\pX SPECJALNE. \nWiesz może, gdzie je zdobyć?
+Szukam przedmiotów, które \nzwiększają statystyki POKéMONÓW.\pSą efektywne w przeciągu\npojedynczej walki.\pObiektem moich poszukiwań są\nX ATAK, X OBRONA, X SZYBKOŚĆ i\pX SPECJALNE. \nWiesz może, gdzie je zdobyć?
 Czy kupiłeś OCUCACZ?\nPotrafi ocucić omdlonego POKéMONA!
 Czasami, duet TRENERÓW może\nwyzwać cię na pojedynek używając\ldwóch POKéMONÓW jednocześnie.\pWtedy i ty musisz wysłać\ndo walki dwa POKéMONY.
 この　あいだ　やまおくで\nきんのたまを　ひろい　ましてね！\pつかえない　しなもの　ですが\nうったら　なんと　5000¥でした
@@ -764,7 +764,7 @@ PAN FUJI: {PLAYER}…\pTwoja misja POKéDEKSOWA wymaga\nwielkiego poświęcenia.
 Gdy śpiący POKéMON usłyszy dźwięk\nPOKé FLETU natychmiast wstanie.\pSpróbuj użyć go na POKéMONIE,\nktóry śpi na drodze.
 Musisz zrobić na to miejsce!
 PAN FUJI: Czy pomógł ci mój\nPOKé FLET?
-POKéMON FAN MAGAZINE\nComiesięczne Losowanie Nagród!\pKupon zgłoszeniowy…\pZniknął! Został wycięty.\nPewnie ktoś inny chciał wziąć udział.
+POKéMON FAN MAGAZINE\nComiesięczne Losowanie Nagród!\pKupon zgłoszeniowy…\pZniknął! Został wycięty.\nPewnie ktoś inny \pchciał wziąć udział.
 Cała półka POKéMONOWYCH czasopism.\pPOKéMON INSIDER…\pPOKéMONFAN…
 <<< FILE: maps/MtEmber_Exterior/text.inc >>>
 Wyobrażasz sobie, co by było\ngdyby wybuchł tu wulkan?\pEksplozja zabiłaby nas\nwszystkich. Potworne, czyż nie?\pMy tu się straszymy, a\nja mogę nauczyć POKéMONA EKSPLOZJI!
@@ -941,7 +941,7 @@ CELIO: Praca poszła bardzo\nszybko.\pBILL to niesamowity gość…
 BILL: Nie, nie! Przecież nie\nbyło tu prawie nic do roboty.\pCELIO, muszę ci to przyznać.\nWiele potrafisz.
 CELIO: Och, serio?\nEhehe…
 BILL: No i dobra.\nSkończyłem tę całą robotę.\lPowinniśmy się zbierać z powrotem do\pKANTO. CELIO, do zobaczenia.
-CELIO: {PLAYER}, strasznie\nprzepraszam za pozostawienie cię\psamemu sobie.\nObiecuję, że kiedyś oprowadzę cię po wyspach.
+CELIO: {PLAYER}, strasznie\nprzepraszam za pozostawienie cię\psamemu sobie.\pObiecuję, że kiedyś oprowadzę\ncię po wyspach.
 CELIO: Witaj!\nWyglądasz na niesamowicie zajętego.\pJak mi leci?\pCóż, modyfikuję moją Sieciową\nMaszynę.\pGdy ją skończę, mam nadzieję, że\nbędziesz pierwszy, który jej użyje,\l{PLAYER}.
 CELIO: {PLAYER}, jak ci się\nżyje?\pOch, serio?\nZłapałeś dużo nowych POKéMONÓW?\pWiesz co? Sądzę, że mogę\nci w pewien sposób pomóc.
 Modyfikuję właśnie Sieciową\nMaszynę.\pPracuję nad tym, by mogła obsługiwać\nwymiany na długie dystansy.\pGdy skończę, będziesz mógł\nwymieniać egzotyczne POKéMONY\lz TRENERAMI z daleka.
@@ -968,7 +968,7 @@ Przy okazji, {PLAYER}, jesteś z\nPALLET TOWN, czyż nie?\pSłyszałem, że to b
 Och, jesteś tu nieznajomy!\nWitam! Skąd jesteś?\p…PALLET TOWN?\nNigdy o tym nie słyszałem!
 Na tej wyspie znajduje się ogromny\nwulkan.\pNie jest zbyt aktywny, więc może\ntam pospacerujesz?
 Chciałabym wymieniać się POKéMONAMI\nz moim chłopakiem z daleka…
-Wymieniam się POKéMONAMI z chłopakiem\nz daleka!\pWszyscy mówią, że to dzięki\ntobie i CELIOWI.\pWięc, dziękuję!
+Wymieniam się POKéMONAMI z \nchłopakiem z daleka!\pWszyscy mówią, że to dzięki\ntobie i CELIOWI.\pWięc, dziękuję!
 Maszyna Sieciowa\nPoziom Łącza 0\p…Sieć Zbiorcza jest\ndostosowywana…
 Maszyna Sieciowa\nPoziom Łącza 1\pNawiązano łączność z regionem\nKANTO.
 Maszyna Sieciowa\nPoziom Łącza 2\pNawiązano łączność z\nregionami HOENN i KANTO.
@@ -990,7 +990,7 @@ PALLET TOWN\nCienie przygody już czekają!
 OAK: Ach, {PLAYER}!\nJuż wróciłeś?\pJak idzie ci wypełnianie\nPOKéDEKSU?\pCzy możesz mi go pokazać?\pZobaczmy…
 Złapałeś {STR_VAR_2}…\pWygląda na to, że traktujesz swoje\nzadanie poważnie.\pGdy wypełnisz trochę więcej stron,\nnie omieszkaj mi powiedzieć.
 Złapałeś… {STR_VAR_2}!?\nNo! Jestem pod wrażeniem\pJest coś, o co chciałbym cię\npoprosić, {PLAYER}.\pProszę.\nChodź za mną.
-OAK: Ach, {PLAYER}!\nWidzę, że podoba ci się podróżowanie.\pZnając cię, {PLAYER}, mogę wyobrazić sobie ciebie w nawet\nbardziej\legzotycznych lokacjach.\pŚwietnie, świetnie.\nChocho.
+OAK: Ach, {PLAYER}!\nWidzę, że podoba ci\p się podróżowanie.\pZnając cię, {PLAYER},\n mogę wyobrazić sobie ciebie w nawet\lbardziej egzotycznych lokacjach.\pŚwietnie, świetnie.\nChocho.
 <<< FILE: maps/PalletTown_PlayersHouse_1F/text.inc >>>
 MAMA: …Tak.\nWszyscy chłopcy opuszczają dom.\lMówili tak w TV.\pNasz sąsiad, PROF. OAK, chciał z\ntobą porozmawiać.
 MAMA: …Tak. Wszystkie\ndziewczyny marzą o podróżach.\lTak mówili w TV.\pA, szukał cię nasz sąsiad,\nPROFESOR OAK.
@@ -1123,7 +1123,7 @@ No to ja wracam już do\nLABORATORIUM.\pPa-pa-pa!
 Załączono tu list…\pDrogi {PLAYER},\pOto para BUTÓW DO BIEGANIA\ndla mojego wspaniałego podróżnika.\pPamiętaj, zawsze będę na ciebie\nliczyć! Nie poddawaj się!\pOd Mamy
 <<< FILE: maps/PewterCity_Gym/text.inc >>>
 A więc jesteś. Nazywam się BROCK.\nJestem LIDEREM SALI PEWTER.\pMoja kamienna siła woli\nprzejawia się nawet w walce.\pMoje POKéMONY są twarde jak\nkamień i pełne są determinacji.\pWłaśnie tak - wszystkie moje\nPOKéMONY są KAMIENNE!\pCha! Chcesz wyzwać mnie wiedząc,\nże przegrasz?\pTo pewnie twój honor TRENERA każe\nci wyzwać mnie na pojedynek.\pDobrze więc!\nPokaż co potrafisz! {PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}
-Nie doceniłem cię, więc\nprzegrałem.\pJako dowód twojego zwycięstwa,\nwręczam ci oficjalną ODZNAKĘ GŁAZU\lLIGI POKéMON.\p{FONT_NORMAL}{PLAYER} dostaje ODZNAKĘ GŁAZU\nod BROCKA{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}\p{FONT_MALE}Samo posiadanie ODZNAKI GŁAZU zwiększa\nsiłę twoich POKéMONÓW.\pPozwala także na użycie ruchu\nBŁYSK poza walką.\pOczywiście twój POKéMON musi znać\ntechnikę BŁYSKU, by jej użyć.
+Nie doceniłem cię, więc\nprzegrałem.\pJako dowód twojego zwycięstwa,\nwręczam ci oficjalną ODZNAKĘ GŁAZU\lLIGI POKéMON.\p{FONT_NORMAL}{PLAYER} dostaje ODZNAKĘ GŁAZU\nod BROCKA{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}\p{FONT_MALE}Samo posiadanie ODZNAKI GŁAZU \nzwiększa siłę twoich POKéMONÓW.\pPozwala także na użycie ruchu\nBŁYSK poza walką.\pOczywiście twój POKéMON musi znać\ntechnikę BŁYSKU, by jej użyć.
 Zaczekaj!\nWeź jeszcze to.
 {PLAYER} dostaje TM39\nod BROCKA.
 TM, Techniczna Maszyna, zawiera\ntechnikę dla POKéMONA.\pUżywając TM uczysz zawartego weń\nataku jednego z POKéMONÓW.\pWszystkie TM są jednorazowe.\pWięc, używając go, ostrożnie\nwybieraj POKéMONY.\pTak czy inaczej…\nTM39 zawiera KAMIENIOGRÓB.\pRzuca głazami we wroga\nobniżając SZYBKOŚĆ.
@@ -1147,7 +1147,7 @@ Nasz POKéMON to outsider, jest\nwybredny i ciężki do opanowania.\pOutsider, t
 POKéMONY rosnąc poznają nowe\ntechniki.\pAle niektórych ataków mogą je\nnauczyć tylko ludzie.
 POKéMON staje się łatwiejszy do\nzłapania pod wpływem zmian stanu.\pSen, zatrucie, poparzenia, paraliż…\nWszystkie pomagają.\pAle łapanie POKéMONÓW nigdy\nnie jest pewne!
 <<< FILE: maps/PewterCity_Mart/text.inc >>>
-Jakiś dziadek wrobił mnie w\nkupienie tej dziwnej ryby!\pStraszny z niej cieniarz, a kosztował\n¥500!
+Jakiś dziadek wrobił mnie w\nkupienie tej dziwnej ryby!\pStraszny z niej cieniarz,\na kosztował ¥500!
 Trenowanie POKéMONÓW z sercem\nmoże wyjść tylko na dobre.\pNawet słabe POKéMONY mogą cię\nzaskoczyć, jeśli się nie poddasz.
 <<< FILE: maps/PewterCity_Museum_1F/text.inc >>>
 Tak, tak.\nBilet dziecięcy kosztuje ¥50.\pCzy masz ochotę wejść?
@@ -1205,7 +1205,7 @@ Co?\nDlaczego przegrałem?\pNigdy nie popełniałem błędów\nw treningu…\pCh
 OAK: {PLAYER}!
 OAK: Więc wygrałeś!\nPrzyjmij szczere gratulacje!\pJesteś nowym MISTRZEM LIGI\nPOKéMON!\pUrosłeś od czasu, gdy pierwszy raz\nwyruszyłeś z {STR_VAR_1} do pracy\lnad POKéDEKSEM.\p{PLAYER}, dorosłeś.
 OAK: {RIVAL}...\nZawiodłeś mnie.\pWyruszyłem, gdy usłyszałem, że\npokonałeś ELITARNĄ CZWÓRKĘ.\pAle, gdy dotarłem, zdążyłeś\njuż przegrać!\p{RIVAL}, rozumiesz dlaczego\nprzegrałeś?\pZapomniałeś trenować swoje POKéMONY\nz miłością i zaufaniem!\pBez tego, nigdy już nie odzyskasz\ntytułu MISTRZA!
-OAK: {PLAYER}.\pMusisz zrozumieć, że twoje zwycięstwo,\nto nie tylko twoja zasługa.\pTo głównie robota twoich\nwspaniałych POKéMONÓW.\p{PLAYER}!\nIdź za mną!
+OAK: {PLAYER}.\pMusisz zrozumieć,\nże twoje zwycięstwo,\pto nie tylko twoja zasługa.\pTo głównie robota twoich\nwspaniałych POKéMONÓW.\p{PLAYER}!\nIdź za mną!
 <<< FILE: maps/PokemonLeague_HallOfFame/text.inc >>>
 OAK: Er-hem!\nGratuluję, {PLAYER}!\pTo pomieszczenie, to HALA SŁAWY LIGI\nPOKéMON.\pMISTRZOWIE LIGI POKéMON\nhonorowani są tu za swoje zasługi.\pTakże dane o ich POKéMONACH\nzapisywane są w HALI SŁAWY.\p{PLAYER}!\pCiężko pracowałeś, by stać się\nMISTRZEM LIGI POKéMON.\pBrawo, {PLAYER}, ty i twoje POKéMONY\njesteście członkami HALI SŁAWY!
 <<< FILE: maps/PokemonLeague_LancesRoom/text.inc >>>
@@ -1355,7 +1355,7 @@ Dobra, idź se!\pAle bez KLUCZA nie uruchomisz\nwindy.
 <<< FILE: maps/RocketHideout_B4F/text.inc >>>
 No! Muszę przyznać, że jestem pod\nwrażeniem.\pZESPÓŁ R łapie POKéMONY z całego\nświata.\pSą ważnymi narzędziami nakręcającymi\nnasz przestępczy interes.\pJestem przywódcą grupy, GIOVANNI!\pZa twoją ciekawość, zostaniesz srogo\nukarany!
 CO!\nNiemożliwe!
-Widzę, że szczególnie troskliwie\ntrenujesz POKéMONY.\pDziecko takie jak ty, nigdy nie\nzrozumie co chcę osiągnąć.\pRuszam.\pMam nadzieję, że jeszcze się spotkamy…
+Widzę, że szczególnie troskliwie\ntrenujesz POKéMONY.\pDziecko takie jak ty, nigdy nie\nzrozumie co chcę osiągnąć.\pRuszam.\pMam nadzieję,\nże jeszcze się spotkamy…
 Znam cię!\nPokrzyżowałeś szyki na GÓRZE MOON!
 Znowu!!
 Masz coś przeciwko ZESPOŁOWI R?
@@ -1447,8 +1447,8 @@ ELEKTROWNIA
 Typy POKéMONÓW różnie na\nsiebie oddziałują.\pKażdy z typów ma plusy i minusy w\nwalce z różnymi innymi typami.
 SAMORODEK jest bezużyteczny.\nSprzedam go za ¥5000.
 Podobno duchy nawiedzają\nLAVENDER TOWN.
-Och… {PLAYER}!\nSzukałem cię!\pTo ja, jestem jednym z POMOCNIKÓW\nPROFESOR OAKA.\pJeżeli twój POKéDEX ma zapisane dane przynajmniej\ndwudziestu gatunków, mam dać ci\lnagrodę od PROFESORA OAKA.\pPowierzył mi ten oto\nWIECZNY KAMIEŃ.\pWięc, {PLAYER}, pozwól, że zapytam.\pCzy zebrałeś dane przynajmniej\ndwudziestu gatunków POKéMONÓW?
-Świetnie! Złapałeś już\n{STR_VAR_3} gatunków POKéMONÓW!\pGratuluję!\nProszę bardzo!
+Och… {PLAYER}!\nSzukałem cię!\pTo ja, jestem jednym z POMOCNIKÓW\nPROFESOR OAKA.\pJeżeli twój POKéDEX\n ma zapisane dane przynajmniej\pdwudziestu gatunków, mam dać ci\lnagrodę od PROFESORA OAKA.\pPowierzył mi ten oto\nWIECZNY KAMIEŃ.\pWięc, {PLAYER}, pozwól, że zapytam.\pCzy zebrałeś dane przynajmniej\ndwudziestu gatunków POKéMONÓW?
+Świetnie! Złapałeś już\n{STR_VAR_3} gatunków POKéMONÓW!\pGratuluję!\nOto obiecany przedmiot!
 {PLAYER} dostaje WIECZNY KAMIEŃ\nod POMOCNIKA.
 Ewoluowanie POKéMONÓW z pewnością\npomaga uzupełniać POKéDEX.\pJednak czasami, możesz nie\nchcieć, by któryś POKéMON\pewoluował.\nWtedy temu POKéMONOWI wręcza\psię WIECZNY KAMIEŃ.\nWedług PROFESORA, nie pozwoli\nmu na ewoluowanie.
 <<< FILE: maps/Route11/text.inc >>>
@@ -1491,7 +1491,7 @@ Jeśli chcesz dostać się do LAVENDER\nTOWN idź TUNELEM SKAŁ.\pDo TUNELU SKA�
 Hej! Pamiętasz mnie?\nJestem POMOCNIKIEM OAKA.\pJeżeli twój POKéDEX zarejestrował\ndane {STR_VAR_1} gatunków, mam dać ci\lnagrodę.\pPROF. OAK powierzył mi\n{STR_VAR_2}, który mam ci przekazać.\pWięc, {PLAYER}, pozwól, że zapytam.\pCzy masz już dane przynajmniej\n{STR_VAR_1} gatunków POKéMONÓW?
 Świetnie! Złapałeś już\n{STR_VAR_3} gatunków POKéMONÓW!\pGratuluję!\nOto obiecany przedmiot!
 {PLAYER} dostaje {STR_VAR_2}\nod POMOCNIKA.
-Na ziemi leżą przedmioty, które\nniewidoczne są gołym okiem.\pUżywając RZECZOSZUKACZA\nwykryjesz ukryty przedmiot.\pNiestety są pewne ograniczenia.\nNie wykrywa miejsca ukrycia przedmiotu.\pMoże pokazać najwyżej kierunek,\nw którym powinieneś szukać.\pPotwierdź nim przypuszczenia\ni przeszukaj teren ręcznie.
+Na ziemi leżą przedmioty, które\nniewidoczne są gołym okiem.\pUżywając RZECZOSZUKACZA\nwykryjesz ukryty przedmiot.\pNiestety są pewne ograniczenia.\nNie wykrywa miejsca\pukrycia przedmiotu.\pMoże pokazać najwyżej kierunek,\nw którym powinieneś szukać.\pPotwierdź nim przypuszczenia\ni przeszukaj teren ręcznie.
 Zobaczmy, co widać przez tę\nlornetkę…\pWielki POKéMON drzemie na drodze!
 Zobaczmy, co widać przez tę\nlornetkę…\pZapierający dech w piersi widok!
 Zobaczmy, co widać przez tę\nlornetkę…\pBy dostać się do LAVENDER TOWN z\nCERULEAN CITY…\pDobrą drogą wydaje się być\nTUNEL SKAL.
@@ -1537,10 +1537,10 @@ Jestem młodszym bratem\nRYBACKIEGO GURU.\pKooocham łowić ryby!\nNie wytrzymuj
 Świetnie! Podoba mi się twój styl.\nZostańmy kumplami.\pWeź to i łów, przyjacielu!
 {PLAYER} dostaje SUPER WĘDKĘ\nod brata RYBACKIEGO GURU.
 Łowienie jest cudowne!\nTo jak najwspanialsza poezja.\pPrzez morza i rzeki, ruszaj, by\nzłowić największą rybę, przyjacielu.\pA teraz, mam do ciebie prośbę.\pJeśli złapiesz tą wędką\ndużego MAGIKARPIA, pokaż mi go.\pTak samo, jak łowienie, kocham\noglądać olbrzymie MAGIKARPIE.
-Och…\nZawodzisz mnie…
+Och…\nZawiodłeś mnie…
 Witaj, {PLAYER}!\nŁowiłeś ostatnio?\pSpróbuj używać SUPER WĘDKI we\nwszystkich zbiornikach wodnych.\pW różnych miejscach znajdują się\nróżne POKéMONY.\pOch i nie zapomnij przynieść mi\nwielkiego MAGIKARPIA!
 Oh? {PLAYER}?\nCzyż to nie MAGIKARP!\pSzybko, pozwól, że go zobaczę!
-… … …Łoł!\n{STR_VAR_2} cali!\pWidać, że masz żyłkę do tej\nniesamowitej sztuki zwanej wędkowaniem.\pMusisz to wziąć.\nNalegam!
+… … …Łoł!\n{STR_VAR_2} cali!\pWidać, że masz żyłkę do tej\nniesamowitej sztuki\pzwanej wędkowaniem.\pMusisz to wziąć.\nNalegam!
 Z niecierpliwością czekam na coraz\nlepsze wyniki!
 Huh?\n{STR_VAR_2} cali?\pJest tak samo wielki, jak ten\npoprzedni.
 Hmm…\nTen ma {STR_VAR_2} cali długości.\pJest dużo mniejszy niż ten\n{STR_VAR_3} calowy, którego miałeś wcześniej.
@@ -1676,9 +1676,9 @@ RON: Chcesz walczyć ze mną i\nmoją siostrą?\pPotrzebujesz więc dwóch POKé
 Ty jesteś dzieciakiem pracującym\nnad POKéDEKSEM?\pZjawił się POMOCNIK OAKA.
 <<< FILE: maps/Route15_WestEntrance_2F/text.inc >>>
 Hej! Pamiętasz mnie?\nJestem POMOCNIKIEM OAKA.\pJeżeli twój POKéDEX zarejestrował\ndane {STR_VAR_1} gatunków, mam dać ci\lnagrodę.\pPROF. OAK powierzył mi\n{STR_VAR_2}, który mam ci przekazać.\pWięc, {PLAYER}, pozwól, że zapytam.\pCzy masz już dane przynajmniej\n{STR_VAR_1} gatunków POKéMONÓW?
-Świetnie! Złapałeś już\n{STR_VAR_3} gatunków POKéMONÓW!\pGratuluję!\nOto obiecany przedmiot!
+Świetnie!\nZłapałeś już\n{STR_VAR_3} gatunków POKéMONÓW!\pGratulacje!\nOto obiecany przedmiot!
 {PLAYER} dostaje {STR_VAR_2}\nod POMOCNIKA.
-ROZDZIELACZ to przedmiot do trzymania\nprzez POKéMONA.\pPOKéMON otrzymywał będzie\nudział w doświadczeniu\lnie musząc walczyć.
+ROZDZIELACZ to przedmiot do\ntrzymania przez POKéMONA.\pPOKéMON otrzymywał będzie\nudział w doświadczeniu\lnie musząc walczyć.
 Ciekawe co widać przez tę\nlornetkę…\pOlbrzymi, lśniący ptak przelatuje\nnad morzem.
 Ciekawe co widać przez tę\nlornetkę…\pWygląda jak mała wyspa na\nhoryzoncie!
 <<< FILE: maps/Route16/text.inc >>>
@@ -1693,7 +1693,7 @@ Ty szczurze!
 Nie cierpię przegrywać!\nZjeżdżaj!
 Hej, wpadłeś na mnie!
 Kabum!
-Będziemy tu siedzieć, nawet jeśli\ntobie to nie odpowiada.\pMożesz obrać inną drogę do VERMILION z\nFUCHSIA ruszając po wybrzeżu.
+Będziemy tu siedzieć, nawet jeśli\ntobie to nie odpowiada.\pMożesz obrać inną drogę do VERMILION\nz FUCHSIA ruszając po wybrzeżu.
 Jestem głodny i zły!\nPotrzebuję worka treningowego!
 Źle, źle, źle!
 Jeśli mam mieć POKéMONY, muszą\nbyć potężne!\pKiedyś używałem ich do\npozostawiania wrogów w strzępach.
@@ -1730,7 +1730,7 @@ Ciekawe co widać przez tę\nlornetkę…\pDaleko stąd jest długa ścieżka\nw
 Cześć, pamiętasz mnie?\nJestem POMOCNIKIEM OAKA.\pJeśli twój POKéDEX zawiera dane\nprzynajmniej 40 gatunków, mam\ldać ci nagrodę.\pPROF. OAK powierzył mi\ntajemniczą MONETE AMULET.\pWięc, {PLAYER}, pozwól, że spytam.\pCzy zebrałeś dane przynajmniej\n40 gatunków POKéMONÓW?
 Świetnie! Złapałeś już\n{STR_VAR_3} gatunków POKéMONÓW!\pGratuluję!\nOto obiecany przedmiot!
 {PLAYER} dostaje MONETĘ AMULET\nod POMOCNIKA.
-MONETA AMULET to przedmiot do\ntrzymania.\pJeśli POKéMON ten pojawi się w\nzwycięskiej walce, zdobędziesz więcej pieniędzy.
+MONETA AMULET to przedmiot do\ntrzymania.\pJeśli POKéMON ten pojawi się w\nzwycięskiej walce,\pzdobędziesz więcej pieniędzy.
 <<< FILE: maps/Route17/text.inc >>>
 Nie łatwo wzbogacić się walcząc\nz dzieciakami.
 Wypalony!
@@ -1865,7 +1865,7 @@ WYSPY SEAFOAM
 W tych rejonach łatwo spotkać\nSilnych TRENERÓW i WODNE POKéMONY.\pPodobno MISTY z CERULEAN CITY\njest tu częstym gościem.
 <<< FILE: maps/Route21_North/text.inc >>>
 Chcesz wiedzieć, czy łapią\nryby?
-Nie!
+Ojej!
 Nie mogę złapać żadnego dobrego\nPOKéMONA! I jak ja mam grać?
 Mam wielką zdobycz!\nPomożesz mi?
 Heheh, MAGIKARP chyba nie\nwystarczy, co?
@@ -1985,11 +1985,11 @@ Na monitorze wyświetlony jest\nTELEPORTER.
 Lista ulubionych POKÓW BILLA!
 Którego POKéMONA obejrzeć?
 <<< FILE: maps/Route2_EastBuilding/text.inc >>>
-Hej! Pamiętasz mnie?\nJestem jednym z POMOCNIKÓW OAKA.\pJeśli twój POKéDEX zanotował\ndane 10 gatunków, mam dać ci\lpewną nagrodę.\pPROF. OAK powierzył mi do przekazania\nHM05.\pWięc, {PLAYER}, pozwól, że spytam.\pCzy zebrałeś już dane, chociaż\n10 gatunków POKéMONÓW?
-Świetnie!\nZłapałeś już\n{STR_VAR_3} gatunków POKéMONÓW!\pGratulacje!\nOto obiecany przedmiot!
+Hej! Pamiętasz mnie?\nJestem jednym z POMOCNIKÓW OAKA.\pJeśli twój POKéDEX zanotował\ndane 10 gatunków, mam dać ci\lpewną nagrodę.\pPROF. OAK powierzył mi do \nprzekazania HM05.\pWięc, {PLAYER}, pozwól, że spytam.\pCzy zebrałeś już dane, chociaż\n10 gatunków POKéMONÓW?
+Świetnie! Złapałeś już\n{STR_VAR_3} gatunków POKéMONÓW!\pGratuluję!\nProszę bardzo!
 {PLAYER} dostaje HM05\nod POMOCNIKA
 HM05 zawiera ukryty ruch\nBŁYSK.\pBŁYSK oświetla nawet najciemniejsze\njaskinie i lochy.
-Dzięki BŁYSKOWI będziesz mógł przejść\nprzez TUNEL SKAŁ.
+Dzięki BŁYSKOWI będziesz mógł\nprzejść przez TUNEL SKAŁ.
 <<< FILE: maps/Route2_House/text.inc >>>
 Zemdlony POKéMON nie ma już\nenergii do walki.\pPotrafi jednak jeszcze używać ruchu\nCIĘCIE poza walką.
 <<< FILE: maps/Route2_ViridianForest_NorthEntrance/text.inc >>>
@@ -2036,11 +2036,11 @@ DROGA 4\nGÓRA MOON - CERULEAN
 Cios grzmiącej srogości!\pOpakowany w destrukcyjną potęgę!\pGdy mają polecieć wióry,\nMEGA PIĘŚĆ to najlepszy atak!\lZgadzasz się ze mną, nie?\pTeraz!\nNauczę tego twego POKéMONA!
 Wrócisz, gdy zrozumiesz wartość\nMEGA PIĘŚCI.
 Świetnie!\nKtóry POKéMON to poznać?
-Teraz, jesteśmy towarzyszami\npięści!\pLepiej już idź, zanim zauważy cię ten\nnieukierunkowany dureń, który uczy\ltylko swojego nędznego kopania.
+Teraz, jesteśmy towarzyszami\npięści!\pLepiej już idź, zanim zauważy cię\nten nieukierunkowany dureń,\p który uczy tylko\lswojego nędznego kopania.
 Kop brutalnej srogości!\pOpakowany w destrukcyjną potęgę!\pGdy wróg ma paść na kolana,\nMEGA KOP to najlepszy atak!\lZgadzasz się ze mną?\pŚwietnie!\nNauczę go twojego POKéMONA!
 Przypełzniesz na kolanach, gdy\nzrozumiesz wartość MEGA KOPNIAKA.
 Wspaniale!\nKtóry POKéMON chce to poznać?
-Teraz jesteśmy braćmi kierunku\nkopania!\pLepiej już uciekaj, zanim zwiedzie cię\nten ciemniak, który bawi się tylko\lw banalne kuksańce.
+Teraz jesteśmy braćmi kierunku\nkopania!\pLepiej już uciekaj,\nzanim zwiedzie cię ten ciemniak,\p który bawi się tylko\l w banalne kuksańce.
 Och, łoł, to ODZNAKA GŁAZU!\nDostałeś ją od BROCKA, prawda?\pBROCK jest świetny. Nie tylko silny.\nLudzie lubią go i szanują.\pChciałbym zostać LIDEREM SALI, tak\njak on.
 <<< FILE: maps/Route4_PokemonCenter_1F/text.inc >>>
 Okej, sześć POKé BALLI przy\nmoim pasie…\pTak, wystarczy. Maksymalnie, możesz\nmieć ze sobą 6 POKéMONÓW.
@@ -2259,7 +2259,7 @@ Moja córka jest straszną\negoistką. Mimo to ma przyjaciół.
 Moja córka lubi przedrzeźniać ludzi.\nTrochę to denerwujące.\pTeraz wszyscy nazywają ją\ntutaj COPYCAT.
 CHANSEY: Chaan! Sii!
 <<< FILE: maps/SaffronCity_CopycatsHouse_2F/text.inc >>>
-{PLAYER}: Hej!\nLubisz POKéMONY?\p{PLAYER}: Ej no! Ja o to pytam.\p{PLAYER}: Że co?\nJesteś dziwna!\pCOPYCAT: Hmm? Przestać cię przedrzeźniać?\nAle to moje hobby!
+{PLAYER}: Hej!\nLubisz POKéMONY?\p{PLAYER}: Ej no! Ja o to pytam.\p{PLAYER}: Że co?\nJesteś dziwna!\pCOPYCAT: Hmm? \nPrzestać cię przedrzeźniać?\pAle to moje hobby!
 {PLAYER}: Hej.\nPewnie lubisz POKéMONY.\p{PLAYER}: Hej!\nTo ja o to pytam.\p{PLAYER}: Słucham?\nJesteś dziwna!\l \lCOPYCAT: Hmm? Przestać\lprzedrzeźniać? Ale to moje hobby!
 Och łał!\nPOKé LALKA!\pDla mnie?\nDziękuję!\pWiesz co?\nMogę nauczyć cię ruchu MIMIKRA.
 Nie chcesz MIMIKRY?
@@ -2300,7 +2300,7 @@ Wszędzie wrogowie!
 Co ma wisieć nie utonie.
 WALECZNE DOJO
 <<< FILE: maps/SaffronCity_Gym/text.inc >>>
-Miałam wizję, w której widziałam\ptwoje przybycie.\nMam psychiczne moce\pod dziecka.\nWszystko zaczęło się od\pwygięcia się rzuconej łyżki.\nNie lubię walczyć, ale jeśli chcesz pokażę ci co umiem! {PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}
+Miałam wizję, w której widziałam\ntwoje przybycie.\pMam psychiczne moce\nod dziecka.\pWszystko zaczęło się od\nwygięcia się rzuconej łyżki.\pNie lubię walczyć, ale jeśli chcesz\npokażę ci co umiem!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}
 Szokuje mnie ta porażka!\nAle strata to strata.\pPrzyznaję, nie byłam zbyt dobra\nby wygrać.\pTwoje zwycięstwo nagrodzi\nODZNAKA BAGNA.
 Siła psychiczna nie jest\nzarezerwowana dla wybranych.\pWszyscy mają takie zdolności.\nNie zdajemy sobie z tego sprawy.
 ODZNAKA BAGNA wymusza posłuszeństwo\nu POKéMONÓW do Lv. 70.\pSilniejsze POKéMONY nadal będą\nszaleć ignorując rozkazy.\pŻeby uniknąć tego problemu, nie\ntrenuj zbyt mocno swoich POKéMONÓW.\pCzekaj, weź jeszcze to TM.
@@ -2343,7 +2343,7 @@ OCUCACZ kosztuje, ale\nocuci zemdlone POKéMONY!
 <<< FILE: maps/SaffronCity_MrPsychicsHouse/text.inc >>>
 …Czekaj! Nic nie mów!\pJesteś tutaj po to!
 {PLAYER} dostaje TM29\nod PANA PSYCHIKA.
-Wiesz to, prawda?\nTM29 to PSYCHOKINEZA.\pTo atak, który obniża także specjalne\nstatystyki celu.
+Wiesz to, prawda?\nTM29 to PSYCHOKINEZA.\pTo atak, który obniża także\nspecjalne statystyki celu.
 Gdzie chcesz to wpakować?\nNie masz miejsca.
 <<< FILE: maps/SaffronCity_PokemonCenter_1F/text.inc >>>
 Tempo wzrostu POKéMONÓW różni\nsię między gatunkami.
@@ -2352,7 +2352,7 @@ Ech…\nCzy to nie byłoby świetne?\pELITARNA CZWÓRKA przybywa\ni niszczy ZESP
 Przegnano ZESPÓŁ R!\nMożemy bezpiecznie wyjść!\lWspaniale!
 <<< FILE: maps/SaffronCity_PokemonTrainerFanClub/text.inc >>>
 Co?\nTy…
-Jesteś chyba…\n… …\pJesteś!\nJesteś {PLAYER}!\pWłaśnie o tobie mówiliśmy!\pRozmawialiśmy o wspaniałym\nTRENERZE, który ostatnio się ujawnił.\pA ten ktoś to właśnie ty!\nJesteś taki świetny!\pZdecydowaliśmy się zostać twoim\nFANKLUBEM!\pMamy nadzieję, że będziesz dla nas\nwalczył i pokazywał, jaki jesteś\pświetny.\nMoże w ten sposób i inni ludzie zostaną fanami.
+Jesteś chyba…\n… …\pJesteś!\nJesteś {PLAYER}!\pWłaśnie o tobie mówiliśmy!\pRozmawialiśmy o wspaniałym TRENERZE,\nktóry ostatnio się ujawnił.\pA ten ktoś to właśnie ty!\nJesteś taki świetny!\pZdecydowaliśmy się zostać twoim\nFANK LUBEM!\pMamy nadzieję, że będziesz dla nas\nwalczył i pokazywał, jaki jesteś\pświetny.\pMoże w ten sposób i inni\nludzie zostaną fanami.
 Zawsze będę cię dopingować!\pRuszaj, {PLAYER}!
 Zawszę będę w ciebie wierzyć,\n{PLAYER}.\pProszę, pokaż innym, jaki jesteś\npoważny w walce!
 Przepraszam.\nByłem twoim fanem.\pAle teraz, wydaje mi się, że\nzatraciłeś swoje zaangażowanie.\pOstatnio myślę, że\n{STR_VAR_1} jest wspanialszy!
@@ -2370,7 +2370,7 @@ Ah, to ty jesteś ten\ncały {PLAYER}.\pW rzeczy samej, masz\ncoś z prawdziwego
 Zebraliśmy się tu, jako fani\nTRENERÓW POKéMON.\pSposób, w jaki wyglądają w walce…\nSą przykładem wspaniałości.\pMoże i o tobie będzie kiedyś\ngłośno, jeśli będziesz wygrywał.
 To {PLAYER}!\nTo {PLAYER}!\pTeż chcę być kiedyś taki jak {PLAYER}!
 Wszyscy przestali być fanami\n{PLAYER}…\pAle to znaczy, że cały {PLAYER}\njest tylko dla mnie!\pJupi! Dawaj!\nMój jedyny {PLAYER}!
-Wiesz co?\nChcę być taka jak SABRINA!\pChcę zostać psychiczną dziewczynką tak\njak ona!
+Wiesz co?\nChcę być taka jak SABRINA!\pChcę zostać psychiczną dziewczynką\ntak jak ona!
 Nawet jako jedyna, nie przestanę\nbyć fanką SABRINY!\pMoje marzenie, to być jak SABRINA,\nsłodką, ale i fajną.\pChcę być taką psychiczką jak ona!
 Ciekawe, czy zostanę kiedyś\nfajnym TRENERER?
 Ojej, jej, jej!\nFajny! Zbyt fajny!\p…Co?\nNie, nie ty.\pTylko sposób, w jaki walczysz.\nFajny.
@@ -2384,7 +2384,7 @@ Och, witaj!\nCzyż to nie {PLAYER}!\pOstatnio wszyscy o tobie mówią.\nTo troch
 Niesamowite!\n{PLAYER}, jesteś wspaniały!\pMoże zamiast zwykłego przyglądania\nsię, też zostanę TRENEREM!
 Jestem twoim jedynym fanem…\nEch… Samotność…\pNie możesz starać się mocniej,\nby inni cię dostrzegli?
 Mistrz {STR_VAR_1} jest taki super…\nJest w moim typie.\pCzemu inni nie widzą\nwspaniałości, którą promieniuje?
-Wierzę w Mistrza {STR_VAR_1}\ncałym moim sercem.\pNawet, jeśli muszę być jedynym,\nktóry wierzy.\pNie czuje się jednak samotny.\pNie, tak długo, jak będę myślał o Mistrzu\n{STR_VAR_1}.
+Wierzę w Mistrza {STR_VAR_1}\ncałym moim sercem.\pNawet, jeśli muszę być jedynym,\nktóry wierzy.\pNie czuje się jednak samotny.\pNie, tak długo,\njak będę myślał\p o Mistrzu\n{STR_VAR_1}.
 Witaj!\pTwój styl walki jest naprawdę\nciekawy.\pMam nadzieję, że nadal będziesz\npokazywał klasę.
 Zamiast przyglądania się walkom,\nsam zacznij walczyć!\p…Tak właśnie powiedział mi mój\nMISTRZ DOJO…\pAle nie pozwolę, by to powstrzymało\nmnie od bycia twoim fanem!\pPowodzenia!
 Witaj! Jest tylko jeden TRENER\nmający mój szacunek.\pI jest to nikt inny jak MISTRZ\nz mojego WALECZNEGO DOJO.\pSam powinieneś zostać fanem\nmojego MISTRZA!
@@ -2397,7 +2397,7 @@ Niebezpiecznie używać tego w tym\ntunelu…
 Rada: Kamienie mogą zmienić\nbieg wody.
 UWAGA\nOstry prąd!
 <<< FILE: maps/SevenIsland/text.inc >>>
-Niewiele ludzi tu przychodzi.\pJeśli będę tu trenować, jestem pewien,\nże stanę się super silny.\pTak, coraz silniejszy…\pChciałbyś się nauczyć ataku tego\ntypu? Nazywa się TANIEC MIECZY.
+Niewiele ludzi tu przychodzi.\pJeśli będę tu trenować,\njestem pewien,\pże stanę się super silny.\pTak, coraz silniejszy…\pChciałbyś się nauczyć ataku tego\ntypu? Nazywa się TANIEC MIECZY.
 No to spoko.
 Świetnie, wybierz POKéMONA,\nktóry ma go poznać.
 Gdybyśmy i my mogli stawać\nsię coraz silniejsi, nie?
@@ -2422,7 +2422,7 @@ Szkoda!\nWydajesz się lekko zawiedziony.\pJednak, ten zawód spowoduje,\nże st
 <<< FILE: maps/SevenIsland_Mart/text.inc >>>
 POKéMONY mają własne osobowości,\ntak samo, jak ludzie.\pMój PIKACHU jest PORYWCZY, więc\nwyrósł na szybkiego POKéMONA.
 Okej, moje przygotowania do\nzwiedzania RUIN zakończone.
-Muszę połowić na WYSPIE SEVEN.\pDzięki temu zaliczę całą\nwycieczkę łowiecką po\pWYSPACH SEVII.\nLepiej jednak najpierw kupić trochę POKé BALLI.
+Muszę połowić na WYSPIE SEVEN.\pDzięki temu zaliczę całą\nwycieczkę łowiecką po\pWYSPACH SEVII.\pLepiej jednak najpierw\nkupić trochę POKé BALLI.
 <<< FILE: maps/SevenIsland_PokemonCenter_1F/text.inc >>>
 Na tej wyspie, zależnie od połączeń\ndzieją się różne rzeczy.\pCo to za połączenia?\pTo niestety, musisz odkryć\nna własną rękę.
 Przypłynąłeś tutaj promem\nSEAGALLOP?\pTakich statków pływa przynajmniej\ndziesięć.\pNiestety, nie wiem dokładnie,\ngdzie płynie każdy.
@@ -3058,7 +3058,7 @@ Okej, uruchomię zegar, więc\npostaraj dać z siebie wszystko.\pDo biegu…\pGo
 Prosimy o ponowną wizytę!
 Szkoda.\pSądzę, że włożyłeś wiele wysiłku w\nprowadzone tutaj walki.\pDo następnego razu!
 Daj z siebie wszystko.
-Gdy TRENERZY zmieniają się\nmiejscami, ruchy mogą oszaleć.\pBy uniknąć zamieszania, przenieśliśmy\nrecepcję tutaj.\pPrzepraszamy za niedogodności.
+Gdy TRENERZY zmieniają się\nmiejscami, ruchy mogą oszaleć.\pBy uniknąć zamieszania,\nprzenieśliśmy recepcję tutaj.\pPrzepraszamy za niedogodności.
 Witaj…\pJestem właścicielem WIEŻY…\pJak przyjemnie wiatr\nwieje na tym dachu…\pDelikatnie muskają szczyt wieży…\pWszystko jest tak idealne…\pSposób twojej walki…\nTeż był idealny…
 To dla ciebie…
 Och!\nWspaniale!\pTo niesamowite, że dostałeś się tu\ntak szybko.\pPrawda jest taka, że zrobiłeś to\nw rekordowym czasie…\pPrzy recepcji pojawi się\nzaraz twój nowy rekord.
@@ -3081,7 +3081,7 @@ Witaj! Robię co mogę.\nMam nadzieję, że ty też, {PLAYER}.
 O, cześć, {PLAYER}!\nWitaj!\pZacząłem sprowadzać przedmioty z\nodległych krain.\pMam też różne rzadkie przedmioty.\nProszę, rozejrzyj się!
 Ten koleś. Przeprowadził się tu\nz CELADON CITY.\pOtworzył tu sklep ze swoim\nmłodszym braciszkiem.\pZastanawiam się, czy wie, w co\nsię wpakował.
 Brat sklepikarza wziął robotę\nw SALONIE GIER.\pStara się zdobyć trochę grosza,\nby kupić więcej towaru.
-Słuchaj, słuchaj!\nWiesz co?\pJakiś sławny TRENER przybył\nniedawno na tę WYSPĘ.\pJest członkiem ELITARNEJ CZWÓRKI.\nNazywa się BRUNO.\pOdszedł bardzo zawiedziony, gdy\ndowiedział się, że sprzedali wszystkie\lWściekłe Batoniki.
+Słuchaj, słuchaj!\nWiesz co?\pJakiś sławny TRENER przybył\nniedawno na tę WYSPĘ.\pJest członkiem ELITARNEJ CZWÓRKI.\nNazywa się BRUNO.\pOdszedł bardzo zawiedziony, gdy\ndowiedział się, że sprzedali \lwszystkie Wściekłe Batoniki.
 Bystry TRENER wie, że tu\nkupuje się rzadkie rzeczy!
 Żyje pewna staruszka, która\nmieszka w chacie na przylądku.\pPrzygląda się dziwnie POKéMONOM.\nTrochę to dziwne.
 Skok! Skok!\nPróbowałeś skaczącej gry?\pPOKéMONY, które mogą uczestniczyć…\nSkok!\pNiektóre skaczą!\pA niektóre skaaaaaaaczą!\pWiedziałeś to?\nSkok!

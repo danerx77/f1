@@ -46,17 +46,17 @@ Tego ruchu można nauczyć się\ntylko raz. Ok?
 <<< FILE: mystery_event_msg.s >>>
 Dziękujemy za korzystanie z\nsystemu KARTY PIECZĄTEK.\pMasz jeszcze {STR_VAR_1} do zebrania, aby\nwypełnić swoją KARTĘ Z NAKLEJKAMI.
 Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pZ POKéMON CENTER mamy\nprezent POKéMONOWE JAJO!\pProszę wychowuj go z\nmiłością i życzliwością.
-Och, wygląda na to, że twoja drużyna jest pełna.\pProszę, przyjdź do mnie\npo umieszczeniu POKéMONA w PC.
+Och, wygląda na to,\nże twoja drużyna jest pełna.\pProszę, przyjdź do mnie\npo umieszczeniu POKéMONA w PC.
 Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pTrzymając tę KARTĘ CUDU,\nmożesz wziąć udział w\lankiecie w POKéMON MARKT.\pUżyj tych ankiet, aby\nzaprosić TRENERÓW na WYSPY SEVII.\p…Pozwól, że dam ci\ntajne hasło do ankiety:\p“GIVE ME\nAWESOME TRAINER”\pNapisz to w\nankiecie i wyślij do\lSYSTEMU KOMUNIKACJI BEZPRZEWODOWEJ.
 Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pTRENER przybył na WYSPY\nSEVII szukając ciebie.\pMamy nadzieję, że spodoba ci\nsię walka z odwiedzającym TRENEREM.\pMożesz zaprosić innych TRENERÓW,\nwprowadzając inne hasła.\pSpróbuj poszukać innych haseł,\nktóre mogą działać.
-Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pTwoja KARTA LICZNIKA WALK śledzi\nTwój rekord walk z\lTRENERAMI posiadającymi tę samą KARTĘ.\pSzukaj i walcz z TRENERAMI, którzy\nmają taką samą KARTĘ jak ty.\pMożesz sprawdzić ogólne\nrankingi, czytając AKTUALNOŚCI.\pProszę, spróbuj tego!
+Dziękujemy za korzystanie z\nsystemu MYSTERY GIFT.\pTwoja KARTA LICZNIKA WALK śledzi\nTwój rekord walk z\pTRENERAMI posiadającymi tę \lsamą KARTĘ.\pSzukaj i walcz z TRENERAMI, którzy\nmają taką samą KARTĘ jak ty.\pMożesz sprawdzić ogólne\nrankingi, czytając AKTUALNOŚCI.\pProszę, spróbuj tego!
 Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT\pGratulacje!\pYou have won a prize for winning\nthree battles!\pWe hope you will be inspired to\nbattle some more.
 Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT\pMusisz być {PLAYER}.\nTu jest bilet dla ciebie.
 Wygląda na to, że jest przeznaczone\ndo użytku w porcie MIASTA VERMILION.\pDlaczego by nie spróbować i nie\nzobaczyć, o co w tym chodzi?
 Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT
-Och, przepraszam {PLAYER}. Kieszeń, na\n KLUCZOWE PRZEDMIOTY w TWOJEJ TORBIE jest.\ppełna Zapisz coś na swoim PC,\na następnie wróć po to.
+Och, przepraszam {PLAYER}. Kieszeń, na\n KLUCZOWE PRZEDMIOTY w TWOJEJ TORBIE\pjest pełna. Zapisz coś na swoim PC,\na następnie wróć po to.
 Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT\pMusisz być {PLAYER}.\nTu jest bilet dla ciebie.
 Wygląda na to, że jest przeznaczone\ndo użytku w porcie MIASTA VERMILION.\pDlaczego by nie spróbować i nie\nzobaczyć, o co w tym chodzi?
 Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT
-Och, przepraszam {PLAYER}. Kieszeń, na\n KLUCZOWE PRZEDMIOTY w TWOJEJ TORBIE jest.\ppełna Zapisz coś na swoim PC,\na następnie wróć po to.
-Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT\pOstatnio pojawiły się pogłoski\no rzadkich pojawienia się POKéMONÓW.\pPlotki krążą o ZMIENIONEJ\nJASKINI na WYSPIE OUTCAST.\pDlaczego więc nie odwiedzić tego miejsca\ni sprawdzić, czy plotki rzeczywiście są prawdziwe?
+Och, przepraszam {PLAYER}. Kieszeń, na\n KLUCZOWE PRZEDMIOTY w TWOJEJ TORBIE \pjest pełna. Zapisz coś na swoim PC,\na następnie wróć po to.
+Dziękujemy za korzystanie z\nSystemu MYSTERY GIFT\pOstatnio pojawiły się pogłoski\no rzadkich pojawienia się POKéMONÓW.\pPlotki krążą o ZMIENIONEJ\nJASKINI na WYSPIE OUTCAST.\pDlaczego więc nie odwiedzić tego\nmiejsca i sprawdzić, czy plotki\przeczywiście są prawdziwe?

@@ -504,7 +504,7 @@ Twoja GRA SAFARI kończy się,\ngdy przebyjesz określony dystans lub\lużyjesz 
 Jeśli chcesz zakończyć swoją GRĘ\nSAFARI wcześniej, otwórz MENU i wybierz\l“WYCOFAJ SIĘ” na górze listy.
 SALA POKéMON są prowadzone przez LIGĘ\nPOKéMON i są miejscami treningowymi dla\lTRENERÓW. Znajdują się one w\lcałym kraju w miastach i miasteczkach.\lKażdą z nich kieruje LIDER,\lktóry jest bardzo wykwalifikowanym TRENEREM.\lPokonaj LIDERA, aby zdobyć ODZNAKĘ.
  Użył “POKéDEX”
- Using “POKéMON”
+ Użył “POKéMON”
   Użył “PODSUMOWANIA”
   Użył “ZAMIANA”
   Użył “PRZEDMIOTU”
@@ -535,7 +535,7 @@ Użył PC
  Użył “PROF. OAK PC”
 Otwieranie MENU
  Użył “WALKI.”
- Użył “POKéMON”
+ Using “POKéMON”
   Using “ZMIANA”
   Użył “PODSUMOWANIA”
  Użył “TORBA”

@@ -115,7 +115,7 @@ Witaj ponownie!
 Czy chciałbyś zmienić swój\nprofil?
 Jaki jesteś teraz?\nBardzo chciałabym wiedzieć.
 Dobrze, podoba ci się taki jaki\njest.\pTeż tak sądzę.
-Hmhm…\pTwój profil naprawdę mówi coś na\ntemat ciebie.\pTeraz, skoro znam cię już lepiej,\njesteśmy na dobrej drodze do przyjaźni!
+Hmhm…\pTwój profil naprawdę mówi coś na\ntemat ciebie.\pTeraz, skoro znam cię już lepiej,\njesteśmy na dobrej\pdrodze do przyjaźni!
 Och, już to gdzieś słyszałam…\pTak zawsze mawiał mój kuzyn z\nbardzo, bardzo daleka.
 Proszę, powiedz mi kiedyś\ncoś o sobie!
 <<< FILE: scripts/repel.inc >>>
